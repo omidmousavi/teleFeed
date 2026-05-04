@@ -8,72 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ابونتوی 26.04 چند روز پیش منتشر شده مهم ترین ویژگی های اون مهاجرت کامل به wayland هستش که یه جراحی بزرگ به حساب می‌آد، توی خود ابونتو جستجوی هوشمند اضافه شده، بعضی برنامه های قدیمی ازش حذف شده و جدیدتر بهش اضافه شده همچنین جستجوی هوشمند هم بهش اضافه شده فقط تنها نکته منفیش اینه که دیگه پیشنیازش رم 4 نیست و رم 6 هست هرچند روی رم 4 هم  نسبتا خوب کار میکنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-04-28T20:04:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/npJVnUEfpe3Ln3w4EzefhIEZ7gccHKbBVqw1noKnnJ0GkLSQfuT6jXeP8p287wvehOYARB15O3IrMt2do_oLiM-FHi4z58yo__tvNMgUjcRL5QQfm49qHEHvBdfJ52lS9zkkX0fsb7ZQd14WR4jP0bzUfn5u1MjB60_USTguK2aAqVjU1ne4nIHZkrk_p117iMCYJuPwcygA5yxTilWvae_HccGXRyQ6RB-XBhVHqf_hzsOn3UOEJZJ0P9GKEmATuSrIMwuW7Fydgj-6XYNXjIUw2kSX2Csk4k3nuYSLsK5FSxrFRxRj_8tnOS_IjWAeOBgwIG1EtFrNfiY65QwIuw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "الان مد شده هر کسی می‌خواد یه ایده ای بالا بیاره بهش می‌گن MVP بیار بعد برو تو بازار کم کم بزرگش کن؛ حالا سوال اینجاست بازار مگه شعور اینو داره که از نی نی کوچولوی شما مراقبت و حمایت کنه؟ فکر نمی‌کنم اینطور باشه؛ شما الان یه پیام رسان بسازید ولی فقط بشه باهاش متن ارسال کرد و نشه عکس ارسال کرد، من قول بهتون میدم حتی یک نفرم حاضر به استفاده ازش نیست. پس بجای Minimum باید یه Baseline یا کف استاندارد بالا بیارید تا حالا شاید شانس اینو داشته باشید توی بازار زنده بمونید این کف استاندارد هم توی هر حوزه ای متفاوته بعضی جاها پایینه بعضی جاها بالا، هنر اینه که بگردید حوزه هایی که کف Baseline پایینه از اونجا شروع کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-04-29T05:59:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "خیلیا شاید سوال براشون باشه NPV چیه؟ ساده تر بخوام بگم NPV همون VPN هستش که فقط بر عکس نوشته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-04-29T19:08:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-04-30T14:28:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lTM4L2hxrBelCLXjRbmrq5HRTX4Gd4abbxaXMc07xy8IsP7Nmyz0t9ceiM7QgEY90X_E4wvUZ0wh49ofLB7qx7bunz8Uyjmj8NH4Ch9fGKe7pyjhi7tHyV63PQSpiW13dl0VPACvFYSS4QR-jRHe1cuYS_bf5DR6J5h-ZP-hDEb8iUg-2YdQ7MZZ_IWxGxnFX-6sWbNWBG6VujogQlSD0IJoKZ0g0lsDgi0zp4JrME1mURcqRGHFimX1nIthXgL2NUNaxKxswWvNXqKCYqKD4G2PqUU-PSgVOcobH0CQo0jDdHI6NxLU4iu7knBUNzG2jFzQVslfNqQmlz5JhGDaQg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این قالب رایگان که با shadcn ساخته شده هم خیلی جالبه\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://shadcnstore.com/templates/dashboard/shadcn-dashboard-landing-template\" target=\"_blank\" rel=\"noopener\"\u003eshadcnstore.com/templates/dashboard/shadcn-dashboard-landing-template\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کدش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/shadcnstore/shadcn-dashboard-landing-template\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/shadcnstore/shadcn-dashboard-landing-template\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-04-30T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
+      "views": 5310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +30,7 @@
       "date": "2026-04-30T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +42,7 @@
       "date": "2026-04-30T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +60,7 @@
       "date": "2026-04-30T18:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 5620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SxtmyHyUBs9Kigz2uSmlPVRkJuhghBZ0FAmnWb8ryLWUzuJErWwlCUHzIYY4CX4c8i_5XkWPoa6cxGvi0D73g-PEfMN0fuhNWET0HYsgDpbQ_VoaGpXoQqUPiuC2ff06Gvx52Ujyk7podNsg0aOhX1LMcJzzOTNkklfxv34qy4R_aSxXoc2LXPYrwZCm4itJqhQ1avpQH5I5jj-kYWuBdVK59VnxOBzlNLoS9H4oaCKHAa7nyeOiijHz3PZPWVWZ4y7w-6yTrFoPbIW1wNCC_4RPV0xOQ-cYRX5LvD4uclRdk08yq06SZkDo-28oXF2Pex8oFiBJiQD5Kj5QayL2Ng.jpg"
+          "url": "https://cdn4.telesco.pe/file/tUaWEAjdM-BdhjR3-OhZ0iEjtiLYokosD2JKCzj7hNJuomjILFa275Tq01YitdealhW-DSVrtHWIps4vKUP9xBVVRLc7Tils_S2MVeuFpCWzQSJ7JJWxTdQ3IlMYQvOb-ykHVlu0YzxMo2P10gZT4vWB2zzq0VaiIE4RRLXSmlZX-lJapP_8i5V-NiBSDSOXCy-CWqWu6yiuGYOysbAz512jPHeaV-73yi9iPKqCSi0gY9knSXdr04LgQ3Bz1uzRRoPfJnCjqSX_4VVjqjrWYEVQFTaAZIwJPByQqBubbvH6uuTTHKl4Wm_KKqGTZuWo_RbGvVYeLz5sPl7HXnqT8Q.jpg"
         }
       ]
     },
@@ -139,7 +78,7 @@
       "date": "2026-04-30T18:49:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8260,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +90,7 @@
       "date": "2026-04-30T19:09:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +102,7 @@
       "date": "2026-05-01T15:20:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +120,7 @@
       "date": "2026-05-02T08:43:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
+      "views": 7050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +132,7 @@
       "date": "2026-05-02T19:27:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +150,7 @@
       "date": "2026-05-02T19:36:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +162,7 @@
       "date": "2026-05-03T11:54:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 4730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +180,7 @@
       "date": "2026-05-03T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +198,7 @@
       "date": "2026-05-03T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3920,
+      "views": 4100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +216,7 @@
       "date": "2026-05-03T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4090,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +234,7 @@
       "date": "2026-05-04T08:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,12 +246,78 @@
       "date": "2026-05-04T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
+      "views": 3540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e فروش ویژه V2ray + پلن اقتصادی (همگی مولتی‌لوکیشن)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e سرویس پرسرعت: پایه هر گیگ ۵۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e تخفیف حجم بالا:\u003cbr/\u003e۱۰+ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e ۴۵۰ | ۵۰+ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e ۴۰۰ | ۱۰۰+ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e ۳۵۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون قطعی، مناسب اینستاگرام، یوتیوب، حرفه‌ای، تضمین بازگشت وجه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e پلن اقتصادی: هر گیگ ۱۹۹ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مناسب تلگرام، واتساپ، کارهای سبک\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e احتمال ناپایداری، بدون ضمانت و بازگشت وجه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e پشتیبانی و خرید از طریق بات:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/XRayShopBot\" target=\"_blank\"\u003e@XRayShopBot\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/NetXRaySupport\" target=\"_blank\"\u003e@NetXRaySupport\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/NetXray\" target=\"_blank\"\u003e@NetXray\u003c/a\u003e",
+      "date": "2026-05-04T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این سیستم عامل مجازی هم جالبه برای وبه با ری اکت ساخته شده و هدفش اینه که در آینده تبدیل بشه به یه بازی با محوریت و موضوع هک\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://mental-os.github.io/Aurora-OS.js\" target=\"_blank\" rel=\"noopener\"\u003emental-os.github.io/Aurora-OS.js\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنکته : توی گوشی کار نمیکنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-04T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Q_9bpNaWdCoSvyAG5EXhFMNkP_Bc6DzDPq0QNwcPSx7TULMNcT5JJhhUd-vO8eVGoQUc1bRILsNsxWN34zapkUaxD50I25ei7F2HoUg4G2paX-eoVF0r-YypHuJssBYxokWaT_p-oCSz2swdB8n4-jdiwbUtY6UtUyrhSVG-qWqZxy1bEd94C9tyJjD9rHD274wWgli7Z5FJ9I1r6pIj4yqRRb644oKD8zedvQvbWjGqJvGCUtIbkcu3iEMf9udiFoX09p6BMGpPyyaCLnmOM4F-cBrHCCq5mUH0rnRWUTKRmDtPA5lQISqQjdMuPdolKkwcXd1tI9fTmN6Ajf4amg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به ورژن جدید لاراول 13 جستجوی معنایی اضافه شده، یعنی میتونید بجای کلمه کلید مفهوم رو سرچ کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Ehsan Rezaei",
+      "date": "2026-05-04T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xw7OSKhRiZDFmCjqLRkswsdX8WIzkqLHs9-sqsgitbA8BrQtnGG0cVOu9-C2cHJzyvKeYLLkutMmwNsTXe8URN0uR9r7PRozcaeYsVZ5W2RUpJyvhHO6yMTQVarvVPsY41sETJyShxOv5heGnOuv1IN7X8jT0LlkFBaT8owzql_Lh8NCbs3NzXawF0KmUEgZkife6hKsvuMATRGxv1C7bmTw0jZ-THsTyKaT0a4UVZM0dEARIvQde8pTA6v1rzVR8qSGohNKa9rwOdgMFHr1gesV1z6BSaM6INKBMGz-NdbBGSQn25qUb8zK46qfFbNxDmzyEZkjTGFBIOxgyZtZoA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-04T17:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aIZV_D0ToaTmaQ6tIQdHLzD2X0Zt7pRIWCREtHQolyJU-Ntd7mdFy-9AkSv67ia1h7bKzUarsGV1Og7mZGvLHu33RI9uxY2Rtu8WLxOHANOVSrVyWDR7LYWReQvJaZmvLY3wf9A6cjJAtfkErUav0jCm8Uc87z--Vdft2en3h9AkhruDeetes0Ew-3C4M6dhOfCygBSJvlt1Ad7lxZ9bxB9GBe5MKw4Njs7PoLAvimpy_ENFpZGM0jzX5YbWungy_SexQKTpYz0DLtP60cVaf8oq-P5cgOnOvg4qa8hscGzhfRJ0x30SZpipL7_8Exz601hB2b5rgt1dQ3jyHZIbDg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1777912016
+  "last_updated": 1777917511
 }
