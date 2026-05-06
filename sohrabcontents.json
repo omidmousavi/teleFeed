@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اوضاع برنامه‌نویسی توی جهان طوری داره پیش میره که به‌زودی B.C. از معنای before christ به beforce claude تبدیل میشه.\u003cbr/\u003e\u003cbr/\u003eو صدالبته توی ایران می‌تونیم از مخفف‌های دیگه‌ای استفاده کنیم مثلاً B.D (قبل از دی‌ماه).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-04T07:25:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 891,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "دارم خودم رو با نوشتن ابزارهای نسبتاً بدردنخور سرگرم می‌کنم.\u003cbr/\u003e\u003cbr/\u003eیکی از ایده‌هایی که از قبل داشتم تماس تلفنی اندروید روی گنو/لینوکس بود.\u003cbr/\u003e\u003cbr/\u003eطرح اولیم به این صورت بود که مثل phonelink ویندوز یک پلاگین بنویسم برای kde connect که تماس رو از طریق بلوتوث ارسال کنه، ولی دیدم این زیاد سرگرم کننده نیست (قصد انجامش رو دارم در هر صورت).\u003cbr/\u003e\u003cbr/\u003eبعدش به ذهنم رسید که استک خودم رو از صفر بنویسم که تماس رو ارسال کنه، داشتم روی این موضوع فکر می‌کردم که این به ذهنم رسید که چرا تماس رو روی یک سرور VoIP/SIP فوروارد نکنم که به این PoC برخوردم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/pulpoff/gsm2sip\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/pulpoff/gsm2sip\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنیاز به اندروید روت شده داره که فعلا در دسترسم نیست \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003eاحتمالاً روی همین یکمی کار کنم و نتیجش رو اینجا بگم.\u003cbr/\u003e\u003cbr/\u003eاین رو بگم توی پرانتز که استک تماس اندروید کثافت خالصه :))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-04T09:27:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "چه جالب نمی‌دونستم مستندات اندروید زبان فارسی دارن :))\u003cbr/\u003e\u003cbr/\u003eالبته با ترجمه ماشینی بهتون همون انگلیسی رو نشون میده که در عصر هوش مصنوعی نسبت به تجربیات قدیمی (گوگل‌ترنسلیت) بهتره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-04T09:34:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 824,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LqMhdinsWkIW_FiIANQmyKvvMukv23ayrML6Lmu8nE8y13YW2PYIfOgD2Tsew0T2mZ2QPpZiLfD2ehLzdLTRf1DqSTFB8fS7hYOdq3ruodgigDRp0ZIVV1kroIFQ9lRqblFJlHbx-zckjO4Tp0HeGQNKs6iOlA_mgJQbBCoSXt55L4W4Gl8QUNU71pkJNdpBySe00aS5ImcgGrj8R5Zj9SPTx0tSa1Ro1fCLtxA_BRbcoPinMdkxHfJhy4bOezNdRlSR06-4szA723FuhbulgjGHp4OC9hgGjzLvaXfR-MyUVUGFmYSVXgPdc_sVgAA0cOjP666gAqx4c_Jem3VSaQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "در راستای بهبود حریم خصوصی و امنیت به‌زودی به پارچ لینوکس امکان فعال‌سازی ورود دومرحله‌ای زمان‌دار (ToTP) اضافه می‌شود.\u003cbr/\u003e\u003cbr/\u003eبا فعال‌سازی این مورد و اسکن کد QR برنامه‌هایی نظیر Google Authenticator، Aegis، می‌توانید با وارد کردن کلمه عبور و سپس کد ورود دوعاملی به صورت ایمن وارد سیستم خودتون بشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-05-04T10:46:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 788,
+      "views": 800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-05-04T12:43:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 867,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +43,7 @@
       "date": "2026-05-04T15:09:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
+      "views": 855,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +51,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tqPLBBRL5SThaG-FpIOWQvsAv9A87wrLh3U7mP1bZqljbeoGTii4-_CdU2CRxNzodGOp3kZ-11zeFgg5W4h1P8HV3lhYlCYnGBxgcFkBaOlVaI_eeTpNQZqfWOTC9cYbgDMtx7nGWgAu_KDaAHyrV1RJHraNKSWFLCJt2rlFrM4NF0n6y8LJqg2YG1dndeSJCMCxk6Imd2bPKhwcVWRsfbRRWOgi4DL-lZuHZtvHTdGiV8qtPzt4mltixww4vKUYjIPX94ndUdGsYCVBVmkHcEMmS8H1m-GurUhGMiYzwcgm-e78HRZPuQsO48ItkmA25gSkOoGfAeMrIH632ZK0Rg.jpg"
+          "url": "https://cdn4.telesco.pe/file/bSjAZXdGjx-31zkJM4xWr4ac4s7MHEn0IlYimOwLPjAhygA_EebXAMAkvmm5CCjRXukQLlHcVhXzzLd-q5chzZNhXFav5qztUdrCaMAgy5BrtLIGZw1Yo6BpDLIiHXL164vqqRMmGyR9bE-aGjF4AEKYm2sc_RMB8e8NulKZzYMvKUirskaIFQxJWbp68IYfsX9JEo4Y7RD5ktz2ThmCzeI9ede7gGpafuS7Z7CxYy66W0A2AHOY3ucP1caJH7GtOjcA4IIL4bbvPvTRhb97HFOo5wQpvIlyHSb6zgLaV6QHHqKnwFN6xl190DoKzN7EeTIRPbKqreDzS-Jieyk6gw.jpg"
         }
       ]
     },
@@ -103,7 +61,7 @@
       "date": "2026-05-04T21:02:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819,
+      "views": 834,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +73,7 @@
       "date": "2026-05-04T21:06:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +85,7 @@
       "date": "2026-05-05T05:33:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 703,
+      "views": 725,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +103,7 @@
       "date": "2026-05-05T05:47:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +121,7 @@
       "date": "2026-05-05T05:51:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 724,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +139,7 @@
       "date": "2026-05-05T06:30:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 712,
+      "views": 730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +157,7 @@
       "date": "2026-05-05T06:46:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 707,
+      "views": 725,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +175,7 @@
       "date": "2026-05-05T10:19:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 677,
+      "views": 697,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +187,7 @@
       "date": "2026-05-05T17:36:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 648,
+      "views": 686,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +199,7 @@
       "date": "2026-05-05T21:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 546,
+      "views": 591,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +211,7 @@
       "date": "2026-05-05T21:20:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 659,
+      "views": 707,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +229,7 @@
       "date": "2026-05-05T21:29:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 593,
+      "views": 636,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +241,7 @@
       "date": "2026-05-06T08:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 364,
+      "views": 466,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +253,7 @@
       "date": "2026-05-06T10:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 266,
+      "views": 399,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +264,55 @@
           "url": "https://cdn4.telesco.pe/file/nIsTK1YIGaA67PEeylXWURHW09oVGjA2f5A57-k935bFqH2NzLF7a3vQB_q3j4FFQkwgtcoAGbz-A0_WayRsKLoTS29OavxDiUsJgk6Oa39BtndP2i0bzOaZwfB1DqaRXU5Z3YFj3xkUaksUAqIN83ELZElcTDnRyLvmtOwLAQooDsKBNpiU2TvIbGrgpqnT5wOt3qImVSTQfEkcThxUls-rqJkGNQ2s5EohyqKxqEXfD7L0Gqh-u5BVJy33o6YiIqaWMNqAb5Ke-Ksfjm1Gw6hqUoiWJ2TMbSyTpEHs0vIX8P5tvDVbCExpvVslG0jKM0BIdWx6bunUnZIwAfk_og.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "گیتی دوباره اومد بالا.\u003cbr/\u003e\u003cbr/\u003eتا الانش پیشرفت بزرگیه.\u003cbr/\u003eبه‌زودی اون به‌روزرسانی آخر رو بعد از گرفتن مشکلاتش روش اعمال می‌کنیم و موتور ذره‌بین هم اضافه میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاز اونجایی که گیتی برپایه سرکس‌عه، و کل کارکرد سرکس به این صورته که خودش رو واسط قرار میده و درخواست‌ها رو از موتورهای دیگه می‌گیره، تبلیغاتش رو حذف می‌کنه و به کاربر نشون میده از نظر حریم خصوصی برای شما مشکلی پیش نمیاد.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://search.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://search.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-06T14:44:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 143,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZMwhItFJoYUhuvSNT8K24S_ph2OvPcTnhuuPr_iBxQjZi9xXXjBZ8u9O_dZnX6RD3mhcnTtks5L92JZUb-XgJmWfKBuN7filOT3P7D0-rBSqkJ-e_GyFu_UHK6QJFUjJ-twtkrmf8m8gDczLY8Wp2Giq-baxCFpQBTdua33cexV2jAQT3hy8eAVPecoYCH9rVio14cl7F4oWyTZqgYqVfZdg6eUJCWDr5rix-pu2-pctLml1dxEPalz2a699HBmPA4MazZo9DtaYjuoGOZ6Kb-JLoT3BcD6JKl7HRl9kUGWi_BqGWGzj0QeOBi3YIzS4jCJjaVwYfkepVU_e95skdA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان سرویس \u003cb\u003e\u003cu\u003eAUR\u003c/u\u003e\u003c/b\u003e حتی اگر سایتش هم وایت‌لیست بشه کار نمی‌کنه، به این علت:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e اون کلا یک مخزن گیت برای نگهداری pkgbuildهاست و این pkgbuildها هرکدومشون از یک جایی فایل‌های موردنیازشون رو دانلود می‌کنن.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهیچ روشی فعلاً برای استفاده از AUR \u003cb\u003e\u003cu\u003eوجود نداره\u003c/u\u003e\u003c/b\u003e بجز فیلترشکن.\u003cbr/\u003e\u003cbr/\u003eموقتاً هم می‌تونید از archlinuxcn یا chaoticaur استفاده کنید که توی این مخازن \u003ca href=\"https://t.me/sohrabcontents/3072\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوایت‌لیست\u003c/a\u003e شده هستن و بعضی بسته‌های AUR رو دارن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگذارم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-06T14:53:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 108,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم چرا اتفاقات جالب وقتی اینترنت ما قطعه رخ میده.\u003cbr/\u003e\u003cbr/\u003eاستک tcp مک هم یک باگی داره (اینتجر ۳۲ بیتی) که بعد از ۴۹ روز اورفلو می‌کنه و کلاً اینترنت شمارو قطع می‌کنه و تا وقتی هم که ری‌استارتش نکنید دستگاه رو درست نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking\" target=\"_blank\" rel=\"noopener\"\u003ehttps://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-06T14:57:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/E02BSIj1WjeXrKURYLg6ksqM6SqW10QuOUouzygBXnpItVYOFZnHYWJCMf9yYHX86QNejtcDZIgtoTuVHsfjXI_8f9ABpL9DxJQkMuWvpe7cVZA7DNfH8xC9_SPzMrLUc_U3fSHTQksdFmakhDS03Eq8tMMwXwQXuGFgOMXNGS2B-8RMcc84yeWye9UfQmO6I68elDQZYHVBHMDhf_qMI3PcNvLh36XBuFdqk0-1lVz66rvk82jzERAaqyyTlQbfngDyFTIyuQ6BZ60_J2VzMQphuodLKTWs9PLNvEjEE6e6GusLw9hjsT7ZPkqa-3aoDwGGYChFD-7TvFArAcODNw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778069696
+  "last_updated": 1778080152
 }
