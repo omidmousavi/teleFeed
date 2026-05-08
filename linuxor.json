@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بعد از \u0026#34;سازمان نظام پرستاری\u0026#34;، نهادهای «انجمن صنفی طراحان گرافیک، کانون وکلای دادگستری اصفهان و کانون وکلای دادگستری سمنان» از دریافتِ \u0026#34;اینترنت پرو\u0026#34; خودداری کردن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-04-30T19:09:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دیروز گزارش مالی سه‌ماهه اول Alphabet منتشر شد.\u003cbr/\u003e\u003cbr/\u003eنکته جالب زیاد داره، اما جالب‌ترینش اینه که بیشتر از 50 درصد کل سودش (~37 میلیارد دلار) به عنوان Other گزارش شده!\u003cbr/\u003e\u003cbr/\u003eیعنی چی؟\u003cbr/\u003eیعنی بییشتر این رقم از میزان سود شرکت سرمایه گذاری گوگله. جایی که روی شرکت‌هایی مثل SpaceX، Anthropic، Vercel و Stripe سرمایه‌گذاری کرده و ارزش این سرمایه‌ها رشد کرده.\u003cbr/\u003e\u003cbr/\u003eپس بزرگترین سود گوگل، سرمایه گذاری بوده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Farokhnotes",
-      "date": "2026-05-01T15:20:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/D0ETGRTDR3KkE7tg5mMcqFX_o7ZPh0gsxgPrEF4BifQabKpi4OA-9izPe9whrqQnYMzfuO6ZxPrfBusa11XPoWwWUkAmjQVFtq-pDSKlOANyLLxUoXfg0HyDnYlkQLdd6yP9k0L-3Y_NoIEJDaqKiuPgiv4C3qplWojLjx1dnpY2C66tmPU4WeWnXUH8N0OzNt3jcmh3l2ea5fW77W2a60bGQFt83_GOWqBIGGvuKK_p7f0uQQMR9JEGqQPl9mczSAFsGK_97WpFzhsQs0uhyCmqVGtM_HVGvGFLxf_djDGqUkRaI7MZCZZ84mDZkaOfKIF25E526xlkpWSLfgviNw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خبر فوری \u003cbr/\u003e\u003cbr/\u003eیه آسیب پذیری بسیار خطرناک توی لینوکس پیدا شده که اجازه میده کاربر عادی با یه سری تغییرات عادی به کاربر روت ارتقا پیدا کنه. (CVE-2026-31431)\u003cbr/\u003e\u003cbr/\u003eتمام سیستم عامل های لینوکس و همه دیسترو ها از 2017 به بعد و از اون بد تر همه سرور ها و کانتینر های داکر دارای این آسیب پذیری هستن و برای همه واجبه که بروزرسانی انجام بدن. ورژن کرنل های آسیب پذیر از 4.14 به بعد هستش، فورا لینوکس خودتون رو آپدیت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-02T08:43:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "اگه گوگل گیتهاب رو طراحی می‌کرد چه شکلی می‌شد؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ FarokhNotes",
       "date": "2026-05-02T19:27:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DxpvFCAtWAhpxxNIECUDWUUyOsrIhyI15c_Nkn9_xJo_S9Ig5eN4CfvwOe79ksw0uRxNK1QPtAnHfWpQubeowTpVjgPKr4RSChrinwf-kw_B6doCzMxMQ4u4O4AttndncwVZ0C1XJqu5vv41pd9Zfc7QCAZ1WVxVgDxQQWn11qZN3hNt0RNZfZgvQgoTHtcckw-L3VkyKkM0sbG8uevvVRMlOaGesza6IS6AWP8Op5MLCtfhm8P3n1KiIKkzujQLLVw7q-LEwS-i_vJ1GcSGMqcbF0unD5_ADThr86z_qbjEBq-nfZer7v4jMcbiWKXDNcQz4ROswNtfTjW12vMIqA.jpg"
+          "url": "https://cdn4.telesco.pe/file/G3dNrpcnAB1Gun8RvgT9BRr1jDe3hqkFHyZJSWGzVRAtm1mglj7gBF4Tk_c64vC9YyBCdJqq2zbFbT6_5swPpETLTgwSFbd7R2K1Rsv7UeLUyPyHsi9MiH4gW7kzBP8_z6Igf8uwJUxfzl1pzJ4KQh_AiLfMPoyTPvh3ZRRU9mNvC2Zxrt0C6_cjho0u1D2guxI3wsbVUHP5Je8uZryHb0Y_FnP0sU_06IHIvItGmW27SAP8a6KK8tK-ResXuCl7xJWi-cc2BVZOPn6cIU97ggmCy00US5zjuhYoN5oHOHqO7mcGXISXO8WxkfUUhmXu4ilXwyb7QclZcpj8W2gCDQ.jpg"
         }
       ]
     },
@@ -72,7 +30,7 @@
       "date": "2026-05-02T19:36:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
+      "views": 7420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +42,7 @@
       "date": "2026-05-03T11:54:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +60,7 @@
       "date": "2026-05-03T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +78,7 @@
       "date": "2026-05-03T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +96,7 @@
       "date": "2026-05-04T08:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +108,7 @@
       "date": "2026-05-04T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +120,7 @@
       "date": "2026-05-04T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +138,7 @@
       "date": "2026-05-04T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +156,7 @@
       "date": "2026-05-04T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +174,7 @@
       "date": "2026-05-05T08:52:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +186,7 @@
       "date": "2026-05-06T09:26:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +198,7 @@
       "date": "2026-05-06T13:50:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +210,7 @@
       "date": "2026-05-07T09:22:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +222,7 @@
       "date": "2026-05-07T09:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +234,7 @@
       "date": "2026-05-08T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,12 +253,61 @@
       "date": "2026-05-08T09:30:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 4050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاینجا یاد می‌گیری مدل‌های هوش مصنوعیت رو دیپلوی کنی!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA9.png\u0026#39;)\"\u003e\u003cb\u003e🚩\u003c/b\u003e\u003c/i\u003e بوت‌کمپ \u0026#34;MLOps\u0026#34; کوئرا \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e دوره فشرده مناسب ورود به بازار کار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F8FAB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍🏫\u003c/b\u003e\u003c/i\u003e آموزش توسط اساتید مطرح این حوزه \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e منتورینگ اختصاصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e کار تیمی و شبکه‌سازی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e تمرین و پروژه هدفمند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e مدرک معتبر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e ظرفیت محدود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB1.png\u0026#39;)\"\u003e\u003cb\u003e🌱\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپرداخت با اقساط بلند مدت (شروع پرداخت ۶ ماه بعد از ثبت‌نام و در ۱۲ قسط)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/shdwv\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/shdwv\u003c/a\u003e",
+      "date": "2026-05-08T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dw1CvJtj4DbnqCw-RrhcMswHCdVduAeSeNuXwVsLhPtQ-i9tK121qRYUBrIYhGm0J7F750G2Jz87oIzP-8VV6lAWVs_9RJmKxYY4tqo-t47qUi_nBY4le92MgBTgaBWj0rXGpH0caEkLOYKzxjMsvCyFeA9pDz3IMXiGumhg9L9DjNJc_ngERjokK6Xgdu-w-T7V1OfggvrBWtgYSbwrQEGsbO1Q3TUjxPZ4mi2-lt4NMQEcKwWyKThWa6FzH483weGHb5Qn2fbpw5rHmkOo8nGvEYjNg3qYbv-bck6YDYji4fJ5zg_j1xjbpZwzkJ2Uu9TuqNL7C0J56D79TmGlgg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "‏الان هوش مصنوعی فقط کدنویسی نمیکنه. داره کل کار راه اندازی یک بیزنس آنلاین رو انجام میده.\u003cbr/\u003e\u003cbr/\u003eمثلا با همکاری Cloudflare و Stripe یک ایجنت AI میتونه فقط با یک دستور این کارها را انجام بده.\u003cbr/\u003e\u003cbr/\u003eاکانت کلادفلر بسازه. اشتراک پولی فعال کنه. دامنه بخره. توکن API بگیره. اپ را روی اینترنت منتشر کنه.\u003cbr/\u003e\u003cbr/\u003eتوی دمو هم مدل Claude Opus خودش لندینگ پیج ساخته. دامنه خریده. سایت را آنلاین کرده.\u003cbr/\u003e\u003cbr/\u003eفعلا بعضی چیزها مثل پرداخت و قبول قوانین هنوز نیاز به تایید آدم دارد. استرایپ هم محدودیت گذاشته که هر ایجنت بیشتر از ۱۰۰ دلار در ماه خرج نکند.\u003cbr/\u003e\u003cbr/\u003eولی نکته مهم اینجاست که AI دارد از مرحله «کمک به برنامه نویسی» رد میشود و میرسد به «گرداندن کسب و کار نرم افزاری».\u003cbr/\u003e\u003cbr/\u003eیعنی مشکل اصلی آینده ساختن محصول نیست. کنترل کردن دسترسی ها. اعتماد به AI. محدود کردن خرج ها. و ثبت کامل کارهایی که انجام میدهد مهم میشود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
+      "date": "2026-05-08T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/Linuxor/4168",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه برنامه نویس وب هستید پیشنهاد میکنم سورس کد تلگرام وب رو یه نگاه بندازید فوق العاده شاهکاره\u003cbr/\u003e\u003cbr/\u003eتلگرام بخاطر سبکی داره وب رو به صورت زیرو دیپندنسی جلو می‌بره که عملا توی وب زیر دیپندنسی چیز غیر ممکنیه چون هر چیز ساده ای توی وب وابسته به یه کتابخونه دیگس، حتی اومدن فریم ورک ری اکت رو دوباره از اول نوشتن به اسم Teactیه نسخه مخصوص خودشونه که کثافت کاری های ری اکت رو کلا حذف کردن، پروتکل ام تی پروتو رو برای جاوااسکریپت رو دوباره نوشتن، کلی مفاهیم توی ورکر هارو دستکاری کردن، کش چند لایه گذاشتن، وب اسمبلی و استریمینگ پیشرفته ای توش به کار بردن. خلاصه همچین چیزی اوپن سورسه واقعا یه نعمته\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Ajaxy/telegram-tt\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Ajaxy/telegram-tt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-08T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1778263476
+  "last_updated": 1778269892
 }
