@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یکی از اصلی ترین دلایلی که توسعه نرم‌افزارهای اوپن‌سورس خیلی سریع به پایان می‌رسه و یا جامعه با پرخاشگری توسعه دهنده مواجه میشه همینه. \u003cb\u003e«فرسودگی»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین هم از عدم درک متقابل میاد و همچنین به شدت در دسترس بودن توسعه دهنده اصلی یک ابزار.\u003cbr/\u003e\u003cbr/\u003eمثال میارم الان اگر شما یک باگ توی کرنل پیدا کنید و مستقیم به توروالدز ایمیل بزنید، اگر بر فرض محال جواب بده؛ شما با فحش‌های جدیدی آشنا می‌شید که در دایره لغاتتون وجود نداره.\u003cbr/\u003e\u003cbr/\u003eنکته مهمی هم که گفت این بوده که جامعه به مرور پرخاشگر میشه بخصوص درمورد مشکلاتی که اصلا به توسعه دهنده ربطی نداره.\u003cbr/\u003e\u003cbr/\u003eمثلاً اینکه کی‌دی‌ای باگ می‌خوره، دیسکاور سگ‌فالت میده. این به پکیجر یک توزیع ربطی نداره شما باید برید توی سامانه باگ کی‌دی‌ای و این مشکل رو گزارش کنید. کاری از پکیجر توزیع برنمیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه هرحال، با آرزوی موفقیت و شادمانی برای توسعه دهنده slipnet :)\u003cbr/\u003eبخصوص اینکه در این مورد خیلی درکش می‌کنم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-05T10:19:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 811,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "مایکروسافت به تازگی از کتابخونه جدیدی به نام lib0xc رونمایی کرده که هدفش افزایش چشمگیر امنیت در برنامه‌نویسی به زبان سی عه.\u003cbr/\u003eاین پروژه در واقع مجموعه‌ای از ابزارهای هوشمندانه برای جلوگیری از خطاهای رایج و خطرناکی مانند سرریز بافر و مشکلات محاسبات عددی فراهم می‌کنه که برخلاف تصور اولیه این ابزار منحصر به ویندوز نیست و در حال حاضر به طور رسمی از سیستم‌عامل‌های گنو/لینوکس و مک‌اواس در معماری‌های مختلف پشتیبانی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eتوسعه‌دهندگان با استفاده از این کتابخانه می‌توانند بدون تغییر در ساختار اصلی زبان سی از توابع جایگزینی استفاده کنند که به صورت خودکار مرزهای حافظه را کنترل می‌کنن.\u003cbr/\u003eاین کتابخونه به گونه‌ای طراحی شده که حتی بدون نیاز به تخصیص حافظه پویا یا همان هیپ کار می‌کنه و برای پروژه‌های سیستمی حساس بسیار ایده‌آل عه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/microsoft/lib0xc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/microsoft/lib0xc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-05T17:36:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "خب کی‌دی‌ای ۶.۷ قراره یونین رو بالاخره بیاره و مارو از شر مضحکات کیوتی راحت‌کنه :))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://9to5linux.com/kdes-new-css-based-style-engine-union-is-coming-to-kde-plasma-6-7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://9to5linux.com/kdes-new-css-based-style-engine-union-is-coming-to-kde-plasma-6-7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-05T21:15:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "ممنون :))\u003cbr/\u003e\u003ca href=\"https://x.com/The_Cyber_News/status/2051729137124122628?s=20\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/The_Cyber_News/status/2051729137124122628?s=20\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-05T21:20:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 888,
+      "views": 914,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-05-05T21:29:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 856,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +42,7 @@
       "date": "2026-05-06T08:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 734,
+      "views": 768,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +54,7 @@
       "date": "2026-05-06T10:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 733,
+      "views": 755,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ujE9IjX_qf3G-rKr7WJ027jKsdb53GiIDEbEKd9_lULIFnuGpPI0n7Jzm9bfu_WpBgxboUMa-XGEXlnFEk9r0sUYEolxxIqsaBjvlkglMzVn4MTsW8QiN7lguhUcJ8yO_ruIQHfWPsv1wz_mks-eZ191AzEqZfQiGopTZQGCQDYhNqVEkAQEkyZXolYhPM7gaHVXDnW3qxhajvnoiekDa2hGnJ4J4q0oYYWPu-8iVjCVOZC52n9bUWzOpkKevjlXZqs_jff7k2OzrpM7nBZKZRt9GBoAh3Zwh9NckEdND-f2fBY9772Q0vrH0FEDUdZkYtuTBSg94PgAC5-WDnDyBA.jpg"
+          "url": "https://cdn4.telesco.pe/file/R5ZLJtsFZ9Txhvqwwzc7A7zJtkn0EwkJNvO9vBOs5KN9S1PgxbjsO4D8aexEVBvx1rTo7Jde-WeAiXuU2M_jwFAQeYhGeSJUjqJSf0a5fcGXJfe2HBqkcpIKwb4h8ZFzNpraLvpU4QYaVw3Ua2_PCjbELFGD4TsNZYO4c9uuhsvVWZBlDX9QyaZmHdHzqD3jsAZcTWrkfMQQin2lEatAi0TAtVLMzUDvqcHDiMbTXcY1VRDa3jk-VfGZGMTh_zRtrMOL5dtwFz5KBxuoKzqobb4E_v82awURUq6XB3zLOUGneh7K-Btv-eY39JcRE_RnMhayXfCk5-DyXiqoMXjwQA.jpg"
         }
       ]
     },
@@ -108,7 +72,7 @@
       "date": "2026-05-06T14:44:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685,
+      "views": 708,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +90,7 @@
       "date": "2026-05-06T14:53:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 708,
+      "views": 729,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-05-06T14:57:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 802,
+      "views": 821,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +120,7 @@
       "date": "2026-05-06T16:12:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +132,7 @@
       "date": "2026-05-06T17:39:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 747,
+      "views": 770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +150,7 @@
       "date": "2026-05-06T20:27:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 794,
+      "views": 825,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +168,7 @@
       "date": "2026-05-07T07:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 691,
+      "views": 721,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +180,7 @@
       "date": "2026-05-07T07:12:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 717,
+      "views": 753,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +198,7 @@
       "date": "2026-05-07T08:37:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 703,
+      "views": 737,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +216,7 @@
       "date": "2026-05-07T08:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 748,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +228,7 @@
       "date": "2026-05-07T13:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 721,
+      "views": 762,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +240,7 @@
       "date": "2026-05-07T21:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 563,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,12 +252,61 @@
       "date": "2026-05-08T06:59:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 320,
+      "views": 457,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "یک ویدئو ضبط کردم و آموزش استفاده از KDE Vault رو توضیح دادم.\u003cbr/\u003e\u003cbr/\u003eاین ویژگی پلاسما به شما کمک می‌کنه تا فایل‌های مهمتون رو بتونید رمزنگاری و مخفی کنید.\u003cbr/\u003e\u003cbr/\u003eسعی کردم خیلی کوتاه و سریع ضبطش کنم و توضیحات اضافه هم ندادم؛ صرفاً یک کلیات گفتم ازش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eروی یوتوب با لینک زیر در دسترسه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/eYPOGa57NX0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/eYPOGa57NX0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر هم دوست داشتید محتواهای منو با لینک زیر می‌تونید دونیت ریالی کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://daramet.com/sohrabbehdani\" target=\"_blank\" rel=\"noopener\"\u003ehttps://daramet.com/sohrabbehdani\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T09:39:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ZxCA1-6mxYTJkf0XQ6L3VJ1d2pyylBi2KIm3kfIlhvD3j2debb3XmMY3Ml2D6XlCloM3miA-7nz94AH2D5ilovC9hPSkiumVmNfXiUHf1dwbOBFfAEJUpNmTMSHegAzRnVHgRAA1YM5El8OH-UNXlns_y8x8Dad7b4CIVAo8S5lR-sgCkmVxesLo3IK56dYmN-vrZg-9BsHW-ljPYZB1ZwWG5cJbJp-L-IQQ8EsBH3n6bRl9xPIeGXUz_dca-WwyDhL5kKvjF4cBaNvHk8ZPtDVu2EolmVV4viUtRbm1QfoepEyanfPDLT-9jXyjw8A6IdkC9vcWh5xVBMAwuxB8GQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگر فایلی رو خواستید به صورت ایمن حذف کنید که قابل بازیابی نباشه، می‌تونید توی لینوکس از دستور shred استفاده کنید.\u003cbr/\u003e\u003cbr/\u003eاین دستور میاد و با استفاده از داده‌های رندوم (/dev/urandom) فایل رو بازنویسی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eچندتا پرچم داره، مثلا با پرچم -n می‌تونید کاری کنید که چندین بار این کارو تکرار کنه:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eshred -n 5 file.txt\u003c/pre\u003e\u003cbr/\u003eیا با پرچم -u بعد از اتمام کار فایل رو حذف کنه:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eshred -u file.txt\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبرای اطلاعات بیشتر هم می‌تونید man pageاش رو بخونید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eman shred\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eیک نکته خیلی طولانی هم داره که پست بعدی میگم چون پرمیوم ندارم و جا نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T09:59:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 122,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VfEtU_ttOgaRzkLvMpvKqkPMVCH8qIi_Zk9TaTl2H-4-WqrGE4qPcw1EPCfH14FRdneX9MBmpSfCdHqXhDBwl4ThPtLQauUKt2tPjCEwwZC5x9L06vjtGKoVv0JNMNJqUPbKJA8GWJyNb5_SWtGreSJQlLO4jUcA9wiSB9oMAySmyM0b8PgxxlT2RNJLF5zagtJgK8-bXiLe50ra7RMSEQDkfkLtnyCX1Ir_oqI1T_af3KKC56Mx-Wi7yKskuFclHdVt1bSkJVZnk7XBwoGNO9msdI8b6URV6KBr1MA_bvdI41kHmwsco1SAORr3zmA_maj_NEXUSw2CpWGdRxuMOQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نکته خیلی طولانی مربوط به پست بالا:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدستور `shred` روی SSD و NVMe همیشه قابل اعتماد نیست چون به خاطر wear leveling ممکنه کنترلر SSD داده رو روی بلاک فیزیکی دیگه‌ای بنویسه و نسخه قبلی اصلاً overwrite نشه، روی فایل‌سیستم‌های journaled مثل ext4 و xfs هم ممکنه بخشی از داده داخل journal باقی بمونه، روی Btrfs و ZFS هم به خاطر مکانیزم Copy on Write عملاً بلاک جدید ساخته میشه و overwrite واقعی روی بلاک قبلی انجام نمیشه، ضمن اینکه firmware خود SSD یه لایه mapping داخلی داره که سیستم‌عامل مستقیم بهش دسترسی نداره، برای همین overwrite کردن فایل لزوماً به معنی overwrite شدن واقعی سلول‌های NAND نیست؛ برای secure deletion واقعی روی SSD بهتره از اول Full Disk Encryption داشته باشی و بعد فقط key رو نابود کنی یا از ATA Secure Erase، `nvme format` و `blkdiscard` استفاده کنی چون مستقیم‌تر با firmware و مدیریت بلاک‌های SSD کار می‌کنن، در حالی که `shred` بیشتر برای HDDهای قدیمی و فایل‌سیستم‌های non-CoW طراحی شده بوده که overwrite واقعاً روی همون سکتور انجام می‌شد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T10:00:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 105,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1778230442
+  "last_updated": 1778235498
 }
