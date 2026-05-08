@@ -8,125 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مفتخریم که تونستیم توی زمان قطعی اینترنت پذیرای ۲۶۸ عضو جدید در فروم پارچ باشیم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمی‌تونید در فروم پارچ بدون هیچ نگرانی فعالیت کنید، من تمام تلاشم رو کردم که فروم رو در این زمان \u003cb\u003eپایدار\u003c/b\u003e نگهش دارم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eفروم پارچ اتاق صوتی، اتاق گفتگوی متنی و همینطور تاپیک‌های مختلفی داره که می‌تونید داخلش فعالیت کنید.\u003cbr/\u003e\u003cbr/\u003eحساب رو فعلاً توصیه می‌کنم دستی بسازید، بعضی از دوستان گفتن که ورود با گوگل هم کار می‌کنه.\u003cbr/\u003eاز اونجایی هم که فعلاً نمی‌تونم smtp فروم رو عوض کنم، توصیه می‌کنم دستی بسازید و بعد حساب گوگل رو بهش وصل کنید که رمز عبور داشته باشید.\u003cbr/\u003e\u003cbr/\u003eاین تاپیک رو هم مطالعه کنید:\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/topic/979\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/topic/979\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T10:24:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R5ZLJtsFZ9Txhvqwwzc7A7zJtkn0EwkJNvO9vBOs5KN9S1PgxbjsO4D8aexEVBvx1rTo7Jde-WeAiXuU2M_jwFAQeYhGeSJUjqJSf0a5fcGXJfe2HBqkcpIKwb4h8ZFzNpraLvpU4QYaVw3Ua2_PCjbELFGD4TsNZYO4c9uuhsvVWZBlDX9QyaZmHdHzqD3jsAZcTWrkfMQQin2lEatAi0TAtVLMzUDvqcHDiMbTXcY1VRDa3jk-VfGZGMTh_zRtrMOL5dtwFz5KBxuoKzqobb4E_v82awURUq6XB3zLOUGneh7K-Btv-eY39JcRE_RnMhayXfCk5-DyXiqoMXjwQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "گیتی دوباره اومد بالا.\u003cbr/\u003e\u003cbr/\u003eتا الانش پیشرفت بزرگیه.\u003cbr/\u003eبه‌زودی اون به‌روزرسانی آخر رو بعد از گرفتن مشکلاتش روش اعمال می‌کنیم و موتور ذره‌بین هم اضافه میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاز اونجایی که گیتی برپایه سرکس‌عه، و کل کارکرد سرکس به این صورته که خودش رو واسط قرار میده و درخواست‌ها رو از موتورهای دیگه می‌گیره، تبلیغاتش رو حذف می‌کنه و به کاربر نشون میده از نظر حریم خصوصی برای شما مشکلی پیش نمیاد.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://search.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://search.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T14:44:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 749,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/q5gUfDBLbwXsj-I3YX0LJZ_GCTZM6CPAEbZ5JXHteE5UsZz4I57YHuadLJl8CieeH85ygITzyHZhnCAi2o3eNO2stEvxHvgXiBxV5papNAGIZ2BOmXLyDttpT8U-bzXH7uCR4U_Y3riLGdfnDivpdCJsMuSPQdUNFkOmwhLrr5crife2v1Epri7RHl17zmNq6edWP164XPbL7drMxWPAJlWPYlE97KsAHAffyHfzq7K5kFebTjlOA53qoCxkm0vz6lnHgkSRc26Gitxcgf3ZGRLYuF2O0bdIVR__RkcQYH_7yo5Bm0AjAECz4nBfru8YOZJuHE1vIkPE1Nd4wPYAKA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان سرویس \u003cb\u003e\u003cu\u003eAUR\u003c/u\u003e\u003c/b\u003e حتی اگر سایتش هم وایت‌لیست بشه کار نمی‌کنه، به این علت:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e اون کلا یک مخزن گیت برای نگهداری pkgbuildهاست و این pkgbuildها هرکدومشون از یک جایی فایل‌های موردنیازشون رو دانلود می‌کنن.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهیچ روشی فعلاً برای استفاده از AUR \u003cb\u003e\u003cu\u003eوجود نداره\u003c/u\u003e\u003c/b\u003e بجز فیلترشکن.\u003cbr/\u003e\u003cbr/\u003eموقتاً هم می‌تونید از archlinuxcn یا chaoticaur استفاده کنید که توی این مخازن \u003ca href=\"https://t.me/sohrabcontents/3072\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوایت‌لیست\u003c/a\u003e شده هستن و بعضی بسته‌های AUR رو دارن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگذارم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T14:53:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 767,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "نمیدونم چرا اتفاقات جالب وقتی اینترنت ما قطعه رخ میده.\u003cbr/\u003e\u003cbr/\u003eاستک tcp مک هم یک باگی داره (اینتجر ۳۲ بیتی) که بعد از ۴۹ روز اورفلو می‌کنه و کلاً اینترنت شمارو قطع می‌کنه و تا وقتی هم که ری‌استارتش نکنید دستگاه رو درست نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking\" target=\"_blank\" rel=\"noopener\"\u003ehttps://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T14:57:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vaB5tuZQtBmd5U3GBmDPhJA3xEuDtdmjXxZKo6AnZ2RiuGFhi4-D1-2R-sxCvIgWHIk0y-1P5PfrXVYGfgrf1_ApebAbBToOmGCxMqOuxMUQjnwhuZvO8n78ocLW14EWzAApRdGRTkDXyhJ8w__8DYR_xWtz08A_a4-LhCcoJ3ukiJ8_iNEJQOPfBpF5hNN9tH3-BtL6QtUUKf4G8EED_3TRNe7zt1pvKt32WQgqKS8JKB9RyZTFeXbCZXlDPfLOx-Uv4Zst36k3gEIDhsGCAlzl9HrIC_LjBJKUiH9EeWVTAZfWbQhbbjzA2yZQrUpr6bM5GLXZombfSaKbweuKtw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستانی که از میزکارهای کی‌دی‌ای و گنوم استفاده می‌کنن و کاستومایزش کردن، اگر مایل هستن زیر همین پست کامنت کنن شخصی‌سازی‌هاشون رو.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاون‌هایی که از همه بیشتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e بگیره رو برای شخصی‌سازی پارچ در بیلدهای بعدی ازشون الهام می‌گیریم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T16:12:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 775,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "گیف گربه که کپشن داره «نه»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T17:39:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 801,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oCXrKQd-XsoiyQPE5GjHf8FbgaRIZFl9hv9khxt1aDlJbwTEvZ6Cbj-gl-OU1N-M9X7jFpC9wWeAU0pSBddvCAEvm_ijrm34T0W0PqeYanZ6e7iLzfMpyn5XJlz2_cbPzAbooKnbq-dCVbmJ9sz86LbJI_Cq0OBB6vuoCVWGqBSDqXJzODCfi5QT7ULiawSu24hxns-mhOmk0gn2facrX_CYD0cVp6DpJXL6qGhVkUlxGYDvPLLB3GI0GEvlHovwPhZt8-VuY8JgADMa6ETu76shVFEAfy2fe-YK0ECOvhH-LU0P1fcrT6b5MoOqwk6gMu3CvLGerQxcw4OYr--rDQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تلگرام یک اپدیت جدید داد برای اندروید.\u003cbr/\u003e\u003cbr/\u003eجدای از اضافه شدن ایموجی 🫪 که قراره بشه ایموجی مورد علاقه جدیدم(\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e) چندتا گزینه هم به نظرسنجی اضافه کرده که توی عکس هست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر نهایت هم درد و بلای تلگرام بخوره توی سر پیام‌رسان بله و ایتا و روبیکا.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-06T20:27:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I58HdNIHm6Z-sp8xRGt9QTwiWw7myx3iC6OJ5PU3c8qcefVRmnBc4oFjlK59Lb1JGA3BjokjlEncbVvOgLb4c8yajUvxVVYh5QhN8rpj-9m7AksOiQAuKt6nyyyrv-oITPG87v6-a-Sz4WZOTv4EVwaxIhV1KYXxvgRgMGDZOTMjKA0qKkxjAymLvyNZ4lOTIwf7ZEEEjNVGMmozcBEe-_ZnlTAwyJF2Q3S1tRfHFn3NJGw0Nj3RCdYLeMY-YWw0MYaOPqqJ3bOQN8OReJM5o5JA3RK0LlywOGmUfN-ipXub2xZ47Thpm2cx8XXzoCQvhPlbC-Mr6xgPJE6iETTXdg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خوشبختانه از اونجایی که از نظر این‌ها آدم مهمی نیستم پیامک اینترنت پرو برام نیومده :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eوگرنه من هم در کنار باقی دوستان با اسکرین‌شات از اون پیام توی توییتر شدیدتر قهوه‌ایشون می‌کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-07T07:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 782,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +24,7 @@
       "date": "2026-05-07T07:12:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
+      "views": 818,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +42,7 @@
       "date": "2026-05-07T08:37:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 775,
+      "views": 784,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +60,7 @@
       "date": "2026-05-07T08:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 841,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +72,7 @@
       "date": "2026-05-07T13:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 813,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +84,7 @@
       "date": "2026-05-07T21:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 729,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +96,7 @@
       "date": "2026-05-08T06:59:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 651,
+      "views": 698,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +108,7 @@
       "date": "2026-05-08T09:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 470,
+      "views": 517,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +127,7 @@
       "date": "2026-05-08T09:59:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 518,
+      "views": 634,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +145,7 @@
       "date": "2026-05-08T10:00:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 518,
+      "views": 631,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +157,7 @@
       "date": "2026-05-08T11:21:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 432,
+      "views": 495,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +169,7 @@
       "date": "2026-05-08T12:25:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 369,
+      "views": 457,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,12 +181,78 @@
       "date": "2026-05-08T14:10:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 222,
+      "views": 373,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "اوضاع به صورتی پیش می‌ره که اگر اینترنت/کانفیگم تموم شد احتمالا تمدید نکنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچون واقعاً نه خبری هست، نه اتفاق خاصی رخ میده و نه چیز خاصی وجود داره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T15:29:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 259,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "پروژه TheFeed چیکار‌ میکنه:\u003cbr/\u003e\u003cbr/\u003eپروژه دو قسمت داره\u003cbr/\u003e\u003cbr/\u003eقسمت اصلی برنامه با استفاده از کانفیگ های توی این کانال: \u003ca href=\"https://t.me/thefeedconfig\" target=\"_blank\"\u003e@thefeedconfig\u003c/a\u003e و یا کانفیگ‌های شخصیتون اخرین پیام ها و فایل (عکس، ویدیو، کانفیگ، فایل) های یک سری کانال تلگرامی و اکانت تویتری رو میاره بهتون نمایش میده، این قسمت با DNS کار میکنه و تقریبا غیر قابل فیلتر هست (سرعتشم خوبه)\u003cbr/\u003e\u003cbr/\u003eقسمت دوم که بهش میگیم telemirror نیازی به کانفیگ‌ نداره و کانال هاشو خودتون مشخص میکنید، از همون صفحه اصلی میتونید واردش بشید، ولی این قسمت بر مبنای سرویس های گوگل هست و اگر گوگل بسته بشه دیگه کار نمیکنه، و همینطور این بخش فقط میتونه پست ها و عکس هارو بیاره و نمیتونید فایل یا ویدیو باهاش ببینید.\u003cbr/\u003e\u003cbr/\u003eپروژه نسخه های زیر رو داره:\u003cbr/\u003e\u003cbr/\u003eاندروید\u003cbr/\u003eویندوز\u003cbr/\u003eلینوکس\u003cbr/\u003eمک\u003cbr/\u003eو نسخه IOS فعلا فقط بصورت ipa\u003cbr/\u003e\u003cbr/\u003eلینک گیتهاب پروژه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sartoopjj/thefeed\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکانال اصلیم:\u003cbr/\u003e\u003ca href=\"https://t.me/networkti\" target=\"_blank\"\u003e@networkti\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلینک دانلود کلاینت برای همه سیستم عامل ها ها (بغیر ios):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip\u003c/a\u003e",
+      "date": "2026-05-08T15:39:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 159,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XY3SRTS-tcqgw5k_hJQOVHWqdwfluSlKZ4D6UOq990xXizlnMiz1sTlnjj4lWb1xYTlp16BQTrzGZrEbZtXEQU0yeP3Q8dOBdgC6RI_GgeXP9yoibjuPtOVsKqDkQyOu9EkTpUN9GYV7vfTZT4rCTb0l-p3hT0VyyjtI08uLmfgMzsaAe0_ny4QSqqBBS0xe7yd3UxB1vRcTQspBwlYJwgCxQ5r9dSVz-pWE4MEFxVCyUEV6RQNs1qtDIpoKInxg_W8dWeuhnfeq6KtXXhp1R2FZ7-YVcb9r4GCVr4FiTzDd-5iTtbJk6YH0DGAeJyxB_-PF4fFAqP0kNnr8QxjKFQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c-saw30SD_Iy5FteDMnz4d_HXkXAXpWdKnZe4s3cHt2mForf4Bajtq7NUyili7mAS6uJXSm-sinQhHz-HycT9RABh-iyB9kn-ygEH0roDlmxLQ46ucRMk2wqf6kp1VcHNzJZHTTgR9bKF7VUVNF6yJRPb6XIGmuTACJuP3ObiwIO-Zv6RZIDXI07eK_o4ndYUjaP4vbo9PVQm_X8SJ2XZD2_ZGRf4Jf2l9j5ZR8j_5rhNjlcElPcGbq12EFJLiCUzKLNmV8MQQbkEqx3Hg4mw4_uXp_sJ_x7G-FMrlYdau6I_HSnJ9Cz3gwtApMJxCT-B9AOCkW6PBbsDT9nZ1w4Kw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z4WnFs-mumc74LeRxFPGICDCOxC_ViHnHF6a-HLFl-dPKNA53enRAMPChkeyIBd3RvqwgYxoVx-N-qcGDRD5UQZNbvKmt27Oifk13rTzE5lZCvQenHDxomyJI3e0F7L3A16SYK3VAUhtTUkeHW_KTOCFi8YoTfsZ4jbTd53qCexRpiBwrIIxNFtNqYsPb8so2wlnLo_EUo0r0hChn1B-9gEm-7llIcW2IKTMbPm_a6-7ChwkjvlUY_oR9r0MF6a1kEtsRZiUI3IJVAmOV6fEemOpQonJjatpkhkvBYujULrGU2cdBT8R5AHZY5Iq1Vn24gRP-kuP6QzRG-kAzR0sTg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/l_OnsA-N3yxDXA5MMEe3lH3yQNJn5YkV-EBCM6mWei7OK_dTjibqC4XBhhzLjr32CgMK4G3TsoNL779VKY2UlzVrXxVevFRIjbmJbmPmlXyS1MF6WzfyZoKiSHbuMBqz27BwtUNWwswjjkoeKfGJU7aJJ2F0PD9NEwX0n4rbURNyx5YT6ADEu8i6uGdytWqgoAR5DBliv5UXuzJNvj5PVD7vEXDW9mpKUEQrD71iosilwUHy8zOjwtW6wQIaFkFHuTOcs1GYnFyq3snxCQ9HMrP46W78D7dYc4L0awHx7mraASWMhzrf8cwF8szorBueCdjIsH4fzKiPOXRhsv93Yw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یک فکتی رو بگم.\u003cbr/\u003e\u003cbr/\u003eواحدهای KiB، MiB و GiB به ترتیب کیبی‌بایت، میبی‌بایت، و گیبی‌بایت هستن که بر پایهٔ توان‌های ۲ تعریف می‌شن، نه توان‌های ۱۰.\u003cbr/\u003eمثلاً هر 1 KiB برابر 1024 بایت، هر 1 MiB برابر 1024 KiB و هر 1 GiB برابر 1024 MiB هست. این واحدها برای جلوگیری از اشتباه بین مقادیر دودویی و ده‌دهی ساخته شدن، چون شرکت‌ها معمولاً KB و MB و GB رو بر پایهٔ 1000 حساب می‌کنن ولی سیستم‌عامل‌ها اغلب از مبنای 1024 استفاده می‌کنن.\u003cbr/\u003eبرای همین ممکنه یک SSD با ظرفیت 500GB داخل لینوکس یا ویندوز حدود 465GiB نمایش داده بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا هم اشتباهشون نگیرید :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T16:03:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "این هم بخاطر استاندارد IEC عه که برای رفع یک ابهام بزرگ در دنیای تکنولوژی معرفی شد. ماجرا از این قراره که کلمات «کیلو»، «مگا» و «گیگا» در سیستم متریک (SI) همیشه نشان‌دهنده توان‌های ۱۰ هستند، اما در علوم کامپیوتر به‌دلیل ساختار باینری، از قدیم از همین کلمات برای بیان توان‌های ۲ استفاده می‌شد. این تفاوت در مبنای محاسبات باعث شد که مثلاً عدد ۱۰۰۰ با ۱۰۲۴ اشتباه گرفته شود. برای پایان دادن به این سردرگمی، استاندارد IEC 80000-13 در سال ۱۹۹۸ معرفی شد تا واحدهای دودویی مثل KiB و MiB و GiB را از واحدهای ده‌دهی متمایز کند. این تفکیک کمک کرد تا وقتی از ظرفیت حافظه یا انتقال داده حرف می‌زنیم، دقیقاً مشخص باشد که محاسبات بر پایه توان‌های ۱۰ است یا توان‌های ۲، تا اختلافی بین عدد اعلامی تولیدکننده و چیزی که سیستم‌عامل درک می‌کند پیش نیاید.\u003cbr/\u003eمرجع استاندارد پیشوندهای ده‌دهی و دودویی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.nist.gov/pml/owm/metric-si-prefixes\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.nist.gov/pml/owm/metric-si-prefixes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T16:13:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 127,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1778252799
+  "last_updated": 1778258975
 }
