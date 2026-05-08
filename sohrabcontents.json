@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "Parch \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-07T08:37:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sltePuwXs37WUb1XizdELkpIUMu30W4rTZ1mnoQft4UH9I1q1YJkpsLjc4rKt3wQytHnO24mMfQRsQTRkWOGQfgNOWi19KS29QVLI1mHpBYfoOVl2v17F4Q01XO0bwxuKAjYZzntX4XalSvDIy2rs4Q8S4xaVlkUxQhnRG9TM1KdRxc9maGjXsX0WjMZ-MGGvod0k2yq2cWndzN6Z8Jbi-03l7tKW9ryXOKdU3tZkW0M_VqwXTpnNX2BCG-FJ6AXtyebZEcLkKqCwbNm5XwN5aAn1RKSXEZycuIzLBX1EtjOCIMEf_cJlJ8lk-ZKdKr0xAkJalBhwL__C0r9x8kXLA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این هم پروژه جالبیه برای توسعه دهندگان نرم‌افزار اندرویدی که اومده و اندروید رو توی داکر فرو  کرده.\u003cbr/\u003e\u003cbr/\u003e\u0026gt; به صورت کلی باید بگم که ماشین مجازی عه و توی داکر اجرا میشه پس انتظارات بالایی نداشته باشید.\u003cbr/\u003e\u003cbr/\u003eبا استفاده از کودا هم شتابدهی گرافیکی رو پشتیبانی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/HQarroum/docker-android/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/HQarroum/docker-android/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-07T08:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 887,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-05-07T13:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 867,
+      "views": 871,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +36,7 @@
       "date": "2026-05-07T21:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
+      "views": 800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-05-08T06:59:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 786,
+      "views": 799,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-05-08T09:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 604,
+      "views": 621,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-05-08T09:59:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 824,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-05-08T10:00:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 802,
+      "views": 823,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-05-08T11:21:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 592,
+      "views": 615,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-05-08T12:25:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 563,
+      "views": 585,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-05-08T14:10:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 515,
+      "views": 540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-05-08T15:29:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 457,
+      "views": 488,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-05-08T15:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 369,
+      "views": 402,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-05-08T16:03:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 1510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-05-08T16:13:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 500,
+      "views": 555,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-05-08T20:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 263,
+      "views": 346,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-05-08T21:25:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160,
+      "views": 275,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +240,25 @@
           "url": "https://cdn4.telesco.pe/file/JzQeRs-BzdySRRHns81894a6Mpfc92AqcBa9wIodHYX4YDems1u5xYubsRc4T_nY-nJ635Ng4JpNyH7Mo-Zfz_fAr_-16ztNlhBf6_5dR5ckoxfbZBot1lYuhlMAqeks6FmDBSdJ2SfF11q-S4GvrAndcUoSDetYuLK8a06o8Q078J7eTJXpMihVQY1bOQXpe_7AduvZoyrWjBrsmXC0VAyewtuJZJ2rezA1zMA6jbq8h8-EIBvtxJ8Q8DzygLpbl8CGYTNsOygQI0P7c_pUE87S_hv5vxHyTrYDPYYFOMwJ5ej9AAZROJEeePXW0eqSaDgM3kRmfar4uA6rTkNl4w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خب در بی‌اینترنتی آدم می‌شینه پای پروژه‌های قدیمیش.\u003cbr/\u003e\u003cbr/\u003eدر این حین نشستم و یک‌سری اسکریپت قدیمی مربوط به نصب ویندوز روی ماشین مجازی در پارچ با یک کلیک یا PWS (Parch Windows SubSystem) رو بررسی و تغییر دادم.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از سروش که ایزوی virtio رو رسوند به صورت خودکار درایورها نصب میشن و اینکه ssh هم فعال میشه روی ویندوز میشه بهش ssh زد.\u003cbr/\u003e\u003cbr/\u003eحالا نمی‌دونم چرا یکی باید به ویندوز ssh بزنه، ولی خواستم بگم این هم وجود داره :))\u003cbr/\u003e\u003cbr/\u003eهدفم درحال حاضر مصرف‌کننده میزکار نیست، چون برای مصرف‌کننده میزکار راه‌حل‌های زیادی وجود داره، دارم ذهنیتم رو می‌برم سمت ویندوز سرور و اکتیو دایرکتوری و دامین کنترلرش برای پارچ سرور.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-08T21:59:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 182,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GW09p4I1LbfZSis0ZenFxgpdXg9JRj_N-WPCJzGBEBpyEZ-59NMFOLiHozHPNqF6uy8bO88S8jUeTh0Zw01ldSr8zfl4Ci1oXLbLJTZ354wa1f7dWMbgLnJGpXPgNe4H3vIG3Pvy-xYl6SZym2R74UmGNuHBA8jsvcDhYZG7QuI7KRnKmcj8D75D4uDBhiW54XldDuK5ZldfsQmohehTE9vMaHsuStSeqECmfzxRGALsFQDchOuNDj99RgsX0_4bA72rF63udlp3P6paEplZfuJbYXE6WfA00qEs-Xu0L1A1t_l63Bk5rP7gwAahQHTe6Umabgj9f2j-_BMyHkSbmQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778277094
+  "last_updated": 1778280389
 }
