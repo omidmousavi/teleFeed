@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "هوش مصنوعی دیگه داره به سمت سخت افزار ام میره، با این ابزار رایگان و اوپن سورس می‌تونید بجای کد زدن برای ماژول ESP تون فقط بهش توضیح بدید چی می‌خواید همون کارو براتون انجام بده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://esp-claw.com/\" target=\"_blank\" rel=\"noopener\"\u003eesp-claw.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-03T11:54:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B3dpA2EhpFS4trQGjIJYTWt3Pa6bC6NftPL0iTSZ3O3psVtL95fWlyfHyhjKO2cmZpaTVLPRQdCPR2jB6Sdg1HJUBomHJq9c9H7TTkIvkxwo6MfCvMmSR2CS470zdYMBOeQzaaURjHEKMtNGytROwtlpEaXdvpxGPv8MTEY4OKVGrEMc9OfEdUAANuVmHZasQbir_XuJN1YgLSDGjY6DIPTw8oXCw0_jHXAoVPqh-B6ZAOwKjHUMNpYj3SLdh3vtLloOc4YpZz62b9n2iusWp80OksvamJ-87ArtuXBh7VeBdevTzy_K7KKrDiB-5cb0cz_HL9DWV6sFUXBcyweTCw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این یه Skill یا ابزار جانبی برای مدل‌های هوش مصنوعی (به‌ویژه برای محیط‌هایی مثل Claude Code) هستش که به کاربر اجازه می‌ده با استفاده از قدرت هوش مصنوعی، لوگوهای حرفه‌ای برای پروژه هاش بسازه\u003cbr/\u003e\u003cbr/\u003eدر واقع فاصله بین لوگوهای ساده و مصنوعی هوش مصنوعی و لوگوهای حرفه‌ای رو پر می‌کنه. البته فقط یه تصویر ساده نمی‌سازه، بلکه لوگوهایی با فرمت SVG (برداری و قابل ویرایش) تولید می‌کنه که از اصول طراحی مدرن (سادگی، فضای منفی و تناسبات دقیق) پیروی می‌کنن و چیز های قشنگی به وجود می‌آره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/op7418/logo-generator-skill\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/op7418/logo-generator-skill\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-03T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TDoriEQySmJ5e3w-qz2u6HLMPlIbhHsU105zmWsOOJWbTGuDyZdbW_PWzPtafpFhv3dl_wdYnSQUuDZ9_HLMbrAX2tscwWFPQ3AOmEdgU45r_H1CQuwZ5-TN4dkOVznrQZ7U3vAJwWUDy-UL1Jkv4wDTz8NTg4qAubGM-MzJwfsgVWKQbZvzomkZpw2oZ1ntpX7HjDbP2R8Go2I6kfgXYVxawIMVvB9ldmCVzo3NPp2eXZrg9PR-uOMTwmSGtSeK92oxQbkdN6f9Dv9JU4ubwCf18JZ4OY4bkjMUtczxu1I-7HKP5wJKFPELXMyAV4L4hwzEE_6wWeRNRgW0Cy4tbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تقریبا اکثر مطالبی که توی اینترنت راجع به کوانتوم نوشته می‌شه، زرد هستش و هیچ کاربرد عملی نداره، کوانتوم از اون چیزی که فکر می‌کنید پیچیده تره اینجا لیست چیزای جالب کوانتوم رو می‌تونید پیدا کنید از الگوریتم هاش به زبان های برنامه نویسی مختلف تا کتابخونه هاش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/qosf/awesome-quantum-software\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/qosf/awesome-quantum-software\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-03T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bKFXBFK7RDFwRSQpoRC-g1L1IkQd0Lwr4HtV443-3aLaab17SO1TJXdhY4jX3RNex-f7IHcvdgVhKrtStYc8mAW__fsoyiddjzlfpWU5CIWWEWKph2PcpHFxBlIClOdAchLQoObuiAFOjWUbzGtfVvSCvJFrIKCvTHT0IdKcAqECDUq29hD1Kxz-HuGSFjX_x-Ha7gXOfda0WHGfxOe5LzNT3bpvw97s21Zbuyc8nkV8qsPoEQh8bv78onjsrqVgfcUJ4wD_szHvf82vxfrow3liiJfh_YmAAW4iMh6O333iIxLcyB0IJ0sUxKp38fXWwKxdfQLer-GV-IorUoh4sg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "می‌دونستین مدل های هوش مصنوعی واقعا توانایی فکر کردن ندارن؟\u003cbr/\u003e\u003cbr/\u003eمدل های هوش مصنوعی رایج، که مبتنی بر ترنسفومر هستن در واقع کار اصلیشون اینه که یه جمله ناقص بهش بدید و کاملش کنن؛ مدل های امروزی اونقدری حجم داده آموزشیشون بالاست که می‌تونن یه گفتگوی ناقص رو کامل کنن و در نتیجه به نظر می‌رسه که دارن فکر میکنن ولی در اصل دارن گفتگو رو کامل می‌کنن.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست ما انسان ها هم مغزمون برای پیشبینی وجود خطرات و غذا احتمالی توی طبیعت به وجود اومده و کم کم این پیش بینی پیشرفت کرده و چیزی شبیه به حس فکر کردن بهمون داده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-04T08:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
+      "views": 7800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-05-04T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7440,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +36,7 @@
       "date": "2026-05-04T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8090,
+      "views": 8160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +54,7 @@
       "date": "2026-05-04T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
+      "views": 8500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +72,7 @@
       "date": "2026-05-04T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 8270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +90,7 @@
       "date": "2026-05-05T08:52:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
+      "views": 8160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +102,7 @@
       "date": "2026-05-06T09:26:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +114,7 @@
       "date": "2026-05-06T13:50:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +126,7 @@
       "date": "2026-05-07T09:22:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49100,
+      "views": 49300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +138,7 @@
       "date": "2026-05-07T09:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +150,7 @@
       "date": "2026-05-08T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
+      "views": 5260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +169,7 @@
       "date": "2026-05-08T09:30:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +181,7 @@
       "date": "2026-05-08T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4400,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +199,7 @@
       "date": "2026-05-08T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +218,7 @@
       "date": "2026-05-08T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4960,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +230,7 @@
       "date": "2026-05-09T08:38:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3400,
+      "views": 3750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +242,7 @@
       "date": "2026-05-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 453,
+      "views": 1580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +253,49 @@
           "url": "https://cdn4.telesco.pe/file/iV2rYRkbetIPYC7iIyDet2B2-rHAFGTCDe1hQyNXTxuDS0bjJwDN631zaXzTgbbTzqduDoq3cfosRyuukD-ILVS3ExpyrXORPpR8UiwcMA9-opZ3YFDiJOrN8j0EV5xDXJCgnculh_ewFNbO-DbVyoP5VPcFJp08iHkHmh8dunFeI6WAM6wRLqvCbFJ3x4dR5evsNxv2D4vw-1AJi76-FPHTj2bU6oz-7rqu_4IxenRgRk2qQ9zqnScuA2BogbLn6ItOimQZzVm5nnZSBjYJIO59YpmXI0F0eL2JeNGzBDZtF-sXY7yfeGRTssjakCl5M8dW_8v4HUCkjpY9-5Sx0w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "آیا بیت کوین کلاه برداریه؟ (فان)\u003cbr/\u003e\u003cbr/\u003eاگه بخوایم فنی به قضیه نگاه کنیم واقعا خود بیت کوین چیز آنچنان خفنی نیست یه سری بلوکه که لینک لیستی پشت سر هم هش شدن؛ تکنولوژیش در برابر سولانا که سرعت سرسام آور توی تراکنش بر ثانیه داره و یا همین تون کوین تلگرام که قابلیت داینامیک شاردینگ داره، یعنی شبکش مثل خمیر کش میاد و میتونه تیکه تیکه بشه و فشار بیشتری تحمل کنه هیچه و مثل اسباب بازیه. البته دارم سوگیری یه طرفه میکنم که پست یکم جالب تر بشه بیت کوین هم همچین بی دستو پا نیست و لبه امنیت رو در اصل ترجیح داده.\u003cbr/\u003eاما بحث من اینجاست چرا بیت کوین دقیقا همون سال رکود بزرگ آمریکا توی 2008 ساخته شد اصلا توی روزنامه ها نوشته شده بود نجات از دست بانکا (چون مردم از دست بانکا عصبانی بودن) چرا بزرگ ترین هولدر های بیت کوین، آمریکایی یا شرکت های دولتی آمریکایین حتی خود حساب ساتوشی هم شاید دست دولت آمریکا باشه (با این فرض که مستقیم دولت آمریکا 300k بیت کوین پابلیک و چندین میلیون هم صرافی هاش دارن پس حساب ساتوشی هم با یک میلیون بیت کوین احتمالا برای مواقع ضروری نگه داشته)؛ البته نهایت نتیجه گیری از صحبت من این نیست که آمریکا میخواد یهویی همش رو بفروشه همه رو بدبخت کنه، نه اصلا، اتفاقا بیت کوین یه روشیه که بقیه دنیا رو به آمریکا طلب کار کنه دقیقا مثل اون 35 تریلیون دلاری که از سیستم پترودلارش به کل دنیا بدهی داره بیت کوین هم یه سیستم بدهی به دنیاست پس تا زمانی که دلار سر پاست (یا بهتره بگم جت F35 توی آسمونه) بیت کوین هم سر پاست در واقع ورژن دوم دلاره، هیچ وقت برای آمریکا نمیصرفه مثل این کلاه بردارا بخواد یهویی ازش خارج شه ولی میتونه باهاش مفتی به بقیه بدهی ایجاد کنه چون حجم عمده دستشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-09T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "توی رقابت مدل های هوش مصنوعی کار به جایی کشیده شده که برای معرفی مدل اوپن سورس Qwen علی بابا داره تبلیغ از توییتر می‌خره.\u003cbr/\u003e\u003cbr/\u003eورژن جدید Qwen که اوپن سورس هم هست بهبود چشمگیری نسبت به ورژن های قبلی خودش داشته؛ روی سیستم شخصی خودتون هم میتونید رانش کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ollama.com/library/qwen3.6\" target=\"_blank\" rel=\"noopener\"\u003eollama.com/library/qwen3.6\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-09T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lgdzF0ZvKq-xx4VemN7r46Vf-PDifTM3qQHWUpiZeqzfX9hASETkvPxElKr1k6CFKRxOPHmkVW_eQ1jy3YVnVqLFy93mFiA44QjsAgOqrce7QgbA_Bu9dY5fhkTbbG7FVkiKJwwJI8V8By3-gtefH-y_31aLd1YvmjeoPBiBYPCnGBCYTGgOFKOIWf8uMlVn7SzkxDN2xN9_JAnctwH9IQ_m_DT5JCi1s-iDksfufM2v4IiqusgloxbMT0Vv5Zloh8BYR35AVAi4BVyUbHWYlXWimNFLbw3QNBOanbdXFUrhZeEQK86PIFzXFkAUwZynoj2U-75tf7Poz613F48l9w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بچه‌ها گفتم شاید به درد شما هم بخوره:\u003cbr/\u003eاین اپ رو از گیت‌هاب دانلود کنین، میتونین لینک ویدئوهای یوتیوب رو از گوگل(یا هرجا) بهش بدین تا واستون با نت ملی دانلود کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Kurdeus/Meli-Action\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Kurdeus/Meli-Action\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Karbakhshr",
+      "date": "2026-05-09T17:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 594,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1778344920
+  "last_updated": 1778348511
 }
