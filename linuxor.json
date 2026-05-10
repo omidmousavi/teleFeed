@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-04T17:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jqNgnxYm23r99qvDT0H5JJTRkeWEdWHtHGDI00_fhZpU4r2AlkySKjuMVqpDs4s-l45SGr1WGo2-6WqTmjrHSz5JgsRzMmAmGQGjIOzZyzoZpx9vvGxu8YCYBBfhK-LqG4oZoITRXKjU7oC-KvLp_R8LJ0SvBrGixjaLY6c1nmQ-JdxhLP2gJqr_oXo-pajrLaNcqyWglXSYFcBxoArAIPJL9L-aK22svueBScVcuvnLkCp7Rm8rLkK2uOBz1PWQN4VVTdwY3B3B58dHkWeRcU3Vo0BxTpa0l0XksPY_CUUiygiv1CJVfPXJnvBN2VGFeUKM5mr5wa1Y_sS6fqJwNQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یکی از مشکلات عجیب مملکت در زمان قطعی اینترنت نبود  سرور ntp پابلیک برای تنظیم ساعت خودکار سیستم بود که وقتی ساعت سیستم بهم میریخت کاری نمیشد کرد\u003cbr/\u003eکه با گشتن فراوان این بدبخت کار میکرد استفاده کردم راضی بودم \u003cbr/\u003e\u003ca href=\"http://ntp.day.ir/\" target=\"_blank\" rel=\"noopener\"\u003entp.day.ir\u003c/a\u003e‎\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MadKrusty",
       "date": "2026-05-05T08:52:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8660,
+      "views": 8670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-05-06T09:26:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +36,7 @@
       "date": "2026-05-06T13:50:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-05-07T09:22:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51500,
+      "views": 52200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-05-07T09:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 6980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-05-08T09:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-05-08T09:30:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-05-08T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +122,7 @@
       "date": "2026-05-08T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +134,7 @@
       "date": "2026-05-09T08:38:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4870,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +146,7 @@
       "date": "2026-05-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iV2rYRkbetIPYC7iIyDet2B2-rHAFGTCDe1hQyNXTxuDS0bjJwDN631zaXzTgbbTzqduDoq3cfosRyuukD-ILVS3ExpyrXORPpR8UiwcMA9-opZ3YFDiJOrN8j0EV5xDXJCgnculh_ewFNbO-DbVyoP5VPcFJp08iHkHmh8dunFeI6WAM6wRLqvCbFJ3x4dR5evsNxv2D4vw-1AJi76-FPHTj2bU6oz-7rqu_4IxenRgRk2qQ9zqnScuA2BogbLn6ItOimQZzVm5nnZSBjYJIO59YpmXI0F0eL2JeNGzBDZtF-sXY7yfeGRTssjakCl5M8dW_8v4HUCkjpY9-5Sx0w.jpg"
+          "url": "https://cdn4.telesco.pe/file/ggCbQG_8_6TZTVaTYzUm8ieCJWh1H9vvJZj5znJSP6oP5jfAJkH2BvxCTzHbaAv1qn07vUdCpdEeoVFBvcubrnXGLzcQzah7GNT4bLZPMkB_7JNwrtc544hJe_IVSCWp_PetdXTrCvcfkP0NEF4GZlrbGf4oBL7CHPyVG4BVPYt2sy50Mm3ravLoTF_0X9lixasC5Ok72yZBtHp6K6us0lqhyALrDJ3cb5fQudEYn40fNkmeXPuu38USMxT6XdR-XXd_RlEgM0dCxLv1LSi7WF6DW8NlxBZrru7GUwyCrwcBpdlzA8CSyzSrvDhzc29lmisVQfb13nuFWe9gzUu3mg.jpg"
         }
       ]
     },
@@ -182,7 +164,7 @@
       "date": "2026-05-09T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3930,
+      "views": 3950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +176,7 @@
       "date": "2026-05-09T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
+      "views": 3930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +194,7 @@
       "date": "2026-05-09T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 5540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-05-09T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 3840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "date": "2026-05-09T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
+      "views": 3940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +242,7 @@
       "date": "2026-05-09T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3960,
+      "views": 4010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +260,7 @@
       "date": "2026-05-09T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4090,
+      "views": 4150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +278,7 @@
       "date": "2026-05-10T09:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 2750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +290,19 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5229064374403998351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید اشتراک gemini pro تنها با 299 هزار تومان در پریم استور.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eتو این روزا که Chatgpt business نیست و افرش تموم شد بهترین گزینه همینه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6024053298951098659\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D94.png\u0026#39;)\"\u003e\u003cb\u003e❔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چرا پریم استور؟\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5017179932451668652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9596.png\u0026#39;)\"\u003e\u003cb\u003e🕖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتحویل سریع (بین 1 تا 8 ساعت)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296369303661067030\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  بدون نیاز به اطلاعات و لاگین حساب شما\u003cbr/\u003eضمانت کامل 30 روز \u003cbr/\u003eعلاوه بر جمنای، اشتراک سرویس‌های زیر هم برای خرید موجود است:\u003cbr/\u003e\u003cbr/\u003e(Claude • Chatgpt plus, go  • Grok • Perplexity • Cursor • Leonardo • Gemini ultra •.....)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شروع خرید از طریق ربات :\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314391089514291948\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://premstore.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوب سایت\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5422439311196834318\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/premstore_ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکانال تلگرام\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/premstore_admin\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e ارتباط با پشتیبانی\u003c/a\u003e",
+      "date": "2026-05-10T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1778426987
+  "last_updated": 1778430573
 }
