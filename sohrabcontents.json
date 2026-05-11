@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اوضاع به صورتی پیش می‌ره که اگر اینترنت/کانفیگم تموم شد احتمالا تمدید نکنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچون واقعاً نه خبری هست، نه اتفاق خاصی رخ میده و نه چیز خاصی وجود داره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-08T15:29:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "پروژه TheFeed چیکار‌ میکنه:\u003cbr/\u003e\u003cbr/\u003eپروژه دو قسمت داره\u003cbr/\u003e\u003cbr/\u003eقسمت اصلی برنامه با استفاده از کانفیگ های توی این کانال: \u003ca href=\"https://t.me/thefeedconfig\" target=\"_blank\"\u003e@thefeedconfig\u003c/a\u003e و یا کانفیگ‌های شخصیتون اخرین پیام ها و فایل (عکس، ویدیو، کانفیگ، فایل) های یک سری کانال تلگرامی و اکانت تویتری رو میاره بهتون نمایش میده، این قسمت با DNS کار میکنه و تقریبا غیر قابل فیلتر هست (سرعتشم خوبه)\u003cbr/\u003e\u003cbr/\u003eقسمت دوم که بهش میگیم telemirror نیازی به کانفیگ‌ نداره و کانال هاشو خودتون مشخص میکنید، از همون صفحه اصلی میتونید واردش بشید، ولی این قسمت بر مبنای سرویس های گوگل هست و اگر گوگل بسته بشه دیگه کار نمیکنه، و همینطور این بخش فقط میتونه پست ها و عکس هارو بیاره و نمیتونید فایل یا ویدیو باهاش ببینید.\u003cbr/\u003e\u003cbr/\u003eپروژه نسخه های زیر رو داره:\u003cbr/\u003e\u003cbr/\u003eاندروید\u003cbr/\u003eویندوز\u003cbr/\u003eلینوکس\u003cbr/\u003eمک\u003cbr/\u003eو نسخه IOS فعلا فقط بصورت ipa\u003cbr/\u003e\u003cbr/\u003eلینک گیتهاب پروژه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sartoopjj/thefeed\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکانال اصلیم:\u003cbr/\u003e\u003ca href=\"https://t.me/networkti\" target=\"_blank\"\u003e@networkti\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلینک دانلود کلاینت برای همه سیستم عامل ها ها (بغیر ios):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip\u003c/a\u003e",
       "date": "2026-05-08T15:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685,
+      "views": 690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,19 +20,19 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h_foDFZ8V6UYafxIXhgdKhybpu4hMfHvOT8kSNzAh54HLMKqAWUmXpXYjOC4xMsATH4F6s7EjRVHqKSa-tQFfAZLlHZkY43AL4BtcCI3dFFIyPLUSXGU7oyMPaOgt9jAYJbpYiET8b7McfEdHkxC-gz8Vx_bJz2c8DsYQqgazFMw1PaDYbg5MxKHRZXQ-Om4R6DMwVAiiWqkyj5qgby557qUPceO5PqZ2xVtA4pVSXg_2EPFVAu9sOVdgsW5K2LPNl1lsbI9UW_UwKkvDRgAQtpliCy7lsharo2gIn-wOiRWuhGZorAkfHrXNF-s0asS1mJPROYmZV-OPaS5rhCHwg.jpg"
+          "url": "https://cdn4.telesco.pe/file/LcK_xp1Qr3J8cKXqxSDvBmEs4zILR12bmPK9AY7heh-YnstFq7vBK9UOAcci6PLRCkH_bftzhITjGU6gQUmdHi2EeqEVL2DfY1nxOu0s4R_rtRI2IqogK8F0nYIrhmR9Vv5Nsr05hXyhyeHdVaixiYCelb5rvmr6UVDxBte-FihG1IbKlwm3REDbmXXfSt-D_x00YVS5EEi7vStMLahwLpnQmOmwjqXMWK2fs_EmVXtDeyiWAQvLoUqhfkG1l29oAk39k_OuXSagbJgAJyZ4G-QTude3kEwN7nx7uhClH3R80PU5xafmS1PdZr9ilnQaRdxL4NBVkg0Dsu2mf8rqkQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/G7hhhozhIufQjSdPK-yYDxSHXIHNlQSAQpjHJwukdlg6LAfRft_TPLegEUYJG_JJCcYHI6w80wAZZxWU6ujVX-dOGsTwsIUhhQMxsRoImA2TRurjAVINXfMsGzzViGzyWISYT3rR-dx3ciD79wi_yJzi-uoT69GNb9NkptAumU1OvUEXQZWqlozJxkFXklfQoqufb4VuRwNYl1LtaQoBvlG6G6NPqIVDFAbKjCHsI34B8PAyDIdOiUmjtm30hu7oRZiXIJDAZXpCgnaYnIc5CfzzLsn_oLGmovT4AdV85uLiO_WbAxFxHfls7v0K_tLHPLu2nmigllfFieoPZiv4kQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/pHIfN9AYVkz0aRgVxeTjAJFhIh3tsi6EZ9iJLY1-6bYRIU5eWS5Licw_di6rVrkHrdI5t8dE3VHpCSYIXVlShMBgQ4v9tgvJDk5ohwj07EGp8MzjPGOzfglLLkpv0mHEcA5yz23BK-Kl4eqUbsfzvdS3NTurxFzezTnEHCbNCWjfZJuy8G7y2j3KWVOy0ru69h-1sr3qoVbaXK4AfDiZJ8QdigtUhi0Zt9q_z_uVyJsYD04bm2pnEKfpOs_pX-ffNnM0CRe1DgNhjUgBCCcD7VUe9GKj8Qt92y1cdgrnca1LDmpZGruk4-djnE3VVosvLriDZVwyC_B7hf2IbM2HlA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jpEiIzll_DaB61Kk5uSEBdRL2FMiq77l9BVF5mBwqwBh1EN-dxPFFYSGuMi1os3wUlt_73hiZH16pkLSgf5BwcanCyfYO3UDm40jZlYoeG_zvhUzXOOlxGdAhVEG9s9SNkqeBCV2sl0sCZ2vHFrE25Lh_AGmRt6KkzVqpWvzGw9YFl-h-9xifexvLs46ehqQJH0v-3dq-HlC8tcY-tXaWvoBi4VD7aHcTw-ynt5j30UInrtVut9JtN04kfcsO-18pVUgkt3JchNv6NhICr8UTDRA3Iw5EmNYR96kzx3cG0ogjb7YXcyZLFze7DTvdX-Ib7lc76EWoMZJYJuGqrTseQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/IE1Dlm5ZLtRmGCCqV_5ht0vX9G_9L8wXGvUoFYHvZiPnXQwDdP8JDbJuhK-fa4dydOqkl0QOgyOwI1F4cY77QS8U-NI133VzC8VP2TotUF04ZBT7iKkRH7dng5UufNwmZOXFg5eej0jbMYjiKgo695NUtJ-40E6Za9uUdZ6mYKprDrDgJRWYSM9jhRJCw3gXXM2aHJrwCcn0Cz_FimAaezJgClQ6MxMPbXWY4ySUzSwLEMUfeDeD9jl6_0bere3UYGL2945FFZX9BmqpNNx1ZUFwAYRTDTic2aLCUXOWbnx6iu5LBpIKzk42PzzGMJv5ss0uF3rDOjg-r1rbXBxhVg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NL0qjrtdaFALgV9mNHaF7oOcOM3A3PSO-vxsR1LZ0tdQyBfwi_weLmPOdOnh4JyZ7s7_ilceMWshLHVdMX7yTd8kuZzJinMNx5owbdiWEAYuWOlKhY1vevQAaztmkBTHBi-7vT6H02DrWmw9Cgv1ZVm_SpriUdlZmPYnXrLWT0OF_keNap3Uvd3m7wptUjDpxrcnFdsStZOp-EB14D9NEhIRMGFDCbONIcV9gUDtdY1XbYMPEJlGzFVm9kZy_cBFQOl6-XNz1ASq8tlzlxE-ZgH6JAdem1xRSNrVdAlCD3BNNEhy1xh0LZppKAJkEbxcQOYgNfdkdE8zg2LLfZCGsA.jpg"
+          "url": "https://cdn4.telesco.pe/file/FbaASciMmjhpcRRy2FMVfUyrpTxzBcQX3KuvEU7QRFrS7f1F14x0dvFcOWnurP59TJivrdvIxyFBMhYIcezgK6InM0KTPkfExs5OPfgu6toa_uu6M3RI0T8yX7V7wPbqQdDNoi8rWGnFdSUQHpFKxVD5RfGxhZ3dQ-mI3_IIMzOglDCLaQamKa4IarRIK5z1pRn9IfnenBYANehHJDasV82gZ4HwSuAC8Qc7G9QbUtilnAE6WX3cF52Ysv1VYOx1dL2JuwyfE1T3EzA2UAzwAEBaEbt3169NUe3SorRweb29VElquqOyPlNKcaWx1CXN5w4cotCcqacOlfRtEmuk8g.jpg"
         }
       ]
     },
@@ -54,7 +42,7 @@
       "date": "2026-05-08T16:03:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
+      "views": 2590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-05-08T16:13:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 916,
+      "views": 924,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-05-08T20:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 907,
+      "views": 910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-05-08T21:25:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 937,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-05-09T06:21:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
+      "views": 990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +132,7 @@
       "date": "2026-05-10T04:50:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 833,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-05-10T08:13:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 823,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +162,7 @@
       "date": "2026-05-10T08:44:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 774,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +174,7 @@
       "date": "2026-05-10T09:41:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +186,7 @@
       "date": "2026-05-10T11:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +198,7 @@
       "date": "2026-05-10T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 492,
+      "views": 513,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +210,7 @@
       "date": "2026-05-10T17:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 743,
+      "views": 786,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +222,7 @@
       "date": "2026-05-10T20:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 544,
+      "views": 609,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +240,7 @@
       "date": "2026-05-11T09:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 396,
+      "views": 539,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +251,25 @@
           "url": "https://cdn4.telesco.pe/file/AbAzZrxmpz7rhXrKOHLgNpc1MHbQtKuaRyx0o_CifMjsaF9J9vQV63dZOudlbUE76dhM9jlsqHeQ6WGMyoFbYZgXkaBdYamIsgxXRlP7Pkeg62ZE2QVh1HqlPN8ZIbCYR-UWJbtBJRbikArrDyQLX-V4sZ9lVhOPrlT-uaN87O-nABMpIQVwLyXrELw6HVzKecBCZk2ppFo8yBOAVAJ80lWhz8grR9tWcW5XlbyGItfcOdGa2vD1ugGkvptHhC3RUVpLf0K0UMLR5-26IrNskSGHkqUErGf0khOf-5gz2-E4vCo3na4LHKGeHRAO0gbNFTGiwxFUdfX-oO3x7l17ww.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دوباره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eآخرش توروالدز عصبی میشه کل استک نتورک رو پاک می‌کنه از کرنل.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-11T14:32:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 297,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vweKQ8F3hgnt0B6oFgTvv4G_WApjlMGqJg69hpoI7Mm1_FvkR8XVDT-p8nPD1JQ4_dqX_xWMVOTLhFD-EKvgdGT-lhuJ6TUTh9dxNGnFGh4JAsntTvzYsLcXg08F3xHC3ad9Ut8EMUB18WVsRAC7O7nfQJz7jTRziNV8XkYmT6L1p9UVaok2hEmw_AfroMbkiQmMM-EXovQZ2FYXpAUROvqGJAMwchHc9YYosmFq-76TXBff1_wI1ovIStOulx3_B5LD8x1iFzdhieDp7R-mCEkX5Kj26kSkVTpV5aJkeHUhtTCuIgUf_oxMZYDCdWD93HEClkVCMZi9CT8f80YVCw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778505783
+  "last_updated": 1778516103
 }
