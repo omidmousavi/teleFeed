@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک صحبتی رو یک‌جایی خوندم که الان حضور ذهن ندارم کجا بود که باعث شد یکمی برم تحقیق کنم.\u003cbr/\u003e\u003cbr/\u003eبحثی که هست به این صورته که زبان Rust یک زبان به شدت llm-friendly محسوب میشه و llmها می‌تونن کدهای راست بهتری رو بنویسن نسبت به مثلاً اینکه بشینن یک کد سی بنویسن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخب این به این موضوع بیشتر برمیگرده که کامپایلر راست به صورت پیشفرض میاد و خطاها رو گزارش میده؛ که این موضوع به llm کمک می‌کنه که بهتر بفهمه چه چیزی رو در کجا خراب‌کرده و اصلاحش کنه.\u003cbr/\u003e\u003cbr/\u003eو اینکه یک سری تحقیقی هم که من با چندتا مدل داشتم این رو پیدا کردم که می‌گفت:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eRust is considered “LLM-friendly” mostly because modern LLMs generate statistically better Rust code than many other systems languages, and because Rust’s design aligns unusually well with how transformer models learn patterns from code.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eکه حالا این رو دوستانی که هوش مصنوعی کار می‌کنن مثل حقیری باید بیان تاییدش کنن.\u003cbr/\u003e\u003cbr/\u003eولی به هرحال توی این مقالات نسبتاً توضیح داده شده که چرا همچین چیزی رو میشه گفت:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.rezvov.com/rust-and-llms-the-compiler-does-what-code-review-shouldnt-have-to\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.rezvov.com/rust-and-llms-the-compiler-does-what-code-review-shouldnt-have-to\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو اینکه دوتا مقاله هم در رابطه ترجمه کدبیس‌های لگسی سی به راست با استفاده از llm وجود داره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://arxiv.org/abs/2505.10708\" target=\"_blank\" rel=\"noopener\"\u003ehttps://arxiv.org/abs/2505.10708\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://arxiv.org/abs/2405.11514\" target=\"_blank\" rel=\"noopener\"\u003ehttps://arxiv.org/abs/2405.11514\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو مایکروسافت هم یک نتیجه تحقیقی رو هم در این مورد پابلیش کرده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه که یهویی اگر دیدید پروژه‌های راست دارن زیاد میشن روی گیت‌هاب و غیره تعجب نکنید :)))",
-      "date": "2026-05-10T08:44:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "در زمان قطعی اینترنت مینت نسخه‌های hwe خودش رو هم معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکه این‌ها از سخت‌افزارهای جدیدتر پشتیبانی می‌کنن، مثلا کارت گرافیک‌ها و ....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-10T09:41:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 976,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-05-10T11:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 934,
+      "views": 943,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-05-10T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 620,
+      "views": 626,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-05-10T17:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 983,
+      "views": 994,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-05-10T20:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 839,
+      "views": 847,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FJAYEaOoOySX3WSMFpOAxU-3Q4-vFjkV3yR7ub9yt43j0T9xRxm00YzPoUKFMjsQTgmubeQtWKB637UGZluOU18rLgyLwIhjZkTFj_Ol_cixw-oNu8Ujkl4S7KdDSwhKOC1b6xc2MHzz99tBnEWsT_xvBaufxe5FD950DNtnTvxFry68CW91uAieC_kNaZjAha8bIqxWlNSwBTKpJzgegBu15pP_mN79Z1jjHjXkmMz7BVyNyagqnby9ZA83iYeksGvif6KFcUEG8FLIoeME0QRtR4BYlI2kup0QJlIml2HnSvbUi_HJQXiktnlFCjPvdaUen7HBigRT8cSek0oWeg.jpg"
+          "url": "https://cdn4.telesco.pe/file/rS2kr4zBAkqauN6nFudAqZsxEeoZsSMmrUKBdW_FvskKlHvhst1QzsSZ4f-CjRBowvbfC6F1xCAg97ubOYT5ItX69zXz2uyZ8pLnxJUqIEiTuwbHsNxOTBuNdIsm_jeb0mFz6WH6DoXMt5yJJV0lQOEKinT93uuvnUQp6DWehNfYwNBd2JXx2RM3V3PXvpc3mr1a86yUW-hCOWoJ8mWBLeNTc0-yQEamEuOWl3yA9EcggvYGbAe-dPXJ7v42UwJ72RgL2m1UW3FcODmtIOQNSd6ZeXC0bls_cKLFPolxCkkkXqDy0rRwNT-86Abyk8GWJDx4rduG-rmQtzCuxG5PKQ.jpg"
         }
       ]
     },
@@ -90,7 +78,7 @@
       "date": "2026-05-11T09:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 924,
+      "views": 930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +96,7 @@
       "date": "2026-05-11T14:32:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 982,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +114,7 @@
       "date": "2026-05-11T19:44:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 999,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +122,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W1jQqMa3ewxcKu_LAbvveZOpVjz6zCRNwhkxwLV_PaxShJiPhRt6Q_nvC_DRtasX_vyniRIO_f1-CM1kV_ChaP2v4e9iFYg0MtSnCVJhT-KoFRstkQgQejNJNVa8_lKoGkwQoYOSYep9hgak3-iE-pajDxaDWy1Q4GMMeizfCw9eT39Rm-lMS98PuMIOd4I6siKmEGHTDp7XyW8J3RJ4mo9CX6pL7BAWZk1pL8CX-cwxqqpmTh3IAf5B81h7zyQnVL-WXtEdDW_THp1_uh65qNmbnUJ8qJFjAwvQYNq2R171msRSpAyl1LAsHkqlp3SsTmseXBBFC86hK6Sw4nZOQA.jpg"
+          "url": "https://cdn4.telesco.pe/file/foRSyHlS7EUrkEO-SvHLB6EFDiKQgGUOxHf-_Tv27pPxAcgo0v2bkIWg7-pZXpr1oJNWUJSOco_m_hBSoB3zIeuiVAnljb8rhAVIymGk0uH_-xH-YqGroyfDTbiHhqpw2H9DR4HxXat1zlbHkifR0zGGEBwgZYw9iTAtmDVX3a60HNDWm1dSkMC0E7CkTu1oUtdxE7xHl6dRAWRyb4bXPzVndgtnjXNhtArR1JBWkX_BIkq3twCSI-05ICwn0hGfDDalqYEMiyLTQGo8i23S06QpFNl18Hva7Crxq4gXtVloTt0AL2SOxpgjRT-QRFPVjs3nRn1AYLzr0WTcpuzVSg.jpg"
         }
       ]
     },
@@ -144,7 +132,7 @@
       "date": "2026-05-11T19:47:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 965,
+      "views": 988,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-05-12T08:14:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 903,
+      "views": 920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +162,7 @@
       "date": "2026-05-12T11:23:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 937,
+      "views": 954,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +174,7 @@
       "date": "2026-05-12T13:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 561,
+      "views": 573,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-05-13T07:06:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 757,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +204,7 @@
       "date": "2026-05-13T07:36:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 697,
+      "views": 752,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +216,7 @@
       "date": "2026-05-13T08:08:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 687,
+      "views": 746,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +234,7 @@
       "date": "2026-05-13T10:17:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 717,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +246,7 @@
       "date": "2026-05-13T16:00:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 378,
+      "views": 506,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +258,7 @@
       "date": "2026-05-13T17:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 284,
+      "views": 443,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +270,7 @@
       "date": "2026-05-13T18:24:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152,
+      "views": 385,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +281,25 @@
           "url": "https://cdn4.telesco.pe/file/TwB2axnkp3lhY1vureuiwt7vyPHQYvmcNqrJD-GA7qxoSuHol2W5B_lr8FA9BNVI6T4XSunmPtVhwx9fKIsY0ZNtHiLqYK6hRVOE-CvQDPG20d67locVUlwWeTxMGOxpCwTDIn2iR64LQLFfzUTVi5SkTwEKtIYjoVvmmlfw3hUcSYV-5BkLU8IhBwMgdUEVZoBWz75bwcFupei5UJA-NQ0YHuCdYJE5NYZ4nTHbbUm5X3xRV_5nvxgYjxqrBNFLOBFXdzILugPo7jmTFAAjl3_chnhWpjRc6Q4h8IVBtLPToM1JGyaMxsjoooFpXH0vyjOJ6-ZDhbM6KD6uqZ_ktw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خب گیمینگ طبقاتی هم به لیست طبقات فعلی اضافه کنیم.\u003cbr/\u003e\u003cbr/\u003e- جهنم و بهشت طبقاتی\u003cbr/\u003e- جامعه طبقاتی\u003cbr/\u003e- اینترنت طبقاتی\u003cbr/\u003e\u003cbr/\u003eو....\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T19:19:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 317,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tY4Auju2ZFFfl1EtqEbGVUbnDss3kJnnIcUcdyjaDvp0al6OsgdJO7JJY8B_nCfxHtG0crYZWwPoQCfPWj_dNhlNGlUr_ECOJ-ogNTSBbkeS3Jjtp5DJf5Lkcg2m-0sDGjPsGFb5XEIx8ed_sGj77Lw38d2nH2-I61tnR__MyWayy6dBUQRk79bLw-GeI_1b2Q2JRkRJVz1YxeZyfiNP5oTv3svln8bccMlSno2p0i-7hHuCWlNLKgEV5yv30VXWUU-RyO0x1bkbxJU1GwrkwpOu-ZldXAOgZ-LbKglNAHbBuCqrFJeqAtfIP85mo_3DUCbH0agQ0NXLseXkHVJEEQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778698419
+  "last_updated": 1778704234
 }
