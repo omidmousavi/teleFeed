@@ -8,73 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "الان خیلی رایج شده خیلی از برنامه نویس ها ریتالین و یا ادرال برای تمرکز می‌خورن؛ حالا سوال اینجاست اگه اینا چیز خوبیه چرا ما نخوریم؟ اگه چیز بدیه چرا دکترا تجویز می‌کنن پس حتما چیز خوبیه دیگه؟\u003cbr/\u003e\u003cbr/\u003eریتالین شبیه به گرفتن وام با بهره بالاست یعنی امروز برید بانک 1000 دلار وام بگیرید و 3000 دلار بخواید در طول سال به بانک پس بدید، این کار شاید احمقانه باشه ولی بعضی مواقع بحرانی خوبه نمیشه گفت ریتالین چیز بدیه. و البته دقت کنید پزشکا به صورت حرفه ای آموزش دیدن که چطوری این بهره بالای وام رو کمکتون کنن پس بدید و هوشمندانه تجویزش می‌کنن که ورشکست نشید پس با سرخود خوردن خیلی تفاوت داره، اما اگه خودتون تنهایی باشید میرید چند بار دیگه میخورید که بخواید بهره وام های قبلیتون رو بدید، بدهی روی بدهی جمع میشه در نهایت تبدیل میشید به شخصی که قفل شده و حتی نمیتونه یه خط کد بزنه اینجا داستان کمی خطرناک تر میشه چون میرید سراغ وام با بهره های بالاتر مثلا 1000 دلار بگیرید 5000 دلار پس بدید و این باتلاق همینطوری عمیق تر میشه و در نهایت ورشکست می‌شید و حتی نمیتونید 5 دقیقه کد بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-07T09:52:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "خفن ترین انیمیشنی که تابحال دیدم این تیکه ویندوز هفت بودش، لامصب چی ساختن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-08T09:08:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/q2gOLwO56KRrDbPnr-sDIdkVxRoR4uww8dJOS7WXVyX7PFmmJm8fK-8hW7Q0cw-QOuVGJPLUOZ76RwVfSYNmwDIk3TgHuS22UZrIywA7Hu8hxHx1jzwd-vkIkDqkuiQ0svEMdzhgUrn-H5-QoM4No90K4EWGC11L9CMmgYCBYPtfja1ExvH5v1XYQ2OLuZi7M5ho2DxYiTcoSrm0EW7T6vCndMZpg8FI7dApL9VprG_5EfvNSvCPyaBSxErnBxlRYoIY16iPwHGhCbF0vEDKDEqiEWFUNrcsXpeao2CjmbxnImYK0GDtkWot_d56ND93iwG01gPUKYfaVAio4OtUog",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من حس میکنم اینترنت تا مهر قطع میمونه :)\u003cbr/\u003e\u003cbr/\u003eبخاطر انتخابات میان دوره ای آمریکا که 12 آبان هستش که ترامپ تا یه ماه قبلش یعنی مهر سعی میکنه یه نتیجه ای از پرونده ایران بگیره اگه نگیره توازن قدرت می‌افته دست دموکرات ها.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-08T09:30:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "‏الان هوش مصنوعی فقط کدنویسی نمیکنه. داره کل کار راه اندازی یک بیزنس آنلاین رو انجام میده.\u003cbr/\u003e\u003cbr/\u003eمثلا با همکاری Cloudflare و Stripe یک ایجنت AI میتونه فقط با یک دستور این کارها را انجام بده.\u003cbr/\u003e\u003cbr/\u003eاکانت کلادفلر بسازه. اشتراک پولی فعال کنه. دامنه بخره. توکن API بگیره. اپ را روی اینترنت منتشر کنه.\u003cbr/\u003e\u003cbr/\u003eتوی دمو هم مدل Claude Opus خودش لندینگ پیج ساخته. دامنه خریده. سایت را آنلاین کرده.\u003cbr/\u003e\u003cbr/\u003eفعلا بعضی چیزها مثل پرداخت و قبول قوانین هنوز نیاز به تایید آدم دارد. استرایپ هم محدودیت گذاشته که هر ایجنت بیشتر از ۱۰۰ دلار در ماه خرج نکند.\u003cbr/\u003e\u003cbr/\u003eولی نکته مهم اینجاست که AI دارد از مرحله «کمک به برنامه نویسی» رد میشود و میرسد به «گرداندن کسب و کار نرم افزاری».\u003cbr/\u003e\u003cbr/\u003eیعنی مشکل اصلی آینده ساختن محصول نیست. کنترل کردن دسترسی ها. اعتماد به AI. محدود کردن خرج ها. و ثبت کامل کارهایی که انجام میدهد مهم میشود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
-      "date": "2026-05-08T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://t.me/Linuxor/4168",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه برنامه نویس وب هستید پیشنهاد میکنم سورس کد تلگرام وب رو یه نگاه بندازید فوق العاده شاهکاره\u003cbr/\u003e\u003cbr/\u003eتلگرام بخاطر سبکی داره وب رو به صورت زیرو دیپندنسی جلو می‌بره که عملا توی وب زیر دیپندنسی چیز غیر ممکنیه چون هر چیز ساده ای توی وب وابسته به یه کتابخونه دیگس، حتی اومدن فریم ورک ری اکت رو دوباره از اول نوشتن به اسم Teactیه نسخه مخصوص خودشونه که کثافت کاری های ری اکت رو کلا حذف کردن، پروتکل ام تی پروتو رو برای جاوااسکریپت رو دوباره نوشتن، کلی مفاهیم توی ورکر هارو دستکاری کردن، کش چند لایه گذاشتن، وب اسمبلی و استریمینگ پیشرفته ای توش به کار بردن. خلاصه همچین چیزی اوپن سورسه واقعا یه نعمته\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Ajaxy/telegram-tt\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Ajaxy/telegram-tt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-08T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
+      "views": 8090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +24,7 @@
       "date": "2026-05-09T08:38:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +36,7 @@
       "date": "2026-05-09T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +48,7 @@
       "date": "2026-05-09T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mDLBh5MBKS2Jc3RZEi-hXILYgMX6ZA7sSzvSC2zMwk7r4JpbIvvho2PZfmJ4YIrCu_qlVHeDOWnA7IBpcxdF-gvfMR8ifpyjQj6IbEteODDwRKP_ixshdaChbvfy6IOMuYtyZ6B73c1ALAte8Ga1t6EN8Z1fHUbSsmxcVxp7mmWM349QVz3W-4rapYmBoHzOd1g8_X77yztyGurCWSocw62ZK18aA8LaM6kdxt9zOx4pAA4xovRh36gGjDrXKk1ETX6wtXnhbYZlK1zbEqznMRv2P3G2BqqWpwk4r03uWzyiALtpc1tg3WwDJX-B9_VYluW3GkgRJPwR4CvLLwqGOA.jpg"
+          "url": "https://cdn4.telesco.pe/file/riGj6hA48tU2quhxGUkSfaAf7RO5Cx0ofI9Tnsg1El9iIWFV4_iPtMm-b2J_ECvILXYjdJGPTe98K4cYaDjk205u8FAI8H6yIx1BgcDBHu5hvKf9Gs1dt19BNECuzWn3Rtp4UoHRpTsnNVBEEPNfSFyYfcJkraVfg48AMT1VHyCaK3F1CPWCGmG5aap7ynLRomlp6qc61oNsw37_m0KpsoBLuzgZw03dqikOHeoyNnKOYPXZPqfcZOvoIINMP8ZzRTGLR6qjQz0OUqHAJST2ZqRgBWD6uNnV8v3BZGbkIAzm0eFqs1T3rzuCLUzerqm53Q2LhAy4SIrOa91dGkmB2Q.jpg"
         }
       ]
     },
@@ -128,7 +66,7 @@
       "date": "2026-05-09T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9110,
+      "views": 9700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +78,7 @@
       "date": "2026-05-09T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5420,
+      "views": 5640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +96,7 @@
       "date": "2026-05-09T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +114,7 @@
       "date": "2026-05-09T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +132,7 @@
       "date": "2026-05-10T09:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5760,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +151,7 @@
       "date": "2026-05-10T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iQFkwIMLkW8tvjZbFG29LQpMRn7sHJ78WR44jixTAkelT2MqzlWA5294mxiISfIt-D0iWKGIXsmdsJUtBcAOZ16TdWLz-LFd2b0AVsRv--KNPEeQ63YVaW1nrZ4v4S6cNo3WP0frblQl6AEj0JLvPRkELrqnKqcS0Bixa-O3pfbVUvKZd55NuSxjyTxvcLHDNp_Bn9hOWzmmWh_l32M3RRibNUHWWElv004FZdfyTpOf2TA11JU9t7vJBTmFvCTP2KbFNb3cl7GOnfAkaGt-DrfVMraUqLKYcW03UE22RqBwmCa5cttzxpagzIs3h_AT-dk60CCUk4dRVa95qNMntQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/JiWXJNSvN8EQFVZXJ-4SZeCXchGvwp28nz0X7m6W1C3WgaIGB32TjfJplePtvzXff-Tg_oXkUsfICKYd1_Gx35TNVxVH5hb3OD2LW7-Fyrms-7KwGfDSmA7_lrfcuQqir_0_jXLjUzCA0tCA92tk35txgP1ACdOxZViCyUMJ4v09CJBMAbh7VL0ceVfXkTgZM1lZmf64KdEZizQ7Y_BC91C6DIaNL_LEHHtAcywee-dO_7I90Dks81o-apfknPtBlviJIyRTfyzJ9zOgcr5UMpfvc1tnoSQ-AXwROorJN7JHZX-Q9DNY56nggoggs9lMkteDQ8Ey3yy976885iFfpg.jpg"
         }
       ]
     },
@@ -231,7 +169,7 @@
       "date": "2026-05-10T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CcpA6DWK_nLYfJxWCMv079q-f-ujYy5hr0hNCBysLP9oIJ44uvlEM_Da8y1FFVPxPCqR1etG2wF2sWJFtuyaUDEibrk2MRWRrPodu21jLoF_QAjf-wyNRtJ7nndsWOJcRm13YO-QyjZq3mHWafIBkEYRk0yOv1Pgr61DqWzzKvXIdpnAhHUM7Y7nes5aC4cqdWc4x7qKLATeMCweD58MvGrRA9xsWiQl2y8eNu8Lqrgf0TtFK5frW5UoBGSEzJMkW2yIPpKUF0zIIt6jTnuUpOqR8LtpoAA7BOPNpN6EUVtLvS-Dsbfp5rHnGTswRPGd9zj3G7zcLnyGLddue6zxoQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/MqH9ScXZbKw-A5kBmXM6WBZuSE8__Q7I0LC7CPFPe-8Epkjm1Le7njcWyIDJ29-rh5V9FkdXYu05m8BTdVU1J7Hr9GrhMPuuHiIKuhhprZZmzQoPyAEcRWP_I7LW08ZZip585qLzjToK29h5mB_pqtZRgutFvMsJm3BQvPwVAKR9P7qe6R4YjzzSIF-RYWeCublqZwTMsCUspwA1ioXeSCx06jqzf7B5NURr0W4gu7m_BXJFiIa1ew8lzlD97q9-CMOavvLkGib5079zf2hkBOT66R-APXfhSkD_PIDXG2ShsweF3DqYlDtqrhVx98bv9BClXMu4ev7fyFIrpncc9Q.jpg"
         }
       ]
     },
@@ -249,7 +187,7 @@
       "date": "2026-05-11T08:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +206,7 @@
       "date": "2026-05-12T12:17:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4810,
+      "views": 5070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +218,7 @@
       "date": "2026-05-13T09:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3250,
+      "views": 3900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +236,7 @@
       "date": "2026-05-13T09:37:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3100,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,12 +255,79 @@
       "date": "2026-05-13T10:50:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eدستیار هوشمند شما، قدرتمندتر از همیشه!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاکانت \u003cb\u003eGemini Pro\u003c/b\u003e [ Family ]\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5836685831699435996\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فقط با \u003cb\u003e299,000\u003c/b\u003e هزار تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003ccode\u003eمدت زمان اشتراک : 30 روز\u003c/code\u003e\u003cbr/\u003e \u003ccode\u003e(اختصاصی)\u003c/code\u003e\u003cbr/\u003e\u003cblockquote\u003eروی ایمیل شخصی شما بدون ورود\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eپرداخت امن با درگاه پرداخت  \u003ctg-emoji emoji-id=\"6001460886210876000\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | کارت به کارت \u003ctg-emoji emoji-id=\"5287661248878490473\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAAAA.png\u0026#39;)\"\u003e\u003cb\u003e🪪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | پرداخت با کریپتو \u003ctg-emoji emoji-id=\"5352874344378810114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eهمین حالا ارتقا دهید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eلینک خرید از وب سایت:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5310180286397423397\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://zhimunplus.com/product/gemini-pro/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eZhimunplus.com\u003c/a\u003e\u003cbr/\u003e\u003cb\u003eلینک چنل:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247011805783433524\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Zhimun_plus\" target=\"_blank\"\u003e@Zhimun_plus\u003c/a\u003e",
+      "date": "2026-05-13T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tzU_PGWa_opB18aHzikSglK3ZyC6rXl57l-MTBu0a_3aqslCDjWo22VQvhLx8DEM8XEOsRVuddOn6DvqIkvi4BNXPV-okCpCJeS4PmMsLn3mKAR_XsJbgnwRT3vpXhVB3TKxZr36i6K1LyD6KrLD2PFFvtv_E9VZ0IRFUwlBxcNz9PgelrCn8gfYu1v5lFg7gOc-hPUv6L4gxbo3AbKD8EqYDUzx3UOPT_EXX9uYt4KRCN02KP59yGMWRw-9TAlhnLVCQC4ppCQ5cWnICioTJGBTid0gbg89XaXasTe3ir4I9qXIFn6Iy3nu6LJqlApxwmgkdprCcWVezPb0qq3ycw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این کلا چند روزه اوپن سورس شده، یه محیط عملیات سه بعدی که با html و جاوااسکریپت خام نوشته شده\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://tinyworld.build/\" target=\"_blank\" rel=\"noopener\"\u003etinyworld.build\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد : \u003cbr/\u003e\u003ca href=\"http://github.com/jasonkneen/tiny-world-builder\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jasonkneen/tiny-world-builder\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-13T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZLVoFBY-_hsDUOx0OSN8vLXd3acig7s01LNP9jy-k8Xgd3I41HPROtbLdIz9UQiQK2HPpMMX48k-DWFVuJFR5tdAimLJf-WBpz-sz5kgJuDxN88A294GqfOv4nMPd6mgvaH_WcMg97YVwWBzJH6D5RKom046SjE-ncEq_AzWmzsMp0r775CpIl1RDvYf_yA0nTQ7StSum_LL1RlIF949UQJWe3Iq2WPRwVyABnzbrkScBaWkSw2--rKI65UIEz6neLSFNMFNeqO4RwVJU_tzr6PxGNv5nqEJh3E8euDTHZugx6s8CDX9UfAiLmdEbD5mZcT4i7H0kTa-DT4cBkbLDQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه یه ذره وب بلدین میتونید برید الکترون جی اس هم یاد بگیرید و اپلیکیشن دسکتاپ بسازید، یه مرورگر داخلی داره و اپتون رو لانچ میکنه، اینا همه با الکترون جی اس ساخته شدن:\u003cbr/\u003e\u003cbr/\u003eVisual Studio Code, Discord, WhatsApp Desktop, Slack, Skype, Spotify, Twitch, Postman, Obsidian, Notion, Microsoft Teams, Figma, Bitwarden, Signal, Trello, Atom, GitHub Desktop, Evernote, WordPress Desktop, Mailspring, Insomnia, MongoDB Compass, Brave Browser, 1Password, Itch.i‌o, Discord Canary, Loom, Etcher, Skype for Business, WebTorrent\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-13T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "ایده جالب بند ساعت یه طرفه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-13T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bgs0JKZnAIEv_Wm6ZXaJUh7bRExApivVkLNkFb-dpWb-2I0pxh0-3oQKo_QTZggQmtHFEsPoCzIUV3yq6P0S1SpPkIhNiBIZg_bxZ2Novelnt7NTRfPE2Wjx6cmaTLYhQHzzU4C8WdAkKhhG9A5KuNFXSTuXyq4hF83Fi1m3IVB6WFcIZEjONbiB6RI9ak-mxk1EM9BlXq8n48k0uOC7rXsSXrj0zvtAlaUuX2LgvazRi4Bj1JSh2MRfNRoeJffy-u-Gb5_B3STj6soVMwahkuPKuhTjUPSHO-NThIiNtMnGtstbRChnTl_ujD1wA0Kv9SC79Hp99QD5H4SimtgLBQ",
+          "width": 716
+        }
+      ]
     }
   ],
-  "last_updated": 1778681230
+  "last_updated": 1778690264
 }
