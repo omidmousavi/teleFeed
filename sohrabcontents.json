@@ -8,95 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب در بی‌اینترنتی آدم می‌شینه پای پروژه‌های قدیمیش.\u003cbr/\u003e\u003cbr/\u003eدر این حین نشستم و یک‌سری اسکریپت قدیمی مربوط به نصب ویندوز روی ماشین مجازی در پارچ با یک کلیک یا PWS (Parch Windows SubSystem) رو بررسی و تغییر دادم.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از سروش که ایزوی virtio رو رسوند به صورت خودکار درایورها نصب میشن و اینکه ssh هم فعال میشه روی ویندوز میشه بهش ssh زد.\u003cbr/\u003e\u003cbr/\u003eحالا نمی‌دونم چرا یکی باید به ویندوز ssh بزنه، ولی خواستم بگم این هم وجود داره :))\u003cbr/\u003e\u003cbr/\u003eهدفم درحال حاضر مصرف‌کننده میزکار نیست، چون برای مصرف‌کننده میزکار راه‌حل‌های زیادی وجود داره، دارم ذهنیتم رو می‌برم سمت ویندوز سرور و اکتیو دایرکتوری و دامین کنترلرش برای پارچ سرور.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-08T21:59:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S4F94uEPJE_xCNaitB0Dx_4uUSuJoxuOK3j7a69VBL6DqwbSK9tnCyRPHPZ5cn6t7WjLbdbSMXDzDfrkZYUUm7GctBgc-qTuBTaxZIjbtbr0L6oHT6c0lpeEfN9RtRIOWbGY5O-cF9yOlIoVQB0JiwiAGtxxkuh7s9ACtivlLlpwLWjoIKgQ_PALgJuq8PVwqTDsvsc9KlMzhMq5_sAiKNFt27oF3MXSD0KwNZlQ4QUa2lRnCdpQ7wnbsPx_9ix66el2cfZ2pqmqI64v0fNR0c1MwUkCKNXCJZsURPvEteYFBgwQHoNmPfbKD2hag0cCmVKHIQIa-hlt1IQKc78dtQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خب الان دیدم که سامانتل هم بسته‌های اینترنتیش رو گرون کرده و ۲۰ گیگ یک ماهه ۴۹ هزارتومن، شده ۱۰۱ هزارتومن.....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-09T06:21:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "میگن کارگو باز شده ولی من نتونستم چیزی نصب کنم و کلا باز نمیشه برام.\u003cbr/\u003e\u003cbr/\u003eاگر برای شماهم به همین صورته؛ می‌تونید از مخازن کشورهای دوست و برادر چین که منت سر ما گذاشتن و وایت‌لیستشون کردن استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.sohrabbehdani.ir/rust-molanet/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.sohrabbehdani.ir/rust-molanet/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-10T04:50:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 991,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "بهترین چیزی که خوندم :))))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-10T08:13:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 959,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/s9aGuiqq9MdZQhE0zafAoA8-hAY45jItjWuXCh8md-XZeyVwz7t5Oap4c-nXSLXV1AhtDWsP7t-HanmtjLeq6_g0RDPyO2H0jJZM6nQdJ-tlJ1RwaHhxVRXNf_yHp-dx-tUVRgCbaXdyrb6mtfk6kiRW3Wodqtkp0P7JEhAyRZElEkPqslGkteV7dNDSylb5hEHt7Ybpl30p7q5-jyUtR08i0NqyrRsscDd0bpebDFRJnh8tgUHUE9BkQWtm1AxO-nmFe6zsR94o7B5mKwNaM5_64JeZcFH9jejc3hW82wG2M5keoHewqWqQ3N4pkJxKTMBcPKVEOHaf3pHY-bo2MA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یک صحبتی رو یک‌جایی خوندم که الان حضور ذهن ندارم کجا بود که باعث شد یکمی برم تحقیق کنم.\u003cbr/\u003e\u003cbr/\u003eبحثی که هست به این صورته که زبان Rust یک زبان به شدت llm-friendly محسوب میشه و llmها می‌تونن کدهای راست بهتری رو بنویسن نسبت به مثلاً اینکه بشینن یک کد سی بنویسن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخب این به این موضوع بیشتر برمیگرده که کامپایلر راست به صورت پیشفرض میاد و خطاها رو گزارش میده؛ که این موضوع به llm کمک می‌کنه که بهتر بفهمه چه چیزی رو در کجا خراب‌کرده و اصلاحش کنه.\u003cbr/\u003e\u003cbr/\u003eو اینکه یک سری تحقیقی هم که من با چندتا مدل داشتم این رو پیدا کردم که می‌گفت:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eRust is considered “LLM-friendly” mostly because modern LLMs generate statistically better Rust code than many other systems languages, and because Rust’s design aligns unusually well with how transformer models learn patterns from code.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eکه حالا این رو دوستانی که هوش مصنوعی کار می‌کنن مثل حقیری باید بیان تاییدش کنن.\u003cbr/\u003e\u003cbr/\u003eولی به هرحال توی این مقالات نسبتاً توضیح داده شده که چرا همچین چیزی رو میشه گفت:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.rezvov.com/rust-and-llms-the-compiler-does-what-code-review-shouldnt-have-to\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.rezvov.com/rust-and-llms-the-compiler-does-what-code-review-shouldnt-have-to\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو اینکه دوتا مقاله هم در رابطه ترجمه کدبیس‌های لگسی سی به راست با استفاده از llm وجود داره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://arxiv.org/abs/2505.10708\" target=\"_blank\" rel=\"noopener\"\u003ehttps://arxiv.org/abs/2505.10708\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://arxiv.org/abs/2405.11514\" target=\"_blank\" rel=\"noopener\"\u003ehttps://arxiv.org/abs/2405.11514\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو مایکروسافت هم یک نتیجه تحقیقی رو هم در این مورد پابلیش کرده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه که یهویی اگر دیدید پروژه‌های راست دارن زیاد میشن روی گیت‌هاب و غیره تعجب نکنید :)))",
-      "date": "2026-05-10T08:44:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "در زمان قطعی اینترنت مینت نسخه‌های hwe خودش رو هم معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکه این‌ها از سخت‌افزارهای جدیدتر پشتیبانی می‌کنن، مثلا کارت گرافیک‌ها و ....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-10T09:41:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 902,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "من سال‌ها از منفعل بودن جامعه نرم‌افزار آزاد ایران نوشته بودم و الان تصمیمم رو در قبالش گرفتم که توی این پست بلاگی که اخر لینکش رو می‌ذارم اعلام کردم. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمن ترجیح میدم از الان به صورت یک توسعه دهنده مستقل از این جریانات فعالیت کنم، جریاناتی که جز اتلاف وقت و ... نتیجه‌ای نداشت.\u003cbr/\u003e\u003cbr/\u003eجامعه نرم‌افزارآزاد ایران به شدت با حکومت حاکم بر ایران گره خورده.\u003cbr/\u003e\u003cbr/\u003eبخصوص اگر شما وسط بازی باشید و ببینید که داریا همراه میاد و بودجه توسعه یک رام اندرویدی رو تأمین می‌کنه و بعدش اون رو به عنوان یک رام هندی به بقیه معرفی می‌کنن و در انتها هم میان با پوشیدن تیشرتش همه جا اون رو به‌زور برای مردم نصب می‌کنن و در کنارش یک داریا هم می‌فروشن بهش پی‌می‌برید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.sohrabbehdani.ir/fossir/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.sohrabbehdani.ir/fossir/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمن دیگه با جامعه نرم‌افزار آزاد ایران کاری ندارم، خودشان بمانند و کاستوم رام بومی خودشان.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه: من کدم رو میزنم، مشارکتم رو می‌کنم، لاگم رو شرکت می‌کنم ولی دیگه به رویدادها و کارهای این‌ها کاری ندارم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-10T11:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 906,
+      "views": 917,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +24,7 @@
       "date": "2026-05-10T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 604,
+      "views": 610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +36,7 @@
       "date": "2026-05-10T17:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 955,
+      "views": 970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +48,7 @@
       "date": "2026-05-10T20:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +66,7 @@
       "date": "2026-05-11T09:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
+      "views": 903,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +84,7 @@
       "date": "2026-05-11T14:32:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 935,
+      "views": 951,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +102,7 @@
       "date": "2026-05-11T19:44:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 906,
+      "views": 934,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +120,7 @@
       "date": "2026-05-11T19:47:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 906,
+      "views": 935,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +132,7 @@
       "date": "2026-05-12T08:14:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 866,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +150,7 @@
       "date": "2026-05-12T11:23:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 849,
+      "views": 897,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +162,7 @@
       "date": "2026-05-12T13:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 474,
+      "views": 516,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +180,7 @@
       "date": "2026-05-13T07:06:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 379,
+      "views": 551,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +192,7 @@
       "date": "2026-05-13T07:36:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 324,
+      "views": 520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +204,7 @@
       "date": "2026-05-13T08:08:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 228,
+      "views": 472,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +215,77 @@
           "url": "https://cdn4.telesco.pe/file/f-XvilRcyuCknSQZgE-nbXrltdrOxwUwHZO_5-63Bd1OULDWmxWflJTBR-INF5BcYrxUKSH2C0udM3YWi5IM5qc-jrm52sebn85dFFVvjVSvS9KZBWK9-0ELhu10xHxeeILxgYxLXQ5rpgzTW0sh2oBrUa1Ye7dQSkN7WgnLaPy1n3zvyQEylVPQdcZUyapJGBLurA63DI0HFP2tJteP3phG8v_6VrNqWK66payv6RtAcKrFOgT6BA-nmpntqnRbnAXX2vm7jFSTlqqEi5E7KuPPMPSuoZvo1FcAnHHjRAPAEKNGNsYzytuQGXWqATTHmeBzkqph5_wNbGTW1cW_6g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "قطعی اینترنت بعد از اعتراضات دی‌ماه ۱‍۴۰۴، فرصتی شد که وقتم رو روی parch next بذارم و تغییرات زیادی رو روش انجام بدم.\u003cbr/\u003e\u003cbr/\u003eپستی که در ادامه می‌خونید بر اساس changelogمن نوشته شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.sohrabbehdani.ir/parch-next/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.sohrabbehdani.ir/parch-next/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T10:17:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 363,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "اینکه یک سری سرویس هوش مصنوعی اینترنت سفید دارن و مدل‌های رایگان رو بهت با قیمت گذاف میدن رو کاری ندارم، ولی اینکه میای پارچ رو با این مزخرفات حکومتی مقایسه می‌کنن و سفسطه می‌کنن، نشانه از حماقتشونه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخداروشکر تا الان که پارچ اومده، هر کاربری داشته کاربرای وفادارش بودن، هرکسی هم حمایت کرده از سر لطفش بوده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا اون عده معدودی که دنبال سود بودن و حالا پارچ براشون تیشرت و پول نداشت می‌تونن برن چنگ بندازن به کچی او اس و مانجارو و فدورا و هرچقدر دوست دارن مارو تخریب کنن، دیگه برام اهمیتی نداره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T10:53:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 244,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "واقعاً از فن‌بیسی که محصولات حکومتی دارن آدم تعجب می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eواقعاً کاش فروختن شرف و گرفتن سرور و سیمکارت سفید کار راحتی بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T11:15:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 184,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "و واقعاً متأسفم برای بعضی چیزها.\u003cbr/\u003e\u003cbr/\u003eاین همه ما روی این پروژه کارکردیم، یکبار یک پیام عادی از این به صورت خودجوش به جایی فوروارد نشد.\u003cbr/\u003e\u003cbr/\u003eمی‌تونن کسایی که تلگرام دسکتاپ دارن برن ببینن فورواردها رو با هاور کردن روی بخش view.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحتماً باید یکیمون این وسط دستگیر بشه یا بمیره که اون پیام بیشتر از صدبار فوروارد بشه؟؟؟ \u003cbr/\u003e\u003cbr/\u003eفرداروز باز دوستان داریا همراهی و دوستان دیگه میان انگ این رو میزنن که این‌ها با این کار مارکتینگ سیاه انجام میدن.\u003cbr/\u003e\u003cbr/\u003eتنها لاگ‌هایی که تا الان بی‌منت از پارچ حمایت کردن:\u003cbr/\u003e\u003cbr/\u003e- لاگ تهران\u003cbr/\u003e- لاگ بیرجند\u003cbr/\u003e- لاگ مشهد\u003cbr/\u003e\u003cbr/\u003eالباقی دوستان و بزرگان نرم‌افزارآزاد حتی از آوردن اسم این پروژه هم می‌ترسن، بعدش که عرفان رو گرفتن یهویی نگران این پروژه شدن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B1.png\u0026#39;)\"\u003e\u003cb\u003e🥱\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eنمیگم حمایت زوریه، نمیگم من مونده حمایت شمام، ولی واقعاً جالبه که همچین وضعیتیه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T11:21:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "مقایسه ساده‌است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T11:28:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 80,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DJYE6EwNwY6Z_11G-RHl6vjd1wX1Bx9j5Dt39VuAM7i4akcLbfghWO2JzPci_wegGdefjFCDL_jVB4dRCmrN0SI72Rwr3fuR9RHe_P1Rvp5ISlw4NvIy-EowoFYutumQqeF2Vy-piKwl4E7Rg7yW8SUDWZmJ5IPV2Sjo9bsGpjY9wWiOcxinlKejuQ6NFCzWiIwYxAOnf0Fa-ofv2AMV6DHUdzE6p4mZ05fXNtnFL0aoxTimeJzo9b9DnKOHSFOXi5Es2fZRCrc6OleynPKeBMiedhyAw416x6aSzz1b9YCqF-Vq4q_nQeegGChxNECOq_pZc094dhSBfz7aOEsn1Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hQy1Lh8Q19hly5QHG9jKOn9hB8V_9g2_J0sMnBZNZl1cSbTgs4J-EuUpwVkDFYCPhpEeCL_cFubzg4qR4SEozu9YlFB_XYbighnly2k73LsaoblYJTKNBAdwJsmlW7GwUXIM_pmxynzsx5wtJ81xuD-6EHI5_YINUm9h55xrtK_BB-Mtd8EXW1ggt_FQ5IxBlRXYth1cpTIrjBxkqTV8D5XpncNaM4-tJrl2VR0egtIc75W4BZ9IfxbqlhPIKsIXmeo4gD3UsTMYfyvC1MkOEhzAc1ZOhe0DrqsgAjsjiAlthY7pcM4aSnPwkuVV-O7Nk-R8bYHsHm5tUX5V_4_MkQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778664232
+  "last_updated": 1778672388
 }
