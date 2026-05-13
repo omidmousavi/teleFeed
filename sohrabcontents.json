@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این هم بخاطر استاندارد IEC عه که برای رفع یک ابهام بزرگ در دنیای تکنولوژی معرفی شد. ماجرا از این قراره که کلمات «کیلو»، «مگا» و «گیگا» در سیستم متریک (SI) همیشه نشان‌دهنده توان‌های ۱۰ هستند، اما در علوم کامپیوتر به‌دلیل ساختار باینری، از قدیم از همین کلمات برای بیان توان‌های ۲ استفاده می‌شد. این تفاوت در مبنای محاسبات باعث شد که مثلاً عدد ۱۰۰۰ با ۱۰۲۴ اشتباه گرفته شود. برای پایان دادن به این سردرگمی، استاندارد IEC 80000-13 در سال ۱۹۹۸ معرفی شد تا واحدهای دودویی مثل KiB و MiB و GiB را از واحدهای ده‌دهی متمایز کند. این تفکیک کمک کرد تا وقتی از ظرفیت حافظه یا انتقال داده حرف می‌زنیم، دقیقاً مشخص باشد که محاسبات بر پایه توان‌های ۱۰ است یا توان‌های ۲، تا اختلافی بین عدد اعلامی تولیدکننده و چیزی که سیستم‌عامل درک می‌کند پیش نیاید.\u003cbr/\u003eمرجع استاندارد پیشوندهای ده‌دهی و دودویی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.nist.gov/pml/owm/metric-si-prefixes\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.nist.gov/pml/owm/metric-si-prefixes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-08T16:13:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "سروش قبلاً روی نسخه کازمیک پارچ کار کرده بود و من هم چندوقتیه که دارم این رو بررسی می‌کنم تا ببینم که کازمیک چقدر نسبت به الباقی میزکارها با چیزی که من از پارچ توی ذهنم دارم سازگارتره.\u003cbr/\u003e\u003cbr/\u003eخب به این نتیجه رسیدم که چه خوشمون بیاد چه خوشمون نیاد گنوم داره سیاست خیلی غلطی رو در پیش می‌گیره برای خیلی از کارهاش و اینکه اصلاً به این موردی که کاربرا دوستش دارن کاری ندارم، شدیداً دولوپر انمی عه. بخصوص زمانی که یک اپدیت ماژور میاد و مثلاً گنوم ۴۹ میشه ۵۰ و نصف افزونه‌هایی که نصب کردی و نصف شخصی‌سازی‌هایی که انجام دادی بریک میشن.\u003cbr/\u003e\u003cbr/\u003eبه شخصه این مورد بارها برای پارچ پیش اومده، مثلاً از گنوم ۴۵ به بعد ما شخصی‌سازی اضافه کردیم که به GDM یک تصویر پس‌زمینه اضافه می‌کرد که خیلی قشنگ بود. \u003cbr/\u003e\u003cbr/\u003eگنوم ۴۵ شد ۴۶ و بعدش accent color ها معرفی شدن، حالا باگ پیش اومده چی بود؟\u003cbr/\u003e\u003cbr/\u003eاین تصویر زمینه GDM به صورت خیلی منطقی باعث می‌شد که ویژگی accent color گنوم بریک بشه.\u003cbr/\u003e\u003cbr/\u003eبعدش نسخه ۴۶ شد ۴۷ و ۴۸ و از این هم فراتر رفت و ساختار دکمه‌های Control Center گنوم رو بریک کرد :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-08T20:43:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 981,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qcDJAVS0NObmUhDa204b8HS-5AG-B0rBtP1M9fWZ5DH0SNhddonWJMSo_Oe7beVyO27ihERAurY3tT4EgGFayfKJAxdREMEXDLWZut5N5BLS4jNqMQStAfcD3RrjdajVJ6gZQ0pSemcaCl2fiwPnpzVavRIfqF9_J7CcqTIhPJpL5-mp-rIzHyWF0cqjpHabSBCvhXtkJ_5HqeWi349SzYkIn0pm0EjbN-N7o6eP4hLYrqSbe6RztvuAGH0jV-EAOHpVLUXUGvKmIoW6I2GpNJB5tyY9B4STjkCL1XgBj3WqbXIGbsqd90S0IoIvenzGP--E_MdV3dvXg-gr40xhqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هیچ چیز زیباتر از این نیست که ببینی ssl موتورناجستجوگر رانتی همراه‌اول ساعت ۱۱ شب باطل شده و هنوز تمدیدش نکردن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-08T21:25:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ocBl_2aEpl14FbMz3JDXPcxggRaa1H3CFyPYxywiGIHyLjDzbXwl9gt2MNvcxhS_lgbNiDcswvLdHqCPVi5JeYd2z8PJetsOv-QtfrTyQCqW36N-rhQIcjCVkO2ow4977l98BxuOAURjGdQZArwRy4RWb3XGEzS_9jznKnD9ZRkTmUnmB2ccnafqLP_ehYbhjS3t2aeg-C0PW7OmHCLrUxhzr9oYLr2kD77eKG3kjjXyN7psCMHY1RRdxFCniicINq3OLQ_Ll2pNDnw7yf7IEEcwrE4XBW-FtYLB1cw15ccudmDVR38p1zeZJ6moOvZzu3htRT2ZxtHi0KlVl_ikGg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خب در بی‌اینترنتی آدم می‌شینه پای پروژه‌های قدیمیش.\u003cbr/\u003e\u003cbr/\u003eدر این حین نشستم و یک‌سری اسکریپت قدیمی مربوط به نصب ویندوز روی ماشین مجازی در پارچ با یک کلیک یا PWS (Parch Windows SubSystem) رو بررسی و تغییر دادم.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از سروش که ایزوی virtio رو رسوند به صورت خودکار درایورها نصب میشن و اینکه ssh هم فعال میشه روی ویندوز میشه بهش ssh زد.\u003cbr/\u003e\u003cbr/\u003eحالا نمی‌دونم چرا یکی باید به ویندوز ssh بزنه، ولی خواستم بگم این هم وجود داره :))\u003cbr/\u003e\u003cbr/\u003eهدفم درحال حاضر مصرف‌کننده میزکار نیست، چون برای مصرف‌کننده میزکار راه‌حل‌های زیادی وجود داره، دارم ذهنیتم رو می‌برم سمت ویندوز سرور و اکتیو دایرکتوری و دامین کنترلرش برای پارچ سرور.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-08T21:59:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +30,7 @@
       "date": "2026-05-09T06:21:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +42,7 @@
       "date": "2026-05-10T04:50:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 991,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +54,7 @@
       "date": "2026-05-10T08:13:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 959,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R5xx-OTZHuGV_PabzuQChWXKhE0vXQhgBCQMsCc6hlr1ng1v98h7PNV1ZTPH6qmuSQM19CNsyA7xP-2vxEirYjKWYVICVTBuogVO3jFJe1SC8jEvESJttx0W8HqaYNEmAgIkejDWh1v-7dArStFaNUuUMk6OGuymGkEDnwpKdMaALMgCw-ImzH-F67LRTXCSccqw-vvVvz7j3RXohOkOFJ_6gcRUKOLkCGZpM0VDLBjr6qo1Z1zM32DcmofuFNHNb8lYOaCzScA5e_XLIYY5mm5fB74pzLdeBtC9j9voJYHnRbr8M6j4BxWL91W41mfYegCBBi2_diO1Ks5A7VZ3kw.jpg"
+          "url": "https://cdn4.telesco.pe/file/s9aGuiqq9MdZQhE0zafAoA8-hAY45jItjWuXCh8md-XZeyVwz7t5Oap4c-nXSLXV1AhtDWsP7t-HanmtjLeq6_g0RDPyO2H0jJZM6nQdJ-tlJ1RwaHhxVRXNf_yHp-dx-tUVRgCbaXdyrb6mtfk6kiRW3Wodqtkp0P7JEhAyRZElEkPqslGkteV7dNDSylb5hEHt7Ybpl30p7q5-jyUtR08i0NqyrRsscDd0bpebDFRJnh8tgUHUE9BkQWtm1AxO-nmFe6zsR94o7B5mKwNaM5_64JeZcFH9jejc3hW82wG2M5keoHewqWqQ3N4pkJxKTMBcPKVEOHaf3pHY-bo2MA.jpg"
         }
       ]
     },
@@ -120,7 +72,7 @@
       "date": "2026-05-10T08:44:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 903,
+      "views": 920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +84,7 @@
       "date": "2026-05-10T09:41:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
+      "views": 902,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +96,7 @@
       "date": "2026-05-10T11:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 897,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +108,7 @@
       "date": "2026-05-10T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 599,
+      "views": 604,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +120,7 @@
       "date": "2026-05-10T17:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 955,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +132,7 @@
       "date": "2026-05-10T20:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 803,
+      "views": 819,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +150,7 @@
       "date": "2026-05-11T09:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 871,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V9UBkUL2bKNRLZYCfkQFz1KOuUqXlS9WIIQ1RtxpoFXwzLQvcDKybJyDKr6n8pfo5nTL3fBU9veI7Nm5AGgOTLkAFucgY0Yw-Ppl2wL4NfG8Dfc78CQug17RRQlIpSq2PGrkSaRXVMntvQ7wie7fBbbDo1x1J0AeUXk0VgfDJKmgPeyWbP6BSt7olJQQhJTJIOZ8bh0oyATVBT1zuYKuRQfTRfM1h1ndesXFFL2G3sBFSBhlyycQZcpuUsUWAzDBzQf7kwXXazbGXCW-08pEqY8wId8fzoDz_o9raJS3DUUPcJ4KCa89huMgcddPTN_-qssKkgOT9Iw6jg-ZrRnBhg.jpg"
+          "url": "https://cdn4.telesco.pe/file/W3erYfzuzBIfKOY5U2WpW119KfG7F6mNuAcwaDuhr3qLFxdcRX8vKAZX8v4b8dcIhvjWl66Abr7N90vPnDzOyunVP6xc7Wvy5GVl892uQMXopDEsQbKBbs3oO25e284VME6kZt2JQttTm_3inYBPy1vN35prM9GzoaqcQRiaT_xqegbMzZQZEJKeRqfbjbWndWvM3gxEd9Im5wuehhcHHsq7-z1ZXn8Nw5PKYijGgyCtseIGtf91Of0OHr7gjp9oFZdnoF0fce343jiMum7SU6nqQDvcXKMsdO0A_aTzxrw5PBQ16_zMEwGg9U3cHnFnc32oSLMDpNWWpKNixT60nQ.jpg"
         }
       ]
     },
@@ -216,7 +168,7 @@
       "date": "2026-05-11T14:32:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 935,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +186,7 @@
       "date": "2026-05-11T19:44:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +204,7 @@
       "date": "2026-05-11T19:47:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 840,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +216,7 @@
       "date": "2026-05-12T08:14:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +224,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SrIhb82eqpR8VugpA4XbXiiP5fX6p5KEPccpBsNOkKjoP9CiMTcbUvDarQwOARZ_bVmN8KGB0I8aNt6yt11PbCmZaeoCVNJYNfSdJkSfQij8ShHhC3GE6T_jAEJeMFi1tIdgcOlVf-hi6BbkhRHuymDuVUWHHhOWZ2GrfCVhGgo6M7VPPYOldjQhJx9qvcgC_gwbi7gFG86kCHgPbNVJnh-155wMbHQ9UvuRIpSHNPtEO9wGneX1sTlue7jFTGm37wiy7dwLcx4SL6F92_yqgvwTWvyepiIlWMmBlOvU_4rw49YZHVDnpaAOcfK7SLaRUMX7npMvGsPffXMDl_jMHg.jpg"
+          "url": "https://cdn4.telesco.pe/file/BwY7NMCspotW_lI6AbinJEFpAyVkR8JF77nK7jVi7-BvHpPif3p6QuEvn_Ii1zwLbZwhXG5-NI5g1ZsB8OSvRlnYkcdso6KrygKhN88_fDTXO0s5BkKf7t8dPZoRKRLUetww4oYKs5p9jhfaiLsq4vTFc1Z2TispKQHlzbRxUR6ghueqHMgsY_9XIxbyDoPvtLFZ8AWjUw2OiYwTNZ_GjbzFS1LNMnHVZYo-Y2zFpaeP7kXZsC3REXQWLtNMBCv_PmOTeXqX1D9uSXg8zDuKiwlbiHxAHeZVh_ywQZPq06hTGAyuYAhcKku7veuglQPnEyxFbtf4A7HhXA1KqH3R8g.jpg"
         }
       ]
     },
@@ -282,7 +234,7 @@
       "date": "2026-05-12T11:23:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 770,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +246,7 @@
       "date": "2026-05-12T13:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 403,
+      "views": 474,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +257,49 @@
           "url": "https://cdn4.telesco.pe/file/Sit2-0mVhkXYcrItPJ4e8t2qWstEB4aUgVGBqYUntC4zn6pWyCumQaMqaOjGKdU67EQtEsn5Y0bRWkXyj_eVil8sPD22yqv3F-NYu_RKi7POmOPphVJ-zT2l2JsgEbUPLbEN6uuZKytxGCtYOhJpZbvDwJxbW38sPR4o1keOGdpFkCSrmikoeqs-rlXHnY0lZqCFV5DUkrw4S91sA_mEoXclngumKuKRIHwTs8Voj9Z5KwBj5YICTo3Pslc6TYe29UhdRyeGg3_IVJglJrzdVrO3tjet6id7rzIyNbNsgmUWpHXEPKBCooZ-k-tEGnQuBHVJhghukaFIiMGodWnBsQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "عضویت اجباری توی گروه رو خاموش کردم چون انگار بات‌های روسی رفته بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو خب..... واقعاً با این وضعیت اینترنت هیچ کاری نمیشه کرد :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T07:06:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 379,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "شماهم از دی‌ماه، وقتی می‌خواستید چیز جدید یادبگیرید وسطش حوصلتون سر میره ولش می‌کنید یا فقط من اینطوری شدم؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T07:36:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 324,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "برای chaotic aur دوستان توی گروه یک مخزن فرستادن که کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eصرفاً برای فعال‌سازیش توی pacman.conf باید برید و include رو کامنت کنید و پایینش اینو بنویسید که از همون تک سرور استفاده کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eServer = https://mirror.freedif.org/chaotic-aur/$repo/$arch\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-13T08:08:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 228,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/f-XvilRcyuCknSQZgE-nbXrltdrOxwUwHZO_5-63Bd1OULDWmxWflJTBR-INF5BcYrxUKSH2C0udM3YWi5IM5qc-jrm52sebn85dFFVvjVSvS9KZBWK9-0ELhu10xHxeeILxgYxLXQ5rpgzTW0sh2oBrUa1Ye7dQSkN7WgnLaPy1n3zvyQEylVPQdcZUyapJGBLurA63DI0HFP2tJteP3phG8v_6VrNqWK66payv6RtAcKrFOgT6BA-nmpntqnRbnAXX2vm7jFSTlqqEi5E7KuPPMPSuoZvo1FcAnHHjRAPAEKNGNsYzytuQGXWqATTHmeBzkqph5_wNbGTW1cW_6g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778652094
+  "last_updated": 1778664232
 }
