@@ -8,101 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک مبحثی هست تحت عنوان Linux Internals که به بخش‌های داخلی، معماری و نحوه کار واقعی سیستم‌عامل لینوکس می‌پردازه.\u003cbr/\u003e\u003cbr/\u003eوقتی از Linux Internals صحبت می‌کنیم، منظور فقط کار با دستورات یا نصب توزیع نیست، بلکه داریم درباره چیزهایی مثل Boot Process، Kernel، Init System، Memory Management، Processها، Driverها، Syscallها و ارتباط بین User Space و Kernel Space حرف می‌زنیم.\u003cbr/\u003e\u003cbr/\u003eمثلاً همین تصویری که می‌بینید، روند بوت شدن لینوکس رو از لحظه‌ای که سیستم روشن میشه تا زمانی که وارد میزکار یا Shell می‌شید نشون میده.\u003cbr/\u003eاینکه UEFI یا BIOS چطور Bootloader رو اجرا می‌کنن، GRUB چطور Kernel و initramfs رو لود می‌کنه، Kernel چطور سخت‌افزار رو initialize می‌کنه و در نهایت systemd یا PID 1 چطور کل userspace رو بالا میاره، همگی جزو مباحث Linux Internals حساب میشن.\u003cbr/\u003e\u003cbr/\u003eبه‌نظرم یاد گرفتن این مباحث یکی از مهم‌ترین چیزها برای هر کسیه که می‌خواد لینوکس رو فراتر از استفاده روزمره بفهمه، مخصوصاً اگر به DevOps، Kernel، Embedded، امنیت، BSD یا ساخت توزیع علاقه داشته باشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-11T19:44:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/keWkzo_W6tj8Q3-x6gVb81AQKcQIQl9xlOGBRi2T3JnBryabeb0l1rnadRZVwqFcTqvzlMhGW8dXwtH17jeVDcx3UvbZNuW3hFmiO4vBMVvoRX1N-53xdZG0BCPPrE4zXedvJDn1rBW5NtbOaHJqB06OrVEYzqoZdcborXAYmlmOW4rlgauWjoXFo0Rc7RTq_SwLMwHJgWVQPGbiez09inE1pWcKK2q-U68eJfQQOzDAZ3JGoVwTf8HlrAZZH_mS9aO86qfHwarA-mr-l_L2PHGwitOYeiuWE_1Ql8nOcHf-E7qtUMi-2lMxSLoj2wXc4PpgLQ63dMjfyF85wJ9nHg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "منابعی هم که می‌تونم پیشنهاد بدم برای اون موضوعات این‌ها هستن که کرنل رو در سطح خوبی توضیح دادن:\u003cbr/\u003e\u003cbr/\u003eLinux Kernel Development -\u0026gt; Robert Love\u003cbr/\u003e\u003cbr/\u003eUnderstanding the linux kernel -\u0026gt; Marco Casati, Daniel P. Bovet\u003cbr/\u003e\u003cbr/\u003eHow Linux Works -\u0026gt; Brian Ward\u003cbr/\u003e\u003cbr/\u003eLinux Device Drivers -\u0026gt; Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman\u003cbr/\u003e\u003cbr/\u003eThe Linux Programming Interface -\u0026gt; Micheal Kerrisk\u003cbr/\u003e\u003cbr/\u003eو همینطور این سایت:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://lwn.net/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://lwn.net\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-11T19:47:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "توی سیستم‌عامل‌های مدرن مثل لینوکس، BSD و حتی ویندوز، ما ساختاری داریم به اسم User Space و Kernel Space.\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، سیستم‌عامل برای امنیت، پایداری و مدیریت بهتر منابع، محیط اجرای برنامه‌های عادی رو از بخش اصلی سیستم جدا می‌کنه.\u003cbr/\u003eبرنامه‌هایی مثل مرورگر، پلیر، ادیتور متن، شل و حتی اکثر سرویس‌ها داخل User Space اجرا میشن و دسترسی مستقیم به سخت‌افزار یا حافظهٔ کل سیستم ندارن.\u003cbr/\u003e\u003cbr/\u003eدر مقابل، Kernel Space جاییه که خود کرنل سیستم‌عامل حضور داره. بخشی که به CPU، RAM، Driverها، فایل‌سیستم، شبکه و باقی منابع حیاتی سیستم دسترسی کامل داره و همه‌چیز رو مدیریت می‌کنه.\u003cbr/\u003e\u003cbr/\u003eوقتی یک برنامه مثلاً می‌خواد فایلی بخونه، به دیسک دسترسی بگیره یا از شبکه استفاده کنه، نمی‌تونه مستقیم این کار رو انجام بده.\u003cbr/\u003eدر عوض از طریق چیزی به اسم System Call از کرنل درخواست می‌فرسته و کرنل اون عملیات رو انجام میده.\u003cbr/\u003e\u003cbr/\u003eبه همین دلیله که معمولاً کرش شدن یک برنامه داخل لینوکس فقط همون پروسه رو از بین می‌بره، نه کل سیستم‌عامل رو.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-12T08:14:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NmWZujDqtUe5xke-Tlk9II5nptjhsjn73BSLhbOiKu47M9bx1n1LxlPFp1jWYc8TbODRUVloAG8yxfE8cDVkCRVlQsEulMdBE9Vsmc1C4cS9CIiayIQa25YkgeYVKM7HiDXn2rPsCNrP8C8FH0hvqaSuaA9uI1YBXSp7zgPF3143moc65k_2c6WNRAFVN06AUaJX8dAqC_mgbklR5loQKUtnR8_agDaHavnwq5afHMHTU_8IXi4ic6Wi2gYCOiYAyx3GNm1ljYAoOkHfbU4qLqU_EZoCUktYVSBhg4_d2HjuNKH7--g5WCI-GGaxqMiFhlkHfqjpDEjbsV3TGfBJ1A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "متاسفانه عرفان عزیز به هشت‌سال حبس محکوم شد :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو حرفی ندارم بزنم.... واقعاً خیلی حالم خرابه :)\u003cbr/\u003e هشت‌سال مدت‌زمان کمی نیست، اون هم برای چیزی که جزو آزادی بیان محسوب میشه که ما ازش برخوردار نیستیم :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/EEAUT/10749\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/EEAUT/10749\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-12T11:23:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eبیانیهٔ اعضای تیم پارچ لینوکس درباره محکومیت ناعادلانه عرفان عربی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003eسه‌شنبه، ۲۲ اردیبهشت ۱۴۰۵\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبا دلی سنگین و خاطری آزرده، آگاهی یافتیم که برای دوست و همکار عزیزمان «عرفان عربی»، دانشجوی ۲۰ سالهٔ مهندسی کامپیوتر و از مشارکت‌کنندگان در پروژه مردم‌نهاد و آزاد «پارچ لینوکس»، حکم تحمل ۵ سال زندان صادر شده است.\u003cbr/\u003e\u003cbr/\u003eپس از حضور یافتن او در دادگاه بیرجند، حکم پیش‌گفته نه به صورت کتبی و با رعایت تشریفات قانونی و اداری، بلکه به صورت شفاهی صادر شده و به اطلاع او رسیده است. \u003cbr/\u003e\u003cbr/\u003eما «عرفان» را می‌شناسیم! او فردی است که تمام وقت و انرژی‌اش را صادقانه صرف مشارکت در یک پروژهٔ آزاد و متن‌باز کرده بود. اتهامات امنیتی که به او نسبت داده شده بی‌اساس است و هیچ پیوندی با فعالیت‌های فنی و صادقانهٔ او ندارد. ما تیم پارچ لینوکس باور داریم که «عرفان» بی‌گناه است.\u003cbr/\u003e\u003cbr/\u003eعلاوه بر این، گزارش‌ها حاکی از آن است که عرفان در طول این فرآیند به وکیل دسترسی مناسبی نداشته است. محاکمه‌ای که در آن حق دفاع به‌درستی تأمین نشده باشد، نمی‌تواند مبنایی برای صدور هیچ حکمی باشد. از این رو خواستار لغو کامل این حکم هستیم.\u003cbr/\u003e\u003cbr/\u003eپروژهٔ پارچ لینوکس از روز نخست مبتنی بر ایدهٔ «هواداری از آزادی نرم‌افزار» آغاز به‌کار کرده است. با این آرمان که فناوریِ آزاد باید در خدمت همهٔ مردم باشد؛ بی‌توجه به این‌که چه اندیشه‌ای دارند یا کجا ایستاده‌اند. ما همواره کوشیده‌ایم بسترسازی کنیم تا هرکس بتواند در آرامش و به دور از هیاهو، در این پروژه مشارکت کند. هدف از انتشار این بیانیه، یک موضع‌گیری سیاسی نیست؛ بلکه اقدامی قاطع در راستای پاس‌داشت \u003cb\u003eحقوق شهروندی\u003c/b\u003e و \u003cb\u003eآزادی‌های بنیادین\u003c/b\u003e دوست و همکار عزیزمان «عرفان عربی» است.\u003cbr/\u003e\u003cbr/\u003eما بر این باوریم که دفاع از «اینترنت آزاد» و «مشارکت در پروژه‌های آزاد و مردم‌نهاد» فعالیت‌هایی هستند که باید بتوان آزادانه و بدون هراس دنبالشان کرد. توسعه‌دهندگانِ این سرزمین، شایستهٔ آن هستند که در فضایی امن کار کنند و بدانند که علاقه‌شان به فناوری، برایشان دردسر و تبدیل به یک بازی امنیتیِ نامربوط نمی‌شود.\u003cbr/\u003e\u003cbr/\u003eایستادن ما، برای \u003cb\u003eعرفان\u003c/b\u003e و \u003cb\u003eخانواده‌اش\u003c/b\u003e است. برای همه فرزندان این مرز و بوم که امیدواریم هرچه زودتر بتوانند به شغل، تحصیل و زندگی‌هایشان باز گردند و آن نیروی جوانی و شوقی که همواره در ایشان می‌دیدیم را بدون هراس از بازداشت شدن، دوباره صرف ساختن چیزی کنند که به آن باور دارند.\u003cbr/\u003e\u003cbr/\u003eتیم پارچ لینوکس، \u003cbr/\u003eپاینده ایران\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-05-12T13:42:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eqzufqQi_ZM7c3jUqzoQPnFZkFq-2VOUQf_EJuQP3yg1xYcEIYZXKNridC9vVLX9KGtZljoW8df9XE_sGPRHljN1kTGPYd2ddwGmajyalcwwE9cp7wKaZrCpCn5Ty5Yuj9Aliiu7r331NMc6Ihk60EKStnvo-ZgGSxoptA5Ev9KBnXTdqwmQxPfEHF4b5bTReTy1rtiBOQum3cCQ7L3Eabh0xqPVTzcH8rQx95l6jKb7jchuwTn_jWRUNmELmbc8IuFS2YxeNyc0BXYULj_0W-TR_H-HhiJjx23OMkm6f0MpCjnZZcRUgu1q3Vtw-eUih0IzwMkR9zOEFeoU60YmQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "عضویت اجباری توی گروه رو خاموش کردم چون انگار بات‌های روسی رفته بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو خب..... واقعاً با این وضعیت اینترنت هیچ کاری نمیشه کرد :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T07:06:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "شماهم از دی‌ماه، وقتی می‌خواستید چیز جدید یادبگیرید وسطش حوصلتون سر میره ولش می‌کنید یا فقط من اینطوری شدم؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-13T07:36:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +24,7 @@
       "date": "2026-05-13T08:08:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 943,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +42,7 @@
       "date": "2026-05-13T10:17:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 916,
+      "views": 936,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +54,7 @@
       "date": "2026-05-13T16:00:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 830,
+      "views": 850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +66,7 @@
       "date": "2026-05-13T17:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 811,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +78,7 @@
       "date": "2026-05-13T18:24:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 841,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +96,7 @@
       "date": "2026-05-13T19:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 846,
+      "views": 876,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +114,7 @@
       "date": "2026-05-14T07:58:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 626,
+      "views": 667,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +126,7 @@
       "date": "2026-05-14T08:37:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 766,
+      "views": 811,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +144,7 @@
       "date": "2026-05-14T11:07:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 527,
+      "views": 572,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +156,7 @@
       "date": "2026-05-14T11:40:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 542,
+      "views": 611,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +168,7 @@
       "date": "2026-05-14T19:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 379,
+      "views": 502,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,11 +176,11 @@
     },
     {
       "id": 0,
-      "message": "انگار pypi هم بسته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین لیست به‌روز خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "message": "انگار pypi هم بسته شده.\u003cs\u003e\u003cbr/\u003eویرایش ۱: میرور mit بسته شد.\u003c/s\u003e (بازه)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین لیست به‌روز خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-14T19:24:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 341,
+      "views": 471,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +192,106 @@
       "date": "2026-05-14T19:30:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 303,
+      "views": 442,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eتبریک!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمایکروسافت بیت‌لاکر هم زیرودی خورد!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T21:14:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 282,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XNLA-Gnfuz75T0kKOwEptE0N6krYCvUPoMSjD9TBJhy07a1gmKeQTk_NQakasaEiSQ52gIt2YaN8Lx7aYE2T0WTtI8xu57d-BwbsGWdim46F6AEnFdCGv6MKcLuHPpuPGw0Q0kqO4PS2sOhcrp4StKyL46-cKLdkct7pkap3D6fmxswA6PSg8VAKcppUUfEV9JN9rOvIHwAdNuSP-jTc-wqdQTVTbv00KKt93tZhA0YACNnjNzZXBLxJhGkK3fKqIQL6mZT0yFb9gSgsJ4YCSmxbqv9UGjHSMPaMebfv5CDmTNoJrVlVuRiX_BVDJZJBMJCzkqnH0nt8sBSlP4Nsbw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دلخوش به این مقدار نباشید که حتی DNS Client ویندوز سرور هم CVE خورده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T21:18:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 254,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/s_rfkLdH_1zHXFjbivjbhrlbTCaA5YocNLBbacKuTxk7Km3iIXt-D2XKj5OAhjiM0rwdZEWolMGluM9J2QC-KstakcFzKc_SQy-1rMb2_6jPUxQDOC7soDa-5D0ZDhSigXRCLbyrn40yPcR6A3ojvBvjwy6KhnG4EFH8L-vXIY3unpmOVB7L-G2nFkW6--ioLUx8kChDLsGjvnOCbXTLopHquWp0ZnIGfyzA3PFbGgw2mk7Qc8Zid2tJ1LEMwSOU1vCop6tJ9rVvcfHms-ZqqFwb9Zs1F7NiC_DVL6RvDdGjqMlP6m2eeX92iKItABtDtDgPvWlZxA2Aq8GXP2E3gQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این هم پنج دقیقه پیش اومد :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T21:19:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 259,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HaRSiwSvqPKiKZikoYYMDd8rjdOqnv7UC7QbvMZIdoSeR8WComd0LndTD4l3ajKH5ScbJrAJRWzx82fP_4igzCG-H1nloxLvysYhjplaaoYl-5hvikV096nZ5HH9ImK30s0Zg9McU1MFSROzSe7TaFWl-UjNluvh6ViATja7CpLOlfNB_gFKoCv5yrFSnmuip4-yWRllDZUaxteAUlFMhxyBqNR6X7XAikYGcDo2lR9B0ibWFJdTJPSb8QWRmGeDo8-xLdnT9JB0bsjlPdzpNb1OOcO0KVfiYMudP9gZSKSul9jF2YRLoahqhqK4qSZZjl7QOYFZHnoqw-K2kZYshA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "«چه خبرتونه! چه خبرتونهه!»\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T21:27:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 207,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/T7ZNTk5YJI7YejnPvsZtyX5gZOsy0YrToMvlO3BiVAsvX1vcLSq_-WPyzHK8XUKU-CR38Q7UWBH3UbeY6TtoER1uqypUGnXASJuJcjFmh8PHBKeDdSU4TwoOKlRvNEkvunE5RlJC1jSpbz37g0vXmabJ3W9xASG0GPYHUbV1sHAPyF_gvVYAW66rPt8Bn2CDB1C-p6w6hxuH2LWVHNh19h8GuUIAGqNs4CEPopF-F01cNfyqNkU4XVKetrLw6zcDcvazuSw_SeRoKQoCMgNhPoLyuDmUSWfw0HKhpo-qNYQTobn0TOE_2AcJp8_wgjyFkOxpVcyykQoYJCoZJfvk9Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "و مساله اینجاست که ماها نمی‌تونیم به‌روزرسانی کنیم و صرفاً بعد از وصل شدن اینترنت یا شاید هم فیلترنت سابق کلی قراره دیتاهامون بریزه وسط اینترنت :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e$ git clone --mirror iran://citizens/data.git\u003cbr/\u003e\u003cbr/\u003eCloning into bare repository \u0026#39;Iran.git\u0026#39;...\u003cbr/\u003e\u003cbr/\u003eremote: Enumerating objects: 90,000,000\u003cbr/\u003eremote: Counting objects: 100% (90,000,000/90,000,000)\u003cbr/\u003eremote: Compressing objects: 100% done.\u003cbr/\u003eReceiving objects: 90,000,000/90,000,000 ██████████ 100%\u003cbr/\u003e\u003cbr/\u003eResolving deltas: 100% done.\u003cbr/\u003e\u003cbr/\u003epost-update hook:\u003cbr/\u003e  syncing cached activity...\u003cbr/\u003e  exporting local metadata...\u003cbr/\u003e  indexing offline history...\u003cbr/\u003e\u003cbr/\u003ewarning: internet connection restored\u003cbr/\u003ewarning: national intranet disabled\u003cbr/\u003e\u003cbr/\u003eIran.git successfully mirrored.\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eشبتون خوش\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T21:34:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 164,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ugoZP_olk-aHHiI17OSAWD3ygxBZ6L2n5Ksshfzi8G7KnDamUxogwmb-oAG4ohksXDshksMWDEbCiMegCmfI5lL67P_e8o_GDuZHcg6BDLw8k6g2f22krXsPRtNcj3v4ucPc5D54DPYGuno6Ge8uUHuECkwRIp7tzXCQ4odYg7EIpSetJGvlQuvCKgNvlWukucif0UYfbWZfECS9jfbfrbrEmXUR2X3C9MmXBf0QelreK0oYZaqIdSjt-OsF2XzcxhZ_9gJoL4aCRS19H2tTRQWDiwCk-b6Ks9Oie0aGdpAgisS8ogKWcfQ2MaCtO8s8-zjMSbBoRvy0aB_ptJk7Ow.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uQrE4kUS0YFjbw_O9e-uyYXsbL2WLW_xeBH0btkUDslbFcNJEyRRka6N10_AC6HsbZ30rXpjfe50TKhMogbMQbwgg3s-Xa76gRzMyP5TD7RP3BIgZVpgxBqXvkB1nNyPTy7Q3T2Ea_OL5IZCIjPuPQuXsxH5ammUUdViHxgJRyraYCzkV0Y0fxHDSFlDvpep6U1_3FpRq-2jbGpKphIKR3r2rC48vRbIuHBxCCOywDCqsQ-05zQ886mASV6yKtTSFii4N8nsyKAJQQjbPcMdww_VCtP11r4AcNkB-xN0n2-BmR7EfjG_tbmjVq-8jn-J9g_iXcY_qaSBHstyuC4TPQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778791983
+  "last_updated": 1778796131
 }
