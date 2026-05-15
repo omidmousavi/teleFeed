@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "شماهم از دی‌ماه، وقتی می‌خواستید چیز جدید یادبگیرید وسطش حوصلتون سر میره ولش می‌کنید یا فقط من اینطوری شدم؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T07:36:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 932,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "برای chaotic aur دوستان توی گروه یک مخزن فرستادن که کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eصرفاً برای فعال‌سازیش توی pacman.conf باید برید و include رو کامنت کنید و پایینش اینو بنویسید که از همون تک سرور استفاده کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eServer = https://mirror.freedif.org/chaotic-aur/$repo/$arch\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T08:08:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 959,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LERZ7QQkQzTqVJSEKhCqTkMTZ3PiPk-PUStY2QtvlJ1BxiwL42ZQR5tNdwOdzB2fYIEli3JwCHHOUafLzCBK0XCMebQHJq92zDm6W2S0moRMqY7OrlSIcr_JCiNtf9ozp5TE8_yW06gsnS_F4jnwjkWZar5AyIk0gwEOsBBNm2BluvgrHZEkshxNQEb8sjoFEw_IoY0g4txGg4fAeRAk9S86ZnD_W_k8S4IK2VxlJyJFvVIKbuWT5ZSIX8anR6coV9GKPrUtYh0A_AQW7gQbzXKgotVIMYHbBGRGwOlsnX3pAr9ai2pFTRGDIXe6rSmsu6hjhoX5WBW9mABMIF_hbg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "قطعی اینترنت بعد از اعتراضات دی‌ماه ۱‍۴۰۴، فرصتی شد که وقتم رو روی parch next بذارم و تغییرات زیادی رو روش انجام بدم.\u003cbr/\u003e\u003cbr/\u003eپستی که در ادامه می‌خونید بر اساس changelogمن نوشته شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.sohrabbehdani.ir/parch-next/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.sohrabbehdani.ir/parch-next/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T10:17:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 952,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "فروم پارچ رو برای آزمایش اینکه می‌تونم به‌روزش کنم یا نه می‌برم پایین.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eامیدوارم که بشه به‌روزش کرد :))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T16:00:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 866,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "پنج دقیقه گیرم به rails console افتاد که برای یکی تستی رمزشو ریست کنم توی فروم، تا اطلاع ثانوی لعنت به rails :)))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-13T17:25:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 849,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "با این وضعیت اینترنت ایران بیشتر دارم به حرف استالمن ایمان میارم که گفت مرگ بر جاوااسکریپت.\u003cbr/\u003e\u003cbr/\u003eاگر دیدید یکی سر به بیابون گذاشته و یک لپتاپی دستشه که روش مرورگر dillo بازه و داره سایت استالمن رو می‌خونه و جیغ‌میزنه، اون منم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-13T18:24:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 861,
+      "views": 881,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +30,7 @@
       "date": "2026-05-13T19:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 903,
+      "views": 927,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +48,7 @@
       "date": "2026-05-14T07:58:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 695,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +60,7 @@
       "date": "2026-05-14T08:37:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 849,
+      "views": 907,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K9l-UTwsIIiZyyRRGK1QVAScK_b9UZnPjnCDa24YKzN4LBXYFdsbh39ElTZyV6oJUJlsxm4qjkSD6iNf949aOh4ZbkUnJyXXlkHargQCnII9NRHsELZ0019rMzVl-dQNudp-Ei1H-cW6xKvw0w8E7N-C5ZQBWRM22H4pExP2FFdn65RnomAagZSSwz-pXM_rdl5-1PwdIMSIkvgocaOhXzLZqiKOSm_CMBZKE8WeXgJ7xFizIgst-tn5_Bu6qZcmQY0wWGPYt7DGYfsi_xkpNjlzWt7HVqlPny5DrRuxQ9eq6SfbO8gvq5bxd1DlunqF7ZYTT2pe8z8F8vyCis9EQA.jpg"
+          "url": "https://cdn4.telesco.pe/file/laMfgayNwmZTSpIgRHSUOM6RwJ3o7PPlJXqiG1dbYdvl-DynqiiaXmTxovhKQB8SoqxBRM8J7hqdb5pDINN6gYRsFO0J_kAEAajiJJn9kx-rJ-cqeVgLhmPWZMdn69O3dCVHLu8Q3V6mwyCRSReOjqYDoBStmJLUiZyadWx4Yc3IHp2lD_jYvD22AQjsNNx1CTVBTPp2y8WkuepaqsNbTdq7F7-AR8XKsJRXb31hMBEU13eJuP6MGLN6Vx1a3rdtk3T5PIHSzrLTZJ8JxR-EAblQsSMlSbjGun8vfRRGJU6ciyiKSzQW07zgbKeywgSAm563ady9MAVM7mYh5ux1Pg.jpg"
         }
       ]
     },
@@ -144,7 +78,7 @@
       "date": "2026-05-14T11:07:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 604,
+      "views": 651,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +90,7 @@
       "date": "2026-05-14T11:40:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 662,
+      "views": 728,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +102,7 @@
       "date": "2026-05-14T19:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 596,
+      "views": 697,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +114,7 @@
       "date": "2026-05-14T19:24:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 566,
+      "views": 663,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +126,7 @@
       "date": "2026-05-14T19:30:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 540,
+      "views": 648,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +138,7 @@
       "date": "2026-05-14T21:14:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 421,
+      "views": 609,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +156,7 @@
       "date": "2026-05-14T21:18:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 402,
+      "views": 587,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +174,7 @@
       "date": "2026-05-14T21:19:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 411,
+      "views": 596,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +192,7 @@
       "date": "2026-05-14T21:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 376,
+      "views": 582,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +210,7 @@
       "date": "2026-05-14T21:34:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 336,
+      "views": 585,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +225,91 @@
           "url": "https://cdn4.telesco.pe/file/uQrE4kUS0YFjbw_O9e-uyYXsbL2WLW_xeBH0btkUDslbFcNJEyRRka6N10_AC6HsbZ30rXpjfe50TKhMogbMQbwgg3s-Xa76gRzMyP5TD7RP3BIgZVpgxBqXvkB1nNyPTy7Q3T2Ea_OL5IZCIjPuPQuXsxH5ammUUdViHxgJRyraYCzkV0Y0fxHDSFlDvpep6U1_3FpRq-2jbGpKphIKR3r2rC48vRbIuHBxCCOywDCqsQ-05zQ886mASV6yKtTSFii4N8nsyKAJQQjbPcMdww_VCtP11r4AcNkB-xN0n2-BmR7EfjG_tbmjVq-8jn-J9g_iXcY_qaSBHstyuC4TPQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خب نام‌بان رو که یادتونه.\u003cbr/\u003e\u003cbr/\u003eانقدر خبر خوندم که هوش مصنوعی با راست خوبه و این‌ها می‌خوام با OpenCode به راست پورتش کنم ببینم هوش مصنوعی چیکار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدوتا نکته:\u003cbr/\u003e\u003cbr/\u003e۱- این نسخه هیچوقت منتشر نمیشه.\u003cbr/\u003e۲- برای سرگرمی خودمه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهروقت شروعش کردم نکات و کارهای انجام شده رو میگم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T08:22:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 363,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "کلش ۲۲ دقیقه و ۳۵ ثانیه طول کشید (پورت کردنش و رفع مشکلاتش) که این وسط من چند نگاهی که انداختم دیدم داره بیشتر جاها رو ماست‌مالی می‌کنه (عاقبت وایب‌کد کردن) :))\u003cbr/\u003e\u003cbr/\u003eهنوز تستش نکردم، ولی امیدوارم وقتی اجراش کردم یهویی نخواد ۱ ترابایت مموری الوکیت کنه به خودش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T09:17:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 269,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AVvZ5eLcUooLTRk6PGmEwQlEh9rwCG0u10Nkp46sYaloPpSx0-jl79BJEpKltKfhf7BA5YyvXNCPPsIUr6xsIp3ZVeJCFy51K5L8Cbk3Hl-Vp1KBruXBTtFw6kyhmx86kCyzzp3px4Uf85FdzZ9ZQakol13vz4PCCfLTPgJK3XwW9eZkMWrSHu9HOePDh0N4PIITTSudCGH50K67JwyiUOfnLg_MNPCxk8h8fb037C3NXDyCy7RkM11Acafnf-C8HtBPeZt0fjZHtaByGQ2tge-QXrw2y3YYK3cPuM0eb9hFDJ_llHHlCg4LwaeP4Ch6x1dpNUdmZjzh8yTkIpHBAA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "الان مشیا بهم زنگ می‌زنه و فحش میده با بلایی که سر برنامه‌اش آوردم :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمونطور که می‌بینید پورت اولیه حتی با وجود سورس‌کدهای کازمیک و نام‌بان اصلی برای مطالعه و فهمیدن رابط کاربری در نهایت کلی ایراد داره.\u003cbr/\u003e\u003cbr/\u003eیکی از ایرادات نابهینه بودن برنامه است که کامپایلش ۲ دقیقه طول کشید و اجراش حدود ۳۰ ثانیه زمان برد. \u003cbr/\u003e\u003cbr/\u003eحالا اگر همین‌کار رو دستی انجام می‌دادیم این چیزها به حداقلی می‌رسید با اینکه وقت بیشتری مصرف می‌شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنمی‌خوام بگم وایب‌کد کردن بده، یا هرکسی وایب‌کد می‌کنه فلانه ولی خب به هرحال بعضی افراد یک شور و شوق جوانی دارن که هرچیزی رو که ساختن بیان و بگن که آره ما فلان چیزو ساختیم و خیلی خوبه و از خیلی چیزهای دیگه مشابه بهتره.\u003cbr/\u003e\u003cbr/\u003eزیاد به هوش مصنوعی تکیه نکنید، همین.\u003cbr/\u003e\u003cbr/\u003eحالا من دستی می‌شینم و بعضی از مشکلاتش رو حل می‌کنم تا ببینیم که چه می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T09:23:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 254,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gNsX46F_QaB67um_g8LoHz2VVMDdxFxi8Gii2KbdWnaZzvnk_U8zlQuqHNORFZbxJoz8hmvoJL1wuYrrhLCtHbeEsYLLGtBE2NkbFCJ3kUkmHsjCrR1nTlpXBmlTaz4o6_cuAYYufV9t-t_nC7MnjiaeDzaB7t3-jzrcqA4HlpqKw9CUdKZ-osAUS4bY6rnHbKa6qq5hOPj4qQ77TvvtG9hkx5jsor1WWk3Zog0IKTBDwkrcoRHGF3a4iXGrad6w4oMuQNlGuWlEuvj0T0zpBN8b4ye3g4mcXA1gHsCRsrSlg8piw3imx8cr4bpkZ_vjsxjJxvYD_XkoXCmSR7JKew.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکمی دستی تغییرات اعمال کردم و دارم دوباره بیلدش می‌کنم ببینیم چی میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T09:40:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 195,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ob3z7jvkQbsyBLWM6hJ4-ZRTM5rQtd25LigvTCEULsTASt-mGADheEwa7ukDUXLfC50-pe0wb8LeedopwZmiJfnUxOmtccSrRFDjZ0Um3Qi4Z9ZONH64Mdv53DbpzNtbegp8U6Hi1S3ut68bYbvlwVKr6rVrE2f_PVjdAuWIahR4jyeLSa3vzZKaWvB6QJPd2RqliebpejjwjnoCy5K88V_0xFKpULYGymECX--Qq8FhokL8LnVEtQkBWp6mdGtxtygTLBCStKOLd4i1eqj2KQNhwMvtiaWk8YHddJGQx5XzqGKjHx3fDSLEFnQ_lkOLRiO2R7v6z2hgHKKdCSbiIw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "سلام :)\u003cbr/\u003e\u003cbr/\u003eشاید تا الان حدس زده باشید که چرا دارم با راست و لیب‌کازمیک خودمو آزار میدم.\u003cbr/\u003e\u003cbr/\u003eبه هرحال بعد از وصل شدن اینترنت کلی کار با پارچ داریم :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T09:45:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 174,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OGFvkBEOaPb53eSorIKxEw9NS6uLtgb1hfHKo9_4GWDZybzq5FJosFWaIxUB9gYSXy517B-TfFRXNJCjstn0yMaiuky1U7BISN6QCO1ldU6qmE7_dK9g4LXdo7UhWGAB53xEItBv-H_Vpb1uZBd1cbXx5YMz-0GnDHb0HrwFwvjpFSYaao8JKSri6pyA_cULpXDXqZrK9bUddc-zMojts6jVmTXOsxkFn5shqS9d1BWgdSJj89HxJg6631y5PsTxlG8yRDwh8FTzcmDc-n5Y3j4e0zcUlN_iqMd5ltJyKmaIPvt0SyGi-OvhihQjbi93SeeaDGP6laDxtCyG2khatQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778819647
+  "last_updated": 1778840018
 }
