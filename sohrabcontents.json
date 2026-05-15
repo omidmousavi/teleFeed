@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چندتا خبر خوندم که گوگل، کروم او اس رو داده لاکار و الان اومده سراغ اندروید روی دسکتاپ.\u003cbr/\u003e\u003cbr/\u003eاندروید روی دسکتاپ:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.aparat.com/v/pkp9b6s\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.aparat.com/v/pkp9b6s\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکلا بعضی چیزها برای بعضی‌جاها طراحی نشدن، بخصوص این مورد که اندروید این تلاش‌ها رو زیاد کرد و هیچوقت نتیجه جالبی نداشت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-14T07:58:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "اگر دوباره نمیدوراتاشید باید بگم که استک نتورک لینوکس دوباره CVE خورد دیروز.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://access.redhat.com/security/cve/cve-2026-46300\" target=\"_blank\" rel=\"noopener\"\u003ehttps://access.redhat.com/security/cve/cve-2026-46300\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین از ورینت‌های Dirty Frag عه و همشون با page cache انجام میشن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-14T08:37:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 947,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/laMfgayNwmZTSpIgRHSUOM6RwJ3o7PPlJXqiG1dbYdvl-DynqiiaXmTxovhKQB8SoqxBRM8J7hqdb5pDINN6gYRsFO0J_kAEAajiJJn9kx-rJ-cqeVgLhmPWZMdn69O3dCVHLu8Q3V6mwyCRSReOjqYDoBStmJLUiZyadWx4Yc3IHp2lD_jYvD22AQjsNNx1CTVBTPp2y8WkuepaqsNbTdq7F7-AR8XKsJRXb31hMBEU13eJuP6MGLN6Vx1a3rdtk3T5PIHSzrLTZJ8JxR-EAblQsSMlSbjGun8vfRRGJU6ciyiKSzQW07zgbKeywgSAm563ady9MAVM7mYh5ux1Pg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e MAJOR IMPACT: AI just found an 18-year-old NGINX critical remote code execution vulnerability. It has been disclosed on GitHub including PoC code.\u003cbr/\u003e\u003cbr/\u003e- Affects NGINX 0.6.27 through 1.30.0\u003cbr/\u003e- Triggered via the rewrite and set directives in config\u003cbr/\u003e- Update NGINX ASAP\u003cbr/\u003e- NGINX is a widely used HTTP web server, be sure to check its prevalence in other products\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/DepthFirstDisclosures/Nginx-Rift\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/DepthFirstDisclosures/Nginx-Rift\u003c/a\u003e",
-      "date": "2026-05-14T11:07:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 673,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "خیلی از برنامه‌نویس‌های قدیمی سی‌پلاس‌پلاس برای تبدیل مستقیم بیت‌های حافظه از \u003ccode\u003ereinterpret_cast\u003c/code\u003e استفاده می‌کردند.\u003cbr/\u003e\u003cbr/\u003eمثلاً وقتی می‌خواستند بیت‌های یک \u003ccode\u003efloat\u003c/code\u003e را به شکل \u003ccode\u003eint\u003c/code\u003e ببینند.\u003cbr/\u003e\u003cbr/\u003eمشکل اینجاست که این روش در بسیاری از مواقع طبق استاندارد سی‌پلاس‌پلاس رفتار تعریف‌نشده (Undefined Behavior) دارد؛یعنی شاید امروز درست کار کند، ولی فردا با تغییر کامپایلر یا فعال شدن Optimization ناگهان خراب شود.\u003cbr/\u003e\u003cbr/\u003eاز C++20 قابلیتی به نام \u003ccode\u003estd::bit_cast\u003c/code\u003e اضافه شد تا این کار به شکل استاندارد، ایمن و قابل پیش‌بینی انجام شود.\u003cbr/\u003e\u003cbr/\u003eتفاوت اصلی:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003ccode\u003ereinterpret_cast\u003c/code\u003e\u003cbr/\u003eمی‌گوید:\u003cbr/\u003e\u003cb\u003e«این حافظه را از الان یک نوع دیگر فرض کن.»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e \u003ccode\u003estd::bit_cast\u003c/code\u003e\u003cbr/\u003eمی‌گوید:\u003cbr/\u003e\u003cb\u003e«بیت‌های این داده را کپی کن و با آن‌ها یک شیء جدید بساز.»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهمین تفاوت باعث می‌شود:\u003cbr/\u003e• قوانین حافظه نقض نشوند\u003cbr/\u003e• کامپایلر بهتر بهینه‌سازی کند\u003cbr/\u003e• رفتار برنامه قابل پیش‌بینی‌تر باشد\u003cbr/\u003e• کد مدرن‌تر و حرفه‌ای‌تر شود\u003cbr/\u003e\u003cbr/\u003eنمونهٔ قدیمی:\u003cbr/\u003e\u003cpre\u003efloat value = 1.0f;\u003cbr/\u003e\u003cbr/\u003eauto bits =\u003cbr/\u003e    *reinterpret_cast\u0026lt;std::uint32_t*\u0026gt;(\u0026amp;value);\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eنمونهٔ جدید\u003cbr/\u003e\u003cpre\u003e#include \u0026lt;bit\u0026gt;\u003cbr/\u003e\u003cbr/\u003efloat value = 1.0f;\u003cbr/\u003e\u003cbr/\u003eauto bits =\u003cbr/\u003e    std::bit_cast\u0026lt;std::uint32_t\u0026gt;(value);\u003c/pre\u003e\u003ccode\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/code\u003eامروزه در برنامه‌نویسی سطح پایین، موتور بازی، شبکه، پردازش باینری، سیستم‌عامل و پروژه‌های حرفه‌ای، استفاده از \u003ccode\u003estd::bit_cast\u003c/code\u003e به‌جای روش‌های قدیمی، بخشی از سبک مدرن سی‌پلاس‌پلاس محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003eخلاصه:\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003ereinterpret_cast\u003c/code\u003e\u003cbr/\u003e\u003cb\u003e«حافظه را به زور نوع دیگری ببین»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003estd::bit_cast\u003c/code\u003e\u003cbr/\u003e\u003cb\u003e«بیت‌ها را ایمن و استاندارد تبدیل کن»\u003c/b\u003e",
       "date": "2026-05-14T11:40:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 751,
+      "views": 758,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-05-14T19:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 742,
+      "views": 761,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +36,7 @@
       "date": "2026-05-14T19:24:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 712,
+      "views": 735,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +48,7 @@
       "date": "2026-05-14T19:30:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 691,
+      "views": 713,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +60,7 @@
       "date": "2026-05-14T21:14:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 672,
+      "views": 710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +78,7 @@
       "date": "2026-05-14T21:18:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 636,
+      "views": 665,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +96,7 @@
       "date": "2026-05-14T21:19:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 647,
+      "views": 673,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +114,7 @@
       "date": "2026-05-14T21:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 632,
+      "views": 664,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +132,7 @@
       "date": "2026-05-14T21:34:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 652,
+      "views": 681,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +154,7 @@
       "date": "2026-05-15T08:22:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 504,
+      "views": 547,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +166,7 @@
       "date": "2026-05-15T09:17:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 471,
+      "views": 519,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +184,7 @@
       "date": "2026-05-15T09:23:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 472,
+      "views": 527,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +202,7 @@
       "date": "2026-05-15T09:40:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 466,
+      "views": 529,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +220,7 @@
       "date": "2026-05-15T09:45:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 477,
+      "views": 555,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +238,7 @@
       "date": "2026-05-15T12:28:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 326,
+      "views": 456,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +250,7 @@
       "date": "2026-05-15T14:27:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124,
+      "views": 366,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +261,61 @@
           "url": "https://cdn4.telesco.pe/file/ipHXfdMSdVTGrAmiFppmbK4LDpeF6Ev0YJ95E24fRBUoqPxxaenbPLfWxCEUYz2S7zXTDEGrqErpNaIDSMK3QSH_EkmpqUbuJICNvUYfCAWct8igidc7XXGWYZyyyj9-Ixjpq6evtinFap8Qi3QJ7vph4mp3R0kNP62DCLh1cgUNOg3pDvqRJ2MWcMyVCIS1jy-0jmLSOuR0bZZHYFnOJvFMprg7oBU1rxW4edB1nvpAgzU6SfsgOVDCv2AZfZz1NiOtTvklMcjz-OOvCrpIcjjeoRZj_8uo9tN0i0U_A_PKxahwLE-c2zmxgeytbFeXwtrElEGt7NuLeUxGf6wBjw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه ویندوزش رو روی ماشین مجازی تست کردم و کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eدوستان میگن نسخه اپ‌ایمیجش یک سری مشکلات داره که خب نمی‌دونم چرا ولی کلا Tauri روی وی‌لند دچار دورانتاشیدن میشه که باید یک فکری برای این موضوع بردارم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T15:16:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 277,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/H8VV6SjADhxDNB-1jRH9nCPtsyVkkX_SoAkz9LDELv0repbNTg6JE_FKhgGwHUoPu69QvSrYx3eTL1khC_8zFPSJVrniK8Hp4I90uBDpgjMsvIJG0MdZTg5xKj-AFAsPQ5wHQuLj8ikwSewP0BH0MThoW93RiLwVs4naqDWuLzELjfee61Ym7SajM9ogt0k9nTP8z9VolBu2M-cqES40W1Iw7d6bQc_LzW4vGs5E6H6wo63237vxZ4ja1UsfL1L1Azi5YYsMfmLhxKGzpiSdjHAqg414pBHHFilKNuFvI8qu1VXX781_-y54irw_2g-R8VDv66jOd-Qd6uyu9Nn05Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه debاش هم کار می‌کنه روی دبیان ۱۴ فورکی با میزکار XFCE.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T15:22:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 256,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hHSBo6834HezLGud5AD-kxxwUmVzuqL3hq6MsDuLNS_VMBZSs2ZvXokxQFAfmi0v14JbyZAz9qwuhX3M-Apj72c4y-MCAcutQIBRlK9Le_g_U1NFfbtS2czL6vSXhPxF8QwwIsLOEamtuZkI9rxbvtW8UDnhZyDstLlc0F0hZWN1C8sppzAMvKFCjyp_NG6LkxYCYn_FwP501DXsM-FwxYtIL0og5eoLD38mcT4_J0i22FDXZdkYs_CjOOQnvwtTocZLXIskKAJa3gu1zOjRaEXsjR7l75imrAh-TvsHoBXXho3UU-MNJfHCt5DjK3JsOPGoC6zKgzS1cBo1waN1iQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خب نسخه ۰.۱.۲ رو بیلد کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eالان روی مک هم کار می‌کنه =) \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/parch-iso-writer/releases/tag/v0.1.2\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/parch-iso-writer/releases/tag/v0.1.2\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eحالا میمونه خرده باگ‌هایی که کامیونیتی پیدا کنه و به من بگه.\u003cbr/\u003e\u003cbr/\u003eپ.ن:\u003cbr/\u003eچون من دولوپر سرتیفای اپل نیستم با این باید اجرا بشه:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003exattr -rd com.apple.quarantine /Applications/Parch\\ ISO\\ Writer.app\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-15T16:07:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 159,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KLsP_SXGEKUjxUvb_0dBKdohr4QoAIXL-Y36GGik0JWXEUiZhMesMCn62PLr-v9JhnkPyhMtCD85WKPf6YF-G6ixoQfzCDC9znmek3YhNmDZjYU_ZmdA9hmowttvBmkVJaQaxD-pomdnFzZ8FU4XE5DP_c5eduFuygfBAP8ryxZLcnUzMdXgBAxHEgkH81DGoL8HgHRKaFWQCjYxuNk2ObsC9UVG-CMO9cZ4xIIPdRaQq6Rj4XV0aYrUZz6nLw2MZh6Ox_nWCqsM-TZGkUzJvzd52GZTlTvKZia8bXch6RuVPmmAERPNrQZJJlnyHDRuwRWvwcyUk4hDK_H_YtLl3g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778856293
+  "last_updated": 1778863675
 }
