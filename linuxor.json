@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خیلیا متوجه فرق false positive و false negative نمیشن یا بعد مدتی یادشون میره کدوم چی بود، این عکس رو داشته باشید کمکتون می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-14T10:23:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TJ6DmiQ1MJ7m8fNtQtWhe3HqwPOrCkk20ew6RRSF4qTFmnDaIOVc8312s336v61Kdcp4W0pjsE2gfSeI6othsigJM9GalcyEDExD5KSZAhpy1PteiTYFF1b9WZlzGEXlcXj6omBIKebM6LKOgVywu6Fv45TmXNc4dUqG5Qbh57bDbVf2FdIJ_xoXaoO2YThFkMxHtg1wWWO8S3oDhStdr1M6ZuulMdbLEkhyolcuwxeAGRUfmTFaG2A4OvPR3M3pxf84w5dH6ec9zs3hr3VxBQDXIRgzlP9g1jx4ukFvQAPDJ1PV17_Pi-_M-2Hki8ixqLGErw63z2XYI-jtAQNCnQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ابزار Notion که میدونید چیه یه ابزار نوت برداریه، Obsidian یه جایگزین رایگان برای اونه، حالا یه نفر اومده یه ابزاری نوشته که با Obsidian بتونید مطالب برای سایتتون بنویسید انگار دارید یه فایل رو روی کامپیوتر خودتون مینویسید میکنید در اصل دارید یه پست وبلاگتون رو مینویسید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://vaultcms.org/\" target=\"_blank\" rel=\"noopener\"\u003evaultcms.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-14T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CUJBkblhsm4qyy03n6bJ-g2Yl8jXV5nqfbxsi_3Bb_SfZXJuPIMDas1-XoV8u15fshFhuB7_s-MTxIo-GXiNACypWEBgZsCl0QYgn9CLYxttgBvZByBYrUk9YqqRW8y0eAG2TNOwjzwgeohdxec05LIfD8bFChIzOF8YUnj9y2KjWrMP_8pyAfilvfdEtPL4IRWRClKIqTPdqrwC8LuHYIkA6m-aC2YHjip88ragjdX54UprvD_JEZ03UzkisUHQeMbHqIquDc9tzIWbZkWoAOaI16p4WfoRtD8hVA-2JuZAGWA6iKSEVGr94kWu5wYTAudjmtlRRObfG-gFxZdS_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "می‌شه گفت اطلاعات توی لینکدین یه تقریب خوبی از وضعیت کار توی دنیا می‌ده، اما داده هاش پابلیک نیست که بشه روش آنالیزی چیزی انجام داد و یا ازش استفاده های دیگه کرد\u003cbr/\u003eاین ابزار پایتونی هم جالب بود می‌اد شبیه به کراولر دیتا از لینکدین استخراج میکنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/joeyism/linkedin_scraper\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/joeyism/linkedin_scraper\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-14T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-05-14T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 5690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +42,7 @@
       "date": "2026-05-15T09:11:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +54,7 @@
       "date": "2026-05-15T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4690,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +72,7 @@
       "date": "2026-05-15T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4800,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +91,7 @@
       "date": "2026-05-15T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +103,7 @@
       "date": "2026-05-15T13:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +121,7 @@
       "date": "2026-05-15T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +133,7 @@
       "date": "2026-05-15T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 5200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +152,7 @@
       "date": "2026-05-15T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +170,7 @@
       "date": "2026-05-15T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +188,7 @@
       "date": "2026-05-16T08:41:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +207,7 @@
       "date": "2026-05-16T10:21:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 5040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +225,7 @@
       "date": "2026-05-17T08:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3630,
+      "views": 3810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +243,7 @@
       "date": "2026-05-17T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2740,
+      "views": 2980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +255,7 @@
       "date": "2026-05-17T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 2940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +273,7 @@
       "date": "2026-05-17T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2550,
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +291,7 @@
       "date": "2026-05-17T13:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 2670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +302,43 @@
           "url": "https://cdn4.telesco.pe/file/FtVTeoFJ46G2SaBmNpqjPki54mDl2hXnXNuRA_sHzBdcmB0sARUrSBrrsNrFtjwsnFLXaC0hYjpbOJlFTzA1nfmFN0V6uIYQB5oovcS75W2ewMdmpR495qnTgiFh0GTzPHLX4vXGkyIBg92dy89ZOoF1ifB5A0tpPRU-e3s7sgJAuVgkRojwu2kCLcGPTgLlp26mlpf5TAPE6_sipuzOK69Pm3vprzHNRba9Alf4a9cOre7FEzuWmy9hVCxT3XvqIydCZW4yLIWdI_hasfNADB6U5oNX90WmsHnCywmf1UJNTcwd1_qu37WyKG6_FFGHISjkY04hJUXDukzhErKSKw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e گنجینه هکاتون LLM کوئرا\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e از مفاهیم LLM تا ساخت AI Agentهای حرفه‌ای\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e توی این گنجینه، مجموعه‌ای از آموزش‌های ارائه‌شده در هکاتون LLM کوئرا رو یک‌جا جمع کردیم، و حالا می‌تونی با دسترسی ساده‌تر و ماندگار، هر زمان که خواستی سراغشون بری و یادگیریت رو توی این حوزه جذاب کامل کنی.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e ۵۰٪ تخفیف به مدت محدود\u003cbr/\u003e\u003c/b\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/sr7hy\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/sr7hy\u003c/a\u003e",
+      "date": "2026-05-17T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 795,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JaNtCUz5GdfalotV40361gJlvnUU47RL07hQOo3W1eCugUhElh-ZT_kVFgdcyTyLseTO7Chxya49xfwvPAG2CX-1nhhRh0ql4g7SwFuddsRIyRSlV46ugu5VScmk4XrIO0ZD7iCntHFuTzw7BcBXZPLTcSrJVkEdBO54PkBsiz-wyXsU1k2TnAqBygqQMiDlPHFvHa8PXCUu3Ap21k2xz605yp-pPJsjvn2Vje0O1mHGEaH-nlpAgGqZa0MVYnoVTGd_ydDsFc00an5mFPnSHC1HLHF0e91CLkc8ZPdn0zQRPh84QYnxgSTiQ_9hUlYsfZHjjitl4xGyBLdX21Q4qw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خالق three.js (همون mrdoob معروف) یه ابزار مینیمال و خفن ساخته که فقط کافیه ویدیو رو بکشی توش (Drag \u0026amp; Drop) تا بتونی پدینگ، گردی دور (Corner Radius)، بوردر، سایه و رنگ پس‌زمینه بهش بدی و با یه کلیک MP4 خروجی بگیری! \u003cbr/\u003e\u003cbr/\u003eکل پروژه کلاً سه تا دونه فایله و مستقیم روی GitHub Pages بالا اومده و می‌تونید رایگان ازش استفاده کنید. قشنگ کار راه‌انداز و بی‌دردسر!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://mrdoob.github.io/reframe\" target=\"_blank\" rel=\"noopener\"\u003emrdoob.github.io/reframe\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-17T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 541,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AVSfDaw-39PT1nQ_wm7K4X3FPfrIAyqalsPNwbNkXQtqiH7sR0PowlbF6fYiC6lrs7wENYOHr0t3BLhpgPHQ0S0ePxhVOWfU2et0dQrSgRiHQAW1FfNmEb3YGj_BtRVHC7X-MAoRGvdU9uM2Wd22EIZlO1U-stGPNLeXvYJmcU_BHCv06zaHYGLe66nCSws1dGobV74GU_1bjdMXzs7TOrxneyu6PArmJbvORgOwRqgUkfELtWw7K8OvDHcupNa68fx7YfQeuySA3XKu5uFiDMH5Pd0NisggO8NEwGOopgca_BX0FsRQ1x8laaPEnsvZ28SuMFNnR5LGdm_YEjfgRg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779040185
+  "last_updated": 1779044055
 }
