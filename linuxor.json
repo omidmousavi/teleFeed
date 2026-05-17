@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این ابزار جالبیه می‌گرده و فایل های بزرگ سیستم مک یا لینوکسیتون رو براتون پیدا میکنه، به خصوص برای سرور ها عالیه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/legostin/cull\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/legostin/cull\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-13T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QgKRzZ6QfROH9ayt5KsuSpqQtWXH_z4j83NAo-sX8AS4HwW5E3rxzXhwg_c4DFEzBtQLQeMnfKjQyshgKuWreQy4_rr4Idzt9rm04QMhKnBb_HB3kuhySRmTGmRzYgJHtZ3skh8NaaBCG1h0BSIy3rDQvYzFN2Z8Y8DRaTaJCpKpLeAQxOcIiKiy4qs7f5HYZjBVCUQ1gvfB9GQ9DMkIdTTtcTlcVS2Bgx8acrDGk-LggsW4TstfrQ0xG3oOZxtFQ_xPh7zLPjb647OP69l0pL5GFdGQ0q1jRR8WkRmlXMBbcqwG_5ZNWtUfI3fqv-31SlVEZ5JvFt0lmQckw0t8Sw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی یه پروژه با کمک ترموکس نوشته که گوشیتون رو تبدیل به کیس کامپیوتر می‌کنه و لینوکس روش بالا میاره، البته دقت کنید این کیس کامپیوتر نیاز به مانیتور هم داره پس باید گوشیتون از طریق کابل بتونه تصویر رو به HDMI مانیتور انتقال بده (گوشی جدیدا این ویژگی خروجی تصویر از طریق درگاه تایپ سی رو دارن)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/orailnoor/DroidDesk\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/orailnoor/DroidDesk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-14T08:45:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/N4rW7YjUKZjp0pv4U42BMNzZhSTAS-WsrfoSCoaVoP0pdf20PgYdPf9AsA7wTqYa-pahwnm9g340mLFlxswOhE-QdTuTNxPH3HaiRkoKJXBV9552Tj3HjefOFWtBe7hzUhROSpdhH3aiyRo7q0PyrGPSzDr-B-d763pD3xx2sMk0Xa2lRc-VaQpqNLZ3JVwIWgzT3quRuwxOCYoMjtULGbrXlMPqYYiXKQ2R6wSocOnnikevIA1nLullwi7fPTHkHZn8dkbN9GvlTUeU3HPLiA-nM2YhMxuhQzF9H_-MI8Cah_dZhni6pdnhDC7sQVwwqfz5LZ_flODziv7ZywtGkA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خیلیا متوجه فرق false positive و false negative نمیشن یا بعد مدتی یادشون میره کدوم چی بود، این عکس رو داشته باشید کمکتون می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-14T10:23:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5160,
+      "views": 5200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-05-14T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-05-14T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +60,7 @@
       "date": "2026-05-14T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5490,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +78,7 @@
       "date": "2026-05-15T09:11:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 4980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +90,7 @@
       "date": "2026-05-15T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +108,7 @@
       "date": "2026-05-15T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +127,7 @@
       "date": "2026-05-15T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +139,7 @@
       "date": "2026-05-15T13:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +157,7 @@
       "date": "2026-05-15T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4490,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +169,7 @@
       "date": "2026-05-15T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 5080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +188,7 @@
       "date": "2026-05-15T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4860,
+      "views": 4970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +206,7 @@
       "date": "2026-05-15T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +224,7 @@
       "date": "2026-05-16T08:41:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4680,
+      "views": 4820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +243,7 @@
       "date": "2026-05-16T10:21:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +261,7 @@
       "date": "2026-05-17T08:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2680,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +279,7 @@
       "date": "2026-05-17T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 894,
+      "views": 1990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +291,7 @@
       "date": "2026-05-17T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575,
+      "views": 1860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +302,43 @@
           "url": "https://cdn4.telesco.pe/file/B-KOccRHQZ9eZgESwg_ouPn60DNpaKwCgOiy5HcZpKxsOB-0c5Dgy3dL9fPUlDOEPFsHNaMI-SCsLhH2aXmrSNRHDf91lxBgZ7oQkaPZLjaQHgOAtiCnmhO91bAkmNk7fYJ8SHDz6b6QAvaTcqrZ-gkNjb0cxdFSQd6wChsiLU2rBL5mw-8cjmrxHh1BFfS_U8Sv8eGfjqL3jsKy7ic8Pxke2unKxN7iJCEJk-_jf_FFAsfFcI_6tRQAe8UHzH9uT9HCNwnQHenaaVXdkS6Sbsd4TQ0WjbaYy3r7TcaqB_bSoCiqxyXb2Vr4EV5ZG1MXN0JtkjkNcz19KgrCJPvb4w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان گوگل این قابلیت Ai Mode رو خوب برای ایران تحریم نکرده روی بعضی نتا بالا میارتش، در حد همون Gemini هستش میشه باهاش چت کرد.\u003cbr/\u003e\u003cbr/\u003eنکته: اگه گزینش براتون وجود نداره یعنی تحریمه آیپیتون یا ریجنتون (نمی‌دونم دقیقا بر چه اساسی تحریم کرده).\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-17T12:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cTEQEdL9bkv8LDOSippcLULzycvvN15smi-b1X2f95a2JGZDuWAI4SosX4AfPZ59otqnK4MyUBxhIAWw0MuHLwVMb7Jxymj2HMmEttLm1wxntJY-hhwZJ7znrFI6WKAAb7KrXd4Qqwo4kW3p-huWJHF7q6M0bg_KJ-UdWaUl5o4CdM54spkltRae_yQOxHFjDDbfuaX2KVNYUevIdbcaiRlEPnlaqSPAvKFnDHcDeJ2uqEAbnsqvnNmIaWXjOtIYCKeQvH7ZgI1UbgWD6UItO5mPgbYsXwoO4Ifo_Ssi6kGFwMpUAfuLBpqQEi7PVCb2Jo7Bb_NjBICT9zop6HZtuw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دیگه ‏Headless Chrome رو باید بفرستیم خونه سالمندان، یه غول جدید به اسم Obscura اومده که با Rust نوشته شده و قشنگ Chrome رو لوله کرده:\u003cbr/\u003e فقط 30 مگابایت رم می‌خوره! (برعکس کروم که گیگابایت بالا می‌کشه)\u003cbr/\u003e\u003cbr/\u003eتو 85 میلی‌ثانیه بالا میاد؛ \u003cbr/\u003e کل حجمش کلاً 70 مگابایته، \u003cbr/\u003e\u003cbr/\u003eجذابیتش اینجاست که از پروتکل CDP پشتیبانی می‌کنه؛ یعنی می‌تونی اسکریپت‌های Puppeteer و Playwright رو بدون دست زدن به یه خط کد، مستقیم بیاری روش.\u003cbr/\u003eتازه یه Stealth Mode خفن هم داره که با فینگرپرینت رندوم و آنتی‌استیکینگ، رسماً از سد بلاک شدن تو سایت‌ها رد می‌شه.\u003cbr/\u003e\u003cbr/\u003eمناسب دیتاسکرپرها (صاحبان کراولر) و توسعه‌دهنده‌های AI Agent \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/h4ckf0r0day/obscura\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/h4ckf0r0day/obscura\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-17T13:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 962,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FtVTeoFJ46G2SaBmNpqjPki54mDl2hXnXNuRA_sHzBdcmB0sARUrSBrrsNrFtjwsnFLXaC0hYjpbOJlFTzA1nfmFN0V6uIYQB5oovcS75W2ewMdmpR495qnTgiFh0GTzPHLX4vXGkyIBg92dy89ZOoF1ifB5A0tpPRU-e3s7sgJAuVgkRojwu2kCLcGPTgLlp26mlpf5TAPE6_sipuzOK69Pm3vprzHNRba9Alf4a9cOre7FEzuWmy9hVCxT3XvqIydCZW4yLIWdI_hasfNADB6U5oNX90WmsHnCywmf1UJNTcwd1_qu37WyKG6_FFGHISjkY04hJUXDukzhErKSKw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779022602
+  "last_updated": 1779027813
 }
