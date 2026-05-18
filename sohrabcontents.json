@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "اصلا یادم نبود امروز چه روزیه :)\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003efn main() {\u003cbr/\u003e    println!(\u003cbr/\u003e        \u0026#34;Happy {}th birthday, Rust\u0026#34;,\u003cbr/\u003e        0b101 + 0x3 + 3usize.pow(1)\u003cbr/\u003e    );\u003cbr/\u003e}\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-15T18:52:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 937,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "چرا ابزار جدید وقتی میشه تبدیلش کرد به ماژول تنظیمات کی‌دی‌ای؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-15T20:51:08Z",
       "edited": false,
@@ -60,7 +48,7 @@
       "date": "2026-05-16T09:45:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 783,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-05-16T10:58:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
+      "views": 807,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +85,7 @@
       "date": "2026-05-16T12:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 782,
+      "views": 783,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-05-16T12:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 752,
+      "views": 753,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +109,7 @@
       "date": "2026-05-16T13:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 823,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-05-16T16:38:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 714,
+      "views": 718,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +145,7 @@
       "date": "2026-05-16T16:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 887,
+      "views": 893,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +157,7 @@
       "date": "2026-05-16T19:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 781,
+      "views": 783,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +169,7 @@
       "date": "2026-05-16T20:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +193,7 @@
       "date": "2026-05-17T16:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 699,
+      "views": 705,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +205,7 @@
       "date": "2026-05-17T16:47:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 729,
+      "views": 737,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +217,7 @@
       "date": "2026-05-17T17:37:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +225,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nNMutsmX0bxvsrqfn82mD9YkGRhAo86Pt6Gtq6Ys9dl7EQmgozaoPVXDXubo4mqqKSsfXXe6XbmsEtxm0xUew1I4vqqFS5Eoh4MFLyQEXLfcqwhzpUcRYOWR6rT5yMQKeXsor1YR7i-qXZlgbxfjvpb9vTgOWk1ZyI--76TIhWjHrbDqU1jqEDaq3FY5LNxyjLO4-zQY8-HsSAcprDXeFrfDR8WTcsILMxq6HKVRU31Pb-v7zWU7rj_DbYiEU-T8448j87XaLMTcUQIqMUqNIpfEECVb93iExWze_B_1sEcyD77uJbfxYT6_-AcmfXCxyXdn8nLxkIres1fbVRfL6g.jpg"
+          "url": "https://cdn4.telesco.pe/file/QgC78el-C85k9zM6Kgj0k6HEWLTarjMq-D-fFlFj8ZIqg6uDIHEBrPTAMBDs2wuWykpPFAjT--aDnaS46civM5pEGvJbgHnHPTMv3RZU_tyZhP2_3dkMOjLVJywioEx1Qsl_m3jARHzT6ndehwfy3i3rATqmw5znQbrPSy9HOXQMui51mmxz7g1BipboJ3jPeQ4_SDCW9DMk2SKOwjiwBxOtwG7LIRDrfJxKRNmU5bq42UwGLG67o-J-F3qTpPJGfZd28YqP_k6Cyz0Ki7v9Po2JxrAS5kyCKziofOR4pr4ODvEB7cRcmAem5MwWH_U9sBhp6DYY8l2fLHx6HsuvdQ.jpg"
         }
       ]
     },
@@ -247,7 +235,7 @@
       "date": "2026-05-18T07:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 590,
+      "views": 620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +247,7 @@
       "date": "2026-05-18T10:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 475,
+      "views": 519,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +265,7 @@
       "date": "2026-05-18T11:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 404,
+      "views": 456,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +277,7 @@
       "date": "2026-05-18T13:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 250,
+      "views": 345,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +289,25 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "مفتخریم که تغییرات پارچ را از قبل دی‌ماه تا به امروز با شما به اشتراک بگذاریم.\u003cbr/\u003e\u003cbr/\u003eاتفاقات رخ داده از اعتراضات دی‌ماه تا الان تاثیرات زیادی بر روی توسعه پروژه پارچ گذاشتند که باعث شدند توسعه مقداری کندتر بشه.\u003cbr/\u003e\u003cbr/\u003eمی‌تونید به صورت کامل از پست بلاگ زیر تغییرات رو مطالعه کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/parch-next/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/parch-next/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-05-18T18:02:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 97,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ISxWda1VZhmDfVbuZlYwnOboFgRy9D0ZdSivzjMOB-zqLEXaQr87uPE89n_phEV_o8gyMDLRYMjPxWyr3StAXXZebzO8Ov_VPStiPIQ180cgNfHkJyY-7TYh3H_zZzmWMmgmyXI9SgX358YoPk2PuvQ-E9wFTtqQ2eOhtq_VgsdtSb7Q3swMyf5gGex0lpExim_rbJvCx-B1AS4oLv1_V9epL47DrdxS6w3t2Go7fOHmCvEWeVHq5W7TxOzACsLr4JIYfccBB3t4_Fsk-F1hQf49OyRKvRwBv7DkopmAZRXlhvrwEqy2yhSsOp4fykUrrxv7M0sYD6k_yc0Tv2_HyQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779122349
+  "last_updated": 1779128899
 }

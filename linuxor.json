@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "امروزه مهندسی هوش مصنوعی صرفاً دپلوی کردن مدل‌های آماده پایتونی نیست؛ لبه فناوری دست کسایه که با بهینه‌سازی کدهای سطح پایین و ریاضیات ، بازدهی محاسباتی مدل‌های بزرگی مثل LLMها رو روی کلاسترهای GPU به حداکثر می‌رسنونن. برای لایه‌های انتزاعی فریم‌ورک‌ها و تسلط به مدیریت حافظه، کامپایل Custom Kernelها و استفاده از تمام ظرفیت Tensor Coreها، هیچ منبعی عمیق‌تر از کتاب مقدس این کتابی که خود شرکت انویدیا نوشته نیست :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf\" target=\"_blank\" rel=\"noopener\"\u003edocs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-15T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "یه نفر اومده کتاب معروف Linux Basics for Hackers رو خونده و تمام نکات مهمش رو به صورت خلاصه در آورده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ahegazy0/linux-basics-for-hackers-notes\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ahegazy0/linux-basics-for-hackers-notes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-15T13:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BX01yAanICo_q995F3-ne7LeinpxWoXgpgAG6LgNci2tBFF96X-rhyxS3VaDBzGset3z-LXXY1nES-b6YXwnLVRkkSOJMIM98cFaTladuuzk7HiQdJSmmiiWqt_82JFPlrIjVJKFF46GBJK9Tlys4dedbxyYsfnYd0rmBKn7nhms4J8a497TzF_Hr3bl7nxyYRfbU-_JLgyQa7xDaOd-gb5CIbDJIc1RB-rRY9v6v0SyWh_YUgyP75Mb66WZPx5hseTC4sSIiD6xj6GILiErLna2j0wKikPf8Zu-QeUB37OPbwF4DEWsReTtoBy-UUC3rCbFkdRIU7hD8R3C_jFzhg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چند وقت پیش نتم قطع بود هرکاری می‌کردم وصل نمی‌شد یه نفر بهم یه VPN داد خیلی خوب بود برید ازش حمایت کنید بخرید سرویش واقعا کار راه بنداز بود :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/blueski6\" target=\"_blank\"\u003e@blueski6\u003c/a\u003e",
-      "date": "2026-05-15T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "با این سایت میتونید توی ویکی پدیا بچرخید ولی به سبک فولدر های ویندوز ایکس پی، اونقدری مقالات زیاده که توی فولدر ها گم می‌شین :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://explorer.samismith.com/\" target=\"_blank\" rel=\"noopener\"\u003eexplorer.samismith.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-15T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-05-15T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-05-15T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5550,
+      "views": 5590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZCadD9m1uCO_A2CD4S_zHQ1DVfTsEQg24o68QczY4keephm_PzbsyLifg3ohYgV48LojJ9rZdDm2DDyRFaim1vhnMQKzwKdzvTL-IwCKfF6kDrgmITyqzmaaK0FqCywFfpd2GO4kCMhfJzGl4kXesJteRhMsAn9CUY4wZefQs3Jw9bhe9gtsgFG7UI3RZVqUHDeKPOMZmUtKZACLoODT05H5WjO8Dq2qW549CViuqmquFlUdeFmiTfIF11Sk7lWKx3WCE52BYaJv_kO6af-9n5pduNV0OJt_3XtFMN-nHZ-QTP_NwJyn9k5aqJHXe98VH3DY8Hsd4gO1hPYEIp6JzQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ov51x8YWnf_6WYsRDIPzPiNJBppF5aKat2Y7ayPfSBbaNaPQrOGnWcXntPXPVvdzLVAI3raDBUQh5Zr91pb5xp33P2-mzLqGu8HI8Pq0IrBxQixOREipAP1RwuClfT37JbmmP927KxeP5hPjWfAZ3DzCpfAjav53N9hkl5snSBCifA-jH--MWvA-JQ1R7E03U4fqj6GG2rK9K8AOIletSC8gb1tE6VUhND1pah7VUIaQTAp8Xb8raPvmHscgTS-FGjLdgW-QxMnJyqVKmd602KYbT5Rd_qHr4LyWDBU-7wyE5JUTT0uBgx4XuAoIpyjkf-5xDG560A49_jPMf2FUbw.jpg"
         }
       ]
     },
@@ -109,7 +67,7 @@
       "date": "2026-05-16T08:41:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +86,7 @@
       "date": "2026-05-16T10:21:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 5700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +104,7 @@
       "date": "2026-05-17T08:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +122,7 @@
       "date": "2026-05-17T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4360,
+      "views": 4460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +134,7 @@
       "date": "2026-05-17T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
+      "views": 4410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +152,7 @@
       "date": "2026-05-17T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4220,
+      "views": 4320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +170,7 @@
       "date": "2026-05-17T13:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4500,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +188,7 @@
       "date": "2026-05-17T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4010,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +196,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JaNtCUz5GdfalotV40361gJlvnUU47RL07hQOo3W1eCugUhElh-ZT_kVFgdcyTyLseTO7Chxya49xfwvPAG2CX-1nhhRh0ql4g7SwFuddsRIyRSlV46ugu5VScmk4XrIO0ZD7iCntHFuTzw7BcBXZPLTcSrJVkEdBO54PkBsiz-wyXsU1k2TnAqBygqQMiDlPHFvHa8PXCUu3Ap21k2xz605yp-pPJsjvn2Vje0O1mHGEaH-nlpAgGqZa0MVYnoVTGd_ydDsFc00an5mFPnSHC1HLHF0e91CLkc8ZPdn0zQRPh84QYnxgSTiQ_9hUlYsfZHjjitl4xGyBLdX21Q4qw.jpg"
+          "url": "https://cdn4.telesco.pe/file/si06G7nB8G4MPRLpyLPxZUxKPxwrek1FMlmXMFytkw2q0cn3vQXEYYrg0QiLZ5uENCd227zDo-W01189q4exelbSxLGbCZNXJ7ZTbWHYa_2-WmHzjDoQdjh55vcQCtaLjXCYQURYILgSaq5mp3PIlmBFrGqVUKtHx2dtqE4q-lPWp13tpdAmqtva3MFJ3XO31e0yVakTjjn-Ft0k9WvpAIzawNziWF73PcU40ZYtPO-4GBZqdcOOLJGE362-lLviweyJwAy0piI_APK9x8X-9i0u8XEFGYH9Tq8eyEWuPVUptfX1Tm7plmdElRK36TUINU-QHp-3Zo-i26rte3VklQ.jpg"
         }
       ]
     },
@@ -248,7 +206,7 @@
       "date": "2026-05-17T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4190,
+      "views": 4310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +224,7 @@
       "date": "2026-05-17T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4440,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +236,7 @@
       "date": "2026-05-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4730,
+      "views": 4900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +254,7 @@
       "date": "2026-05-18T09:19:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
+      "views": 4010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +272,7 @@
       "date": "2026-05-18T11:03:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 3730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +290,7 @@
       "date": "2026-05-18T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 450,
+      "views": 2070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,7 +301,56 @@
           "url": "https://cdn4.telesco.pe/file/rKPGbIyKwDoA0BaG-VoqA5ukWjvB90tZegK5XPbG7Q_GRQ8SW7i2vyXJp4xLohAxaPGRg2MG_UNGa-QdV5k08q6SbVAjBUD9G6xPBmURbirlXgM5-GqnmJ83hWOCyGKozwxiU2ZhL2z2AQlAnWzNHmfCj46yYgFoi907V9D1CntemblHNcDwYVRIVdiF8PHMbX-7eSH7cKinXfcj9qKBLWwCQmLGH0JDX5E7WU7JiYdiVPt1AtQlplVdIvs5aiDE9r5c3cJl7tfIJNHpFxQe5UAyTb6TEqnweWphCgO1ue40p0yEikqV_StbYLZvsUWritabWVEd4YI4lktJhC4jlQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این پروژه Gridex خیلی جالبه یه IDE مدرن و مبتنی بر هوش مصنوعی برای مدیریت پایگاه‌های دادهس. می‌تونید باهاش به دیتابیس‌های مختلفی مثل PostgreSQL، MySQL، SQLite، Redis، MongoDB، SQL Server و ClickHouse وصل بشید.\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه که از هوش مصنوعی پشتیبانی میکنه ولی اگه قصد یادگیری SQL رو دارید سعی کنید از هوش مصنوعی دوری کنید چون یادگیری SQL پیشرفته بسیار کند و نیاز به خوندن مفاهیم پایه داره\u003cbr/\u003e\u003cbr/\u003eدانلود نسخه لینوکس، ویندوز و مک :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/gridex/gridex\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/gridex/gridex\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-18T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O9nfMSHiEMgSCd86FT2mf6hRiUiXMurfA_oQxLyhmEMcCgGNK5v9hBq5v8x2r6fPNBU4l87yq-BmWi7t9JHUDu0WLKEWWLgCTUz5kp13rI6wyEOvi3ZUhRyX2Yq3Dj_zljkA-_DLqHEOf6S5NjRugnNUFGg-HXPLm082-gm1fmR4B5K_n_RI9xCB3leZEKtULLtFtjS-XPCgKWWjAvv7-pQVwCscb01D_iXpbgo2TJrU_4UvaJbjzQCW69s9u0kXA0tgS-xiqG0D-NDqvB8AqNokG5S7OmMJegJ0bmn8sMIkqyJD-l4F-Yr0pi6JgDC2ArNYCXTUcJQhoo0y2HH1bQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این خبرو که گوگل چند ماه پیش منتشر کرد شاید خیلیاتون مطلع نباشید ولی ‌از این به بعد می‌تونید Colab رو بیارید داخل خود VsCode\u003cbr/\u003e\u003cbr/\u003e یعنی توی محیط ادیتور خودت، از یه کارت گرافیک غول T4 رایگان کار می‌کشی.\u003cbr/\u003e کدها و فایل‌هات روی سیستم خودته، ولی قدرت پردازش رو از سرور گوگل می‌گیری! البته بیشتر برای راحتی کاره وگرنه قبلا همین کارو باید آنلاین روی وبسایتش می‌کردین.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-18T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JHrFLcR2Kq6hLNLjfzDu6tgDHgwZotmnd1eMun2EVBMfZsQkGZxiuc0zPCKODpQQoR8AZsb53aFDu_inw4gBzbNLAl4trU-KryGRfD1QYjDCJrqmj3ecHs5rqD84bw6IROzc4lBlEhwUnp8I4uZnanPrTf36eP-gKOdIAo7I7tFa3QWHGX4hbxG4K7ypsaZWhG41d-bQmYL_G4Mtr6uwDaoMHnpYsC-iClVd8mJfRUGoDPQfGJFb7CPu_ep_6tv_O3RqAxA09P5IYFlIhxb1-HvAw5aC8qIBDZotv_YPFXx_Ew5V8UhIHIqVmt7y8c3BUV0WN3-WNrI2xqpKMA2ypw",
+          "width": 958
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "با این ابزار می‌تونید تمام اطلاعات بیزنس هایی که توی گوگل مپ ثبت شده رو دربیارید به درد کارای آنالیزی و تحلیلی می‌خوره، چون اکثر کسب و کار های ایران توی گوگل مپ ثبت شدن می‌شه اطلاعات و آمار های خوبی ازش در آورد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zohaibbashir/Google-Maps-Scrapper\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zohaibbashir/Google-Maps-Scrapper\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-18T17:20:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1779122310
+  "last_updated": 1779128859
 }
