@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب ورژن ۰.۱.۳ هم با این تغییرات رلیز کردم.\u003cbr/\u003e\u003cbr/\u003eاین نسخه بیشتر روی امن‌تر شدن فلش ایمیج روی USB و بهتر شدن مرحله بررسی بعد از نوشتن تمرکز داره.\u003cbr/\u003e\u003cbr/\u003eکلا WSL رو ازش حذف کردم چون مخزن رو اسکرپ می‌کرد و این هم توش بود و بهش نیازی نبود و الان برنامه فقط برای نوشتن ایمیج روی فلش استفاده میشه.\u003cbr/\u003e\u003cbr/\u003eحالا موقع وریفای چند حالت مختلف داره، از بررسی سبک تا چک کامل کل دیوایس. انتخاب دیسک هم خیلی سخت‌گیرانه‌تر شده که اشتباهی سیستم‌دیسک انتخاب نشه.\u003cbr/\u003e\u003cbr/\u003eپایداری نوشتن قبل از وریفای بهتر شده، خطاهای مربوط به فایل ایمیج واضح‌تر شدن و اگر کنار ایمیج فایل checksum باشه خودش تشخیص میده و استفاده می‌کنه.\u003cbr/\u003eلاگ هر سشن اضافه شده، همراه با گزینه eject و باز کردن پوشه لاگ. جستجو هم داخل برنامه اضافه شده برای دیوایس‌ها و لیست ریلیزها. UI هم یه مقدار تمیزتر شده مخصوصاً برای فارسی و موبایل، و صفحه About هم اضافه شده که changelog رو نشون میده.\u003cbr/\u003e\u003cbr/\u003eنسخه ۰.۱.۳ منتشر شد و PKGBUILD هم بهش اضافه شده توی خود مخزن و میتونید بیلدش کنید روی سیستمتون.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/parch-iso-writer/releases/tag/v0.1.3\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/parch-iso-writer/releases/tag/v0.1.3\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو این هم آخرین تغییرات امروزه\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-15T16:57:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uVv5B538wwnudozLiPG3E7rIWe_xYmQ_LEH85VWsgiXqI7kh3YZQ4KgTpPYSx8_L1TgMlDcTBK0dTJeW1hHcsJS8OzTHzijqclmUcB6dndXR0UnWNOhkBLo9aeF-fnZgXlnssUEgl6DiSjyDRfL16DHpqRm99aroLwuqARufsvmYdCFEVnTOwfxkc0HurqPKyi2PsiKVazwjDthnqLRTKGtcYifKzHwwSLn8hDpk97olLNFRmjNnIlHCDt1AejUGarwC6tuj6GEetarp0YHHlz77yiJi8OAC82Z4PBjgJ0uJ4UfCQmCkOsJkliU0lH-x-bc6hzzKHKX88SuAgoTbEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "الان که با tauri کار کردم و دیدم انقدر خوبه دارم به این فکر می‌کنم که استور پارچ رو که انقدر مارو علاف کرد با همین بنویسم بره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-15T17:05:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 754,
+      "views": 762,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-05-15T17:52:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 770,
+      "views": 777,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +36,7 @@
       "date": "2026-05-15T18:33:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 800,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-05-15T18:52:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 916,
+      "views": 928,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-05-15T20:51:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 815,
+      "views": 822,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-05-16T09:44:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 740,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Tncag7P-oA8vrYqF2-VBTtBwglq4LB-B_I4smNo7ygQvbmN0P5_RIMc7hDSSjVX1QVEVUwCboGAl86juOVhIg3sef0f6a1TsWH_sskVu21GFCzMLwYnc5qQC1baknXO-VzPKIwjezObJzyVHIjJfywYKmVw4l6BENJjmUhuc-SecM7oHYXiXN9brLrJVFLjPbiEabXQYBl8_r8Q0NpX6jXD_0PUUJ16ippPVFtcAjeANF-BMGFPyyJRG_CRx9-AWcuiDsmTnw4yXKKdKsudFxPEJvoli9xTGJYBXqjbe367p0OGh_PlJPKM2d1KWiISZxxOTwQcYjQJpZ4wh7hlDOQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/L9pAVlG9IMO2Ngl5C0cT0JBCRravGeHHptW58Y7BFYMiFTa2p0Y_k4VyVexjAP3F3bTbes23Lg7-XcCR6LApYuFSuJeyiQ84LfV3ElRcrLqfWEzoO8pdF-u-C7oa31jzKHee5372kgywrMUEELpiROL_7PCsYRCmQQxjOeChccy8zp9cRPSPnEH5Gwdk-114LH2XRrvSHZiSoIMEDx-OEgKMOMFgk3vtV9i1PTq-_Rf1Qt0T_6CijNtc0jz48xoE4JyGco9w5C4MkJ1VSerc7VI88BCvl9WOQc8J9eTdC_NMe6fPWwzXNSOawtggg9CwBzLimnSOl0C649kkJ5CgCA.jpg"
         }
       ]
     },
@@ -114,7 +96,7 @@
       "date": "2026-05-16T09:45:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LVDCwOYUBBWCYTDswunXqZIOW5qYotO71H9UpNZn3rqU3ow_02EsMkU2nPZnhsfz1a8Vjy2f8xNWxIkg2sFSWCtau5SirX_03rP6aRYmznzsZK145VMPXAQHmvLCxaqMUh7Xye7Q7kE7q4yOTeeiRkFmnBlScqr7mjXb4YZqionJoFVYEqIaE7NR-TJo7CeoeU5rcblXoSsnkSQ2maOGpsO3jrB9E5btWy-5-hJrpyvVKUroBJtwrPXFM--DV5ffT3r4q-7v-yr2RHSlCv1wEam8_xtIn9HtCmCB_LsTaAgLy3cGqO2nHzqbVLB0JaaA6_6BrL4G_MV3eu8eKrwrBA.jpg"
+          "url": "https://cdn4.telesco.pe/file/rydp43XhH3t5DzpXGrNkNCwM80B03WDnMGjO-14w4Cvsysgo_qO7i2glJ6Cy4i3ICXpVPVSPUPsAuuuYLB5g1yzCKKnltEiqAWgurBVDG3bvaOWFGQTY0lpklpfzKgRyrqZJ86SDHLDxn5jIJgvZwZrh5RRUEMk3irQjniNc-KLeRaLgkvCjMyTN4mFW-KriVpOhXPEitp4G3JMhJY7vQM1nQ6pA-OGz2ZITrlC9fm5D9hgL7TdzgGakYHZAttbG1XaJeOQJqWhN2yM_7XNjjC1bcMg6IPo0wdx8zK9hxsOTcRu2E_4y5Irz_wxr8lF_Bc0KzkXKKkEd5r8DhKaUxw.jpg"
         }
       ]
     },
@@ -132,7 +114,7 @@
       "date": "2026-05-16T10:58:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 756,
+      "views": 779,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-05-16T12:22:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737,
+      "views": 752,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-05-16T12:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 716,
+      "views": 729,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-05-16T13:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 794,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-05-16T16:38:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 661,
+      "views": 681,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "date": "2026-05-16T16:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 827,
+      "views": 856,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +205,7 @@
       "date": "2026-05-16T19:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 725,
+      "views": 750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-05-16T20:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-05-16T20:57:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
+      "views": 794,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +241,7 @@
       "date": "2026-05-17T16:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 544,
+      "views": 623,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "date": "2026-05-17T16:47:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 542,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-05-17T17:37:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
+      "views": 951,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +276,19 @@
           "url": "https://cdn4.telesco.pe/file/nNMutsmX0bxvsrqfn82mD9YkGRhAo86Pt6Gtq6Ys9dl7EQmgozaoPVXDXubo4mqqKSsfXXe6XbmsEtxm0xUew1I4vqqFS5Eoh4MFLyQEXLfcqwhzpUcRYOWR6rT5yMQKeXsor1YR7i-qXZlgbxfjvpb9vTgOWk1ZyI--76TIhWjHrbDqU1jqEDaq3FY5LNxyjLO4-zQY8-HsSAcprDXeFrfDR8WTcsILMxq6HKVRU31Pb-v7zWU7rj_DbYiEU-T8448j87XaLMTcUQIqMUqNIpfEECVb93iExWze_B_1sEcyD77uJbfxYT6_-AcmfXCxyXdn8nLxkIres1fbVRfL6g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یک لانچر سبک‌وزن و ساده برای گنو/لینوکس اومده که روی umu launcher اجرا میشه به اسم faugus.\u003cbr/\u003e\u003cbr/\u003eهنوز تستش نکردم ولی اسمشو زیاد شنیدم، خودش توی مخزن کئوتیک هست برای نصب می‌تونید نصب و امتحانش کنید:\u003cbr/\u003e\u003cpre\u003esudo pacman -S chaotic-aur/faugus-launcher\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-18T07:04:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 316,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1779082773
+  "last_updated": 1779097262
 }
