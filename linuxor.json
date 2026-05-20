@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "وقتی دوتا رزومه متفاوت برای یه شرکت فرستادی و دوباره می‌ری مصاحبه \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-16T08:41:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oPLlC6bRk2IYYxm0bB4VelLNjQNOu0tP7FxuHpfGCXpCva8i_NEWJ-P_1BrQ2PA4xXXR5JIiei6yo9gEvlRtHwmBlTDD2LujEit1ZoYl_KID55g6gGXKiGzRgNJ_B_BMkO7pkbnkTA7LpMHedQclIljNqueMjKmqOkD_Me386WrxeHAATVfaCVghZeOl4f70inyRVOwFJRu_7yQsumgeBVmgfsstspEzETHaR7eZLfFuvWZypVVBcvqoMFegpdn-FjjKC834IYgRg9X_xfcyQh_-tS1q8WNip4DvmiqS16muwdnL14e39dbb5eRrtOaa6-IRHLDo6YUZBULiMSJWYw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بهم ریختگی فارسی تو ترمینال VsCode با این درست میشه کافیه به فایل تنظیمات جیسونی اینو اضافه کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003e\u0026#34;terminal.integrated.fontFamily\u0026#34;: \u0026#34;Cascadia Mono, Vazirmatn FD, Consolas, Courier New, monospace\u0026#34;,\u003cbr/\u003e\u0026#34;terminal.integrated.gpuAcceleration\u0026#34;: \u0026#34;off\u0026#34;,\u003cbr/\u003e\u0026#34;terminal.integrated.fontSize\u0026#34;: 15,\u003cbr/\u003e\u0026#34;terminal.integrated.lineHeight\u0026#34;: 1.1,\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nabikaz",
-      "date": "2026-05-16T10:21:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tirIdd_TnssUDNYNWzcIG8LIwUf61L8p_cSQa0jAlpd_QB-qKRBoc2kcynD4Y5X5rS6Gqx5Zvv3QlaHTOcKQL-dDDqZLbA_yDNi0E2Cdhj_PloTv1r83jG9vLAn3-7om1coxdWw_lgwODa-mjpkVaJpov_C2DPHn3xzzUyDGi3LSiyWxLK6KeOUAH5rpILUguWloge2Hd8wOWpNIIdpYNgQcOHy0IVTn_VdsKSWj-lNWMXGDuHyoLopAFcZyWBlMhVTfUjm4rysGKZjMo63777s9YLoWWIF2tzhGkSdoLQf7iur1DAUmjYcyAoX-e3OSsJIeEPOxWCg2OT1o1lJkaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اینم یه پروژه اوپن سورس مترجم که میتونه متن ترجمه کنه؛ می‌تونید از مدل هاش توی پروژه های ساده خودتون استفاده کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/niedev/RTranslator\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/niedev/RTranslator\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته ممکنه از گوگل ترنسلیت ضعیف تر باشه اما خوبیش اینه که اوپن سورسه و میشه از کدهاش ایده گرفت یا مدلش رو توی پروژه های دیگه استفاده کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-17T08:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B3QC1R4-mA_SVOclpV1oI56mZI5XIoFL3OvouvBB78Uov71KeNaid5B6ZJp3Dw5SPidCr2dyJ-qdXh36hMrInwTM3rf1JG1TmATBX3n8Ly5dlzBqFS-yYC22gODKQucKMqJ8fgRMr2EOWzcoRrZ_-TDdfum8B_aii6SA8YwQqL1qZeblgqyG4lTrZgWxHFmgppVINetJJVVinm6VEyEfceDFvEuAo-x12Ng16u9z_09G60OAP-KG3nPw_uH5UrcTCgqLF7CVN6g9p5__shxQJ3FSNX4p7HbSLpOJ7AepQJKDmw7v7biPTRLHpDc_y7kYbD8uQ_fLiB23L7zXVj3pNw.jpg"
+          "url": "https://cdn4.telesco.pe/file/el4cElQ4HvIUzYwwtsGpiHwdpFlkGjA2b5PLfdAM6uKSMO64pLSWWUozM_FhCQYla5LCck-TDgqw10_VEXUu0ALxpbg91Cl9rmUBY-DgIpKAXpBFtgKHn1ZWj8xAiJspteMDueY_U5Mt3vXXbCfpQT0EHy16Q_yPA-XH41mwT39UPGMnJwlNizQTCrmNJF1irrrJDPQciVg1GFIlaJ3Yn0qLGlEQ3KicDqP285r_OI4Ch_kd-wldggbRlXN5bCwojojzt-3neOt5-ivSC-XpnZMlYd_2EzygiqqTq5A8Qb2dHlnj0Hzyn_gp8kCY3xhtpoJAwQ5VcYuhNuDlsGCGMw.jpg"
         }
       ]
     },
@@ -67,7 +30,7 @@
       "date": "2026-05-17T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +48,7 @@
       "date": "2026-05-17T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5010,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +66,7 @@
       "date": "2026-05-17T13:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +84,7 @@
       "date": "2026-05-17T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 5170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +102,7 @@
       "date": "2026-05-17T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +114,7 @@
       "date": "2026-05-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +132,7 @@
       "date": "2026-05-18T09:19:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pO5_L89FPwj6bwYdcQ-k336L1GDnWhQX_f6iuLhlEz15TqhUNTZyPdt7jo0Z6xdsFCSDNPtnCPzZh9UxiYql5LxfeMi6vK0AWvVseUH8kcCe0rzsaH3hNDDrt2KJdYz8wE7WAezRY9tfcKwoM2q8K8ZWLHmEHR742pUEBpHjpo_LjrtWEDAMvOSMOaGp7MFDNLVuT_oGQs8ebIsrOISPqXjXMKTlO4SM9Qso3aqIC7OWg8ra3pfCvfsmOK_2RejekAy-zK96WeJqU2LDUKMmed1k_XimQhP4IGxLREzw5hIVvJfFj87AQcxPC9or5dAJzP8obaGBwIFdZLGHRNuGKg.jpg"
+          "url": "https://cdn4.telesco.pe/file/gdb_9HLwTllyarQ7GS24nSwUOxfFqxDhoq7iScG9bMEqefGojD5iQvCK-wjEaxMKU4I1aumlJo1IpeoPcYeKeChFiiSciXyS52ogktuivSkFLgNvIrHheowuH63ImnAlfR8bdsHRUKZXuJDxYxDvveP-oYslyV5IDFso0vNkKfBVyXhiBUj-wuva-rc-BvzjJ08rOazFdGb56BnbLgirAT2CrTQaS-kcw2aIUjAMnmkVhY-X770APoRjMyA5a7dVwn559ZXzqOuqoYah0_qE_zl12pyyFGqJwvQF4NFJqSQVSOFDj7EBBtYlE-imhzITZci3rguSaYi0Lh_CSXzWaw.jpg"
         }
       ]
     },
@@ -187,7 +150,7 @@
       "date": "2026-05-18T11:03:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/swHonvfjUqh4A4_wvWMpwRBsBbgp_OF9RMKnEPZsESCx_wFz19hhVBvlSA5Tz1N4Z0YJ9XMT2TmujAaP95q4Z52TWXfQcs9OHEzE8lBdHgQG-Z-mzci48g63TtuU_dVBqRlfFsmVXve9Y1xF7CY1T1IjqCUwgmJKxdCSOcpjOszeT2CrCF9uZsfAHRjbssmY2cVmex0jrVGinOXgym-f4HlG85rj1_pOB2MyCaxFhS0hGPYt3dnTvIJDJMTMEcchRhte29AhSQTAmCOhjxMhFlFoBcF1CAp-_Lfm9dryKmpOzYlXAuO2CSRP6HRbfxXuLbuUFPp_ZG7vDAroUOfuUw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Q0DqG3YQHpH-wS0UiAIHkA6c8E0coe-25J6z6vPmBGeHFw9osYV4tHl7e2SIr5vmZlSkWDvP1Vff8GdOLtmN2XPYxS__CksZfGkDxgPKJ9A5VUvNJs5Nr8TivGwqjmUAf-_AU9mDiiwh_KXJGOnlveq76TZHiLOcSrT2RDa_vH4fwzeKFJGJj2Si2OuKfYTLfKxcNOJ6ndP-JWGqxvgiId120v1O_liggKl_KOPUB26xuHdEjroZu1ZTGdpz8g-bz_6KoqdUuN2exWmsfzG7UsQQ7IguR0wj3b1cme-5frDyQuTwc1e2wxlp_wF_8fr0Kck5eWvi4cimRpHOiUutPg.jpg"
         }
       ]
     },
@@ -205,7 +168,7 @@
       "date": "2026-05-18T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +186,7 @@
       "date": "2026-05-18T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +204,7 @@
       "date": "2026-05-18T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +223,7 @@
       "date": "2026-05-18T17:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5630,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +235,7 @@
       "date": "2026-05-19T09:22:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 5630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +247,7 @@
       "date": "2026-05-19T11:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4990,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +265,7 @@
       "date": "2026-05-19T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4450,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +283,7 @@
       "date": "2026-05-19T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +301,7 @@
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48100,
+      "views": 57600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +312,43 @@
           "url": "https://cdn4.telesco.pe/file/XlqDPB0iNPmi6dSua2zvQUzUHooKE2g171OT8Jgn9A3evLbzHaJItasfRDhKYWUlB4XTd63VEu2PeJh_04PO7YTET0LOlTMa987BIaJ7MJ3M2_iDMXB-v7-v1rMIG5sRZEpOCuazcz22loGhXB5K_Ugts-S896f5k1pvXkPr1Tk8X_fIR02JMOoxg0bdncebdIuJQ3SPThLWwTt3OIakWxgp-WqVjWxucOxby4AOH3LPCkklHXxglPPhmFQYePoNfe4u5oUqgz8S1m_BfI6M3sidlhOAZsjMEwERTVTfu6qy7PGDXdQ5o8VFiQ5t7Zv8MzguaHOd9jhFNtN7W_jSCg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یکی اومده با یه سری ترفند ها یه اسکریپتی نوشته که میتونید در ماه 1 میلیارد توکن رایگان API های هوش مصنوعی بگیرید\u003cbr/\u003e\u003cbr/\u003eدر واقع همه پروایدر ها(گوگل، گراک و ...) یه سری توکن رایگان می‌دن این میاد به صورت خودکار همشون رو مدیریت می‌کنه و نمی‌ذاره به ریت لیمیت بخورین اگرم خوردن خودکار سویچ می‌که روی پروایدر رایگان بعدی!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tashfeenahmed/freellmapi\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tashfeenahmed/freellmapi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-20T08:51:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fRvn_Yl2rC0X2vpUqkx4xm4OqPhZ_ttAtnlzQZLK3xnb09RHkw4KBW4rRPlmJIf05RNlZtXrZ5LuxfzNOZFArsXZW3pN3KUVaTBvOnM67EwcolxDfVrJGl8qlnKByoSJbtlDxKIFERJZolKONWPUU1YI9JQZiAyQvhvuV8w9hndAuSg74Lcw5SZU4TkVOSloXs-8h1ULiHcaoXzrhOPFk8UE_Bd_dXRpCOM-nObzIpLADsrUDEH5qMrtSKLMuFoYdXZ-uUMY1KQkLyLRTNSdt-w3lhPGfmVh_c8VtEagMxUEgTvFaS8Ix94Yx0sta5Q0tsqav7whgr8Jv1C9s4XHaA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان این سوالو اگه ازتون توی دیت پرسیدن بگید\u003cbr/\u003eبرای پیدا کردن 3 اسب سریع 7 مسابقه لازمه (نسخه استاندارد سوال که توی مصاحبه های گوگل میپرسن) و برای 5 تا بدترین حالت 9 مسابقه لازمه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدقت کنید ظاهر مسئله سادس اما باطنش نه و شاید بگید مثلا به پنج گروه تقسیمشون میکنیم و برترین هرگروه رو انتخاب می‌کنیم اما ممکنه همه برترین ها توی یه گروه باشن پس کشکی نمیشه با چند تا مسابقه بی هدف اسبی رو حذف کرد، حذف اسب ها با روش الگوریتم Selection (یه زیر مجموعه از Quick Sort هستش حل می‌شه و حلش یکمی پیچیدس باید مفاهیم این دو الگوریتم رو بدونید)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-20T09:31:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MtsgLUj0zCtB6VEw6lZ_AH-GhnLwpkjFHX5cMf2eM-HMvrVAvB97TpmlpofVxCKAnMvJ8NwSNOXUlxebluK5yKNDRaZy0914fF6a1YOuLy7m4isCc61pWCuCM5z4q7QWZGQo45K87i7uyI8OERBl9fGj45jqqiHprVS-gdNOpTivSkNQBZmFETBVNZJVh6ZjTI1dj6tq4NGIoEEwE_IcA2Q8TEQ9mxHbMbOU6sWhywOhS-jAXgUrWIJpRh1N70iPwd3ZBG7UFUhXsubmRgNoWcWf3KAykMLUw4B2ZBpq9xyVChGfp_DgozSuYbXroTUk-VL6Ia8x-NoqyCnP77yDsQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779262545
+  "last_updated": 1779273727
 }
