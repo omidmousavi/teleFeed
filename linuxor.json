@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دوستان گوگل این قابلیت Ai Mode رو خوب برای ایران تحریم نکرده روی بعضی نتا بالا میارتش، در حد همون Gemini هستش میشه باهاش چت کرد.\u003cbr/\u003e\u003cbr/\u003eنکته: اگه گزینش براتون وجود نداره یعنی تحریمه آیپیتون یا ریجنتون (نمی‌دونم دقیقا بر چه اساسی تحریم کرده).\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-17T12:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oTPBIvy7Yo5vCbuDMMJtoLZWjedQsuhmTXpGFIp6LKmnWDZupq6ZjuezHbz6KEiVWVgZg0vgJ65JkPN_WhowVHq6W913l_083sSfFWh4uWXDft2TuAScBbPtJk91py_3cBXisd_Mfh4JceMn8IKNHm9VyLelIqp6D0o80XApd3OJKSRZQi-SFNondIyCjpqd1pEOc_aLNuaYW4boecGnsWIs3NdLWrhLUPMuSuHz9o6A-eiZyF-g5omQh8crQJ1z3kn7MofuML7YjItv04sYov5qRJeDPit6JzNn3L-G-x8KsOBK4MCTu1nQ5dSJ-VWz_2KeE_q-O19wXbD6i2GSSg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دیگه ‏Headless Chrome رو باید بفرستیم خونه سالمندان، یه غول جدید به اسم Obscura اومده که با Rust نوشته شده و قشنگ Chrome رو لوله کرده:\u003cbr/\u003e فقط 30 مگابایت رم می‌خوره! (برعکس کروم که گیگابایت بالا می‌کشه)\u003cbr/\u003e\u003cbr/\u003eتو 85 میلی‌ثانیه بالا میاد؛ \u003cbr/\u003e کل حجمش کلاً 70 مگابایته، \u003cbr/\u003e\u003cbr/\u003eجذابیتش اینجاست که از پروتکل CDP پشتیبانی می‌کنه؛ یعنی می‌تونی اسکریپت‌های Puppeteer و Playwright رو بدون دست زدن به یه خط کد، مستقیم بیاری روش.\u003cbr/\u003eتازه یه Stealth Mode خفن هم داره که با فینگرپرینت رندوم و آنتی‌استیکینگ، رسماً از سد بلاک شدن تو سایت‌ها رد می‌شه.\u003cbr/\u003e\u003cbr/\u003eمناسب دیتاسکرپرها (صاحبان کراولر) و توسعه‌دهنده‌های AI Agent \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/h4ckf0r0day/obscura\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/h4ckf0r0day/obscura\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-17T13:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iJg85BjQ71M1pbTaNfh2L6pXowYxJeu9FUw6ZfkfFXPerxw1UjN7Xc1F69JR5aos7qraQbghJ_HXES_PQeEBU0hkyqj_qV-tVQrr8JUqTdj7xuPghGLflMLtshi4wYfuDsMmUaf3s6mJaiuyEfW8S7j0QillxO6Xl5Wih-tIbo4XmhCX162-43_WxAYhu0xSdbyJBpjXcYeTwzCPC5-6uoxMeCZexN-hd-YyNfZkSPy6T1PutsBwF6DCKZEWUxK3WlshbbXM3Fv38UTQm5h80c3dFJ7mP57HqB7NeWnUdI6ANZO621Z2gdDwMh-8ep9JieM41n-luf9PUipan3xlzw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خالق three.js (همون mrdoob معروف) یه ابزار مینیمال و خفن ساخته که فقط کافیه ویدیو رو بکشی توش (Drag \u0026amp; Drop) تا بتونی پدینگ، گردی دور (Corner Radius)، بوردر، سایه و رنگ پس‌زمینه بهش بدی و با یه کلیک MP4 خروجی بگیری! \u003cbr/\u003e\u003cbr/\u003eکل پروژه کلاً سه تا دونه فایله و مستقیم روی GitHub Pages بالا اومده و می‌تونید رایگان ازش استفاده کنید. قشنگ کار راه‌انداز و بی‌دردسر!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://mrdoob.github.io/reframe\" target=\"_blank\" rel=\"noopener\"\u003emrdoob.github.io/reframe\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-17T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iGDfoV32ALkw-9RstxexpifuL8GgoHtW_8qEe44yRsi11J_5y3eoDd-O8-ektwmupV2-p7N6n6Y2bV1T6amXI3QUXNhRjh9sq3Nr_WQidKYUXcrAcKvgie6Ep82BBKeAa-03lOT7H_n_AnjO2mECzEclcYm3iRjfC4kmPD7LQy4tNncOolVP9x9h5_MoYOLNM__74SLqRNJVlA13hXqTS0vosSp3kwIBJVIjbsTu8rgLESseFuB2XYbWYrFsfMAmqi-CcepQaoTH0dEFW19VUcm1Vt1sYsAAcgaDVqU2BboMxxRH-nwQ5uGNla-apvdCw08JKuMUJjDHMGFBRv0TYw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "قبول دارید هرچقدرم که هوش مصنوعی خفن بشه، بازم بدون بیس و پایه‌ی قوی نمی‌شه چیز خفنی ساخت؟ مشکل اینجاست که منابع آموزشی تو اینترنت اون‌قدر پراکنده‌ست که آدم وسطش گم می‌شه و نمی‌تونه سیستماتیک جلو بره.\u003cbr/\u003e\u003cbr/\u003eاگر شما هم این مشکل رو دارید، مخزن متن‌باز Professional Programming رو حتماً ببینید. اومده مسیر یادگیری رو از صفر تا صد (مقدماتی تا پیشرفته) خیلی تمیز چیده و همه‌چی رو از الگوریتم و طراحی سیستم گرفته تا کیفیت کدنویسی پوشش داده. \u003cbr/\u003e\u003cbr/\u003eجذابیتش اینجاست که فقط یه مشت کتاب و مقاله ردیف نکرده؛ پر از پروژه‌های واقعی و چالش‌های سنگینه. مثلاً ازت می‌خواد یه Redis رو از اول خودت بنویسی یا کامپایلر بسازی! قشنگ مجبورت می‌کنه دستت به کد بره تا مطلب برات جا بیفته.\u003cbr/\u003e\u003cbr/\u003e گیت‌هاب:\u003cbr/\u003e\u003ca href=\"http://github.com/charlax/professional-programming\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/charlax/professional-programming\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبخش باحال دیگه‌ش اینه که موضوعاتی مثل مسیر شغلی، آمادگی برای مصاحبه و مدیریت پروژه رو هم دسته‌بندی کرده تا همه‌چی دم دستت باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-17T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-05-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/si57W5vbLcnmLd46suiSO5TkCvlXcQzTY1Id-k_Pwx7QZ8FcONguEfeT8yoou7esBDTJGHcCz9Oi3pQjyg-uTbpH_fqT3Yt36zcoN01trgqrM-pHHqYkAgVjJV-4ej4i1r3WiIgi-MTOIbgndeSB5_CXDjAKc5DkMocs5ARxAGAO0hYGdYgv_d5xTtMVJ7zXBHTJH2aYe5N7Pnd_yAelSA4Ov_zmhVltHPgIwyjxgVb9fQ3kkKWRGSHyLYuZDjGo_DPUOWYSaggeRvL0Cbs0fANby4LUBJ9u0icpqldi31Trjj1T4VNdbM6cucqXj4UKPt8iJj7uOc2WSIhbmx0Htw.jpg"
+          "url": "https://cdn4.telesco.pe/file/SuJRCOqS0OhWIMF_HRYkl4yDXvVxLpRiZZL__H6qzkAltiMGcISCYfmE3M123ROHRLnOV9ijj6yBCnQXjMcJog_b9T4xaGqQVwTm-tqF_T1cVxvWqFDTZ8htLZB0B5_OimkARDlfMNW7ezMrpWNHsCf7rCj6qggkV1yNT1ahMfP_pZI9IHtv3W0DJ5IEqAW_ALeI8s6Imrxr30a1tke9NTwCVxZFXI_H6s0uEBIrRSumP3wRwuy8eTxPITxoGyRJYNuSVQIHidYT-K3zir4mVRV-E4BV7svzTXzzw-Rs0yMJ7VpPt0cvF8F0sgrwDrDlWiMbxGc_WvWo4qUjXgm5Ug.jpg"
         }
       ]
     },
@@ -96,7 +42,7 @@
       "date": "2026-05-18T09:19:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +60,7 @@
       "date": "2026-05-18T11:03:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +78,7 @@
       "date": "2026-05-18T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +96,7 @@
       "date": "2026-05-18T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +114,7 @@
       "date": "2026-05-18T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +133,7 @@
       "date": "2026-05-18T17:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +145,7 @@
       "date": "2026-05-19T09:22:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +157,7 @@
       "date": "2026-05-19T11:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +175,7 @@
       "date": "2026-05-19T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +193,7 @@
       "date": "2026-05-19T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +211,7 @@
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68000,
+      "views": 69700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +229,7 @@
       "date": "2026-05-20T08:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +247,7 @@
       "date": "2026-05-20T09:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4370,
+      "views": 5010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +265,7 @@
       "date": "2026-05-20T10:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4280,
+      "views": 5220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +283,7 @@
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 225,
+      "views": 2860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +294,55 @@
           "url": "https://cdn4.telesco.pe/file/OJdKEEovgRShC3zDEDczG6pgSkTFChQdd1muFHH-RYM-OANbovZ6292TEc84eGdv4ClcsiDx2mabtKiDcnELPMjMYG3Pz1HKVBJ0StNxsPFQWl-GBNgdwWEaJlYhampyAfPA0zsf5RrKxmmctdQ7bdiEa4J6jh_yezXQbxthGjxj2tyOzcFG59YjyxFR4K26T4e5q8-5LVQfDpozKEgZu8bo4S5PQr4Fp5zvrVkVOxTcFIyhqR58AMW8edcU7oxnU_DwltVj_mJLde4uLTB6GEyPc3493KvCCvhfvx3gRMcYD8lk_VzictjaKluXGhgocJwBDNgL3VMdtdaK2LKGtQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e ۵۰٪ تخفیف روی همه دوره‌های کوئرا کالج به مدت محدود\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e از مقدماتی تا پیشرفته\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e گواهی معتبر کوئرا کالج\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e تمرین و پروژه محور\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e داوری خودکار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/ravsr\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/ravsr\u003c/a\u003e",
+      "date": "2026-05-20T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HOZ-NH2pw_m8MyroT0xEzILIFiG8Ffac6TqdJE3aki1a_qow7jJ29Z9kQxZs3SDfEc9lOrlYwl7xeaKhPOqW7PB6NSiN_sLbciiUy44LyDH3p1tQMF2rZaXWOt1PpGIGgsypvSKkhpehj6adafq-rAJhYF4tC7sQ1VHHL2_UXlS6hKmWTy0JHgDnlnrMcakKIN68HYnlQRiaTk0VvFN7wLNIdfmC-8wh9SCQHzrz9YJW0-T4YcN7KTFsidDMIGQxx9iWcjXOp0PhnCoQsWHEQzqozfYn5TlN5O3p6Qp_qvTIeJT5evNNhhkZOjMfRXU5vdWHAR8pZRAj2Q4dKAfo7w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یادتون میاد سورس کد فرانت کلاد لو رفت (بخاطر اشتباه فرانت کارا توی انتشار فایل سورس مپ) اما خیلیا نتونتسن بفهمنش یا تحلیلش کنن\u003cbr/\u003e\u003cbr/\u003eواقعا هم تحلیلش پیچیده بود چون این شرکت، شرکت کوچیکی نیست که یه فرانت ساده ای داشته باشه و بشه راحت فهمیدش، حالا یه نفر اومده کامل تحلیلش کرده و کتاب قانونی 400 صفحه ای براش نوشته!\u003cbr/\u003e\u003cbr/\u003eخوندن این کتاب از نون شب واجب تره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://claude-code-from-source.com/\" target=\"_blank\" rel=\"noopener\"\u003eclaude-code-from-source.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-20T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IWcEgs7hMNtOqp2ZDIx6jiTeSrsuIIwNrgptdswFrW2zOYWnGudVjhZRCujGKByqXrI4z-PNY4kGJKYZ4E1p2L4uLj7fypTmAuEa378o9ldbRP2K3DNHVxYzVyO9c3pj3br5Q9NO-_-3qwdbDA88m7ApHwwSJ8LG3Vk1jn6SrvfZKqbZMPtyYxIfqDXREJgkswmj3IjFe5L1UJePo68Wyx7Nc06z1e9jTjU17Kk51HXM8MrL7zfrZ6mJUGt1R_j1fbpJIrQdKDKgMswvkPUZQIYr1r4DNyCh1_QzZlb7DryL3IOZqrmbknkKKxIYL_DjwC4m-i_UBQypHWwOzsdX9A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یادگیری SQL ابتدایی فقط توی یک ساعت! برای تازه کار ها و یا کسایی که مدت زیادیه کوئری نزدن این خیلی خوبه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/s-shemmee/SQL-101\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/s-shemmee/SQL-101\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-20T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 779,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1779295557
+  "last_updated": 1779304463
 }

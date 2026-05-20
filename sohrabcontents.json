@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "الان هفته بعدی باید ارائه بدم و ۶ نمره کلاسی رو داره.\u003cbr/\u003e\u003cbr/\u003eو حدس بزنید که چی؟\u003cbr/\u003e\u003cbr/\u003eادوب کانکت روی وب شیر اسکرین نداره و من روی لینوکس هستم.\u003cbr/\u003e\u003cbr/\u003eامیدوارم شرکت ادوب بمباران بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-16T12:55:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "خب یک روش سرطانی پیدا کردم برای اشتراک‌گذاری صفحه توی ادوب کانکت وب بدون نصب ویندوز و نصب برنامش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخب روی وب شما می‌تونید میکروفون/فایل/دوربین رو به اشتراک بذارید.\u003cbr/\u003e\u003cbr/\u003eما میایم obs رو به همراه v4l2loopback نصب می‌کنیم:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S obs-studio v4l2loopback-dkms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبعدش که نصب شد، باید ماژول رو با یک سری پارامتر خاص لود کنیم:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo modprobe v4l2loopback video_nr=10 card_label=\u0026#34;OBS Virtual Camera\u0026#34; exclusive_caps=1\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبعدش که لود کردیم و obs studio رو باز کنیم گزینه start virtual camera ظاهر میشه که میشه انتخاب کرد که صفحه رو به عنوان دوربین به اشتراک بذاره.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی تست من از بیگ بلو باتن استفاده کردم ولی روی کانکت هم کار می‌کنه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنکته‌ای که هست میشه این که اکثر برنامه‌ها وب‌کم رو mirror می‌کنن که شما اگر دیدید که mirror شده یک افکت میرور بندازید روی تصویرتون که از obs داره share میشه یا گزینه mirror webcam رو خاموش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-16T13:41:21Z",
       "edited": false,
@@ -42,7 +30,7 @@
       "date": "2026-05-16T16:38:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 788,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-05-16T16:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-05-16T19:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 896,
+      "views": 904,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-05-16T20:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
+      "views": 896,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-05-16T20:57:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 949,
+      "views": 960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +96,7 @@
       "date": "2026-05-17T16:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 827,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-05-17T16:47:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 851,
+      "views": 868,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bOw8Uwd-SSQKHTQywRiq_TC-r0oJ-Ew6gg8aFtuxnarfV8GwmtNKHHVpennUkutASPHq4reYdLkXjFJP8uArqbQ-kjegLWCBDTjQj8ORBaph5XVgaMK78Ke61jVbBYLvmO74r8nOzxuRDlg3Bh2KhikR6GjM8dcwGj5uPPH3kcECSCNXRFRi4sO0i2i0dYTXmmdOnxjXMHa4C5egVdJv82E2x69cm6yLSUwyvBpoFPNWpKJzKhGOU6XVdNSjQZu4Arpcr04ech3nUJWBTDsRnPUsWEnha2P7yd5ucZtzkLyEOwTxyAVScWDQDR5EHx3bOgx_vOSwTrk_YQX9v0SZ5w.jpg"
+          "url": "https://cdn4.telesco.pe/file/TDGVmzR2KyZwfYAkHUdYvpE2Tq77LH2b2kyyIciGlGg0j2ALsED3VSEcwDlgLj2PrKowUfBnBRbBqcEqazUTZfuTidLWmmSbY9svIPW07XpnzUKY3fNJrN42CNd5kA7t8HJrZ3O6nxj7yNs08DT36I0ww9Yl9rzjteUCiRcItMtZIQ7fKs-l4eIlLBuhN3p5CSCL8iRBebElgzKtEvRIlstuGwcfRjY62cttrY72zZ655KjavICMrRuz-flkNDFqtzopJIJoIGxxkWxy6U1LanSt-8REq1QO6HLH3DxM0o-5TqRNbQAbEzamtHFT7IWXtQiKD5kAX3WEjDgYMjMcWA.jpg"
         }
       ]
     },
@@ -150,7 +138,7 @@
       "date": "2026-05-18T07:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 853,
+      "views": 857,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +150,7 @@
       "date": "2026-05-18T10:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 834,
+      "views": 840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-05-18T11:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 801,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-05-18T13:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 808,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +199,7 @@
       "date": "2026-05-18T18:02:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 695,
+      "views": 704,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +207,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SMyvQ7YWjWLPsBhd24lYA183vmFOdInGlUO4JTqnyNWr0wTAUPP2R3iiy69DMYpsALmyYJR996xMUoQ_GENxpC0bggq5YtzFSxPt9SEvs1-AIU-BgCAxn_2driGWLIM7_L-8LNFJkHHfndOxPzEscP9Mf0YvnfUiPZNVz8h3-C0Hyrn3GQudZR9aGqE78sql_MGSgSIzbgQ2cpBR8dlhS2u7b9y-IaUFit2Qal9rvA8hRo2N9cV8fPWlFA9IGXRkCG7zHqeXg3FBljcZG6Sa5iXPkm1g4_DubswcUzCW7JLB8oA5HaHmcDvl8pgLf-lPvbQFfFdGAWFQI9j_Y_cQjw.jpg"
+          "url": "https://cdn4.telesco.pe/file/WVvUjUOH5RASsmrpr4oTmfgUkeEJH4gDLEjeZrUH-JTgBcDUggfQMKJLDkODTSIUaMgfddtoTHfUqYyO5twGYV8-vkGcMpy5lC_A9d7C03xBfT9ULSw7U1iD1NqcSkYrPzvBOoHPTsD6ylS5iqRFsfpRaAdW9xlIV6kY3YGUmzUvZx1DwX_E9ceUoWbGb-04lwX4U95T4h_27YBvUqbReuvbt_LcFUydvD0v-Gs0jpb7paX1-73DFgWaTobEIkmsBExvK7FkzN_HZMx8mBXACG6cSlcxn9yRxcsevePgt_6vzt7pgDg558KP7aDZeKV4ybUU7tUISY4OcUMRRZMe1A.jpg"
         }
       ]
     },
@@ -229,7 +217,7 @@
       "date": "2026-05-18T21:22:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 828,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +229,7 @@
       "date": "2026-05-19T08:58:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +247,7 @@
       "date": "2026-05-19T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 597,
+      "views": 622,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +259,7 @@
       "date": "2026-05-19T17:29:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 567,
+      "views": 605,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +267,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t4ArxTlTlLklDwiK5OHyN9MYIGYbKFX4rZZI3BSZM3PEGnB7FCQM3l-Q8HlhaEwzltgfQF2OZkGnoUU0QBkIecqOzmeHmv-9bKxytdF_SzhadLmyAPxBcNYWBQCyBFk03ya8g5LS0XuYieANfGUqxVjHunV6F3B4wTV2kHN6oPQ5Sd4ObQVMxwcRd7fXavLh8QQNPqbUcBSwAUD74N-wpfVE4whjKAVM3VKcHbbhFfA5CSLpwXzwhU8BYGe-naFN38l4tRl40NoLstdrbTHI7MkjdzmztVBv63cj-w2KUout_iuKGhF_psEkVYd41l3TfZFyoRu4VBSvEaZTRvrnYA.jpg"
+          "url": "https://cdn4.telesco.pe/file/OPVjO9yOwbQZeCptGqiwagjxY-XLGdz3myG0b2S3zfralccq-fT0BUia9L5Eg7cMW5mb_5HUBnm12ceocmcVIz62yrYM34R0bMDebVR6GOPHeRDwk4wkkrvelv0Fv4ZuOWlVCVLGYPppaOsy0Z3MOIKISb81-S83uiRn6jsCZDAYClBXduBf_mz_8MR12W3jxXHEhNz9WAdOwnkWjn4fhopgGXrPYGvxvUU0NN5t3LKyjR2i8sJ3LcipQwSiUZXZoSz7XpzuVCGqukUDg1cSaas6xr0lP6HNxlL5aoNMxDXGqVUJYgChXZSS3jEzyp-NGOpH_8EtwlpG98ukQPgJ1A.jpg"
         }
       ]
     },
@@ -289,7 +277,7 @@
       "date": "2026-05-19T20:11:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 464,
+      "views": 514,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +288,19 @@
           "url": "https://cdn4.telesco.pe/file/O6LCHKy06i6kl6gJJ9Ic20UIQjHgqrXhXufC0zRceTBu6rYsXdmvdcp3jAlg4DWZ4d8i5uI-o0tmwiF45FGawphRhju2G7rHsziO4n9bJvE2k9RMrw6al_0zxkMBZvvW1SyYm2NYBlLhk3NtLi-l90kUJfGgYLtQa_w-Do6q9ntXBnr0my9tmhAam83VRI7RKOXrtIDUcvcsqr_9j6KUa50Ub63gYk46KKbwzU13e5gY7L6OLygdfkLKYs5NMqTtWfrAlAlgIhg8Rzh8TM5GpLlONliNNeYF9xvfJbaOUrEJWPKWoE5jxu9bAM2rPMhxajnfwlZMo0N0KNSxA8901w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eاز دست دادن تقوا تدریجی هست.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگر امروز رفتید سیمکارت پرو گرفتید و گفتید «من بخاطر کارم بهش نیاز دارم»، فردا روز ممکنه تفنگ هم بگیرید دستتون و به سمت مردم کشور شلیک کنید تا سیمکارت سفید بگیرید؛ و یا بعدش کارهای دیگه ای کنید که برق پرو یا آب پرو بگیرید!\u003cbr/\u003eشاید الان بگید که غیر ممکنه من به اون روز برسم، ولی خب از دست دادن تقوا تدریجی هست و کم کم خودتون رو میفروشید تا فلان چیز پرو رو بگیرید.",
+      "date": "2026-05-20T19:07:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 85,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1779295600
+  "last_updated": 1779304504
 }
