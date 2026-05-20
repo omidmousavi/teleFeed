@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب یک روش سرطانی پیدا کردم برای اشتراک‌گذاری صفحه توی ادوب کانکت وب بدون نصب ویندوز و نصب برنامش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخب روی وب شما می‌تونید میکروفون/فایل/دوربین رو به اشتراک بذارید.\u003cbr/\u003e\u003cbr/\u003eما میایم obs رو به همراه v4l2loopback نصب می‌کنیم:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S obs-studio v4l2loopback-dkms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبعدش که نصب شد، باید ماژول رو با یک سری پارامتر خاص لود کنیم:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo modprobe v4l2loopback video_nr=10 card_label=\u0026#34;OBS Virtual Camera\u0026#34; exclusive_caps=1\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبعدش که لود کردیم و obs studio رو باز کنیم گزینه start virtual camera ظاهر میشه که میشه انتخاب کرد که صفحه رو به عنوان دوربین به اشتراک بذاره.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی تست من از بیگ بلو باتن استفاده کردم ولی روی کانکت هم کار می‌کنه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنکته‌ای که هست میشه این که اکثر برنامه‌ها وب‌کم رو mirror می‌کنن که شما اگر دیدید که mirror شده یک افکت میرور بندازید روی تصویرتون که از obs داره share میشه یا گزینه mirror webcam رو خاموش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-16T13:41:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r0EwoLpkY7GGkJCpdwrxbJBts7awjkNudGFHoO9vmfyXuLh5tPFHPrDi3FBsQ-PYp6v2Rpa-yuqXFnDO_gW5-OgTU25vh8xz0mrRJiopKABhicothNONo-ypGkwXqymzmEvZdE5GqD2B4bJMwDJ7I73FCloAyzFjXaxbMXYX2N3OV9ZcYzY2DpViK3Hl2auQ41Y1vd-Lhi1Kni5qnnYjZIsZY2855EbAYk9CSLnbG6aaVbriQCj7Bm1_k4kH8e4Y3MToEHk-coGgsnO8YePtKZyXZd34TXPEW-V8VYU2rYKrltQ-gEfLIudqS1v-kLLps2ZxHqYA-xqhavTsLDjalQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ما تیم توزیع \u003ca href=\"?q=%23%D9%BE%D8%A7%D8%B1%DA%86\"\u003e#پارچ\u003c/a\u003e، مفتخریم که در تاریک‌ترین روزهای ایران کنار شما مردم بودیم.\u003cbr/\u003e\u003cbr/\u003eفروم پارچ فضایی است که ما در نبود اینترنت و به‌دور از پلتفرم‌های حکومتی و به دور از تعصب روی توزیع و میزکار، با همدلی مشکلات یکدیگر را حل کنیم.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttp://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e \u003cbr/\u003eپاینده ایران\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-05-16T16:38:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 791,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jK7nhol8ufVUwB-oXD64bmWe0pBZtGghfwKIcGTREjBqDKGHheecPloxK9FaTiIfUJxsy-c-ZE4UoHuEtv6QvKygP3HwE5NdrY5nALl8xBIPmRBWGcDdFEkHKwU4sZLQ_wndUS6ifrkPsZ_2ihqZQ0k87008nV7R0H1fbu1e8Wge43-sFhZCzshpx9RKR2HV30OKZwRApwJrXJS9fqDRP0W0K2hvLglRvaD6UXo7_cOAZb8EV0rDAJRhfiV-b_NnfIyllT4D16wxD9JuPLLBuEiuvhdvC_cXHrnwAGFco-xXaV4PdkPurVzjo-JMw35RWuc3m4tBA3dHP9OdBT0dZA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "کلا org mode ایمکس یک چیزیه که خیلی شاید به گوشتون نخورده باشه، ولی خیلی خفنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمن خیلی وقته ازش برای نوشتن بعضی از داکیومنت‌هام استفاده می‌کنم و یک خوبی که داره حالا وقتی استفاده کردید اینه که حتماً از منوی اکسپورتش دیدن کنید:\u003cbr/\u003e\u003cbr/\u003eC-c C-e\u003cbr/\u003e\u003cbr/\u003eاین پی‌دی‌اف هم رفرنس‌کارت اورگ‌مود ایمکس هستش.\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-16T16:57:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-05-16T19:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 904,
+      "views": 929,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +36,7 @@
       "date": "2026-05-16T20:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 896,
+      "views": 919,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-05-16T20:57:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +60,7 @@
       "date": "2026-05-17T16:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 827,
+      "views": 855,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +72,7 @@
       "date": "2026-05-17T16:47:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 868,
+      "views": 932,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-05-17T17:37:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 1360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-05-18T07:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 884,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-05-18T10:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 840,
+      "views": 863,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +132,7 @@
       "date": "2026-05-18T11:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 809,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +144,7 @@
       "date": "2026-05-18T13:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +163,7 @@
       "date": "2026-05-18T18:02:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 704,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +181,7 @@
       "date": "2026-05-18T21:22:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 836,
+      "views": 881,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +193,7 @@
       "date": "2026-05-19T08:58:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 859,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +211,7 @@
       "date": "2026-05-19T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 622,
+      "views": 699,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +223,7 @@
       "date": "2026-05-19T17:29:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 605,
+      "views": 714,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +241,7 @@
       "date": "2026-05-19T20:11:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 514,
+      "views": 672,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +249,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/O6LCHKy06i6kl6gJJ9Ic20UIQjHgqrXhXufC0zRceTBu6rYsXdmvdcp3jAlg4DWZ4d8i5uI-o0tmwiF45FGawphRhju2G7rHsziO4n9bJvE2k9RMrw6al_0zxkMBZvvW1SyYm2NYBlLhk3NtLi-l90kUJfGgYLtQa_w-Do6q9ntXBnr0my9tmhAam83VRI7RKOXrtIDUcvcsqr_9j6KUa50Ub63gYk46KKbwzU13e5gY7L6OLygdfkLKYs5NMqTtWfrAlAlgIhg8Rzh8TM5GpLlONliNNeYF9xvfJbaOUrEJWPKWoE5jxu9bAM2rPMhxajnfwlZMo0N0KNSxA8901w.jpg"
+          "url": "https://cdn4.telesco.pe/file/nbra8e3mbWr1VINx_iXx6MWTQ7jCtDkNiu8OcUjpr4LJb-qIB7BQ-thYXZ_Xu513xeLkd75WJhMPXMHKB0vA5Rdj7b0V3GuUOmgSwqPRKfFKT6GI5Ioquu3dwJYbnSp8s6gCc6cNt7DhxkFF0EHZio5gW19MoTmt5OjPKh5VIJX_GlmWddawNYQXt2UbV_zgkaAACGav7AZCUFmLBIId_beP74JJ8yzuy9rmV7kErNopB0z4j6tflJdP7OvVTZF2wwlWlc6YZ8qKaxRXicikt7apiAfE-_f86c5abPSAFdg_5HCnlelKdVR9FvXnFrBiH0PEI9IWe5dB5mDzQfHZ9A.jpg"
         }
       ]
     },
@@ -295,12 +259,48 @@
       "date": "2026-05-20T19:07:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85,
+      "views": 387,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "ایلان ماسک مناطق محروم دنیای جدیدی از بلاک‌چین خلق کرده که توی ویدئوش هم مشخصه که ssl سایت خاموشه :)))\u003cbr/\u003e\u003cbr/\u003eهم اینکه ادعا کرده از ماسک؟؟؟! دیتای توییتر رو خریده و ۲۵ هزارنفر رو آورده اینور.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحقیقتاً سیرک خوبیه، واقعاً سیرک خوبیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-20T19:39:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 374,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pMizFRgDZXRKK7YFtnvHWZT0vf5v7xZZkR-FcNG4L4b6j-ysIk1m6MDQKLFZJavgJjQCGVAdhzzexBw-rynllY9KIU_61aLAw575TNhL1q4_drf5Pb4fRFXX6U4IaCBA-tSA2jkjFIVr0E2Mx3ufqMUTS84dI-11SJUPrLhh4sCbiqNohbDMtTRWY-nC-IznMCAKDg-W0Uh_BQsuMbMJyOrgsjsqaozuI8MEeJ4bdB8bebN7jDXVTLMO4bJf0BKCVmfo6Xn1eHU08CPFvknISHuDdSitCXA3dIgUhk6Dx_OSTF7nl4L9vj5gYuCqih4Yn28NK1_byYkMQtBUiCFU5A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e‏گیت‌هاب هک شد\u003c/b\u003e\u003cbr/\u003e‏گیت‌هاب (GitHub) روز سه‌شنبه اعلام کرد که در حال بررسی دسترسی غیرمجاز به مخازن داخلی خود است، پس از آنکه گروه تهدید سایبری موسوم به TeamPCP کد منبع و سازمان‌های داخلی این پلتفرم را با قیمت پایه ۵۰,۰۰۰ دلار در یک انجمن جرایم سایبری برای فروش عرضه کرد. \u003cbr/\u003e‏این شرکت تابعه مایکروسافت اعلام کرد که شواهدی از تأثیر بر اطلاعات مشتریان ذخیره‌شده خارج از مخازن داخلی گیت‌هاب وجود ندارد، اما زیرساخت‌های خود را به‌دقت رصد می‌کند. در به‌روزرسانی بعدی، گیت‌هاب فاش کرد که یک دستگاه کارمند از طریق یک افزونه مخرب (poisoned extension) در محیط توسعه مایکروسافت ویژوال استودیو کد (Microsoft Visual Studio Code) به خطر افتاده و حدود ۳,۸۰۰ مخزن داخلی استخراج شده است. \u003cbr/\u003e\u003cbr/\u003e‏این شرکت اقدام به تعویض اعتبارنامه‌های (credentials) حیاتی کرده است. گروه TeamPCP همچنین بسته پایتونی (Python package) رسمی مایکروسافت به نام durabletask را در مخزن PyPI آلوده کرد و سه نسخه مخرب ۱.۴.۱، ۱.۴.۲ و ۱.۴.۳ را منتشر ساخت. بدافزار جاسازی‌شده در این بسته که ماهانه حدود ۴۱۷,۰۰۰ بار دانلود می‌شود، یک ابزار سرقت اطلاعات (infostealer) چندمرحله‌ای است که قادر است اعتبارنامه‌های ارائه‌دهندگان ابری، مدیران رمز عبور و ابزارهای توسعه‌دهنده را سرقت کند و در محیط‌های AWS و Kubernetes به سایر سیستم‌ها گسترش یابد. این بدافزار که بخشی از کمپین کرم خودتکثیرشونده (self-replicating worm) موسوم به Mini Shai-Hulud است، از مکانیزم FIRESCALE برای یافتن آدرس پشتیبان سرور فرمان‌ودهی (C2) از طریق پیام‌های عمومی گیت‌هاب استفاده می‌کند.",
+      "date": "2026-05-20T21:01:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 113,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UOMohQHJX29ky62QkSWLtTlXm41SlKXsqZfK8Q1KC5HtHEhDU1QBOt83nJXFNczOUrGLelINjG8afMIFoZyC4824iy77DQgBFsK68NsI4sTiVs3j8yFldlrfApeEa5vglu1AceAZbTOhXMu8GsqaAOZS3uF6bLg-Bk4qCSWWMognljmpkpe9kHl8SafoF8TfBcc6e35UYIOfFAGaQ8xUp1bmdtpLVhhZpNT2jJjoUPOHRiVAPwj9cAMAFuAHNKppJ8UPdvflNMk7kiaA0V_B6Z60_cU9_l4IzF3MHGMaanZSmeuk2SNBn1Ywf2XfU7dY-r086vl-0xI77R-e3FaF4g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779304504
+  "last_updated": 1779311875
 }
