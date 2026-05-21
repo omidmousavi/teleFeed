@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "قبول دارید هرچقدرم که هوش مصنوعی خفن بشه، بازم بدون بیس و پایه‌ی قوی نمی‌شه چیز خفنی ساخت؟ مشکل اینجاست که منابع آموزشی تو اینترنت اون‌قدر پراکنده‌ست که آدم وسطش گم می‌شه و نمی‌تونه سیستماتیک جلو بره.\u003cbr/\u003e\u003cbr/\u003eاگر شما هم این مشکل رو دارید، مخزن متن‌باز Professional Programming رو حتماً ببینید. اومده مسیر یادگیری رو از صفر تا صد (مقدماتی تا پیشرفته) خیلی تمیز چیده و همه‌چی رو از الگوریتم و طراحی سیستم گرفته تا کیفیت کدنویسی پوشش داده. \u003cbr/\u003e\u003cbr/\u003eجذابیتش اینجاست که فقط یه مشت کتاب و مقاله ردیف نکرده؛ پر از پروژه‌های واقعی و چالش‌های سنگینه. مثلاً ازت می‌خواد یه Redis رو از اول خودت بنویسی یا کامپایلر بسازی! قشنگ مجبورت می‌کنه دستت به کد بره تا مطلب برات جا بیفته.\u003cbr/\u003e\u003cbr/\u003e گیت‌هاب:\u003cbr/\u003e\u003ca href=\"http://github.com/charlax/professional-programming\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/charlax/professional-programming\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبخش باحال دیگه‌ش اینه که موضوعاتی مثل مسیر شغلی، آمادگی برای مصاحبه و مدیریت پروژه رو هم دسته‌بندی کرده تا همه‌چی دم دستت باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-17T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "کسایی که جدیدا می‌خوان وارد حوزه سخت افزار و الکترونیک بشن شاید بخاطر هزینه های بالا اصلا نتونن قطعاتش رو بخرن، کافیه برید توی این سایت به صورت آنلاین اکثر سخت افزار های معروف رو تست کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://wokwi.com/\" target=\"_blank\" rel=\"noopener\"\u003ewokwi.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمچی داره از رزبری بگیر تا ESP و آردوینو و STM\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +30,7 @@
       "date": "2026-05-18T09:19:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-05-18T11:03:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-05-18T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
+      "views": 6060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-05-18T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +103,7 @@
       "date": "2026-05-18T17:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +115,7 @@
       "date": "2026-05-19T09:22:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-05-19T11:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +145,7 @@
       "date": "2026-05-19T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R2ytIl3DKkO6cu0mwU1Wi28c039xxD0n0jdttOjl0I-aIgIuz1zidIc6Z22geame48fcCTdiDsN7k87RX5xeYbh3ffhFDArez6rY1aQ35yQuxZgvxfAKKc1SWmhoVCSN5pBrGUreicmZGdwEZMMXOTdXZgJVZbkmtst53Vyp_miM2s9sWgM2-4GONuvbm3cD0iZxg-ZCyZf7cAw-hiC6-xVBdL7MKf85QMzvBfF3hHvq2leMnpdYaEIokbqUDmirL1jZ2MVGCXG_E5bAejYm0cmSwSzNI8G_pZD6sXoj8jlsQZKIh-yjWhmyn5IpRrOrlYjQF5yON56ZwFv99Hgf6g.jpg"
+          "url": "https://cdn4.telesco.pe/file/ha7Bh6wBiIjAaiYaymUgIMLqcfgejn9GqMeDuEtzoF_F1cZL1YKlYovEuIjwkkLrVa8jYE9EXMLFjs_y_MzYKxb7OujAeabd3wNxrbKH88v3f8_CSfwDOGq6iTUM2ZSNwxTGJ9UM5G-6IXktrKUKWLGuDT0cV5Q0LbEW5TtZ4kdNzQ70juwTMKQl9BYZEYxu8dgEZoZ-E0APEjRDX1BezVHMKtPORVNFWdTY3Op8roWq9IN5RmapVsJbeEH-VS3AbFe5wYebmpsiBJ0d7NO4jGG21DV7BLAsBRtrAVNnabN8zPKAiZuq0SX_0qm0gQyebcFm1fKPZyoPo6EEW2rcCQ.jpg"
         }
       ]
     },
@@ -175,7 +163,7 @@
       "date": "2026-05-19T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +171,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PQ7grp4vMjzkGzcC_gilgtrdwbC2VsYplUpaFzTUYCCNijW8qjc1vC0gnlV_hDbVNmQcHbE91dbKABO3YbOp3mSeLaR31eZK2ZOmPXDiIt37aT5kjSsJ_WdIZqM_FF2c8KYLVYaeQAR-0U7PHJoP7vZcZ8u9xycn9JujBNav2OSyI1b6agc_B6ebh84buXLw5eV-8gCVFk7nCwHLcBjLemqLJxMtsuBESYJNjdJtxpLPGtYTQePWYsaE3xJlBCEAGBBIgIdAGAOyEXQkwiwDQQyqte95LnWULQcWlR36nu2y640IHefFazeXp9iAi4jM0pncGJtEt8n-XVDUDm-Fnw.jpg"
+          "url": "https://cdn4.telesco.pe/file/sQdWgxU-buyZEhhSQ3y8IU_84tXY25K6FLRkXZqhVai4d2o7-Y2VvTshPlBjWvjshEI_ssEjnzvMoTmLfii2XfcZ_8ludqmRBe5u8EvP4DS9AxeRmRQhiFej6P8UgXCXSA5VDG_A-3Ht6Lhy6SEnViH1Y7CuTZGTq8aZjF1ens4QfBWEG3YwaqWgr76RUbpyzVpDBrFhTI-Ivi1viU-W_qDRS0vOj8vQR5n1a_cMaUI_gabek-GC7IELkj8UvvnP4KJfksIXV3uzReCQ8rQuZ2_Dv3yoBftdRo5ahGK9VDRfSYQ3JA9MS4ZRHvD0Y4ZCWzWJYBg0WPbXzLIVKafTJg.jpg"
         }
       ]
     },
@@ -193,7 +181,7 @@
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74000,
+      "views": 74500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +189,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bOUcppkjPDpbKAUG5l5ewSLSzu64hKBdoClMPPnYMpvO2-pxJ8Xv94Dhd5sVyMgXAAWmnupIDJIUQj41DxlUK1hlNK9M0j3UcQ3oXf8bALjixuKXJMzwo4rbFGbiajAnXJ37jsxRgbY4mMBV8gPA2BCANvTM5azUXFpv81KQ-W5uzZUn5XRC28oMkcW5r1ZbbYFd-8xLSurkcZtys-Mlz-iHgIufwNrJP2fOQNpumlAs19RH5ni0qZfVPwwK76BxkXvOzC0Ic2xjoHgkhNO7OTO5Z9lMXdXkaYeSE37DcZc_PQIYGdBeEvQChnt-3Z0fOGOxvK4RXo-bHirde4YuuQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/KekxwDs7rUnvySdPPSrEvq545shejeCxxkWVEOzlLzUSwrb_Iyf9JMXCURHVg512sKUTbRIPaJUI0KiZrAWalMVehPE8JGzlzCPmBTJsNjEZ6er_sewKLmxLghInxtQNbGFWsZIP5fI3tEGvFGZ23P8v_HkSEocfWiBEjqDV0fAvK90cu-xF9hejt8C0GRtHYfcLI4X_8Y8Uvv1pM3zkCsHe6bdQipdzOVXrggKNzKH_bVrOOeNbuM84amRatFMEYt2WFm8jOv7X1Bxqv64Ef6rt_RL81Sf1dO_vZ5XlN2QMtkNH4R-IdJcquzZQqNPCepkoEq_A6cVgWT9fv-Ibjg.jpg"
         }
       ]
     },
@@ -211,7 +199,7 @@
       "date": "2026-05-20T08:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +217,7 @@
       "date": "2026-05-20T09:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +235,7 @@
       "date": "2026-05-20T10:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +253,7 @@
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4490,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +271,7 @@
       "date": "2026-05-20T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3980,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +289,7 @@
       "date": "2026-05-20T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4430,
+      "views": 4840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +307,7 @@
       "date": "2026-05-20T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +319,7 @@
       "date": "2026-05-21T11:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 2660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +330,25 @@
           "url": "https://cdn4.telesco.pe/file/hwTYI1v78EXgCsP54IedpgaTh4hGGeX6gP7LHZJA86EbRBGEw1rwGJdLJOKlvCQUrmQp-rRSmMKtBm48OElTSvQxjerkWtbRrmimVt0AM-6ikfvwc7brxUxytDtB6m1F-sX8zZF00BVenD3iOBIfkQXvZwLEyHhNShuYhxqmPcwIAX5d_4Eywlna0edIvrBfqQYpt3gglJQiJvXiFV_Qgp9HdIsfzxx6qRCiMFKHBMgJ7waf1fmAO0sU2v6sGbTqeSPnTHsHNifJZKBjyWPILsa6xcRZ6o7Tl6v5h3eK3DyP5cWbWhGkzqvRnF0HYBuW4EiUAM01MujBxaqg1v3nuw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eNetizo\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eفروش کانفیگ اختصاصی با بهترین سرعت و پایداری\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e اتصال سریع، امن و بدون قطعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e مناسب برای استفاده روزمره و حرفه‌ای\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e ویژگی‌ها:\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e مناسب گیم و پینگ پایدار\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e مناسب ترید و معاملات آنلاین\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e بهترین عملکرد برای سوشال مدیا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e استریم و تماشای بدون لگ\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e وب‌گردی سریع و بدون محدودیت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e امنیت و حریم خصوصی بالا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e پشتیبانی و بروزرسانی مداوم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e سرورهای پرسرعت و پایدار\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقیمت: ۲۰۰ هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e برای خرید و دریافت اطلاعات بیشتر پیام بده\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/its_Vin3ent\" target=\"_blank\"\u003e\u003cb\u003e@its_Vin3ent\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Netizo\" target=\"_blank\"\u003e@\u003cb\u003eNetizo\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | Tech \u0026amp; Config Services\u003c/b\u003e",
+      "date": "2026-05-21T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 397,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/E4RvbaSuIkc4p_LMyKWDN8VoPu7E7wf0j8X29ZLMaWh3HCCAPoUphhbFHfSc9fP8rHIemlABa5EhbpZcniIpnCDPou7INyilI6uchLFu_bPtes4PWgtKp4ap26dsqe0pA78INUtjZtkvSZluWjGeFfuEodCrCyZShCNtMUqI0fYxTLlEdi0SItjfnsMB9RvQdQGLS4ebk54dQb6hg-A8j2obW4Dnq4WFOyFjaPE0tBp-BL9TXJJ8XlGfGZAcOMxik2t6W-F6Vu7IKP2nhBRYE-swGJAi6136xL4bNJdFGGN32dJzzVsDPxoGDo0geYbosvjTKGYz5WxfyDLVlsbe4w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779363856
+  "last_updated": 1779374502
 }
