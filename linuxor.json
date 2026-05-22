@@ -8,11 +8,29 @@
   "posts": [
     {
       "id": 0,
+      "message": "این کتابخونه برای ساختن مپ خیلی خوشگله، خوراک ساختن اپ های مسافرکشی آنلاین (اسنپ و تپسی) و چیزای مشابهه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکلمه CN رو ته هر چیزی دیدین یعنی مربوط به ShadCN هستش و یه چیز خوشگله (ShadCN اسم یه فرانت کار خفنی بود که ایده های قشنگی وارد حوزه فرانت کرد)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/AnmolSaini16/mapcn\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/AnmolSaini16/mapcn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-18T09:19:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BUdfPcxnok5T3myc2BtmABLZi6qgD_WAw899HfihLoMhZniDm7aS4fU2pnEFdwjwzAYE1WFIpb-HW58FNljPYgsXPLij8Li6AlNbAh-hf2sIRvrVXwH_foGIAOvjnatN-X0Feb44QOrwUv7J92NZqGXrFPAEWuTXH040jom7ja7FSR8Lfkrdi88SOb3TOEDy4m7nkGRKGjC7iU6v2au6Zwmd0sw0QOdGNlGlubTrkPdG6aQT8zWjDj67iBBMZ-l0qGnyBRgr4SGrXRA_6Enhg10AWvkJuIu1qQ4XIIahZ09O23r9TN_OUVYwX2uT_zp3hmVFYirantglqP6t9yA9dA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "message": "پاول دورف گفته دلمون برای موشک های ایران توی دبی تنگ شده. دبی شده پر ترافیک.\u003cbr/\u003e\u003cbr/\u003eالبته بخاطر اینکه به امارات بر نخوره تهش هم ریز گفته دفاع هوایی خوب عمل کرد. در نهایت منظور کل توییتش ایران و امارات نیست بیشتر هدفش از این توییت این بوده که بگه فرانسه با اینکه این همه مالیات میگیره ولی خدمات خوبی به اندازه امارات نمیده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-18T11:03:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +48,7 @@
       "date": "2026-05-18T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +66,7 @@
       "date": "2026-05-18T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 6760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +85,7 @@
       "date": "2026-05-18T17:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +97,7 @@
       "date": "2026-05-19T09:22:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +109,7 @@
       "date": "2026-05-19T11:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,25 +117,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nHbvKyqBnwTYktsdf3mCo9ddrIIvBAXkHy3rfDMOb5E7oneGMOgVjQeKgmtCxBZwlPHvsGzn2V5qFSdNaUTaex9mMeKSzhuEvySFUywHM2a-58F6EfHNfpe_oSut5VPuFppEw0Yi3dDH9C8CIO6J7HzFMv1T1TMZdPwGPMNXeSZN5HKk8qWziS2yKCWk5JHd9o7Pm2iIa2Je5bP_p-6cfUWdDt9z_ker6N1aicJsYz2zpdy5noEOSR-m9b2WrvLIdOONfelzHP1TdWO7jLQ_7hlbfTY4IAcLcCfmJ3bNVUbTYYrKlCAkRYi5GH4WzFE3QmASoUgHILzlp1EXVEyHmA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هوش مصنوعی تو تلگرام نیازتون شد میتونید \u003ca href=\"https://t.me/AskGhostBot\" target=\"_blank\"\u003e@AskGhostBot\u003c/a\u003e استفاده کنین.\u003cbr/\u003e\u003cbr/\u003eفقط روی پست‌ کانال‌ها ریپلای و با انتخاب ربات درخواستتون بنویسید.",
-      "date": "2026-05-19T12:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ha7Bh6wBiIjAaiYaymUgIMLqcfgejn9GqMeDuEtzoF_F1cZL1YKlYovEuIjwkkLrVa8jYE9EXMLFjs_y_MzYKxb7OujAeabd3wNxrbKH88v3f8_CSfwDOGq6iTUM2ZSNwxTGJ9UM5G-6IXktrKUKWLGuDT0cV5Q0LbEW5TtZ4kdNzQ70juwTMKQl9BYZEYxu8dgEZoZ-E0APEjRDX1BezVHMKtPORVNFWdTY3Op8roWq9IN5RmapVsJbeEH-VS3AbFe5wYebmpsiBJ0d7NO4jGG21DV7BLAsBRtrAVNnabN8zPKAiZuq0SX_0qm0gQyebcFm1fKPZyoPo6EEW2rcCQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/jamG3x6IPbsp5l6nPk_3WW0lorWwi_bA4XW0xynYjHnAhxQip_tdx3oJtVK3BCD1kd3gRyCawbiv9lSO7hCcFRNR6Z9gqH-UHwgKLxVHI2FOkSLRMtA78-bBL00rwz5it7OftyH1Lr17Oh7G2iUxGvuYOdwRqc0iywQbcZO_vp4PNhFFq6i-Dim60Fl03DvZYTOYdswcU_g9bUGfQSgtqkTWZqghcgT8LTMNrqCQupY4a3N59AOMc9QBwZwi5V-PNd_0MDNN-UQxEcTie5puXq9fWTk_5sRv9xUPJsQq_RqtWD5huY87Ny56R2BfBP8lt0GvrO4c3YWBZhy9phqRxg.jpg"
         }
       ]
     },
@@ -127,7 +127,7 @@
       "date": "2026-05-19T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sQdWgxU-buyZEhhSQ3y8IU_84tXY25K6FLRkXZqhVai4d2o7-Y2VvTshPlBjWvjshEI_ssEjnzvMoTmLfii2XfcZ_8ludqmRBe5u8EvP4DS9AxeRmRQhiFej6P8UgXCXSA5VDG_A-3Ht6Lhy6SEnViH1Y7CuTZGTq8aZjF1ens4QfBWEG3YwaqWgr76RUbpyzVpDBrFhTI-Ivi1viU-W_qDRS0vOj8vQR5n1a_cMaUI_gabek-GC7IELkj8UvvnP4KJfksIXV3uzReCQ8rQuZ2_Dv3yoBftdRo5ahGK9VDRfSYQ3JA9MS4ZRHvD0Y4ZCWzWJYBg0WPbXzLIVKafTJg.jpg"
+          "url": "https://cdn4.telesco.pe/file/uybwKfbVyt88zNP29otdMqyCLHNoETxkOb-ESeDzYbbhe2zUhrPl1z0rzr7zGCCx1LjDRN935HfOlnEhnduGExXr7LwbbwllQiX1eFVowxoTT_cU7tbfm8t3SIKLK_pTwBc_mOY5s-WulJ9dNdKvIyqiWnXHz_3NS6SG_VQ0TVSiE6ysQ4oWLKMuOqlYhky6cx5syITI08DAe0IYf06rnx8f7i986ILMH3Rr539Y3AYQoljVd5W6zpAeBbbCDbWSVCF_ZgcuG3ASHb4qlAE58IS4-1jy3mSXSLVPEKE9n_7bZFoH2zLD_wuy7sR7Y1SAFC4B-_i6wP4iGvV3Q3rjsA.jpg"
         }
       ]
     },
@@ -145,7 +145,7 @@
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76100,
+      "views": 76400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KekxwDs7rUnvySdPPSrEvq545shejeCxxkWVEOzlLzUSwrb_Iyf9JMXCURHVg512sKUTbRIPaJUI0KiZrAWalMVehPE8JGzlzCPmBTJsNjEZ6er_sewKLmxLghInxtQNbGFWsZIP5fI3tEGvFGZ23P8v_HkSEocfWiBEjqDV0fAvK90cu-xF9hejt8C0GRtHYfcLI4X_8Y8Uvv1pM3zkCsHe6bdQipdzOVXrggKNzKH_bVrOOeNbuM84amRatFMEYt2WFm8jOv7X1Bxqv64Ef6rt_RL81Sf1dO_vZ5XlN2QMtkNH4R-IdJcquzZQqNPCepkoEq_A6cVgWT9fv-Ibjg.jpg"
+          "url": "https://cdn4.telesco.pe/file/Lec5m-XpDzq0k1VuYx0mtETc0EPqDAd5D4gRM7vcwiWCgc4Ri3ZTsJ1uCm7A0CMxCJKFZWZXYQHDZDwuuHZjUtygEI0CvzrQR_R5zj06x9dUAOzzj2ufWBe4Q_gr104N9Vo576JZpSIJjmpF0TTeGYa7Lyxs449r0dyZl-uQ5V8dQ2g9ghtpterU5AYy6yfGa6qlZMDyXbyPiZX83FWSC6RIOeG9FQJMLUnQu2W3gxDgCfds_RdGMBBZJ6ZW3N5k_Aip9wCCFIpEf1R3jAQDM0qsmeHnOLFlAfWFhQ0qngYoqGzU-ZBBGQoVnNaE99zzvqK4TVm3iEmZu0QsgGbvzg.jpg"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "date": "2026-05-20T08:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
+      "views": 7370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-05-20T09:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-05-20T10:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +207,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/afiF2GFx-MwqAtB82i3LXumq88_s0QkzJ_z_HFlCMedm2OqIURKIKlcXpjENS50ONsewW7TTkbvmx3C0sZ9ru8nsE0o6LH4ucD9xaby5vNUhjY5jQfNd9uulb6F6XWUwqKkeHFea2hMr5JF2siymSnbFy86orQ-PzPA1Fsl1rfgJ6EHY5WEs7ymgqdDhTl8_9uTIqnctpKybZ81Uwn4UkNpwJBFFYc7SD1flphAlCaEUZlnjPH_NXJM_vBbeosjI9okqJyUtFGKDGJZLFBJvDj3LlDoehNsq9x0tOUuRjCdstwQe18GiLRikwLywkpejhSMoEYiHNSmSvCk2WpXzcg.jpg"
+          "url": "https://cdn4.telesco.pe/file/XVDN4JrplQceHOUfHzUt8mhLeY80i5Grq-is0CK_KmLaF2KlVFJEoKYnPGBb67x3Pyn4rCQIEHulsRwEZSY3HxkcGXmsdv33AHnFhSnOk_LL7bmbdMMaGEqHVB331ZstMKIU9QFm5KCmYlQ28g0zfoPMs-SeLhh_8GgHNu59TAZPBzLk35xJTyOuClKGeINb_hoLiVK-olh-sAyTHgYtwguYcVXjLoMgwF9QfH0e6rgWInNU6U8JhrByEzgT_ruyay5zW5Qemt8Wn1MIvZrneUulUM9IsBgNXZhqhtTkJSme0fM8S4yUxbZFxAs4PN2SIBNQHGTiAugD4Uk7pVha1g.jpg"
         }
       ]
     },
@@ -217,7 +217,7 @@
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,29 +231,11 @@
     },
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e ۵۰٪ تخفیف روی همه دوره‌های کوئرا کالج به مدت محدود\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e از مقدماتی تا پیشرفته\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e گواهی معتبر کوئرا کالج\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e تمرین و پروژه محور\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e داوری خودکار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/ravsr\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/ravsr\u003c/a\u003e",
-      "date": "2026-05-20T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jC6PbmNeVuAky6bhqElUPZV8uZkVc6FOdZaGQPCtA-RNbt_ESwsKIHGnES19tVbI163UrNpBsLpG_nvKefcNhB5vqW8a-d3BxwzGV05OC9pw3Gjvetq7PAX_KzIa2el_lbBFgWT2GEcF4fEnxV1K3sO79Z6voQLVGYaxACrQvwJgrZUmu__OjhZGbeR0KuM0Qkyt66PCvQe481ccnkbU2C-dpmUzV281wK2CGd0gFzNHBkN1XJsZLGn76-Ypu-RtRtBr8KI09zKomEQId8BSVVIwVFCgWlAQmKMqeSYXpWSl0MaI-HTWI_SMU5M5D0suPEAxu5DWdd8CnGEgJ6-NqA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یادتون میاد سورس کد فرانت کلاد لو رفت (بخاطر اشتباه فرانت کارا توی انتشار فایل سورس مپ) اما خیلیا نتونتسن بفهمنش یا تحلیلش کنن\u003cbr/\u003e\u003cbr/\u003eواقعا هم تحلیلش پیچیده بود چون این شرکت، شرکت کوچیکی نیست که یه فرانت ساده ای داشته باشه و بشه راحت فهمیدش، حالا یه نفر اومده کامل تحلیلش کرده و کتاب قانونی 400 صفحه ای براش نوشته!\u003cbr/\u003e\u003cbr/\u003eخوندن این کتاب از نون شب واجب تره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://claude-code-from-source.com/\" target=\"_blank\" rel=\"noopener\"\u003eclaude-code-from-source.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-20T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "date": "2026-05-20T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 5570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-05-21T11:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +273,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hwTYI1v78EXgCsP54IedpgaTh4hGGeX6gP7LHZJA86EbRBGEw1rwGJdLJOKlvCQUrmQp-rRSmMKtBm48OElTSvQxjerkWtbRrmimVt0AM-6ikfvwc7brxUxytDtB6m1F-sX8zZF00BVenD3iOBIfkQXvZwLEyHhNShuYhxqmPcwIAX5d_4Eywlna0edIvrBfqQYpt3gglJQiJvXiFV_Qgp9HdIsfzxx6qRCiMFKHBMgJ7waf1fmAO0sU2v6sGbTqeSPnTHsHNifJZKBjyWPILsa6xcRZ6o7Tl6v5h3eK3DyP5cWbWhGkzqvRnF0HYBuW4EiUAM01MujBxaqg1v3nuw.jpg"
+          "url": "https://cdn4.telesco.pe/file/g9OpTTRnm5MeJ_oWdz7AWYUwSXEVCGimHiMEYJoeJgCcuVPyXAxcOgg_xm1oPozzhJyi1Br9uQN73eJ06UTgC-IM02oXCPe73ATOAZSN5UodPmLnxc3SsNVoDrXvIpsodvwDiWRAgV5t6qWy3bEEPyCyHkDe0AixWz3ARvzWkA3LMkNC-mDz3pCJoh1fMLO79xW2nmMDu8l9SB9eY4MDr-JD4_YMW3aSyxQyjcnseLzReCM68bRX_2XoZxy58VO9aYRumI_zmhPHbq_UX3myjJWZpvEqnMDKdx2p5qn9zSOimD32iJjsagIgT-SCAdy83it8YJwz0-JDGks2ixmJBQ.jpg"
         }
       ]
     },
@@ -301,7 +283,7 @@
       "date": "2026-05-21T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 4420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-05-21T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4080,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,12 +320,30 @@
       "date": "2026-05-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "سرعت پیشرفت AI این چند ساله انقدر بالا بود که مایی که نفتی کد می‌زدیم نفهمیدیم چی شد؟! به کجا رسیدیم؟! اینجا کامل توضیح داده چطوری از هوش مصنوعی ها توی پروداکشن استفاده کنید، در واقع این یه راهنمای جامع دیزاین سیستم های هوش مصنوعیه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ombharatiya/ai-system-design-guide\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ombharatiya/ai-system-design-guide\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاینو حتما بخونید به خصوص بخش 110 سوال برای مصاحبش رو؛ چون جایی هم بخواید استخدام بشید به احتمال زیاد منبع خوبی برای هوش مصنوعی ندارین بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-22T10:58:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/g59Z-a-hhFA228SqnlDtKqsddURX33T5xpGyxoVuHv8TP8Lz3z7AGgmZP1CDv4fXYjYqQ-DTPYHniJ9hl5p2wesnGVkT4tFX2cMrcf-P9J612TokVwMHAKni6X0cUr10ofs9XX8uHVLpcNFMtgAt1p713rYI7jlefRntpwvMGS6jfoQeXgn8T-cMnQXU1Sg9dwtGnecYHH8TT9pq2nfo5Gwuvw7Ez2mcx0WoTvKcrPOTEt-LgcM-vhiUdj5d8z3u7GB028rLNd8C9K577uf7xMUtyBwfxaaobsQSnYL1WOOdfD4ib_FhhuBWi_1QUxzy9WtX9l_KF1Iwqyx-Oli7Bg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779445015
+  "last_updated": 1779453442
 }
