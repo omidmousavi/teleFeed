@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این پروژه Gridex خیلی جالبه یه IDE مدرن و مبتنی بر هوش مصنوعی برای مدیریت پایگاه‌های دادهس. می‌تونید باهاش به دیتابیس‌های مختلفی مثل PostgreSQL، MySQL، SQLite، Redis، MongoDB، SQL Server و ClickHouse وصل بشید.\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه که از هوش مصنوعی پشتیبانی میکنه ولی اگه قصد یادگیری SQL رو دارید سعی کنید از هوش مصنوعی دوری کنید چون یادگیری SQL پیشرفته بسیار کند و نیاز به خوندن مفاهیم پایه داره\u003cbr/\u003e\u003cbr/\u003eدانلود نسخه لینوکس، ویندوز و مک :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/gridex/gridex\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/gridex/gridex\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-18T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/s4u3Hf3e2qxZgtkjawUz6Gl5BssD-eM8cg2a9tlfF1uzyi4W4uJkcpQaXe7CU6csTOX0D83MexR_Vwj4BRKbV0PKxMmIXCnDmX2YaWCam_wgGa6Gw16Ssn3HrhCkGYqn-HQ0cPzGrTml830Qw0GZp6BK7mv0gYJWkj_CfqA2ANU7d7P7v0sTE1ZpGJXB2F5J3J2OowD7H6vMkupm7VrDA87y8S7kIL37LVRMCfQ8s98fnY8v8y0A73p-ammdMa98jTSKrv5Py7H9pqXSZu5fvgrekYDXpRc4nOrRnVu4hLJfAKM58bTfslNUm3NDU2c8A4LQRB20RxOgDFMiX7g1xA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این خبرو که گوگل چند ماه پیش منتشر کرد شاید خیلیاتون مطلع نباشید ولی ‌از این به بعد می‌تونید Colab رو بیارید داخل خود VsCode\u003cbr/\u003e\u003cbr/\u003e یعنی توی محیط ادیتور خودت، از یه کارت گرافیک غول T4 رایگان کار می‌کشی.\u003cbr/\u003e کدها و فایل‌هات روی سیستم خودته، ولی قدرت پردازش رو از سرور گوگل می‌گیری! البته بیشتر برای راحتی کاره وگرنه قبلا همین کارو باید آنلاین روی وبسایتش می‌کردین.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-18T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-05-18T17:20:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "date": "2026-05-19T09:22:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +55,7 @@
       "date": "2026-05-19T11:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-05-19T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
+      "views": 8420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81300,
+      "views": 81500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-05-20T08:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8260,
+      "views": 8560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +127,7 @@
       "date": "2026-05-20T09:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-05-20T10:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +163,7 @@
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-05-20T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +189,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qaP9_q9c1kxg-0V5VdiEZUP2Gqs-JpJqfd3wdH8R2yATYedynirU7ue9bqjNlR0kvztFNDE49BcN4pJniFAtPsVqWoMx1mxz-WhsfoD0M1VD2n5PMHiZ-GdCPS6QOrk-3sDqICP0MzVjJdj3CDssqmJLitVKyPmQ9laXPY36uV9WM_-6H1VvCI9TozBGON21H97uxvxhJkbTkHwmw0qP1Dvhd7lDyBLbCUaprkjPCRa-ONR8pnqVbfO03fKgRMnfRa7xZqC5Rbk5mMN6PsYIesIsJ_ZTSvXOkV0HurUNMfODqIlw2IUpl5McuESJTYtKAEXMZzMHa429BwVfXI0QLQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/CKUPEmUZwIVmRV2VClI9AIpBpj8CHt1T8bT0sxxUAC3PQt-7d8SyR72xVj7j4daUHOIi7sDYnn391UOpxytRevzdyLtw3qBy1mA7DKSurcFavP_ElUlBU07RLbXhPlwQtUH2j2gbRHPWhlvuMGIZ28HxtTimIelBWZyGGv6V2FNYbI9NVWbam4UKMgGL2QR_gNnyj2VMbIlNTiro9adw5CtBvkyn5C-2TpG-lrUxVxdMmXz807jvuJx43h9Y2fYhi0U160KCluJGobR6z_mJDaEq9tcZEPwiDJQc-ztED9Ted6WHuJYbmarmGgg2XKuxQ9DW-dkyumpYCRM8uPrVpA.jpg"
         }
       ]
     },
@@ -217,7 +199,7 @@
       "date": "2026-05-20T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-05-21T11:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-05-21T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-05-21T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +266,7 @@
       "date": "2026-05-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +278,7 @@
       "date": "2026-05-22T10:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +296,7 @@
       "date": "2026-05-23T09:50:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3740,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +308,7 @@
       "date": "2026-05-23T17:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,25 @@
           "url": "https://cdn4.telesco.pe/file/jzrLnhz5OXsTkxvcy0odT7PoLpkTQD5MTjmkHG45W1MMIOcc2pTZ7_nwUels6ijgLKeEfIA9mBqaVmb2gCQk4jf--sjF5PJInJVdTtpSX3OD9-2GhfkpYfS05snPwFrwVo5diYscaP-3H_4hMCxidApSvKI4bigdEPa-qiKZ8yKsPkll-jr7PFRd6FnSeffRKNgdThqjAH5bnS_1jnf6mKaBFRjAXhoXtrSu8_KW6zvXUDB1SmNQXxc8vzSvWAYuiLDS8pBaU_ox5mkXL83mDp9SRdFLbhc6fAx8ja8kIUUelJDBC5mbBHwkbK1RqW7tFGzX2rVLqMIc8ctuJH8Q0A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e با n8n کارهای تکراریت رو اتومات کن!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003eچرا n8n؟\u003cbr/\u003e\u003c/b\u003e- ساخت اتوماسیون‌های کاربردی بدون کدنویسی\u003cbr/\u003e- وصل کردن APIها و ابزارهای مختلف توی یک workflow\u003cbr/\u003e- مناسب برای کارهای شخصی ساده تا اتوماسیون‌های جدی تیمی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبه مدت محدود\u003c/b\u003e می‌تونی \u003cb\u003eدوره n8n کوئرا\u003c/b\u003e رو با \u003cb\u003eنصف قیمت\u003c/b\u003e ثبت‌نام کنی!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003eپروژه‌های دوره:\u003cbr/\u003e\u003c/b\u003e- رزرو نوبت مشاوره\u003cbr/\u003e- ربات تلگرامی نمایش لحظه‌ای قیمت دلار، طلا و ارز\u003cbr/\u003e- ربات تلگرامی تولید و انتشار محتوا\u003cbr/\u003e- پردازش فایل‌های PDF با مدل‌های هوشمند زبانی\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/xa7mr\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/xa7mr\u003c/a\u003e",
+      "date": "2026-05-23T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sRgU7tyI2YQ8ZyFkCiUphL5MyUyWshtm0nCmp8lTzjAN0pwM9CXQDNyItlAFaSGvNb3RTS68Fc-WUxfGTkFfQT8jFREefW3-zLh6FVNwiN-EFU6TmJ9YIh8zZri5i50LlcczMMgDmuk7FYZDi3z1K7EKKvNXwdDD7K3YSnLHoNmB4_WPZenepPLx5vFnnVqvLQaUzLt6JY7d9S7f3nz62U8HidbrlIvmm11L8vsI9k6coJ3nRI8JKo3AYSSlFvQ94cFKUyFC4sa2upcsPUX12GLlggOqZ4Av5uHEKSunj1VX176c8uyDGy8rClrJ8GyjOgLHB2kRKD1ZEcKhnqp6_Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779558916
+  "last_updated": 1779562573
 }
