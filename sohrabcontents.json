@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این هم از این.\u003cbr/\u003eکالامارس و ظاهرش درست شدن، ولی نتیجه این شد که تا چندوقت qml و qt6 رو ببینم جیغ میزنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eما پارچ را به عظمتش بازمیگردانیم\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-18T13:56:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/l5aQu5jJlqXhWyPJBogoo-sEBdwjfZYMsA4jGHbqvlfDU2wrFc6heSvq8Uc94Mc4Kcp99Ok9ddkiV_aB2HNSTE0Fb-e6IX3yLJ7g6JfwMmZ2l24iV8DVeXIuntHDM8-nwUYQZ5pCwoTeoc-9hLW1ooTkGO-XJxPsgucsSZ1CMI3keycNr_3FGpLauTjYhKJxUNvzkBUVLLhRKEb6glJegUWG0OohAfA3pzPvGIBsakRt5jaMIlFzPg9DRgnfiii4xn3wwIUrBjHXHOyuwVBfN5ShQ3oiCNoJEWMo3UEzQvZdppFNkBRD-g3Lj9_dhhDYxI6AyN02U7-gvQVpImJTjg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مفتخریم که تغییرات پارچ را از قبل دی‌ماه تا به امروز با شما به اشتراک بگذاریم.\u003cbr/\u003e\u003cbr/\u003eاتفاقات رخ داده از اعتراضات دی‌ماه تا الان تاثیرات زیادی بر روی توسعه پروژه پارچ گذاشتند که باعث شدند توسعه مقداری کندتر بشه.\u003cbr/\u003e\u003cbr/\u003eمی‌تونید به صورت کامل از پست بلاگ زیر تغییرات رو مطالعه کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/parch-next/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/parch-next/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-05-18T18:02:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VW-qodyJdngImE-N6R0RHNzIzj3SFTZyIk_urzI1jZ5LwKBlKfGo5LpOICMISfWPcfnKUpaHq4aG4QCL6DE063hPEVUo6n2UEFxhnpM3YjKNxxdq0s7pUHkbXExxgSg3H_T-zzOaCpeCcgEU_w5RA93dErXyz8iFqZtAhtibYPWBdQjP-STehP7wfCgU4RzWayFebXt_aJRWQivx_6SmqMZ31k08ug2Mz_TBuUopwEcHjgDOh9RBMkPV2NMzbl19H_EJ1OWsCa42K9Rh38R3Z2XFbgki7iEt5K4RY1OvXEB5CguwbyYHuKs4nDlv7TxrxRfZxhnKMSqyA0CtrMi0MQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من یک اسکریپتی داشتم تحت عنوان parch-zram که منطق اولیه‌اش رو از یک اسکریپتی به اسم rpi-zram برداشته بودم.\u003cbr/\u003e\u003cbr/\u003eکارش این بود که میومد و به صورت خودکار zram رو روی سیستم فعال می‌کرد.\u003cbr/\u003e\u003cbr/\u003eتا اینکه امروز یکی از بچه‌ها توی فروم پارچ یه مشکل جالب ازش فرستاد و پرسید: « چرا این اسکریپت واسه من نزدیک ۷۰ گیگابایت سواپ ساخته؟» \u003cbr/\u003e\u003cbr/\u003eقضیه برام خیلی جالب شد و سریع رفتم سراغش که ببینم که چطو شد که اینطو شد؟؟؟\u003cbr/\u003e\u003cbr/\u003eبررسی که کردم دیدم داستان از یه اشتباه محاسباتی ساده ولی عجیب توی منطق قبلی کد بود. فرمول قدیمی این‌طوری جلو می‌رفت که می‌آمد به تعداد هسته‌های پردازنده (CPU) دستگاه zram می‌ساخت، اما اشتباهاً حجم کل رم سیستم رو به تک‌تک اون هسته‌ها اختصاص می‌داد. مثلاً فرض کن روی یه سیستم با ۸ تا هسته پردازنده و ۸ گیگابایت رم، اسکریپت ۸ تا دستگاه zram باز می‌کرد و به هر کدوم می‌گفت تو ۸ گیگابایت جا داری! تهش سیستم این‌ها رو با هم جمع می‌زد و با یه ضرب ساده (۸ هسته × ۸ گیگابایت رم) به کاربر یه رقم سرسام‌آور در حدود ۶۴ تا ۷۰ گیگابایت سواپ کاذب گزارش می‌داد :))))))))))))\u003cbr/\u003e\u003cbr/\u003eدرست بود که این عدد فقط یه ظرفیت مجازی بود و رم رو پیش‌پیش پر نمی‌کرد، اما موقعی که سیستم می‌رفت زیر فشار حافظه، این حجم از سواپ کاذب رفتار لینوکس رو شدیداً تهاجمی، ناپایدار و مختل می‌کنه و از اون بدتر، اسکریپت اول کار با دستور \u003ccode\u003eswapoff -a\u003c/code\u003e می‌زد بقیه سواپ‌های دیسکِ واقعی و تنظیم‌شده توسط کاربر رو هم به زور غیرفعال می‌کرد و تنظیمات فشرده‌سازی هم فقط روی دستگاه اول (zram0) اعمال می‌شد.\u003cbr/\u003e\u003cbr/\u003eخلاصه آستین‌ها رو بالا زدم و توی این آپدیت جدید (که هنوز پوش نشده)، منطق محاسبات رو کلاً برعکس و مهندسی‌شده کردم تا این باگ ریشه‌کن بشه.\u003cbr/\u003e\u003cbr/\u003eتوی فرمول جدید، سیستم اول میاد کل رم رو ضربدر درصدی که کاربر می‌خواد (به صورت پیش‌فرض ۵۰ درصد) می‌کنه تا حجم کل سواپِ مورد نیاز مشخص بشه، بعد این حجم منطقی رو به طور مساوی بین هسته‌ها تقسیم می‌کنه. یعنی واسه همون سیستم با ۸ هسته و ۸ گیگابایت رم، ابتدا ۵۰ درصد رم که میشه ۴ گیگابایت به عنوان هدف اصلی محاسبه میشه و بعد این فضا بین ۸ هسته تقسیم میشه تا به هر هسته دقیقاً ۵۰۰ مگابایت برسه. با این حساب، مجموع ظرفیت zram به جای اون عدد نجومی و خطرناک، روی یک مقدار واقعی و بهینه یعنی همون ۴ گیگابایت قفل میشه. حتی قابلیت تعیین سقف عددی دلخواه (مثلاً حداکثر ۴ گیگابایت) هم اضافه شده تا اگه رم سیستم خیلی بالا بود، حجم سواپ از یه حدی فراتر نره.\u003cbr/\u003e\u003cbr/\u003eدر کنار این اصلاح ریاضی، اون دستور خطرناک \u003ccode\u003eswapoff -a\u003c/code\u003e رو هم کلاً انداختم بیرون.\u003cbr/\u003e\u003cbr/\u003eحالا اسکریپت خیلی متمدنانه فقط سراغ دستگاه‌های zram خودش میره و کاری به بقیه سواپ‌های سیستم نداره. تنظیمات الگوریتم فشرده‌سازی لینوکس هم که قبلاً به اشتباه فقط روی دستگاه اول ست می‌شد، حالا به صورت یکدست روی همه هسته‌ها اعمال میشه. برای اینکه خیالم از پایداری راحت باشه، قوانین سخت‌گیرانه شل مثل \u003ccode\u003eset -euo pipefail\u003c/code\u003e رو هم آوردم وسط تا اگه کوچک‌ترین خطایی رخ داد، پردازش فوراً متوقف بشه و سیستم آسیب نبینه. تهش هم تمام اسکریپت‌های نصب، حذف و سرویس سیستم‌دی رو زیر پرچم یه نام واحد یعنی \u003ccode\u003eparch-zram\u003c/code\u003e یکپارچه کردم تا مدیریت و عیب‌یابی این ابزار روی سیستم از همیشه تمیزتر و راحت‌تر بشه.\u003cbr/\u003e\u003cbr/\u003eالبته هنوز دارم روش کار می‌کنم، سورسش هم اینجاست:\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/parch-zram\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/parch-zram\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-18T21:22:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +42,7 @@
       "date": "2026-05-19T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 935,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +54,7 @@
       "date": "2026-05-19T17:29:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +72,7 @@
       "date": "2026-05-19T20:11:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E4-FkXRnDcw9FGmZYP0wJjG9rJ1U46iYQyypjhWIZisek4d4rv7dLsIONfAJtnGDlMAx5hRiKcrEoTOt0l80tkjEyjXxolGBH4Ghz2GKWfw4UNZ1Rtte16lkQEneVapOWA7qCz3VmjK70lEdskKyPJ2MROYu-KwGJPUcvbwXeza9IfZ9ZRU_wuEKC8dHn-PmQWl0xEtVUUDRkos6d_JBhEU5lfWoblv2GQPgragy1RQ1LNrDXpH1G21qNAdt2yAFwbeWEK_QjmQjVQIWsyUN2gRDErrTRKZkNi6t6Z3AEFeBckpxrVRO1YtWGWKj11-e3sCbZojpWfQAWMV3yMNMNA.jpg"
+          "url": "https://cdn4.telesco.pe/file/lfavEeChAPw-E7lk38v0nrpckILJEEp1hd-aB4knSSAAo1gK8IWTvN57MxurRDpFrP2SU8npIS8Ni5e_1f0o22c1jfAxHv97H1RccnVjk-k41SAzRl2aopiNO3JHtFYByHWuS95AGabIbO7ybdlEE8VzOs0JuYfl1VxhZw-skBHiueQFdwFHRdJIpA-7VLNaP87qpA7Pi8eZ1hWjOpl43LK2ROyFbXxOl2lkNvD_O9PQHxEX0o9w_9wAX-JJiYuhGiMcxbhmfPJNXyWntWgaW7bbxJFXr3ScYQmEPMNYGbzEFmPsOS6l3V6DK8JjuBltAYZYCqw52mtfUKeWQMHykg.jpg"
         }
       ]
     },
@@ -127,7 +90,7 @@
       "date": "2026-05-20T19:07:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 803,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +102,7 @@
       "date": "2026-05-20T19:39:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 925,
+      "views": 930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +120,7 @@
       "date": "2026-05-20T21:01:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 779,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +138,7 @@
       "date": "2026-05-20T22:25:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946,
+      "views": 955,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +150,7 @@
       "date": "2026-05-21T15:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 861,
+      "views": 872,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +168,7 @@
       "date": "2026-05-21T17:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 897,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +180,7 @@
       "date": "2026-05-21T18:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 908,
+      "views": 920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +192,7 @@
       "date": "2026-05-22T08:10:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 850,
+      "views": 861,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +204,7 @@
       "date": "2026-05-22T15:13:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 773,
+      "views": 801,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +216,7 @@
       "date": "2026-05-22T16:07:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 542,
+      "views": 569,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +234,7 @@
       "date": "2026-05-22T17:19:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 761,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +252,7 @@
       "date": "2026-05-23T03:37:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 552,
+      "views": 622,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,12 +264,34 @@
       "date": "2026-05-23T18:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 293,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "از جمله پورت‌های پروژه پارچ که تصمیم گیری خواهد شد براشون که آیا ادامه دار خواهند بود یا نه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچون با وضعیت اینترنت ایران، تاثیرات اتفاقات دی‌ماه و .... وضعیت پروژه چندان جالب نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-23T19:03:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 241,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lujvB8EfCNHx00Y2mhup4gObkQQXyWqeA8n60xI0Elk4LBJRems-pPx0MSmsNzHmUNl2QIzdoCYczjIA4LptSnVrIvZ3NTVY-oMIFnvnwQ2DOSULuU3kHeMPIoGTSrZc3820O6mttAC73c_kyA9m9_vpZYGWbefi5rMxpUwUAXcISntPKdojOJsfiK66Uy9n4RT3HdPj0vGQ70MhLAosn0PpycYa303ekPq7_5PwtrX7aUwnkmRhRuBJJwJFOmQDHon8H7LEbwySWtNyC3PY4N7lCZO0X8DdLo9hk_O0L21YVIMuD0S-oRMuMVHAlO93SOYj2Zhdj46ldgxfqr9EgQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HGJYA_tOtkpZB3-33Xj7DrODdIpJws-ckJT3qZsq1JEdMXT12l0RfcaHdY6CnuW16FNcttHKa7uU57PfbAqcbG_z6VYqa60pYjG85Tzo_b7DVNkIfuhCzqi68RH9YREMVU2cOaY2ENEQRZfxoRC-70SLyP_-tK5ddP3MbU4_ituYs37bswzEzquR8h_yHt0lC5Uh2HcFBW3jOv0t8tzogFtzj8RX7Lhhgwharr33DdxFCVKyMQgb_vJtYAkjPvuRQPRJ1HDM67HGoX7hvb5K2gd7QgYVOdxAIZElk2vR7zB8X7bNrIyFbdHZcSAThoGM2dllCy7_NczSh2mVIRu2bg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779562614
+  "last_updated": 1779566605
 }
