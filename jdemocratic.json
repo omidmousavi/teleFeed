@@ -196,7 +196,7 @@
       "date": "2026-05-23T14:39:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +250,7 @@
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZbvHFLtIWsg_NXy02tQwPMZjFAz6eULr8zjS6n5x-HijvY841Y8X6uEvZt53fLw2C87TrlM4epI8sD2BUvlm7xFGEIpYNUFlcy-BvPxMgy5qtt_HTE1TLnlHZEggxyNceJjyHd0jMIOsZxJlIPDIOmNiVAaK8i4cHmS4M6B4xHBrJ0L2iuHppLAHZcbMA5XdhwgjYgaqTblLaxplGQgqq8X1fnWcZpQpQUKdMV1-g0wqHUA8WFWytAUTpGigp5yu0hH0_oz9oGqRGgMchiRQSo3JK-ykW5lknKmj6k9RjiHJDtmQdbEG4FHvvFB1b_1UwT2mbiJryQKEfUvr8B_vnQ"
+          "url": "https://cdn4.telesco.pe/file/dmHByRLH3nAOu_F580-OnEP_VBX8qChudBDQLX8t8MLtLf7bgklxahrwnWCkLpNwnzzuJzsLoxBOIHIsMYnd4JV5eNtq00VQm65FSnuvHeT_8e2UE9YxR4wuzB309Swo1484EOhcM77FQQR_nmiGg5m7s9vfXFgHG1Jxlp6uC5Yd2SJ1N2DfvIONu9cjxw-lsibPPRro4E9eJzYFlBNYbmwxB1jpV6Q0XUwr95WY8cENVg0cdxuq2qDJLMSwlE0K5HzsiJkv67LoRXxOHxLR_2Q6ESOoid4V4xpdWfkafuyrwaszZGje4mx68Kv5womgP-lye1o_xonKd_PbfRSpvA"
         }
       ]
     },
@@ -267,5 +267,5 @@
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1779617793
+  "last_updated": 1779623241
 }
