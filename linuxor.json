@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این ریپازیتوری، پیاده‌سازی رسمی مقاله‌ای به نام Human Motion Diffusion Model (یا به اختصار MDM) هستش که توی کنفرانس معتبر ICLR 2023 پذیرفته شد\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، این پروژه یه مدل هوش مصنوعی مولده که می‌تونه بر اساس متن یا دستورات مختلف، انیمیشن و حرکات بدن انسان رو به صورت سه بعدی تولید کنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/GuyTevet/motion-diffusion-model\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/GuyTevet/motion-diffusion-model\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-19T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8790,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/o7aziruDWTf4V1ufscbFO7FSlUozxod9tay_WAy17LjbAn5mRsAGcQmWDDeeTmr9qy4qPOZSbDD2KhNX_eeTacM2lUyH8wqHxLpTSBX3IhYnjJq7tAlsy3IBfxfJsTxqIcr8xLJWd3HDQm6F9dbImEQub83d6vIYCubbAC-aRailYpqWbRBx0f55iVEIabja0E8J5QI__bhXAZsYiNNq6idJSYTKIAz3E7PxKZiWh-0w-es2yFT5Y-nRW058qwaLm6gH1JJZvStxBUHM58oa-tvTH7PWj4c6aEAvQ1W2xiZCO_Upf5nJB_2mbuPoX9dvFzv0iYUQv-0AvgKQoVcQDw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه سایت رایگان برای یادگیری باگ بانتی :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://vulnweb.inst.lk/\" target=\"_blank\" rel=\"noopener\"\u003evulnweb.inst.lk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-19T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82400,
+      "views": 82700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-05-20T08:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9270,
+      "views": 9440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tV8beVc9dLdvOKYDtI-7nzu_iv1O7TUhZI1Q219snjmY1fiI5xWwOoV56aqvX2DE7dcUEZsGUT-vHPl6vfxqVrUGOTYtbaJvt-71S-c-NhygApZ6CQTgsD15sr0BCZia4BsNgpT5VCvCFr8-ADS3UvNmXePzpdAeaU1pxeL0VeU51ogXTUU1gq2ncsGopgR8XckXUobB2gJDsirAEKFiWz81FIM7GCX773e6P6dmBzfydc6ejjzY9Llu8sNzfk0lI6v465mbMA7SOJE2XmGNc2xIuG7-cBzAo9T9yl06LD-AcvyQHRZuhgFpNiOzD6rcTNDjP4sqryS8179V7bzy9A.jpg"
+          "url": "https://cdn4.telesco.pe/file/Bn3jstpVqQ9EpDELGQg7QTKSMcTt6uSSHIzuRcf4iuW72ZTDYDPQxN-ugghwQ6JTJ7ues5281us5dYIK7mNStYIL9yD4AR1Vs5JbpdLCaXbcqhBSSb90ZCS7ClrZtfhDqNzdaGyzCVM7pfDP_LI2ASVSst8BsI6yGKPYFPznpMO_0bUrZITS0Me9WFVB_anJVmW87DMdvc41ELsi__Diri1OvC43zJbCQ08DgDMgFTI8SlRWTvOntrOIrAkgfDr80Ij4FEustkM4_92k_pwnjIiqcjx1X1AfiIG5GFLdlSMwQPMgItJfkUyQpsDRE91v_Ihs6BeB14Us_yfGd0uYTA.jpg"
         }
       ]
     },
@@ -66,7 +48,7 @@
       "date": "2026-05-20T09:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-05-20T10:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7740,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-05-20T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-05-20T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-05-21T11:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-05-21T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-05-21T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-05-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-05-22T10:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-05-23T09:50:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-05-23T17:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-05-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3860,
+      "views": 4480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-05-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3960,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-05-23T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 4300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +295,7 @@
       "date": "2026-05-24T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 2950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +307,7 @@
       "date": "2026-05-24T04:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 3100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +318,25 @@
           "url": "https://cdn4.telesco.pe/file/LuBkekDggR-QrOXeAEaMOzsgxt6N1ONRzuMi4jLalMHczmnoQH6CdJORC27E47QnNb-fIAF1ld78BPNzZ8MNrcLA0pdKcfSDDdykE7sNOs_zhyW62--hMXA6nmRnaRseTyp8adKia_NXHSACtZveCkxl_zGQDbnu_eWE8Z7jvkPU_Sfda5GjUlaQA4wDiYm4y5Tv_wEKtzGo7NrbYtm4cA2CR4bbQvfDLBkZchZ36_onq5JMM_rNUmuMXKkZiw95Shetyu1jfHJ-q6beiVZG0zD2myy4tTWAGLU3uL_ONP2GXcVUki1YQTGfmlwczGH08yMDjefEnbQ5txhSidXbFA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر اومده کلاد کد رو رایگانش کرده، در واقع یه پروکسی نوشته بجای اینکه درخواست هارو به سمت سرور کلاد بفرسته به سمت سرور های دیگه که مدل رایگان ارائه می‌دن میفرسته، خیلی ازش استقبال شده من حقیقتا نفهمیدم چرا... چون دیگه این کلاد کد نیستش که :)\u003cbr/\u003e\u003cbr/\u003eالبته شاید اکوسیستم کلاد ابزار های جانبی زیادی داره این باعث بشه دیگه راحت با همون ظاهر کلاد کار کنید.\u003cbr/\u003e\u003cbr/\u003eخواستید تستش کنید اینه ریپوش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Alishahryar1/free-claude-code\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Alishahryar1/free-claude-code\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-24T06:02:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/F71cUDAWpv5Cp1fOWh_6SA6OAngogw6FKwvHn_vdDl-wGC-sLO5LSK5dooCl9MmxYNohrHBdgES7r1DlCSW-6h0Hr-3S8D9GsGSdLKIbfxv2qtV6rzhWDSNQOS_UgqqHKssBFR7O1Be7YMHha0ozPmWeBkqBCKOCV1b5t2LDuPsAY4mYiAka5zNWUSece2PynSCQCc6Tutxm2TJJkxjZ45X449ksa0ugWMnaoyLl-8qEitlBmoauOEb4rq6QvjyOxEB4TwghgahfOPvQ2IpEhKsv0lj6FkSGwwnRQhKegmu4T0NzjuR20_ShMbyMVtJWAJU7eJKdhrck7qthtP0gLA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779600813
+  "last_updated": 1779610623
 }
