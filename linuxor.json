@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یکی اومده با یه سری ترفند ها یه اسکریپتی نوشته که میتونید در ماه 1 میلیارد توکن رایگان API های هوش مصنوعی بگیرید\u003cbr/\u003e\u003cbr/\u003eدر واقع همه پروایدر ها(گوگل، گراک و ...) یه سری توکن رایگان می‌دن این میاد به صورت خودکار همشون رو مدیریت می‌کنه و نمی‌ذاره به ریت لیمیت بخورین اگرم خوردن خودکار سویچ می‌که روی پروایدر رایگان بعدی!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tashfeenahmed/freellmapi\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tashfeenahmed/freellmapi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-20T08:51:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Bn3jstpVqQ9EpDELGQg7QTKSMcTt6uSSHIzuRcf4iuW72ZTDYDPQxN-ugghwQ6JTJ7ues5281us5dYIK7mNStYIL9yD4AR1Vs5JbpdLCaXbcqhBSSb90ZCS7ClrZtfhDqNzdaGyzCVM7pfDP_LI2ASVSst8BsI6yGKPYFPznpMO_0bUrZITS0Me9WFVB_anJVmW87DMdvc41ELsi__Diri1OvC43zJbCQ08DgDMgFTI8SlRWTvOntrOIrAkgfDr80Ij4FEustkM4_92k_pwnjIiqcjx1X1AfiIG5GFLdlSMwQPMgItJfkUyQpsDRE91v_Ihs6BeB14Us_yfGd0uYTA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان این سوالو اگه ازتون توی دیت پرسیدن بگید\u003cbr/\u003eبرای پیدا کردن 3 اسب سریع 7 مسابقه لازمه (نسخه استاندارد سوال که توی مصاحبه های گوگل میپرسن) و برای 5 تا بدترین حالت 9 مسابقه لازمه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدقت کنید ظاهر مسئله سادس اما باطنش نه و شاید بگید مثلا به پنج گروه تقسیمشون میکنیم و برترین هرگروه رو انتخاب می‌کنیم اما ممکنه همه برترین ها توی یه گروه باشن پس کشکی نمیشه با چند تا مسابقه بی هدف اسبی رو حذف کرد، حذف اسب ها با روش الگوریتم Selection (یه زیر مجموعه از Quick Sort هستش حل می‌شه و حلش یکمی پیچیدس باید مفاهیم این دو الگوریتم رو بدونید)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-20T09:31:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y4kIa-TGsH1NyH2DBnOEkOGpuNXd5_CWOxD2bTXzCMVxhEElwepKvAF8QI-CQiKdGYlpgtc77vCro3041ooARMq9LAw6dOUoBqSHhOzuGyK6p6gjywOT_bpwMdxMVb9l19saXQa-07_wm1N4YIvFS3dxACU9ONt8G2Ub66SyXjvrXyo46YEvTeS0zYu6Ud6lBF9eJlVh0oPhJpmbq5EfVZsNYahrS5FxKYx5pN6nv2miiRv4LGUeq8NGUAaDGjEZQ1Ta1p5A4tLURbrMuTpTfL-EV8LjqBzSPL37mnM7PX4LhjEvTytbKNfDuDb36RkMxhgAIAwFSDdMAIBK4unh5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خبر فوری:\u003cbr/\u003e \u003cbr/\u003eرادار کلاد فلر نشون میده گویا سوراخی از اینترنت ایران باز شده و ترافیک افزایش یافته. (توی اطلاع رسانی های بعدی جزئیات بیشتری که به دستمون برسه توی کانال قرار میدیم)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-20T10:49:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B-3MpUsLHgdKpCN6nnwFUg2q5l6u2wBTvnichoFDaUgcwfaAjx1J6Dbp4m1kZn-R9X7UD49s3q5e3kXIIi0H1Ixr_K4Lgr-bA52QIJkN4DJt13wB5AjNJDmZL4V13N-DWOQGog6I_EedXrIC1By5ycny9a2aeh6m1JMwSZdE_uaMvlo_RgxelYTIn1-EfXDbRrOQqtVlMKIGkQ92GfHTpTsBIdSdjux1YxLN6ZmK9192kHsQGN_BabeUSetFbhgQlJ27O_rwbKgB4VqWCD0C65JoHvVtCN0aahhqCVGjVVAovDB4Zy1KRsxe9IEDpnw4TGN_Xn07_lpySp5yvqAIag.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ببینید چی براتون پیدا کردم! طراحی ماشین حساب از صفر مطلق با FPGA، البته دقت کنید FPGA برای ساخت ماشین حساب نیست فقط این آموزش برای راه افتادن شماست FPGA امروزه توی صنایع بزرگی مثل نظامی و هوافضا و حتی هوش مصنوعی و مخابرات که نیاز به سرعت بسیار بالا و Real Time دارن استفاده می‌شه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://baltazarstudios.com/calculator\" target=\"_blank\" rel=\"noopener\"\u003ebaltazarstudios.com/calculator\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-20T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +30,7 @@
       "date": "2026-05-20T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8010,
+      "views": 8109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +48,7 @@
       "date": "2026-05-20T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +60,7 @@
       "date": "2026-05-21T11:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +78,7 @@
       "date": "2026-05-21T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +97,7 @@
       "date": "2026-05-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +109,7 @@
       "date": "2026-05-22T10:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +127,7 @@
       "date": "2026-05-23T09:50:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +139,7 @@
       "date": "2026-05-23T17:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +157,7 @@
       "date": "2026-05-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 5190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +175,7 @@
       "date": "2026-05-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +193,7 @@
       "date": "2026-05-23T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +205,7 @@
       "date": "2026-05-24T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4490,
+      "views": 4710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +217,7 @@
       "date": "2026-05-24T04:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4790,
+      "views": 5040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +235,7 @@
       "date": "2026-05-24T06:02:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +253,7 @@
       "date": "2026-05-24T10:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3180,
+      "views": 3780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +265,7 @@
       "date": "2026-05-24T12:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1970,
+      "views": 3020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +276,55 @@
           "url": "https://cdn4.telesco.pe/file/c-81_3SUVGN1FSr2BOu2b4TFt7pJwdFDkXceEO0AVJJ_wgBOrjGCnQ5E2HQQXl8LKOtrrngL18dlD4dlYXoQlSe4T6JN4TJkUbSnwlz7PQIMfHN5RqmaBUW-zaNEHDnCpnF-oMeQ9-o5O9l75YT6QqWg9S8ezRWwTZ8mBV5no5iohkPKPEBwGYEje49jAQlPeOplSqI8nLGbSDuMd43OdrfxbGeC8g6T-5YyEqAxCZ4qajC1Ur1XxGgyo_AFMmZvHr0iLZO3fDoVczRjpKeVRz0tdTliEXeJijsU7UJXTg4RjECaUKuCtJHVXQFNyt5vB-SqIJNkflBIdBXB2hlrBg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "برای کسایی که توی برنامه‌نویسی مشکل زبان دارن، یه کانال خوب پیدا کردم که انگلیسی رو دقیقاً متناسب فضای واقعی یک برنامه نویس یاد میده.\u003cbr/\u003e\u003cbr/\u003eمحتواهاش بیشتر پادکست‌محوره و به‌جای آموزش خشک گرامر، روی چیزایی کار می‌کنه که واقعاً به درد برنامه‌نویسا می‌خوره؛ مثل میتینگ، مصاحبه کاری، خوندن داکیومنت، اصطلاحات رایج تیم‌های خارجی و مکالمه‌های واقعی دولوپرها.\u003cbr/\u003e\u003cbr/\u003eاگر براتون کاربردیه این پستش رو ببینید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/learnobit/163\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/learnobit/163\u003c/a\u003e",
+      "date": "2026-05-24T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "خواستین دیتاست های سنگین رو باز کنید از این ابزار استفاده کنید\u003cbr/\u003e\u003cbr/\u003eاین برنامه با استریمینگ، بارگذاری تکه‌ای و قابلیت اسکرول مجازی، می‌تونه فایل‌های متنی و داده‌ای بسیار سنگین (حتی بالای 100 گیگ) رو بدون هنگ کردن سیستم و مصرف نجومی رم، به‌صورت آنی باز کنه و سطرها رو به‌طور روان نمایش بده.\u003cbr/\u003e\u003cbr/\u003eاگه دیتاست روی سیستم خودتون هم نیست از پروتکل های آنلاین مختلفی پشتیبانی می‌کنه\u003cbr/\u003e\u003cbr/\u003eبرای مثال WebDAV، SSH/SFTP، SMB/CIFS \u003cbr/\u003eیا سرویس‌های ذخیره‌سازی ابری مانند Amazon S3\u003cbr/\u003eیا پلتفرم محبوب هاگینگ فیس\u003cbr/\u003e\u003cbr/\u003eدانلود نسخه ویندوز، مک و لینوکس :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://stardustai.github.io/dataset-viewer\" target=\"_blank\" rel=\"noopener\"\u003estardustai.github.io/dataset-viewer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-24T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dyJMKBg_dI0aD7B7rsRUH9MrCOztf0BeWZQU3UZ1NO0t3If8_Yq_GZ1TSh1-Zr2zgu9GyFrZmihJAt1yz1J_PwEfW-_zpKgGfqMEQmLOOIzH_gpjZLVTE3sp_KXGrJ6iai_SVqmmqxMe-zdQRVLa6RDzrCphfRGgnPTlAGTsJoANQ1RjDFYCpassbMpqkjq8QI1saLF7G8_NMzou_07c57QLLS4Wb7PGpMJtr_CAguS2ikPbVoZXHpb2Y9IvOJn4Dt9_DKX_KcH1tEhyBKqcMdDmv30nInIK7Zc5FdJAupBgFRbH8kg_gbETufm7bz8c6q4ANPxiSilhrLdl6l09wA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "رفیقم : آره بابا ده ساله لینوکس دارم ویندوز مال بچه هاس؛ حالا لباسش :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-24T14:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RYDhxugFiD5CHbBzwN9dD3yudiph-3TyF22cZsKEWxFueWfYQlXFuMgaTv5SAjZJuRpOiKXvlDJMpe_ASzifu55RwnE7qSNhmHOz0f8F0nU7V2V02HLofMzIgNgtmqVg8ulQfqz4WuZEcNUQM-8IQIQ88wW2EKoH5XKr5_w_NyQDL31jhdS6Zton63h32kuZcPu4dd6e3nkTnEj4qYCQHDf07zXDPWu4fVi7TtA_p8boOyCCrKUlU1VOfD1pvsb1SQ6B13ZpMT72bs1oNOfaV3LxepeeqeoB0fC3MA0xDWoge2smWL1-mtc7cAEhgqAkmxdfw8Qd4MWkFXBe1IkKgw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779632788
+  "last_updated": 1779637329
 }
