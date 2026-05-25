@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "سرعت پیشرفت AI این چند ساله انقدر بالا بود که مایی که نفتی کد می‌زدیم نفهمیدیم چی شد؟! به کجا رسیدیم؟! اینجا کامل توضیح داده چطوری از هوش مصنوعی ها توی پروداکشن استفاده کنید، در واقع این یه راهنمای جامع دیزاین سیستم های هوش مصنوعیه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ombharatiya/ai-system-design-guide\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ombharatiya/ai-system-design-guide\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاینو حتما بخونید به خصوص بخش 110 سوال برای مصاحبش رو؛ چون جایی هم بخواید استخدام بشید به احتمال زیاد منبع خوبی برای هوش مصنوعی ندارین بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-22T10:58:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aF5cCmlrtgECzEjT9RWBv3m4e74HZLab6m-XAbEtjeIwUxkw0-rLCuB5UKQe6VGL1t-HHUq6sbKlHQrvP_aqbMkdQVoWuu2ai6Ab8xNcYWPQWe4d-e8Lnsp_5WJlcncGXYSGgzqERyFnJh5-Gc35jyKBw4MpZcswbljZ3GfFuYOo2ML71IB7osyMMOX_GDi6qTIE8nZK0AhuxShQYc-4UOTNayixHgDaIvIS4jwIRVoxA-u1_dqAGQ9hzosfJ6bKW6HX40gkkW_07qdxW1Fv8UHJHpUL2jAmXOagB9CS47259o4SdJO88fWWwUW_lw8gHzmDcUQYathL-d6tn56zJQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه مدام پروژه‌ها رو از صفر استارت می‌زنی، Better-Fullstack می‌تونه کلی از وقتت رو که تلفِ چیدنِ بیس تکراری پروژه (Boilerplate) میشه، برات ذخیره کنه.\u003cbr/\u003e\u003cbr/\u003eاین ابزار از 4 تا اکوسیستم محبوب یعنی TypeScript، Rust، Python و Go پشتیبانی می‌کنه و بیشتر از 270 ترکیب مختلف از تکنولوژی‌ها رو جلوت میذاره. فرانت‌اند، بک‌اند، دیتابیس، احراز هویت، سیستم پرداخت، هوش مصنوعی و دواپس؛ همه‌چیز رو می‌تونی مستقیماً انتخاب کنی. بعد از انتخاب هم خودش خودکار یه ساختار کامل و کانفیگ‌شده تحویلت میده که آماده‌ی کاره و صاف می‌تونی بری سراغ کد زدن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://better-fullstack.dev/\" target=\"_blank\" rel=\"noopener\"\u003ebetter-fullstack.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-23T09:50:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "آدرس سایت :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://northflank.com/\" target=\"_blank\" rel=\"noopener\"\u003enorthflank.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-23T17:28:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mQj-4pF7GSLuzuewuheo64wJKTlsw71UdylE1e7jXAiguG0abrjpevHfrBupqt8XGqZCHzHk4vD8kPCZfnNnzl5hCHuYmJqwQ4bD0uDejghm6YNSx2HLGyyIzreCsuZ-1lrVG6cQ8NecnR358Ep2PK43jrfQ6ramPtYklAECg3-ZeCtiaOubzoG3Z7T8XD-HG7cZUL8_O5NQyXOwY9zE5P2KgUoi4cwbhnmsWLkrh_cN-JJKvIjoNQC0mjMSDz8SvuLsFsQUI2zmXYsm3Y7_U2JOW-fTC42guy7Zd0POBv3E9zdR-xH7cI8980WqwRCEg6XKOABUlR3ilJ6JJ-uYwQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e با n8n کارهای تکراریت رو اتومات کن!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003eچرا n8n؟\u003cbr/\u003e\u003c/b\u003e- ساخت اتوماسیون‌های کاربردی بدون کدنویسی\u003cbr/\u003e- وصل کردن APIها و ابزارهای مختلف توی یک workflow\u003cbr/\u003e- مناسب برای کارهای شخصی ساده تا اتوماسیون‌های جدی تیمی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبه مدت محدود\u003c/b\u003e می‌تونی \u003cb\u003eدوره n8n کوئرا\u003c/b\u003e رو با \u003cb\u003eنصف قیمت\u003c/b\u003e ثبت‌نام کنی!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003eپروژه‌های دوره:\u003cbr/\u003e\u003c/b\u003e- رزرو نوبت مشاوره\u003cbr/\u003e- ربات تلگرامی نمایش لحظه‌ای قیمت دلار، طلا و ارز\u003cbr/\u003e- ربات تلگرامی تولید و انتشار محتوا\u003cbr/\u003e- پردازش فایل‌های PDF با مدل‌های هوشمند زبانی\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/xa7mr\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/xa7mr\u003c/a\u003e",
-      "date": "2026-05-23T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lrYzw7nO0qwf0HIXN_kinhpFL7es3dRcWPxaaqU-ogDdSC5wHZNew-PbkXgQe_DUzMTUSJ1efbbgUlzqIpDOixzeVOGYqH9xiKNeXPGPAR96htFYnawaqIEuIkWgZQvKbI1eFRkh99HGwibE2z6OrikQ_Gu1ffhXu5wB-J7bHxBkWPeui-H_4CB4LN_hYOKQ9_gLmzz2khdpEHo_uCDTGJJfqHyEQKGy9UD13FpYCAiaUGmHlaw11OfN_i7CnHrqWIGizhHVNesBc87Yj0kh2PcixccsnaKkAr9m0STTl1N1ovcAcHI1nU6FTQgLjUFvfUCMQ5hnugU_0hMg4Hj6yQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه مجموعه کورس دیتاساینس و هوش مصنوعی\u003cbr/\u003e\u003cbr/\u003eلینکش مال گوگل درایوه و سازندش خودش به اشتراک گذاشته هر چیزی رو خواستید دانلود کنید چون تضمینی نیست همینطوری پابلیک بمونه یا لینک عوض نشه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://drive.google.com/drive/mobile/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD\" target=\"_blank\" rel=\"noopener\"\u003edrive.google.com/drive/mobile/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +30,7 @@
       "date": "2026-05-23T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +42,7 @@
       "date": "2026-05-24T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +54,7 @@
       "date": "2026-05-24T04:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +72,7 @@
       "date": "2026-05-24T06:02:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +90,7 @@
       "date": "2026-05-24T10:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +102,7 @@
       "date": "2026-05-24T12:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +120,7 @@
       "date": "2026-05-24T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +132,7 @@
       "date": "2026-05-24T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +150,7 @@
       "date": "2026-05-24T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RYDhxugFiD5CHbBzwN9dD3yudiph-3TyF22cZsKEWxFueWfYQlXFuMgaTv5SAjZJuRpOiKXvlDJMpe_ASzifu55RwnE7qSNhmHOz0f8F0nU7V2V02HLofMzIgNgtmqVg8ulQfqz4WuZEcNUQM-8IQIQ88wW2EKoH5XKr5_w_NyQDL31jhdS6Zton63h32kuZcPu4dd6e3nkTnEj4qYCQHDf07zXDPWu4fVi7TtA_p8boOyCCrKUlU1VOfD1pvsb1SQ6B13ZpMT72bs1oNOfaV3LxepeeqeoB0fC3MA0xDWoge2smWL1-mtc7cAEhgqAkmxdfw8Qd4MWkFXBe1IkKgw.jpg"
+          "url": "https://cdn4.telesco.pe/file/gNJvBHDbIWK2rA2U3gdIscjPaUNCypAfwEBoq2ncjD069Q2jjJbKzb-qyCrmBReL-4p8ad-y1g7mjye3qRV8HSKzBwgRVyBupp_sOKnfjqqyIvvBRVhoxHIrcr-mcsEedsVj0S4i4f_hhKd_D5-bycf_Zr6vMQyNecdGYzO6CZvkwVD9D6lt1-I3NmRU8M0CZdSt5mzYnOvtKCAwWo7miigDFW2QvhpHMKF8z65iBpNpzK6mcAi0YshKzpRzIgsVLDCeQUDn4wRRn49iCsag4PJoaX0X-BHidPThQ264JrEDEuiLUFbU7ehWnIu6OstMySIkQMPjQdZTZJti5B1y9Q.jpg"
         }
       ]
     },
@@ -234,7 +168,7 @@
       "date": "2026-05-24T15:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +176,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B4iySGFqHG7R4xdZS1usO73dJd_75rfBSsA8qjNnOYkVDcqMLvIRIw6AN6f8ovsfN4ECKvRTcQNLZWR3XhIWpuq_iqxH3Cy5XU4gQVQSDzFt9jv1yb3NLy0WfjuDVYWSvV2KkTOANrCOqeBrKn_HtjQso-d-Ykek74ckix53CrpsJkXQM945u_mZVmC5G2WHyYTYA-sxHDlpQXzQfxLJ5kw7j5BAe4EwVBqqQMpozA68VRplNX3Xp5ag0bTGFBmgadU1m7dFn3_XAmU4Y1JafTOm26gs3hiZh5XUOsu1nEo0xCPv_dvH0xpRdCx7KWZtRr2yKkIjr20IRWjMcMKezg.jpg"
+          "url": "https://cdn4.telesco.pe/file/fTGWywdx_fZ183ldGO66QNxIUqMOW7AcuBpS7lesUShLxswnpX3I_I4OPBeVJZxNfCxatvbKSMbfJd20orOMVtrjh3ztgoDJvIvBd_uNq-0SsXzRJ5Oys-cs9xEPfxyiHK8h7iWly590tLOg549WVL5xwDn9Iz7vk4uj1zmbLy-Be8otVEB5s0Z3D8UIHR-ES0hZrZKgdz_eMZMCq7-Gwxmxoo9vQdozI2i9_rlZoJJc_hZ11mkvgJbmi-jZhJXIPUOWoq9v9oEocSG-8IB_TW8TJuAbSGcwy0Tdt-40hXM2klVVD0_KY8x-GsrZJ2TqHjZiBkKmWfP14ua0H5AG1A.jpg"
         }
       ]
     },
@@ -252,7 +186,7 @@
       "date": "2026-05-25T08:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 4000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +198,7 @@
       "date": "2026-05-25T09:18:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3350,
+      "views": 3870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +216,7 @@
       "date": "2026-05-25T09:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3390,
+      "views": 3930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +234,7 @@
       "date": "2026-05-25T09:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 4120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +253,7 @@
       "date": "2026-05-25T10:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2750,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +264,75 @@
           "url": "https://cdn4.telesco.pe/file/c33PdIomy6DPFy4AjSiTh5GZLVqJIiuxOIqYUkqBG0YYqqkd3eZ44a7OR8Qgm64wUAH9izI2ibhUBc0Ldy55BIaX9FUcBX79Rv3ic2AV4oGerjO3bBPv6ZxeOeMXDHLVSRYIT7SuoaKdACVI1-TWnjTL9tfh95cqVRmppE76YwzTg4ji2tW7kUGl-ULnFkcTWbZ5vj2a_IeJjm6sMu6_l60HtUlgC_8-qyoJdjVUija0uvVEN6B3imClWVDiBtYTyKAI8xNEaSqrdiqYC89nIshqAIdr4XlZD0CsdtIiQgjEwqAs99eq55tXjvPBoYb0yY4Wg-VJn0J4Riw8r4ahQw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "‏قبل از اینکه مدل‌های سنگین رو دانلود کنید، اول مطمئن بشید که واقعاً اجرا می‌شن\u003cbr/\u003e\u003cbr/\u003eابزار llmfit یه ابزار خط فرمانه (CLI) که خودش سخت‌افزار شما رو تشخیص می‌ده و 206 تا مدل رو بر اساس این‌که واقعاً روی سیستم‌تون اجرا می‌شن یا نه، رتبه‌بندی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاول CPU، RAM، GPU و VRAM رو بررسی می‌کنه، بعد همه مدل‌ها رو با سخت‌افزار شما می‌سنجه و امتیاز می‌ده.\u003cbr/\u003e\u003cbr/\u003eمی‌تونین به‌صورت TUI تعاملی باهاش مدل‌ها رو ببینین، یا تو حالت CLI یه جدول سریع بگیرین، یا حتی خروجی JSON برای اسکریپت‌ها بگیرین. حتی REST API هم داره برای کلاسترها و زمان‌بندی.\u003cbr/\u003e\u003cbr/\u003eیه حالت جالب دیگه هم داره: برعکسش هم کار می‌کنه! یعنی شما می‌گین چه مدل و چه سطح عملکردی می‌خواین، اون بهتون می‌گه چه سخت‌افزاری لازم دارین.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/AlexsJones/llmfit\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/AlexsJones/llmfit\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Reza Jafari",
+      "date": "2026-05-25T15:45:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/NuG2t5b_UoCSfIfWMlRL8sgI1_eKJcnqtmF1yqe0PlH51W9E4hSIyH-rl004iKp9DuNh_CJx3HcInAsw9y7K2OM8SBDrsoVm7fIj0rZKpEjZV6XjSLFKNEjFSlFy87DRKtxfN2sDcAk_Fb_Q2nxa-wmtfVfQaYX0PU6_lgMiYvUrsf55OU1mNIleEvaMHa2TKh_T4k60ogFvLlYXMfZFJoH_4H7lPtA2JI-ZfPhjq1iuLMVY3vmYMUKfSPEyVmySZHqzZ3z9vZVk1IU1FWWWpDFiVs2vm2b3qFEksKw7TvnGP2xqSU1L8gWEqKkBa97NZjZVIoHD6m4ka_cU41KcaA",
+          "width": 856
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5258342814273513092\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e                              \u003ctg-emoji emoji-id=\"5258342814273513092\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e                              \u003ctg-emoji emoji-id=\"5258342814273513092\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5276032951342088188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5363908119657200717\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003cb\u003e\u003cu\u003eاینترنت بدون محدودیت رو تجربه کن \u003c/u\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003e تجربه‌ای نزدیک به \u003cb\u003e\u003cu\u003eاستارلینک\u003c/u\u003e\u003c/b\u003e \u003ctg-emoji emoji-id=\"5406966974980828470\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003e با هزینه‌ای نزدیک به خرید مودم  \u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438239044179863743\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5377728632925998973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B1.png\u0026#39;)\"\u003e\u003cb\u003e😱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cu\u003eکلی امکانات فقط و فقط با خریـــــــــد یک روتر\u003c/u\u003e\u003c/b\u003e \u003ctg-emoji emoji-id=\"5310134115498993485\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B1.png\u0026#39;)\"\u003e\u003cb\u003e😱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5449875850046481967\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5341515693479186232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تاحالا فکر کردی بشه کل خونه‌ت همیشه به اینترنت آزاد وصل باشه،  \u003cbr/\u003eبدون نیاز به روشن کردن فیلترشکن؟!!؟؟!\u003ctg-emoji emoji-id=\"5341515693479186232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5438239044179863743\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5210952531676504517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیگه لازم نیست برای هر دستگاه جدا فیلترشکن روشن کنی  \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465465194056525619\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5463423955014529788\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e استفاده همزمان چندین نفر با یک اکانت  \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5454125707300978880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948B.png\u0026#39;)\"\u003e\u003cb\u003e🔋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کاهش مصرف باتری گوشی و …  (افزایش عمر باتری)  \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5415825426633202840\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مورد استفاده برای \u003cb\u003eتریدرها\u003c/b\u003e _ \u003cb\u003eگیمرها\u003c/b\u003e _\u003cb\u003eدفاتر و شرکتها\u003c/b\u003e _\u003cb\u003eکارخانه\u003c/b\u003e و \u003cb\u003eمصرف حرفه ای خانگی\u003c/b\u003e \u003ctg-emoji emoji-id=\"5415803084213329506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5406966974980828470\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5451636889717062286\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اینترنت آزاد رو برای کل خونه یا محل کارت همیشه روشن داشته باش  \u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5276032951342088188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5415803084213329506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e\u003cu\u003eقیمتهای ما اصلا قابل مقایسه با جاهای دیگه نیست ،امتحانش مجانیه و هزینه نمیخواد\u003c/u\u003e\u003c/b\u003e \u003ctg-emoji emoji-id=\"5211117930867078661\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226813248900187912\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  مهـ‌ــــــــــــــــــــــــــــم  \u003ctg-emoji emoji-id=\"5226813248900187912\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همراه با 10 گیگ کانفیگ v2ray بعنوان هدیه \u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190750706323171140\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5418063924933173277\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eادمیـــ‌ـــــن\u003c/b\u003e  :  \u003ca href=\"https://t.me/Eternal246\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eEternal\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226656353744862682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کانـــــــال ما :   \u003ca href=\"https://t.me/Routeriran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eRouter iran\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352871660024246779\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-05-25T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 955,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "لیستی از منابع جمع آوری شده برای یادگیری عمیق یا Deep Learning \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/christoschristofidis/awesome-deep-learning\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/christoschristofidis/awesome-deep-learning\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 678,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/C8rm0vsSwV-Iu8AccNtmhdlaHSxwtm17zBpenHcUUxquf-hWv6P1dM7IGiQsTT1VAnPl_sVoH9dRdqbR0m-BvlfkjnsLfXb4PKqtjSMz5cgIjn8grW0bmOoBkCylYj4oJHnNr6P3wEMT-4UFK1ZAmAu-V_5KheSMUEDY0lRsibKcqrherLUzxcJ7OoYVDMTsEyqUEdPwnz2rmoztgoeHuDwntl0DQvlOUguFD_WyzOOROpbWGXfWhzYUYIC6W-0Y82LZW9rIpEO6dF-3cYQNURSClL7l0jQOwO4hGyAxoaHmuN6urQRgHmiqfqyDVJWnJGIsu2vstyGODkAtWCxz9g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دقیق ترین ساعت جهان که در هر لحظه دقیقا تایم همون لحظه رو نشون می‌ده!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/K8w4Fc8NLc068g47UNYHiB00sw9yL1q85hPh6B36IX_NoZQKwTkid-pSgd_Ou-3N23cU5qyQf3nYq4-_YLcCLaLf0U2D5vrZICWB55WwbRECReGpOB9vLPz3o6qa8zZ5GD5avcLY0j_ZXXQs-Z7lNoaoPhn3FccVteblBf0VUn1c2ZjCQENF_C83KZQZSXw3zZ0siKKAoVVJHluLiopAQO8x0soumnUq8kEaZ22TV7tYLBF1_7QMHtwlj3--hn3NaqIes3NxqlG1v18RvLJXADztzZkb9duQVDSi507JtgvPUkC5sb45nUDCfIb0PfJnFvJxxbBp-YTI0_ehv9yRUQ",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1779719652
+  "last_updated": 1779728380
 }

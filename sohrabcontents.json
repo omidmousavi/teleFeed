@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003e‏گیت‌هاب هک شد\u003c/b\u003e\u003cbr/\u003e‏گیت‌هاب (GitHub) روز سه‌شنبه اعلام کرد که در حال بررسی دسترسی غیرمجاز به مخازن داخلی خود است، پس از آنکه گروه تهدید سایبری موسوم به TeamPCP کد منبع و سازمان‌های داخلی این پلتفرم را با قیمت پایه ۵۰,۰۰۰ دلار در یک انجمن جرایم سایبری برای فروش عرضه کرد. \u003cbr/\u003e‏این شرکت تابعه مایکروسافت اعلام کرد که شواهدی از تأثیر بر اطلاعات مشتریان ذخیره‌شده خارج از مخازن داخلی گیت‌هاب وجود ندارد، اما زیرساخت‌های خود را به‌دقت رصد می‌کند. در به‌روزرسانی بعدی، گیت‌هاب فاش کرد که یک دستگاه کارمند از طریق یک افزونه مخرب (poisoned extension) در محیط توسعه مایکروسافت ویژوال استودیو کد (Microsoft Visual Studio Code) به خطر افتاده و حدود ۳,۸۰۰ مخزن داخلی استخراج شده است. \u003cbr/\u003e\u003cbr/\u003e‏این شرکت اقدام به تعویض اعتبارنامه‌های (credentials) حیاتی کرده است. گروه TeamPCP همچنین بسته پایتونی (Python package) رسمی مایکروسافت به نام durabletask را در مخزن PyPI آلوده کرد و سه نسخه مخرب ۱.۴.۱، ۱.۴.۲ و ۱.۴.۳ را منتشر ساخت. بدافزار جاسازی‌شده در این بسته که ماهانه حدود ۴۱۷,۰۰۰ بار دانلود می‌شود، یک ابزار سرقت اطلاعات (infostealer) چندمرحله‌ای است که قادر است اعتبارنامه‌های ارائه‌دهندگان ابری، مدیران رمز عبور و ابزارهای توسعه‌دهنده را سرقت کند و در محیط‌های AWS و Kubernetes به سایر سیستم‌ها گسترش یابد. این بدافزار که بخشی از کمپین کرم خودتکثیرشونده (self-replicating worm) موسوم به Mini Shai-Hulud است، از مکانیزم FIRESCALE برای یافتن آدرس پشتیبان سرور فرمان‌ودهی (C2) از طریق پیام‌های عمومی گیت‌هاب استفاده می‌کند.",
-      "date": "2026-05-20T21:01:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 835,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ox2CQJBuu9QCVlVYBleLGJOk6k-eWeKrd28zLQmnYH2Bh_NbyxGt_4X73f1PeWnLOQjVlnrbikw42lihLkGctNsMCjDOODkjLzJo1M73QvtqzSmcjNeEHWUJ8Wu5HlSUgCwtL_a8xYL6UuGgaO2O3PhczfoowaP1G6a5c7kTInSQthW0ZZ0VRKdt_aAjfCR7RkyJpXH-WmrKaWW8fUhdWm-Hdl1CYRky_lwwvdpkL4AM7NzE-2ZMlgN6Q_FTSgj5K6XhFj-5wyXZbz3XiD9GXeSlxgMdPt_JpTltZAFD0Y58jUbKzSzYRuU2stWXQ7z8baqzXs-D925oMHYOkb-GmQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تا حالا فکر کردید چرا توی لینوکس دستور man داریم ولی woman نداریم؟\u003cbr/\u003e\u003cbr/\u003eقضیه اصلاً فمینیستی و جنسیتی نیست؛ man مخفف Manual (دفترچه راهنما) هست که از سال ۱۹۷۱ روی یونیکس بوده.\u003cbr/\u003e\u003cbr/\u003eاما نکته جالبش اینه که اتفاقاً woman هم داریم :))\u003cbr/\u003e\u003cbr/\u003eتوی ادیتور Emacs یک پکیج هست به اسم WoMan که مخفف این کلمه‌ست:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eW\u003c/b\u003eith\u003cb\u003eO\u003c/b\u003eut \u003cb\u003eMan\u003c/b\u003eual\u003cbr/\u003e\u003cbr/\u003eکارش چیه؟ بدون نیاز به لود کردن گروندِ دستور man (که با فرمت groff کار می‌کنه)، میاد مستقیماً فایل‌های man page رو توی خود ایمکس رندر می‌کنه و بهت نشون میده. یعنی عملاً بدون manual سنتی کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eیک دستور باحال دیگه هم هست به اسم whatis که کارش خلاصه کردنه. اگه بزنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003ewhatis man\u003c/pre\u003e\u003cbr/\u003eخود سیستم بهتون میگه:\u003cbr/\u003e\u003cbr/\u003eman (1) - an interface to the system reference manuals\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-20T22:25:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "این هم خروجی WoMan توی ایمکس هستش.\u003cbr/\u003e\u003cbr/\u003eالبته احتمالاً امشب یک مقاله بنویسم درمورد اینکه چرا افراد کمتر سراغ Man Pageها میرن که یک تاریخچه کلی از Man Page هاست تا به الان.\u003cbr/\u003e\u003cbr/\u003eبرای دسترسی به woman در توزیع دووم ایمکس:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eM-x \u003cbr/\u003ewoman \u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-21T15:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 953,
+      "views": 959,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-05-21T17:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 993,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-05-21T18:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-05-22T08:10:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 970,
+      "views": 990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-05-22T15:13:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 920,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-05-22T16:07:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 657,
+      "views": 667,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Rg-bVdKJ1HPrAKywy877ZSYxpM6LxkLUU5GZY4Aod8h3V39LcKkI-ba0df4o2LAwg0uZ3cKu0UZQnYNfxTsB0dfSSAPtW_aIIaCkDaQoT70awAy5kUuyJ_hQqpGDyYXCX2hJ1Xo6-zF9JoKzzwbH3m7FT_AistAuoi7zZ5Q9YdRzfvPZdQl9PXaUmr05FT13sRBTocQk2i0i9y75eHk4p1jeaUXK9SgJq8kbGJvUTIRrdK2QrW55YB8F1qzDKUysEyKGqE6yRU-OzkxS1T3TuXqyfAurvMYy9AmzJsvSxRu_k-6eh-AtihxB6rvIlYR2qCIQ3fFrMR57Zsod1o0IbA.jpg"
+          "url": "https://cdn4.telesco.pe/file/G8bXqdhIz9s2FI2Id5AC2ZDOty4p5dHnwy0oL6Sg-ZMGFMCV6ALCOJoIokUDjGdTkk4yk1i2TmDtF-TQ_Ex_3BV1JQS2YJVtQRQ1A-OsR-YiHaNlXjbBFwKfZgKwm-KzebyqcBvHxmrq5pcdbJBOpdoFw4rO15rr5NHiu3aAypRivCTGgPAie2LzVN5OOUInBOHkKPtB1gyyjpa_fDwkvY5M4LpCpXt7HW0lUWOienL_MfbJOYkfsr3W5_bUoaPBwKCbhd_NBti8ZIZSMihT1_Lg4Sq8GJZY4KTqeJlA3NA5J-TzyiJ23RvZyJc3kvaiek3vKNhmV_EAzxbBLkNZiA.jpg"
         }
       ]
     },
@@ -126,7 +96,7 @@
       "date": "2026-05-22T17:19:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 927,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YO9-Qyg-zT9GFQBU7sktAmrFhLz4AstBAyPu3BDp_Q1HYSY3E_Q22X5IokNIIBqkbRSA-OvU0jM8Ul8iqLB4GdO1mCje8q4mpDugjeJSXivKNluUea9T0HMESwHj5VHO3DoYCdyxjyQsKVHqVq-mSzzbWtk0CZiRHFpX-elYC1oyMa46njk7UlKqDxxsLkhaKhkWIIctM65KiSiD8f5gYisaTRzMDNzG4mhVJ5PLytfvGcNzUGZeCHjxziF9LncpJex5kxKZJ4eEV2tM2U4yj8As8FeTJB070IClIW7E6c93JNIyAGaFqVmlwOZTfrkRw-CasF3g_7uDqpwNRjuISA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ka4ShT3v5mRSUxuCXkRXdRQ5XvEOMJ1a51_-7DHJCBzbTogGkXNY79-ncMc9VqE7e1tuXXmgr-JLMd2l9ahUzhA11OlytbN2052qRsiaMEXT29x-r-mOPkmM5R6dZf3Xo_G1_ARO4ZtJyBF665p6fqkn2654Yn6Q4_GViAcKk0kLvA3NuzvxshDCHaCzfr_VOJOh9XFP1IOHMnMnOioUa-PrJ7Lt10jvtr8AkDmM3Saf6ZtoJeuDtk6BWTfTEAtRzWuK1ggej3h8k_XiRj0ED5TW5t_QmCy508metb8SN3YjWid4WAn2rMOtoOaZLoNbt9GFpO7kOQ4Ks1NdeYo22w.jpg"
         }
       ]
     },
@@ -144,7 +114,7 @@
       "date": "2026-05-23T03:37:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 837,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +126,7 @@
       "date": "2026-05-23T18:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 721,
+      "views": 734,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +138,7 @@
       "date": "2026-05-23T19:03:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 704,
+      "views": 722,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +160,7 @@
       "date": "2026-05-24T04:36:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 537,
+      "views": 556,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +178,7 @@
       "date": "2026-05-24T08:23:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 639,
+      "views": 661,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +196,7 @@
       "date": "2026-05-24T08:35:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 652,
+      "views": 676,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +214,7 @@
       "date": "2026-05-25T09:15:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 438,
+      "views": 509,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +226,7 @@
       "date": "2026-05-25T09:19:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 443,
+      "views": 517,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +244,7 @@
       "date": "2026-05-25T09:27:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 480,
+      "views": 572,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +262,7 @@
       "date": "2026-05-25T10:28:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 310,
+      "views": 412,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +273,31 @@
           "url": "https://cdn4.telesco.pe/file/dqSY4-y_nviulGDD0-xJYDX1FIfbwP3D1H7_O9TBTK04MJFVNOsOINJdFYWLKhwOPkgpyilUYAn4BFcb1c6I6N_0T50Bj08PZgEL-d4BV_X2s4GLFWfvE6nEKG_WCwxZ4pOX16J8n1y8EKy9byx9F8P6814PN7Aq5j6Fl4vsmqzaNCGKYHF9ulicf5vijaabUSh2q6PwDczkHkhstNJKk4Lvnhgx9beoQjWl_P06G3KWiua0NnSbmKmS_JMWbGw6HhDQCv2c0P7DG8jQVqO9ILiBb2Lfby09tSfagmh8mS1gphPThgMvXD0V3mpqbJ8rEKBylRsUDJtDir0E9ewOEw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "با سلام خدمت همه کاربران پارچ\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eطبق اطلاعیه نوبرکلاد:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eکاربران محترم نوبرکلاد، بدین‌وسیله به اطلاع می‌رسانیم که با توجه به شرایط فعلی کشور، محدودیت‌های زیرساختی و اختلال‌های گسترده اینترنت و ارتباطات بین‌المللی، ادامه ارائه پایدار و قابل‌اعتماد خدمات برای نوبرکلاد در شرایط فعلی امکان‌پذیر نیست.\u003cbr/\u003eما در تمام این سال‌ها تلاش کردیم زیرساختی حرفه‌ای، پایدار و در شأن کسب‌وکارهای ایرانی ایجاد کنیم و حتی در سخت‌ترین شرایط نیز کیفیت خدمات را حفظ نماییم. اما در ماه‌های اخیر، افزایش محدودیت‌ها و ریسک‌های عملیاتی، ادامه این مسیر را با چالش‌های جدی مواجه کرده است.\u003cbr/\u003eبر همین اساس، نوبرکلاد فعالیت سرویس‌دهی خود را متوقف خواهد کرد و از تمامی کاربران محترم درخواست می‌شود حداکثر تا تاریخ \u003cb\u003e۲۵ خرداد ۱۴۰۵\u003c/b\u003e نسبت به دریافت بکاپ‌ها، انتقال داده‌ها و مهاجرت سرویس‌های خود اقدام نمایند.\u003cbr/\u003eتیم نوبرکلاد تا آخرین روز، در کنار کاربران خواهد بود تا فرآیند مهاجرت و انتقال سرویس‌ها با کمترین مشکل ممکن انجام شود.\u003cbr/\u003eاین تصمیم برای ما ساده نبود. نوبرکلاد حاصل سال‌ها تلاش، تجربه و همکاری با جامعه فنی ایران بوده است و از اعتماد تمامی کاربران و مشتریانی که در این مسیر همراه ما بودند، صمیمانه سپاسگزاریم.\u003cbr/\u003eامیدواریم در آینده و در شرایطی پایدارتر، دوباره فرصت ساخت و ارائه خدمات در کنار جامعه فناوری ایران را داشته باشیم.\u003cbr/\u003eبا احترام\u003cbr/\u003eمحمد حقیقت‌خواه، مدیرعامل\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003eبعد از ۲۵ خرداد ماه ۱۴۰۵، از آنجایی که پروژه پارچ یک پروژه جامعه محور است و بودجه خاصی ندارد، مجبور می‌شویم برخی از سرویس‌ها را خاموش کرده و توسعه را به گیت‌هاب برگردونیم.\u003cbr/\u003e\u003cbr/\u003eمتاسفانه پارچ درحال حاضر سرور و راه‌حل جایگزین ندارد که بتواند این سرویس‌ها را همچنان میزبانی کند.\u003cbr/\u003e\u003cbr/\u003eمتشکرم از اینکه محدودیت‌های ما را درک می‌کنید.\u003cbr/\u003e\u003cbr/\u003eبا احترام\u003cbr/\u003e\u003cbr/\u003eتیم توسعه توزیع پارچ\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-05-25T15:51:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 232,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "با توقف فعالیت نوبرکلاد، \u003ca href=\"?q=%23%D9%BE%D8%A7%D8%B1%DA%86_%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3\"\u003e#پارچ_لینوکس\u003c/a\u003e یکی از حامیان اصلی زیرساخت خود را از دست داد. با سپاس از حمایت‌های بی‌دریغ نوبرکلاد و آرزوی موفقیت برای تیم‌شان، اکنون برای پایداری مخازن و سرورهای بیلد نیازمند همراهی و اسپانسرینگ شرکتی یا زیرساختی هستیم.\u003cbr/\u003e\u003cbr/\u003eجزئیات فراخوان:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"http://forum.parchlinux.com/t/topic/1053\" target=\"_blank\" rel=\"noopener\"\u003eforum.parchlinux.com/t/topic/1053\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-05-25T16:18:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 157,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1779719694
+  "last_updated": 1779728419
 }
