@@ -8,90 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یادتون میاد سورس کد فرانت کلاد لو رفت (بخاطر اشتباه فرانت کارا توی انتشار فایل سورس مپ) اما خیلیا نتونتسن بفهمنش یا تحلیلش کنن\u003cbr/\u003e\u003cbr/\u003eواقعا هم تحلیلش پیچیده بود چون این شرکت، شرکت کوچیکی نیست که یه فرانت ساده ای داشته باشه و بشه راحت فهمیدش، حالا یه نفر اومده کامل تحلیلش کرده و کتاب قانونی 400 صفحه ای براش نوشته!\u003cbr/\u003e\u003cbr/\u003eخوندن این کتاب از نون شب واجب تره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://claude-code-from-source.com/\" target=\"_blank\" rel=\"noopener\"\u003eclaude-code-from-source.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-20T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r_ltZiqmkcNb0xMO1rhMuxV9BnvmnXJpCoUeNJP3jtuSMyLeVIsmi32_Fhx2Nq6lvT8v8NdDN00sgczN1CL-CGWiRnmJOFhnjcl_ilP7j8RRdgQ0MXkT7bf9K75oJYKN5x65XZv3mSdWziWcrckidwJuakhWVwsihDg1TrrpHwS8R30eJgHSj-2UcdfVlMah901UMl9QpQPxzHpMC29fBgQoggAp8d9KGfIe_7WggMVY07KUt_t1XKrtNAfa0Xks-Q8jt1DB4madGQa-XQqMhLRXFs9ty6jvshaayrakJWVhJUV1C-pEyr9zB35B0Po7xq6xpJXIUiTpjLFVw55DtQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یادگیری SQL ابتدایی فقط توی یک ساعت! برای تازه کار ها و یا کسایی که مدت زیادیه کوئری نزدن این خیلی خوبه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/s-shemmee/SQL-101\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/s-shemmee/SQL-101\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-20T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این دوره رایگان شبکه هم خوبه، توش کلی چیز که توی کار واقعی کاربرد دارن بهتون یاد میده\u003cbr/\u003e\u003cbr/\u003eبرای مثال سر فصل هاش :\u003cbr/\u003eتفاوت واقعی LAN، VLAN و VXLAN چیست؟\u003cbr/\u003eبررسی عمیق عملکرد Bridge در مقابل Switch\u003cbr/\u003eکارگاه عملی راه‌اندازی سگمنت‌های L2 و L3 در لینوکس\u003cbr/\u003eشبیه‌سازی محیط واقعی دیتاسنترهای مدرن\u003cbr/\u003e\u003cbr/\u003eلینک :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://labs.iximiuz.com/courses/computer-networking-fundamentals\" target=\"_blank\" rel=\"noopener\"\u003elabs.iximiuz.com/courses/computer-networking-fundamentals\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-21T11:00:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LAI_npUqkBwsIuwjWwYuP4IxBoSl3zI6GvpAhe-ehZm9JNXdFmy8IAKMo7gPahE7Tjjs9BH6U-HjmK1FzRSTls3NA9K4m4QAv4wblgDmnV64NQQ70h4WqA2-YCqKpovgisGVWy0kM2p5GVR2MPzRguhNOkmonBqxTBYG50tFQCGHP8nm1D7dhEYvYABIxRijY7xiKM0fdo0Q1wXThRMBfFEJD35TrmqFWsvDnFRwMxdrHPSBfzafH7A9ELObshE_iDI-MAf7NcSsaalO8P2BvOKTkcvS4GBkNlRX5dTkkD6vLT3LEkiHeVDGrrBe6edFMIE3ETkvha_qMhJAFEKMKg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ساخت برد های الکترونیکی با پرینتر سه بعدی!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-21T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/emDMIc3Zkk31pZ7RMbid3Bry5qHozqrHMFsxN7lYxAYA-KPvlWk4Q1ffP6kp5Bi65rA34FmBxZbZCGGhMIjHnh_jV-lqaDm6Xu5XzQQcH2D6zbnY-U40el2prh3aENGVDk6PbKyHbsJMbbfKofsSx1rl0sOUzlcw_vEPYOVXiHcuIBxTMjZlDxl0KDjCp_rkVyILuA6Pj05vVu1dUJYQQFSqKlzXtpqUYsR4tC0ubhpqa66RAxolg9la8V7NcrsHvITZaJxfvZf-bsaZ85nJMaCqCmVeAXDg9HBCwZjnLTcBniPpxDCPS4om8nRHjj71u-Xlm6Qcpej_aAYmELF5Uw",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هکر ها و امنیتی ها سلاحشون اسکنر هاست، چون هیچ هکری نمیتونه ادعا کنه من فلان هدف رو تعیین میکنم و می‌رم هکش میکنم بلکه با اسکنر مشکل رو پیدا می‌کنه و روی مشکل کار میکنه، این لیست کاملی از اسکنر هایی که هکرا استفاده می‌کنن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/psiinon/open-source-web-scanners\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/psiinon/open-source-web-scanners\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنکته : دقت کنید این اسکنر ها قانونی ان ولی به شرطی که فقط روی سایت هایی کار کنید که پلن باگ بانتی دارن نه هر سایتی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-21T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "سرعت پیشرفت AI این چند ساله انقدر بالا بود که مایی که نفتی کد می‌زدیم نفهمیدیم چی شد؟! به کجا رسیدیم؟! اینجا کامل توضیح داده چطوری از هوش مصنوعی ها توی پروداکشن استفاده کنید، در واقع این یه راهنمای جامع دیزاین سیستم های هوش مصنوعیه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ombharatiya/ai-system-design-guide\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ombharatiya/ai-system-design-guide\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاینو حتما بخونید به خصوص بخش 110 سوال برای مصاحبش رو؛ چون جایی هم بخواید استخدام بشید به احتمال زیاد منبع خوبی برای هوش مصنوعی ندارین بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-22T10:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/k1jOyr5FqX6gKDD5HyYPHc7q3Ijs8qsOzuhh6ZhyIktKyhN1UwtgfGYYZfU9oBpgVPXT5rq_wD9H4CAK-OAel8wTYnnwINn26qMDr-VkVYriC14GQgdVPRnmeodRozVhwyT9DuabbJ8YX_TCIZpgi5rtEGUq5_H20DWj5bAHDqRbXZU-OD6g-EJtivlqfOnzPefg0ngQyI5hLsaua1k8COeQuB8Ij_BVk4yBO2ulhtZrJnOUkXob4cVGGgUAP3Nx11knBq1zIHcT9Lkx_aI0P2bhTTFqkxswnohYU7zpWbVOfCdm1CmfofjEuEkPOoti4lQ-72Fz_x4cZuKuF0YzIA.jpg"
+          "url": "https://cdn4.telesco.pe/file/aF5cCmlrtgECzEjT9RWBv3m4e74HZLab6m-XAbEtjeIwUxkw0-rLCuB5UKQe6VGL1t-HHUq6sbKlHQrvP_aqbMkdQVoWuu2ai6Ab8xNcYWPQWe4d-e8Lnsp_5WJlcncGXYSGgzqERyFnJh5-Gc35jyKBw4MpZcswbljZ3GfFuYOo2ML71IB7osyMMOX_GDi6qTIE8nZK0AhuxShQYc-4UOTNayixHgDaIvIS4jwIRVoxA-u1_dqAGQ9hzosfJ6bKW6HX40gkkW_07qdxW1Fv8UHJHpUL2jAmXOagB9CS47259o4SdJO88fWWwUW_lw8gHzmDcUQYathL-d6tn56zJQ.jpg"
         }
       ]
     },
@@ -109,7 +30,7 @@
       "date": "2026-05-23T09:50:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +42,7 @@
       "date": "2026-05-23T17:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +60,7 @@
       "date": "2026-05-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 5750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +78,7 @@
       "date": "2026-05-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +96,7 @@
       "date": "2026-05-23T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +108,7 @@
       "date": "2026-05-24T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +120,7 @@
       "date": "2026-05-24T04:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +138,7 @@
       "date": "2026-05-24T06:02:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +156,7 @@
       "date": "2026-05-24T10:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +168,7 @@
       "date": "2026-05-24T12:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +186,7 @@
       "date": "2026-05-24T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4390,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +198,7 @@
       "date": "2026-05-24T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +216,7 @@
       "date": "2026-05-24T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +234,7 @@
       "date": "2026-05-24T15:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +245,92 @@
           "url": "https://cdn4.telesco.pe/file/B4iySGFqHG7R4xdZS1usO73dJd_75rfBSsA8qjNnOYkVDcqMLvIRIw6AN6f8ovsfN4ECKvRTcQNLZWR3XhIWpuq_iqxH3Cy5XU4gQVQSDzFt9jv1yb3NLy0WfjuDVYWSvV2KkTOANrCOqeBrKn_HtjQso-d-Ykek74ckix53CrpsJkXQM945u_mZVmC5G2WHyYTYA-sxHDlpQXzQfxLJ5kw7j5BAe4EwVBqqQMpozA68VRplNX3Xp5ag0bTGFBmgadU1m7dFn3_XAmU4Y1JafTOm26gs3hiZh5XUOsu1nEo0xCPv_dvH0xpRdCx7KWZtRr2yKkIjr20IRWjMcMKezg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه منبع خوب برای وایب کدینگ (گوه کاری) :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/acvnace/awesome-vibe-coding-resources\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/acvnace/awesome-vibe-coding-resources\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T08:52:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پنل نمایندگی گذر\u003c/b\u003eب\u003cb\u003eان؛ حرفه‌ای، سریع، پایدار\u003cbr/\u003eبه جمع ۲۰۰+ نماینده موفق ما بپیوندید و بازار فروش v2ray را در دست بگیرید\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eچرا گذربان؟\u003cbr/\u003e\u003cbr/\u003e• پنل اختصاصی: تعریف کاربر و صدور آنی کانفیگ\u003cbr/\u003e• تکنولوژی پیشرفته: پشتیبانی از ساب‌اسکریپشن و کانفیگ‌های تانل\u003cbr/\u003e• مدیریت هوشمند: بازگشت خودکار حجم در صورت حذف بسته\u003cbr/\u003e• سرعت و پایداری: زیرساخت اختصاصی بدون قطعی\u003cbr/\u003e• شارژ فوری: افزایش اعتبار پنل در کمترین زمان\u003cbr/\u003e\u003cb\u003eکیفیت تضمین‌شده، حاشیه سود بالا.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همین حالا به جمع ۲۰۰+ نماینده ما بپیوندید.\u003cbr/\u003e\u003cbr/\u003e——\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370599459661045441\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/goozarkon\" target=\"_blank\"\u003e@goozarkon\u003c/a\u003e",
+      "date": "2026-05-25T09:18:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O83IfWFzRsayHsMghYzn6XTUp0-t1pxSOVpdUipN-2GQYWaGxM5uTKHr19PVOJi944ZMyLu0hU1Wevh0BOUgUK1F0XefqDZ45DaVRkCRZmhgRlpoKQbW_9t_w6PzKWZ8lFoMgVEhVUTbiNA4YHiS6LEQcP37fqhexUh2SZMWUHG5qUsdAIDPFy7a9-93UydxLGhRFGrgbMUMHXd8u9LL6p9ROl-tpvhvFtVV0JHyA_-jSRoVW3V5VN7GU5tBYT6Qks3OfGwGC2XLy6arjOoTWYSrNt-WKhXKfQYkeX0TK5zmA7a0wski-tC2_w7FxTgnTYKcGAKW5ikhYan6mn8AEw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه کسی ازم بپرسه چه کسانی رستگار می‌شوند بدون شک می‌گم اونایی که CUDA بلدن :) چون واقعا نیاز بهش روز افزون داره زیاد می‌شه و متخصص توش خیلی کمه، اینجا کلی منبع از ابتدایی تا پیشرفته براش جمع شده سیو کنید بعدا شاید یه سنگی خورد به سرتون رفتید یادگرفتید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/alternbits/awesome-cuda-books\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/alternbits/awesome-cuda-books\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T09:33:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mevyxsc-DgyVDbW_mEGMkNuLfJdF8e9swL4sJcx8L4nm0SHL3ypCqQnTdOgfQdzk9B7hZH5TPUj8riC-MrwkLnBGoppCOV9EdDnWa59J03GXuzkfV8YsYbTiPf9Bzqqh1XcqWYnb2rDUW1G2dEZbocL8RSwNGrpul5oNS-FCqM6-TMcvY3P-26VzPA5-EDkDYZFXWzn8BudG_MfF-Kntqye4_xRtZV8fjp6YpLZ8snd1KY2DApcH3bmnBV-N9GRGCpPBee_Eatoq05a1Av4m1gcXRr92OQ2h1bcceMWJQr9wDJ3ri6kXtyPHlHoRuilezJmBbGiiwF8F4WmpHzMQNQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "آدم برگاش می‌ریزه ویدیوی معرفی Gemini Omni که چند روز پیش گوگل برای تولید و ادیت ویدیو دادش بیرون، می‌تونه رفتار فیزیکی رو بفهمه، بکگراند و سایه رو بفهمه و درک عمیقی از داخل ویدیو داره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T09:48:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tVtD_mMfPzPqKUAejTAD4QA4YtYIys1YynAgnqoY33Wj8ek9TW8KB6EtlFxAMQUAsa-9QZ9GC2ya-y8tJaeGR2gYiUdv7Yar_OLAyyi55hYVBQMpTrtCebyUxkCIn11OppcG5H6JRIuUUtjLzb83FilYDjQH-ronyQoludVGdXcJhLuIbI4kiNJMwuV5cu5HXoNrplHrkbkjes-uQMxR5isW7y8IfSgATh1SkLF8_tM2gL8SS4JmwAVyoG32AICmiDttdKthmoW-wmyyCWGqXgHfPi5OiEFO2ookaMDBNppKTnAfE8kytWjhAbbpjbqbvzOUaVu2N6-7fJBEIXJvaA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گوگل یه گاف بزرگ داد، PoC یا روش استفاده از یه آسیب پذیری امنیتی بزرگ رو بدون فیکس کردن اون باگ لو داد و بعد فورا پاکش کرد!\u003cbr/\u003e\u003cbr/\u003eاین باگ از وبسرویس بخش Background Fetch کرومیوم سوءاستفاده می‌کنه. اگه کاربر صرفاً از یه وب‌سایت مخرب بازدید کنه، مهاجما می‌تونن اتصالات پنهان و پایداری توی پس‌زمینه مرورگر ایجاد کنن که حتی با ری‌استارت شدن دستگاه یا مرورگر هم باقی می‌مونه. از این دسترسی می‌شه برای ایجاد شبکه‌های بات‌نت، وب‌گردی نیابتی (Proxy) ناشناس، نظارت بر برخی فعالیت‌های مرورگر یا راه‌اندازی حملات DDoS استفاده کرد (هرچند خطرناک نیست و دسترسی مستقیم به سطح سیستم ایجاد نمی‌کنه)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-25T10:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c33PdIomy6DPFy4AjSiTh5GZLVqJIiuxOIqYUkqBG0YYqqkd3eZ44a7OR8Qgm64wUAH9izI2ibhUBc0Ldy55BIaX9FUcBX79Rv3ic2AV4oGerjO3bBPv6ZxeOeMXDHLVSRYIT7SuoaKdACVI1-TWnjTL9tfh95cqVRmppE76YwzTg4ji2tW7kUGl-ULnFkcTWbZ5vj2a_IeJjm6sMu6_l60HtUlgC_8-qyoJdjVUija0uvVEN6B3imClWVDiBtYTyKAI8xNEaSqrdiqYC89nIshqAIdr4XlZD0CsdtIiQgjEwqAs99eq55tXjvPBoYb0yY4Wg-VJn0J4Riw8r4ahQw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779692592
+  "last_updated": 1779708813
 }
