@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چینیا جدیدا دارن تمام پرامپت های تولید عکس رو به صورت اوپن سورس جمع آوری می‌کنن، دیگه نیازی نیست برای تولید عکس برید از اول پرامت بنویسید اینجا 400 تا قالب داره که کافیه از طرح هاش استفاده کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gpt-image2.canghe.ai/\" target=\"_blank\" rel=\"noopener\"\u003egpt-image2.canghe.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-24T04:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AtIjXhySfi_MNS61HMTG9QAtj67TKFXqB2PC7-GOS4h-b3juNYFYtkuri6CRi2RNNvWdMnf9z5vs-KWWCQjP-E_Zx2Ou-MrCbKD8nvFLAPUITDy45CSniIMp6SvtMZtdC2E9T0eojAdZ8_MIZStvI9BI1Lta81lIF835F-hGhlh8oTdrl65gdBMBTEiidh2f-eJNB0ATJz4_yImYrGUk_7UpGTDp3-z1E0pGgXd4QTwjNE2THhQRRZf_fZ2IoVeYS_xqyiTByYuBm1vJzpTtjy8UEBvYCVWwpddtIyofPsnWSuJ-WXr_b_9O-RLXE5WM_9_W6TFNQro_qarcKF3EGA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر اومده کلاد کد رو رایگانش کرده، در واقع یه پروکسی نوشته بجای اینکه درخواست هارو به سمت سرور کلاد بفرسته به سمت سرور های دیگه که مدل رایگان ارائه می‌دن میفرسته، خیلی ازش استقبال شده من حقیقتا نفهمیدم چرا... چون دیگه این کلاد کد نیستش که :)\u003cbr/\u003e\u003cbr/\u003eالبته شاید اکوسیستم کلاد ابزار های جانبی زیادی داره این باعث بشه دیگه راحت با همون ظاهر کلاد کار کنید.\u003cbr/\u003e\u003cbr/\u003eخواستید تستش کنید اینه ریپوش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Alishahryar1/free-claude-code\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Alishahryar1/free-claude-code\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-24T06:02:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cNLZvl7VvcJJKusQEbjmXr4CS_eadhbAmi3RGZFtK-N_n3rqId8vuE47MjT0oQD1Hteq_tt-WClRzXxDA5Fd8DbnXu2LejQihMd60WAwZdu7I_H42pMCWmhAKCGcdor54djk3vkfm_S83_2N4TtaHY2IKp6WhEX4__d7W9DdlR_pd7iFj_PNSAYKvpwiQZ4zNU6-bgQ4Vc6s6vnOgtyTDJFyENNrTOAq_tBa_gDaiX1Lb--5iSo4la1d9_G6D5UfwhkF1Wr4CveIWCTT3Y_3u-1GnZVNsGz1NdJSoAEHgXpIixt4z7A5-N_-vk7XZKPISd9CUQKif1ufVMdh8UQNZg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خیلیا می‌گن این کانالت به چه دردی می‌خوره هیچ سودی به ما نمی‌رسونه، منم جایزه 10 میلیون تومنی می‌خوام بدم به کسی که اولین نفر این کد رو بنویسه :\u003cbr/\u003e\u003cbr/\u003eیه تابع بنویس که یه تابع دیگه رو به عنوان ورودی با تمام ورودی هاش بگیره و بگه این تابع آیا سر انجام توی لوپ بینهایت گیر میکنه یا بالاخره تموم میشه True و False برگردونه True یعنی سرانجام متوقف میشه و False یعنی این تابع یه تابع بی پایانه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-24T10:33:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "خیلی از ماها فقط از چت باتا سوال می‌پرسیم و بعدش اون کاری که گفت رو انجام می‌دیم (بیاید بزرگ فکر کنیم پالون رو از دوشمون برداریم بزاریم روی کمر خر)؛ چون دنیای شرکت های بزرگ اصلا اینطوری نیست اونا عمیقا با AI Agent ها دارن کار می‌کنن و 100 برابر کارشون سرعتش بیشتر ماست، این پروژه یه دوره آموزشی برنامه‌نویسی و کیتِ کدنویسی هستش که بدون هیچ کلید API پولی بهتون یاد میده از صفر یه عامل هوش مصنوعی بسازید که روی سیستم خودتون لوکال ران بشه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/pguso/ai-agents-from-scratch\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/pguso/ai-agents-from-scratch\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخوبیش اینه که کوتاه و مختصره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-24T12:30:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eJlhHkVAVpiDp5Our410W4ljmgwUBhz0dAW1SQcbsWLVbSEs5Qx6VhROlZcX1QXql19oWO-RE-Zuc4PrhnA8sUEQsawHUslLjqnfuBwLEZJJfpmZ925UFdqWTEpm3FQLvY25MbylLGNUlPFZpxXQVVxOwEKfg20HU52J5qvgPekZVwcyh2Zo6QGmYvB58i52FfRFTRxK-myfEcmK02F7IBKpmUhlYYDIqMFl4cYjX7Y_p_dujWkIopbEppwnX68dRrWFMWl-i0_33shNiff4IoRe22Kr_4Siar4bfbqL-rvJlKdxYW-h9f8U8bVzB94b8IY9Tp5EOxRHZwb7ce6Z6g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "برای کسایی که توی برنامه‌نویسی مشکل زبان دارن، یه کانال خوب پیدا کردم که انگلیسی رو دقیقاً متناسب فضای واقعی یک برنامه نویس یاد میده.\u003cbr/\u003e\u003cbr/\u003eمحتواهاش بیشتر پادکست‌محوره و به‌جای آموزش خشک گرامر، روی چیزایی کار می‌کنه که واقعاً به درد برنامه‌نویسا می‌خوره؛ مثل میتینگ، مصاحبه کاری، خوندن داکیومنت، اصطلاحات رایج تیم‌های خارجی و مکالمه‌های واقعی دولوپرها.\u003cbr/\u003e\u003cbr/\u003eاگر براتون کاربردیه این پستش رو ببینید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/learnobit/163\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/learnobit/163\u003c/a\u003e",
       "date": "2026-05-24T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +24,7 @@
       "date": "2026-05-24T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CNXKX8e02JKnVjgPnDCw8ve2I6Us7RygZJWrPvl9SmOlRGMqSdIj5zY-3SREjy7L5uh3_6rWqEiTiiR6-2a8Yi9IWbi271jM8StqRKD9skIrq6NsqhsA2EBJS1g6SRVkKAZqgidM2Sc-MTSsHkLGiCpRLCLIRpByOYHwBor1pJ0vmES-arUXu9cmBI3x5UIRMq_5LJZvQihDzOU0Qf1CKcVaVKeynKFwUnsv1PafCSZZl65IGe5hxI2h8BoOKQMtnxEnqyS_kGvYHv766H483aVxbKa7rwlzOiJrnswxs-4wY8t48Zp3hKgTCYNmq3_NaH945dvGBsVgBzuiO0oYxA.jpg"
+          "url": "https://cdn4.telesco.pe/file/vJJ_jYmB0MRH745ysKEmF8oxAR2AhmVH_i9UPp0NQ2uJ124u-JO9Ltpgq1rT1JH5jSaHebcXlR75uCHre_Sw33tkbiLmWFzJ0h2njmCwbpaeNGU9MDlHKfYEOU7ALd-TQWfD3-lyihIE0wkOQFp6pdZXGEqJHs8Y6dmeKBmPEThe2MqWgo20LvN_Ehgmu9uUf8eSwtb4j7pL7sh6KWrx80IC7yx37Gr23BLNgPvOlwCqvViQ1d8YrMaNX2_jy5qA_BswUZW0CNffFxbEdYbwvh040cbg9VcF3ifsIUw_Qk__OQVnzdDo6jEnwCzZ2MaVQsxntJA5Pvo_8lswmTuBQg.jpg"
         }
       ]
     },
@@ -108,7 +42,7 @@
       "date": "2026-05-24T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 6050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gNJvBHDbIWK2rA2U3gdIscjPaUNCypAfwEBoq2ncjD069Q2jjJbKzb-qyCrmBReL-4p8ad-y1g7mjye3qRV8HSKzBwgRVyBupp_sOKnfjqqyIvvBRVhoxHIrcr-mcsEedsVj0S4i4f_hhKd_D5-bycf_Zr6vMQyNecdGYzO6CZvkwVD9D6lt1-I3NmRU8M0CZdSt5mzYnOvtKCAwWo7miigDFW2QvhpHMKF8z65iBpNpzK6mcAi0YshKzpRzIgsVLDCeQUDn4wRRn49iCsag4PJoaX0X-BHidPThQ264JrEDEuiLUFbU7ehWnIu6OstMySIkQMPjQdZTZJti5B1y9Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/dM6DtKx5ENTKhKt2Vw4rgYiWrZqmZ5L5-qsDZncMMM5FQqj5QTHzh66GFR34gi5-9Rn6oLVNWlY92XY_P2Ou1O2aZawVMbgdVfMLUnY9TJAm-nL4vDlZuR9D76uIOzf04DeVpCdAUREPqxA_-XkBOZ93ktRM3jC2TaOniusV5aXsOM1J3QlUh_6PPOj3i7AqLF_rnWcPCkJnII6wJDXxQPbut7iib1EbvwzlcJ2yqRnsT0jSb-I_elNZ6EBXhDQ3M3fM4aZ1DO6NxmakpkKqAQRh7FlYv0byM-WuftmFaPzuxJwpLYuDyRdkf1EqHJpp5_PUItz6HTOSZCOrF4s3zA.jpg"
         }
       ]
     },
@@ -126,7 +60,7 @@
       "date": "2026-05-24T15:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fTGWywdx_fZ183ldGO66QNxIUqMOW7AcuBpS7lesUShLxswnpX3I_I4OPBeVJZxNfCxatvbKSMbfJd20orOMVtrjh3ztgoDJvIvBd_uNq-0SsXzRJ5Oys-cs9xEPfxyiHK8h7iWly590tLOg549WVL5xwDn9Iz7vk4uj1zmbLy-Be8otVEB5s0Z3D8UIHR-ES0hZrZKgdz_eMZMCq7-Gwxmxoo9vQdozI2i9_rlZoJJc_hZ11mkvgJbmi-jZhJXIPUOWoq9v9oEocSG-8IB_TW8TJuAbSGcwy0Tdt-40hXM2klVVD0_KY8x-GsrZJ2TqHjZiBkKmWfP14ua0H5AG1A.jpg"
+          "url": "https://cdn4.telesco.pe/file/HpuHVp6Aw_MF4vWd0aVC3ffURTMad6Zg5_A3bpZ2NE1PfnBsbcNKKKa0CXjqJ_dDByIuSSfgrJht9UMXNHnzMtXXRxeK-T8VpD_LjrlIiPzeaOtjEE2zrybpTK5_njxsLOf_mUguEuqdRhED1DT4BYpNgTa6DDVNBgZ-0F_s6FuyI3ma4hnqc7Tr7-CPTgyxXEOjsL-vaJcnz-XUcss_AtLesfWqEq4PwJ4eE7ebOaWV-b4cxWD8bnBMgT9xMqju-0_7N3Mo8kNTQ8QNMkeC_9CprTJ02cPG0IgUjt1e6h-aP8s5ozL-L36WbzmO4bRsPavaqsd4mV3SqfsxmFLpQw.jpg"
         }
       ]
     },
@@ -144,7 +78,7 @@
       "date": "2026-05-25T08:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5010,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +90,7 @@
       "date": "2026-05-25T09:18:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4910,
+      "views": 5290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +108,7 @@
       "date": "2026-05-25T09:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 5220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +126,7 @@
       "date": "2026-05-25T09:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +145,7 @@
       "date": "2026-05-25T10:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +163,7 @@
       "date": "2026-05-25T15:45:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
+      "views": 4780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +171,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/NuG2t5b_UoCSfIfWMlRL8sgI1_eKJcnqtmF1yqe0PlH51W9E4hSIyH-rl004iKp9DuNh_CJx3HcInAsw9y7K2OM8SBDrsoVm7fIj0rZKpEjZV6XjSLFKNEjFSlFy87DRKtxfN2sDcAk_Fb_Q2nxa-wmtfVfQaYX0PU6_lgMiYvUrsf55OU1mNIleEvaMHa2TKh_T4k60ogFvLlYXMfZFJoH_4H7lPtA2JI-ZfPhjq1iuLMVY3vmYMUKfSPEyVmySZHqzZ3z9vZVk1IU1FWWWpDFiVs2vm2b3qFEksKw7TvnGP2xqSU1L8gWEqKkBa97NZjZVIoHD6m4ka_cU41KcaA",
+          "url": "https://cdn4.telesco.pe/file/sFqRmOdOsF-3_EV8sIfyN66YzJtKo0JRD3u22yaZ44G-0eBDxnu1gV24gcgs04nlOg0qCqSt7iWJ0tqSj7fMD-OjF4TvNUNdFgm27aJRs8WwvtITilp-tc0vl-VX83OBSZvce9JI3rladQwjqY-VXw-zvHuDyj2MYBOJwwh0HpHBC7z0gYV9UXvQQC1mmDYKRxc3U7L26EPHDAP0kY0mTv7roqf23bJGWXag2XVfzfv4gg7J4sen_Ebnmts1iTk2JcenocWByYYF7lL8PvDHCuyACZhq6n-q4swJe5YogUCijD5SpHma0hmBuTbg-qFcf8Qp6rWDsRkrm_TN4h12pw",
           "width": 856
         }
       ]
@@ -248,7 +182,7 @@
       "date": "2026-05-25T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4000,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +194,7 @@
       "date": "2026-05-25T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4330,
+      "views": 4780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +202,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C8rm0vsSwV-Iu8AccNtmhdlaHSxwtm17zBpenHcUUxquf-hWv6P1dM7IGiQsTT1VAnPl_sVoH9dRdqbR0m-BvlfkjnsLfXb4PKqtjSMz5cgIjn8grW0bmOoBkCylYj4oJHnNr6P3wEMT-4UFK1ZAmAu-V_5KheSMUEDY0lRsibKcqrherLUzxcJ7OoYVDMTsEyqUEdPwnz2rmoztgoeHuDwntl0DQvlOUguFD_WyzOOROpbWGXfWhzYUYIC6W-0Y82LZW9rIpEO6dF-3cYQNURSClL7l0jQOwO4hGyAxoaHmuN6urQRgHmiqfqyDVJWnJGIsu2vstyGODkAtWCxz9g.jpg"
+          "url": "https://cdn4.telesco.pe/file/Z0KJssLyhn5Tnbh4XsBMJwYp6NA5Q4mXdiSELQUstOoni9tqSU3EM6qEDdJDucJhJX_KOAnWZa1MzTKpVMBBhqQ4blAq2Y5kFhn11EwR1WM7k7dlksqhskJoEsv9dBB8XADbBoxLVM_N4IdXuhEojIokgjISh7Ig5SODHlVYyRZwsnfyeZ5d6WD36YGvDi0pyGkZDic3f-NnsCbtD9V--V2chG5aKWyAQ5jGp8nM1aE8t9mZNJTQrLg6hkeRaXLayH9ZXcD-7qKNEoBrbP8MBt69RmWivOIlqt4aePondhm9V5h9blAP_UV9rEiCW7MvumT36g1H1bxjWxVZFTEwHA.jpg"
         }
       ]
     },
@@ -278,7 +212,7 @@
       "date": "2026-05-25T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +220,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/K8w4Fc8NLc068g47UNYHiB00sw9yL1q85hPh6B36IX_NoZQKwTkid-pSgd_Ou-3N23cU5qyQf3nYq4-_YLcCLaLf0U2D5vrZICWB55WwbRECReGpOB9vLPz3o6qa8zZ5GD5avcLY0j_ZXXQs-Z7lNoaoPhn3FccVteblBf0VUn1c2ZjCQENF_C83KZQZSXw3zZ0siKKAoVVJHluLiopAQO8x0soumnUq8kEaZ22TV7tYLBF1_7QMHtwlj3--hn3NaqIes3NxqlG1v18RvLJXADztzZkb9duQVDSi507JtgvPUkC5sb45nUDCfIb0PfJnFvJxxbBp-YTI0_ehv9yRUQ",
+          "url": "https://cdn4.telesco.pe/file/KZ6DxMEyiYIc8_RUqmpR1kuyapgm-8uhlubunHe394EzWfgWsNCe_5mRsbvMgLvobgoDsh5B4jxkKAk3YPl2ERmUPPet9k34cwKMQ3JjmFgR4X5TjS7fVv-CUIaU2xamWUAOxfNz4EAXW_mWu7oMVckzH_krG5mRCnHp4y0eYyKvtazajyRuHb7RHYq73RhIEwJyuCOo2cHz1e7OKyNLmVzXH5k-lhBuC32twAq4EhCUI41wYRqPg7M0EnV1hT0Mu4v2nYmox5-qTlHU5oFcOPieGBzRb4ylfdQnCpW0ENenyTinR7O3tS6kWMPfIrDNy_1YZWUFxuBn_3kSRv-RJg",
           "width": 720
         }
       ]
@@ -297,7 +231,7 @@
       "date": "2026-05-25T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4860,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +239,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HEKnVXAPmLXDEo7UT2K7VD-LTfqIRfl6OaJnvAOLL3gOmnOY7G9uCrzVJy8Ylu4RWVlezfRpRSfGkSQHAKwZyQPUCzDIFMcFVbmz1AssQmvqMq0cW7i4NDLgjHrJOTuVxXgWEA4ZjwbTgxuTI10ZjgG4ZISYuea1EhO7Gz0NnII6J5XmQCx0Gj-gyICzPU8YaXx_qt31kEuM5nEyL4rvRB-CWKccHFbWbWUHboo7ShR5l0Da4XPm2JV6finvT9iglWwyLFpzpTbgQ5-xx_2t6e3yEfOn45VzaUmRykxsEyW8mKfR1LvSlLfmR84CAv-la52Jv9LmDydyjZBE_n5ebQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/irDOuhHYijCJ1oOL9oedHdH9FNXVw-KLTl8gBQW053fKVe3NqetyIUIrq9i5FnhQz3YvI26QiIwIFLlQ4-f3fOuO1CX4zmj79GIj5SdJaqwvvd6086vD_CWfknp-jW91nBZWBD0AomEJ95gu_VoGUkNMLfodi-HagRMTyVGEBQoqRgtrfIQq5z-lKdsxYQdaySlRiChL0EB0iF7SdeMmp_1LsOvtFYXwX7oRMo9ccF8vUZOsDjaqGXRlogPu9vjuqVyXLdRmuQmaAF_ezkJXSEfTAavhLJ4Ssvz-7W6Tfbkl44P5LGgLaPMac920epVovwT2chpp6JUrOXYAC6TeDA.jpg"
         }
       ]
     },
@@ -315,7 +249,7 @@
       "date": "2026-05-26T09:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,12 +267,72 @@
       "date": "2026-05-26T10:39:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2870,
+      "views": 5210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "خبر فوری\u003cbr/\u003e\u003cbr/\u003eاز ساعاتی پیش اینترنت مخابرات لنگ لنگان وصل شده\u003cbr/\u003e\u003cbr/\u003eنکته 1 : همه سایت ها سفید نشده ولی اکثر سایت ها مثل کلادفلر و ویکی پدیا باز شده.\u003cbr/\u003eنکته 2 : هنوز هیچ خبر رسمی مبنی بر باز شدن اینترنت منتشر نشده و ممکنه دوباره قطع بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-26T13:52:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "فقط با \u003cs\u003e۲۸ میلیون تومن\u003c/s\u003e ۲میلیون و ۸۰۰ تومن\u003cbr/\u003eتمام دوره‌های اسکیل کمپ دانشکار رو فقط با یک اشتراک داشته باش!\u003cbr/\u003e۹۰٪ تخفیف رو از اینجا دریافت کن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://dnkr.ir/k7Kq8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dnkr.ir/k7Kq8\u003c/a\u003e",
+      "date": "2026-05-26T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hidsaGyJp8MrFXybmOB2CyypB7czPIvOs2GOxuJ8WelHW3JD1pSWTyiMCYFP2J-TMXGZ4jkq36oIeXhB_MJDIfvceOE0tmDRlaZITPcZGpqueo5xHyvfIMq-AW3Rzk5gcdjjJaGLGREbpu587PnXewFELF_aqAG-Un5kFLx5LCnc-LOGCLrskFhIRQ-ruaT1wklPcBAuTjqK1eB0A1LE95BjB90yixK6VMjMCh8ZxRjezpWqzJQS5eio8DSeA0y8-5EyUJbYnIJ8f-DwWt-pByakKFfs0L_e2q2Nw120JvPjotmor3dKRNBpKMYrcnHNHgC9DFgvUGbwRb8QHRMjUw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تلگرام توی این اپدیت اخیرش که UI رو به کلی تغییر داده یه اشتباه فاحشی کرده اونم اینه که آیکون های غیر ضروری رو آورده جلوی دست که اصلا به سود UX نیست، برای مثال آیکون Settings و یا Contacts اصلا چیزایی نیستن که همیشه استفاده بشن توی همون پنل همبرگری قبل خیلی جاش بهتر بود. دومین اشتباه فاحشش اینه که داک پایین اصلا نباید باید همزمان با تب بار (تغییر فولدر) وجود داشته باشه باید ادغام بشن وجود همزمانشون یعنی Double Nabigation که اگه خودتون طراحید چاقو هم زیر گردنتون گذاشتن نباید همچین چیزی بسازید بسیار آزار دهندس! از نظر UX بهش می‌گن Cognitive Overload یا بار شناختی بیش از حد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-26T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AcCuhTkNrxSEcy2S78StSUTvV0Ddog8J1RPrarD2eydn-v9MFeg2qgiJvxh2pVPoFHhHFqNa_SWxxftgVhmcIfGVMPrOLqoWt-fg6Id63HL4qK4jMuKGgK4saT-5lQxB7pTBfRZapz0xtSCUem5v5G3n-s8F-aQmyVLI0ERRjNRx71irwhkoGRlLoHYM9gjDFoqEcEzxALcTgppHIFg2mBmu-SdFrrTsjwlHSyt5_5RikHOhvEwoQslJO1NutMmCrE9hdaOc-xInvdJOXvkOkHrxte5rCmZPOtsNctNvtHUM1NFYfy3J00u5eLZj3etLYAzblPRUddziWLYXky3VYg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه ابزارم چندیدا چند نفر دارن روش کار می‌کنن بخ اسم Droidspaces یک ابزار شبیه‌ساز محیط متنی (Container Runtime) سبک‌وزن و نیتیو، الهام‌گرفته از فناوری LXC (کانتینرهای لینوکس) هستش. این ابزار بهتون اجازه می‌ده توزیع‌های کامل لینوکس مثلا ابونتو دبیان یا آلپاین رو به صورت کاملاً بومی و بدون افت عملکرد روی اندروید یا لینوکس اجرا کنید.\u003cbr/\u003e\u003cbr/\u003eخوبیش اینه نیاز به واسط (Termux یا Chroot معمولی) نداره این ابزار مستقیماً از قابلیت Namespaces در توی کرنل اندروید استفاده می‌کنه. در نتیجه هیچ ابزار واسط یا شبیه‌ساز لایه‌ای وجود نداره و سیستم لینوکسی با سرعت 100 درصد بومی سخت‌افزار اجرا می‌شه دانلود :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ravindu644/Droidspaces-OSS/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ravindu644/Droidspaces-OSS/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-26T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1779803273
+  "last_updated": 1779816052
 }
