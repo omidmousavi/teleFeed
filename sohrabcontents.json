@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کاربراتور (تور) با اسنوفلیک روی سامانتل وصل شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-26T18:30:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 954,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IGxJ6JyGO9o3qRGy2bwVwjlQUQKTb3KWxnbsfieQ4k1O8SRRU0Ue1KJHx4cGZE_Dz6gNLzwWMkpQfsD3EybB-Wjnh2vGY-OZkL2-0y1cEoY2RP1yMHQ0s7CP8omdgZlwsot5fIAoK-AKDdqle6CkOspNb9Ozrp9Vhy9w4mL_uAMCpHdv-JLuC100aA0_Yog_pCcyOzdpEL7M8vergGSh7P4HM3PYusx7_CJZJKZ2dREBjovyngwzoXTuz0RmNlJtxZ5aY9uGDYTJhIzGuBKZpHtvu21jIP2Ip-Jv-aMEoTM_xsSAePcxzgbBwhp1KMtAQnFYq3fRkwK9zylQspXdcQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "البته توجه داشته باشید این مورد رو که فیلترنت الان در ناپایدار ترین حالت ممکنه و هنوز کلودفلیر هم در دسترس ما نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبعد از در دسترس قرار گرفتن کلودفلیر میشه با روش‌های معقول‌تری وصل شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-26T18:35:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "برای وصل شدن با اسنوفلیک باید اون یارو chaotic رو از قبل فعال کرده باشید بعدش این بسته رو نصب کنید اگر پارچ دارید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S snowflake-pt-client-git\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eکاربراتور هم توی مخزن پارچ هست نسخه پچ شده‌اش، بعد از نصب ادرس باینری pt client رو می‌دید بهش و می‌زنید تا وصل بشه، حدود ۲-۳ دقیقه‌ای زمان می‌بره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-26T18:42:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-05-26T18:51:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 980,
+      "views": 988,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-05-27T14:25:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 815,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-05-27T14:25:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 759,
+      "views": 775,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-05-27T14:49:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 834,
+      "views": 852,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +84,7 @@
       "date": "2026-05-27T15:17:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 823,
+      "views": 838,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +96,7 @@
       "date": "2026-05-27T18:00:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 841,
+      "views": 867,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +108,7 @@
       "date": "2026-05-27T18:04:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 855,
+      "views": 872,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +126,7 @@
       "date": "2026-05-28T12:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 801,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +138,7 @@
       "date": "2026-05-28T16:17:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 686,
+      "views": 719,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +150,7 @@
       "date": "2026-05-28T16:29:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 702,
+      "views": 751,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +162,7 @@
       "date": "2026-05-28T16:41:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 700,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +174,7 @@
       "date": "2026-05-28T17:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 665,
+      "views": 727,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +186,7 @@
       "date": "2026-05-28T19:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 624,
+      "views": 718,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +204,7 @@
       "date": "2026-05-28T19:32:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 597,
+      "views": 711,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +216,7 @@
       "date": "2026-05-28T19:43:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 564,
+      "views": 693,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +234,7 @@
       "date": "2026-05-28T19:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 544,
+      "views": 693,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +245,29 @@
           "url": "https://cdn4.telesco.pe/file/S08s9JXfncia8Q3hPQz0jW1EueIjzPqVgiUJaw5QFSba57vuYw_HA4F9vwdRGe4OF4tpfdnfEgj2I-5k-xEvdqSJsh42f5YRqdf9wYGXOj5xXJTC10mpTCt6EW87f0ANQ5JAt9pyul7FbspXX0FHDySbuBqbxfuSja_zphyRHFbwZ7a0XwEOev0Czbdo5MZSjYPjP3ihPDSajNTGgASWNOVIARttcBBtmPFiEIKaV-HuUQWlG7M2IkHRXSaHgduE-O4iYWKJl_KDfiZjoF2sgzEWxLXNga8ltFcjGmANtziyUMgCOnco__-DN20COvYH7X8EUGz0YLl7KS_HB-JdSA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این دوتا برنامه؛ پارچ ایزو رایتر و اتچر هردو از یک sdk استفاده می‌کنن برای رایت ایزو که etcher-sdk هستش.\u003cbr/\u003e\u003cbr/\u003eولی یکی با tauri نوشته شده و دیگری با الکترون؛ به حجم‌های برنامه دقت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفکر می‌کنم وقتشه که Tauri رو embrace کنیم :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-29T09:40:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 263,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/flu6gOIn0hNVacUWsMEyFMfbxd8cK_Rzce1ZH8nJEoBmV--V2KvSt6z2IlXwWcsmDez4eq8zgLoPNwSvBT_lnqkZg37G2rQAg0-iAUtnTjQ5bmZHSlaU-V6Y6VyK20WkmGE4rnkCMCwXpD0aTakGeybkJrYrZbwvpa1C4FIugVWfyI7pyTYtr1aL7CIvy-FMYRq0CDYFpBqZF13D6yqa-NN7Jx1Eq4_p455U7WGDEZyJAfLrzqb7l51Snnb-vHk88KyFBzBl6frL4hyM9zBRUhGmEP7TIJrtnJrW9FXoFNsvWdOZQ4eiWRMRGYaYTThbwvAmD0GPVKBjJAu-sqySXA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eYk9Rbxf5DMsttX6gYW6ZO2hrrQCQZ8nNY0dt_Jw2EjNN3E2loUy272jhZ-MHdwOy9W9DLSj8fIbkUjvfV9OahMR3Bd4B3JJFa5wg5H5WIooskwJm3oXEMpdCkHOTKkERAbyY25jVhG6Ui2lER1yf-xwmOCKgQgHRMh2gwq_5sIhPS0CqsA07TgcoM-U3Sn9crKepJGxE71EtZX4SgYBlpu4okx_UUeh_KVeJjDwgY73cfOCPvragWA1W8rGkAWYNcQcURf1MhxvLxUt2k1b5l6rSYkjP2AYEU-lUhGbbjxTDxW6MH6synx3zLqyF0SuYiW7xoxfOhH_UvlOldtsAg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780036641
+  "last_updated": 1780051155
 }

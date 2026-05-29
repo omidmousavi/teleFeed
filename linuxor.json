@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "همونطور که می‌دونید مدل های چتی هوش های مصنوعی یکم شاسگول ان برای این که شاسگول نباشن می‌آن موقع جواب دادن مدل یه سریا منابع و اینترنت در اختیارشون قرار میدن و بهشون میگن هر موقع خواستین ازش استفاده کن تا جواب ها دقیق باشه به این کار می‌گن RAG؛ اینجا به صورت یه دوره آموزشی توضیح داده چطوری RAG پیشرفته و مبتنی بر عامل خودتون رو بسازید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/jamwithai/production-agentic-rag-course\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jamwithai/production-agentic-rag-course\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-25T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AJ720Y7qYePxJl_rGUWD9i_Z0ZFvRtnhG_-E-ATzz6QnIzXr74eDYGIGTuvtAehwCSKybKHu1p20L2uKS4wkZCYO8AVNd_L3VXMLXUp23R6fkyb99BbjkN5Hjw7gpLwpXmdWXhg0dbTJkBny030ceoUKPljLurNfCEirGNCqJD8QTVZ_OdyaaTbZxjC9qI_pkw04YIPKCyHU0nOwYP07t-2Vi5TqVPUCeIgHVNeT7AAlG2TuIu9un3AK48xWYXdK9n6qx43IkcQxfpSvPN4-bjKFJZNaM8Q90yBCRJcCm479qrR3034iSY1uXa5s8lXo_Elf0iJfDFR5ea386GMozw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "امکان ساخت اپ اندروید هم به Google AI Studio اضافه شد، حتی روی پلن رایگان!\u003cbr/\u003e\u003cbr/\u003eیعنی الان رسماً می‌تونین مجانی اپ موبایل رو هم وایب کد ببرین جلو.\u003cbr/\u003eفقط تو یک هفته، مردم بیشتر از 250 هزار اپ باهاش ساختن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ FarokhNotes",
       "date": "2026-05-26T09:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8670,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YswY0FTXoN2e7ioiPIN7XrofdDuBf7ynt28vvjqwzFYx7ZhwzjOEfXIBfSXuzvk-JuVZaYsKp2TxY7tO-3LRUSLsK9wkTAMGsuW2SB4fZd80blYclNK3xsfEJorsWhJ_aTsjdq9c2sJNlMCPUCpPjGPZdsgU2E1FqnevsU2lBoSeADniKTr3z3v16bQcvJGVP8XBw9VTuM0SbZEBnEwO5CNtF8E1qQ0gbYSSziuHV_MaFJDTn7ei2-I3DkJsOtpEIC-v91GmFRS7uncY2SDYmiCHUF3AyFcVXLR8wR2hkEkAGPKm5rThPPQEeb50DICoSQ0y9f7s-QvG3uCHhAngmw.jpg"
+          "url": "https://cdn4.telesco.pe/file/YHXoboZGW4WAmC8Ct0_QGtbcaEKqKu45uraku3-5M_WVFM8wROUAJP8ScSKW8M4jGkUwcINCGwauWEHTQ7eF_IRf_nLEsTjKO7DHGfsuq3fV2V_dXbFjNq81j-_yottIqTjfQzfnzkP-PTu7Hpvu147TEUeipS6l8CTPe6pbUlInigVKXfxZNyBDS8JdJjn1zkQ_ozseVjziVbA9Ifqe_lhEK_198pPlRLUFQfIIIApAj0mHW4Yw85D4WrxH4FgKeB03_8R-BzN6gN_rw4HjDlKZjnNUS9rxWrGDwW8-lwXYFRsuySE92AgjM9R70T3qt9HuF09mB0KEQ-Pv_ExokA.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-05-26T10:39:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
+      "views": 7840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-05-26T13:52:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,29 +50,11 @@
     },
     {
       "id": 0,
-      "message": "فقط با \u003cs\u003e۲۸ میلیون تومن\u003c/s\u003e ۲میلیون و ۸۰۰ تومن\u003cbr/\u003eتمام دوره‌های اسکیل کمپ دانشکار رو فقط با یک اشتراک داشته باش!\u003cbr/\u003e۹۰٪ تخفیف رو از اینجا دریافت کن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://dnkr.ir/k7Kq8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dnkr.ir/k7Kq8\u003c/a\u003e",
-      "date": "2026-05-26T16:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tXH4189G6neYSv9tL17kCvLcS8T0KTQTtSF5XSf8mdClOrGGAeLwZKln2fDbSsXsfEJ9knMUiUk2rFe-FoViZKy_Fm0ghsvVs7TTCKuMQg7MYrMIRQnfBqg8G7aHB7-nhD2hTHEu_uVs4FyhJfbNX1Mmc4nLhOGZoX1_5Oahc49kVfs5zI92q6xBB59k3qKhJJtcoa0d6c8_qnxCyEkJKwU-q_QoSAFbd4JUfNHbg5KX7vyCUUKqtUhA14RzDmUFua4zy-vP9TLlDmY65jj7aEUS61drHhG-rCXzYRY2wIpu1sJ8nSXCwWv_9BqzBcIsUkG03DVbTY3w4Bs2UrzSDQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "تلگرام توی این اپدیت اخیرش که UI رو به کلی تغییر داده یه اشتباه فاحشی کرده اونم اینه که آیکون های غیر ضروری رو آورده جلوی دست که اصلا به سود UX نیست، برای مثال آیکون Settings و یا Contacts اصلا چیزایی نیستن که همیشه استفاده بشن توی همون پنل همبرگری قبل خیلی جاش بهتر بود. دومین اشتباه فاحشش اینه که داک پایین اصلا نباید همزمان با تب بار (تغییر فولدر) وجود داشته باشه باید ادغام بشن وجود همزمانشون یعنی Double Navigation که اگه خودتون طراحید چاقو هم زیر گردنتون گذاشتن نباید همچین چیزی بسازید بسیار آزار دهندس! از نظر UX بهش می‌گن Cognitive Overload یا بار شناختی بیش از حد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-26T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +72,7 @@
       "date": "2026-05-26T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-05-26T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7980,
+      "views": 8140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-05-27T10:29:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-05-27T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +126,7 @@
       "date": "2026-05-27T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +144,7 @@
       "date": "2026-05-27T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
+      "views": 6910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +163,7 @@
       "date": "2026-05-27T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +175,7 @@
       "date": "2026-05-27T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +193,7 @@
       "date": "2026-05-27T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +211,7 @@
       "date": "2026-05-27T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +223,7 @@
       "date": "2026-05-27T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7740,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +242,7 @@
       "date": "2026-05-28T11:01:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +254,7 @@
       "date": "2026-05-28T11:20:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +272,7 @@
       "date": "2026-05-28T13:58:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +283,38 @@
           "url": "https://cdn4.telesco.pe/file/BCw3MWIpu_c-f7D51BhYrEPHHug4aS8kLHpRzMZ3LVfb_AfR_eEW7HYsazklDng9lr2jLLMUuLcnL-2f7yILo9GKfWGp-opOnaFDP3wri1wFpsrtNnFhW63fWdt1d2s3FIatzn0iH3Jz1GtQpVdWOsAI-NJIKWxb1aweIpwHRAlN7aMpbMfkYsroG1wFrIW6E6MhFawKNKTUEX0zKQAfJzvzMrc67RKF8OdxnQ1-lsf6odvvEW-zNHWPO3duXM4MMsEFhPZvGOeaCpqJk-9qQQgcpHyX68CxwiB6OQHX0Y2zob231LDFrLG_Yv2whgSEVXAflQn-V-10Xm7Isp0XFA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "عجب چیزی ساختن یه مدل تولید عکس نسبتا سبکه که مدل رو لوکال روی سیستم خودتون توی مرورگر ران میکنه و عکس رو تولید می‌کنه :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/webml-community/bonsai-image-webgpu?v2\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/webml-community/bonsai-image-webgpu?v2\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-29T09:15:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fcVgXoqo5tA2NRiGOmiIAfL1NaDNch8rTfHPnga3iCn5YpEmZLF5LkAYgzQlsxYOKAaszKJbnpuIDmdgEquF0sm1aZzbLjlZrqpF5S2GA8sE93_jfrjEWdrTwr3dF1ggZ_NdM11eD7dHRJB583attjN5nLZ83Fo0w3z7R7OVMcrYA6yM3ZLut8TMqCEe_jhnm7fdWfPl412vMEM4O2LnbVPF6lAohxR4XAyikmyjoC-qXNS9zDGZqA-9VwPRt_-SEDNs5krs2UzS0znhlqVyL_uqJ2uldfWqVE94oR1PcwN72sbGM7st9IFK-cZIcVoyBoW3harh6azZvkMU0fkSng",
+          "width": 2722
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دانشگاه هلسینکی یه سری دوره درست کرده برای شروع یادگیری AI و رایگان منتشر کرده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://elementsofai.com/\" target=\"_blank\" rel=\"noopener\"\u003eelementsofai.com\u003c/a\u003e‎\u003cbr/\u003e\u003cbr/\u003eاگه حس می‌کنید نمی‌دونید از کجا شروع کنید یا از AI چطوری برای بالا بردن بازدهیتون در کار استفاده کنین خوبه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Mohammad Azadeh",
+      "date": "2026-05-29T09:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780036601
+  "last_updated": 1780051112
 }
