@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برای وصل شدن با اسنوفلیک باید اون یارو chaotic رو از قبل فعال کرده باشید بعدش این بسته رو نصب کنید اگر پارچ دارید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S snowflake-pt-client-git\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eکاربراتور هم توی مخزن پارچ هست نسخه پچ شده‌اش، بعد از نصب ادرس باینری pt client رو می‌دید بهش و می‌زنید تا وصل بشه، حدود ۲-۳ دقیقه‌ای زمان می‌بره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-26T18:42:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 952,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "انگار Defyx هم روی سامانتل وصل میشه الان.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-26T18:51:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KmKv1gPCUsehRP_in_3-6Vba_sxFWoVjL-ME-p5WPbgcc3WBxolYX2p6ZpRIyXbJ1GOZAkbnv0mHRWkzoVos0AZ-CRU8anUEqxO9BtwJgpl9UaI9QJmVJ3xXPfRl6vjkWA0hpgDUgA7rlhPBmvAj4dpY0x7xOo3X0GOxYiAr_YHtZ45utpdEcCZYUhI-tnZsssVhr6aWYxKm163003e9tissg_l56H_uCY8UdoYFu7NlW5fLepyiNovTDAaRTGTEQpWBfaXCGtDVvkHwMfxXLO7FJzoKe_Gzj_66jAgz3Ez5SlTj4cbQiQqvx4ruqUSqEGfapcgg8RTFuGW5TocRvA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "با درود خدمت تمامی همراهان و کاربران توزیع پارچ\u003cbr/\u003e\u003cbr/\u003eبا افتخار اعلام می‌کنیم که «\u003ca href=\"https://t.me/Elteam_IR\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eالکترو تیم\u003c/a\u003e» از این پس به عنوان اسپانسر جدید پروژه پارچ لینوکس در کنار ما خواهد بود.\u003cbr/\u003e\u003cbr/\u003eهمچنین در راستای کاهش هزینه‌های توسعه، نگهداری و زیرساخت و ایجاد امکان برای مشارکت خارج از تیم در این پروژه؛ تیم پارچ تصمیم گرفته است که تا تاریخ \u003cb\u003e۲۵ خرداد ۱۴۰۵ \u003c/b\u003eتمامی مخازن سورس‌کد پروژه را به گیت‌هاب منتقل کند.\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eدر ادامه این تغییرات، برخی سرویس‌های جانبی از جمله Docs و Cheatsheet نیز پس از این تاریخ از دسترس خارج خواهند شد تا تمرکز پروژه بر توسعه هسته اصلی و زیرساخت‌های ضروری حفظ شود.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر پایان، از تیم نوبرکلاد بابت میزبانی و همراهی ارزشمندشان با پروژه پارچ در این مدت صمیمانه تشکر می‌کنیم و برای آن‌ها در مسیر و پروژه‌های آینده آرزوی موفقیت داریم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا احترام\u003cbr/\u003eتیم توسعه پارچ لینوکس\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-05-27T14:25:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "همچنین برای کمک به پروژه و ایجاد مخازن بیشتر؛ اسکریپت میرور کردن مخزن world در دسترس قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/infra\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/infra\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا استفاده از این اسکریپت می‌تونید مخزن world رو بر روی سرور خودتون میزبانی کنید و در نهایت برای ما لینک مخزن رو بفرستید تا در لیست مخازن پارچ اضافه بشه.\u003cbr/\u003e\u003cbr/\u003eبه‌زودی در مخزن بالا، اسکریپت میرور کردن isoها نیز قرار خواهد گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-05-27T14:25:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 786,
+      "views": 795,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-05-27T14:49:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 878,
+      "views": 885,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +42,7 @@
       "date": "2026-05-27T15:17:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 856,
+      "views": 864,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +54,7 @@
       "date": "2026-05-27T18:00:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 892,
+      "views": 912,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +66,7 @@
       "date": "2026-05-27T18:04:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 885,
+      "views": 901,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +84,7 @@
       "date": "2026-05-28T12:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 826,
+      "views": 858,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +96,7 @@
       "date": "2026-05-28T16:17:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 749,
+      "views": 779,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +108,7 @@
       "date": "2026-05-28T16:29:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 784,
+      "views": 823,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +120,7 @@
       "date": "2026-05-28T16:41:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 780,
+      "views": 812,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +132,7 @@
       "date": "2026-05-28T17:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 768,
+      "views": 808,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +144,7 @@
       "date": "2026-05-28T19:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 778,
+      "views": 829,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +162,7 @@
       "date": "2026-05-28T19:32:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 847,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +174,7 @@
       "date": "2026-05-28T19:43:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 780,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +192,7 @@
       "date": "2026-05-28T19:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 875,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +210,7 @@
       "date": "2026-05-29T09:40:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 562,
+      "views": 711,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +225,41 @@
           "url": "https://cdn4.telesco.pe/file/eYk9Rbxf5DMsttX6gYW6ZO2hrrQCQZ8nNY0dt_Jw2EjNN3E2loUy272jhZ-MHdwOy9W9DLSj8fIbkUjvfV9OahMR3Bd4B3JJFa5wg5H5WIooskwJm3oXEMpdCkHOTKkERAbyY25jVhG6Ui2lER1yf-xwmOCKgQgHRMh2gwq_5sIhPS0CqsA07TgcoM-U3Sn9crKepJGxE71EtZX4SgYBlpu4okx_UUeh_KVeJjDwgY73cfOCPvragWA1W8rGkAWYNcQcURf1MhxvLxUt2k1b5l6rSYkjP2AYEU-lUhGbbjxTDxW6MH6synx3zLqyF0SuYiW7xoxfOhH_UvlOldtsAg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اگر در جریان نیستید مایکروسافت و انویدیا می‌خوان توی تایوان دنیای جدیدی از هوش مصنوعی خلق کنن و انویدیا هم می‌خواد یک پردازنده جدید معرفی کنه که صد درصد انحصاری خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eانویدیا هیچ وقت نفهمید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-30T05:49:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 388,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/l1NGdtgNVbgrqJVfEgjHOKbgm1fpLYkhyfiIT8PUgOYAPwFJVPX1PCKiDMiXzzsGP_6halkt45YovEVejzz2I9d4d7aNreZ4-bYMrglmCCtclJ9uZjM1sN113z5eTjngoqO0fo8G5QLVXLdmL1NKPnzusK9dgxespc_vs_lnNFuv_3YjkVJWr1qNXOG8j3UMETjJ8ZcVVclxyc06q5QApwgW4Q4-mxKNjs0hyN7wrHgYY5nKFsCS8xDWSXSLTr04paA-n5Kej9y5v7sw01fNiB-7VJo17ToxHuvmEHzTgaQ_BWI6ZGHWE48dLWXYqiScoFc9W8Ff6uOL65lKNFYzEQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I9CVF35Luv7nHRlBUnI2UgPuFfmcspJ8kyNvN5vNbzFC71qBUhXg13JLZHKj2dTkWDbL9-HJ6gkMCIl1jlbdOPujrz3Rf2t3AhVj9vz40gbxcKR_58yf8R1tQkf1QCXJ3cbs_6e0TUCgmQufZ-Acj-MHXHyJH_Jh-kigZcRZVHyhwgok5P8mAyHIDwA7XqwWPdHWQSkjzKBiduHFehm4cZVkA69J_6SX9GgFfgSjGefDKXuUjaEYcOD8Mn5PY0vabyB-0J-MoIEc7lVWhaezMwRXRFic6clgvxI8avVhbaNxTKpgXMESGTkpPl3u1LsD62tbfNl6Mde9MT3O2KQizw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "A new era of PC\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e \u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-30T06:11:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 313,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1780117513
+  "last_updated": 1780128103
 }
