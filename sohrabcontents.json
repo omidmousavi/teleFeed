@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "همچنین برای کمک به پروژه و ایجاد مخازن بیشتر؛ اسکریپت میرور کردن مخزن world در دسترس قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/infra\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/infra\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا استفاده از این اسکریپت می‌تونید مخزن world رو بر روی سرور خودتون میزبانی کنید و در نهایت برای ما لینک مخزن رو بفرستید تا در لیست مخازن پارچ اضافه بشه.\u003cbr/\u003e\u003cbr/\u003eبه‌زودی در مخزن بالا، اسکریپت میرور کردن isoها نیز قرار خواهد گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-05-27T14:25:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "فروم پارچ هم الان از طراحی جدید پارچ پیروی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-27T14:49:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 885,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Bc7zjRgtKIDsEW2jSooI1rfVStO7G7HXHxqxz0VdZ9pF5PaFvoYGzKNvMd7tizaifnxJTueqYixOtCQS6iVqCakj_54Eyq_Aaoa43dQocg0HYX75EH413lwNkjIXfKwNwzBfhguq3vLAxBDkVF771WKW-_FM6RuI2UNKBYwrhtx2BF4uutHahAJNhzCJSKt8awTljIuiot5L-f-Yp-NLj_kURe2FFW8Hj5C0o46AvEfp4z0NH4D3np9LAH3N46aKoU4biMT7ZtCtfHQJaSXso3G29FwFS01hCv2cw5116wcbxXRsWohpOm5vMY8hPV3LhsoYo_xzvRVUC4NdBxCAqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "امروز نسخه ۰.۱ پارچ پایلوت، و یک به‌روزرسانی روی میرور منیجر پارچ میدم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپارچ پایلوت حکم نیکس دنیای پارچ رو داره در این حد بدونید برای هایپ کافیه و میرورمن هم بهش میرورچک رو اضافه می‌کنم که در قطعی‌های بعدی خودش بر اساس اینترنت کاربر مخازن وایت‌لیست رو پیدا کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-27T15:17:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 864,
+      "views": 869,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-05-27T18:00:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 919,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +36,7 @@
       "date": "2026-05-27T18:04:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 901,
+      "views": 907,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-05-28T12:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 858,
+      "views": 879,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-05-28T16:17:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 779,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-05-28T16:29:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 823,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-05-28T16:41:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 812,
+      "views": 825,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +102,7 @@
       "date": "2026-05-28T17:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
+      "views": 827,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +114,7 @@
       "date": "2026-05-28T19:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 847,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +132,7 @@
       "date": "2026-05-28T19:32:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 847,
+      "views": 870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +144,7 @@
       "date": "2026-05-28T19:43:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 873,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +162,7 @@
       "date": "2026-05-28T19:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 875,
+      "views": 905,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +180,7 @@
       "date": "2026-05-29T09:40:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 779,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,11 +188,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/flu6gOIn0hNVacUWsMEyFMfbxd8cK_Rzce1ZH8nJEoBmV--V2KvSt6z2IlXwWcsmDez4eq8zgLoPNwSvBT_lnqkZg37G2rQAg0-iAUtnTjQ5bmZHSlaU-V6Y6VyK20WkmGE4rnkCMCwXpD0aTakGeybkJrYrZbwvpa1C4FIugVWfyI7pyTYtr1aL7CIvy-FMYRq0CDYFpBqZF13D6yqa-NN7Jx1Eq4_p455U7WGDEZyJAfLrzqb7l51Snnb-vHk88KyFBzBl6frL4hyM9zBRUhGmEP7TIJrtnJrW9FXoFNsvWdOZQ4eiWRMRGYaYTThbwvAmD0GPVKBjJAu-sqySXA.jpg"
+          "url": "https://cdn4.telesco.pe/file/G24XTKXS45XCFx4zvb7msbfg92Mi2ip5vtsHRpaOADszQ6WJesoE3Bbyeok6S7JKj8MMxySI2KsMR4tNW5JaPTB3AaXPS5xkB1YsJklM4msQsIBVCAzUz3qldEtYc3Z3DLZRyMiNMiGQyS4DzupHUshJtL87G9qRGwFFp7DpAR0cCSKGb0WbLdA_v1brglwK1RcPJogz-qqAFVQQYJ0_CAZCIbVN8M2PgE4I4scY2BJeHYBLAQblAUcw14-KToEsr3r5RzNxcnHPo6mKOvdUDO1Wy8ZGI9Zu-qi5TlqME5xOyP7D4t0vWWsYZ0qLuq_8qdsvSz_S8c1CfVS3eXWLsA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eYk9Rbxf5DMsttX6gYW6ZO2hrrQCQZ8nNY0dt_Jw2EjNN3E2loUy272jhZ-MHdwOy9W9DLSj8fIbkUjvfV9OahMR3Bd4B3JJFa5wg5H5WIooskwJm3oXEMpdCkHOTKkERAbyY25jVhG6Ui2lER1yf-xwmOCKgQgHRMh2gwq_5sIhPS0CqsA07TgcoM-U3Sn9crKepJGxE71EtZX4SgYBlpu4okx_UUeh_KVeJjDwgY73cfOCPvragWA1W8rGkAWYNcQcURf1MhxvLxUt2k1b5l6rSYkjP2AYEU-lUhGbbjxTDxW6MH6synx3zLqyF0SuYiW7xoxfOhH_UvlOldtsAg.jpg"
+          "url": "https://cdn4.telesco.pe/file/cuPqXE6cQw6-nC5QlUD-pp5djSpOIS_8q7u1vQiZM5qmQzWXoR7u-hF6G1eAVbSzKWlrmP0JM1VBc_ZnKUDnRL55hCKpAGlw-ejeCMbkmFKW69zF1yDxN4R7ofvh3gBePtc7ggvVfEEn99DWp1PBwCxS1mJP4yIdKrWRbllEXhAQ1Q7yKCYvJJnnZN8hFfjhFdY0SJrcMDDHKiU0D_OH0GjqlCE5c-h9r9SsNUuMwmcGmq9YUSPrCX5yZoeXKtFpmzSFg7B9xAbZyWNMrxkEyO3KB5FHhlkor2CjLi5MS_IoLrHEBBvXRzjzHsXZCSl5uhBdJwaDtyYWQhmanPaZeg.jpg"
         }
       ]
     },
@@ -232,7 +202,7 @@
       "date": "2026-05-30T05:49:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 388,
+      "views": 556,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,12 +224,36 @@
       "date": "2026-05-30T06:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 313,
+      "views": 489,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "من داشتم مستندات کرنل و بخش شبکه لینوکس رو بالا و پایین می‌کردم تا ببینم چطور میشه پایداری و سرعت شبکه رو توی پارچ لینوکس بهتر کرد، که رسیدم به بحث مدیریت ترافیک TCP و سر از ویکی‌پدیا و صفحه «\u003ca href=\"https://en.wikipedia.org/wiki/TCP_congestion_control\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکنترل ازدحام در پروتکل قرارداد هدایت انتقال\u003c/a\u003e» در آوردم.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین ترجمه من نیست؛ پس اگر خواستید توی دلتون فحش بدید به نویسنده صفحه و فرهنگستان بدید :)))\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهسته لینوکس به طور پیش‌فرض هنوز از الگوریتم قدیمی CUBIC استفاده می‌کنه. CUBIC منطقش اینه که اون‌قدر پکت می‌فرسته تا بافر مودم پر بشه و پکت‌لاست رخ بده، بعد سرعت رو میاره پایین. این برای شبکه‌های کابلی قدیمی خوبه، اما روی وای‌فای و موبایل که پکت‌لاست تصادفی و نویز داریم، الکی سرعت کاربر رو نابود می‌کنه و پینگ رو می‌فرسته هوا.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر درموردش و فرمول ریاضیش:\u003cbr/\u003e\u003ca href=\"https://en.wikipedia.org/wiki/CUBIC_TCP\" target=\"_blank\" rel=\"noopener\"\u003ehttps://en.wikipedia.org/wiki/CUBIC_TCP\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاما گوگل سال‌ها پیش \u003ca href=\"https://research.google/pubs/bbr-congestion-based-congestion-control-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eBBR\u003c/a\u003e رو معرفی کرد که کلاً مدل‌سازی ریاضی می‌کنه و کاری به پکت‌لاست نداره؛ مستقیم پهنای باند واقعی مسیر رو می‌سنجه. اگر BBR رو در کنار زمان‌بند بسته‌های خود کرنل یعنی fq قرار بدیم، سرعت دانلود روی شبکه‌های ناپایدار خیلی بهتر میشه و موقع دانلود سنگین، مودم زیر بار فلج نمیشه.\u003cbr/\u003e\u003cbr/\u003eخب این عملاً خیلی کار رو راحت‌تر می‌کنه. احتمالاً به پیشفرض اعمال کردن این مورد روی پارچ فکر کنم. \u003cbr/\u003e\u003cbr/\u003eبه صورت پیشفرض هم روی کرنل آرچ که پارچ هم ازش استفاده می‌کنه؛ صرفاً reno و CUBIC لود شدن:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e$ sysctl net.ipv4.tcp_available_congestion_control\u003cbr/\u003enet.ipv4.tcp_available_congestion_control = reno cubic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبرای لود کردن BBR باید ماژولش رو لود کرد توی کرنل:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo modprobe tcp_bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو برای تست کردنش به صورت موقت، صرفاً کافیه این دو خط رو توی sysctl تنظیم کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo sysctl -w net.core.default_qdisc=fq\u003cbr/\u003esudo sysctl -w net.ipv4.tcp_congestion_control=bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eنتیجه‌ش رو توی پینگ زمان دانلود و پایداری وای‌فای می‌بینید.\u003cbr/\u003e\u003cbr/\u003eبعد از راه‌اندازی مجدد هم برمیگرده به دیفالت خودش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-30T09:12:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 297,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "یک نکته‌ای رو هم اضافه کنم که در تمام سناریوها بهبود ایجاد نمی‌کنه؛ صرفاً شاید یک بهبود سطحی ببینید در اتصالتون اون هم با تنظیمات دیگه‌ای که در کنارش اعمال می‌کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر هم نمی‌دونید دارید چیکار می‌کنید؛ به چیزی دست نزنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-05-30T09:13:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 271,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1780128103
+  "last_updated": 1780136525
 }
