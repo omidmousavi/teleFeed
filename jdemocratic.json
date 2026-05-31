@@ -66,7 +66,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OQUb29LGPYNBkyvxtMumkAvulzCRuEbFjuc8LSDWcNs-H8dOaKl7_i8l6GvtQNBAgnlXfb3mFiworTB55Z9wtyZBDNiTBwYozRn6HMRLKEMcUMD4R5TRYsnOCu_Fr2cCzH_rcEVO3ZmL-Bn3-atMIV-fXjDPmwIY7YASy0Ej8xaJ7hP0J1Et1MasVZoZsLTq0w3gRjffZOTrkI4jMjwcQaqKMmxZV_cCyqCWuWCNu49_5zipVCDAkeL4D7-Lzt8xRlvnW6sdhF_gE5122_niQjyqC5a3GyCBU0v8OAAUMxVnRsOpQl0JvOLk-YQ-wocDJR98VuKyg657vNjOOacmUg.jpg"
+          "url": "https://cdn4.telesco.pe/file/oLsHBdT3iAUtlKtfNOpdieF2Db4zpCOL58C-I4Wl63P6Wb7I55pjVXosghuYsIYac9tdu9e2ZDjB_ZD1XXSffFPJ4hmCWzA2oHhhbIOdeELJ1wYBbUsSErCo_qKhF5j0gH4EszEuJppAa0tSa0bMAgcJRzT9Ok0mNxiaTuzvfte8lqo-lS8RWqSbXJbdSZuxSJ_kNkk9s1itilhZ2nbF7r4h3189KNozQKG9Drhih9HIoGG1wpRiJBBTU0YSMn3JsfjD1qtSSoi2K4u0HVMoUYf2AEegz2-8Hg4Ng3YtRAoiLurBfT5_5u0j3ObtKbDGVs_yuQf9PKsbaa6eO5tGbQ.jpg"
         }
       ]
     },
@@ -160,7 +160,7 @@
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/T4PNltqUgKqqPeh6kp2Ex3YDrN6EDLRtn96QxjtqJF4dnkH0pReRzdJYAWeSgEh6I5Ud8Ns-fOha6nAJQwdGM2uteS8SaEM8FyAfTYuj5WUHAo-3lrKp_zgPqo9pdYGsWc3LpYq-rmvMIVr0F0OvQnySyuNzlzJKpEcLlRAAh10aN1rOYCRyis-h7qMU3rxJh0s1ceAP6qjik__rkNBYYyJXiIycH1HMY2EkTW9oc5dLuIGMc3sVbkhfJkxiWNsT2O0sxTZidEZP5W3aTJi906n-RmmgQsRmWdqGakW5kyI-k541DczibIxfYjRIVdjqp0FJx7FgcpnILInmPbtk1w"
+          "url": "https://cdn4.telesco.pe/file/vBHQO7afxDXqDYA9CnPZBaTa-jzhjU-z7_q2GpKyLCCQTSsEOhy6oz1b6-0bWr61rNiDhmV7gjhD5uxx5-hFFL2RhuzbsF9lpNn3Zz_jYSlDGbYhEmlcjfGxut9Nj-bbvHUjKbB7TzIA7Tv5RKcdzafFd_wXm3D908sXf4jOi1AB6NdUSkvpDBITebNiiXtPxWODEjQVLwgr1LbT2NPO-Cn6tjt4QfH1GtMApAFvmG6AKshDRPOq8-BibHwlfU9UcWOwR5nqsxGuHVp8l21cf7daIg9k3jjP9VGrYDeevltyEBzKa3wx0oj4bB3ZLacMFfaOwqJ0QaA_VPDfhMTbcQ"
         }
       ]
     },
@@ -238,5 +238,5 @@
       ]
     }
   ],
-  "last_updated": 1780246615
+  "last_updated": 1780250181
 }
