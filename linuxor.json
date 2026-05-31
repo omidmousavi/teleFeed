@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دوستان اگر تازه کارید و گیتون بخاطر مشکلات اینترنت نمیتونه به  گیتهاب وصل شه این دستور رو تست کنید\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003egit config --global url.\u0026#34;git@github.com:\u0026#34;.insteadOf \u0026#34;https://github.com/\u0026#34;\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر پشیمون شدید خواستید برگردید به قبل این دستورو بزنید\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003egit config --global --unset url.\u0026#34;git@github.com:\u0026#34;.insteadOf \u0026#34;https://github.com/\u0026#34;\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-27T10:29:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این ابزارو نصب کنید 370 تا ابزار هک و امنیت براتون نصب میکنه :)\u003cbr/\u003e\u003cbr/\u003eالبته هک توی دنیای واقعی اصلا اینطوری نیست یه چیزی نصب کنید توانایی خاصی بهتون بده معمولا اکثر هکر های معروف ابزار کار خودشون رو خودشون می‌نویسن و منتشرش هم نمی‌کنن این بیشتر جنبه تفریحی و یادگیری داره روی ماشین مجازی تستش کنید روی ترموکس اندروید هم می‌شه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/jackind424/onex\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jackind424/onex\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-27T17:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ewipnL9BriZ8oVj2GrKkvPaK5fsp1-EBzXB7-h8ccpTVpWNEKEBXNZ0lMYdjIMHx2eRpSpeI9XQyUsRw2OwHnaDR6NxGp9EnbWMgP38Z1r2Y8qML5g6Ao9jCybmYHlfyUVjE459K-vGbac7CKw9TjOBWEDljVELP3zeJ5nS7YkncETioB5bLy1tPfywSRTlR5UdnjhO3r5cptUmn1rI8F_QRqFOGA0OMmpRwli4zRfcM7u1Ns3bnMwVo9hrz8mdI8oWgsrLX-jBXbg5g65EGWA4RgNxelsczneIFlB3EkmgJl-0jcykKEAQYuZxpOuaiqL1QdTEKJ5QkQhe9nayxYA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "مدیر عامل NVIDIA هوس ذرت می‌کنه ولی صفش شلوغه و با پیشنهاد بی شرمانه و بامزه میگه من پول همه رو حساب میکنم بزارید اول من بردارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-27T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9220,
+      "views": 9410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-05-27T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 9360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-05-27T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8980,
+      "views": 9210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-05-27T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8730,
+      "views": 8870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +73,7 @@
       "date": "2026-05-27T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9510,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +92,7 @@
       "date": "2026-05-28T11:01:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9250,
+      "views": 9360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +104,7 @@
       "date": "2026-05-28T11:20:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9840,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "date": "2026-05-28T13:58:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 9150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +140,7 @@
       "date": "2026-05-29T09:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8280,
+      "views": 8370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +159,7 @@
       "date": "2026-05-29T09:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8710,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +171,7 @@
       "date": "2026-05-29T11:29:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +189,7 @@
       "date": "2026-05-30T10:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +208,7 @@
       "date": "2026-05-30T10:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +226,7 @@
       "date": "2026-05-31T08:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5020,
+      "views": 5710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +238,7 @@
       "date": "2026-05-31T10:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3220,
+      "views": 4190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +256,7 @@
       "date": "2026-05-31T10:20:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2920,
+      "views": 4010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +274,7 @@
       "date": "2026-05-31T10:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
+      "views": 3910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +286,7 @@
       "date": "2026-05-31T10:50:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1890,
+      "views": 3450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +297,43 @@
           "url": "https://cdn4.telesco.pe/file/KK_Sz7bVjYqt2Wzb5hRHV2hrqTHwlxz-7uDe6Reo3SGrxwhffq-Lhm5UCU6rRoPMiuFq0d9xayPdcMlpArBAGzhrkko8I-A87M2ub8cbqY8FiFaETKvgHqiXAn6hpDovCJNfdqkb0TgwhLuSIHT92mNWa99slKAk-YPSBYJstOj7SQLSgWMciLWk4V0z_B2cHpMRps7VwEba7nDjnIUvYuWC0F2YnBxcfEakhnJrXw336zF6Swculwj8HknugIU2CBGRNgwjtKH97V6f-eCWICUVbYUEON0O5vJMUy0SGPomSR87M794Dz_xVWhJV8AjJ5wV-0Ipe6hyCu7tswlA_Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003eاز اصول پایتون تا معماری‌های مدرن در جنگو\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e در دوره \u003cb\u003e«جامپ بک‌اند با جنگو»\u003c/b\u003e کوئرا کالج، از مفاهیم پایه تا ساخت API، احراز هویت، تست‌نویسی و پیاده‌سازی پروژه واقعی پیش می‌ری.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e به مدت محدود با \u003cb\u003e۴۰٪ تخفیف و قسطی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e گواهی معتبر کوئرا کالج\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e تمرین و پروژه محور\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e داوری خودکار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/boxjs\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/boxjs\u003c/a\u003e",
+      "date": "2026-05-31T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uZ-RaJ-QuA0ZsTIT5eZNfkVdDlVmR5G9QifZb24wwxjrTvLcbVMwUIcbS7So0e9X_Ah3sYhcCfiLjrLSOHO1UXvvySIr6pVvTUSpRvLtHD6ZrOVRwHd2_mWpHPpfj0gEatKjJS7tv24cUNkWSVU86ZwPXmLYynm2YbjeyI2ffDeQz8C5dhv2RsPW8YRZizc9GJ1J-3JAwa0idaTuzz4nOU0FQJDEzTwiNuukmnC2v6lm0QC1U1ZnS-KOw9AXWNkAjEmFc8f9baLd-Du_-j7f3JdzLTiBBF42vx4Pfel3Eq2JfSOXIMcsmBefnS2tpyfVNzJvO2RS1ghf_fDI4ZewHQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "آیا تاحالا سعی کرده‌اید بفهمید کامپایلرها و زبان‌های برنامه‌نویسی چطوری کار می‌کنن؟\u003cbr/\u003e\u003cbr/\u003eپس بیایید با هم یه کامپایلر بسازیم که از ابتدا از Resource تا Assembly رو پوشش بده \u003cbr/\u003e\u003cbr/\u003eاین کتاب به شما تئوری کامپایلر و برنامه‌نویسی اسمبلی کافی برای شروع رو آموزش می‌ده. این کتاب از زیرمجموعه‌ای از TypeScript استفاده می‌کنا که شبیه به شبه‌کد خونده می‌شه، از اینجا می‌تونید آنلاین بخونیدش گزینه دانلود نداره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents\" target=\"_blank\" rel=\"noopener\"\u003ekeleshev.com/compiling-to-assembly-from-scratch/#table-of-contents\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-31T12:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 977,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/s2HS_IzMDyxcqDo99EKeHFM1VEL0ObvyyPgph1t4kRpUBBdL2LLhYUdfCW7GnzX1xCX-ogkfWvCyyvop-yaxBmERa_aZDOfIUkZCH1EkNU9M15gaAAaW012eEnR6_liG1hZJ8FKoMOaARzLISCrVCnV9xk3QV6RmC5qD5eN2FvM26fY_t1oIVdAKsjcvsm-rnHRk2E8VBIQorKSgk5CKr-ENt7wdkNBdooCzPz3z5hVXLgbIPQ899c0WOGbZ4v-Aeerw0S4i7jdaMeztL43TW8UEoBnsk9RHJqzq77Yd2A9YAkBbG0E__YN5yZNJgYIukJx1SWRIpAqlsIGR6Rx9dg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780226863
+  "last_updated": 1780232163
 }
