@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مدیر عامل NVIDIA هوس ذرت می‌کنه ولی صفش شلوغه و با پیشنهاد بی شرمانه و بامزه میگه من پول همه رو حساب میکنم بزارید اول من بردارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-27T17:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mJZheqWD2qWFx8nTMH2gpBUi2ncp9LYRtQ22pbudXuuKvEedRvonqizULgXcE2aAtRpMAJTDVSjJn3bWQeQDYN9Opqw_ii3k7fY3oXW8g0k9gT6pduygUqXvXyR559f08wM_6QuuoSfBSeaAYZ8CfpY753BRrwTZlcgQkBEpd1p-V2brfSLmE96xivv1yhUngcJkHDnEOl6mPlXqr6nrZXtw2xkwYf1O4y_UhWCOg5S3YSvDbWn_0Tmqse_vgOSS5vG5j0YPf2jAO-IewuhnsPE1yM8B-Vag1_zUAYOBli4hKHm9JcSOQQ9pwVsjaAoIJSDvD_o8vwdke7h2-ibMFw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "انقدر نگید زبان C منسوخ می‌شه زبان C اصلا پتانسیل منسوخ شدن نداره، منسوخ شدن یعنی مثلا بیان سایت پایتون رو جمع کنن یا ریپازیتوری هاشو جمع کنن ولی زبان سی نه سایتی داره نه ریپازیتوری نه چیزی همینطوری داره دست به دست نسل به نسل جلو می‌ره؛ اینم یه منبع خوب برای یادگیری C اکثر آموزش هاش پروژه محوره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/7etsuo/project-based-tutorials-in-c\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/7etsuo/project-based-tutorials-in-c\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-27T18:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "من همیشه از بچگی آرزو داشتم یه چیز 3D بسازم ولی متاسفانه مغزم بیشتر از 2D نمی‌تونه خوب هندل کنه؛ این پروژه یه مجموعه‌ای از اسکیل و ابزارها برای عوامل هوش مصنوعی (AI Agents) مثلا Claude Code یا Codex هستش که بهتون اجازه می‌ده از طریق متن، مدل‌های سه بعدی CAD، ساختارهای رباتیک و قطعات سخت‌افزاری طراحی و تولید کنید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/earthtojake/text-to-cad\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/earthtojake/text-to-cad\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-27T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9210,
+      "views": 9390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +30,7 @@
       "date": "2026-05-27T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8870,
+      "views": 8940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +42,7 @@
       "date": "2026-05-27T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9640,
+      "views": 9800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +61,7 @@
       "date": "2026-05-28T11:01:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9360,
+      "views": 9490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +73,7 @@
       "date": "2026-05-28T11:20:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +91,7 @@
       "date": "2026-05-28T13:58:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9150,
+      "views": 9210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HsixEvl6EEF0jD3Dq7gI4EiUgJABWTKsCRcQ0EinQXE31WoHdMbNCARD389Wk9xfQccCd1EVmB4hjQ5E9WyvcK7kkZyviuGvmnGk85EyG0-hidT2RdFeZDiYOTX07KMif1tbh3HArfQ-qqpI6ZUbDEnL_lRr0_9-mwq2Yg6XIsiNtFGok0Nw-G2V1POCv31oOxBZJkByL2Fg9CBAg_ZUWIehMFfCuIGOPBfCfRKO8iJBSTGvcgh7WqUiEhKyODJN_2HLwKNxtrDEqCAN9ie9Z1iGFShop0MH_FKSZ6sUtyzT9GXo9nml5U4NyIGQxjNldPE8_Zei3RZZ5WBFsmJwPg.jpg"
+          "url": "https://cdn4.telesco.pe/file/BWzOPdmUeJQE0WTneXLMtByLCUJIXhbvzV_tec-2ZivOzbez72nRhaDOoZxhcDAurMxHVqYswnZO_rvLi-m_YQKEBN7pqFQE3Zv8bWaVyQH6amwmlMlUEFEdQ0fAIgE2FA-jRQOu3ajZQUfty6NzIqoA6lb1asjqjcXbet0CcWGhHH68tvzSvqmasbFvmdeKLH3huArUEnYpYkh1Mtou6hsKTKFQbmeyxl3RiN-zQJovsUJkO65SlfgyACWB6_6Uu6RkZm3XQvN7W6TrCWU-lwmayMGbh0xWvqSgorQxdv3tRuOLCnbR2XRy8FJuBsFNRmJQFnnyqBR6aTQs7Bh81A.jpg"
         }
       ]
     },
@@ -140,7 +109,7 @@
       "date": "2026-05-29T09:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8370,
+      "views": 8470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +128,7 @@
       "date": "2026-05-29T09:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8780,
+      "views": 8880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +140,7 @@
       "date": "2026-05-29T11:29:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +158,7 @@
       "date": "2026-05-30T10:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7440,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +177,7 @@
       "date": "2026-05-30T10:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +195,7 @@
       "date": "2026-05-31T08:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5710,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +207,7 @@
       "date": "2026-05-31T10:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4190,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +225,7 @@
       "date": "2026-05-31T10:20:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4010,
+      "views": 4690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +243,7 @@
       "date": "2026-05-31T10:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +255,7 @@
       "date": "2026-05-31T10:50:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3450,
+      "views": 4350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +273,7 @@
       "date": "2026-05-31T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +291,7 @@
       "date": "2026-05-31T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977,
+      "views": 3100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +302,37 @@
           "url": "https://cdn4.telesco.pe/file/s2HS_IzMDyxcqDo99EKeHFM1VEL0ObvyyPgph1t4kRpUBBdL2LLhYUdfCW7GnzX1xCX-ogkfWvCyyvop-yaxBmERa_aZDOfIUkZCH1EkNU9M15gaAAaW012eEnR6_liG1hZJ8FKoMOaARzLISCrVCnV9xk3QV6RmC5qD5eN2FvM26fY_t1oIVdAKsjcvsm-rnHRk2E8VBIQorKSgk5CKr-ENt7wdkNBdooCzPz3z5hVXLgbIPQ899c0WOGbZ4v-Aeerw0S4i7jdaMeztL43TW8UEoBnsk9RHJqzq77Yd2A9YAkBbG0E__YN5yZNJgYIukJx1SWRIpAqlsIGR6Rx9dg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من از مارکتینگ زیاد چیزی نمیدونم ولی مطمعنم هر جایی پول باشه قطعا یکی داره یکی رو معتاد میکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحتی مثلا این هوش مصنوعی هم پلنش برای پول دراوردن اینه اول معتادتون کنه دیگه خودتون تنهایی نتونید کد بزنید و بعدش دیگه نسخ یه نخ چت بات میشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-31T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "برنامه های ساخته شده با الکترون مثل VsCode و اسلک، سیگنال و... که حجمشون حدود 100 مگابایته اگه با Tauri ساخته می‌شدن حجمشون زیر 10 مگابایت می‌شد چون تائوری از مرورگر نیتیو سیستم عامل و زبان راست استفاده می‌کنه ولی الکترون از کرومیوم داخلی، مشکل این شرکتا با تائوری اینه که از زبان راست استفاده می‌کنه و فرانت کارا میانه خوبی باهاش ندارن (البته اون زمانی که اینا ساخته شدن اصلا تائوری نبود) ولی شما باید با تائوری آشنا بشید اگر بتونید زبان راست کد بزنید می‌تونید برنامه های فوق العاده کم حجمی همزمان برای اندروید، ای او اس، ویندوز، لینوکس و مک بسازین این یکی از منبع های خوب برای یادگیری تائوریه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tauri-apps/awesome-tauri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tauri-apps/awesome-tauri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-31T13:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CJ7q78KhcXLXHt2zWWv-FExyDU3CRNWfRLNcAMOY5XZrFZpsRPQDgMecVAYLTE-pCymRQUP7nfWhDHqZOa-vU-xlEJjUFWvgRcjSIp-_vSOmQiUu3cXMbo27dCjoZ9pVRaqBrfNdBuIF2qsbDKkRfc2NC-Bkh6qtpaGFZY4o9LG3zQ2X2eoKRR0Mh-WjnFYLEQslHQLhHOHbtfm7SZRdemRlVSsRcdyqFQ7eC5HyLCXDNRAb94hgZWqimkd8CXZO8ugmn3lq9QqrhqfNvQe6U1FneLHf4buagrq_U0nCZVAy1lRSjAbX1ko6SG49IxdL5pXW7DDthSRfK9od_BBxjg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780232163
+  "last_updated": 1780237579
 }
