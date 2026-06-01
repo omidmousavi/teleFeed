@@ -8,33 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این دوتا برنامه؛ پارچ ایزو رایتر و اتچر هردو از یک sdk استفاده می‌کنن برای رایت ایزو که etcher-sdk هستش.\u003cbr/\u003e\u003cbr/\u003eولی یکی با tauri نوشته شده و دیگری با الکترون؛ به حجم‌های برنامه دقت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفکر می‌کنم وقتشه که Tauri رو embrace کنیم :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-29T09:40:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M5cVAdwhQx7WisQ4w-QXiHgQpk_IkB970PweXK7b8kTjm778O2GwTUEGmSHBtd1EWAklcNfdDFBBVy8MMo_DORJjsx5__jrZ8ifSxTdq-r877uTGzpZsHxR6fexF0SVCxtDMhiIacxayXmbrKql4oybk1RktGhvAH06F5kR-pAEK--1RlHl9hDHoqjzCGh7WAQfPm4hdI4JlAt3PyO_PVznipmPoCyrVZexVigx4hcxpCaPlUujUeXmXTiZSxOHhJb7tKVKXv1Ge_Gny7QU5HejOamtDRHiwQmE_9KlSSWOTz2T0tkhA3v3H_0TB3MAqcvFoD4ZTi5-LWI3fptb10g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ene15ctsadKFcYpEdN1oS_q1SzFZgbAEVC9V6WLmK-_YXDaApGr0TfulBP4D1m7xNu2rD0n7ohqXW1-Mx7yXSALZV74kx6Fx3dXkE6sgFDJrz0Pq5jXpb_2LiuSLp3cwcN1NrC38HLXrZ9BSQMVeBD47zEXVUx26EiHRoPNhpMNbc4k-GLxYjI5RlBnbvKEZC5tibJKfQELFDH0xdnufWvPJ9ISYRFNWGX3CmktRzpumaeQlqp5eCa2Rxyb1lfb9WIFHshbH5WaRoBldq8wRmPUKs8NcaSR95IkLaDvocPv1_EMWNb5CodvV9hfR33OyVsaWHUv7m0yODfEZah_ZPA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگر در جریان نیستید مایکروسافت و انویدیا می‌خوان توی تایوان دنیای جدیدی از هوش مصنوعی خلق کنن و انویدیا هم می‌خواد یک پردازنده جدید معرفی کنه که صد درصد انحصاری خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eانویدیا هیچ وقت نفهمید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-30T05:49:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +34,7 @@
       "date": "2026-05-30T06:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 957,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +46,7 @@
       "date": "2026-05-30T09:12:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +58,7 @@
       "date": "2026-05-30T09:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
+      "views": 997,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +70,7 @@
       "date": "2026-05-30T14:55:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +82,7 @@
       "date": "2026-05-30T16:01:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +94,7 @@
       "date": "2026-05-30T18:34:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +106,7 @@
       "date": "2026-05-31T11:59:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +118,7 @@
       "date": "2026-05-31T16:53:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 640,
+      "views": 665,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +130,7 @@
       "date": "2026-05-31T19:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +138,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UiPZNDU7Q7ctRCstpa2iBIxvxxnU4kLCvaQOkKpcXtNEvXFzRzDzW5GHj2DYqHHqFixaBeD_q0AvldLf5zoktquZW1jQZdNv9CotfR7R7bsXbzuf-JIb8hov5xiRDQqJJI4O7UbzaU3KZGAtC3UANBAfBUHj89rF67Hx07K-sSGyPAt7JNGgbxY9F8XSMjr06sbZqqJCjZHpRrl6nK758ct4LbmqBicx2_gxWF9tPn3ZbPWuke9y4s5T40kyPNmAuGDXOhxbuypWRaU1Pi7LIO4BROwyCYEAtP8AipEud708BNcJRxMfSk1uHkSAW1XeerwRqjRyIh16hw0I2JFlrg.jpg"
+          "url": "https://cdn4.telesco.pe/file/mKeb3R_7RZfaeP_hOjvC3E10gDCZJqQAJ15J7HMwgR0ioZRlYtX7aSgpe2Ky469qge95LjnDgVfhZOvZ7a6OkjBr-LUEIpuqXsgS1un5Sep_CcsacBldJby79WkDYx-Rla4Aj9Q44MgX8JIVguLLmi3g4AfksgEuq-5lmxngxh3qb3NzatuNdJT9cOEI4XB5evGIf4o1Gw0RXyFxlAPB8vf3Dmv-389aWY2CGmSZIoSxx8P1Szyd1GRPvcZdRRlJtzm5MdFAcQCZ_JtWi27Lc-pOVEc55EO50Za9RWOVyPmWP-WkC_JaZVxQiBhN7foKNdr7HynlzS7kJ7p52MrZyg.jpg"
         }
       ]
     },
@@ -170,7 +148,7 @@
       "date": "2026-06-01T07:02:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 898,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +160,7 @@
       "date": "2026-06-01T09:09:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +178,7 @@
       "date": "2026-06-01T09:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +190,7 @@
       "date": "2026-06-01T10:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 573,
+      "views": 735,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +202,7 @@
       "date": "2026-06-01T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 387,
+      "views": 631,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,12 +214,24 @@
       "date": "2026-06-01T15:08:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 210,
+      "views": 588,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "دوستان به نظر میاد که ملانت قراره به‌زودی دوباره به شبکه ملی اطلاعات تبدیل بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر دانلودی چیزی دارید انجام بدید :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-01T16:49:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 516,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1780328405
+  "last_updated": 1780344659
 }
