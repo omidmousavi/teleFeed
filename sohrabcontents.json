@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "من داشتم مستندات کرنل و بخش شبکه لینوکس رو بالا و پایین می‌کردم تا ببینم چطور میشه پایداری و سرعت شبکه رو توی پارچ لینوکس بهتر کرد، که رسیدم به بحث مدیریت ترافیک TCP و سر از ویکی‌پدیا و صفحه «\u003ca href=\"https://en.wikipedia.org/wiki/TCP_congestion_control\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکنترل ازدحام در پروتکل قرارداد هدایت انتقال\u003c/a\u003e» در آوردم.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین ترجمه من نیست؛ پس اگر خواستید توی دلتون فحش بدید به نویسنده صفحه و فرهنگستان بدید :)))\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهسته لینوکس به طور پیش‌فرض هنوز از الگوریتم قدیمی CUBIC استفاده می‌کنه. CUBIC منطقش اینه که اون‌قدر پکت می‌فرسته تا بافر مودم پر بشه و پکت‌لاست رخ بده، بعد سرعت رو میاره پایین. این برای شبکه‌های کابلی قدیمی خوبه، اما روی وای‌فای و موبایل که پکت‌لاست تصادفی و نویز داریم، الکی سرعت کاربر رو نابود می‌کنه و پینگ رو می‌فرسته هوا.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر درموردش و فرمول ریاضیش:\u003cbr/\u003e\u003ca href=\"https://en.wikipedia.org/wiki/CUBIC_TCP\" target=\"_blank\" rel=\"noopener\"\u003ehttps://en.wikipedia.org/wiki/CUBIC_TCP\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاما گوگل سال‌ها پیش \u003ca href=\"https://research.google/pubs/bbr-congestion-based-congestion-control-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eBBR\u003c/a\u003e رو معرفی کرد که کلاً مدل‌سازی ریاضی می‌کنه و کاری به پکت‌لاست نداره؛ مستقیم پهنای باند واقعی مسیر رو می‌سنجه. اگر BBR رو در کنار زمان‌بند بسته‌های خود کرنل یعنی fq قرار بدیم، سرعت دانلود روی شبکه‌های ناپایدار خیلی بهتر میشه و موقع دانلود سنگین، مودم زیر بار فلج نمیشه.\u003cbr/\u003e\u003cbr/\u003eخب این عملاً خیلی کار رو راحت‌تر می‌کنه. احتمالاً به پیشفرض اعمال کردن این مورد روی پارچ فکر کنم. \u003cbr/\u003e\u003cbr/\u003eبه صورت پیشفرض هم روی کرنل آرچ که پارچ هم ازش استفاده می‌کنه؛ صرفاً reno و CUBIC لود شدن:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e$ sysctl net.ipv4.tcp_available_congestion_control\u003cbr/\u003enet.ipv4.tcp_available_congestion_control = reno cubic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبرای لود کردن BBR باید ماژولش رو لود کرد توی کرنل:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo modprobe tcp_bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو برای تست کردنش به صورت موقت، صرفاً کافیه این دو خط رو توی sysctl تنظیم کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo sysctl -w net.core.default_qdisc=fq\u003cbr/\u003esudo sysctl -w net.ipv4.tcp_congestion_control=bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eنتیجه‌ش رو توی پینگ زمان دانلود و پایداری وای‌فای می‌بینید.\u003cbr/\u003e\u003cbr/\u003eبعد از راه‌اندازی مجدد هم برمیگرده به دیفالت خودش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-30T09:12:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "یک نکته‌ای رو هم اضافه کنم که در تمام سناریوها بهبود ایجاد نمی‌کنه؛ صرفاً شاید یک بهبود سطحی ببینید در اتصالتون اون هم با تنظیمات دیگه‌ای که در کنارش اعمال می‌کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر هم نمی‌دونید دارید چیکار می‌کنید؛ به چیزی دست نزنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-30T09:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-05-30T14:55:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-05-30T16:01:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-05-30T18:34:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-05-31T11:59:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 982,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-05-31T16:53:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-05-31T19:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rCpbZSQAiXhGHPBCSBoFtmtmnJCKStXe7udCE-7sbJPupPFgkqoK8xliQ9KOYqSqJzqM8lXyFMwLAydDVDy5fDdWHBPLzSSDS_Q3IIf4Wo9prfffNyABT3kdSnHbn1Uj0XXg5T9WDirZo_oNUhiQliXOmakYk0gNgxF0d7LgvTwYQDyRDnqWXXMA_VR4SG1dBbWbYHRhEJD-8AxgawhXNEP02poFZEwoG1waZY5HkbXlFtVuWDrp1idtmuD_qhvNatGAPV_LkoayIdAWVytnG46VsGRcnCNe8FHRpv_bH0mv3yNAdU2fOHa7VOru3YHbEtNOZyDgAsXrdStI_TnLaQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/j1asntsQFOXtzKUEktIiypTz6F73JGcnK_y-65oddyoQHfc80owDeG7S3bLJ33U5Q1ag9p06vGy97OQfVN_RuO13dqpiiBswO6imyI_UNLSjNRCcS_3wrKbkAo13SRtCtQckb1ueNnZXG-Tcp9hP4kNynPACwxyUqxkpb464VFclxMm7EMcTgYfLj4uZwyCcBLvN2r8z14adxYYsXMCyo7ii1tlxNJ2iXgluiicor4zQD3olzmkAE3o2WnXVVtFMc6hIGIrsBaZLnReihedKWjXq4AjktjxOzS7wbiZkh7LucUWKi7xHV490uU02vtuUOGE0fe97qthqP_QKcKP8QQ.jpg"
         }
       ]
     },
@@ -114,7 +102,7 @@
       "date": "2026-06-01T07:02:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +114,7 @@
       "date": "2026-06-01T09:09:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 974,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +132,7 @@
       "date": "2026-06-01T09:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-06-01T10:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 973,
+      "views": 989,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +156,7 @@
       "date": "2026-06-01T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-06-01T15:08:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-06-01T16:49:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-06-02T04:16:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 985,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +210,7 @@
       "date": "2026-06-02T16:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 884,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hV-VAACRj5nX2nUDYVfXhvp4RK2xl9Lsy_0m2JGghdxR53b6FDw-8Picq06EI0LnSZeOPLRDvwxIuMEkJ3m-GEvj3-guyH5UeRwop2UMimHgjBH2skbtdPc4QaU5fqiwCa44xPvwVbSt6sBQTEb0XfmCtOd4GakOg4L4f0R_PWR4utqRrCeoFVEAHgcH40XdKtlwv2J5k5wcaejaHsUfa3ovmL70KxIy6oFNVzxDqaXn8XKl28C-y_S1qysFwXtMF0e9qr5xtRk7HK1x0zqIIik-_VmFhAl6TxSQ712W6qbBWuPG28en16yKcfE2rVsik7KloP0zMZuoMgIgQSR3cw.jpg"
+          "url": "https://cdn4.telesco.pe/file/iaVpJ3FCKBD0dYXP7zpYXo2CXgvyrvV-1lV3E78F4Uonstd4YMKw32mh3k8TcJQuigWfSFau_triLRFcjQshNPK6BBB6IQq4XN-gcs9fLU3O4AmfEMIUGALuP1uwBZ2eV43GCnr4tAAL9cjse6ez18E47_QdhYS1W5zkiP35oUb1AZtdHgV75BQdAPENqzsPeMuAQyh7bEuL0JGMAEXVQ3I3XCxjGihGn2C_jnrhkPckcwN0jHQCLk7H_nyffA2MymrHD4bVG0eKQ1gnBEk5TiaGN0If0GfvKF6YNzdjlagJFlC_wKWajA34StmuJ0xwEAMQy0m9nKt8OD1xrcmp7g.jpg"
         }
       ]
     },
@@ -240,7 +228,7 @@
       "date": "2026-06-03T07:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 705,
+      "views": 907,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +239,19 @@
           "url": "https://cdn4.telesco.pe/file/MC7EV6z5bxTswMgk2f6S4STxwO5s9P1Xk6EsPZ1uplFH36R0CUNaiYBW0gNYpL0C1-e9-OWeYEa9qHjnaSUAMXKUEAFgNexqmyLtn6l9AiDXK45V06R6r0MSqgz9wRfhzOwWdBJVtGoS5NZ8IQwc0x04bYQ6RbNoZoo9VDMz034B5C9IkPUJ_KnMTRSraAiXtD5hqTYdkX50YLBjzgTRJcsX0szvVHUQx76urEkd2SGen8EblqjSTJ2uisqWcAJDCOaknphJ8xnOc5JwEsK69eA9TPozFQ90E73mW0QqidLHFZ6VR0lt1bbQYtuQHSw32Fc7PVSHii_Fj2vlxItWYw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "شاید در خواب شب هم نمی‌شد دید که مایکروسافت بیاد و برای ویندوز CoreUtils عرضه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/microsoft/coreutils\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/microsoft/coreutils\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو این برای شرکتی که یک مدت زیادی گنو و لینوکس رو سرطان می‌نامید یک جوریه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-03T18:13:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 306,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1780499548
+  "last_updated": 1780513499
 }
