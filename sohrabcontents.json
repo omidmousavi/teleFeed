@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "A new era of PC\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e \u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-30T06:11:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "من داشتم مستندات کرنل و بخش شبکه لینوکس رو بالا و پایین می‌کردم تا ببینم چطور میشه پایداری و سرعت شبکه رو توی پارچ لینوکس بهتر کرد، که رسیدم به بحث مدیریت ترافیک TCP و سر از ویکی‌پدیا و صفحه «\u003ca href=\"https://en.wikipedia.org/wiki/TCP_congestion_control\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکنترل ازدحام در پروتکل قرارداد هدایت انتقال\u003c/a\u003e» در آوردم.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین ترجمه من نیست؛ پس اگر خواستید توی دلتون فحش بدید به نویسنده صفحه و فرهنگستان بدید :)))\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهسته لینوکس به طور پیش‌فرض هنوز از الگوریتم قدیمی CUBIC استفاده می‌کنه. CUBIC منطقش اینه که اون‌قدر پکت می‌فرسته تا بافر مودم پر بشه و پکت‌لاست رخ بده، بعد سرعت رو میاره پایین. این برای شبکه‌های کابلی قدیمی خوبه، اما روی وای‌فای و موبایل که پکت‌لاست تصادفی و نویز داریم، الکی سرعت کاربر رو نابود می‌کنه و پینگ رو می‌فرسته هوا.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر درموردش و فرمول ریاضیش:\u003cbr/\u003e\u003ca href=\"https://en.wikipedia.org/wiki/CUBIC_TCP\" target=\"_blank\" rel=\"noopener\"\u003ehttps://en.wikipedia.org/wiki/CUBIC_TCP\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاما گوگل سال‌ها پیش \u003ca href=\"https://research.google/pubs/bbr-congestion-based-congestion-control-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eBBR\u003c/a\u003e رو معرفی کرد که کلاً مدل‌سازی ریاضی می‌کنه و کاری به پکت‌لاست نداره؛ مستقیم پهنای باند واقعی مسیر رو می‌سنجه. اگر BBR رو در کنار زمان‌بند بسته‌های خود کرنل یعنی fq قرار بدیم، سرعت دانلود روی شبکه‌های ناپایدار خیلی بهتر میشه و موقع دانلود سنگین، مودم زیر بار فلج نمیشه.\u003cbr/\u003e\u003cbr/\u003eخب این عملاً خیلی کار رو راحت‌تر می‌کنه. احتمالاً به پیشفرض اعمال کردن این مورد روی پارچ فکر کنم. \u003cbr/\u003e\u003cbr/\u003eبه صورت پیشفرض هم روی کرنل آرچ که پارچ هم ازش استفاده می‌کنه؛ صرفاً reno و CUBIC لود شدن:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e$ sysctl net.ipv4.tcp_available_congestion_control\u003cbr/\u003enet.ipv4.tcp_available_congestion_control = reno cubic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبرای لود کردن BBR باید ماژولش رو لود کرد توی کرنل:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo modprobe tcp_bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو برای تست کردنش به صورت موقت، صرفاً کافیه این دو خط رو توی sysctl تنظیم کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo sysctl -w net.core.default_qdisc=fq\u003cbr/\u003esudo sysctl -w net.ipv4.tcp_congestion_control=bbr\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eنتیجه‌ش رو توی پینگ زمان دانلود و پایداری وای‌فای می‌بینید.\u003cbr/\u003e\u003cbr/\u003eبعد از راه‌اندازی مجدد هم برمیگرده به دیفالت خودش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-05-30T09:12:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 1540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-05-30T09:13:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-05-30T14:55:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-05-30T16:01:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-05-30T18:34:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-05-31T11:59:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 930,
+      "views": 951,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-05-31T16:53:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 725,
+      "views": 733,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +96,7 @@
       "date": "2026-05-31T19:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +114,7 @@
       "date": "2026-06-01T07:02:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +126,7 @@
       "date": "2026-06-01T09:09:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 935,
+      "views": 951,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bfZl_kKD1_QUqLiz3245-86hdfU1dYYo11Jb1fI03Sx2eY5uYZQxNuBgpfoYMQB8ip0pl8Tw3IuTa5weIS19GNUpAI_heR6WhIp0ThwqA7Tv66md_l-aAaERA6Y76hEOqqRzdN5IxqZAmY0eztL2rWACwFCurdexSlK88NKyvCYtDvcyWpDyFxQHuFNBp06jDMB6DPyUROT6qTFNWBlNHbDzv4JezzdB59yHfgqBOYaYIStR5Yn7TmTTbaMXCw6QMEzWkWaM7AchXKG4wPjRhzBJ-8HWUKav6OatrL4dMIcciVRs_0FSBCAaAmShibZHMVp1HCGQVrdSMRN3GIBe8Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZOYz93xpVDU8i4dxQ5wvfmAzZCkksWCIfUliMqVJXjcYDDz3yL4w5ffc7kzfKbl_r_6Db7r2Hlbc_Jn8sLT2vpzR-eTnWCoGcYAiuINHr6XYjK53RNjF6J2FzWs44Ck4Qh_sWK_Xb7--Cx7cFAjtNF0mHyGhyRQI6mf1eOY-U0abrRVa5CXX8UgYjOqfjoM2ugLXjqo3rABt2sEpiPEotq6lnXitP6L4R29xWAT0NewV8sY-LctRhVr525Y4SH4Z32Fkn5hgGTVoddzXg5dNesWYd_CN6zvbK5PmaKtka2sjYE-4Ws-ZbgCKKAzn6IpKTZvpRdaexp-oS9DoAvQHBQ.jpg"
         }
       ]
     },
@@ -156,7 +144,7 @@
       "date": "2026-06-01T09:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +156,7 @@
       "date": "2026-06-01T10:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 937,
+      "views": 967,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-06-01T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 999,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-06-01T15:08:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 981,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-06-01T16:49:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +204,7 @@
       "date": "2026-06-02T04:16:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 887,
+      "views": 965,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +222,7 @@
       "date": "2026-06-02T16:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 469,
+      "views": 787,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +233,25 @@
           "url": "https://cdn4.telesco.pe/file/hV-VAACRj5nX2nUDYVfXhvp4RK2xl9Lsy_0m2JGghdxR53b6FDw-8Picq06EI0LnSZeOPLRDvwxIuMEkJ3m-GEvj3-guyH5UeRwop2UMimHgjBH2skbtdPc4QaU5fqiwCa44xPvwVbSt6sBQTEb0XfmCtOd4GakOg4L4f0R_PWR4utqRrCeoFVEAHgcH40XdKtlwv2J5k5wcaejaHsUfa3ovmL70KxIy6oFNVzxDqaXn8XKl28C-y_S1qysFwXtMF0e9qr5xtRk7HK1x0zqIIik-_VmFhAl6TxSQ712W6qbBWuPG28en16yKcfE2rVsik7KloP0zMZuoMgIgQSR3cw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "توی این ویدئو یک پیاده‌سازی خیلی ساده از دستور \u0026#34;wc\u0026#34; رو با زبان Rust انجام دادیم و قدم‌به‌قدم بررسی کردیم که چطور میشه تعداد خطوط، کلمات و بایت‌های یک فایل رو محاسبه کرد.\u003cbr/\u003e\u003cbr/\u003eدر کنار پیاده‌سازی کد، درباره نحوه کار \u0026#34;wc\u0026#34;، تفاوت شمارش بایت و کاراکتر، و همینطور تفاوت ASCII و UTF-8 هم صحبت کردیم.\u003cbr/\u003e\u003cbr/\u003eلینک ویدئو:\u003cbr/\u003e\u003ca href=\"https://youtu.be/boSeilowUWo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/boSeilowUWo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک سورس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://gist.github.com/behdanisohrab/a7a94717d9d1888b61a12816cbca898f\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gist.github.com/behdanisohrab/a7a94717d9d1888b61a12816cbca898f\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر به برنامه‌نویسی سیستمی، ابزارهای یونیکسی، Rust، لینوکس و پیاده‌سازی ابزارهای پایه از صفر علاقه دارید، این ویدئو می‌تونه براتون جالب باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-03T07:06:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 554,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MC7EV6z5bxTswMgk2f6S4STxwO5s9P1Xk6EsPZ1uplFH36R0CUNaiYBW0gNYpL0C1-e9-OWeYEa9qHjnaSUAMXKUEAFgNexqmyLtn6l9AiDXK45V06R6r0MSqgz9wRfhzOwWdBJVtGoS5NZ8IQwc0x04bYQ6RbNoZoo9VDMz034B5C9IkPUJ_KnMTRSraAiXtD5hqTYdkX50YLBjzgTRJcsX0szvVHUQx76urEkd2SGen8EblqjSTJ2uisqWcAJDCOaknphJ8xnOc5JwEsK69eA9TPozFQ90E73mW0QqidLHFZ6VR0lt1bbQYtuQHSw32Fc7PVSHii_Fj2vlxItWYw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780464258
+  "last_updated": 1780481827
 }

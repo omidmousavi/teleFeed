@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "تلگرام: اگه مجبور بودم توی لینکدین دنبال کار بگردم، قطعاً خودمو می‌کشتم!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-28T13:58:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dEr1zdW7RuHaWTOjU-6Dp1SeCXnmEF-s1ul_fs002tKs8M1IACPgkIUlMvEV7pnNhwwgopVaaNchFRxximqsyna4Uz3BswhB609T7KowVWiUe-Glj_HlURkJZCODOHRsTZdHtF5VodbGV7tI0GjCgHpjQrzOGe9QXEh_5VI6pwx-25CVPi9odB83vorY9kjWvCR1XxRYZGzyYliWlv48E3kETqViYhDkY4Ug_o2-Qy9ho1n4wXCkDQphctYDAzQoI9iVMuhTl6AEy2N_clHWqgX9UkxY8H9AlOpEUHkEW_dN1OPX12-YugsZq7K6S0lxnDsDPtnF3Bmli9UhYaf3CQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "عجب چیزی ساختن یه مدل تولید عکس نسبتا سبکه که مدل رو لوکال روی سیستم خودتون توی مرورگر ران میکنه و عکس رو تولید می‌کنه :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/webml-community/bonsai-image-webgpu?v2\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/webml-community/bonsai-image-webgpu?v2\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-29T09:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9770,
+      "views": 9850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RR3A3LNKDWWcFOsteT0BKkzErDec4YBZbsu9oZ8y3tHmEtQL8fOWcFY9pdQ1LOOSuxuvFOgriYBgT2XFpGZDZwkuGWWfT4x2DNiZWI_JDW-K4ZLIG_F_pCs8eQB6eY-wJ5NBCld_pNvs-iMa5l1FA8MO97HHa2Gq8t1cGdxvycCa-Nuy6o7FYgERWKUghYV2hfvMcRRgriHLMa02oKIpLwdxTJ-yhAgXM8efxPEk26Y7z1KsXk8P7pxk6lxwjHB6iof1aNxTdH1uwkPo-Ew2d3eZvcUylX58VkW4OY2RBPFBF0YPIfDaYNziGyER0gZ6ynSYOcuvYlxZslymqECX0g",
+          "url": "https://cdn4.telesco.pe/file/DiXHqs5UclNcK6UJS3s9XRGnglDEhA3IhAg9kUMGJ924RSR3gT-C3dg20JAfdy4nKbJGhfwugh4mO_EeK3sfmDAmeKxHSLSjAiFc2oq08nqUy2SIKfH_dRoV9NcDsEPFSZlPYAQAWrv_NHRginAbGJ7nASNQkYXUdfNcXHb2MHL-dSHdq82wRe0Mid-efI9GJcDMPfDAHrarfWesxiE26G3F4-crqkE8x1cjvlgKhw_K00E3xJ3hEOV28xBqPLBCzEN4wgSz5xpLRNC6qjX3hEaN1FCTiIU4jAEyXPnxPzkKTGvhkFZeFZt5wN4heEeYFjLWGOBI3koY-QlZ_ot9tg",
           "width": 2722
         }
       ]
@@ -49,7 +31,7 @@
       "date": "2026-05-29T09:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "date": "2026-05-29T11:29:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-05-30T10:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9120,
+      "views": 9210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +69,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WhOrMDknXm3Y9ML5wQGquLY8C0YSDmAiLU77V7d060ccowmtmlt6anEQ-KtXGb94aVu9v2HEnJJoZaKyBi2nYcrujNM0FpznKHC_al1i6TrgcUvsxh8cBVA_qsGTVyxdRdW2LWdnm9Mx40LknnWzG643KwfYiYRriPakWZ1fl22WSLvmjte5iDcZ2YnvTx5M7_8fzUzJhWsP-5_IOtS7-W0dYJxKbQfOXD2OFER6FKjES8FTxHvLl9Qq4kgIQZyJUn0iLt7DZpVeaq6aODb_e5BKoA1u1MVmZXwdaNFVXJlBZIejiKU0d4CrmUCxxbMx3JEA0Gh5ZT2K9AKQ7-Pnxw",
+          "url": "https://cdn4.telesco.pe/file/bTZdzhQm1eD7MQVhbe0W0A7Ep2bFbi1-ZqADfn4qp9hzUz7uBSCPE-A2Nhz1lhNuAcbPnfZQR0BkpnH8SyoOkJ_CxyZhgIm8o1vlZnNC2M3DWGSni1zdaSpCQrxZ-szSMMMt6o-O0QgLAty2UXUQvNBXLoa17tPMBUZhNYLTG29Tlc6oiUzNg1vZQYKAfNmV-imIfUclLzHpTVwI9X0f64yK_DzPXY4-MNm3prG1zckHO5zuThwDwp5apTnVAfhRF4fJ_28VP99hrKl4hhXwckdarL03JJ2Fu_dy-4JeEE_1KsIKFm0JHIB3K52_KJbwmYcpWD6v10X8ECBVKg2Olw",
           "width": 720
         }
       ]
@@ -98,7 +80,7 @@
       "date": "2026-05-30T10:43:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9990,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +88,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r79fgfmVTbni0wZdWilyt6Bhx5TlVo_gJB6EKzM4X-2uVaIqmJbpBeQPUiR1bsI-Vl2sCj7ZzvgNcqLbJNTrG5CTJTmkenwhEUf-2WL4SpMpJxTdoXiqm_IncXtB-k5ssAtpJ2J-KbYbKt1RJF2npHjkRgW2Y9GFZdEICFFXTqzy76M0bjMimSWGi-H_S7MfSYCLZ3TCRKD_WGfy2vhZnBDdOM7FclILhY8cAQXovz7it_JXASgyLupztzhiRPxCX4CH6Xlvrdr685ZavNzGHfLcQbOmzsF--WemWgC_U5tqmjlYxhPeEdeUr8JJI0AwKUnjgFNu43AmRdMl7w_ltw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Oj7GAH8l6tA59Dox26UIgKjxNJEkiUB5Dn4IBU8rf7URMnFagAVf7jtTJh6wg_ABDI4eAm9M9sFDZ7_9Tc5CB8Ggj97uAufdK2Eg8cyb0s-z2IoeOVtCG0_rWdvgoSHhecn9-Lh9Qn-LwP5EE0VKg-KrdOoZZQXx6HtNAF1sX3fKyB3OpyYlaTO5s3eJKwhGxPim6KwKtn5o3zyDXfRjJZGIGpeAeM7qmIwAIUPrZkUbtaW_chtnkuoWeSOU02gojrIsixRnGXlysoe4yMftgOCjcnErjmRmnXkQM6w_e16o1b520H5E1hRs-PB3qaY492TanAV2vghjKKz541K4wQ.jpg"
         }
       ]
     },
@@ -116,7 +98,7 @@
       "date": "2026-05-31T08:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8400,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +110,7 @@
       "date": "2026-05-31T10:20:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +118,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aTzYniDIjLAUzjswWjTqhm3N0EMJPheVbZIX6JAJ-HodAY0SwR20mgTDilm8imGmfBljNhz5bD5CR2iWWpIPEay9ASzObZLVtCJgo4oAEFeGfxRLUEDgu3bFovUB-ZtEpE3edVY6cFf6mo-MDHUq-kKsaCQl0AnlwTVxxA860ygQifBpoBTznA5GvKcxYac3aVTBrgiDl6PAkZELxwi_pYnClOVNcTkxtPa8SSYC2uTu-yVB5JvtxgBg9N8P70Xcd6s-ebWUhXr1-vsornvmNt5Nj7AnfIrxOOyZkC8Gk_6ID6ZIMwQE-5AFmE2NnDcZuiv1ev_V9u4Ql91iZaSuwg.jpg"
+          "url": "https://cdn4.telesco.pe/file/fcrvPxL2YGnMfnfvnLUNnwi8lExLOBhlHoIjo2GgWMFxMSb-2PT-wFHdhIg9JIgcrYLT61yeYKKJ2GIxF4GDUTWABZqimTlcsWnBECpBi6xE6CFzKE2OhwlsykEVN1ULf1rq5Ogn3yWMumOrbJfPLWxlOK0fAo6KqBSiQ9ro3plrwdjSPd7PnvLRgK2AM_7RKN4KU9bOVSI_oJdFxqdpdhpaPnVaQZAe3S9eKfK4GbQA2qLCYTWfacBbsymNvnwiGu_2B6Iv4lgxVuzs3wKZfb8hGYlEbhxb3vsTan9oYY-kjtElVDhxOlFruYNISVGRyuNv38ZeeqMYtXmt6mhTgg.jpg"
         }
       ]
     },
@@ -146,7 +128,7 @@
       "date": "2026-05-31T10:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +140,7 @@
       "date": "2026-05-31T10:50:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +148,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CXH2tTXhVW517C4ofsWKyY4OR6TsUPkd6ZreKGncR_NLhBy-GGFQL_sZaec25lCwocEv4K62x040gz-TORJg0SoasVIvWLZ3mgNEOztT7vqMa7o3Jc3sM3PvBC7IGajMYMWr_q9cvPtW6ALYXpSCvHIc3cCf59Sq0BaXVIEqlWDZ5R12fGYVWaulsOKmNcoSPlf_GaLR7P8pDneRY0wEDZpZqsTIGopU-xvplU941czZL9J67gmtVR9Py_jU2ry457o5yP5BUx8CuJAkQIg3FiQWTqeeFxKnvpCFDEdqD8PURX0z3M0WJ-AZLqovgpNgXghZ9i6_4fCRLPB-yoofUw.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZyVHmKYs5C_WM8Ft4hZf-T1eHdzdnrfrXI2dVNEdbid82OOr7Hr8q9U2lvYSnxQQW0VWpnLFLqhH6_KQKbu1DQLgbbfcVYevnh7LueErAt-QnO40Iy1HQFvHjGcNldojvD_Gi26TVTHyrNUdG8R5MZTtGgKQUHhWJ-mOOYmttkNI3JI5WzNttw9-H8t_UM0mWa37jSPGMLaPR--qSra9LFR7c5vasUNppFgmZDGyifoJ0vPFe33XArhzagfaHp5IT71xOCw5_RL-1dysaY6dyFSvseOafvWqMM086Kxh2lkwoWN7ktumZ9C5VpnK3NUEqk4IRkCgfbLbEck7qCslhA.jpg"
         }
       ]
     },
@@ -176,7 +158,7 @@
       "date": "2026-05-31T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +176,7 @@
       "date": "2026-05-31T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 7420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +188,7 @@
       "date": "2026-05-31T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-06-01T13:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6640,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "date": "2026-06-01T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +236,7 @@
       "date": "2026-06-01T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +254,7 @@
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +266,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +284,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +302,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4400,
+      "views": 4920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +314,19 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "فکر کن جمعیت برنامه نویس ها یک صدم درصد جمعیت کره زمین هم نمی‌شه بعد هوش مصنوعی رو باز می‌کنی می‌گه : می‌تونم برات برنامه نویسی کنم! اگه ما خودخواه نیستیم پس کی خودخواهه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-03T10:15:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780464215
+  "last_updated": 1780481784
 }
