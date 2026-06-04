@@ -3,82 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/ZYYef5OmHiu_twg-6S_yNyb2bpIOgVFLqfzdYgr3hC4c3j5zlxEzOua6PnnBi817VS51Ubruk1vsRcYEHCFxlJoxFLpIwp-kc5QT4rzqEn49sk88_p8xm_omvFVUN4BUROHGq0biZ1sxWTqN2J9lhOGhBk0bzsS9U3lLhVS-CI9pFyennTL7Qkv-9ToX4zyo5wva3o4cBkXGP_Pv7R6n3p318elS7qBcDu9GeDrPFb_nj9lCcnTfIfry5nMZqrSy1RZiYuJXDk1MWQbjln0PE4DWD-8cIobaaSw4vCFZfA03_RnSj_etSBAE6IdaAjU4Z4K9MejtZl1J6aWwkzho3w.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/X-rlbLwbmaVBh5Ej2yh1eNuQxM9jjJnfFUoTXrOk16-NwoIyhGAjpJ8cnhsyDWxdodc_I2uG6E6LADvqKG7ENSm6sHOw6GnTDuDPIuCkLhBAfmeA_Q0P54gbJBwcdQ1T2aYZIyRp5uLEaq3_DKtFQ-UBfRazB7rpOxHTr7UMhfH0UmvTLfXQg0rgCHSJs8kn8vOa7oU7SN8K26yq_fGkneohhbL-InUtl-FBa5gIkK5o28MKFBa7c0kUk2IRlk_39pPTjW2SxBq2egDqEby8LbDdEMVbf8-qdxmc2UIoigw-K0pAywsb8aJBPvmlfgw520OUsDPZenC1_InCWKb4Sg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "کتاب حاشیه‌نویسی‌های ++C نوشته‌ی فرانک بی. بروکن، کتابی به‌روز در مورد ++C که بیش از 1100 صفحه داره و طیف گسترده‌ای از موضوعات رو پوشش می‌ده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://fbb-git.gitlab.io/cppannotations\" target=\"_blank\" rel=\"noopener\"\u003efbb-git.gitlab.io/cppannotations\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T10:20:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9440,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EdC4mGRADRVaHJ-QKiBbkpKKG1rYCU5JzjH8RAZUAz_iOrEF1FdKERLJOHYGSrkFpbsjg81iv4Voes7TlGHkYxCfCdJ5g_gehhz1d8e2mCpDsR3xxRg-DNwQEUk0qPJwf3LGa2tUo-A-9dJloyacmETUbhbt3xv7Q5h6tQWjwNSjVxqMEM20NjhVIyc29eLFEjt2n1o9d1wcQHg3Bb7m6ufZZg5CnjsyUHIWkgfFGgtWWNFEkkaxmCQgqWcToHQodOLCV7Mir1kbkSCt3VhnyqebZVJNjYXuJNVrYhx3y6O3I5KH6Pr6rfopb8IWjJR1F0Ed1OTHLLOT6Y5Gq1JpnA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "میدونستین بازی کانتر بازی جداگونه ای نبوده فقط یه مود برای بازی Half-Life بوره که دو تا برنامه نویس ساخته بودنش بعد Valve دید استقبال زیاده اون برنامه نویس هارو استخدام کرد بازی جداگونش هم داد بیرون، اگه یادتون باشه وقتی کانتر هم نصب میکردید کنارش Half-Life نصب می‌شد، حالا جالبه بدونید Steam که یکی از غول های گیمینگ شده علت معروف شدنش همین کانتر بود که دو نفر کشکی ساختنش\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T10:35:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "یه ایده برای پولسازی بی نهایت!\u003cbr/\u003e\u003cbr/\u003eیه بازی بسازید که بی نهایت مرحله داره! یه سری بازی هست بی نهایت مرحله داره مثل این بازی و مراحلش با الگوریتم ساخته می‌شن یوزر درگیرش بشه اصلا تمومش نمیتونه کنه که حذفش کنه و میتونید از تبلیغات پول در بیارید.\u003cbr/\u003e\u003cbr/\u003eالبته بازی نباید ساده باشه این بازی رو من بعد یه مدتی الگوریتم حل کردنش رو کشف کردم یه چیز پیچیده تر بسازید تا یوزر همیشه درگیرش باشه، خیلی خواهان داره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T10:50:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YfcWZnpfLbO70mXUx7H1iHLu7gLTIgak128Y2m392st6LvQNx9mLF6FKmaUJnohV211k9epadz8GVIWGSCTjSBhPYxgXzLqQ4yDVmyrOusgKIETIYewvv6H3aFBT-UVMbrahErPgkRYYRIE-z8OEbP7U8Y9ucRmrJGsWsiYHA7JZGy6yQAhUi24GWd9uQ4pl4b4rI7CGgM_4jsDM8TnSdkfSouCerLIGkNZ6TX5C3Rkp0FM5tp8t8saAhpg1yBSFmbFZSqB6A-X-PFF7d50M3TYIm0YljcUm4j9l5EtJmbaGyFj6qmf7UbllmTjnHcDPioBeJd8FBwjNKbtRbK8BQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آیا تاحالا سعی کرده‌اید بفهمید کامپایلرها و زبان‌های برنامه‌نویسی چطوری کار می‌کنن؟\u003cbr/\u003e\u003cbr/\u003eپس بیایید با هم یه کامپایلر بسازیم که از ابتدا از Resource تا Assembly رو پوشش بده \u003cbr/\u003e\u003cbr/\u003eاین کتاب به شما تئوری کامپایلر و برنامه‌نویسی اسمبلی کافی برای شروع رو آموزش می‌ده. این کتاب از زیرمجموعه‌ای از TypeScript استفاده می‌کنا که شبیه به شبه‌کد خونده می‌شه، از اینجا می‌تونید آنلاین بخونیدش گزینه دانلود نداره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents\" target=\"_blank\" rel=\"noopener\"\u003ekeleshev.com/compiling-to-assembly-from-scratch/#table-of-contents\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T12:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iC5RHcFHuLeGVS__3GbBUMVZtfo-k9veu9_HKcpUkp85o5t_BFZq0AhI48fTSiFpzrv0Mr3JCpANkjs_GQpeZh9pGS3ebMk8KZZFctfkJrEUftER2YSa0dTq6IEHczKPD3ITAGqgZQMRqInES5HoC4NfsuHx8WpJfs-BLaabFyH3MYGcWX15vWu9ha1GlxurER0b6gfuW2r-okQMcgtrvQNnTH1WgpW8kNLoDl8lVCEFnnTSZ3bIGtwzPeUShCrttbW783JReJQ9GfXftb1HiWg6nmTwrZNer2YPR80DKReoDWxgToi_x6eJOQHtBGhz1Ma1bXSwnkLgtTrdWhxmQg.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "من از مارکتینگ زیاد چیزی نمیدونم ولی مطمعنم هر جایی پول باشه قطعا یکی داره یکی رو معتاد میکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحتی مثلا این هوش مصنوعی هم پلنش برای پول دراوردن اینه اول معتادتون کنه دیگه خودتون تنهایی نتونید کد بزنید و بعدش دیگه نسخ یه نخ چت بات میشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-31T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8550,
+      "views": 8680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +24,7 @@
       "date": "2026-05-31T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +42,7 @@
       "date": "2026-06-01T13:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8180,
+      "views": 8410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +54,7 @@
       "date": "2026-06-01T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 7980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +72,7 @@
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
+      "views": 8610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +84,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 8180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +102,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +120,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8300,
+      "views": 8460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +139,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +151,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +163,7 @@
       "date": "2026-06-04T10:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +181,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +199,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +218,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5350,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,12 +236,72 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
+      "views": 5380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5229064374403998351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید اشتراک gemini pro تنها با 299 هزار تومان در پریم استور.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاقتصادی ترین گزینه حال حاضر \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6024053298951098659\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D94.png\u0026#39;)\"\u003e\u003cb\u003e❔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چرا پریم استور؟\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5017179932451668652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9596.png\u0026#39;)\"\u003e\u003cb\u003e🕖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتحویل سریع (زیر ۲۴ ساعت)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296369303661067030\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  بدون نیاز به اطلاعات و لاگین حساب شما\u003cbr/\u003eضمانت کامل 30 روز \u003cbr/\u003eعلاوه بر جمنای، اشتراک سرویس‌های زیر هم برای خرید موجود است:\u003cbr/\u003e\u003cbr/\u003e(Claude • Chatgpt plus, go, codex   • antigravity • Perplexity • Cursor • Leonardo • Gemini ultra •.....)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شروع خرید از طریق ربات :\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314391089514291948\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://premstore.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوب سایت\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5422439311196834318\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/premstore_ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکانال تلگرام\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/premstore_admin\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e ارتباط با پشتیبانی\u003c/a\u003e",
+      "date": "2026-06-04T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این پروژه توسط توسعه‌دهنده‌ای سرشناس به اسم Kiko Beats (برنامه‌نویس سابق شرکت Vercel) ساخته شده، یه ابزار ساده اما هوشمند برای بهینه‌سازی حجم فایل‌های پروژه هستش که با حذف کد های اضافی و آشغال، می‌تونه حجم خروجی (داکر، هروکو یا npm) رو تا 99.8% کم کنه؛ یعنی تبدیل 2 گیگ به 2 مگابایت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Kikobeats/untracked\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Kikobeats/untracked\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-04T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/X01SlPpHDfSGp7dy-x_k5D3uDJz1l6fXvwHhnaQHMbqDZ7WU9o9MqQqm-NP7BOTTTv1n399FQa5b-Mt1yC4_0LkZXKaYEoTx6EA44uDDm8ii4PxArGzqBJiIaF2erG2CN570-HXAb7QsTRVILEOHTRv5Xt0LhC95P7BB4kpaW0Mz0hZiBm96rUASSN9YHi5y72Vg2_4kt9wvGngY3xKJaQq5h57ECf0vsroaksYxvb1n0O5wIrgd4HbMM2_lo_iSvoyrgZCm9gyJbDU65O0dU7P0kATDpDx9P_kgOOxo0jgx0sm7JlRoZbQia83vK57ZWruyvYZ81SwYcNNZtvUg8Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خبر خوب برای پروژه هایی که از مدل های کوچیک و لوکال و اوپن استفاده می‌کنن! گوگل ورژن جدید بچه غول خودش Gemma 4 رو معرفی کرده جما در واقع بچه Gemini هستش و کلی از ویژگی های جمینی رو داره و سبک و اوپن هم هست، ورژن های قبلیش واقعا شاهکار بودن حالا توی این ورژن هم واقعا ترکونده.\u003cbr/\u003e\u003cbr/\u003eنکته قوت این ورژن اینه که مولتی مدیت هستش البته ورژن های قبلی به صورت ماژولی بودن ولی این ورژن کاملا Native هستش یعنی به راحتی می‌تونه همزمان که صحبت میکنه عکس و ویدیو هم بخونه\u003cbr/\u003e\u003cbr/\u003eنکته خوب بعدی اینه که محدودیت پنجره کانتکست رو دو برابر کردن و یعنی میتونه 256k توکن رو بخونه و قابلیت جذاب دیگش فانکشن کالینگ هستش که میشه باهاش Agent درست کرد.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست بسیار سبکه روی یه لپ تاپ با 3050 و رم 8 هم اجرا می‌شه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-04T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ApdjwfZZrH6imCWVDxBWKnW7QTMJnCaJ0zgD3LIhQEaovtkhLWTgNx5TxjxFbw5ATu6YqE0RHJAXQJxYUUB_Ats-YawBFEOb1qi7ZVqnrLFIuldO1q9SYNTC754gsEI-JFXP3Bb_mp85kqI8Ox6Y42-wTSlscBeRnaMaZe6c_FK3vf5C7WGvFxrjzgauyajXTPmDgxPTAK96pt8sGPNNoyfK5yd9jLHuPShHc7vP1k8KOhCYddJtXBKTYaEcK9WxEWqpbf_pbhfN2z2Tg4mLmTS71nljYPPfU8k_JuSSKHGrJnIYkfgiSa_A9SZQh9Nee0ro1ekuKY4tPHUo4mjAyg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خیلی از دوستان می‌گن با اینکه این همه ابزار برای کد زدن با هوش مصنوعی اومده ولی چون رایگان نیستن و پرداخت دلاری دارن نمیتونیم کد بزنیم\u003cbr/\u003e\u003cbr/\u003eمن یه پیشنهاد دارم الان که دسترسی به چت بات های رایگان مثل ChatGPT و Gemini دارید قطعا، بیاید این ابزار رو نصب کنید\u003cbr/\u003enpm install -g repomix\u003cbr/\u003e\u003cbr/\u003eبعد برید توی مسیر پروژتون (my-project) و یه فولدری که میخواید دربارش با هوش مصنوعی صحبت کنید رو پیدا کنید و دستور\u003cbr/\u003erepomix my-project\u003cbr/\u003eرو بزنید این یه فایل از روی کل فایل ها و فولدر های پروژتون میسازه کل اون فایل رو کپی کنید و توی چت هوش مصنوعی پیست کنید حالا راحت میتونید سوالتون رو بپرسید چون هوش مصنوعی ساختار کل پروژتون رو با اون متنی که براش فرستادید می‌فهمه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-04T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780596530
+  "last_updated": 1780605017
 }
