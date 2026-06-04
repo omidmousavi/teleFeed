@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ایران فکر کنم تنها جاییه که همچین اروری رو آدم توی زندگیش می‌بینه:\u003cbr/\u003e\u003cpre\u003eOpenSSL SSL_read: OpenSSL/3.6.2: error:0A000119:SSL routines::decryption failed or bad record mac, errno 0\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-05-30T18:34:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "ما درحال بازطراحی پارچ لینوکس با سیاست‌هایی جدید هستیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپارچ نکست، با نسخه‌های قدیمی‌تر پارچ شدیداً متفاوت خواهد بود، هم از نظر سیاست توسعه، هم از نظر اولویت‌ها و همینطور ساختار.\u003cbr/\u003e\u003cbr/\u003eبرای کمک به ما در تعیین اهداف و اولویت‌ها می‌تونید نظرسنجی که در آخر این پست به صورت پیوند قرار گرفته رو پر کنید.\u003cbr/\u003e\u003cbr/\u003eبا اشتراک‌گذاری لینک نظرسنجی به ما کمک فراوانی می‌کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاین نظرسنجی تا چهارشنبه ۱۳ام خردادماه ۱۴۰۵ ساعت ۲۴ باز هستش.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSev2ITIbVMy-1ITD9uoimoARz7xeQWP6hePzXcHlXuEp_kFQg/viewform?usp=dialog\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشرکت در نظرسنجی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-05-31T11:59:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-05-31T16:53:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-05-31T19:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1580,
+      "views": 1600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-06-01T07:02:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-06-01T09:09:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-06-01T09:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +96,7 @@
       "date": "2026-06-01T10:39:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-06-01T13:09:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-06-01T15:08:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +132,7 @@
       "date": "2026-06-01T16:49:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-06-02T04:16:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +162,7 @@
       "date": "2026-06-02T16:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iaVpJ3FCKBD0dYXP7zpYXo2CXgvyrvV-1lV3E78F4Uonstd4YMKw32mh3k8TcJQuigWfSFau_triLRFcjQshNPK6BBB6IQq4XN-gcs9fLU3O4AmfEMIUGALuP1uwBZ2eV43GCnr4tAAL9cjse6ez18E47_QdhYS1W5zkiP35oUb1AZtdHgV75BQdAPENqzsPeMuAQyh7bEuL0JGMAEXVQ3I3XCxjGihGn2C_jnrhkPckcwN0jHQCLk7H_nyffA2MymrHD4bVG0eKQ1gnBEk5TiaGN0If0GfvKF6YNzdjlagJFlC_wKWajA34StmuJ0xwEAMQy0m9nKt8OD1xrcmp7g.jpg"
+          "url": "https://cdn4.telesco.pe/file/iEFSkhhYwNJGOiJ329ZwT0l11nLmFLVDRsK4Posner4AZDcEUbDKrI_1tLBUehc5nwLTobtlnyGHamch3XFGeKIhSp6PyqRr7jv694mBO8yLvMEF-YyRmXBrPVVbF107sQSKlwWIy8NpFrHgF9FPdSh0e0cHDQGEXbjrQz7FAIf6hEdORKvSU2NJRcbTYF_sMizk3MEsN6Lf3KiqOPhqrqAV8CMpHsy82Tt8JvqSc3s9C78s_XeEGUCNyzYUTwETD4-LxObV_JGTM6qzI6RhKJAD6XOULRzwh4bXS4fyIMLgATkAKUDVLzpF9vBbtLhuM_YGVAnGV021qWle_aw90w.jpg"
         }
       ]
     },
@@ -192,7 +180,7 @@
       "date": "2026-06-03T07:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +198,7 @@
       "date": "2026-06-03T18:13:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 911,
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +210,7 @@
       "date": "2026-06-03T19:59:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 913,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,12 +222,48 @@
       "date": "2026-06-04T08:18:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 583,
+      "views": 729,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "اگر از میزکار کشور دوست و برادر چین (دیپین) استفاده می‌کنید، باید بهتون هشدار بدم که این میزکار دارای مشکلات امنیتی متعددیه و داره از توزیع‌های مختلف حذف میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپس اگر دپین دارید در اسرع وقت تعویض کنید که در آینده Deep-In رخ نده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-04T13:19:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 384,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EuOSRKxaFxYzJY5PYxYYJsVUN65lIWLIFfVuAPsQoTsHXOa8msJb2N5WpXvim3CqUofFXSzcKnOek82JtU1YarO14U6SfzumOEWKzJXImhAThdFWNDzSTruRk2q4N3DKveFScAY6HE7CnE9XUL_2mzy5PkY7rQgN7oDBxRo54Iu-TJsEYiUIguSBKkDAs78hIy3ilekUTRt-aExJkbIDnMSytKQrif14uy28oOaQa2FZVYh4gBYvYV836x3M9tcthRwUi9dip33QQnwvMdpe_WQXWUtDRG90nRGRmE8M-jpMyYqFNzZ9xWtgAXReAt3m-Inq2GxAMyYNxxMxbYm6aA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه ۰.۱ کرنل منیجر پارچ بر روی گیت‌هاب قرار گرفت و به زودی به مخزن world نیز اضافه می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای تست کردن این نسخه و گزارش مشکلات آن در قالب issue در گیت‌هاب و یا تاپیک در فروم پارچ، می‌توانید نسخه اولیه را از گیت‌هاب دریافت کرده و به صورت دستی بیلد و نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit clone https://github.com/parchlinux/pkm\u003cbr/\u003ecd pkm\u003cbr/\u003emakepkg -sic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین نسخه براساس مخازن شما؛ کرنل‌های موجود را پیدا و نمایش می‌دهد بنابراین ممکن است براساس فعال بودن یا نبودن مخزن chaotic یا archlinuxcn این لیست برای افراد متفاوت باشد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-06-04T13:32:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 282,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TioCYj_LtdbCStAeDazekDiEwLmXTfqdsqmgPz3p-ayVczDEqzRaQmCSoeSqJMwhSXhB00wXF8oHnmgRYCUG4SwzcA8IAktEfeOVXFpbXT5ZaF6rpqyEtPgiOjgCCwLRuTZOOWVA4TRToJjkPgjSKUnB93tkvRxhunHC5uCppYVGx0JfWQYX0bLGWHqXr2IZicuO02oJ5gpxcmtFRlLeYubSUETYpJmjUP_6dBTwEqJPDR6YnRwajiPFIN2BEkllBcAh5yhzP6bloMR1RRxIlweKhqOQy-uPz194ZcMfDA3bGqnXIvYe-9kCFhD7kzTZScmYJzcStX_wXSFbtMBRHQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780575966
+  "last_updated": 1780588507
 }

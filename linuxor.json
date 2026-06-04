@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این هوش مصنوعی Codex رو اگه خواستید رایگان استفاده کنید سعی نکنید از گزینه Sign In with Browser استفاده کنید چون ازتون شماره تلفن می‌خواد و تحریمه.\u003cbr/\u003e\u003cbr/\u003eوارد این صفحه بشید\u003cbr/\u003e\u003ca href=\"http://platform.openai.com/\" target=\"_blank\" rel=\"noopener\"\u003eplatform.openai.com\u003c/a\u003e\u003cbr/\u003eو یه API KEY بسازید بعد ابزار ترمینالیش یا اکستنشنش رو نصب کنید\u003cbr/\u003enpm install -g \u003ca href=\"https://t.me/openai\" target=\"_blank\"\u003e@openai\u003c/a\u003e/codex\u003cbr/\u003e\u003cbr/\u003eدر نهایت میتونید از اکانت رایگانش بدون تحریم و فیلتر استفاده کنید (برادرا زحمت کشیدن از مسیر آذربایجان ترافیک ایرانو عبور میدن) فقط حواستون باشه توکن های روزانتون توی پلن رایگانش محدوده برای کد های کوچیک خوبه و با دستور model/ هم می‌تونید بین مدل هاش سوییچ کنید اگه لیمیت خوردید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-30T10:43:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iif4BO73j4G9hrj-xOKjeO1O8bbvOv90f7XPzVSG3PTzoF_CZSl00ITXsS_I1BRqdP8ZJosXy3yT_FsI_lEtGC-aGXocSLrB_dZQrAj-pi69TXiD3RHP9LuLqhsJAd7Qb7mjXLS6Cx5mn0pYKyM-Twzflj-gS3UY3fWpVnbrGeT414XJK39R5Q7eP6TE_kzB7fPDWqK-qbju-3AAUXqj9xc3M6O2yBu6N_X5gkrQvvOb-e0UpGoTnbBBPm4p9FZz_Td9CwgVpId-5lCIAn0j3xB4tn8JG0Ai7mK1q6ek-syfSyTInxO8hv4OzdIGTm8nMSkOK8l-2L_wAXehJ8OOxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این دخترارو دیدید یه کانال 5 نفره دارن توش مثل journalctl تمام اتفاقات زندگیشون رو log می‌کنن؟ الان مد شده پسرا هم یه کانال 5 نفره می‌سازن و توش پایتون یاد می‌دن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e عاشق اون 5 نفرم لعنتی تو یعنی هیچ منبع دیگه ای برای یادگیری پایتون نداری!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T08:50:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "کتاب حاشیه‌نویسی‌های ++C نوشته‌ی فرانک بی. بروکن، کتابی به‌روز در مورد ++C که بیش از 1100 صفحه داره و طیف گسترده‌ای از موضوعات رو پوشش می‌ده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://fbb-git.gitlab.io/cppannotations\" target=\"_blank\" rel=\"noopener\"\u003efbb-git.gitlab.io/cppannotations\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-31T10:20:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9000,
+      "views": 9320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-05-31T10:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 8960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-05-31T10:50:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8230,
+      "views": 8560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-05-31T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8370,
+      "views": 8730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-05-31T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8180,
+      "views": 8430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-05-31T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9080,
+      "views": 9950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +108,7 @@
       "date": "2026-06-01T13:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +120,7 @@
       "date": "2026-06-01T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +138,7 @@
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +150,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RL7A_MkQChDjPObKqmKo03fGRd2RCfzptQ6ScPVMYSBNPphqh7QwsbwwXSKapFFmdTqDbvn6D5ln3ZOkg45NAP09i9STWzmvXXoH0R9SGSoMSOF3iv6dVMCn91cyZGMO8L5Xzwr7yYe7T3YLhBV9kwyAfVkCYuXUpGPbU_AiTKeGCST1KeeHRpG0bfKQDv2sCLTaIwX6P669yPAtlbLtjBTgBpbvLQd3i4opFrc4TfGjVio4HRGN4Sw45x1vQzhJRG8r7ch7GxcWafk6mFx0cZoWk3NRLxIykYtSyS4RVAszTOnauF8QB-4pLuwIbK7YvurVRYsz-N7NnRpVb026DQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/NVpB5VtE6QnyKJN1ST9s-6PMJfIyBMZhnc0X5BuxG6i14B7CHMNw0ItKdJhND2Fc6NVfB4XbTfuThi-fkvMe1TeY7ym9Z2FM4eM9Y1d6uyvllvxv-MPnNppL0uNH5nPpR0TBNkCntYoKEjUWmDl_pg30PZ-0eNexfuewWBk3zXNbHyuzPMlr1SIYl8_hs2d4v2nlFChfBeWNlL5G-Krp53senpajSCvLUdnWJuxifStaXIf-qyQrfACWBVUhfjZSQErhMmutbYTosRGMLAsRG0FQOkmA3kZMk5xXuamg3Kb9BJWwMRpQgLck0Ci082F5vbmlErJ9fULb0NrYVCmq0w.jpg"
         }
       ]
     },
@@ -198,7 +168,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +176,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PjAcrN8QHLO2ogrUCGIPprawak7piIs9DNqMRLfygRxdody6jvXybnQcVRb4_Klh5P37Yaf7z2bejzoJ0ecVbbSrapfmX_tFCwbasPBmpgx0c3-B0SSJvEs0AmTH-wFe_clg326pHqKv16zcIcD3e8C_gqNPdk2kEOwTc0fWSELqZ0asC2u7CD2nRZNWSuLxeCNJ0-L6BIU4hmhCRXBC4S6QjRsb8w3UDltz8InvIx1cf34pmSoXrBAhdA_LkCqR4ZrzcGW3MPXCflXSGbM3wgr6VI-gRgrUmivlPBLkENjHjApO1UGiBTrjW2cbS5mmepF2HpfPSYU1aDyBrBnmow.jpg"
+          "url": "https://cdn4.telesco.pe/file/S40ekKTaGZvPiXeSIct0forTSwrZbkPhBcdey-gphUWhlh7Av9TQxSUPtpxHkiG3ilMiLa_ocE-KHbJS3Fqijt1gCprj4YJBx6Sfp6zgeBV7Ta0-117HwdnFI-fTL42htcn9Z9fF1HOFSSVxoIOwBeIUlsnFjs7v6_k65g8Qxc9o2JcgODIC0fJN8y-mfVx3hElDPWC1nZcMMNyH_elGSxWo2qIn3LuMooWU-Oc0ZUNaV8wzemA-paqLermqGnS7R9Ek8_nFUgFaf58kpthFxoyYDjnrXddSLC9SUDjbG5XCjtrgqPCHaV-em1XUJsBUaGqDFEFwZXCjBsm6kl2m1Q.jpg"
         }
       ]
     },
@@ -216,7 +186,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7900,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +205,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +217,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +229,7 @@
       "date": "2026-06-04T10:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3360,
+      "views": 4870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +247,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3120,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +265,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2820,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +284,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +295,19 @@
           "url": "https://cdn4.telesco.pe/file/uRNbYmTBtYJfhlkw4VkNn4tPAcQEIVhhtZZSqN9i4UF66r8GrrAk-1wgbUJnlHlfXD1sgi1T0zdEARVX-09GKvEGw-kJB8X-0fIPcpXjsXTsWBGcebY-sGGTyiatETzj5w3IseSBiY_R6kb4_iZEMjaeiqqDLjdtbqKsR_rEmXUdCEzurvxbblB7WlsxnW2D7ktLvaEwwWO7wvUU9olCwRZKYM7Vuv0TGKPCTLx8U3sgborxx0hH37biUMCiQOZFv_sgKYjVcvx5dQDYoySB4wzl1lEjCjSsRd4_17s81pYv6-AAdCxxtgwwgkXNBFem_0cCy1TbiSIfloqnUBdQSQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اخبار جدیدی منتشر شده که تحریم های کلاد و اسپاتیفای وگراک برداشته شده! دقت کنید هیچ تحریمی برداشته نشده فقط مسیر ترافیک از داخل ایران با دستکاری CDN عوض شده و بیشتر به آذربایجان تغییر می‌کنه که قبل ها هم دیدیم سایت ChatGPT هم اینطور تحریم هاش دور زده می‌شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-04T15:10:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780575926
+  "last_updated": 1780588467
 }
