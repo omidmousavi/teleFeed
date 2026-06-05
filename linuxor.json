@@ -8,11 +8,23 @@
   "posts": [
     {
       "id": 0,
+      "message": "من از مارکتینگ زیاد چیزی نمیدونم ولی مطمعنم هر جایی پول باشه قطعا یکی داره یکی رو معتاد میکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحتی مثلا این هوش مصنوعی هم پلنش برای پول دراوردن اینه اول معتادتون کنه دیگه خودتون تنهایی نتونید کد بزنید و بعدش دیگه نسخ یه نخ چت بات میشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-05-31T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
       "message": "برنامه های ساخته شده با الکترون مثل VsCode و اسلک، سیگنال و... که حجمشون حدود 100 مگابایته اگه با Tauri ساخته می‌شدن حجمشون زیر 10 مگابایت می‌شد چون تائوری از مرورگر نیتیو سیستم عامل و زبان راست استفاده می‌کنه ولی الکترون از کرومیوم داخلی، مشکل این شرکتا با تائوری اینه که از زبان راست استفاده می‌کنه و فرانت کارا میانه خوبی باهاش ندارن (البته اون زمانی که اینا ساخته شدن اصلا تائوری نبود) ولی شما باید با تائوری آشنا بشید اگر بتونید زبان راست کد بزنید می‌تونید برنامه های فوق العاده کم حجمی همزمان برای اندروید، ای او اس، ویندوز، لینوکس و مک بسازین این یکی از منبع های خوب برای یادگیری تائوریه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tauri-apps/awesome-tauri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tauri-apps/awesome-tauri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-31T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/G-JhVQUe5xe5pxnZylgngyUrCR6VOrEMWz9aPNGYwiqFgBFNC3L9R4HTed5w1h91mWY1bxcf9OHxrLkzkNf5MYqCH464OpEYEUtkO4dOnwnbpy0DEwInylFGOqV2ZxSxyhGFukkGzmUPQK2byzXAHK9GIFT1VOrbwyrEbq6pDZaz_jHhXLDqbsTad0UrjseUWrY6-8OgMJDHmEPJRQcylTP-q5TSITKQdQ6WIxu0DwryxtHQOICIUL_UURgh-grOssTbqCeYteq_U9QtBZ0RnU0vAax_HFIgM2XbNio7uZAM6KrqTCieTUYXSBVgiHMcQxZowl6rkEQzz9tsxVw3Ng.jpg"
+          "url": "https://cdn4.telesco.pe/file/DRm_eDp_zNmivN9bfTZAAMmlFPD0lHZhoksFc9aNn_mI2rwG0gLoq72LHiZD2MqNyg9oCP8_rzNWOgR7Q7RCS35AVBt2eaM_EiQO1HvyZLl_kcmONV8sHU-QvWXRE573yEuFjSDDT4vlaAQAS7JNDyDHm_aHuU4ELffRBYjkVT82uxRB7F0Ue7HJ42Gsr6B99yXEZ3eicmB4fwSM6IlmgnrQwg7TKfmI3liL_JAyD6xU4ISJ_Bx0yWYuc68tiz4a3w_M1QU3OWmuLA9lU3OLfrN46CyOfLkTrCmtktvlKDP1Un30EmkKVDxpcpD9HBFCOynUh1-DHg6MaFnszjl80Q.jpg"
         }
       ]
     },
@@ -30,7 +42,7 @@
       "date": "2026-06-01T13:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8650,
+      "views": 8710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +54,7 @@
       "date": "2026-06-01T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8220,
+      "views": 8300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +72,7 @@
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9060,
+      "views": 9160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +84,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8350,
+      "views": 8390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NVpB5VtE6QnyKJN1ST9s-6PMJfIyBMZhnc0X5BuxG6i14B7CHMNw0ItKdJhND2Fc6NVfB4XbTfuThi-fkvMe1TeY7ym9Z2FM4eM9Y1d6uyvllvxv-MPnNppL0uNH5nPpR0TBNkCntYoKEjUWmDl_pg30PZ-0eNexfuewWBk3zXNbHyuzPMlr1SIYl8_hs2d4v2nlFChfBeWNlL5G-Krp53senpajSCvLUdnWJuxifStaXIf-qyQrfACWBVUhfjZSQErhMmutbYTosRGMLAsRG0FQOkmA3kZMk5xXuamg3Kb9BJWwMRpQgLck0Ci082F5vbmlErJ9fULb0NrYVCmq0w.jpg"
+          "url": "https://cdn4.telesco.pe/file/BD-eCzZddjdpQ2nV1hgbiOpMDfKuwSsAhCYE5IW15QzxHlRqTqwFyy_nTbuH5A_OjUD8gqJ5Jogd5gSjj66SKh48cPOhm9Yu1vEN89L4if_xLfHW8nHbRoU_p1-BjeA3CNO0_i4sac7LK0C-5m6nwe0RxD0dCDeXXQQPug4d1RSoXHZMKE4cY668ahl_zbxB45xooRGr02_po3SSt-wAz5GoVuKdDbsgBcXQj2iduDyJA2cK5HUrQyX3b8GTPWeiztuWZ3HOSxxyhee8c7iCW9hwR1tn5cE7sSG3FLI8HETeuscBF6CquhM-LNpxdSuKyWpfQbDc8MlwqFXhJsjImg.jpg"
         }
       ]
     },
@@ -90,7 +102,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8230,
+      "views": 8270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S40ekKTaGZvPiXeSIct0forTSwrZbkPhBcdey-gphUWhlh7Av9TQxSUPtpxHkiG3ilMiLa_ocE-KHbJS3Fqijt1gCprj4YJBx6Sfp6zgeBV7Ta0-117HwdnFI-fTL42htcn9Z9fF1HOFSSVxoIOwBeIUlsnFjs7v6_k65g8Qxc9o2JcgODIC0fJN8y-mfVx3hElDPWC1nZcMMNyH_elGSxWo2qIn3LuMooWU-Oc0ZUNaV8wzemA-paqLermqGnS7R9Ek8_nFUgFaf58kpthFxoyYDjnrXddSLC9SUDjbG5XCjtrgqPCHaV-em1XUJsBUaGqDFEFwZXCjBsm6kl2m1Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/TsKo-d_m4L572Kt5eC0XqOf9-d4059_T4-9J3AP_WufL6uF7Of5YIl7gRVfZbK9V323tXt2mPGX40hRh8jsUpycBSbc-i1eMEtQsBaMw5VU8tRe2_UONWmMQ1Ao21yi3aZmqfAWlFOEdRoN4N6t8QP52w4Ry5M_7W7weOrh-pxCPn0xg--0_7MP9V5r4xdCsScxx7to97MzNYdZErKvqY2wXVNOPlrH3GWWUSuS_EmJIB0wxhkYkqXg4_1YVfRw-pEyrXjfhWKLosugCcqQBUn26zS8qRmtd_HLZcLZSZVuUkcG0cpZN99R9qRvMyNoH9nTbDHkHB6nsLQQeeidwXw.jpg"
         }
       ]
     },
@@ -108,7 +120,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8700,
+      "views": 8750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +139,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +151,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6790,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,29 +159,11 @@
     },
     {
       "id": 0,
-      "message": "رفقا بازی پاسور آوردم با رفیقاتون بازی کنین عشق کنین\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/PlayLabBot\" target=\"_blank\"\u003e@PlayLabBot\u003c/a\u003e",
-      "date": "2026-06-04T10:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ejfiuNb_4KYAJm64_QJh0Q3r8AQX7gXQ_65dvqfO8B-XGE4jm7S5GNHU24y8cqyRlds9CwOv3ycfj8G3GNxNmmNIz_n8Hbw5gRPGsyHWTyVx5LjyhMSH85hUZCyuqCmwR6XB2BIIBngGRniveEcj6Mc_esrdCdchP4iZrR9Tfou5JyWBydPxJikJT5eSyuRyxPQHw9JBk9REKPpLuNF5MnSMcFYEXRQIWet8NTlcE9xemQDqyT6Fu7CY-XrQukcnXmcoFPReFVyZj9UIGF45tiWqsXRnRDS5NtE6F8rWq3F5PJmBzbtvXjA-UF4G6U19YY9k0IZhLMatZxP8_ov19A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این کتابخونه پایتونی کلی ابزار خوب برای حوزه ترید و مالی در اختیارتون می‌ذاره\u003cbr/\u003e\u003cbr/\u003eیه پروژه جالب که با این کتابخانه می‌شه ساخت ، یه داشبورد خودکار تحلیل و بهینه‌سازی سبد ارزهای دیجیتال یا سهام هستش. توی این پروژه، شما ابتدا با ماژول get داده‌های تاریخی چند دارایی نوسانی (مثل بیت‌کوین، اتریوم، اپل و تسلا) رو به صورت زنده فراخوانی می‌کنید؛ بعدش با بخش to_returns بازدهی روزانه اونهارو محاسبه می‌کنید و با تابع calc_mean_var_weights بهینه‌ترین وزن تخصیص سرمایه برای هر دارایی رو به دست میارید تا بیشترین سود را با کمترین ریسک ممکن قفل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/pmorissette/ffn\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/pmorissette/ffn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +181,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +200,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +208,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uRNbYmTBtYJfhlkw4VkNn4tPAcQEIVhhtZZSqN9i4UF66r8GrrAk-1wgbUJnlHlfXD1sgi1T0zdEARVX-09GKvEGw-kJB8X-0fIPcpXjsXTsWBGcebY-sGGTyiatETzj5w3IseSBiY_R6kb4_iZEMjaeiqqDLjdtbqKsR_rEmXUdCEzurvxbblB7WlsxnW2D7ktLvaEwwWO7wvUU9olCwRZKYM7Vuv0TGKPCTLx8U3sgborxx0hH37biUMCiQOZFv_sgKYjVcvx5dQDYoySB4wzl1lEjCjSsRd4_17s81pYv6-AAdCxxtgwwgkXNBFem_0cCy1TbiSIfloqnUBdQSQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/B-UkucISgiTyMCS2bviDRD1btWDy8fjF-LtAuOq2nWThkIRtGPjNoG0DMJf2-NA6XnvO_hw7w9Mk52STDH6JcrEPipg7afdyp97xgv3PlhbO1dMRGWIgw14RX7Uwu6Zfm1vEIq9_ugHk7g6PwQr_c5ltXACLb-zW2W_AZoIFc4aCJnzDPd7IB8yrnr3xjvfTSOMhCXfLJ3GAYXxCbKDGabH9m7f-lHE52b93rplBKvi5_adcr0q6eZ9IX3ZNjWEbOwC-CvTKTGDYdCrvrEsW3yBjz6eSIOWE3oWNV42SGdFOLz6CII5ZF4Q_IatJbhsuRNKqKq8QA920xApiy6kYmQ.jpg"
         }
       ]
     },
@@ -224,7 +218,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +230,7 @@
       "date": "2026-06-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +242,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +260,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +278,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,12 +290,12 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
+      "views": 3910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780656061
+  "last_updated": 1780667293
 }
