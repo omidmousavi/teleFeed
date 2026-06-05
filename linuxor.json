@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "من از مارکتینگ زیاد چیزی نمیدونم ولی مطمعنم هر جایی پول باشه قطعا یکی داره یکی رو معتاد میکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحتی مثلا این هوش مصنوعی هم پلنش برای پول دراوردن اینه اول معتادتون کنه دیگه خودتون تنهایی نتونید کد بزنید و بعدش دیگه نسخ یه نخ چت بات میشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-05-31T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "برنامه های ساخته شده با الکترون مثل VsCode و اسلک، سیگنال و... که حجمشون حدود 100 مگابایته اگه با Tauri ساخته می‌شدن حجمشون زیر 10 مگابایت می‌شد چون تائوری از مرورگر نیتیو سیستم عامل و زبان راست استفاده می‌کنه ولی الکترون از کرومیوم داخلی، مشکل این شرکتا با تائوری اینه که از زبان راست استفاده می‌کنه و فرانت کارا میانه خوبی باهاش ندارن (البته اون زمانی که اینا ساخته شدن اصلا تائوری نبود) ولی شما باید با تائوری آشنا بشید اگر بتونید زبان راست کد بزنید می‌تونید برنامه های فوق العاده کم حجمی همزمان برای اندروید، ای او اس، ویندوز، لینوکس و مک بسازین این یکی از منبع های خوب برای یادگیری تائوریه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tauri-apps/awesome-tauri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tauri-apps/awesome-tauri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-05-31T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +30,7 @@
       "date": "2026-06-01T13:18:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8540,
+      "views": 8650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +42,7 @@
       "date": "2026-06-01T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8109,
+      "views": 8220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8880,
+      "views": 9060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 8230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
+      "views": 8700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +151,7 @@
       "date": "2026-06-04T10:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GpS3GFPa5CHE3igXrVljf_ElkAh_0QfQYB2wLElA6T2Y6CkRmgvK6U-jqsbwHeBuUyGNs96GzEAUuhjIuZazFx2Y3k3T6xMFCamtBOtrVS1WyHO3VMKQo-noQaVMJYl9hfCcBj3mz7JnVHXmKeqUsDP_YmFdFUcnXc46Z9c1k6unV76csZRdpLw4PX98hkSFRRuaLM6YiF0VkKRpUWLLHSp09MUqExlaF4tvUgAk43cW_ncvt1M9_gcHq1Hn6Xm0j0LdIpvxpbNDaoX0SicwD08yBQz6z-rsv5Oe2F0AcqXld2HHyQsH0PC3esXrOlpFZpjJK3_f8rXHYG7IAxLzdA.jpg"
+          "url": "https://cdn4.telesco.pe/file/ejfiuNb_4KYAJm64_QJh0Q3r8AQX7gXQ_65dvqfO8B-XGE4jm7S5GNHU24y8cqyRlds9CwOv3ycfj8G3GNxNmmNIz_n8Hbw5gRPGsyHWTyVx5LjyhMSH85hUZCyuqCmwR6XB2BIIBngGRniveEcj6Mc_esrdCdchP4iZrR9Tfou5JyWBydPxJikJT5eSyuRyxPQHw9JBk9REKPpLuNF5MnSMcFYEXRQIWet8NTlcE9xemQDqyT6Fu7CY-XrQukcnXmcoFPReFVyZj9UIGF45tiWqsXRnRDS5NtE6F8rWq3F5PJmBzbtvXjA-UF4G6U19YY9k0IZhLMatZxP8_ov19A.jpg"
         }
       ]
     },
@@ -181,7 +169,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UhCWJK1sxFLJoJKXFgI0xscNVRjXnS3q0rIxJO-8o0wdTQUVIZpJSK2lxhfAeh9YLtwJuTo0AHxOSSjRAc8StksSP3KCGgYocteNSmsymuawW87HYVH5hJ6fMUPX7FZaQ7rs6XNjoJ4ANkrCaljtY_MbIRQz7ckx0qQwLNvGCcRJdkjF3G33HV45yk4fKqYMHNjEIZSftzbeeb60d8MK9ezZoVU4It_jn8GQhO24r4FTF0_G6l31MN3MY_4gmlxmVOXc8SR7okhpbzIEMTNo4K3Jufc8lVh0Uu9Xo4AOmOIVEG6Zs9sODivTSoz2GybZGT0QYqvw_phK01eEJMzIRA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Zi7Pwwa0sA3xX8dffe88ydimog2FLpj6qURf6pTe7XPYgm1LUGAG5mJQ8-1dwVP0g_SdGqvmSHp7VVIZjKbzveOBscg5_1vSJFN70nrJLpMq25NbHsLxG0JZCpQqi9fq-GM3bFZqpiT_rcfIW1MnxLWNbCEEoXgEmvUHC4dIEwcrlNNC0oDk4II2kaxgnpLrphj-Lu25R6775esHwBFuH_moMKvaQqKGLrzr1tOXa1rmrdKz9aKKFmkZqBUoagUSnGPZMETivjH2ARMWVyQeA9Tp_0-yJF_mgeW6C3h3rjBwpFL4tspl6AQ1sYn9rH6CjfweEm8lCLCJKA-2AHv3QA.jpg"
         }
       ]
     },
@@ -199,7 +187,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +206,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 6760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +224,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +236,7 @@
       "date": "2026-06-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4680,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +248,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,11 +262,11 @@
     },
     {
       "id": 0,
-      "message": "خبر خوب برای پروژه هایی که از مدل های کوچیک و لوکال و اوپن استفاده می‌کنن! گوگل ورژن جدید بچه غول خودش Gemma 4 رو معرفی کرده جما در واقع بچه Gemini هستش و کلی از ویژگی های جمینی رو داره و سبک و اوپن هم هست، ورژن های قبلیش واقعا شاهکار بودن حالا توی این ورژن هم واقعا ترکونده.\u003cbr/\u003e\u003cbr/\u003eنکته قوت این ورژن اینه که مولتی مدیت هستش البته ورژن های قبلی به صورت ماژولی بودن ولی این ورژن کاملا Native هستش یعنی به راحتی می‌تونه همزمان که صحبت میکنه عکس و ویدیو هم بخونه\u003cbr/\u003e\u003cbr/\u003eنکته خوب بعدی اینه که محدودیت پنجره کانتکست رو دو برابر کردن و یعنی میتونه 256k توکن رو بخونه و قابلیت جذاب دیگش فانکشن کالینگ هستش که میشه باهاش Agent درست کرد.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست بسیار سبکه روی یه لپ تاپ با 3050 و رم 8 هم اجرا می‌شه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "message": "خبر خوب برای پروژه هایی که از مدل های کوچیک و لوکال و اوپن استفاده می‌کنن! گوگل ورژن جدید بچه غول خودش Gemma 4 رو معرفی کرده جما در واقع بچه Gemini هستش و کلی از ویژگی های جمینی رو داره و سبک و اوپن هم هست، ورژن های قبلیش واقعا شاهکار بودن حالا توی این ورژن هم واقعا ترکونده.\u003cbr/\u003e\u003cbr/\u003eنکته قوت این ورژن اینه که مولتی مدیا هستش البته ورژن های قبلی به صورت ماژولی بودن ولی این ورژن کاملا Native هستش یعنی به راحتی می‌تونه همزمان که صحبت میکنه عکس و ویدیو هم بخونه\u003cbr/\u003e\u003cbr/\u003eنکته خوب بعدی اینه که محدودیت پنجره کانتکست رو دو برابر کردن و یعنی میتونه 256k توکن رو بخونه و قابلیت جذاب دیگش فانکشن کالینگ هستش که میشه باهاش Agent درست کرد.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست بسیار سبکه روی یه لپ تاپ با 3050 و رم 8 هم اجرا می‌شه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4480,
+      "views": 5560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,12 +284,24 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
+      "views": 5510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم چرا به این مسئله کم توجهی می‌شه که یه مهندس کامپیوتر با یه کاغذ و خودکار درصورتی که وقت بی نهایت باشه می‌‌تونه قوی ترین شطرنج باز دنیا رو ببره! این اگه گودرت نیست پس چیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-05T09:23:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780642163
+  "last_updated": 1780656061
 }
