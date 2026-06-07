@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کتابای مهندسی نرم افزار شبیه این کتابای پولدار شدن و موفقیته، چیز بدی و اشتباهی نمی‌گنا ولی توی واقعیت نمیشه اجراش کرد. دنیای امروز دنیای بازی با trade-off هاست نه دانش های مکتوب و صریح و ثابت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-01T13:18:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "سیستم دیزاین موضوع بسیار گسترده‌ای هستش، حتی یه مهندس نرم‌افزار با سال‌ها سابقه کار توی یه شرکت برتر فناوری ممکنه توی طراحی سیستم چیزی بارش نباشه. \u003cbr/\u003e\u003cbr/\u003eاین مخزن بهتون یاد می‌ده که چطوری مصاحبه طراحی سیستم رو با رویکردی سیستماتیک توی مدت زمان کوتاهی انجام بدید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/checkcheckzz/system-design-interview\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/checkcheckzz/system-design-interview\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-01T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/StKFPd241--Dp921YrEM2WYbuBz9jqAL8bYcSlFdvxV8x6_BXjd2jhMBC-3FZM1qoIgtZOdCE4k7JevtLZ9i2hmwAwM-anYToF-Vmdg6rjbq0LV99-aI37o4UArADmJ2_HlQyu9hsDvbgEnA4CROVF4asWIO4o6lHfaTTnj48Q6y4BleSjriyHI70cbMGBGNqWQNJRNSr_yfMv9dFNq0JjgfVsOvKaRL7Z8-pnJxj2Zc3CRT_reGqGQ63ArR07eHZXODsnLSwJZP5gNlUHOqViBiaEFR7ERtOOzizkHoViRCFZK-cGgfIusUqUWSljkeBMS4FsyykFAwHNyBV4o-ZQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خیلیا می‌خوان کسب و کار آنلاینی چیزی راه بندازن از مالیات می‌ترسن، طبق تجربه ای که من دارم با هر نوع کسب و کار و اینتاکدی تا حدودا یک میلیارد تومن ورودی پول امن هستش (عدد ممکنه بسته به کسب و کارتون فرق کنه ولی همین حد رو در نظر بگیرید) و مالیات ها بخشیده می‌شه یعنی یه بازه امنی دارید برای شروع، بعدش هم یه سری قوانین ساده برای حساب کردنش وجود داره که همون موقع می‌تونید یاد بگیرید و اگه قصد اسکیل دادن کارتون رو نداشته باشید نیازی به اظهار نامه و کاغذ بازی نیست اخر هر سال فقط یه پولی پرداخت می‌کنید ولی اگه قصد گسترش دادن کارتون رو دارید دیگه اون موقع تبریک می‌گم کاغذ بازی مالیات از عهده شما خارجه و کار ساده ای نیست و باید با یه حسابدار و یا مشاور مالیاتی پاره وقت یا تمام وقت هماهنگ کنید (همون موقع یه فکری به حال این قضیه می‌کنید ولی برای شروع اصلا نیازی نیست بهش حتی فکرم کنید چون کسی باهاتون کاری نداره)\u003cbr/\u003e\u003cbr/\u003eفقط دقت کنید این صحبت های من برای زمانی هستش که شرکت ثبت نکردید و حقیقی دارید فعالیت می‌کنید اگه شرکت ثبت کنید قضیه متفاوت می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9690,
+      "views": 9760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 9210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OH9hAAZ6UdXmgz_dDz5P150O5MG68E4Kpp-Ikw6H4YESH0xO2WAecbyAsPocuViN4cXY86jOD_7b4coR94IOXM956DiWwNBt1m9o5i1FML1VBvEnv_Ca44UsRpKbzrmymq-9JGBzy4TfFY7r7D2pAtGle59gzpKqwKbbeN8ySyNBFCT2UwEaBbe8SHFe1Bg9TPrlz73jfGF6ShQE9X6Y_-EFRvnG-vxXNXx4Ypi1FxgK8cuvBbzVNKGxxNN2876xhuNhh_NrQhYkgJyGC7kO4lT6qCX_Uzj16pcNN5sgGCVWMybpqm2H5f6F71eUB2IDYEs7ZAaNYuxcZSMm32gwVw.jpg"
+          "url": "https://cdn4.telesco.pe/file/OFoOq7C2MtIfkUlu2F81-0vNVxqbM0gdIdSkJ79bmIODJPgkds8aPoBZULSRoQssoEZpAlIaiVlxK5in7e23FoBD-28tkm_daMGKkkleIYDc6rTkGxnH60a_l91-0-UK31ReBtVeiNMtdotZFPw09QMN0aE75pdjvxT-bHPsfTPet0OoTgQnYw5nBRUSjpyl4GGeYN-vZ1jjKSY4gkw6td7vHuX04tqOvf2pHLZAIi3nNPypXesx6xYIz7tfbpH0POkvUnG16BL-CslYTOOFwiyQwqy-8tUeozHQc_Cw3H0iLRVerTH4a612kg7i7vIhxAFGiPAxBGcIdZTlGNt_7w.jpg"
         }
       ]
     },
@@ -72,7 +42,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8880,
+      "views": 8960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-06-02T17:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +79,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9240,
+      "views": 9450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +91,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +103,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 8050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +121,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +140,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7740,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +158,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7750,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +170,7 @@
       "date": "2026-06-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +182,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +200,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8240,
+      "views": 8430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8620,
+      "views": 8840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +230,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +242,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,12 +254,48 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "برگردیم به سال 2019 روزی که GPT-2 اومد و مردم رو شگفت زده کرد! تازه اولین روزایی بود که ماشین داشت متن خود ساخته حرفه ای تولید می‌کرد.\u003cbr/\u003e\u003cbr/\u003eوقتی ازش می‌پرسیدی آسمان چرا آبیه می‌گفت: \u003cbr/\u003eپاسخ به این سوال بستگی به این دارد که منظور شما از «آسمان» چیست. کلمه «آبی» معانی مختلفی دارد و درک اینکه کدام یک در اینجا کاربرد دارد، مهم است. در انگلیسی، ما از اصطلاح «آسمان» به دو صورت استفاده می‌کنیم: به عنوان صفتی که چیزی شفاف یا شفاف را توصیف می‌کند (مانند «آسمان شفاف بود») و به عنوان اسمی که به بخشی از جو بالای سر ما اشاره دارد (مانند «آسمان آبی است»).\u003cbr/\u003e\u003cbr/\u003eبه عبارت دیگر، وقتی می‌گوییم «آسمان آبی است»، در مورد خود آسمان صحبت می‌کنیم - نه فقط رنگ آن. اما وقتی در مورد آبی بودن آسمان صحبت می‌کنیم، در واقع در مورد هوای بالای سرمان صحبت می‌کنیم. بنابراین اگر می‌خواهید بدانید که چرا آسمان آبی است، باید از خود بپرسید که آیا آسمان شفاف است یا مات. اگر مات است، پس آسمان آبی است زیرا هیچ ابری سر راه آن نیست. اگر شفاف است، پس آسمان آبی است زیرا ابری سر راه آن است.\u003cbr/\u003e\u003cbr/\u003eالبته شاید یکم جوابش خنده دار باشه ولی اون زمان انقلابی بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-07T11:49:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SMGXCzWguKOn8iaTz9HZ-EaWG0ipwpKjRkT_4RA3bootK58q75b4GCmJeFiH8lkRqLkA4JtsBabHAXNFc_mYRgdLmZxatHwDs7VKgJbz_dE_W7dU0GBK91S7RJ8jWf0czl0vWUoV1ZAAkQ2Wr5cDfzv5BSRsTqShIi2M3irQ1dfOkyL8m1bNiLiT2T_OMTbI8Uw0C7YIuNiCxutYn7pdsZVmKu2IPRz9IVHOBb2HK6rilCzRJWUswPuVOcwo9ovu2gmPkXW_gXj2vAxlKk_SYAWfqwaptwPTfHuweLi7mJnhnBQmbcmzVZ9hns6qXBNoRfxJSe_-zF1xieJyN3lKFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "داداش تروخدا بگید دارید هماهنگ شده دروغ می‌گید من چون پلنم برای پول در آوردن توی آینده اینه که یه برنامه اندروید 2000 تومنی بسازم بزارمش کافه بازار روی جمعیت حساب باز کردم نه روی خریت کاربرا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-07T12:13:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NJUMFagyYk5_mp8FHaXnyryYtXL9Xi2G2N89zyQ9A3mJ6HHY9wqe_CCOQL_JFz6GtATqOXonE1YMNH72nu-VjyN6KOB8HG5XDDdfRrgZIYyDb_tvmXSgZRlfR7Wj54Mpsgv2-wPIc6WxR0u3Bx660xNsAvPhDmVF2TiWkLzExyFzo4Q0uv3_LcGYZFrd__9EhIwHF6ze1mspeRz_j43oWIjRRVU6KTBWAT13pb6G9rFSdo30NOD-kvZOV_6FmKD3j98brgrWg5OBH8m_oFvL-mkwvix0l5JsEclvqwE3QaKl7IWIPST2fb5WlCuapb2wup4ziBQYl3S7ZOPBukkHQA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780830053
+  "last_updated": 1780836991
 }
