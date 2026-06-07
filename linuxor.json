@@ -8,11 +8,29 @@
   "posts": [
     {
       "id": 0,
+      "message": "سیستم دیزاین موضوع بسیار گسترده‌ای هستش، حتی یه مهندس نرم‌افزار با سال‌ها سابقه کار توی یه شرکت برتر فناوری ممکنه توی طراحی سیستم چیزی بارش نباشه. \u003cbr/\u003e\u003cbr/\u003eاین مخزن بهتون یاد می‌ده که چطوری مصاحبه طراحی سیستم رو با رویکردی سیستماتیک توی مدت زمان کوتاهی انجام بدید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/checkcheckzz/system-design-interview\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/checkcheckzz/system-design-interview\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-01T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/StKFPd241--Dp921YrEM2WYbuBz9jqAL8bYcSlFdvxV8x6_BXjd2jhMBC-3FZM1qoIgtZOdCE4k7JevtLZ9i2hmwAwM-anYToF-Vmdg6rjbq0LV99-aI37o4UArADmJ2_HlQyu9hsDvbgEnA4CROVF4asWIO4o6lHfaTTnj48Q6y4BleSjriyHI70cbMGBGNqWQNJRNSr_yfMv9dFNq0JjgfVsOvKaRL7Z8-pnJxj2Zc3CRT_reGqGQ63ArR07eHZXODsnLSwJZP5gNlUHOqViBiaEFR7ERtOOzizkHoViRCFZK-cGgfIusUqUWSljkeBMS4FsyykFAwHNyBV4o-ZQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "message": "خیلیا می‌خوان کسب و کار آنلاینی چیزی راه بندازن از مالیات می‌ترسن، طبق تجربه ای که من دارم با هر نوع کسب و کار و اینتاکدی تا حدودا یک میلیارد تومن ورودی پول امن هستش (عدد ممکنه بسته به کسب و کارتون فرق کنه ولی همین حد رو در نظر بگیرید) و مالیات ها بخشیده می‌شه یعنی یه بازه امنی دارید برای شروع، بعدش هم یه سری قوانین ساده برای حساب کردنش وجود داره که همون موقع می‌تونید یاد بگیرید و اگه قصد اسکیل دادن کارتون رو نداشته باشید نیازی به اظهار نامه و کاغذ بازی نیست اخر هر سال فقط یه پولی پرداخت می‌کنید ولی اگه قصد گسترش دادن کارتون رو دارید دیگه اون موقع تبریک می‌گم کاغذ بازی مالیات از عهده شما خارجه و کار ساده ای نیست و باید با یه حسابدار و یا مشاور مالیاتی پاره وقت یا تمام وقت هماهنگ کنید (همون موقع یه فکری به حال این قضیه می‌کنید ولی برای شروع اصلا نیازی نیست بهش حتی فکرم کنید چون کسی باهاتون کاری نداره)\u003cbr/\u003e\u003cbr/\u003eفقط دقت کنید این صحبت های من برای زمانی هستش که شرکت ثبت نکردید و حقیقی دارید فعالیت می‌کنید اگه شرکت ثبت کنید قضیه متفاوت می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9760,
+      "views": 9810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +42,7 @@
       "date": "2026-06-02T13:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9210,
+      "views": 9280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +60,7 @@
       "date": "2026-06-02T14:10:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 9000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HBLr5qUpu6BRgHRltiMCqjwXyXwg3txQ_LxKpu9dqhD6IFxQ5uVPyBMGKggRpgTnR2jBIhrzHnDrSdpua5UbcSW0IKV1BcJwPod9doGnJWiBq26vJh79rnLmkR9hee1AUXV7cMcnZhjM8W6lbpiLqAOgUYj56jF9O5A4iOJ0hjRQflMNT_91MnpmBmyiSvMA6etDoxcQPG9ydy1q3C3M26IIviNfbmQzIU4q_4a_z9f7NeNpb6BN0-4N84e0g0WBR0_uaperGfAKPtAdYiFmCOhlnTv_Z1ZSK-o64x7eIVZKZNqItIEEPFP3wrU5QHyUv13B8U4dj_QuXM-DZArRaA.jpg"
+          "url": "https://cdn4.telesco.pe/file/F9by1oCMtgiS37dLLuMkm9bseeLGSvP8UmmbGEUwtrnaxyp3gjopZTo3R3SO5yyK314S-NIqDCJI48hocaO3y9oE5LzB6afHHbGinv_toPsOkKL76sHpGE8tTnx9e8smZAIzlCgsv9rl94ZMjzz4TMe5iV_3q1KlIynuUTHtHvOavyqGmdlRhqxy9RJ2v0Y58QnTuUaZRK_6aQ7Nr9SF9zT2dZ3n7mtYcjgMK_5yXlI_4A04YPO5fs2Nzb1cgnLZIzF5lVsbCD3LrW51tNjLS3x3gYC7hmBsaABL0eNcvc82S7-urISrBDsaem0jcOAfgTwKj8lGAupvYOYhdghTGA.jpg"
         }
       ]
     },
@@ -79,7 +97,7 @@
       "date": "2026-06-03T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9450,
+      "views": 9530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +109,7 @@
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +121,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 8340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +139,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +158,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7860,
+      "views": 7910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,19 +176,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5229064374403998351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید اشتراک gemini pro تنها با 299 هزار تومان در پریم استور.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاقتصادی ترین گزینه حال حاضر \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6024053298951098659\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D94.png\u0026#39;)\"\u003e\u003cb\u003e❔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چرا پریم استور؟\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5017179932451668652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9596.png\u0026#39;)\"\u003e\u003cb\u003e🕖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتحویل سریع (زیر ۲۴ ساعت)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296369303661067030\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  بدون نیاز به اطلاعات و لاگین حساب شما\u003cbr/\u003eضمانت کامل 30 روز \u003cbr/\u003eعلاوه بر جمنای، اشتراک سرویس‌های زیر هم برای خرید موجود است:\u003cbr/\u003e\u003cbr/\u003e(Claude • Chatgpt plus, go, codex   • antigravity • Perplexity • Cursor • Leonardo • Gemini ultra •.....)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شروع خرید از طریق ربات :\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314391089514291948\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://premstore.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوب سایت\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5422439311196834318\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/premstore_ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکانال تلگرام\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/premstore_admin\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e ارتباط با پشتیبانی\u003c/a\u003e",
-      "date": "2026-06-04T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
+      "views": 7910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +188,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +206,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8430,
+      "views": 8480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +224,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8840,
+      "views": 8930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +236,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8360,
+      "views": 8460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +248,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +260,7 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
+      "views": 7730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +272,7 @@
       "date": "2026-06-07T11:49:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3370,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +290,7 @@
       "date": "2026-06-07T12:13:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 3970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,5 +303,5 @@
       ]
     }
   ],
-  "last_updated": 1780836991
+  "last_updated": 1780843711
 }
