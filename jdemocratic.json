@@ -28,7 +28,7 @@
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/LnB9yVR7tV-2cdOVCGZwGyjqVH-GXcw3ucqDvRj5RgAmkq0jJuOOvaOZ0mgw45EV4hHAkd5atTz5SK3wSkW6b_EuiTLadgRlr6LxcbbUAfjO2Gs_zFkHyHeK9UGdVZeF-cKUzBM_JTrPDwjQHXyHdS5iphPg6Cqd-WN1rkWcW5o9FhsRENCpb1rhhvdo7KPgwYM6o7Ynkrbns3wlD85kHFExOmsTNAOiKU4T-B0MAWXmkLk_rZ2uWnn_gQXW84AX6pI49bQ26cFwfvt47KVDzzxA6acWeN39g1ZXHulrJMfBDwoP2JGQIW05yo1EVsVCscv3Q2QtDsKfLBU0OBLLHQ"
+          "url": "https://cdn4.telesco.pe/file/JrUAS1kQYY9S9JFTjgFoymQ7NjspoXNmuGswoJCQRYPGA_lEVnG1XK_DIDgourGstusXkcDT17KE9xfR0Q5F8VRGCTK4yFmkZ65-aIqLuF64jJWl2UAtpoFnq6FOW2w2Oubjb4YyIhjwJkrroQInIumFsu61ZZZNBQFF2e3B9W2BuoEPfmvZFka6HY_-mXZTADEh0yAV0pEV3gWT1gA4E738toZKAGTik4qZRA97eJJgdklJ_xyagATy1S1E59OLCSOM1PgvKKjib7ZDU1VsI2rWs1NiC3PAcEBHu8IptPKo_YafP2kgdHXv-4kpN-ZZ6_7d2ywHPH5_KnQ09PRBrA"
         },
         {
           "type": "video",
@@ -139,7 +139,7 @@
       "date": "2026-06-06T10:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +287,7 @@
       "date": "2026-06-06T10:33:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 11,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +306,7 @@
       "date": "2026-06-06T10:38:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +325,7 @@
       "date": "2026-06-07T09:36:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +344,7 @@
       "date": "2026-06-07T19:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -356,7 +356,7 @@
       "date": "2026-06-07T19:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -368,12 +368,12 @@
       "date": "2026-06-07T19:35:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1780864975
+  "last_updated": 1780869519
 }
