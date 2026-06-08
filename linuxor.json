@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این رو ببینید باتری گوشی سامسونگ نیست گرافیک N1X هستش که قدرت پردازشیش در حد 5070 هستش و پاییز به بازار لپ تاپا میاد\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیه پردازنده 20 هسته‌ای به نام Grace که بخش پردازشی اون با همکاری شرکت مدیاتک و بر پایه معماری کم‌مصرف ARM طراحی شده.\u003cbr/\u003e\u003cbr/\u003eیه گرافیک نسل جدید از معماری Blackwell با 6144 هسته کودا که قدرتی در حد و اندازه یک کارت گرافیک دسکتاپ رده‌بالا مثل RTX 5070 رو ارائه می‌ده.\u003cbr/\u003e\u003cbr/\u003eتا 128 گیگابایت حافظه رم LPDDR5X که به صورت مشترک و یکپارچه و بدون تاخیر (توسط فناوری NVLink-C2C) هم توسط CPU و هم GPU استفاده می‌شود. این یعنی دیگر محدودیت کمبود حافظه گرافیکی (VRAM) برای رندرهای سنگین وجود نداره!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-02T17:06:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://t.me/Linuxor/4309",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "فکر کن جمعیت برنامه نویس ها یک صدم درصد جمعیت کره زمین هم نمی‌شه بعد هوش مصنوعی رو باز می‌کنی می‌گه : می‌تونم برات برنامه نویسی کنم! اگه ما خودخواه نیستیم پس کی خودخواهه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-03T10:15:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "دیتاکمپ، سایت آموزش برنامه‌نویسی و دیتا، از 1 تا 7 ژوئن 2026 (سه روز دیگه) دسترسی رایگان داده. تو این مدت می‌شه بیش از 680 دوره، مسیر آموزشی، پروژه، تمرین و حتی بعضی گواهی‌نامه‌ها را رایگان استفاده کنی. کارت بانکی هم لازم نیست.\u003cbr/\u003e\u003cbr/\u003eاین فرصت برای حساب‌های شخصی است، نه تیمی. دوره‌های AI Native، محتوای Microsoft Fabric، دوره‌های گوگل و بعضی امکانات DataLab داخل این رایگان‌ نیست. بعد از 7 ژوئن دوباره برای استفاده کامل باید اشتراک پولی داشت\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.datacamp.com/campaign/free-access-week-june-2026\" target=\"_blank\" rel=\"noopener\"\u003ewww.datacamp.com/campaign/free-access-week-june-2026\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
       "date": "2026-06-04T09:53:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8590,
+      "views": 8710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +24,7 @@
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9060,
+      "views": 9180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kzsWCQ3ZBCOdQHbxIaO2PXRTAtb4ibg8NvoD4QMtU9X1iMb1A-YjkdvQjqieEPmM8QFGlSxgmVr9PefOsCWBh_qwPmdlBJITAfRlLWaf3LwsTRorIPeuxMsl2uJDrrpXVzrR_it5k0j339eOi95cKevyFZvIXr-UDtN0mu_Nl91xp4NChWp7RiDxBR2BVmSfQCa9IzYc_dE5jnTWRnXflHGwiMUJ6VOh63pv5tWybwV1JyRn3CXt_1xQ6IruXDQuttbYx7LP5dQcnWqcZ2tHhSuQ3muYZkrpMb5LqbG4EbQ9wx7EJXjIBPSPsL3tDphLB7fLafTCCnX0IhT9FuY3TA.jpg"
+          "url": "https://cdn4.telesco.pe/file/l0A93wiMPGb0tf4WwZQtWtXU_1R6UNulbjh8LybFWUzQB1H4b5bM0PjcX7IC2Wz3Hyl4Mmle9vgzN8duqsmdhMzRwq3PKu1bnd4ev4otCQS6HuzFr4LylE0aD6GS9TNMUZMdxkgFWTUw8XcM_1jW0qI4aKsSXUdDa8iLxQaU5QK4-Kqli0mqam3BNqGG7ITCeZOkbPDM-GeaxWXgd_vjTBcC_AhPmFPj7_x26AauA2qOHS09709UyNVH2HRe6P9ITX8W6GYbel3synGtT87mtPJaIdKTniNlz5fKN6n9HxoVqU6X_gWf1Fk9EbAGvTXaKe-hX4vpdQ72X0w-laYxOg.jpg"
         }
       ]
     },
@@ -73,7 +42,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
+      "views": 8800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +61,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9160,
+      "views": 9360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +69,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FG6dws0u6uhmFZBKA1MBK3FZ7oyIIvxT07fHesRgXkH0VAJKAA0Nin_82AyxNoxBEWFFSBzlJE_mc7WpjNgjWV9nr1E4jQWHKJ5nxBvUI2NTz2jPrmNJBHErCUVXowDlY2nmEEnTBf2n-0h9Gz4XpCxN9mR29JLhoJEKS2SXy7ueKGI5XtCTXw7YPD3UL_mo8KFRH_-4hxcTWRA-VXXNTXUetDn5LDnnwt5jh2x74eTesHfkPjhQTpoozyYLDL3IvwKsxLygLj8_n6sY35t-VHpkdZu4AnzW_KbSNh8dARlLoTarspGeAteFtLYBJw5-N0RxW2PG6HOfKBweihhGfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/vhT9ANxtKJaDEXDVWuRbKaLYSx0A-NERINjoEqE4yFv1JP9OQFo7YkMvlMbBNWwYGJ1VZVTEc43Wwd8HsY31THdf8oSi3e5kzHpzlX5VAO4j4mrq8QdADcwqLaPKVmmhnkKIfq-lXB9saKuEpsdYMMwsch8eR6iklnj8nvUztrY4aFm9oBx633MVaTpiihqEBeEpFGLupAkvpQ2oOO8pAYE-wMZEcEc6yfOhGkTfWnQFYwNaKLd7OkkLpwxCJJDI96WeNB3M8PHndDraaFLbJkCZbAfmhgRPgBerynm6AFzDRnxCMPH53TxQW61rNETVvdgNSAohHxFZIUGIKCIlrg.jpg"
         }
       ]
     },
@@ -110,7 +79,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8590,
+      "views": 9080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +91,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +109,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8940,
+      "views": 9250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +127,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9450,
+      "views": 9700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +139,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8880,
+      "views": 9040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +151,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +163,7 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8680,
+      "views": 8850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +175,7 @@
       "date": "2026-06-07T11:49:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +193,7 @@
       "date": "2026-06-07T12:13:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +211,7 @@
       "date": "2026-06-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +230,7 @@
       "date": "2026-06-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 5770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +248,7 @@
       "date": "2026-06-07T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4670,
+      "views": 5870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,12 +266,36 @@
       "date": "2026-06-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4320,
+      "views": 5710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "وضعیت وخیمه پکیج منیجر هاتون رو کش هاشو شارژ کنید ممکنه دوباره جنگ بشه اینترنت قطع بشه. من از همه پروژه ها چه بک چه فرانت داکر و ... یه نمونه خام ذخیره کردم برای روز مبادا میرم ازشون یه کپی میسازم روشون کار میکنم؛ دفعه پیش با pnpm یه پروژه خام ساخته بودم وسط جنگ رانش کردم بی پدر گردن نگرفتش گفت این پکیج ها مال من نیست. فکر کنم چون پکیج هارو لینک می‌کنه نمیشه پروژه رو جابجا کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-08T11:01:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "دوستانی که برای زیاد کار کردن یا سلامت چشمشون از ژل چشمی لیپوزیک استفاده می‌کنن جدیدا دلار رفته بالا خیلی کمیاب شده و قیمتش هم شده حدودا 1 میلیون تومن\u003cbr/\u003e\u003cbr/\u003eیه نسخه ایرانی از روش کپی کردن به اسم ژل چشمی ناژو (دقت کنید حتما باید روش نوشته باشه کربومر 0.2 گرم) من تستش کردم خوب بود البته به اندازه لیپوزیک خوب نیست لیپوزیک نه فقط توی ایران بلکه توی دنیا حرف اول رو می‌زنه ولی این ناژو هم میشه بهش نمره 80 از 100 رو داد چیز بدی نیست و چون ساخت ایرانه قیمتش 90 تومنه کلا. البته دقت کنید لیپوزیک قطعا گزینه بهتریه چون تکنولوژی ساخت بالاتری داره ولی این گزینه هم انصافا نسبت به قیمتش کارایی خوبی داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-08T11:13:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780900120
+  "last_updated": 1780917935
 }
