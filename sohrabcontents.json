@@ -8,71 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این هم پیاده‌سازی cat توی سی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتماشا از یوتوب:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/b1DHcZa_bjw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/b1DHcZa_bjw\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eسورس‌کد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://gist.github.com/behdanisohrab/705fef4e02d0f542f07833b6eddc8d2d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gist.github.com/behdanisohrab/705fef4e02d0f542f07833b6eddc8d2d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپیاده‌سازی wc هم با راست فردا میفرستم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-02T16:15:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FEujKhcxUtolHaQ8CAqMkkAn_GKEbqNXn88ijcCkkNXxHqdUo-_Ch6wAqTitaSpXSnCZioWZe6NfDpof1r5-VtoLLQoOdv83JHOzE7v2abyYCcSnfz07qnICg449UTT1vcOHl4__xZ6cGirBxwAB9dq0d3d9RB-f4pIgsAvFjXV5mlQHXPmRTAiGDrGiKblaafbumE18f27hMtoe4LedNsT8kB-vmg9PBlf_Ics-_G4MdE5lnh9-WPw-hyioflqNNtA-6X27VfkLs0aQtvACD9mnb2aSD3qlsU2hdn7tF6CaBdgBAxrC0I7V70aiZC0ikfGDpCsfuAdeuUFo431JUg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی این ویدئو یک پیاده‌سازی خیلی ساده از دستور \u0026#34;wc\u0026#34; رو با زبان Rust انجام دادیم و قدم‌به‌قدم بررسی کردیم که چطور میشه تعداد خطوط، کلمات و بایت‌های یک فایل رو محاسبه کرد.\u003cbr/\u003e\u003cbr/\u003eدر کنار پیاده‌سازی کد، درباره نحوه کار \u0026#34;wc\u0026#34;، تفاوت شمارش بایت و کاراکتر، و همینطور تفاوت ASCII و UTF-8 هم صحبت کردیم.\u003cbr/\u003e\u003cbr/\u003eلینک ویدئو:\u003cbr/\u003e\u003ca href=\"https://youtu.be/boSeilowUWo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/boSeilowUWo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک سورس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://gist.github.com/behdanisohrab/a7a94717d9d1888b61a12816cbca898f\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gist.github.com/behdanisohrab/a7a94717d9d1888b61a12816cbca898f\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر به برنامه‌نویسی سیستمی، ابزارهای یونیکسی، Rust، لینوکس و پیاده‌سازی ابزارهای پایه از صفر علاقه دارید، این ویدئو می‌تونه براتون جالب باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-03T07:06:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pLS5qD9T-9v8mQ5UD6MnXu3uaIHfvjXQdUUCtFNRXroFA6u5YJ25ToBK30AoRNBPEarEo7CcbGE9tBQt8KlOeIPpfOaHEtGMuBZaF51CqBhurXA2mr68_D9XYfgSvO7IT1U921XR_91rFb7u68VwJamtIHtf-7r_bLeGKa755i2oGkzAxAcTgrrMB4FGD27ZVQKN9CJQSuoH43ARu3m5hQdlk1XYL7CVjacUkx5CdmJ0WHdkUieiCOAn8Y9duI5ld8PU8JqhNj8EO7NELw9bUGKs74QJ36jwt2tbjmc9lrEXVeTJcx1aGLdOJOAaGIEmnNhWUZJhwNWKzDzBuuvTbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شاید در خواب شب هم نمی‌شد دید که مایکروسافت بیاد و برای ویندوز CoreUtils عرضه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/microsoft/coreutils\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/microsoft/coreutils\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو این برای شرکتی که یک مدت زیادی گنو و لینوکس رو سرطان می‌نامید یک جوریه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-03T18:13:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "حالا ممکنه با خودتون فکر کنید که چطور تونستن مخزن رو بسازن و فورک uutils نباشه درحالی که از uutils استفاده کردن؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eجواب:\u003cbr/\u003eراست یوتیلز از لایسنس MIT استفاده می‌کنه که عملاً بی‌در و پیکره، یعنی الان مایکروسافت بهترین فرصت رو دیده که این سورس رو بدزده و باهاش این حرکت رو بزنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای همین من به شخصه لایسنس GPL و AGPL رو برای ابزارهایی که می‌نویسم ترجیح میدم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-03T19:59:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "انگار کلمه هوشواره رو معادل هوش مصنوعی قرار دادن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا من نتونستم منبعش دربیارم، ولی توی توییتر زیاد دیدم درموردش صحبت میشه.\u003cbr/\u003e\u003cbr/\u003eولی الان که به هوش مصنوعی میگن هوشواره، بهترین موقعیته که پرامپت نویسی رو هم به وِرد نویسی تغییرش بدیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-04T08:18:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +24,7 @@
       "date": "2026-06-04T13:19:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +42,7 @@
       "date": "2026-06-04T13:32:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +60,7 @@
       "date": "2026-06-04T20:00:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +72,7 @@
       "date": "2026-06-05T18:36:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 923,
+      "views": 934,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +90,7 @@
       "date": "2026-06-06T07:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 966,
+      "views": 981,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +108,7 @@
       "date": "2026-06-06T08:26:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 963,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +120,7 @@
       "date": "2026-06-06T13:22:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946,
+      "views": 970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +132,7 @@
       "date": "2026-06-06T14:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
+      "views": 937,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +144,7 @@
       "date": "2026-06-06T16:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 875,
+      "views": 898,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +156,7 @@
       "date": "2026-06-06T20:08:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 895,
+      "views": 925,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +174,7 @@
       "date": "2026-06-07T08:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 840,
+      "views": 893,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +186,7 @@
       "date": "2026-06-07T08:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +204,7 @@
       "date": "2026-06-07T18:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 708,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +222,64 @@
       "date": "2026-06-07T19:04:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 670,
+      "views": 805,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "با تشکر از مشارکت \u003ca href=\"https://github.com/CluvexStudio\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eCluvex\u003c/a\u003e عزیز؛ الان درایور منیجر پارچ ظاهری بهتری رو به خودش گرفته و قابل استفاده‌تر شده.\u003cbr/\u003e\u003cbr/\u003eبرخی از این تغییرات:\u003cbr/\u003e\u003cbr/\u003e- بهبود عملکرد کلی برنامه\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن زبان فارسی\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن صفحه اطلاعات سامانه\u003cbr/\u003e\u003cbr/\u003e- بهبودهای کلی در استفاده‌پذیری و کیفیت تجربه کاربری\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه‌زودی این ابزار بر روی مخزن world پارچ نیز منتشر می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-06-08T15:24:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 404,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Tn1hFFOH9XLHruafTyaq3pEr0IRCSaqpMk3zAayO3wA6m-9ht3tWa3nwydSk339Pjcb9tHfW39BMgJfxaV3Cr62zybX91DkjOZjMElTaeQ0XmOXugblIkXFojwTJxuOjYDkusVPosnrS2zNzb3EESewPGIomqfIBsViFUwYUeY12oggjZaTBGNwvvr0DtQ2YTD1pEpAKfEuau0Cf_1OyfWDP1n7BcrBfEoam3_2WfTnfDMZ9jhN72an1eJRd9FNRAN39VdtR97w0iJ6Nyk11_W5OmpJkXnqyYKY1qTFVTRk835vCQTSXf97NKUby-zHOxkTGnLkAYkNqrcdzpYB2xQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YFc9kBnwhLj3Jbh9AZKQNs7U6n-g3o8kFnPmTmS_Sa7tSoL4C1Xm_Sr9YxXvlcvnMZ1a0RBwW_hXIUlVm02hPHThX0LOZgYXlFQT96qXP5ziMQgk_NtrP0Q2tZ2wzWwGlG0WZig1APe2R9wonTbeO8StSvumHEFTCwB2uLWH1yJ7Upf7qDmHPGmxXZdEYJDSH7whBIEPGxntqL3bgOXou0UiszKioYP731q_KTsMugX5GUe04Mwv4WbfKsV0QDjKMjP3AasGqfTIG75CfMujUAiomry70aI7OdJUlN759MA-gu42lfVBzVdolncWLMZHLhFcIkPAfGOoqfmE0icx_Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برای داشتن Man Pageهای زیبا که کسی تا به حال مانند آن را ندیده است می‌تونید این مقادیر رو توی bashrc یا zshrc بنویسید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eexport BAT_THEME=\u0026#34;gruvbox-dark\u0026#34;\u003cbr/\u003eexport GROFF_NO_SGR=1\u003cbr/\u003eexport MANPAGER=\u0026#34;sh -c \u0026#39;col -bx | bat -l man -p\u0026#39;\u0026#34;\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eتمش رو هم می‌تونید عوض کنید؛ مثلاً تم کتپوچین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/catppuccin/bat\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/catppuccin/bat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگذارم.\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-08T16:43:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 304,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/InDm15qwMhECak2RAOmgjxthAZ-ISpyIlZ_uNWnZdGMjGpqGJYrW9CrAnhnryQDhY2eIoVx5M4AbEUkWV3Y6XJ7lmhcW2wqwTPtVmiAS4dCIwL-SBgL8rJG8njdRZJZxHdaine3Dy7wiG6VxDYav3gtPwDEc4_ld99GTKEcO3FwTAoWAap8sD7BC2bitjQlbmABAv5lD4rUu83uPfGSCu3uyEjNSJGBlE4HHdlCxBKspnXEH0N9br00vz49UrqvlMlYklQaQe2_q5PL0FXr6QBDjKp61Vbg7d-0kmbW1CvRc8FQvBvTI9U4TInbcp-UD_mOWyqxmQXVQcm9Iu6zzkQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "از کانال تازه تاسیس پرویز در یوتوب هم حمایت کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/mkmJro3lVNo?si=chkEKCZV8KBt-trU\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/mkmJro3lVNo?si=chkEKCZV8KBt-trU\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-08T17:28:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 168,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1780930517
+  "last_updated": 1780940667
 }
