@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این کتابخونه پایتونی کلی ابزار خوب برای حوزه ترید و مالی در اختیارتون می‌ذاره\u003cbr/\u003e\u003cbr/\u003eیه پروژه جالب که با این کتابخانه می‌شه ساخت ، یه داشبورد خودکار تحلیل و بهینه‌سازی سبد ارزهای دیجیتال یا سهام هستش. توی این پروژه، شما ابتدا با ماژول get داده‌های تاریخی چند دارایی نوسانی (مثل بیت‌کوین، اتریوم، اپل و تسلا) رو به صورت زنده فراخوانی می‌کنید؛ بعدش با بخش to_returns بازدهی روزانه اونهارو محاسبه می‌کنید و با تابع calc_mean_var_weights بهینه‌ترین وزن تخصیص سرمایه برای هر دارایی رو به دست میارید تا بیشترین سود را با کمترین ریسک ممکن قفل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/pmorissette/ffn\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/pmorissette/ffn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T10:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dbHCMleFk4Yfd42RMtka5nz11KVCPJIT61Oje6rrOSG4UblkdBQV57EjpG8fs4-ZpZCkFup-E6PUn3l5-QdTzJzB-encdemdDibCwE12WX-lmDVOkmrQRkoajTBmkJsXNdjpFgHgLxtr1mzVua7ZBiKckwbm18KmnlGihcmVr7mX8t8QSFKIY6GjUCVXBBcO7E4qCDwQ2MqOLufYlTaUc2lK3q1mGmmdi5FouLph54Kf3eKHXHBmT58bmy0sSOMLkKMQJh1PfvBXPteFROYvm8coCu5XUo_MlDvu5qm0x7-BxmW81-6A9GGhMRHFfA1fKngfeiImQQ9JzE9ZtxuTzQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "‏خب دوباره یه سری استارتاپ‌ها بدبخت شدن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9884.png\u0026#39;)\"\u003e\u003cb\u003e😄\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003eایندفه OpenAI با سرویس جدید Sites رفته سراغ صنعت Nocode و ابزارهایی مثل Lovable و Airtable.\u003cbr/\u003e\u003cbr/\u003eبا Sites می‌تونی با کمک Codex، از وبسایت و لندینگ‌پیج تا داشبورد اداری رو کامل بسازی و اتوماتیک deploy کنی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ FarokhNotes",
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9060,
+      "views": 9140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9680,
+      "views": 9760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9970,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9680,
+      "views": 9850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9790,
+      "views": 9970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9360,
+      "views": 9830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9160,
+      "views": 9290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-06-07T11:49:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8010,
+      "views": 8170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eggDw1Gj7J6I862OheuvbeAs3uJCr95XRHPG06Ibi3f5jajN0CtCJVkX8hmYrTUoz6xEc5n5upkMCwDmy37fYHGoK-VSEp1SNRfVxPKlH4YbcV3NrzyCfKfyGGtIt2yALhEnQdM1uN0wDzbRy_ydAUGGjMUNQE55-n1b6hJz3Ap3dl9WJjbfcQXfxdWKeb3cwo3T-6nzOIDMI2ZAcyj5z54M_EnrN3cBKzb6UhtC4eK5jqLf6MdLqo8pxJMRcthhr1GNWA8DMZNmaZqZ8chzeJLkY55HztFNyEXegFOdsLUSm30vUWYbyyfhu_FuF5x9_mTjGTUjip2SdcQKL2YHUg.jpg"
+          "url": "https://cdn4.telesco.pe/file/tZOwsyg2u2bB_FmwySKIqYMm7UT-u-xP4tFTPBXEpygfKIyPqYUHyyxychBmv1aKYrJzSZNy-RvRHBpi106QbZ5CpsAaI1H8ySQowYWoQUtmvVLQAK07OIVdYNyhz5uAxMhCC1mUYYzZr3NAYWSd7s5ZmAoW5cK2UhV9MjE0VfcwPDviVhO7cnjGz0WjbBY9q21m76tuBcAGJGN520Rbccag9-IHKSSTFYcB_LNjPA-0LZcmRZHlkjXI-MSL1knZa2lpPmmW7yFczES6Se1S8Z5NRzri02JBdOhma1UmFuDiydH3lMNWNCXizBbljPJxwp_bZWo2sXb70J9PDgUAMQ.jpg"
         }
       ]
     },
@@ -181,7 +163,7 @@
       "date": "2026-06-07T12:13:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +171,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/U-l-wWd2fFgwaW__3pEGxbRPhYC9dXqsmgXzygJUt9bBHACFGHZB4IeeMi0HUBsitAvcq5xZivCD2XSjDTNMyncwQLPL3GSTm_i4fge5xTEe5r1Wh2DCFywkvD96IZMSj9xX_StTOyHOXfUxvYjv2H-TB-A_1RlSv4Sb8WF2Hn7YuC2lctvSGa8HxH7ORrMbDHQ93DJGs2i2kGyapXkOmS9NpUyRKS88ajPe3sVlw8YWu4JWLr8lXT7NmSCg-vqMZbeLUVxwNdP0RsqKhsJ8zFITqoL9o51fA-1zYRmCWPgKkv23lWglP5RB1Rt80E_-UUyjrIeWSgDZTLPzbtw02A.jpg"
+          "url": "https://cdn4.telesco.pe/file/N2g3vMmXHJ0xrsnstr8yU7rbyWW_t8eidyGjoWThSFE7-d6AieLXvK2RuCXPnn8UqA5qk9cVbWymdov6leJMQpJa_lQVWLTygadblqCBxUY1XdJGQyppF1zsV1w-rwaaejokUm8wsmINTZhofeDVWaqGi6AYeX8qR1fXQtRGLVoEG86ukrUobc8gHCKq_t-nAag6SQAJBqB78txS40iE7gUzfzdaVwQsxTuLbcxnBa9En--GCuL7f2TH0wEAhyu0ITlZy298_5gQYSB9dcg1cx0HyiEkxdHc8-fyYpwIJbOfe0RBv0ChwLunTA-LeSM2S21q0UjtFCMj1WI9AOZ01w.jpg"
         }
       ]
     },
@@ -199,7 +181,7 @@
       "date": "2026-06-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "date": "2026-06-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "date": "2026-06-07T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +236,7 @@
       "date": "2026-06-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +248,7 @@
       "date": "2026-06-08T11:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +260,7 @@
       "date": "2026-06-08T11:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,16 +268,28 @@
     },
     {
       "id": 0,
-      "message": "اینجا 80 تا مثال زده از اینکه هوش مصنوعی رو چطوری توی پروژتون استفاده کنید از عامل های هوش مصنوعی بگیر تا دستیار صوتی و برنامه های RAG و عامل های دارای حافظه (بهش کل کانال لینوکسور رو میدیم بعدش دیگه من کافیه برم بخوابم و اون بیاد با لحن من پست بزاره)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Arindam200/awesome-ai-apps\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Arindam200/awesome-ai-apps\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "message": "اینجا 80 تا مثال زده از اینکه هوش مصنوعی رو چطوری توی پروژتون استفاده کنید از عامل های هوش مصنوعی بگیر تا دستیار صوتی و برنامه های RAG و عامل های دارای حافظه (بهش کل کانال لینوکسور رو میدیم بعدش دیگه من کافیه برم بخوابم و اون بیاد با لحن من پست بذاره)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Arindam200/awesome-ai-apps\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Arindam200/awesome-ai-apps\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-09T10:13:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 4000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این سایته پر از skill یو آی هستش، البته منظور از مهارت، مهارت انسانی نیست منظور skill هوش مصنوعی به ویژه کلاد هستش که به AI یاد می‌ده چطور مثل یه متخصص رفتار کنه برای مثال مهارتِ 12-principles-of-animation به هوش مصنوعی آموزش می‌ده که چطور 12 اصل انیمیشن دیزنی رو روی رابط کاربری وب پیاده کنه تا حرکت‌ها طبیعی‌تر به نظر برسن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ui-skills.com/\" target=\"_blank\" rel=\"noopener\"\u003eui-skills.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-09T10:49:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1781000898
+  "last_updated": 1781011398
 }
