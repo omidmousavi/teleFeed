@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دوره رایگان مهندسی هوش مصنوعی از صفر 503 درس، 20 فاز و 320 ساعت\u003cbr/\u003e\u003cbr/\u003e00: Setup \u0026amp; Tooling\u003cbr/\u003e01: Math Foundations \u003cbr/\u003e02: ML Fundamentals\u003cbr/\u003e03: Deep Learning Core\u003cbr/\u003e04: Computer Vision\u003cbr/\u003e05: NLP \u003cbr/\u003e06: Speech \u0026amp; Audio\u003cbr/\u003e07: Transformers Deep Dive \u003cbr/\u003e08: Generative AI \u003cbr/\u003e09: Reinforcement Learning\u003cbr/\u003e10: LLMs from Scratch\u003cbr/\u003e11: LLM Engineering\u003cbr/\u003e12: Multimodal AI\u003cbr/\u003e13: Tools \u0026amp; Protocols \u003cbr/\u003e14: Agent Engineering\u003cbr/\u003e15: Autonomous Systems \u003cbr/\u003e16: Multi-Agent \u0026amp; Swarms\u003cbr/\u003e17: Infrastructure \u0026amp; Production\u003cbr/\u003e18: Ethics, Safety \u0026amp; Alignment\u003cbr/\u003e19: Capstone Projects (85 lessons)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/rohitg00/ai-engineering-from-scratch\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/rohitg00/ai-engineering-from-scratch\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T11:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HK_JWAo7RDOh87G6wJE0WKm1chgFygysBL8kMEf870-PhjrDKhrlF7CgVb8o6_LJ1L_jVtXQKM-jXEpj0gXKTOn3TdW7A1e9CHuA3GuifCW1VHVGfHVEl6u113s_dDyHtevTvA6iOPWHhqAEh9_qBzSqmXfQV-cGFv-BrwCXNMMnb__NuEgOhVVu3-wS3TJYeFdk-h7g4EbkEacohhLgd_1ctFLAv647QGuVC7z3rsmKbonZMX0so7J8QtwhgNjcSJZuWUlewnUE4WxDVhtL8rR3D0paFFoyHv-FsbySuruGwRWEImR_K_Dc2PGK9ecVZHTPVdDhA_mL3U0R7AV_zw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اخبار جدیدی منتشر شده که تحریم های کلاد و اسپاتیفای وگراک برداشته شده! دقت کنید هیچ تحریمی برداشته نشده فقط مسیر ترافیک از داخل ایران با دستکاری CDN عوض شده و بیشتر به آذربایجان تغییر می‌کنه که قبل ها هم دیدیم سایت ChatGPT هم اینطور تحریم هاش دور زده می‌شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T15:10:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این پروژه توسط توسعه‌دهنده‌ای سرشناس به اسم Kiko Beats (برنامه‌نویس سابق شرکت Vercel) ساخته شده، یه ابزار ساده اما هوشمند برای بهینه‌سازی حجم فایل‌های پروژه هستش که با حذف کد های اضافی و آشغال، می‌تونه حجم خروجی (داکر، هروکو یا npm) رو تا 99.8% کم کنه؛ یعنی تبدیل 2 گیگ به 2 مگابایت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Kikobeats/untracked\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Kikobeats/untracked\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mJd93n7bb5EZYlKvr_rJb3DQhtjsbUqJ3l2Ah-fluVkMm1ahYQiz50zND79RFAoRr_6rENFZcwpqdZAOeKiX0wdyF6DRZM9Rd5pTOzwOR6P-bWbEbqH3ymb00eLdaNcsviBEk8IgS_TqhOotg4vo_yVLUH1vj_jqWtV2lnH58zDjHIOBf8tN0PnOOHFBh0a0GM-n_cDcHhvV4IYCSGVCEo0u2NKeEw7tSavrBT1PBcm2j5QQSMbbPSYk6ovaNzbmora4zVMO-GW1f390vJsqcP9G1fGVlgYBgeABBRhKqa4IWsI1V8GwFVW66nOHLqeXyenlnBbSefPXmJADD9UbJQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خبر خوب برای پروژه هایی که از مدل های کوچیک و لوکال و اوپن استفاده می‌کنن! گوگل ورژن جدید بچه غول خودش Gemma 4 رو معرفی کرده جما در واقع بچه Gemini هستش و کلی از ویژگی های جمینی رو داره و سبک و اوپن هم هست، ورژن های قبلیش واقعا شاهکار بودن حالا توی این ورژن هم واقعا ترکونده.\u003cbr/\u003e\u003cbr/\u003eنکته قوت این ورژن اینه که مولتی مدیا هستش البته ورژن های قبلی به صورت ماژولی بودن ولی این ورژن کاملا Native هستش یعنی به راحتی می‌تونه همزمان که صحبت میکنه عکس و ویدیو هم بخونه\u003cbr/\u003e\u003cbr/\u003eنکته خوب بعدی اینه که محدودیت پنجره کانتکست رو دو برابر کردن و یعنی میتونه 256k توکن رو بخونه و قابلیت جذاب دیگش فانکشن کالینگ هستش که میشه باهاش Agent درست کرد.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست بسیار سبکه روی یه لپ تاپ با 3050 و رم 8 هم اجرا می‌شه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FbZJkqUVowo96YjyqoBcs4ls-p3Z30PJK-VP8am2-NNRjzik5TMhZpe2L30Ls34nzB0kkt84-olxRaUKE0gpTwo-7kYCu5WrQBq8q7vmj5RPrhFjXcWt5S5JJskG56I_xqJrrEl796hXvhe7VgRqlWVl9Q52tMLs5k5FezYoyjYP07VRM8t2WLf25ZGKVt5jnAr5BxavAv2GdYVF_0ynKVAidIFnWMu1YCkajDqaDqfSrKEDqL9Gaww5XKv2cI4Gn6MSaTzjRkRjT537QD2qnGx2LPU5UG7E8x8qpwB5MM4ZMe8s5uHiDN8DaD7rZEVM90u85DRIvE5RQ3REw5H_Tg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خیلی از دوستان می‌گن با اینکه این همه ابزار برای کد زدن با هوش مصنوعی اومده ولی چون رایگان نیستن و پرداخت دلاری دارن نمیتونیم کد بزنیم\u003cbr/\u003e\u003cbr/\u003eمن یه پیشنهاد دارم الان که دسترسی به چت بات های رایگان مثل ChatGPT و Gemini دارید قطعا، بیاید این ابزار رو نصب کنید\u003cbr/\u003enpm install -g repomix\u003cbr/\u003e\u003cbr/\u003eبعد برید توی مسیر پروژتون (my-project) و یه فولدری که میخواید دربارش با هوش مصنوعی صحبت کنید رو پیدا کنید و دستور\u003cbr/\u003erepomix my-project\u003cbr/\u003eرو بزنید این یه فایل از روی کل فایل ها و فولدر های پروژتون میسازه کل اون فایل رو کپی کنید و توی چت هوش مصنوعی پیست کنید حالا راحت میتونید سوالتون رو بپرسید چون هوش مصنوعی ساختار کل پروژتون رو با اون متنی که براش فرستادید می‌فهمه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +24,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +36,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +48,7 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9470,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +60,7 @@
       "date": "2026-06-07T11:49:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
+      "views": 8480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +78,7 @@
       "date": "2026-06-07T12:13:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 8189,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +96,7 @@
       "date": "2026-06-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +115,7 @@
       "date": "2026-06-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +133,7 @@
       "date": "2026-06-07T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7900,
+      "views": 8090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +151,7 @@
       "date": "2026-06-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
+      "views": 8180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +163,7 @@
       "date": "2026-06-08T11:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +175,7 @@
       "date": "2026-06-08T11:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
+      "views": 8100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +187,7 @@
       "date": "2026-06-09T10:13:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +199,7 @@
       "date": "2026-06-09T10:49:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,12 +211,83 @@
       "date": "2026-06-09T14:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "چون دیدم خیلی‌هاتون دنبال یه ربات بازی بودید.\u003cbr/\u003e\u003cbr/\u003eفعلا بازی پاسور، دوز ‌پیشرفته رو داره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A4.png\u0026#39;)\"\u003e\u003cb\u003e🧤\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eایدی:\u003cbr/\u003e\u003ca href=\"https://t.me/PlaylabBot\" target=\"_blank\"\u003e@PlaylabBot\u003c/a\u003e",
+      "date": "2026-06-09T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QBSpTe9YGyUP3H50UE6A2mmhtERfPqkSEv5eNL1KPwGpwMv4Fz2lV1Ttl6Nx3459ViXngGNE2Oe6Te5FSf9h2LoUrPtlj28xmR5iv771nPJPLlNfGwkXi_v1rUdy9ZAwPuDcFOmyzX3eakUo5U_eF2OXj1gJEBg-duzhYdW3Y5z3H5dQXSvUsTYS2YNGABMfssEnNtFx4jdMt-RC13A_afaRzov7V3cAIz1YPLCbyECtylBc1w8iGepUJW5NnhbnuYbOR5Y544H9MbNTw-2dyYvB-yWlbd03UJMFhe-xc9h4cBCDAieI2uf_J9qtpabVwF_840GgAabQ55qdqEaCDA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gyDuerbEJfiQEmGF4ZAHp6uJvOXY6qI_ZhePsXriY0drQegtMyr7oPUNzB1gqRpz-RUuWuQA44nEDQ2KSIVO7EejSTCwgbZli0iYX2KXnjnBe6IrcFCJd6zhvA7kGskpTiINNNB5rsJZcrw9pnkvi6uThGF-iD4T45z9n8aYz4SLKYvaIp-Va3ND8DcAlunfASD9yRSjrOaOJiYz0bUdkf6DLuiCOUYXkmRNKXmR0Snc3yOwkUMRRI46tQkUihhElkldrNTNkwReC2cIPMhxamfpipbm767Sul1yAFMukyUqgyui0IGrUkFkRZjUW9Kdr9JMLOa0leX3U6s4KEbv_g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این پروژه پایتونی جالب هم برای تشخیص اشیاء توی ناحیه مشخص شده کاربرد داره مثلا طبق مثال خودش که با QWEN ادغامش کرده یه نفر با هودی اومده توی ناحیه مشخص شده تشخیصش داده و به گوشیش ناتیف فرستاده و گفته چه چیزی با چه اطلاعاتی اومده توی ناحیه.\u003cbr/\u003e\u003cbr/\u003eبرای دوربین مداربسته خوبه یه ناحیه رو مشخص میکنی هر چیزی اومد توش بهتون خبر میده،کد اصلیش با پایتون نوشته شده و از ابزارهایی مث ffmpeg برای مدیریت استریم‌های ویدیویی استفاده می‌‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/roryclear/clearcam\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/roryclear/clearcam\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-09T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/r0H6oK2p4F898-fiNrz4OuBk6vvysv8jRe1HzWnKdBg7wiqeVuWnrNM2wtcfvYqON2dqb_d8bDXQ-Jf-WPpEVFzFi7n3raEbDXKqOCwOi0lJjxEAQt-li4X6CrXF7YHFqv90kkSh9YJkgEtFf0puKwGYuPJXxzLDP7xbhcmrB3Mf_BewM3wcMUwnu7LMqdAYS1hx0AH9Mv-5wrRTHgvWms2k9kDLN-2TUcR5gZqaz_QzGFYQPT807KJuFPfTrHWAGgYFF2Ch1fwVve4YzWDKRArqWslafMT4sCmnYfZBIUx0it2ufpiYFt_Ram-lrYGt3jpX4J914Tt73toLi298Eg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این پروژه اومده تمام مدل های مخصوص کد زدن رو پلن free شون رو جمع کرده و تبدیل کرده به یه رابط کاربری ترمینالی برای کد زدن، نمونه مشابهش برای چت کردن رو قبلا گذاشته بودم و البته دقت کنید بعضی از سایت ها حتی برای پلن رایگانشون هم نیاز به کردیت کارت دارن که ماشالله ایرانیا دکترای دور زدن دارن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/vava-nessa/free-coding-models\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/vava-nessa/free-coding-models\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-09T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-09T19:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Vg7ZNrftfS-MdeFQBD1eWvYrrAduSb7qcu86Yzn1Vu1B84kanrfDsbJP3rOAb26Dvve-9cwKSh4cg23feVu7PMPFtiIm82_9i3h53zydMptlqi0Y5wsMeKQYJ7XRd-ABCswygNGTWsRxkbFq6iozqe51bnkSeh4MSzcjSHAU5J2RWuZX4pB4Vq8koeg6971wMYUxFTpzzPyIcoJDaDTfXKwHh1gs2VDRKN3g0KEDHRe6dlMxqOipbPTFKYAaWtvIifB4qjABuh0qCr71NEU-pmhjUyVXMKoC88H_hH1Ix4FGKzWR9BF4qlc5Npsa0KJwqCXuN_Pyae1eQG8XzuVY-Q",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1781029680
+  "last_updated": 1781036776
 }
