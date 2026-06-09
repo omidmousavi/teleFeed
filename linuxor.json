@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دیتاکمپ، سایت آموزش برنامه‌نویسی و دیتا، از 1 تا 7 ژوئن 2026 (سه روز دیگه) دسترسی رایگان داده. تو این مدت می‌شه بیش از 680 دوره، مسیر آموزشی، پروژه، تمرین و حتی بعضی گواهی‌نامه‌ها را رایگان استفاده کنی. کارت بانکی هم لازم نیست.\u003cbr/\u003e\u003cbr/\u003eاین فرصت برای حساب‌های شخصی است، نه تیمی. دوره‌های AI Native، محتوای Microsoft Fabric، دوره‌های گوگل و بعضی امکانات DataLab داخل این رایگان‌ نیست. بعد از 7 ژوئن دوباره برای استفاده کامل باید اشتراک پولی داشت\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.datacamp.com/campaign/free-access-week-june-2026\" target=\"_blank\" rel=\"noopener\"\u003ewww.datacamp.com/campaign/free-access-week-june-2026\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
-      "date": "2026-06-04T09:53:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "این کتابخونه پایتونی کلی ابزار خوب برای حوزه ترید و مالی در اختیارتون می‌ذاره\u003cbr/\u003e\u003cbr/\u003eیه پروژه جالب که با این کتابخانه می‌شه ساخت ، یه داشبورد خودکار تحلیل و بهینه‌سازی سبد ارزهای دیجیتال یا سهام هستش. توی این پروژه، شما ابتدا با ماژول get داده‌های تاریخی چند دارایی نوسانی (مثل بیت‌کوین، اتریوم، اپل و تسلا) رو به صورت زنده فراخوانی می‌کنید؛ بعدش با بخش to_returns بازدهی روزانه اونهارو محاسبه می‌کنید و با تابع calc_mean_var_weights بهینه‌ترین وزن تخصیص سرمایه برای هر دارایی رو به دست میارید تا بیشترین سود را با کمترین ریسک ممکن قفل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/pmorissette/ffn\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/pmorissette/ffn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-04T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9370,
+      "views": 9410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/l0A93wiMPGb0tf4WwZQtWtXU_1R6UNulbjh8LybFWUzQB1H4b5bM0PjcX7IC2Wz3Hyl4Mmle9vgzN8duqsmdhMzRwq3PKu1bnd4ev4otCQS6HuzFr4LylE0aD6GS9TNMUZMdxkgFWTUw8XcM_1jW0qI4aKsSXUdDa8iLxQaU5QK4-Kqli0mqam3BNqGG7ITCeZOkbPDM-GeaxWXgd_vjTBcC_AhPmFPj7_x26AauA2qOHS09709UyNVH2HRe6P9ITX8W6GYbel3synGtT87mtPJaIdKTniNlz5fKN6n9HxoVqU6X_gWf1Fk9EbAGvTXaKe-hX4vpdQ72X0w-laYxOg.jpg"
+          "url": "https://cdn4.telesco.pe/file/dbHCMleFk4Yfd42RMtka5nz11KVCPJIT61Oje6rrOSG4UblkdBQV57EjpG8fs4-ZpZCkFup-E6PUn3l5-QdTzJzB-encdemdDibCwE12WX-lmDVOkmrQRkoajTBmkJsXNdjpFgHgLxtr1mzVua7ZBiKckwbm18KmnlGihcmVr7mX8t8QSFKIY6GjUCVXBBcO7E4qCDwQ2MqOLufYlTaUc2lK3q1mGmmdi5FouLph54Kf3eKHXHBmT58bmy0sSOMLkKMQJh1PfvBXPteFROYvm8coCu5XUo_MlDvu5qm0x7-BxmW81-6A9GGhMRHFfA1fKngfeiImQQ9JzE9ZtxuTzQ.jpg"
         }
       ]
     },
@@ -42,7 +30,7 @@
       "date": "2026-06-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9000,
+      "views": 9060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +49,7 @@
       "date": "2026-06-04T11:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9630,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vhT9ANxtKJaDEXDVWuRbKaLYSx0A-NERINjoEqE4yFv1JP9OQFo7YkMvlMbBNWwYGJ1VZVTEc43Wwd8HsY31THdf8oSi3e5kzHpzlX5VAO4j4mrq8QdADcwqLaPKVmmhnkKIfq-lXB9saKuEpsdYMMwsch8eR6iklnj8nvUztrY4aFm9oBx633MVaTpiihqEBeEpFGLupAkvpQ2oOO8pAYE-wMZEcEc6yfOhGkTfWnQFYwNaKLd7OkkLpwxCJJDI96WeNB3M8PHndDraaFLbJkCZbAfmhgRPgBerynm6AFzDRnxCMPH53TxQW61rNETVvdgNSAohHxFZIUGIKCIlrg.jpg"
+          "url": "https://cdn4.telesco.pe/file/HK_JWAo7RDOh87G6wJE0WKm1chgFygysBL8kMEf870-PhjrDKhrlF7CgVb8o6_LJ1L_jVtXQKM-jXEpj0gXKTOn3TdW7A1e9CHuA3GuifCW1VHVGfHVEl6u113s_dDyHtevTvA6iOPWHhqAEh9_qBzSqmXfQV-cGFv-BrwCXNMMnb__NuEgOhVVu3-wS3TJYeFdk-h7g4EbkEacohhLgd_1ctFLAv647QGuVC7z3rsmKbonZMX0so7J8QtwhgNjcSJZuWUlewnUE4WxDVhtL8rR3D0paFFoyHv-FsbySuruGwRWEImR_K_Dc2PGK9ecVZHTPVdDhA_mL3U0R7AV_zw.jpg"
         }
       ]
     },
@@ -79,7 +67,7 @@
       "date": "2026-06-04T15:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
+      "views": 9970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +79,7 @@
       "date": "2026-06-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9580,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-06-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
+      "views": 9790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +115,7 @@
       "date": "2026-06-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-06-05T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9320,
+      "views": 9360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-06-06T09:56:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +151,7 @@
       "date": "2026-06-06T10:44:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 9160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +163,7 @@
       "date": "2026-06-07T11:49:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 8010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +181,7 @@
       "date": "2026-06-07T12:13:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +199,7 @@
       "date": "2026-06-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +218,7 @@
       "date": "2026-06-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6790,
+      "views": 6960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +236,7 @@
       "date": "2026-06-07T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +254,7 @@
       "date": "2026-06-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7020,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +266,7 @@
       "date": "2026-06-08T11:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,12 +278,24 @@
       "date": "2026-06-08T11:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 6070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اینجا 80 تا مثال زده از اینکه هوش مصنوعی رو چطوری توی پروژتون استفاده کنید از عامل های هوش مصنوعی بگیر تا دستیار صوتی و برنامه های RAG و عامل های دارای حافظه (بهش کل کانال لینوکسور رو میدیم بعدش دیگه من کافیه برم بخوابم و اون بیاد با لحن من پست بزاره)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Arindam200/awesome-ai-apps\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Arindam200/awesome-ai-apps\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-09T10:13:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1780986652
+  "last_updated": 1781000898
 }
