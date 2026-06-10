@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگر از میزکار کشور دوست و برادر چین (دیپین) استفاده می‌کنید، باید بهتون هشدار بدم که این میزکار دارای مشکلات امنیتی متعددیه و داره از توزیع‌های مختلف حذف میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپس اگر دپین دارید در اسرع وقت تعویض کنید که در آینده Deep-In رخ نده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-04T13:19:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u8Tbk-T6AB0PyCsC5bV_uRpHkIHOawXBuAVfKaK8YI_E-HJCUAPLz24ymn-9kb0XQ0A75yiHIDl4PAUAaI8KOee13wPtEjB3PM0TNNg8O8sstEwtRUJlSU3oED0rRCDbYzVOzfHf4K0aY7SWZ14_K3IcHKdMzvXlyCBRSxLle40ko31vS4qz3opspukdBP2_k-Oyg-A3ze6_UiJ6peDaLtDytyBLaPRTh8hHxbYVDWTsbauKJaJE-KARczDtAyheASc-noY_fZqlIbDfPe_5yeAsGoeL__4-M3ioUqbLyzshhvBMFgHvrzikzffdWTClQ99uzhv6YKygXDjGPd3fVQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نسخه ۰.۱ کرنل منیجر پارچ بر روی گیت‌هاب قرار گرفت و به زودی به مخزن world نیز اضافه می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای تست کردن این نسخه و گزارش مشکلات آن در قالب issue در گیت‌هاب و یا تاپیک در فروم پارچ، می‌توانید نسخه اولیه را از گیت‌هاب دریافت کرده و به صورت دستی بیلد و نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit clone https://github.com/parchlinux/pkm\u003cbr/\u003ecd pkm\u003cbr/\u003emakepkg -sic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین نسخه براساس مخازن شما؛ کرنل‌های موجود را پیدا و نمایش می‌دهد بنابراین ممکن است براساس فعال بودن یا نبودن مخزن chaotic یا archlinuxcn این لیست برای افراد متفاوت باشد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-06-04T13:32:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-06-04T20:00:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-06-05T18:36:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 984,
+      "views": 987,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-06-06T07:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-06-06T08:26:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-06-06T13:22:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-06-06T14:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-06-06T16:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 951,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +126,7 @@
       "date": "2026-06-06T20:08:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 975,
+      "views": 977,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-06-07T08:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 968,
+      "views": 973,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-06-07T08:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 919,
+      "views": 927,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +164,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M3kLs3ytuSQg_KwUHzjy24nXRJi133lfg8Yr_Xyw6yijQ5_ukWrWx9EeG-8eRvmtUvryUTwhp8x4EYUWcF87-vZXIUkMxg_rZwWtGWK6NxaQmZPPNx4BBBv74CVx1DKsYfq-KtwTloq3eIFTCP2KWc8DqJa3N88sIVMt3zgw3MxD2BygohF0wDkDGL2TLiWgLvX_jKU_rNVFfroMG3_8KCenfPu4tQK5tS_xYSXXvIieKwP1nR9qjFW78OnZQlV5LZVjBgParWSC_6PviQDx0JT2YrXQQKsVAo7XENj8x_SaSGetEJaMsNAEQG0PNW309mpwk3vHg7Xl79rKeBy5ng.jpg"
+          "url": "https://cdn4.telesco.pe/file/FDeoqfzth9QyuY7nhR7SlAmuD58-gMZwJBzx-_PsCMO499p28huObCCfxsn6V0WdHoTbry-WTNwswsSZYEQVj1aoV5cCRXv1TlqH7B8WZkXB-QPYIcgPSINIl4nLx72Q-UYXO0gOPQSnGyQhtLucTGHnbw5OiBhyZEMJTn4kGqDMa0iiL-Vo2IWdC0-cLvZGiUa5JUirKgOz_LQqV3S5m1IQEnD-MasAJcaeCPsR7dudcUG-L1PaHqgrRkgM_y59CxDaH1qT8sD-J9qikp2POCgO1Rw2ZOPQD6mxay9tgBi1cvyFZZXbF3hA1gw0uR3nxnwE9UpXYAtGQYlj0vje3Q.jpg"
         }
       ]
     },
@@ -192,7 +174,7 @@
       "date": "2026-06-07T18:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 895,
+      "views": 904,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-06-07T19:04:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 957,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-06-08T15:24:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +226,7 @@
       "date": "2026-06-08T16:43:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 816,
+      "views": 832,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +244,7 @@
       "date": "2026-06-08T17:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 876,
+      "views": 896,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +256,7 @@
       "date": "2026-06-09T10:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M1W8S6zLPVivQWJVcI8iO_-1qcu5xOB2D_oybJmQxTXuBvplCfl7l0sN8krk44A9KnJ5ogQr0wJuw9lWWOkggXldql7BR-Lr4ERhsJQSxrU-X8jNIS1-0yrDK_C0s51AmrTDEcKeUkCOfLg3fTHO0yTgva9AA1uNiTHg77BkX6MyzDoSViBOYGGLHX9iVG7IMkoRO0zs8Lth7zDgUGxIAMy8J9H7blJ6jzlU78d3_LxPOHTcgcW5III1lPOeSSfwZk-AZYdxw61xbPSrwPCCFloy6k2QgcFgDxB8SK1xISxOGgaDskYmjtqQzZtG2szMHDSINCxwhYX8urG6kuDKbg.jpg"
+          "url": "https://cdn4.telesco.pe/file/gIYr3hSjHZeVoaSIpa-ANa-L8Lp9tZHgmj4mj5CWlL4n4o6HDqYjDTjqOhaio3WvwS-BoJKmRlYQGpd_9rf4Q4_lThi2eUD1ifTsZjLWGpEGECKZsOiIqMQl_K6s_sKajtHIK7VrTqiFg5zJzweUj86ZJSaq6kwlx7rfm8BXXRNEp9NMhS_XTwDo4aFMiE-73mbSYZZ3cr4odCLVRvu1a2IAHbir50shS40o3UK5uBtzoeBYnZzPQUlT31HUbO8vtApNel3ZOm2KTl3PbN6Q97ZAmjhYrwk6LVm7Dka9fX3LbQ3LoJRgHJTojEjbdbVR3oq_n_c-pc0_hYJA31XDzA.jpg"
         }
       ]
     },
@@ -292,7 +274,7 @@
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 419,
+      "views": 504,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +285,26 @@
           "url": "https://cdn4.telesco.pe/file/JqDdkag00687kYF9gMkb0tlbrzdbKayB_g2hWs5YkeJe2Hh_QHi1SoIigjlBIUMnkw3kwAzWzKo68n3_2H79phSeGmAwDUjwhNtJfmqKRxZQSE0mOmHseY8dLur6uANfx1JgA2_uQHQONQm0kD_0m17eytymIUS_p2VrMTLPunTMYUD2HQgTqPIUBIhcLZX5ZPsfsdYc3zZdpmGjS_IyXztuhTeN8VqsLm6WviehrUfXTrhipmS5iLY8NM6yxla_mgdY4T3m3G6xWxiMh9IDYyGMnGbUZf1cJ-0S27g0JTcu8kNFVyj8DTlgdv-n3Dt5um4-g-01crcZVRGTMbw1_A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یکی از ویژگی‌های جالب OpenCode اینه که به ollama می‌تونه وصل بشه و از مدل‌های لوکال شما استفاده کنه؛ ولی از اونجایی که اکثر مدل‌های لوکال یکمی نفهمن باید بیشتر باهاش سروکله بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eollama launch opencode\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eحالا به چه درد می‌خوره؟ مثلاً من یک پوشه دارم با ۲۰ تا مارک‌داون میگم همشو بخونه و یک سامری بهم بده.\u003cbr/\u003e\u003cbr/\u003eکلا با این agentها سمت کدزدن نرید بهتره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-10T10:12:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 214,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FXwkb5afufslaQ3_OW8tlsumucp46s4y2G1A1r0cIDQgT6di12JyxUp1Z0E-Ddi-3rSS1Ey7jB_TNJ4rMLJ07RdIPA4x8a0vR4PosALMjlY1JEsLxBumcLInLOjeD7wkydxnNUD3y3ASxWd-d3lN7lg-yuANfA8Dj7U6X1orm_Hb29lKRLY6i13MyfWkty28PiBPtVj3xmMpyKGU1VThMhx0H9miRWFUN3MMAKyxQEcymEG8ft6WmBj5EMGzR5yIwFq48mSNb1bVOsJDcMPUSlXQgKqgLeIDGDUuGZGUFoOz18wOpVudzFqkuZlQWtFq9nTf08Ly1OcDmGs61LvPCA",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1781074196
+  "last_updated": 1781088582
 }
