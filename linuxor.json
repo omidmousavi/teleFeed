@@ -3,137 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/VR3qKOhAVGfeW7E5xc7q4XHgNDYSdaJM05Yy9HDHJYnnB2AQqsI4f7tAjlfU8Tf0o3rkW91xztZ28BRjyMBgGYwOCxebuG4eGVNSvkdMp0MbzO91kYMvaYd_55xFGvidNebQd4CCWHNCi8u_1QXbEulbFAdXYsBzf4KT9U_5iJixIRVl2MTpvCzjQKBFXMdPwKGdhtA5XATY5F3sFOFnGUcpwBkf2FtgVMfVyQDdtNjsRi6vtY0nzn8ghgjHU83VqSjGmHiEnuwqWHQ7jqJ0ezTBbHaALZbHJXHdV-vK6xj22hPd6aALoTQMUupsaIcGz7x7u5sfHvssyUp52u6tiw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/NVb9c3b8vQXjpAuYHi8b7Lf4QTnFiVQGyWi0Vs4wE99hwJVRYQ8Ey9SemA63pYyPEUOP1HixqjqPlfdEcL8CEyY-LQqdfc2XoXvoxlqUvHu6xcFcZe1s0uSWd3uqjY0ajNY-rYdiaJ98hiMqcC_pTU9mqpwwSMxIKP--atqcvIxvc95DlxTlsCqFmuXHUfKHRdRGCKqzkwTBfIchkPLCR8iTvLjK-1fJsgqjhTcMG4MDTN8rfjV60xCSMWn94y8yvHMb7kGHkfFKq5p0AuQQc3BuPa2XsDdZuM24ibpuAD7H2_wZcRn946LYe1Ib0j0II7IToZl6wLTSY89m_1knWQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "خیلی از دوستان می‌گن با اینکه این همه ابزار برای کد زدن با هوش مصنوعی اومده ولی چون رایگان نیستن و پرداخت دلاری دارن نمیتونیم کد بزنیم\u003cbr/\u003e\u003cbr/\u003eمن یه پیشنهاد دارم الان که دسترسی به چت بات های رایگان مثل ChatGPT و Gemini دارید قطعا، بیاید این ابزار رو نصب کنید\u003cbr/\u003enpm install -g repomix\u003cbr/\u003e\u003cbr/\u003eبعد برید توی مسیر پروژتون (my-project) و یه فولدری که میخواید دربارش با هوش مصنوعی صحبت کنید رو پیدا کنید و دستور\u003cbr/\u003erepomix my-project\u003cbr/\u003eرو بزنید این یه فایل از روی کل فایل ها و فولدر های پروژتون میسازه کل اون فایل رو کپی کنید و توی چت هوش مصنوعی پیست کنید حالا راحت میتونید سوالتون رو بپرسید چون هوش مصنوعی ساختار کل پروژتون رو با اون متنی که براش فرستادید می‌فهمه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-04T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "نمیدونم چرا به این مسئله کم توجهی می‌شه که یه مهندس کامپیوتر با یه کاغذ و خودکار درصورتی که وقت بی نهایت باشه می‌‌تونه قوی ترین شطرنج باز دنیا رو ببره! این اگه گودرت نیست پس چیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-05T09:23:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "جدیدا خبر هایی اومده که یوتیوب از فیلتری در اومده که من برای مخابرات تست کردم رندوم یه سری به زور بالا اومد و یه سری مجددا نیومد، اما وقتی چکش کردم دیدم بردنش روی حالت Restricted-Mode و عملا تبدیل شده به یوتیوب برای بچه ها! شاید براتون سوال باشه مگه ISP های ایران می‌تونن تنظیمات یوتیوب کاربرا رو دستکاری کنن؟ جوابش خیر هستش اما خود یوتیوب خودش به همه ISP ها اجازه این کارو داده، برای مثال بهشون گفته فلان هدر رو اگه به پکت اضافه کنی و یا توی ریزالو دامنه CNAME رو به \u003ca href=\"http://restrict.youtube.com/\" target=\"_blank\" rel=\"noopener\"\u003erestrict.youtube.com\u003c/a\u003e تغییر بدی خودم می‌فهمم منظورت چیه و کاربر رو میبرم روی حالت Restricted و نمی‌ذارم چیزای حساس ببینه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-06T09:56:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "بوی گرون شدن بسته های اینترنت می‌آد!\u003cbr/\u003e\u003cbr/\u003eجدیدا اپراتور ها شروع کردن به بسته های رایگان و مفتی دادن، قبلا این مورد رو توی کانال بررسی کردیم و دیدیم هر بار چیز رایگانی دادن بعدش بسته ها گرون شد. (خیلیا به شوخی می‌گن این چیز رایگان در واقع همون آبیه که به گوسفند قبل از بریدن سرش میدن) به طور ساده تر اپراتور ها وقتی وضع مالیشون خراب می‌شه به تیم مارکتینگشون می‌گن یه حرکتی بزنه، تیم مارکتینگ هم برای جذب بیشتر پول میآد بسته های رایگان و تخفیفی می‌ذاره، که البته این فقط یه مسکنه به احتمال زیاد شکست میخوره چون واقعا بازار اینترنت کساده و بعد از شکست، اپراتورها دور هم جمع می‌شن یه نامه به بالا دستیشون می‌نویسن و همگی باهم در نهایت گرونش می‌کنن :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-06T10:44:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "برگردیم به سال 2019 روزی که GPT-2 اومد و مردم رو شگفت زده کرد! تازه اولین روزایی بود که ماشین داشت متن خود ساخته حرفه ای تولید می‌کرد.\u003cbr/\u003e\u003cbr/\u003eوقتی ازش می‌پرسیدی آسمان چرا آبیه می‌گفت: \u003cbr/\u003eپاسخ به این سوال بستگی به این دارد که منظور شما از «آسمان» چیست. کلمه «آبی» معانی مختلفی دارد و درک اینکه کدام یک در اینجا کاربرد دارد، مهم است. در انگلیسی، ما از اصطلاح «آسمان» به دو صورت استفاده می‌کنیم: به عنوان صفتی که چیزی شفاف یا شفاف را توصیف می‌کند (مانند «آسمان شفاف بود») و به عنوان اسمی که به بخشی از جو بالای سر ما اشاره دارد (مانند «آسمان آبی است»).\u003cbr/\u003e\u003cbr/\u003eبه عبارت دیگر، وقتی می‌گوییم «آسمان آبی است»، در مورد خود آسمان صحبت می‌کنیم - نه فقط رنگ آن. اما وقتی در مورد آبی بودن آسمان صحبت می‌کنیم، در واقع در مورد هوای بالای سرمان صحبت می‌کنیم. بنابراین اگر می‌خواهید بدانید که چرا آسمان آبی است، باید از خود بپرسید که آیا آسمان شفاف است یا مات. اگر مات است، پس آسمان آبی است زیرا هیچ ابری سر راه آن نیست. اگر شفاف است، پس آسمان آبی است زیرا ابری سر راه آن است.\u003cbr/\u003e\u003cbr/\u003eالبته شاید یکم جوابش خنده دار باشه ولی اون زمان انقلابی بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-07T11:49:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qxvrn7DBwBMJplLUgcJAHC3Gb_UpWnd9iibic3fPSbZNxkt2w6Qo4wUiQTslERo9NqVLtwkaIet-m22LKO_PW49KFlIPb3m-8_sUfGawCewqd5s6e_ozznbvfXIgRhepHMqoU6nKZnuco4_IK70icUSJbnOxjMPNu5S7OvwSzJxuDegrHDv_EP7LskXpVrPAY4KxhwONXSp-p6PKUNr1_EUlezO8qWFELU2p1OnHD-VWML3_UDpZF3KnfTzxslbIiPTj4FEOvm4V-47ipGNmUcNMy0EqWUseM8h61sNqyeDOFQuNLt4TBWsOZCV_iOx7noMpd_lJ0xRD7D0SXRijQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "داداش تروخدا بگید دارید هماهنگ شده دروغ می‌گید من چون پلنم برای پول در آوردن توی آینده اینه که یه برنامه اندروید 2000 تومنی بسازم بزارمش کافه بازار روی جمعیت حساب باز کردم نه روی خریت کاربرا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-07T12:13:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Tnu1TJ56P4HqDSRwoHmI4bOVz1g2jV3wurtg1M4qzpTwF7F7s47DdvW6biEC5Ccd4RWpjPijC5JnHQKQ_wrIZfUvuyRugUyQW7-muijjxNcdXxAtCFNMkIkzogmuA_x_It_hz9za9JX_Gzhth8TIr4ku-fEULw7mG3_wAAGupB2dHzOnBkIy0I1dEMO0qnj7yG-HuZdT_yIfpv-ktgmYK9aenFLpeHqyDMnmrU9rsMRX0o6Axi0vdlp425gOjja-adSrOVJT6atLehkf_89KkAxGzNZmypziDL5eFYiCeyFrG6_0aXvIsav85W75hbflUnEGWLoyidvxb2EDZ2B-gw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینم یه مینی ابزار ترمینالی برای تست و اجرای DPI روی سیستم خودتون (DPI همونیه که توی سیستم فیلترینگ ایران استفاده می‌شه، که البته بقیه دنیا برای امنیت و روتینگ پیشرفته یا مدیریت پهنای باند و ... ازش استفاده میکنن بر خلاف ایران)\u003cbr/\u003e\u003cbr/\u003eمیتونه رمزنگاری ترافیک رو بشکنه (با سرتیفیکیت دستی خودتون) و کلی کار جالب دیگه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://netwatchlabs.com/\" target=\"_blank\" rel=\"noopener\"\u003enetwatchlabs.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-07T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vf3j9fxfxrzV0xOsWKn0MnBNXs9CDupHLSd8AGZGfGDmEHjdUA1rLfRVCFn6fRyo-Ze9JthzRT0Oed-1EWbumUS9NACTOyjzWM38Xj6CSV3DmberJBvDfAsVNAcvsqiPchpykMCtpGZZyYpbl3Pbqh_xv8BIL--xXm6kDg-CeKtNHN4EajnNVk1-vSoULvMCStvugRFwJZI0MaszS6Mhhd1_Pqj2l18e9cG5b_CE67JJPFhAQ_R_DEYlJ6M_evxto-neBjErYpZPLeTizU3f53Fd-diLC5EqLB5ywIMI93OwpDGUmHnpIuBGq7KtoslTstyY1qrpjt1HocEJeVDNkQ",
-          "width": 1190
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کتاب «موتورهای پرس‌وجو چگونه کار می‌کنند» نوشته‌ی اندی گروو، یک منبع رایگان عالی به عنوان راهنمای عملی برای ساخت یک موتور پرس‌وجو از ابتدا\u003cbr/\u003e\u003cbr/\u003eآنلاین هم می‌تونید از اینجا بخونیدش :\u003cbr/\u003e\u003ca href=\"http://howqueryengineswork.com/\" target=\"_blank\" rel=\"noopener\"\u003ehowqueryengineswork.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-07T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jmIAzZeXYfvl5aFKIQL9xUSxOlnZD8l5_5NqOIhsyyfCGxBWd8K4WawmeySvsDcwezLyJWEkrLjX_4D1tt9VX-FYHzSj61cBXYOKc_w6mI-dH2pCb35DORUuH0D7bSTsOVKq1en_poiKWSX2T9roM68NAAvgkb60uhKSipl2X3n2FcZk4kP2Yg0GFObG7gcgAOfmYYRYC5Qsa-VLVhtpsCLniH456f66mtiNd7_3SNTCtJoue7YbMk7ctjElmfC4OlQM4HqA0mZs_Pj7lc8LNCURnRqsIyZsgD4EHRzhws0o1uGLKX4Q2vBdY9Qv_FKOi6HlkVfgclpvw_21K5yWxg.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "چرا تو حالت عادی بهش می‌گیم ریپازیتوری وقتی کوتاهش می‌کنیم میگیم ریپو، خب باید بگیم ریپا.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8400,
+      "views": 8570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +24,7 @@
       "date": "2026-06-08T11:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +36,7 @@
       "date": "2026-06-08T11:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8470,
+      "views": 8690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +48,7 @@
       "date": "2026-06-09T10:13:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +60,7 @@
       "date": "2026-06-09T10:49:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 7900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +72,7 @@
       "date": "2026-06-09T14:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +84,7 @@
       "date": "2026-06-09T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +106,7 @@
       "date": "2026-06-09T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +124,7 @@
       "date": "2026-06-09T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +136,7 @@
       "date": "2026-06-09T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +155,7 @@
       "date": "2026-06-10T11:26:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3430,
+      "views": 5270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +166,127 @@
           "url": "https://cdn4.telesco.pe/file/eyYFu1dFeHq40A28925kKjsf39zLlgQfE47z13ENC2Q3NmtacMSIg8TTEL6bt1XhmHV9BjG4IKWwNOQt6Brh7Bv8hFoRVtG1zrfkrP0pzMrvO5bLi2v8wkVkdQzypWtdbO9HWac8U4HGQGnjxK_KmE3WQuhfep04CIZ8_l9wd91_MvrtvsTO3Ylk4m2qnEBYad2w0aV0pRbYi3wVOrge9LGhVrAic7NsSU1_TcLr3zaysHHMtZ09dwmNPyQe-Z1v_8len7dxwX2yBiab_TTNKVoPRAeuw1PRJ8ef5Np9_xjVw-yM73WI_zjl55bdSm2mxlsOAtFHaHgquz-vD--2vg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/SwiftRayVPN\" target=\"_blank\"\u003e@SwiftRayVPN\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاینستاگرام راحت اکسپلور گردی کن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988B.png\u0026#39;)\"\u003e\u003cb\u003e😋\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e سرور اختصاصی پرسرعت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e آیپی ثابت مناسب Trade\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e پینگ پایین مناسب Game\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e انتخاب بین سرورهای متنوع\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e پشتیبانی و بروزرسانی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e آیپی آمریکا برای Gemini و Ai\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e با ضمانت بازگشت وجه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003e حجم نامحدود \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A5.png\u0026#39;)\"\u003e\u003cb\u003e👥\u003c/b\u003e\u003c/i\u003e دو کاربره \u003cs\u003e450T\u003c/s\u003e  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e باتخفیف 400T \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://t.me/+szLH45YEDR8yNmM0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://t.me/+szLH45YEDR8yNmM0\u003c/a\u003e",
+      "date": "2026-06-10T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sYDI3GxB8jiya59tI_4QDlX2bLgSUSs_XmkCRUcsSWbFknFQAXeffero09OzJViAbMEjp0ZkaAZhbxWOzazaHeYLupne6bTERaaWCbyBm81RDbSdX8Nm7BaOhxu02ErI8joU80f4qdLAnJtZHCZH-RVvF-wj9_-ayHNab4LyYfeJE_VAoR_17A_bH3eEAcNhPZeC1eSFXMG_5pedtMugwJsk3kBmomDhtjKDo181xrCW3F053d4ezzEYqfEzoOkOuyTamblUHh7xaqZR_ZvObrV1OuBSD5B8lZu_LtZtxZxcDVJz7fD37dqO_uT-6I6SAYGwj46xUZQ6Ie9us1dx6A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شعار و هدف اصلی این پروژه اینه «به کلمات با کمک هوش مصنوعی جان ببخشید!»\u003cbr/\u003e\u003cbr/\u003eاین فریم‌ورک یه زبان یا سینتکس (Syntax) ساده و اعلانی (Declarative) داره که بهتون اجازه می‌ده متن‌ها و داده‌های ساختاریافته بنویسید و پروژه به صورت خودکار اون رو به یه اینفوگرافیک زیبا و حرفه‌ای با فرمت \u003cb\u003eSVG\u003c/b\u003e تبدیل می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/antvis/Infographic\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/antvis/Infographic\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cDFI4PjKXanZvB7gZUzX72oURHyXAV-F-qzxOWMz1klM1HPeCoYWaOGwlL37idfVCW50lvvZKTaljPxIhGr-0zpIPfN5HiWkfJRd0g4t3Kj_T9OQa3cEj7NkiLoVKa7v78Kx1Y4qglepNCAJ5HAaoe8phEcofcLYU1YXADL9Yg92N-My2ZIMw1NVzBncGNA4iDJlSgeTsbWpCalI-6i7t6w0hPlrOcUs7AIwkZbi0RUcMe4qfWLGm1eQlAVcJUttTYREBAcoECo8h0YPaADfR6_lxjeY02Gly8xKgZQIg8cnNPllP43X91953jhf8L88TOHobAisKVy37-M7Et34Ug.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "آموزش راست برای پایتون کار ها از مایکروسافت! (جالبه مایکروسافت و پایتون و راست هیچ ربطی به هم ندارن اصلا)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://microsoft.github.io/RustTraining/python-book\" target=\"_blank\" rel=\"noopener\"\u003emicrosoft.github.io/RustTraining/python-book\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T15:00:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "متن های تولید شده با هوش مصنوعی مثل آب خوردن تشخیص داده می‌شن\u003cbr/\u003e\u003cbr/\u003eاین ابزار یه مهارت (Skill) برای ابزارهای هوش مصنوعی مثل Claude Code و OpenCode هستش که متن های تولید شده توسط هوش مصنوعی رو انسانی‌تر می‌کنه. به این معنی که نشانه‌ها، لحن رباتیک و الگوهای تکراری متن‌های هوش مصنوعی را تشخیص می‌ده  و اون هارو به به متنی روان، طبیعی و شبیه به نوشته یه انسان واقعی تبدیل می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/blader/humanizer\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/blader/humanizer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین مهارت خیلی ازش استقبال شده ولی اگه متنتون کوچیکه و حوصله درگیری با ابزار هارو ندارید این سایت هم هست :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ai-text-humanizer.com/\" target=\"_blank\" rel=\"noopener\"\u003eai-text-humanizer.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T15:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D84.png\u0026#39;)\"\u003e\u003cb\u003e❄️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفروشگاه iCE Services\u003c/b\u003e، محصولات و خدمات متنوع اینترنتی\u003cbr/\u003e‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e خدمات \u003cb\u003eتلگرام پرمیوم\u003c/b\u003e، \u003cb\u003eاستارز\u003c/b\u003e و \u003cb\u003eگیفت\u003c/b\u003e با کمترین قیمت در بازار\u003cbr/\u003e‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e انواع \u003cb\u003eکانفیگ\u003c/b\u003e های \u003cb\u003eحجمی\u003c/b\u003e و \u003cb\u003eنامحدود\u003c/b\u003e، کمترین پینگ ممکن و مناسب برای گیمینگ\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e فروش انواع \u003cb\u003eاکانت VPN خارجی\u003c/b\u003e\u003cbr/\u003e‌‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e همراه با \u003cb\u003eتست\u003c/b\u003e پیش از خرید\u003cbr/\u003e‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی سرویس‌ها تا روز آخر\u003c/b\u003e\u003cbr/\u003e‏━━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003cb\u003eادمین\u003c/b\u003e: \u003ca href=\"https://t.me/iCEServices_Support\" target=\"_blank\"\u003e@iCEServices_Support\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکانال\u003c/b\u003e: \u003ca href=\"https://t.me/iCE_Services\" target=\"_blank\"\u003e@iCE_Services\u003c/a\u003e",
+      "date": "2026-06-10T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "چینیا عجب چیزی درست کردن، یه پنل هوش مصنوعی برای هک و تست نفوذ خودکار (عکس چینیه ولی هم انگلیسی داره)\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، این ابزار نقش یک اپراتور یا مأمور هوش مصنوعی (AI Agent) رو بازی می‌کنه که تخصصش هک و امنیت است. به جای اینکه یک کارشناس امنیت تک‌تک ابزارها را به صورت دستی اجرا کنه، به این هوش مصنوعی یک هدف (مثلاً یک سایت یا آی‌پی) داده می‌شه و خود هوش مصنوعی استدلال می‌کنه که چطور و با چه ترتیبی از ابزارها استفاده کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Ed1s0nZ/CyberStrikeAI\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Ed1s0nZ/CyberStrikeAI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T16:49:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qIrN8sqsDJ3dDNQKKuKU7Ha2tc_4g-DuSTXapXytkOy4uJr-LNzxtbIGq1lmeRfl-Gi9F_3AzeSlkoPwey0WGz18KMHqUADXdsskYi_cRfA5U7pdaACwx9H94IJ-HbLjpQr6zIcnFJbGA3ys3xqw8aSa6jfY7JX0YNK3t1MzASABXzON6ALUJpR7N-4p92OXUb2GNuVQfsVuHC20EMnW4DrAEzmohwtPwtEMtViXusAj6OIOzWo2cYVDxUhb4skZkgxT3OX8BX8xXoakydpsajcsBxrLaCQgqDhrFqjc8pKATxNoh4zIPsEFTqxCoI4DkJH8-cEZ5gwdRvCX2xhuRQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه دنبال API رایگان برای کارای مختلف می‌گردین این پروژه واقعا تمیزه حدود 10k تا API مختلف از هر حوزه ای جمع آوری کرده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cporter202/API-mega-list\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cporter202/API-mega-list\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "ابزار html-video بهت اجازه می‌ده فقط با زبان ساده توضیح بدی چه ویدیویی می‌خوای، بعد یه ایجنت کدنویسی روی سیستم خودت یه فایل MP4 کامل برات بسازه. \u003cbr/\u003e\u003cbr/\u003eشاید بپرسید ویدیو چه ربطی به html داره؟اسمش شاید یکم گمراه‌کننده باشه، ولی ارتباطش با HTML اینه که ویدیوها رو به‌جای نرم‌افزارهای سنتی تدوین، با HTML، CSS و JavaScript می‌سازه.\u003cbr/\u003e\u003cbr/\u003eتو با متن توضیح می‌دی چه ویدیویی می‌خوای.\u003cbr/\u003eایجنت هوش مصنوعی کد HTML/CSS/JS تولید می‌کنه که صحنه‌ها، متن‌ها، انیمیشن‌ها و ترنزیشن‌ها رو تعریف می‌کنن.\u003cbr/\u003eاون HTML داخل یک مرورگر رندر می‌شه.\u003cbr/\u003eخروجی رندر به فایل MP4 تبدیل می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://open-design.ai/html-video\" target=\"_blank\" rel=\"noopener\"\u003eopen-design.ai/html-video\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-10T17:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 882,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mioUmdNJ2SRF-5POjEjt_ZVKEZuWaukdIz5Bt0eJiTxi29kCdBDKRt2Ymzj2DOjpwdNSRyM703ld3NIX8DNw0kz_bI9BVqpx1lPb9VT2q1eTD9CkmWzqpA-Xju9AKaURRp0KVT36YUxEQiDPugri08kwgPUb9_xZHLt-I-7suc6VoyOS8yBoGWgea4oymqcQZW-8MjUT9DMHED8cRzTtvG0UNZLQWdDqcbLRenC1Kmz7K0Wk9tll9voWqG_FKMT4SEspG0_41bo0vhWl2Iq2dcrE-841nXWCQyCOfh9y21b4D2Z7_M_YvIxXrd6r395wsoSfXTgy0E-WawY7IJtOvQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781101125
+  "last_updated": 1781113276
 }

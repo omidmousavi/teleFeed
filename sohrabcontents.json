@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نسخه ۰.۱ کرنل منیجر پارچ بر روی گیت‌هاب قرار گرفت و به زودی به مخزن world نیز اضافه می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای تست کردن این نسخه و گزارش مشکلات آن در قالب issue در گیت‌هاب و یا تاپیک در فروم پارچ، می‌توانید نسخه اولیه را از گیت‌هاب دریافت کرده و به صورت دستی بیلد و نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit clone https://github.com/parchlinux/pkm\u003cbr/\u003ecd pkm\u003cbr/\u003emakepkg -sic\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین نسخه براساس مخازن شما؛ کرنل‌های موجود را پیدا و نمایش می‌دهد بنابراین ممکن است براساس فعال بودن یا نبودن مخزن chaotic یا archlinuxcn این لیست برای افراد متفاوت باشد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-06-04T13:32:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Klc-_736_pXXeL0CsDEVpEnDcmUgzeOZ_1XrAjg--HysWViRPoe59Jx-GWL_T_5ul0y-re38gng8YqoIL5xdRLbd_7jg_2NdHbe4pUk9fuHMqFKn0q3fAoGQ4SHtIsnEQpUXT3LmdyPm5waTCeMZDq7X-793Wvet9-tLRNfBD3r8Ee5WgsV-ZCUsgsL1Cm7vfRrOLrHlUPqYwBj6qFgXtpIU2zEZvvUrFJeBOe01sVHoiO6_BQQTHY32EeZ9xoIbAvjnHel1i_jF_wh9DLjR-q_IfqXiTVqNgDl8lSA9h-ug1jPxCZCPjDh_NiU1yPPOiycOgBqwvCSZBch0cEvG_Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یک فکتی رو بگم \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینکه توروالدز داره فدورا استفاده می‌کنه دلیل نمیشه ما توی ایران که همزمان هم تحریمیم و هم فیلترنت داریم هم از فدورا استفاده کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاصلا کلا دلیل نمیشه فدورا استفاده کنیم :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-04T20:00:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-06-05T18:36:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 989,
+      "views": 992,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pxQoVmYR3mx65jGAkeTrvDyUDbiwfpvIi6ZTwIBjzEHe4XQZ-M8IcbwCK6SrGeI8BFRJb2TlNiiwgOlPJC2xSg-fZjsVp4HRq-bdKW_eWzo08SYnNj95JeUI4Et_zl4ZUZLcDSrCZhHH21kbI4h3m_jm0AFdb98tgPrFWDr6ZwFPzRd0iu-Jo3bAEAbE8AfHqqspi7-41DAQFJvuKY4irJKsSMbOMnGj8fPw5ErAyh3NN5vfmngrXcbdVXBM4BBbU_SMVKkf1hH_mWqxf73vl06dMyWeXusbx8B62j7d77DlXaMlzYBvMfpOvRreg3FSseaaM-JYEHnbsCdOv3iguQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ES2kVEQ5ijHac2AabjgQ7O8knDmBIasbrQ-2XcKHK2ZeGqFckumtt_KWVOAnkcZFxB8npinBjN-n30tyjslj1ZfntIKmd_J3Pc7sAuly6FT7IJAwDQDxT46VthuzuwUNGjjBrNDKwaWn68IRUFl7K2Q2T-GXb8jVWtZjqq8sMootPeicwXZgLZwlCUWm8y8MU0SiDqteK0sUOG3I4zU1IaANbG0LKuHKj4-WXewedMVpav8otiN6vPM2Zge3ovHox22LMrzh6K8d9EXxiaGl52_On1dkpnvYkB3WHA3m5TeteYn5Y07rNfM5m1FPzd8n9Ah4SHvhbXcOnXX57UANfw.jpg"
         }
       ]
     },
@@ -60,7 +42,7 @@
       "date": "2026-06-06T07:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-06-06T13:22:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-06-06T14:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-06-06T16:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +108,7 @@
       "date": "2026-06-06T20:08:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 982,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +126,7 @@
       "date": "2026-06-07T08:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977,
+      "views": 986,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-06-07T08:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 934,
+      "views": 943,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-06-07T18:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 907,
+      "views": 915,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +164,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/km8PRM9ikoPw2kJUrlgrRJSv3BfWoaurPNbemZTRSy3d3vSHH4z9OHacZQYHsxIwvO9Ee-S8QEFB1z-EFyelKYtWSIFNCZ28bq1l534cZXFwTTozTyWJqrmVv7xSnFcYzK08cgjvqabqysJiyDtLBThH-lbatOaTgPz9IfKKMD-AVYNg7TDb5tRfHnONXzMTLt4KYMkr-YYhKHC85UOXDvdv9BsS3c26AeayGtMDTiVc3mgcAQ_W1HkteIc3YI07P8ONNoj70mp_ipTqbURmFiBqSCX283ek6yhk3scz3_hp_fN2l_9AMeaemw4WFmGgqhOwAUPEZXniR0IC6e1ouA.jpg"
+          "url": "https://cdn4.telesco.pe/file/dUo-HrxD7O-kBQzX3UCijUrtVBvQRf5SGkef8oFnRFtj0LmbnYSjiwhhwF4Wib4mR16MW_iRxOWyg_CkQ_ELzY9LYer2hsDupIQDtQtUBTJ_LgGuRkB-4myDTkmAoEfMCtDSWXV9MdJ2JNBerQvCxyVBmYOk9lXFMgGT06wwfmzCwfg0BGhkVtuDFDY2OHRgb0ETxY2bk0ZLG0f2Pvy_M1d9mp5tTjMZyd5DZLJ4qeJwAiS7_o3JOln9aRamllYmeuPDyoO4-iNgr-rAy14_UZrsbE2yK88f4S0za9A5uvrSo7S3jIOEnZHacnEhICio0Kj6cLVVuRaEjGGkL_RSFw.jpg"
         }
       ]
     },
@@ -192,7 +174,7 @@
       "date": "2026-06-07T19:04:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 966,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-06-08T15:24:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 809,
+      "views": 828,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,11 +194,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SWVQZ4zuSO7WvKeMFijYkOopEfxLvXYop3W2JND9aj7zPtl-WZIw2rJGtiqkOD9eD1laxWxX_m5T9At4hXHA1eP7RFtTwG9DW7V_B5D3qvyx_i_uGA03_7FrjwBZuW3aC5fyuhSZSowCpVPe0IUVQFSjfC4mtL9NQXQusuRXINR-9q5_D6mm1bV7I8gC0eTpcWg_6YmApOLX_OP-TnjPcnJK3SLkhJMIJUUvUYhaBXNUPpA8A7s9CrZZ58Mc1sDN--tAPDQIEajyUL4y2QYUch2qT3YMiBNb5xdfEhpj8g84egmO3UifcnJkZWIuu9MvrJ23PXvpqyuxaLwJXvrA1Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/RPUlIF2hTuiI2y4-cK_ESJRpPU_zx-_Epf6eLnnD7CiDDE7MeDYx05oh1vQp0eWBhMdKx3SU5W0kGcEVQM_Xn9IeQ7Zz_3kBeRRHHIOD0hfsXvUTeppOb2EaCqb18YFWsgAIu7zWFPVkagbFn_N9vo7CrAg3zCXTnYXdCtFwTAguWLqi06H15d0ZdIDLz3psASu89ojgVhaPx2dS4yQNuKGKKLb6h7lUyWePJ7Jd2sGjSxrVHSi7R2fvQVugI933eeNzEBGzX-c_uYAH7Nviwc3uJenmU4eH0xgGlvPVeelpEFRckCLWn8QYMcHYZU5rS3hvjDDrO_ccm0xYJWKptw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VIKy3vc8iYUxDwQv8yQiGIlOIAxsZutAZSudY3ietBZ0dVQvfCeRQhF9zWYJ04NKvpw0ZmSxAXnuJOWCfQhCFmzoxLeKwW6aFGvGOwjN5P1_JBMZU-xh3XkF7XljadOiiuREJCKjOW8-hV2Fkh_SUjM11N_sxa6SixXN69b3Nezaln3LXLXmqNbg7mPxvtxQiXo56BjM-NJ8xG5zaovCXjg2cV73dqWZneuqLIZZtvGebSNxRvaODbykP7vk0Yx5sZDofnqeofnSLMb3OUd5Ab_W-FVG6I5s93FRZz8MRmqnA81BUc2CELBbKfMUds0PfiOVZE1EdHzDwX8gMAbEzg.jpg"
+          "url": "https://cdn4.telesco.pe/file/EG21Fm12uNhokhVUOGVDgnL3xQvU0PyJ4ta5t4gF2FvUbScVYwE9VTJzmwjkLTFEpj0GH5ndsh3G003aybwYSYV1dZG8TrFn7XYTM5x4Qw4lDMXYjpcN3YO3ZUfTTxIeGiWzcG5HlU0yqRssGGm3n_t4qTF-G702QiRXVqfOh_tpds_R3zFQ8UsXHZ1viPHEHO8b0mYyR8aomp1_U2oapk9x9LsCWwHLIpjy0x24p4_6uFCMx_HOPWPG7tWi7oAxOjzjcgF95H3Uj7EcWSMmL1WzByslbjyEmux5LnsId5PKiOrftyS1LtjrT_anyqU43o588pGL5hkNjp6EXHGhYw.jpg"
         }
       ]
     },
@@ -226,7 +208,7 @@
       "date": "2026-06-08T16:43:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
+      "views": 862,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +216,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Et6LvDLg4lkyo32mawDeNbBv0-qXJEHaJygg7cDNSGF3lrvLxLSK4GRf_cBShwGbgNX34TDKH6uJ9ISXOHdoNlXh3KtG-IvpmI6i3_e3nXhgmNka1x1TTtADqFYM84Iue_lZXrVCk5BIEPuR3fDk2UnRzvTH5U4Yl268VkHNTuM5GLM-jslDTM9lD0LnGdErQg2Um9zyKQxHKiO7CUF5f82Mn1WocyKCmWVKXhndHn6dkN1h7F0LeErRHglSo2z0Bv9nD8MDd1qksLwA82r2fAJYcjWaWZm0gO3xPBBnjgz68db1tvZfENLVhMaCqIcgnP419nUuV_MSPUp2j3ZKbQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/MNhMxbcT8F3_emNcL0RzkwmHNH-41zEl1hcbnrLYXn378E12gQfm0rXUfyQlBP0KEEHugXL-1SA46EhOIap4eBS93mQB_CZV2bas9mywfiPplwSvBzJENYEdMNc2wndeskRGDPy0L8ccopyumlsj9yepYTCQm4QLKkCsy8XWo6v1XbUPLVf0J6OCD76RpMIzTkOaoWjgl3zpRgGv13Qu92TMPBqpQ8GQvdGyaBZLDb6edO97oZjK4YMGCJ1GS2oNYwRtKBdpMc21E1RvHNKF41andlhJwp9wNMJIs3kSLUOHIyBLZ3uke3zIdD6nQ6iclafPRG8ogeYoFJKcded6Aw.jpg"
         }
       ]
     },
@@ -244,7 +226,7 @@
       "date": "2026-06-08T17:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 916,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +238,7 @@
       "date": "2026-06-09T10:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +256,7 @@
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 537,
+      "views": 579,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +274,7 @@
       "date": "2026-06-10T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 399,
+      "views": 560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +286,26 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "مایکروسافت یک ویژگی جدید به wsl اضافه کرده به اسم wsl containers که امکان اجرای کانتینرها رو بدون نصب داکر روی ویندوز میده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمثلاً شما نیاز به پستگرس یا nginx دارید، مستقیماً اینطوری اجراش می‌کنید:\u003cbr/\u003e\u003cpre\u003ewslc run -it --rm -d -p 8080:80 --name web nginx\u003c/pre\u003e\u003cbr/\u003e\u003cblockquote\u003eمن این رو بیشتر به چشم استیصال مایکروسافت می‌بینم بعد از بلندپروازی هایی که توی ویندوز ۱۱ با هوش مصنوعی و سخت‌افزار انجام داد که بخواد کاربراش رو حفظ کنه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-10T16:00:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 319,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/j6IjJQiIoXpn9l4lm4j1FNvAdvwJ5kHj6p_7y93w7J8tYbpmOfTRt4POVTeDj71T6SWdsY-mDUJoj0rQF75XDM-gCRko9a8GSSEY3QM1DaiMD4zqSAXYTCx2cKMoLGABHvvqKe-TrJCxQzOtlZpxxbJaR0_JS8yXQARS1VFCDrPgtJkwCRjKZ6I0QlO8ko7m17cvYVu-f1SbzwGgRMI-y7rIpXBwDMS-IqBxAm3BLpJvUT_rj3iP4lkLjIIHyq5AP6eXYYXx4wjwnUDbqA4W5CIJAkkjr22HhSgoqGUg-8rfPhOcsru0bKWQnc2UEahler_fXwKYtOb7JeVcYUoefA",
+          "width": 478
+        }
+      ]
     }
   ],
-  "last_updated": 1781101166
+  "last_updated": 1781113317
 }
