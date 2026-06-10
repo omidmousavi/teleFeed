@@ -3,112 +3,16 @@
     "id": 0,
     "title": "محتوای آزاد سهراب",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/KOn8uQxlc9HHQbA91fxoYX1ePhp2L-CAO5G2qmT1pU_u8BGPU7rfUxwAbO5AO6VnW3Fw1DJbQte6pYFGCsOhdxniH06tfkUXqvF-zn88jUpNbSZR11t4vKY9Kjx7-uC2EKuAirQT4TuqioRL1KMBlnuny3FhPttZhpXCh2i5XUVsORJEkKcsZfZ7Y9T86IfD64Z8Z9N7zJrAgbyn5tenM7tO3UZr9XvMqMpQqBYq3Mzzvx3EJDLudUTJPd8FWysPzK90-Ioe-bqw_I2C_bV1vB8GMc64kbO15OkyOwuLsnjD-4iDbnWFG9Z21uUqpZmbOFtNxAePX_0vCYD3h5XOTw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/OVrqmuDbjkQLBpWUrkhjMNrb5BEHcOyQCK1UV7zhzo5BdEtYpLym8N8a7hWlgXR-lxc58Gzod1CHLNl8rBuS7k1DoXsW35chdzs-M1CABWwYx-JNh5I02Aa9cM7FYBwwbdhYdHmRfwucq3z6Cw4Noa80PwgUefHqISVMUzevBSFbqs4L8TjI_V2Bp0G6hgIQ3329JY0LRg5KPNwNnPSSw4AnjtMe8midVUjMeiADTr8tqn6-tmilM69xllMH0z6L09fflEYxS56X8JfS17mPvdjuzwz87YQ9Pogf8W0PL3JVykfX_I1-zoqt0PL5upCFHa2E07lBHo9QVRXDbQuIHw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "یک فکتی رو بگم \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینکه توروالدز داره فدورا استفاده می‌کنه دلیل نمیشه ما توی ایران که همزمان هم تحریمیم و هم فیلترنت داریم هم از فدورا استفاده کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاصلا کلا دلیل نمیشه فدورا استفاده کنیم :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-04T20:00:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "با تشکر از مشارکت \u003ca href=\"https://github.com/CluvexStudio\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eCluvex\u003c/a\u003e عزیز؛ الان نسخه ۱.۰.۰ کرنل منیجر پارچ با کلی تغییرات و بهبودهای جدید بر روی گیت‌هاب منتشر شد!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتغییرات این نسخه:\u003cbr/\u003e- رابط کاربری بازطراحی‌شده با استفاده از GTK4 و ویجت‌های Adwaita  \u003cbr/\u003e\u003cbr/\u003e- افزودن ویزارد برای کامپایل کرنل سفارشی  \u003cbr/\u003e\u003cbr/\u003e- تشخیص خودکار GRUB و systemd-boot و ایجاد ورودی بوت به‌صورت خودکار  \u003cbr/\u003e\u003cbr/\u003e- بررسی وابستگی‌ها و پشتیبانی نصب از طریق ترمینال  \u003cbr/\u003e- رفع مشکلات مربوط به دیالوگ عملیات  \u003cbr/\u003e\u003cbr/\u003e- بهبودهای کلی در استفاده‌پذیری و کیفیت تجربه کاربری\u003cbr/\u003e\u003cbr/\u003eخواندن کامل تغییرات:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/PKM/releases/tag/1.0.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/PKM/releases/tag/1.0.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه‌زودی این ابزار بر روی مخزن world پارچ نیز منتشر می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-06-05T18:36:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 992,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ES2kVEQ5ijHac2AabjgQ7O8knDmBIasbrQ-2XcKHK2ZeGqFckumtt_KWVOAnkcZFxB8npinBjN-n30tyjslj1ZfntIKmd_J3Pc7sAuly6FT7IJAwDQDxT46VthuzuwUNGjjBrNDKwaWn68IRUFl7K2Q2T-GXb8jVWtZjqq8sMootPeicwXZgLZwlCUWm8y8MU0SiDqteK0sUOG3I4zU1IaANbG0LKuHKj4-WXewedMVpav8otiN6vPM2Zge3ovHox22LMrzh6K8d9EXxiaGl52_On1dkpnvYkB3WHA3m5TeteYn5Y07rNfM5m1FPzd8n9Ah4SHvhbXcOnXX57UANfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دارم فکر می‌کنم که این شعار خوبی برای پروژه نکست میتونه باشه، نظر شما چیه؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T07:18:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oYOyl8oWRrPcuoBLCsTqybEvWQO35hzeKAS32mTgH9FityoMNPl0IhVeHlPkgMNYl8lywwk3Gvkin6e8b3Y8GjCdXqcd_F_qAWzt0xCvFK1LK8AgJ__eR9HTS9wAX0ewRKUuD5laWe-xBqKzSFoEJp6I7VPZj1hngk33uC54E-tf1TejozgGfa7iPTHNNh0r5s7G988crAT6jfDlw-DYDVFGdQHrwZvAZB1_LvlLOWHkWJZg0rHcOWCZOTG8e9pkqp_Yk3yDVdchjGnl6AMo9HVGvuK9o8y5MBgXah3LQEaA0O3WUjzBIKb7pFPQnY0iAqUPEkplsYW8PlC2tNooig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آدم احساس شرم می‌کنه از اینکه برخی از گروه‌های قدیمی به جایی رسیدن که اگر پیام‌های کاربراشو اکسپورت بگیری و به هوش مصنوعی بدی بهت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکاش یک نظارتی می‌شد.\u003cbr/\u003eاسم هم نمیارم چون حوصله حواشی مسخره رو ندارم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T08:26:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "خب ممکنه که توی مصاحبه‌ای چیزی ازتون بپرسن که یک کلید apiای چیزی رو پوش کردیم روی گیت؛ الان باید چه کنیم؟\u003cbr/\u003e\u003cbr/\u003eخب، برای همه پیش میاد. یه لحظه حواست پرت میشه، یا کارآموز دیگه اونجا کارآموزی نمی‌کنه؛ فایل کانفیگ یا توکن رو هاردکد می‌شه روی مخزن و کامیت زده می‌شه و تمام؛ پوش شد روی گیت‌هاب عمومی. ربات‌های اسکنر هم ثانیه‌ای کارشون رو می‌کنن. حالا به جای پنیک کردن، باید سریع و تمیز این رو جمع کرد. مسیرش هم به این صورت هستش:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاولین کاری که باید انجام داد ابطال اون کلید/توکن/سکرت هستش.\u003cbr/\u003e\u003cbr/\u003eهر کاری قبل از این قدم بی‌فایده‌ست. حتی اگه همین ثانیه کامیت رو پاک کنی، همیشه فرضت رو بذار روی اینکه توکن یا پسوردت لو رفته و برداشتنش. سریع برو توی پنل اون سرویس (مثلاً AWS، دیتابیس یا هر API دیگه‌ای) و کلید قبلی رو کاملاً بی‌اعتبار و دی‌اکتیو کن و یه کلید جدید بساز.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e بعدش باید اون کامیت رو از روی گیت حذف کنی.\u003cbr/\u003e\u003cbr/\u003eاینکه فکر کنی فقط یک کامیت جدید بدی و اون فایل رو حذف کنی فایده‌ای نداره؛ چون اون سکرت توی تاریخچه‌ی گیت (Git History) باقی می‌مونه و هر کسی می‌تونه با چک کردن کامیت‌های قبلی پیداش کنه. باید ردش رو از ریشه زد. دور ابزار قدیمی و کندِ \u003ccode\u003egit filter-branch\u003c/code\u003e رو خط بکش. ابزار استاندارد، امن و سریعِ الان \u003ccode\u003egit-filter-repo\u003c/code\u003e هستش.\u003cbr/\u003e\u003cbr/\u003eاول این ابزار رو از مخازن نصب می‌کنی و بعد با دستور زیر، فایلی که سکرت توش بوده رو از کل تاریخچه‌ی ریپو محو می‌کنی:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit filter-repo --path path/to/your/secret/file --invert-paths\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eاگر خود فایل باید بمونه و فقط یه تیکه متن یا پسورد خاص توش لو رفته، اون متن رو می‌ذاری توی یه فایل (مثلاً \u003ccode\u003epasswords.txt\u003c/code\u003e) و با دستور زیر جایگزینش می‌کنی تا از تاریخچه پاک بشه:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit filter-repo --replace-text passwords.txt\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e الان نوبت می‌رسه به فورس پوش روی مخزن گیت =)\u003cbr/\u003e\u003cbr/\u003eهمیشه خیلی‌ها وسوسه میشن که روی مخزن گیت فورس پوش بزنن؛ که خب در این سناریوها به آرزوشون می‌رسن :)\u003cbr/\u003eالان که تاریخچه‌ی لوکال کاملاً تمیز و بازنویسی شده، باید سرور رو مجبور کنی تاریخچه‌ی جدیدت رو بپذیره. در نتیجه تمامی تغییرات رو روی همه چیز فورس‌پوش می‌کنی :)\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003egit push origin --force --all --tags\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکار از محکم‌کاری هم عیب نمی‌کنه :)\u003cbr/\u003e\u003cbr/\u003eیادتون باشه گیت‌هاب یا گیت‌لب ممکنه کدهای حذف شده رو تا مدتی توی Cached Views یا Pull Request‌ها نگه دارن. اگه اطلاعات به شدت حساس بوده، بعد از این مراحل باید به پشتیبانیشون تیکت بزنی تا کشِ اون ریپو رو دستی برات پاک کنن.\u003cbr/\u003e\u003cbr/\u003eو در نهایت هم استفاده از ابزارهایی مثل \u003ccode\u003egitleaks\u003c/code\u003e و \u003ccode\u003egit-secrets\u003c/code\u003e که توی مخازن توزیع یا AUR پیدا میشن هم باعث میشه که کمتر این مشکلات پیش بیاد در مرحله اول.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T13:22:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "توی یوتوب داشتم می‌گشتم که این \u003ca href=\"https://www.youtube.com/watch?v=FM1HRQYnvJk\u0026amp;amp;t\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eویدئو\u003c/a\u003e رو دیدم که داخلش پروژه Elks رو روی یک سیستم ۲۸۶ (پردازنده Intel 80286 و دوستان) نصب کرد و ازش استفاده می‌کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا پروژه \u003ca href=\"https://github.com/ghaerr/elks\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eElks\u003c/a\u003e چیه؟\u003cbr/\u003e\u003cbr/\u003eاین پروژه که مخفف شده Embedded Linux Kernel Subset هستش؛ یک انشعاب از نگارش‌های قدیمی‌تر کرنل لینوکس هستش با هدف زنده نگه داشتن و گسترش قابلیت‌های سیستم‌های ۱۶ بیتی هستش؛ سیستم‌هایی که دیگه امکان اجرای نسخه‌های مدرن لینوکس روی آن‌ها وجود نداره.\u003cbr/\u003e\u003cbr/\u003eپروژه Elks از پردازنده‌هایی مثل 8086، 8088، 80186، 80188، 80286، NEC V20، NEC V30 و پردازنده‌های سازگار پشتیبانی می‌کنه. این سخت‌افزارها می‌تونن شامل رایانه‌های کلاسیک IBM PC XT/AT و نمونه‌های مشابه آن‌ها باشن؛ اما ELKS روی برخی بردهای مدرن، FPGAها و حتی رایانه‌های جدید x86 نیز قابل اجرا هستش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدرکل پروژه خیلی جالبیه؛ اگر علاقمند بودید به اجرای کرنل لینوکس روی چیزهای عجیب غریب این بدردتون می‌خوره :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T14:50:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "اگر کسی از دوستان فرصت داره ایمیج vm پارچ رو که سروش زحمتش رو کشیده یک تست بکنه و بگه که چطوره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/soroushalinia/parch-vm\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/soroushalinia/parch-vm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T16:17:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
     {
       "id": 0,
       "message": "خب یک اسکریپت نوشتم برای بیلد پارچ ریکاوری که فعلاً ترکیبی از گراب + بیزی‌باکس + کرنل  + tcsh (شل مورد علاقه جدیدم) عه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحقیقتاً بیشتر بخش‌هاش نجاست خالصه :))) بخصوص اینکه حوصله نداشتم gdisk و این‌ها رو کامپایل کنم و خودشون و پیش‌نیازهاشون رو از سیستم کاربر کش می‌رم :))\u003cbr/\u003e\u003cbr/\u003eیک اسکریپت بش ساده است و  سورسش اینجاست:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/parchrecovery\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/parchrecovery\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو همینطور هم اگر دوست‌داشتید می‌تونید \u003ca href=\"https://gist.github.com/alirezaarzehgar/8d2cb5e4f1855653115ebb5eeaff4a8c\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاسکریپت\u003c/a\u003e علیرضا ارزه‌گر عزیز رو هم ببینید اون یک‌مقداری از یکی من مینیمال‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-06T20:08:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/At9IaPu2EJ4ei4fptAe3Un490rOsS6xz7WKBkLqt0GqTorfIiFZIz0WRkPL6Qb-OB3_1aTZlSZ7eHfcBp-qaGL-Su0pbEnjD2UA2ipDhxeZ-y6qNwMgJ48r0fMzO3EjqjL_-kV-yjFLf-k1nu8lCIq4Dgay2A8n8tCKfhFttB5l5iUhTp8_fEIGe8WK89svTTNJRCpNXURKJSySnMyjbgrLwxqYL7UBDkScpk9aKVZ7kKdkw0eQ1gEBnfeicuPhppaO89qsDb3KQBBSOrvc8srJokr3YMuBqZMHXtXwOeSjnmGF-xVpdyJamN16ys0Jvd3rAsugQbyEdbgma4Vpeug.jpg"
+          "url": "https://cdn4.telesco.pe/file/cRU1fC9Lu3COyeTq3e9rb-KwWiKdKkGl6a_GIZ5Y7WKGnxCLi7zfTr8O5_1EefNF8USRx7gtbRMNYa_rkMTEFAXbeW8iDyEU1E6GVVhw6E0h5SudNwq20wz08gTgMdEFNNiHOxw7JKSArEtO30qepRnrv7Xd5OL4OB-OxYZEX5E69sxDuaKstGcLPKx5lZpEkGoPFezFh8z7aqYPfvs_O6Am5XCqsFrwytx6HWN_-klN7N3tx8l14d6u7k8N9GHRC8YdVIl0gP2aNPXcXajBCoBhz1KacENACY1QggpKwxdQ8OqeD0l3U5uur9ia0DkzZIH2JHRPEzyOsn-AzHkaiA.jpg"
         }
       ]
     },
@@ -126,7 +30,7 @@
       "date": "2026-06-07T08:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 986,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +42,7 @@
       "date": "2026-06-07T08:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 943,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +60,7 @@
       "date": "2026-06-07T18:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 915,
+      "views": 944,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +78,7 @@
       "date": "2026-06-07T19:04:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 975,
+      "views": 989,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +90,7 @@
       "date": "2026-06-08T15:24:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 828,
+      "views": 846,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +112,7 @@
       "date": "2026-06-08T16:43:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 862,
+      "views": 876,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +130,7 @@
       "date": "2026-06-08T17:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 938,
+      "views": 950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +142,7 @@
       "date": "2026-06-09T10:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +160,7 @@
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 579,
+      "views": 607,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +168,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JqDdkag00687kYF9gMkb0tlbrzdbKayB_g2hWs5YkeJe2Hh_QHi1SoIigjlBIUMnkw3kwAzWzKo68n3_2H79phSeGmAwDUjwhNtJfmqKRxZQSE0mOmHseY8dLur6uANfx1JgA2_uQHQONQm0kD_0m17eytymIUS_p2VrMTLPunTMYUD2HQgTqPIUBIhcLZX5ZPsfsdYc3zZdpmGjS_IyXztuhTeN8VqsLm6WviehrUfXTrhipmS5iLY8NM6yxla_mgdY4T3m3G6xWxiMh9IDYyGMnGbUZf1cJ-0S27g0JTcu8kNFVyj8DTlgdv-n3Dt5um4-g-01crcZVRGTMbw1_A.jpg"
+          "url": "https://cdn4.telesco.pe/file/hhm_3Ws97rtGj7JHcmbbUL54KacRj2Uz5RJcCAyaOhpbCTAjl_Prn0t30ocEOmszotZ_otuJt7SGs7T-Whcb20Tq4KkZXxjwVRqCc6-gCsRwVlv8bc7jhgOsQvj62VN7QZgfbDBvFRo1jFgE4yuNpKF77_59P-Zp-6ZfXD4g-_wyakYkjBGsoKZSlZYtdsxhpn0YPhTLSv39xxJjWaePPjGTpBofqDLZizIOrwHsSkw_jnHnenZ5r3Sn52aEd4vm_87nZHkr8ypapdyzl7PXVMDp_WZja7iIazXkPdePytCwf8dArZ1OSTuOSUK-zrsa8lO3Ls-OprYp_frsZPSB-Q.jpg"
         }
       ]
     },
@@ -274,7 +178,7 @@
       "date": "2026-06-10T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 560,
+      "views": 643,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +197,7 @@
       "date": "2026-06-10T16:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 319,
+      "views": 480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +209,63 @@
           "width": 478
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "و بالاخره دوربین استیبل با رنگ‌بندی درست روی کرنل ۷.۱ پوکو اف‌وان :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-10T18:53:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 305,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/neCi-ckAP_oEirmRuvaV2jjDH3tysZqK0AEUxpNiuvlXie1YeUcIipPI5gbARreKQPJwUmlfsksNDI4TYJgxySGyDhpSnbXZ34tdcoy1cCHbBdG1HOqAoTcvG2i2-8YKWILwSmZfJiigLCBnpMO4D55LRJvyiHy5HNfHkA33gu_kq4smgi0J1IuRD5VL8gRG3tI2Q_w9NpokrelUIv8uj-_x_-l00_BwlbBsGZL_Avcdwr7Bpmkn2_ZzR-jpUaieBvphZ7dviosoIeJapHnw0SvWyLWnkGkLp4FEg26NQkaVM2T-gwLrD-UQ49UP-Pa5uOx1aziJzuAyYivZKIisTg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "Plasma Mobile 6.6 \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-10T18:57:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 255,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/roos1AcTfcIvhAzQRRvySBQCsTcJu3bwxPUjwXvRyFuqMrEDCKMwNoOwDadFrB6AML5X-5oPAE1Qenqzme7QKanXKGISwE2nPOZYQpmfpA8G4H_aEQZ7ap5Y6tYDafOw77JYL-hu230ZLas--T2uBJceNg_aA7m6ghJbOGv5T249TYiJ9RZSdcsqTqeI6YNC7hmFevi53yiE-4FBXQa7JkKtTsuIOA2y8e3kr08M9Wn7TvsAoT1TzvAlsr3KQHZp3uOiUL5Cx_BSyg2MfCdUjJN_53c8TXWWhmuF3wK7NTqGARLxR8AMwJf9Z1_BS1vMXB5qbGWCMyWF5KglTj7y7g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kDVtSWUb3BW1IafVw7f0ZSxlHKCtdVnOAG-09JDylT7bqCvHC_QYzgt6ZJPF_anecJq-_mxuIb6wOdBIwZg6zqt5QpxbNQ98K2LMPNRGBK5lYQcfnmUc9k8K_lq4sv3p6X8MxE7KdqI5ltLGsqPETMaq9MA1zpgKqLe1SB2CQD7r_rnRw5Z3MCF3LU_Gyuf7zLNEKRW5d70-nLNR-NZULm5pAIgY7HeC_1wbUY27gRRR2SZftGnDhmAmmd1kMO3QCEOQmxY1zzeILUdFnapdC_ErEvGHLmHWpn72Wr7R5BNbqN-r-qIfxJ-xTcIyWuGGQs1b69aRPazYVN-73ILj_w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VB96nOAynzN4oTvdeYYEM4giXykIZz7qzpw2lberxsOnoHneH7WCQnTZ26PDEvKNAys41y0mqh-SYjTcHoSoz1Rpfv5GmbxpbQ_U-giZnokanyYjjbw3N9v5F63zoCyNVKaSMNNeb37D06PpPw_ekK1AeFkdGzBtYBvxTJmvUE1VfNEmQxAoXmKDYO8CCgfRCvkRIwMtwbO1Xs0EA6k-UcTj06WQcRqaS_-6N8_Tf3-xt6dYzWMQEi_YMlo4lrfgyQa5rIbmtrHhHFEqyXsl5y3Nl_qh41IAmgvQ8rIG76ODqvU1f3paKA4UnUooWgNnnv_lC39r_a7AoMSI4yb7kw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/N5iUumaFalbRhsMpUTFrAeCRYwVW8AhkQP2EiXvTs-VUBrnb7q7MlOYIlTBVProKCA4assk-RSG6mok-00kr-9X7S1hylNNHWopAU4OJb8srrwE9I40Ku_MC5QNO1jJZEoSHLcSacoGjkhoSZzO5-fb_vJy5tWcgpK3IJAqqThgvM_YSPDjCfPyFo-r4gc1b2J0GY2M-8kSsDP5XSc1C7-OvzwzSZ-It7FmRCEuxLi9LNXKFUpT1kkh2GIMbEC76DmFxa2RXGZdDgmfsVtqhbo2d-FE5hBqDkLnGDZtET9D7COWPo-e1URBdlj41xqHqxDTVrnTTnny6-RMHrYHpFw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CaAV3yuqKkMz75LudNfkigrjXkiP9F1VOZbKLvoK3SOIF0rYVwYdZtRchelVsk0CC04Csm_bs7QADsrN4FFb_xVMR9rWad1UX8n9kEHE7L1vjUPxQRO43nIansH8qaKZCCPTkEBXmyyjSBLQbL2R1UW-QIyj11rdnWLomquSCAz3EWw_AlzWK_gNd2L6XPpnZ-tYfnpIioTbDn93_O4Bcm2NupxYrHcM3qrJgg7MuYDf4bAD9kihw1QNjsJ4Lo_uz-1yeXx9LR2Z4Q1X0OhaBAXYtXjtN1j6HaYuZcH2JQ3FYX-ZGSMtb6gOPJqy6Wp9W54LIrwRyYQsF4oHj8K7BA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bV-p2ykS73z4vRLrLXMWAf8eCBcNlxi0fbLWzD8lgW_SwV1HMlD6nhiYpgKjWqq2M34GOjDQKIiw8tSXsViet_lwRGk4HfrGLWFUh88yzsYq8RtfU4A8_5UNwSCXu6Rs812oj5aLTSXQ9oOIDnNK25geN18nhiWmCNEnQB8-SKlg9ovAujNR473RWwO1r1ec-OcxK_AdliUzUTbjIShjPOXgf8YfVlTQu3D11wuMJ2pHxweT7uqx3ZcQpaPgZj3nQED0Kosbpu2AADsXWs-4WAkDTe56V1GMzOz4_VKyUHCWX4pxBufOCfraQ7kqhHedIlnAoJtNdDGndIx3u7iNsg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781113317
+  "last_updated": 1781122368
 }
