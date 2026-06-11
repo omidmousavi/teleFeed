@@ -3,68 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/NVb9c3b8vQXjpAuYHi8b7Lf4QTnFiVQGyWi0Vs4wE99hwJVRYQ8Ey9SemA63pYyPEUOP1HixqjqPlfdEcL8CEyY-LQqdfc2XoXvoxlqUvHu6xcFcZe1s0uSWd3uqjY0ajNY-rYdiaJ98hiMqcC_pTU9mqpwwSMxIKP--atqcvIxvc95DlxTlsCqFmuXHUfKHRdRGCKqzkwTBfIchkPLCR8iTvLjK-1fJsgqjhTcMG4MDTN8rfjV60xCSMWn94y8yvHMb7kGHkfFKq5p0AuQQc3BuPa2XsDdZuM24ibpuAD7H2_wZcRn946LYe1Ib0j0II7IToZl6wLTSY89m_1knWQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/I1d7LaBde5WONFS_pe1kIdgclDZuqOnlkL2me4dtDJvcpgvKX7G4OYpaKrgC_rWni-vyOH0G-m9gg83x_TkkrqhdJubbF-xOaZOoqpCKxYoH3fk7Wr4ab5E7oXXGe2LDjYO0CVnodMR_gbMqMPZKF72xrY2mIoVAmUOeWGo9OwDqpCMxibUUm0jT4aeUeHSGhPM2V6gB1l9lgg_Z-RP_8C-Vh4wMeMq73_EPGce4W7qDhOND972C833WePoMh0oRFoVRT7V6U_2kbnv3LvIS6N7fxP1Cbl7icL0Mqh0XRG78WGjan7DAuZex-U06GbIjclZpiwaG-hB1fGjTPN5UbQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "چون دیدم خیلی‌هاتون دنبال یه ربات بازی بودید.\u003cbr/\u003e\u003cbr/\u003eفعلا بازی پاسور، دوز ‌پیشرفته رو داره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A4.png\u0026#39;)\"\u003e\u003cb\u003e🧤\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eایدی:\u003cbr/\u003e\u003ca href=\"https://t.me/PlaylabBot\" target=\"_blank\"\u003e@PlaylabBot\u003c/a\u003e",
-      "date": "2026-06-09T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XUTYzXi1bZheMhOgTC5n_pUux-iE50HLwvQAr9JpWyj3An1jTN6KVunCk_XLBeIVVC7Cu6NZSHMtvqdiw_eyvosGKWgFN-AqRQgGsdy0NPJyutWSN8h4Bd5JZ9lRPLk2TKcHEXBX2QT-opaBB_bEAEiFtDpuhMJz_5flB8YBX_X-yPpoT7-jhSdX1OH4XyLDSd0sr07Gpf-clM-k5WBkwKS5Lj4kMWQaEOtWC9zWunogB-GJL723wJgK0U2UIAU7fXmnjvydRaV9NSsiEhJzBIEfDGTAYws07lm9xQonIXFeuygcdXCXBG0kVhrgVJPCys9kKsW3Ka-sQ-odXtnqmg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T9ARVXmB2nDipce0ZNC9bfrLFhBPf8mYnhFSTmrSn9ekZEI-eQ1WDDQl4wgLk5luTpCwQ7CCjmR8jIr-YKnOn4IUpCWiB0koy90u72eKrH67IaUXqyON5xiazDec0bIuVuUsUY-WLS4-Ky_eJDQ1h-UZcCXdt89M-HYTv-i6bUjUcIqStxIhUGy6i5VtziUfNDl6V-DoEroglakSRSLFSRtGKjfL2ztTIMyCwW27FIQ7tVEp9m1fc3KatLUn5GoLHjUGytvGjpQO35BxGXQyo73yXoNsnbmAKiZCFL7SGxbAEaomakMJRWJbqC_GJvSCH8f7gX5uOJihgkOtdwy8NA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این پروژه پایتونی جالب هم برای تشخیص اشیاء توی ناحیه مشخص شده کاربرد داره مثلا طبق مثال خودش که با QWEN ادغامش کرده یه نفر با هودی اومده توی ناحیه مشخص شده تشخیصش داده و به گوشیش ناتیف فرستاده و گفته چه چیزی با چه اطلاعاتی اومده توی ناحیه.\u003cbr/\u003e\u003cbr/\u003eبرای دوربین مداربسته خوبه یه ناحیه رو مشخص میکنی هر چیزی اومد توش بهتون خبر میده،کد اصلیش با پایتون نوشته شده و از ابزارهایی مث ffmpeg برای مدیریت استریم‌های ویدیویی استفاده می‌‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/roryclear/clearcam\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/roryclear/clearcam\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-09T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VeBscc5ZDBvSf_0tYmSMhGWZJQvTI25GWjeYDMUznPTBk4qNuLstdx0mKadZC1Suf5fLuQ3mcG3oMl4B2k1HHtgJGB4DyYFnv8RfvcSv6JWmoyoROhWe7T5vjIaGKfbXiMNpNHatprYOji3vhU2JUfwRUpn1Q-ReVNJlEVZlaYu0kQsQPsjvOO87gGVlrMFizw6-kr8aqJCYp1Cml4PvoJJF5CFCFjTpOw59zCpCPJLC_H4wk9lScWFvW0XmEZUc9maf1D5VUXpAaiyQEHNBzOoDaZbfEucNOPIA4vsci5UbyBDVpvvbaleGENWxrOdZz97rvPv5jRjkpgQS1C08LA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این پروژه اومده تمام مدل های مخصوص کد زدن رو پلن free شون رو جمع کرده و تبدیل کرده به یه رابط کاربری ترمینالی برای کد زدن، نمونه مشابهش برای چت کردن رو قبلا گذاشته بودم و البته دقت کنید بعضی از سایت ها حتی برای پلن رایگانشون هم نیاز به کردیت کارت دارن که ماشالله ایرانیا دکترای دور زدن دارن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/vava-nessa/free-coding-models\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/vava-nessa/free-coding-models\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-09T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
     {
       "id": 0,
       "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-09T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 7970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +31,7 @@
       "date": "2026-06-10T11:26:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +49,7 @@
       "date": "2026-06-10T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +67,7 @@
       "date": "2026-06-10T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +85,7 @@
       "date": "2026-06-10T15:00:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +97,7 @@
       "date": "2026-06-10T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +109,7 @@
       "date": "2026-06-10T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 6060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +121,7 @@
       "date": "2026-06-10T16:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +129,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qIrN8sqsDJ3dDNQKKuKU7Ha2tc_4g-DuSTXapXytkOy4uJr-LNzxtbIGq1lmeRfl-Gi9F_3AzeSlkoPwey0WGz18KMHqUADXdsskYi_cRfA5U7pdaACwx9H94IJ-HbLjpQr6zIcnFJbGA3ys3xqw8aSa6jfY7JX0YNK3t1MzASABXzON6ALUJpR7N-4p92OXUb2GNuVQfsVuHC20EMnW4DrAEzmohwtPwtEMtViXusAj6OIOzWo2cYVDxUhb4skZkgxT3OX8BX8xXoakydpsajcsBxrLaCQgqDhrFqjc8pKATxNoh4zIPsEFTqxCoI4DkJH8-cEZ5gwdRvCX2xhuRQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/m3DAtnGcqOkyOSHu7hCMDIlktQUc5STJdKkJB0QsRtvA6x-zVzXTUQ593LEkBQI1r47oWwIrEo6PrSzxXJgPBinVzkLWBVs3ZVO-5AMwuhqxryXVgOYAFBzybB6gv7TK3Qg7EdoK_psk_GvK41s99btbJAyFph-opxRyA6SI14gYhLI2c2xMh1Es8qeSEnaRrZ8YhubMl07dhip1Cqn_f-61aetFHRabhcfYB5dMwFVw1LW9pqUIPcJdAWQrNr7p9zKsLTWYL8N9UOs2ethi6JkXAppWzcUzukoiVCPjtNPBIMoKRhTo2xwqWRQE_HVoX4ZTXv5wuvNV8187gp233g.jpg"
         }
       ]
     },
@@ -191,7 +139,7 @@
       "date": "2026-06-10T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +151,7 @@
       "date": "2026-06-10T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6640,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mioUmdNJ2SRF-5POjEjt_ZVKEZuWaukdIz5Bt0eJiTxi29kCdBDKRt2Ymzj2DOjpwdNSRyM703ld3NIX8DNw0kz_bI9BVqpx1lPb9VT2q1eTD9CkmWzqpA-Xju9AKaURRp0KVT36YUxEQiDPugri08kwgPUb9_xZHLt-I-7suc6VoyOS8yBoGWgea4oymqcQZW-8MjUT9DMHED8cRzTtvG0UNZLQWdDqcbLRenC1Kmz7K0Wk9tll9voWqG_FKMT4SEspG0_41bo0vhWl2Iq2dcrE-841nXWCQyCOfh9y21b4D2Z7_M_YvIxXrd6r395wsoSfXTgy0E-WawY7IJtOvQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/O07g6ZEgxDfjUJE9MvL8D04Vpzq_N-qODDfVaGL-7m5PIye1grCei8yxrclNXYr1__StS8TPOQG2PvagRGazFgWQ0WeGFwa4FLXpfg1k1EPLGgKfMrLePbPCctnlq0xwp3axrQiFiaVFzkPSeqJmyzynaFZ_V4bhj9AlC43lTRvAT1msrcC25uoO_Xsx_YTXQ2CVel3Wwqa6YN-fh3DBfJaaPdk5km4TBIqCyIUK8pdaZhfKSw9Y--ut0C__axKdCZmynQZ6s64Us3fjy1uw_QKTac-triRpvQhnXWBo3d1toIHDfIl_LU_rEWGZiPfXi88_KEMQ5P81KxZCmaZ4HQ.jpg"
         }
       ]
     },
@@ -221,7 +169,7 @@
       "date": "2026-06-11T11:53:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5140,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +181,7 @@
       "date": "2026-06-11T13:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4300,
+      "views": 5620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +193,7 @@
       "date": "2026-06-11T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2770,
+      "views": 4540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +205,7 @@
       "date": "2026-06-11T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +223,7 @@
       "date": "2026-06-11T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 4610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +235,7 @@
       "date": "2026-06-11T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 597,
+      "views": 3740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +246,73 @@
           "url": "https://cdn4.telesco.pe/file/lIYi3urDx4Du4cjHaK1cXJ6NQ3ttbQd_g4L_95eXRcFGru4ctUfyrQzNCk4N5o5PF8TTSWcjxKVkeioR7xW4nCSFYUpPtXtTgcyOTwY4cx7qo2uo_SJ_Dz1m4xY9f9OrnTiz70puFKSL-Lub1p4ji6kc_JuXLY6_cFC2QMrc-Q3RQJLM8L_b4BNhn5k8g1pWEcPnuzCDMXjkjF5qSi6Ky-YRHF-8MkoF7jGPA-g72IIpaYzUshoGckUyRCPf7WBio1xRPManSLXmlIBDRzKUkPre3iI9obpIr7FsHQnS8EMomwqreiL1Y6UNKlrLZrDUXCRfjlOQADanqb2LD4XSRQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5992162376504315969\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اشتراک ویژه V2Ray\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5411269759117312961\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8D.png\u0026#39;)\"\u003e\u003cb\u003e🍍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفقط و فقط نامحدوددد  تایم بلند مدت هم در ربات با قیمت پایین تر دارد.\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5469641199348363998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 1 کاربر 239T\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469641199348363998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e2 کاربر 379T\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469641199348363998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e3 کاربر 559T\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003eآیدی چنل :\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/VPN_GOZAR\" target=\"_blank\"\u003e\u003cb\u003e@VPN_GOZAR\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/VPN_GOZAR\" target=\"_blank\"\u003e\u003cb\u003e@VPN_GOZAR\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5352825278672412291\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مناسب استریم و دانلود\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5352825278672412291\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e امنیت و پایداری فوق‌العاده\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5352825278672412291\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سرورهای پرسرعت در سراسر جهان\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5350501108659790021\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003eانقدر به خود اطمینان داریم که ضمانت بازگشت وجه هم در صورت عدم رضایت برای مشتریان گذاشتیم پس با اطمینان خرید کنید.\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5472239203590888751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e جهت خرید از ربات اقدام کنید\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6102719374483790767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Bot :\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5287564109603158826\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/VPN_GOZAR_BOT\" target=\"_blank\"\u003e@VPN_GOZAR_BOT\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5287564109603158826\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/VPN_GOZAR_BOT\" target=\"_blank\"\u003e@VPN_GOZAR_BOT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eآیدی پشتیبان:\u003cbr/\u003e\u003ca href=\"https://t.me/Gozar_support1\" target=\"_blank\"\u003e@Gozar_support1\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-11T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KC6NmePDoa_Ftggqext-Xxy32Np0cpr7dUd0m84Ax0hsqlVi4kaBIDi8LVrGrQd990NLcE81AoKsoWMWP9OWoTmCIrsjIVnjkK-6Sn_1Ewdmoct8bRZmbgZB07huKy_oule2x8Y9zSbhLLQGaDOSITnO4CuvEmQ3u3U_qlnrg11VO9Pdlul0XiTA-7sxxnXs7lGHVJ6aHzNCJ-11hG1fAGTixmvBKPb7Z6czN2pZin9E9EaIkk5l6y0f3OnC_8ZKERrzFqugpCvN10wZ7nirZcyt25HgMRlbGUVCfqVqO79M1ylJHs9n9aSwOBIbW73FaXGyj_EcT2Js2qNHxW0MkA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینو فکرکردم شوخیه ولی جدی جدی سرچ میکنی emacs گوگل می‌گه منظورت vim بود؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل اینو عمدا طراحی کرده چون جنگ بین vim و emacs جنگ تاریخی هستش، حتی برعکس سرچ میکنی vim بهت emacs رو پیشنهاد میده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-11T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/U-JAgfV83ipCvetcX24Ki931O1QjHRICltEOozSPOFcl8IWmDZSdFh6QEunJcehY3Gaw8ZPUHH4CCkT4wI936mjCEeShRoxsHjBl_0eab7OTSSTW3dLKCA2a-H67m3FmQB80PeGYgMuYXrlA_AheWsE2Gf9foWA8_WB8o-O5eIAZsa145gDCCsIXMD9hiV-7lU3Io6wvVMVI2uKgXBtjnCy3vYxbsYN9RIGraZ56a9ES7miEqAb8RI3s5hp8HvNhrKuOuu6M7K82qRl61Z-YtmreeItbfyxc1CyDUnLmkUmGD3mmicmA7-S0MMAkBmI_xlGUXiEEoTJElqqUlrU6hA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "عملیات سفارشی در پای‌تورچ Custom Operation\u003cbr/\u003e\u003cbr/\u003eاستفاده از عملیات سفارشی توی مدل‌های پای‌تورچ یه چیز کاملاً عادی و رایجه. این عملیات سفارشی می‌تونن کلاس‌ها یا توابع خاصی باشن که با زبان ++C یا CUDA نوشته شدن؛ خوبی‌ش هم اینه که هم توی برنامه‌های پایتون و هم توی برنامه‌های ++C (واسه استنتاج یا همون خروجی گرفتن از مدل) قابل استفاده هستن.\u003cbr/\u003e\u003cbr/\u003eتوی این پست قراره یاد بگیریم که چطوری این عملیات سفارشی رو با ++C و CUDA بنویسیم و چطور ازشون توی مدل‌های پای‌تورچ و برنامه‌های خروجی‌گرفته‌شده با AOTInductor استفاده کنیم. واسه این کار هم از یه مثال ساده استفاده کردیم، لینک زیر :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://leimao.github.io/blog/PyTorch-Custom-Operation\" target=\"_blank\" rel=\"noopener\"\u003eleimao.github.io/blog/PyTorch-Custom-Operation\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-11T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "ابزارای تست نفوذ برای تست نفوذ و هک دارن روز به روز زیاد تر می‌شن این ابزار میتونه 45 تا آسیب پذیری رایج SQLi, XSS, SSRF, XXE, SSTI, RCE, deserialization, JWT, OAuth, and و... رو بفهمه\u003cbr/\u003e\u003cbr/\u003eبدرد این می‌خوره روی سایتی که خودتون نوشتین تستش کنید و امنیتش رو بسنجید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zakirkun/deep-eye\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zakirkun/deep-eye\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-11T17:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RUDIzNupt3sxGobobDSHmQBbcysmv8NtvHMVEQaZC9RJsq9GbKZGW2GR7T_wo_MajNRy7dHf1qt-quVNGLx5Uz6n_hZcy74ev_DuNhikRabLLItl5wPoslQwHMgc8IfrqDIR6RPv7vB6iAzp1qxrkoSOR5X-KisQSk8qDn61Te4NuF3mQG0E_NMYGk0cJP8I5rLY66zMTktd-zS66p5Xnsow5jxOhsjHCC8-u9AhBAh3HOkU0SOm7KnTYhIJYOM64h4t0cncetxeeUDfaUrwm02U7C915Q0ptV9dox_RfigTgGNrtNnqM8pyQRDIbUnZb5Vg09kQDJzgho9rkHfkgw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781192086
+  "last_updated": 1781203257
 }
