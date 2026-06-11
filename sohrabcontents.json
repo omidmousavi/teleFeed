@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب یک اسکریپت نوشتم برای بیلد پارچ ریکاوری که فعلاً ترکیبی از گراب + بیزی‌باکس + کرنل  + tcsh (شل مورد علاقه جدیدم) عه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحقیقتاً بیشتر بخش‌هاش نجاست خالصه :))) بخصوص اینکه حوصله نداشتم gdisk و این‌ها رو کامپایل کنم و خودشون و پیش‌نیازهاشون رو از سیستم کاربر کش می‌رم :))\u003cbr/\u003e\u003cbr/\u003eیک اسکریپت بش ساده است و  سورسش اینجاست:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/parchrecovery\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/parchrecovery\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو همینطور هم اگر دوست‌داشتید می‌تونید \u003ca href=\"https://gist.github.com/alirezaarzehgar/8d2cb5e4f1855653115ebb5eeaff4a8c\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاسکریپت\u003c/a\u003e علیرضا ارزه‌گر عزیز رو هم ببینید اون یک‌مقداری از یکی من مینیمال‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-06T20:08:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cRU1fC9Lu3COyeTq3e9rb-KwWiKdKkGl6a_GIZ5Y7WKGnxCLi7zfTr8O5_1EefNF8USRx7gtbRMNYa_rkMTEFAXbeW8iDyEU1E6GVVhw6E0h5SudNwq20wz08gTgMdEFNNiHOxw7JKSArEtO30qepRnrv7Xd5OL4OB-OxYZEX5E69sxDuaKstGcLPKx5lZpEkGoPFezFh8z7aqYPfvs_O6Am5XCqsFrwytx6HWN_-klN7N3tx8l14d6u7k8N9GHRC8YdVIl0gP2aNPXcXajBCoBhz1KacENACY1QggpKwxdQ8OqeD0l3U5uur9ia0DkzZIH2JHRPEzyOsn-AzHkaiA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگر برای چشم‌هاتون ارزش قائل نیستید می‌تونید از تم لیکویید گلس برای پلاسما استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/david-x3d/kde-plasma-liquid-glass-theme\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/david-x3d/kde-plasma-liquid-glass-theme\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخودش همه چیزو نصب می‌کنه و تنظیمات رو انجام میده.\u003cbr/\u003e\u003cbr/\u003eپ.ن: منتظر پارچ‌های مایع در کامنت‌ها هستم.\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-07T08:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-06-07T08:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 996,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-06-07T18:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 970,
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-06-07T19:04:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-06-08T15:24:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 858,
+      "views": 862,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,11 +80,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RPUlIF2hTuiI2y4-cK_ESJRpPU_zx-_Epf6eLnnD7CiDDE7MeDYx05oh1vQp0eWBhMdKx3SU5W0kGcEVQM_Xn9IeQ7Zz_3kBeRRHHIOD0hfsXvUTeppOb2EaCqb18YFWsgAIu7zWFPVkagbFn_N9vo7CrAg3zCXTnYXdCtFwTAguWLqi06H15d0ZdIDLz3psASu89ojgVhaPx2dS4yQNuKGKKLb6h7lUyWePJ7Jd2sGjSxrVHSi7R2fvQVugI933eeNzEBGzX-c_uYAH7Nviwc3uJenmU4eH0xgGlvPVeelpEFRckCLWn8QYMcHYZU5rS3hvjDDrO_ccm0xYJWKptw.jpg"
+          "url": "https://cdn4.telesco.pe/file/QJlTnciunfVVnN43PJFDm5loumokEQ50VujXbSc36gnBbxjTa6vsEX2Jcv-Kn3szhpnJQ6Vvc5GwJ6aclE69eBccPmkZEbXv26uXY8piW3ivkd9MUAlzTKZpx9D1W_EtMphxQbEiT_SO__QWBG_YH8wGOAii4gc40gfsBC8lUkKH0_l6qxguJSF0Vntbb3IzUfjmYB8dkBMPXDG78_tQ10cUSSAoNNFJQohJ4u5VUpWI65ZpaIKyVGKkuHg0xjnc01yEyHeUcGj4_UpwJ1J7Hm4UkbD6Y242HaSLC8GwLNui_SsfEJvdITG8fds8X8lT1RniyQMvQ1HEbJy2WG3SWw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EG21Fm12uNhokhVUOGVDgnL3xQvU0PyJ4ta5t4gF2FvUbScVYwE9VTJzmwjkLTFEpj0GH5ndsh3G003aybwYSYV1dZG8TrFn7XYTM5x4Qw4lDMXYjpcN3YO3ZUfTTxIeGiWzcG5HlU0yqRssGGm3n_t4qTF-G702QiRXVqfOh_tpds_R3zFQ8UsXHZ1viPHEHO8b0mYyR8aomp1_U2oapk9x9LsCWwHLIpjy0x24p4_6uFCMx_HOPWPG7tWi7oAxOjzjcgF95H3Uj7EcWSMmL1WzByslbjyEmux5LnsId5PKiOrftyS1LtjrT_anyqU43o588pGL5hkNjp6EXHGhYw.jpg"
+          "url": "https://cdn4.telesco.pe/file/u0PoWsJTTjPq5IReHSQoSl5B9dt0tnYKD1yDjDszju1cb_7XrQ7i371jaeQruSXzZDJIBFlR15rtMIALOwbNj44RZAqEao3ops1C4Xt-wrXh0TKrgrymitwO_oelA8OGXc3cJIkau2ssej9mNfhk1B7KS-VwY15R73-AYkweUenF8ndnaz99t11jFm3ytOLX3z_KndwI5doROpdW1IRFyq0aYCxE1rWXDukT6YgebFznrsy0HZATxXIB0yjyYh9_DLzMq85QQrJaCnDil89a8PffVNWOBkCi8PWcTq_sN5IproexHtrhv2_7-GHUH1rTnCq4PSHnHwZ1cllD-SG5iQ.jpg"
         }
       ]
     },
@@ -112,7 +94,7 @@
       "date": "2026-06-08T16:43:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
+      "views": 891,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +112,7 @@
       "date": "2026-06-08T17:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +124,7 @@
       "date": "2026-06-09T10:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
+      "views": 1510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +142,7 @@
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 635,
+      "views": 646,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +160,7 @@
       "date": "2026-06-10T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 709,
+      "views": 722,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +179,7 @@
       "date": "2026-06-10T16:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 606,
+      "views": 640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +198,7 @@
       "date": "2026-06-10T18:53:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 527,
+      "views": 575,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +216,7 @@
       "date": "2026-06-10T18:57:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 500,
+      "views": 570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,19 @@
           "url": "https://cdn4.telesco.pe/file/bV-p2ykS73z4vRLrLXMWAf8eCBcNlxi0fbLWzD8lgW_SwV1HMlD6nhiYpgKjWqq2M34GOjDQKIiw8tSXsViet_lwRGk4HfrGLWFUh88yzsYq8RtfU4A8_5UNwSCXu6Rs812oj5aLTSXQ9oOIDnNK25geN18nhiWmCNEnQB8-SKlg9ovAujNR473RWwO1r1ec-OcxK_AdliUzUTbjIShjPOXgf8YfVlTQu3D11wuMJ2pHxweT7uqx3ZcQpaPgZj3nQED0Kosbpu2AADsXWs-4WAkDTe56V1GMzOz4_VKyUHCWX4pxBufOCfraQ7kqhHedIlnAoJtNdDGndIx3u7iNsg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "تو ویدیو جدیدم آموزش کار با مدیربسته پکمن (pacman) و کمک کننده AUR پارو (paru) رو میدم و مقدمات کار با این دو تا ابزار رو توضیح میدم.\u003cbr/\u003e\u003cbr/\u003eلینک ویدئو:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/N96qYm6lDDc?si=psD161IBvM7QYKzd\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/N96qYm6lDDc?si=psD161IBvM7QYKzd\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParvizContents\" target=\"_blank\"\u003e@ParvizContents\u003c/a\u003e",
+      "date": "2026-06-11T14:45:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 177,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1781178841
+  "last_updated": 1781192131
 }
