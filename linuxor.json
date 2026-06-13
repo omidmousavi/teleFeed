@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آموزش راست برای پایتون کار ها از مایکروسافت! (جالبه مایکروسافت و پایتون و راست هیچ ربطی به هم ندارن اصلا)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://microsoft.github.io/RustTraining/python-book\" target=\"_blank\" rel=\"noopener\"\u003emicrosoft.github.io/RustTraining/python-book\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-10T15:00:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "متن های تولید شده با هوش مصنوعی مثل آب خوردن تشخیص داده می‌شن\u003cbr/\u003e\u003cbr/\u003eاین ابزار یه مهارت (Skill) برای ابزارهای هوش مصنوعی مثل Claude Code و OpenCode هستش که متن های تولید شده توسط هوش مصنوعی رو انسانی‌تر می‌کنه. به این معنی که نشانه‌ها، لحن رباتیک و الگوهای تکراری متن‌های هوش مصنوعی را تشخیص می‌ده  و اون هارو به به متنی روان، طبیعی و شبیه به نوشته یه انسان واقعی تبدیل می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/blader/humanizer\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/blader/humanizer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین مهارت خیلی ازش استقبال شده ولی اگه متنتون کوچیکه و حوصله درگیری با ابزار هارو ندارید این سایت هم هست :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ai-text-humanizer.com/\" target=\"_blank\" rel=\"noopener\"\u003eai-text-humanizer.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-10T15:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "چینیا عجب چیزی درست کردن، یه پنل هوش مصنوعی برای هک و تست نفوذ خودکار (عکس چینیه ولی هم انگلیسی داره)\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، این ابزار نقش یک اپراتور یا مأمور هوش مصنوعی (AI Agent) رو بازی می‌کنه که تخصصش هک و امنیت است. به جای اینکه یک کارشناس امنیت تک‌تک ابزارها را به صورت دستی اجرا کنه، به این هوش مصنوعی یک هدف (مثلاً یک سایت یا آی‌پی) داده می‌شه و خود هوش مصنوعی استدلال می‌کنه که چطور و با چه ترتیبی از ابزارها استفاده کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Ed1s0nZ/CyberStrikeAI\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Ed1s0nZ/CyberStrikeAI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-10T16:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QxTHqE8VEFPBuzkszd4h1C6A2ivu5-PFJNRziDuxZi3Y0anVRC1Iqp3WlGkhABPn8GNrNIHtejJskKyfnUVaUXV1MShGR5BYu75TMKdpesgm7qJZELxTfkhqxp4C-vC9le3heG30qSiBEq8dXwi0JCbRvXo0zlKRqfNNSnham1eM9HzbIa8-p1LMHPWfv0rB1u0XFh9K23avcmRcZWLriK63-Vd7bPEPk_laVn-MjjRZubD4-WIo26hYfD3jnB3wGCJZnP1tJxH_PuZfHF6ss4rM0o8aneYN0psMd21NaUryp2Qc1cHsrnFmZjEssCIzaL5hyw2M7HIXsm1REBizPw.jpg"
+          "url": "https://cdn4.telesco.pe/file/vyuox-RX1gl5XgJnRuQ6UAACAqGHp4EBdgR6ZWQ7gwJK7YnoRZjy4i28BR27N1yBSn4wMZbgoigfXIvaaNmxLW6-qcK3-dP39EaeHi_txvENYnCXloyoeXq9UokoxZJSdRK5lcdv1iDimaccirLkoTkouhO64_a5hDmPqHrd98Q0LuDcU9Js3s1s8VHONKeznMSoPVN9V-xpgYwhuIzYOR8gsZ3s0EDjfJ_knNP-Ntk38kLTuHTctqs04dSZkh710WKVKjPjGEns9bno8pz5anmSzvBUGVD5iCHrVLXvCa7WingDzE7E4t_tGUso63MuVBAtChl9qTtuI6JfTLapuw.jpg"
         }
       ]
     },
@@ -54,7 +30,7 @@
       "date": "2026-06-10T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +42,7 @@
       "date": "2026-06-10T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7910,
+      "views": 7950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-06-11T11:53:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,19 +72,7 @@
       "date": "2026-06-11T13:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "فروش مجدد باز شد! \u003ctg-emoji emoji-id=\"5852917659867287671\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5956386883771570003\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارائه پنل آماده و اوتباند در چندین لوکیشن ( تانل )\u003ctg-emoji emoji-id=\"5084803578346865347\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5927287750196727974\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید و شارژ به صورت کاملا خودکار \u003ctg-emoji emoji-id=\"5357122032674818130\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5197431403398058302\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C9F.png\u0026#39;)\"\u003e\u003cb\u003e🌟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دارای CDN کاملا اختصاصی بدون اختلال \u003ctg-emoji emoji-id=\"5958822078688793240\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5879991085001871624\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هر گیگ فقط 4 سنت( 0.04دلار ) !!!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6026095130698584657\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید از ربات :\u003cbr/\u003e\u003ca href=\"https://t.me/MyFreeNetBot\" target=\"_blank\"\u003e@MyFreeNetBot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456371000239212004\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپشتیبانی:\u003cbr/\u003e\u003ca href=\"https://t.me/MyFreeneSub\" target=\"_blank\"\u003e@MyFreeneSub\u003c/a\u003e",
-      "date": "2026-06-11T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-06-11T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-06-11T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6710,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-06-11T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +122,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kuuhVbZoxNsat7RzOLzfo92YWe3lofUOc9Y8XmgKhL3doJFD8PmV8VltwCkMOCukNKu6nIhgPn56GujyqDDea6DcsDsstgumVMTOYzSRO_JyccahCcsq5bfXKbMZMNpfQs6C9gvZ256u6NJz3RATDyg3aBvtHD5I4d7CgUcUh7jGLYzS-W91tguT7zpf5NtUpv11kY5ZLQvS5wwIh1gJQiXD5Czgav_liq7cEX2yecjPg8FgNOzT-19CfoEOnAQIOIVQjlpqCflPsMyAjwo7CVUMOU09fOwcbddoZ73K_MSq2-LnE7wl-0WsMf854nKmtYcOin_CW2sqVNB6RJk42g.jpg"
+          "url": "https://cdn4.telesco.pe/file/QFU7v1dOfrFFdkUZeP2N9eM1Im4ffD84dh-rmhKQfrGoYnXTF-W31RFAFjFPTdyAsChXiHP3sMe0WR5EZgCe6m9DIoWKq8N0KoTVsO0eyl4g66t03iIe48HEkpobgSCUAB1lZvP0jvt6-mm2ujHUFfO34i7pUK-j7146hxoZfHBzY4UNXxm5rxn4yZOli3oKR8Nn3P1ZdZd0jV_u64XsGoM_tWjUqxkq-u5RkHYWoXPOZld0FgkNutg1XJ4DwGyBN08QgY757LG3x1TYSuSlqVQ-RiQZJmo6nJPWYLMcWck2gat-qep3Gn5V-F3A1i5QG1WBZtZTvEQZPFRU7uEOpA.jpg"
         }
       ]
     },
@@ -168,7 +132,7 @@
       "date": "2026-06-11T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hPyZ8gS3GPZVN_u--YCIv4JgI6EPODJqpj_MvvhxfxhyCW12VOllN_b4S9s0Qgj71unABj3KtZeC6RfLxmyafJDjqeBWpWPT6rV4c8rH1_Suu5XN7T65KYjmUfuxj-ajmbgN-FOMzNTfwSS1qcFo_xqt6SYerDroG4DGOg1Xa0BtSJTdJdwAptl87FGtg-wLd2Qk9CEp0SW2FRlZekaqigCHE1VpjHCzqx0e6XA-QpspzMymYgha7iJbkOVjNCXdUdQMxaZ-W4tNWLeVr6lIHvhnqBWFuFsVVh5d9q9tGmYW-wOV98jAaM0Gu-7Q-7yZLr_ONI3Ges58sI_OX6n0JA.jpg"
+          "url": "https://cdn4.telesco.pe/file/iSzrGERJweY9AFnLUDyYS5WGkllGMqRCfaXTGODqjFHWpmMBazErfbJXS51H1uLXkHSaIBDbUKYHODcc9Nrj36ZJgOWlUm3vf0ZSdpTJ8z7gMGnvdaaubfCTdbs5EXUQFO-xY_6n96RKNUqUITS3gsuPz35vYz2zxLKGnC64LgBB6vOa_iyEAHveriUaiHRcS35LgYKJZmTIygGBZvRhQpZCKH8FZNmFtZqjmM-Vn5PQZqexhgBvWQqHRJUYN9iqfmXNcJ3euh5YDbPtyHLzFUJ3L4GBnwKqP500DjNg_D8JlC2v18mK2D0qNoHpnyqdLvy4fu-IxUCL-wYQuOMNoA.jpg"
         }
       ]
     },
@@ -186,7 +150,7 @@
       "date": "2026-06-11T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +168,7 @@
       "date": "2026-06-11T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +180,7 @@
       "date": "2026-06-11T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 7530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +198,7 @@
       "date": "2026-06-12T09:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +210,7 @@
       "date": "2026-06-12T09:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +222,7 @@
       "date": "2026-06-12T10:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +240,7 @@
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
+      "views": 5080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +252,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3220,
+      "views": 4260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +263,62 @@
           "url": "https://cdn4.telesco.pe/file/UwIhR5JZpYRwcjZpXwKw1NwNV-r4svgPQ7jeF--qm3JQqI0yr4nUDVPIYUjHayqizt_iURxCSF8K_o8Tg1jssr3HtZEx9KScSkkPjB3qghKoQ2uwTPnYqihQS5t-of-ME5u_VL140HxDQDS2tyqIrXloshxQCVSCazDW1ublzZ-sXq4EGdkbCBtBtEcfyYPKP35dW-sinCSwnt_vQdwlmBxoW64_2fQsrzUNUmMTTb43lpj7stLTpU6cBLvCI10Rp7BVPvSnjrCyaJdbW4iwFPfgj4n6ara0KVwEZdnycL2STNgtRrHqKZAGr-A3FIJqYRGRKKKGbhfXbNalhMVaTg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5276032951342088188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمدیریت دارایی و عقب نموندن از تورم، فقط به معنی نگهداری ارز دیجیتال نیست. با استخرهای تتر، بیت‌کوین و طلا در اوام‌پی فینکس، از سود روزشمار و هدیه روزانه واریز رمزارزی تا ۳۵ میلیون تومان بهره‌مند شو\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.ompfinex.com/meteor-shower?utm_source=trend\u0026amp;amp;utm_medium=telegram\u0026amp;amp;utm_campaign=pool_ro_pool_tech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eسود قطعی روزشمار و هدیه واریز\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5782694927397820732\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/ompfinex\" target=\"_blank\"\u003e@ompfinex\u003c/a\u003e",
+      "date": "2026-06-13T15:17:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2009,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Cfy6XN-_Ow4PZYV7rzstUpUNdCGRRf-fQ-MEbRkx7xAzD49-hHMvaaJjapF7YmvlxXe8sL0mX4iTsXLPlz114R7s1Mxh_ouFi1-Opjmb63VpB0vcyAWk829Lh7WmpoLGHKuUjikFER5ThB5vhxoBjkASNhvi7qIr0KVwjp3F7mUbQea8tfzAN3Hc7NBC3sUOPUXtoQ7Lk7fkWWP64XKinsqLM7Yw7lhfYuDGaAO-J-1yrl9t0c0_umBnnpcywDju09OWoRug6ZgJ09pbiMIfx0PbqKLtsnMiLDAjPU5hzghvPSQt91BYFUFMneAodywryam9_RAPol1-mZHVTXx08Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "الگوریتم های Encryption و Decryption چطوری کار می‌کنن؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-13T15:33:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1690,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qpqitdmSbdo-31xB2baIrC--Cg2XYegeZ7KVn7Z7Po89Zb5rxqQu-qThevOOMAuB8Pf9FQqHs-pZK6LCXNdTmMGKHD1dE1tDFaLl_4d9U_h7HIfrlrtYdpixmu5mwApXO21xmQSkx08axFEyQS9KGvJkh_XW33aNDcMMMIAEaWaAGMhny3YT9kN_9PsL5_cnpKEO6N2Lc35AFdHNDTOexdJU9paIZCKxMSGPelUIlHtMKeBmlYWuioOk2SmYGezv86FMWjlahOQQO3jUp8aQQW6A9okLRWm6fE75DgGxC5CqDi5UTDEENHYeqCiyK7kUAfaMfWp-YM6fOJuEWUc_iw",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "از WebRTC خیلی خوشم می‌آد باهاش می‌شه بدون هیچ سروری دوتا کلاینت رو به هم وصل کرد مثلا با گوشیتون می‌تونید به سیستمتون بدون هیچ سروری اطلاعات از طریق اینترنت بفرستید، به جمنیای گفتم یه کد ساده بزنه برای تست، یه چت آنلاین ساخته تستش کردم کار میکنه سرعت چتش فوق العاده بالاس چون سروری وسط نیست، اینجا براتون گذاشتمش اگه خواستید تستش کنید. چون سروری نداره روی کلاینت اول باید پیشنهاد کد بسازید بدید به کلاینت دوم و بعدش کد پیشنهاد کلاینت دوم رو بدید به کلاینت اول (این کد ها مسیر اتصاله) بعدش دوتا کلاینت بدون هیچ سروری به هم وصل می‌شن (دقت کنید این ادرس زیر فقط یه فایل html هستش و سرور نیست میتونید کپیش کنید روی هرجایی) :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://sepsoh.github.io/webrtc\" target=\"_blank\" rel=\"noopener\"\u003esepsoh.github.io/webrtc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-13T15:48:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/euy3EUwtMhsUdMmYqpOooD4TwD9PqZ9YwkYQPOeb_P8-d__6k7bBSI-sQVthmGwhopufXeNaw8W5RpYCrmTZyb2oqflWH5e4EsgDUkRIeJ4eLdSwhSXXdKLXljpng4Iq10YLSRS5GvWMjTJXl3SJ6PI8oaXxS56f7Szum6sYrf5Hop9vGbBJTE2bJBvR3xk7tgzQ3KpnPkMHLFX9fRaGl6q9d1NTRjEXt0lyMabLVyqDeqkbNlyAejCliy6dFoHgMZR3xvMVXCrWPDlWLZEoSm16MeNzJHYtJ3SMGvczp0RM4FOCfd9jLKc4MA03tpv_C5-0DUYHI_7WoVXofCUfDQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781361291
+  "last_updated": 1781366899
 }
