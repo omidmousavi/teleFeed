@@ -8,33 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "با تشکر از مشارکت \u003ca href=\"https://github.com/CluvexStudio\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eCluvex\u003c/a\u003e عزیز؛ الان درایور منیجر پارچ ظاهری بهتری رو به خودش گرفته و قابل استفاده‌تر شده.\u003cbr/\u003e\u003cbr/\u003eبرخی از این تغییرات:\u003cbr/\u003e\u003cbr/\u003e- بهبود عملکرد کلی برنامه\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن زبان فارسی\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن صفحه اطلاعات سامانه\u003cbr/\u003e\u003cbr/\u003e- بهبودهای کلی در استفاده‌پذیری و کیفیت تجربه کاربری\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه‌زودی این ابزار بر روی مخزن world پارچ نیز منتشر می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-06-08T15:24:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VCXbGzSzdxL3TGnBppj2y1E4H31rdQxgzSUrppNjqq9ERo6hc90jBIGxxcDfn4BRF_7PQAhleN-kq1a41ARLrIiXIYnNesTbV-11812rysa9g7s1UtkGzowqRyTOO0FIRWD7egylQDkwCX-JMfjKbYCacytCiRFrecH-OxpGWAH2z6s3tJlZJ5AAkGnkN6CeGSiAj1u3eYINiPWNvkU20Ym0nYkyFl48adbMZUgm5H5rECrVHsTPm4I_0BStSz1J54cA50BEyuT4gyqR9UaV02ePW2H9Gc59PkozDRAyuyWAyDZ73I1OwTF_HElWbOVfprCI9iGOtNcUVcMKJXaJKQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ek2_5CyK2cItt5xErpCMD10ziPeG_ZJyvwOU7UB9oB2DS39xfCriHPQzH_n8JRkNGL8HRHd9XB2X_h5jtJgupOHG-44OqtIa7N5N0SgiuWMCjW1bd0eeLqjYBHMSjwUyE4Fqy0zaLlgsw4mDXD1kRQBTFBsBNq5btejFdMDGG1xq_dxdpKsyTVCneiKbzbZhtWrJQPt-6L_FmD_O1s3L4JfclxbbS8z4ihCVIoXwvsCDGwhp8ZGra1cFGvN8gT2Vem8YeAqK01WhdtAwrrBBCLdHwsbeCa1pf9piGOsN6A1nSd45YmrWyVx-5lCTcPQVtFwDYNe1i6okQiwP4_zfGQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "برای داشتن Man Pageهای زیبا که کسی تا به حال مانند آن را ندیده است می‌تونید این مقادیر رو توی bashrc یا zshrc بنویسید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eexport BAT_THEME=\u0026#34;gruvbox-dark\u0026#34;\u003cbr/\u003eexport GROFF_NO_SGR=1\u003cbr/\u003eexport MANPAGER=\u0026#34;sh -c \u0026#39;col -bx | bat -l man -p\u0026#39;\u0026#34;\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eتمش رو هم می‌تونید عوض کنید؛ مثلاً تم کتپوچین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/catppuccin/bat\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/catppuccin/bat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگذارم.\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-08T16:43:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 950,
+      "views": 955,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +30,7 @@
       "date": "2026-06-08T17:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +42,7 @@
       "date": "2026-06-09T10:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1680,
+      "views": 1720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +60,7 @@
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 716,
+      "views": 723,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +78,7 @@
       "date": "2026-06-10T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 853,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +97,7 @@
       "date": "2026-06-10T16:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 801,
+      "views": 813,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +116,7 @@
       "date": "2026-06-10T18:53:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 782,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +134,7 @@
       "date": "2026-06-10T18:57:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 800,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +172,7 @@
       "date": "2026-06-11T14:45:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 724,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +184,7 @@
       "date": "2026-06-11T15:38:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 810,
+      "views": 835,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +202,7 @@
       "date": "2026-06-11T16:07:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 734,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +220,7 @@
       "date": "2026-06-11T20:28:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737,
+      "views": 782,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,12 +232,48 @@
       "date": "2026-06-13T07:30:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 427,
+      "views": 547,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eمخزن پارچ به‌روز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن world با ابزارهای جدید پارچ و همینطور لوگو بازطراحی شده پارچ به‌روز شد.\u003cbr/\u003e\u003cbr/\u003eهم اکنون لوگو پارچ به دو صورت دارک/لایت در دسترس کاربران در مسیر pixmaps می‌باشد.\u003cbr/\u003e\u003cbr/\u003eمشکل فونت فارسی در به‌روزرسانی‌های اخیر برطرف شد.\u003cbr/\u003e\u003cbr/\u003eابزارهای درایور منیجر؛ ایزو رایتر و کرنل منیجر به مخزن افزوده شدند.\u003cbr/\u003e\u003cbr/\u003eتوصیه می‌شود سیستم خود را به‌روزرسانی کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین برای نصب ابزارهای جدید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e## Driver Manager\u003cbr/\u003e\u003cbr/\u003esudo pacman -S pdm\u003cbr/\u003e\u003cbr/\u003e## Kernel Manager\u003cbr/\u003e\u003cbr/\u003esudo pacman -S parch-kernel-manager\u003cbr/\u003e\u003cbr/\u003e## iso writer\u003cbr/\u003e\u003cbr/\u003esudo pacman -S parch-iso-writer\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-06-13T11:54:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 175,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DFTQbszr8dOqZoBQBthI8sSqQ2kfIQ7eTNttcir9a4TfvSxcsGgF04Mu9ye13h-TngpprnsVfDUo2_lmbiP6XTjOIudUNsuAmmLzXuidTca8IA8Bpm9_F4aT5prNR0Gak8RAwKI22Y2Hmr8AGWLW1w7o8ECP9bMUx1PHhAd4h2kTbQRWbmPqyTaGD1qI9CLA4a9BX0uasURcWTJCm6b-0LPYTqgAqKFmenSG3y5SeOptdMnxXMFAQEs8INEprBQB7jWpL0pK723uyYJtTEZaUzgXqm-8QAOk6vi00fCGOym8Qa9L5zAArKdwo8TXAvl1U0gjGdrgHHhZ5XLfDY4Fag.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به‌زودی والپیپرهای جدید هم داریم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-13T12:01:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qT-lR0ZrUK7bge9mDrzviQ_cQsly43mHuoJW0NWJlhaGn3wKzG4mHzdWDJtqTw9xieW_MnELRT3aezA5K4rjfCEu_DtwGlaqmbxv1ciWsw9SulMxy78Nu5ZgHJBR1QkpFDPWq7BUPiB8CtRn6tgDqUxEQV0tiQp_BEz3ue9D9syrKD-z9k256FNs36bKocUUEFwgUmT2g7iiO0UnZbxtk8wxJs5vha9iOXcxop-TtEmf173543U0E0NPXG_5R76T0kKrvrNoHud8Y0qTOrpp44U48Di6ITmyCk-KRTexEAtnUV3Y7ubQdG3twlEMrcoJ97wtSeviUKII3mycG56n_w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781347416
+  "last_updated": 1781353262
 }
