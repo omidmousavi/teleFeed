@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برای داشتن Man Pageهای زیبا که کسی تا به حال مانند آن را ندیده است می‌تونید این مقادیر رو توی bashrc یا zshrc بنویسید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eexport BAT_THEME=\u0026#34;gruvbox-dark\u0026#34;\u003cbr/\u003eexport GROFF_NO_SGR=1\u003cbr/\u003eexport MANPAGER=\u0026#34;sh -c \u0026#39;col -bx | bat -l man -p\u0026#39;\u0026#34;\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eتمش رو هم می‌تونید عوض کنید؛ مثلاً تم کتپوچین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/catppuccin/bat\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/catppuccin/bat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگذارم.\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-08T16:43:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 964,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fORJSUbnkk4nzSzRECFsphGdu4R0FU1jHphtRMFUAy47wExiMzXYk4kJuH2xfBtlK6yhZ3EpfSisc4eOG5-aB5wvYfkmwugZroKJ0y3yJwao-8nUO5jeV26YZbYucA-EH6gbyCozntSnJuNfxSTtvRxHXypHW-VpqGKPQFGHmMQUZ4Xxlvcrgq1Aj6U-OhsrDUxnT_JIV1OIVY2LvnmRIo00Rim9M_FvsDwCQROVnjsmrhVppQ1uOJlhj1FNUoiJ3l7ctOgjV5sdn_30Ey-dKmMMIxDPUcOxrs6oVvZ06bEj_h9D8LwMqWdTsHehyi9r_Z5BE_AXhKIydiIVoSvSYg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "از کانال تازه تاسیس پرویز در یوتوب هم حمایت کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/mkmJro3lVNo?si=chkEKCZV8KBt-trU\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/mkmJro3lVNo?si=chkEKCZV8KBt-trU\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-08T17:28:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "لتس‌انکریپت پالسی خودش رو اپدیت کرده و استفاده ازش توی کشورهای تحت تحریم ایالات متحده آمریکا ممنوع شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf\" target=\"_blank\" rel=\"noopener\"\u003ehttps://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشمارا به عصر حجر (http) باز می‌گردانیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-09T10:24:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ks0Qo1G0KV-aiiap_kWOwrMOXgxlLtrh8JsNUVha4QqHsxb35ozDkCzEJMooNaqi1IfgFfrgtkHYqFxyNbm3LTT89tlATJgacYQdExh8MNc0PNDd5Z6YQx3OQqCg_IITmEHfhANhlt7gf3oioYEbwnGjKpLGtEIsK5kXmqjhKibEjP1eZZCkvJMaNo3286vvYVXGo_YVxSyYdZIEfoM5-MbM-Luo42fAgIM88dFAOxXpTF9iSAx1mWqd7jLgAQlvaG3kb7wo5N6ajq4XyMhY1Ho8MKflxm3rDdi9er_kq2iA8FgZzUt2Z4Ek6ITXG5oIKi5BoNJFLnfD0shvAbQPIQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e کیت بقای لینوکس‌گیمرها برای قطعی نت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاول\u003c/b\u003e: \u003cb\u003eمیرورهای داخلی:\u003c/b\u003e مخازن توزیعتون رو روی سرورهای داخلی تنظیم کنید تا آپدیت پکیج‌ها قطع نشه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدوم\u003c/b\u003e: \u003cb\u003eآماده‌سازی گیمینگ (همین الان):\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبازی‌های مورد نظر رو یک بار آنلاین اجرا کنید تا پیش‌نیازها نصب بشن\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eبا استفاده از ProtonUp-Qt نسخه‌های Proton موردنیاز رو از همین الان دانلود کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاستیم رانتایم رو با umu launcher یا خود استیم دانلود کنید یا از این \u003ca href=\"https://repo.steampowered.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک\u003c/a\u003e دستی دانلود کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eدرایور GPU و توزیع رو آپدیت کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاستیم رو روی Offline Mode تست کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eسوم\u003c/b\u003e: \u003cb\u003eپناهگاه کامیونیتی (ماتریکس):\u003c/b\u003e\u003cbr/\u003eاگه تلگرام قطع شد ، از طریق سرور ماتریکس ما در دسترسیم.\u003cbr/\u003e\u003cblockquote\u003eکلاینت Element X یا گزینه‌های دیگر رو نصب کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eموقع ورود Custom Server انتخاب کنید و آدرس \u003ca href=\"http://prgph.fun/\" target=\"_blank\" rel=\"noopener\"\u003eprgph.fun\u003c/a\u003e رو وارد کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاکانت ندارید؟ تو کامنت‌ها اعلام کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eآدرس ماتریکس ما:\u003c/b\u003e\u003cbr/\u003e\u003ccode\u003e#gamertux:prgph.fun\u003c/code\u003e\u003cbr/\u003e\u003cblockquote\u003eممنون از \u003ca href=\"https://t.me/Hr_ArshA\" target=\"_blank\"\u003e@Hr_ArshA\u003c/a\u003e عزیز برای سرور پاراگراف ، فعال نگه داشتن سرور هزینه داره اگه میتونید حمایت کنید: \u003cbr/\u003e\u003ca href=\"https://daramet.com/arsha\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دونیت\u003c/a\u003e\u003cbr/\u003e\u003c/blockquote\u003eسوال دارید؟ تو کامنت‌ها یا گروه بپرسید ، من و بقیه اعضا راهنماییتون می‌کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/GamerTux\" target=\"_blank\"\u003e@GamerTux\u003c/a\u003e | \u003ca href=\"https://t.me/GamerTuxChat\" target=\"_blank\"\u003e@GamerTuxChat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23LinuxGaming\"\u003e#LinuxGaming\u003c/a\u003e \u003ca href=\"?q=%23TuxFamily\"\u003e#TuxFamily\u003c/a\u003e \u003ca href=\"?q=%23TuxTips\"\u003e#TuxTips\u003c/a\u003e \u003ca href=\"?q=%23Matrix\"\u003e#Matrix\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-06-09T20:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 734,
+      "views": 744,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +30,7 @@
       "date": "2026-06-10T10:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 868,
+      "views": 887,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +49,7 @@
       "date": "2026-06-10T16:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 828,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +68,7 @@
       "date": "2026-06-10T18:53:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 809,
+      "views": 818,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +86,7 @@
       "date": "2026-06-10T18:57:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +124,7 @@
       "date": "2026-06-11T14:45:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739,
+      "views": 755,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +136,7 @@
       "date": "2026-06-11T15:38:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 862,
+      "views": 877,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +154,7 @@
       "date": "2026-06-11T16:07:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 783,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +172,7 @@
       "date": "2026-06-11T20:28:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 854,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +184,7 @@
       "date": "2026-06-13T07:30:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 684,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +196,7 @@
       "date": "2026-06-13T11:54:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 375,
+      "views": 447,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +214,7 @@
       "date": "2026-06-13T12:01:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 440,
+      "views": 533,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +225,33 @@
           "url": "https://cdn4.telesco.pe/file/qT-lR0ZrUK7bge9mDrzviQ_cQsly43mHuoJW0NWJlhaGn3wKzG4mHzdWDJtqTw9xieW_MnELRT3aezA5K4rjfCEu_DtwGlaqmbxv1ciWsw9SulMxy78Nu5ZgHJBR1QkpFDPWq7BUPiB8CtRn6tgDqUxEQV0tiQp_BEz3ue9D9syrKD-z9k256FNs36bKocUUEFwgUmT2g7iiO0UnZbxtk8wxJs5vha9iOXcxop-TtEmf173543U0E0NPXG_5R76T0kKrvrNoHud8Y0qTOrpp44U48Di6ITmyCk-KRTexEAtnUV3Y7ubQdG3twlEMrcoJ97wtSeviUKII3mycG56n_w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چه چیزی بهتر از اجرای Plants vs zombies، ویندوز ۳.۱۱ و سافاری ویندوز روی لینوکس موبایل؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-13T17:13:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 216,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SmG_i3Ka853sUGtoh96IfBNrBswZ3Xu8qCXMrAexFb71-dg41TAWIXRWPAqNRtMw9ku9ryYbIoirbIRGVEvHjpMAwyKlv1n9UKShd9TG26h1kjfUeiBSfvcdq5zN5DI5Ji_1zzfNurDdrp4FX0_zVIchSZeKsPJYRw5PXn5GlVdVwGExOdsTcfd3yBcEFnhwmkmi1sCnkxYz8yUqYGM09HJlxhYDHCt9FWSo2exRF95iGL1RMF6lpDDfyVaAr6RyTChyFOa8Du1yxfZ-SUoci_cUvmTd-kUTE4HsEj0J_sVgrXDCVBIou-_xIuE3aerepjvyUfiG1vf0pfa-KkcugQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/txnSK1UWPAipmFOwJsQfhHbDywc1BwbP1QDXeZZD0HSXTYQxw_ciOL7nJSOIK1Ie3Q-TWsthrZY2bUXcRXG7Kvm2wF-_YQSW8ZrZ1HbxDYriNs2_2A_DNy5XDWoVd5kkz9PhNzP5k6yFSq6uUlcYA_dp0-Le7Ej3bG3xguFyu-3D3Cz4-5SL0UwEETqL5tBQ82T3hh4fmc_ncBJiSpVKDBx9TMVRyNillKDtpIosXZ5bL4L549kchydve23KcIkxqKTVKaaYIPoNiCEdtYAFBpvlwCxU1WPxTrYIwzVuSUT14A3mqx73Ocpqb-Ra8XB1kFttK_4moWzYTqBw5wZWYw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ix-zT8yZjY9FUbjBSlEx2hpoCQ4w5b2h-D5O6QluiiyC8dLXMRPYtM4ZN9m5N9vHodOc43w1F8Fk7RWyC40fW53Iv86A-c5b62ibmG2vXzJnJvr5kntThOh8xeAdJmJe_94D7LKynyCmqiAnPZNYNLX4yRIOf-d6pCWoWxdGKFJn8pWPCpIlvMljLTohwBdvwTWAffTs6pkrb6Khr01FOqs-MF_u_DTsMheGU_xXLwY37Ibo97vFgyN6j2hOdqOB1adSgnhXI66UxN1HFO6918dZwRioPnuc9QMkeSzgNalY1v5FBJnPE_biKLeOkcNVj-BHqLzhYxsW3qHPH4arcw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781366942
+  "last_updated": 1781373112
 }
