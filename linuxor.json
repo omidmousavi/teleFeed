@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه خواستید ببینید سطحتون توی SQL در چه حدی هستش یه مرز جالبی هست اگه تابحال از کلمه کلیدی OVER استفاده کردید یعنی متوسط رو رد کردید و روبه پیشرفته هستید و اگه هنوز ازش استفاده نکردید یعنی هنوز مبتدی هستید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T11:53:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "خطر فوری \u003cbr/\u003e\u003cbr/\u003eتلگرامتون رو آپدیت نکنید، گویا تلگرام چند تا ui کار تازه وارد استخدام کرده روز به روز دارن ایده های جدید خلاقانه روی تلگرام تست میکنن. تازه به قبلی عادت کرده بودیم :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T13:51:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "این ابزارم جدیدا دیدمش باهاش می‌شه ترافیک گوشی رو رصد کرد (قابلیت افزودن سرتیفیکیت هم داره و ترافیک رمزنگاری شده هم می‌شه باهاش دید)\u003cbr/\u003e\u003cbr/\u003eالبته ترافیک برنامه های بانکی رو باهاش نمی‌تونید رو رصد کنید چون از یه مکانیزم امنیتی به اسم SSL Pinning استفاده می‌کنن و فقط از سرتفیکیت خودشون استفاده می‌کنن یعنی اپلیکیشن بانکی حتی به سرتفیکیت های گوشی هم اعتماد نداره چه برسه به سرتیفیکیت ممد کنجکاو.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/danieldev23/trafexia\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/danieldev23/trafexia\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-11T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +30,7 @@
       "date": "2026-06-11T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +42,7 @@
       "date": "2026-06-11T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-06-11T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-06-11T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-06-11T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 8119,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-06-12T09:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "date": "2026-06-12T09:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 7770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +132,7 @@
       "date": "2026-06-12T10:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +150,7 @@
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +162,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +180,7 @@
       "date": "2026-06-13T15:17:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5760,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +198,7 @@
       "date": "2026-06-13T15:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +217,7 @@
       "date": "2026-06-13T15:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +235,7 @@
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +243,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QOAorjH4DRh3-5j8LKnkHLd7yRoULF2e9uRC6dD2Yknoon7KUXaIGysPqH2SezlvwOA-ArOX4anJmhuEAaDOKJosp0aEkRdEmcvZmZU1PU_0t5goGHNFe_qrAMDMyGL88-_qSKL7GOp7TvoHn6yWUjNeA5XeGDD05-EG0s7duKvT0nGEALdfKn-yNE7jieI5gRl8QUPuZlURAeaidY6105LcvtfAM0E5q5QeTyPlfFnSfMmrzwaStHCgR8ILLE_Qt-EoPaNcjndDrDayDvkR_FwqCqXczp9O3O0ZbGGTmmkq3SM2qTuCU219MJipXcrodQQfsU43aulFzhdrCIEdfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/H4Aef75hCzPiTGMcYLfllfu2FDA8q9ob9l4wy4-VroB0ggo503yume_LgcM7Fg2PB23blEgb6pXDzjKKAED-owkdklkUUmlZKIUPlFMYlE8GDPWLGHCUQrg2YgNpKqYddN9bCFmlJIkLGDtwGdkSZJcfu_H1vGJLBOKfVnAHvJL7zszqVM7_UUMG37DG46TmOJrXxc-AS6luIA8fcO7RJwfPDIBhR-YWrnzwnwtAbNv4fDJZhUfYlx01ZFGpu_Bo2SYa4jRWi2ChKmnHjDyGfZHAaV0H_jYjj9j5HBCuGynGOvfqwGbhYd6LtK13cHmlOJ734nMnWQJNVF9ixATn3A.jpg"
         }
       ]
     },
@@ -277,7 +253,7 @@
       "date": "2026-06-14T11:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +271,7 @@
       "date": "2026-06-14T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1400,
+      "views": 3310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +289,7 @@
       "date": "2026-06-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 918,
+      "views": 3210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +300,37 @@
           "url": "https://cdn4.telesco.pe/file/SffblhwFmDpIgpnZ8KHCjUJ7P_iKHjFkrIcvBs6MvgfnQJAROGCXEwDCITUgZwe2jwDDOOm_moEYxW7bZRUFwFm5kaXuh8F7bNhFtLO2WbCs9TwTjLGIjCmg-3rZ4jAS8mC_Nzil5Qs_9egKy4jqyosQ1BLXE-R3zAVZ5OsvPBYr0SxFKW_9fLG8Em0C5_khvO4kYXbM9XijkPOSG4OFrOCAiLUscRtjG8oFbR9rZjxHQHSy19B1HL7Fe-aTeqctUt7dEijZZ1ABCZ-UZH0MuljRA1oN41kixqXrzDvwMH2Z-QnSbh3YqjpcuUoxeSx59wUP7q7BfIY-at7cwFlZVQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پاول دورف یه اشتباهی کرد این بود که ایموجی های متحرک و رنگی پرمیوم به تلگرام اضافه کرد الانم ویژگی ارسال پیام های با فرمت وب رو توی آپدیت جدیدش اضافه کرده\u003cbr/\u003e\u003cbr/\u003eشاید بگید این که خوبه کاربرا محتوای غنی تری می‌فرستن، ولی اشتباه نکنید هیچ کس نباید بتونه پیام های جلب توجه کننده توی شبکه اجتماعی بفرسته چون باعث آلودگی بصری می‌شه، این قانونیه که هر شبکه اجتماعی رعایتش کرده خیلی موفق شده ولی چرا؟ در واقع برابری بصری (Visual Equality) و کاهش بار فکری باعث می‌شه کاربرا راحت تر باشن برای مثال یه نفر اومده توی تلگرام انتظار داره پیام های ساده ببینه نه اینکه محتوای شبیه به وب. از طرفی کسی بتونه چیز رنگی بفرسته عملا داره توی Ui اپلیکیشن تو دخالت می‌کنه و تغییرش می‌ده و این اصلا خوب نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-14T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "لیستی از مدل هایی که API KEY رایگان ارائه می‌دن، بعضیاش حتی کریدیت کارتم نمیخواد فقط با ایمیل لاگین میکنید و میگیرید لطفا نفری یدونه بردارید به همه برسه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/mnfst/awesome-free-llm-apis\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mnfst/awesome-free-llm-apis\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-14T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qBZbrBMryUwic41I3RmTZxMTeQTcijLD474Me-mw5E18HU6tq2akN-hZmrf9etHGc4D_Q3Wzrk45mzPMwiq44UWDGtBwQZWLKC5DcTNR-UEHabHsda-IO9YBl5HswxBPSWS_XgG3CtAE9OYsFGSxsGQFr8TbbMKnvOMPW0cK43HSRiEvfhNX34uHkSbYZgAEjVt2gXzGmGwGrmZ8JBp75gRwYWT4yO-ZBF9T4SsYkNUjv2FK6lI0CJ9fWIA6T2VXtyJFKasveqm7bZ8FZjlle8liQwFGjcqNKUcMFP9qqrU1Wend1nELrDarJstedc7FBEaFnCfx8k90JQjvlar4TQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781455972
+  "last_updated": 1781460441
 }
