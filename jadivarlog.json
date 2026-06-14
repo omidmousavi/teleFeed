@@ -116,7 +116,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/psaFVhz65DWGgYz9yWCRAn2AV1mYDC0nd99KnGE5o5a645FllNGEXP88Gk_NhYS1liphwSP7paq0oilD4EY_GAIjhOu5z5R2MD2wQ55dI9cut0cKM32sxK4b-oJw8w1kEIG6cCuXOP0EKp-ysM5r6tLy787iv5DIuudhKZDRZtA1DQgyRFQlR5rWEaE2Fsuu-j8Mc1kw6KUK3-NUwdZp_433YP4u-0g2ZduATG_09prdvFpDPEg7wwOSGXdwR9EbYQeCJsuCvWvTVdCWD7vKYHEHH1QBIBvSeVRXv95r7sCBBUTljT7r7RDS8M30J0UBJjV9rxOjXCmbWkbvkAV4YA.jpg"
+          "url": "https://cdn1.telesco.pe/file/IMJck69SoVzynXcH_q8bzju_YWrivUcJaD6G7wyAPq4v80SGkTGh2DDsyNqMB7CtANfxK8MaIr5v3575MVaTXia_3z5hB16do_r9mzNST9v6_TPolhuwW1oezIdJRoKDC0uRZj5vql_K6pdp6B-iNcAfRNC5g0oegzB9TryUtxv4sYUYsdE-VA4_HZOE7OWaJqdcF11m9MbV-l_FbETsPTGK9CV1IpLXQ6cZ2DEksYbMEwBTWpZvq32Zt2Ji8RUpaegJfBbWBo3gD6hjUl1U3Fr8ZoQSVSsF6rl4r5ybGAO7Z-8jDUty-D5rdt28lpqVWHOca4Z2D4NK-j3LIBTYiA.jpg"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "date": "2026-05-28T18:08:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42000,
+      "views": 42100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,5 +145,5 @@
       "sender_name": "جادی | Jadi"
     }
   ],
-  "last_updated": 1781442640
+  "last_updated": 1781450598
 }
