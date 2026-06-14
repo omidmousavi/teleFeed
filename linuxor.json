@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چینیا عجب چیزی درست کردن، یه پنل هوش مصنوعی برای هک و تست نفوذ خودکار (عکس چینیه ولی هم انگلیسی داره)\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، این ابزار نقش یک اپراتور یا مأمور هوش مصنوعی (AI Agent) رو بازی می‌کنه که تخصصش هک و امنیت است. به جای اینکه یک کارشناس امنیت تک‌تک ابزارها را به صورت دستی اجرا کنه، به این هوش مصنوعی یک هدف (مثلاً یک سایت یا آی‌پی) داده می‌شه و خود هوش مصنوعی استدلال می‌کنه که چطور و با چه ترتیبی از ابزارها استفاده کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Ed1s0nZ/CyberStrikeAI\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Ed1s0nZ/CyberStrikeAI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-10T16:49:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vyuox-RX1gl5XgJnRuQ6UAACAqGHp4EBdgR6ZWQ7gwJK7YnoRZjy4i28BR27N1yBSn4wMZbgoigfXIvaaNmxLW6-qcK3-dP39EaeHi_txvENYnCXloyoeXq9UokoxZJSdRK5lcdv1iDimaccirLkoTkouhO64_a5hDmPqHrd98Q0LuDcU9Js3s1s8VHONKeznMSoPVN9V-xpgYwhuIzYOR8gsZ3s0EDjfJ_knNP-Ntk38kLTuHTctqs04dSZkh710WKVKjPjGEns9bno8pz5anmSzvBUGVD5iCHrVLXvCa7WingDzE7E4t_tGUso63MuVBAtChl9qTtuI6JfTLapuw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه دنبال API رایگان برای کارای مختلف می‌گردین این پروژه واقعا تمیزه حدود 10k تا API مختلف از هر حوزه ای جمع آوری کرده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cporter202/API-mega-list\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cporter202/API-mega-list\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-10T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-06-10T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8300,
+      "views": 8400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-06-11T11:53:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
+      "views": 7810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-06-11T13:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
+      "views": 7900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-06-11T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-06-11T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-06-11T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-06-11T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-06-11T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7230,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-06-11T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
+      "views": 7900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +162,7 @@
       "date": "2026-06-12T09:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +174,7 @@
       "date": "2026-06-12T09:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-06-12T10:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +216,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UwIhR5JZpYRwcjZpXwKw1NwNV-r4svgPQ7jeF--qm3JQqI0yr4nUDVPIYUjHayqizt_iURxCSF8K_o8Tg1jssr3HtZEx9KScSkkPjB3qghKoQ2uwTPnYqihQS5t-of-ME5u_VL140HxDQDS2tyqIrXloshxQCVSCazDW1ublzZ-sXq4EGdkbCBtBtEcfyYPKP35dW-sinCSwnt_vQdwlmBxoW64_2fQsrzUNUmMTTb43lpj7stLTpU6cBLvCI10Rp7BVPvSnjrCyaJdbW4iwFPfgj4n6ara0KVwEZdnycL2STNgtRrHqKZAGr-A3FIJqYRGRKKKGbhfXbNalhMVaTg.jpg"
+          "url": "https://cdn4.telesco.pe/file/GPcyx22XC2nfBnaOZdMe_MHGAaSUQJzY9oC_RdAA5kQzdjZjrONYVoKt1IX_LtmZpi_MV-rf_EWvhBPxJo4LJZn78uYJ80HVPJFsP-f0X4qj6VmpgjuSVDMQrWmcvOQC-VYhEmYQ15CUpgHI1Gmth1BDklmXwieA05Ss76OJWool62zw_0v374PhLHWIxYJ1c5HymnpYsuX6ybHX7B6fHL2rN0cR1UW3C1Wxk2Y-MGyddFP2q0hwg7mB1-lVhpbKgGBTSAVMurwH0hXv4TGRDpGboPOQRwhYMGhbH2Vq7Pj-e0GDvdIkZi6pUgiLNd3fQd3fY9fycVFpSHf3TNnLyQ.jpg"
         }
       ]
     },
@@ -252,7 +234,7 @@
       "date": "2026-06-13T15:17:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5010,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-06-13T15:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5080,
+      "views": 5610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +271,7 @@
       "date": "2026-06-13T15:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 5810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +289,7 @@
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +300,25 @@
           "url": "https://cdn4.telesco.pe/file/QOAorjH4DRh3-5j8LKnkHLd7yRoULF2e9uRC6dD2Yknoon7KUXaIGysPqH2SezlvwOA-ArOX4anJmhuEAaDOKJosp0aEkRdEmcvZmZU1PU_0t5goGHNFe_qrAMDMyGL88-_qSKL7GOp7TvoHn6yWUjNeA5XeGDD05-EG0s7duKvT0nGEALdfKn-yNE7jieI5gRl8QUPuZlURAeaidY6105LcvtfAM0E5q5QeTyPlfFnSfMmrzwaStHCgR8ILLE_Qt-EoPaNcjndDrDayDvkR_FwqCqXczp9O3O0ZbGGTmmkq3SM2qTuCU219MJipXcrodQQfsU43aulFzhdrCIEdfw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اگه توی لینوکس دستورات کانفیگ کردن کارت گرافیکتون بلد نیستید این ابزار گرافیکی رو نصب کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ilya-zlobintsev/LACT\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ilya-zlobintsev/LACT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-14T11:43:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qNYpeNeqMJCnGgsM55gZyDe1UxcxtLYgZmX5PiXoUwG_9JrwWQ7_W7C_3930yz30HpyBU9iUPMPscHcTYkW48lRDLGme_SmGQuI5qzctpBr6O5vsi-GTJK3BQoTkkZ9Art0_1EESS7AkpHzXrJPhRzMW2Gcey9t3TRC0_MFwOayIBIHJSvsWcCO1Vwd4QOKjSvmkc9bMkc0OCBvQVBVmpWOvf7uIXydh1PsZkPDd04mlynu0BI3_H4sBdDceurAdx9tYCx4ZNTO-6Q0_MBLTN_nARy2LEOK_t3oWO791L6Kh8P8yMlk6OMcXaRtNFyHhE17HwKwo19yN1Aoi5VDURQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781436205
+  "last_updated": 1781442647
 }
