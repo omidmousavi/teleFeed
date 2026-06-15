@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این ابزارم جدیدا دیدمش باهاش می‌شه ترافیک گوشی رو رصد کرد (قابلیت افزودن سرتیفیکیت هم داره و ترافیک رمزنگاری شده هم می‌شه باهاش دید)\u003cbr/\u003e\u003cbr/\u003eالبته ترافیک برنامه های بانکی رو باهاش نمی‌تونید رو رصد کنید چون از یه مکانیزم امنیتی به اسم SSL Pinning استفاده می‌کنن و فقط از سرتفیکیت خودشون استفاده می‌کنن یعنی اپلیکیشن بانکی حتی به سرتفیکیت های گوشی هم اعتماد نداره چه برسه به سرتیفیکیت ممد کنجکاو.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/danieldev23/trafexia\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/danieldev23/trafexia\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DBphINU5gI7l_teomrpDjQTFlhTBUT_GjtkuvJe2eoNDjlBi7G-ga2huCPRpTbhCYnaka_tDFGiKQwQ81kCkeeKm7Fxzo57qLyQ_iWyS9N1SibjZxgOqw4Tmzkk7rhWSOi3yGGeUcFgLLflXtMbCVLB3O1cqMYU6nUuIDdLvAe-QNQFLvDK39LUt8YzKTjRoLt08ItAG60WNBckMqfNT2JhWtQ_8L1Ej7e1SU4LQ32FZb0rL5JguvDo2T-inL5SLwRsPN4k-EtTw2P2IDEuBn8tZ3O9i4ZisXlzMcCe4cHImlFY2g9768XZ49guQ9dQEAtklUzoEHOfZuP5wWkNsCA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خداحافظی با SSL های رایگان، آمریکا تحریمشون کرد\u003cbr/\u003e\u003cbr/\u003eطبق متن، کسی که از لتس‌انکریپت گواهی می‌گیرد، باید تضمین کند که در کشور یا قلمرویی که هدف «تحریم‌های فراگیر آمریکا» است مستقر، ثبت‌شده یا حتی ساکن عادی نیست! \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nooshdaroo",
-      "date": "2026-06-11T14:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "مستندات عالی در مورد روش کرنل برای مدیریت همزمانی، پلی بین تئوری و پیاده‌سازی عملی!\u003cbr/\u003e\u003cbr/\u003eمنبع، خود کرنل لینوکس :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://docs.kernel.org/locking/index.html\" target=\"_blank\" rel=\"noopener\"\u003edocs.kernel.org/locking/index.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-11T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-06-11T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-06-11T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 8220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-06-11T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8400,
+      "views": 8730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-06-12T09:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7440,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-06-12T09:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7880,
+      "views": 8029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +102,7 @@
       "date": "2026-06-12T10:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 8010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jt5_PR7i-n_6JpnmsK98G0g_Rit19DlpOXQ1P2J_Z55EewMuY__FBJsHECQkyUVxVlphjW3sHYZaF0YS2YmEo4k9dupeyFM8TmwQmS2qgYNMbjv3JBRcxyGGNYdT0yNUKkssNK8U4SqD7h24xuRURp90l0fi86i54TDOJJGaYXtYToSsXFHKMB_QDWbkcVbvrDSLiczvSvEvXgAev4Lt8y6wV8VJ6f6gh9-h9EIx48xKdfxJgt5l6dQNnc8WCVpNXBaCawXa1wq_c5rGu0mreWHn592zPMyojQHNZ1UToU9uO5QBY58IdpyFRhoWJlDOUO1xEYr_geMFvH8zPKA_Yw.jpg"
+          "url": "https://cdn4.telesco.pe/file/gcxtnZniaI5WaYaXL1wlqowAb9PRTKzkQf_BZxaooJ2AYgFRMP8Ub5DcFkdqKdVqdsT6Mv6XVA8dMQtJLWjmxfmk0zP5P1p-ZxPzScxWOa6CpcBeyffXweRGqSz9sa80zwLPI5JLGnhr7xYS1Ed69S9Mc5Pkqg2rsDMlyD-yQ3f7YRO-7n4inQIyB9uCi17ggxk2BFkl90ntow2i88Ofe3QlSzv43gTCqnzWxx88e4i_Zsl1kIRBLhpHaUHS_S4VnxsuaIXe_q9Z_NBSw91oMLw_0rczgpOu7bNrmg1LXvqmYvVkFf6JKwK2h4nN6wP7qTNjuVwi2U8EheN3RH4oiQ.jpg"
         }
       ]
     },
@@ -150,7 +120,7 @@
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +132,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GPcyx22XC2nfBnaOZdMe_MHGAaSUQJzY9oC_RdAA5kQzdjZjrONYVoKt1IX_LtmZpi_MV-rf_EWvhBPxJo4LJZn78uYJ80HVPJFsP-f0X4qj6VmpgjuSVDMQrWmcvOQC-VYhEmYQ15CUpgHI1Gmth1BDklmXwieA05Ss76OJWool62zw_0v374PhLHWIxYJ1c5HymnpYsuX6ybHX7B6fHL2rN0cR1UW3C1Wxk2Y-MGyddFP2q0hwg7mB1-lVhpbKgGBTSAVMurwH0hXv4TGRDpGboPOQRwhYMGhbH2Vq7Pj-e0GDvdIkZi6pUgiLNd3fQd3fY9fycVFpSHf3TNnLyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/kN4aFbx83SA_dI5_5nhjCd6HZN8lc4nkclcg7fqShJNH2i7zRqHuVV-I3InWEV93g0_0QnH_agMwa0r6PzIiDwnHiZ997qA13GhaD7-pOmehuG0JzqbQU3cOjX8DqrQaMwkPK6dGDWXSIZpe-LILSuQLB1koQ2g9aPlN0NhVVDP1NQvyCM8F72I-1o0IzKY7zHocbyfrShjih-dTbLS7eCj795q1RGJTyRDog1T-8eJ3gdFpXYXcKbZjVNHFAvs_TPZXXTxTJS6hvSlQ7i4X41z11aTxgP3kKkhIn33VtBue5NU37qoRn6I9h_TI7KaMPFLC6yuCDOIqSeYYCbmRnw.jpg"
         }
       ]
     },
@@ -180,7 +150,7 @@
       "date": "2026-06-13T15:17:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +168,7 @@
       "date": "2026-06-13T15:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +187,7 @@
       "date": "2026-06-13T15:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +205,7 @@
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +223,7 @@
       "date": "2026-06-14T11:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 6510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qNYpeNeqMJCnGgsM55gZyDe1UxcxtLYgZmX5PiXoUwG_9JrwWQ7_W7C_3930yz30HpyBU9iUPMPscHcTYkW48lRDLGme_SmGQuI5qzctpBr6O5vsi-GTJK3BQoTkkZ9Art0_1EESS7AkpHzXrJPhRzMW2Gcey9t3TRC0_MFwOayIBIHJSvsWcCO1Vwd4QOKjSvmkc9bMkc0OCBvQVBVmpWOvf7uIXydh1PsZkPDd04mlynu0BI3_H4sBdDceurAdx9tYCx4ZNTO-6Q0_MBLTN_nARy2LEOK_t3oWO791L6Kh8P8yMlk6OMcXaRtNFyHhE17HwKwo19yN1Aoi5VDURQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/kwswFlfgXtH_nkvWGQ27rMx_ZqGcDQgKQEAKn9Sdq32i_85i7sSNiU-gWYhmEGHvZKO1kZtcVz2OpPdUk8TmhHXa6vvSMKKgqBC84jmDj8OVTuHa9YpboymVGBje7IToSVCWB5i5a3ZmmNp0KgP5myJdjYP9P_6UNGh5FzWnKr7I93HJU_WNTkIzVGuOQWAElZbRx2s-ReIuEtgWuHhBoAX4FGvd_ccf0aWTIz5muAxmLLewjnD0vknM-MQApazPuKPEhox9BN3TvDnBpCV3kyzLAU8j1MaR0gJXXDUv5U0Wu-hsNJmRohPCCUwZYokWvdf6AO9reiMl4n5zt_We6w.jpg"
         }
       ]
     },
@@ -271,7 +241,7 @@
       "date": "2026-06-14T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4710,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +259,7 @@
       "date": "2026-06-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4750,
+      "views": 6140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +277,7 @@
       "date": "2026-06-14T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +289,7 @@
       "date": "2026-06-14T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4120,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +300,38 @@
           "url": "https://cdn4.telesco.pe/file/qBZbrBMryUwic41I3RmTZxMTeQTcijLD474Me-mw5E18HU6tq2akN-hZmrf9etHGc4D_Q3Wzrk45mzPMwiq44UWDGtBwQZWLKC5DcTNR-UEHabHsda-IO9YBl5HswxBPSWS_XgG3CtAE9OYsFGSxsGQFr8TbbMKnvOMPW0cK43HSRiEvfhNX34uHkSbYZgAEjVt2gXzGmGwGrmZ8JBp75gRwYWT4yO-ZBF9T4SsYkNUjv2FK6lI0CJ9fWIA6T2VXtyJFKasveqm7bZ8FZjlle8liQwFGjcqNKUcMFP9qqrU1Wend1nELrDarJstedc7FBEaFnCfx8k90JQjvlar4TQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی روی لینوکس آنتی ویروس نداری و خودت باید چشمت به همه جا باشه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-15T08:00:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fiHREG-URjqO6HETzBP_B3MhNsVrar-rCv53ZRIgO0hugp9i4roCh0TtPYtsX6P0Fz20hZRVZw0p_PwEpemH87v5x76TwvGEaDsWyplsPFKAYRn2QP_KKCeIfuEtVwfLUCrRZvAmmyvX0l1c4q2McS0pD-cuRxR1XZY0brckoIE5np869thYQGIpirBlXWWNstufbzG70rqujUjDroDaj9nVhHYzdIBGORgpq_UL4myjAjuV9auuHFGecvbW9T78ES1OM3UFpelvjhPy1YsZ9eZmRfOlPSluPgJR2ijbEUDaKQz7yiq7hL5Von9N_NuJaik3FzYvlx0d43yZ5yTD5Q",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "جواد خیابانی : چرا می‌گن هوش مصنوعی چرا نمی‌گن گیج مصنوعی؟ پس هوش مصنوعی خوبه دیگه!\u003cbr/\u003e\u003cbr/\u003eخداداد : هیچ چیزی مصنوعیش خوب نیست، پای مصنوعی هم خوب نیست مال زمان ضروریه، پس هوش مصنوعی هم مال ادماییه که هوش ندارن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-15T11:34:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1781501645
+  "last_updated": 1781523944
 }
