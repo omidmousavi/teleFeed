@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ویدئوها رو معمولاً برای دسترسی راحت‌تر افراد می‌ذارم توی آپارات، به صورت کلی خودم از اپارات خوشم نمیاد و متاسفانه نمونه جایگزین هم نداریم که بدون ترکیب سایفون + وی‌توری و داروی امام کاظم در دسترس باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپیشنهادی ندارید؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-11T20:28:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "یک نفر با کلاد اومده یک پیاده‌سازی از X Server رو روی راست انجام داده اسمشو گذاشته Y Server.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/joske/yserver\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/joske/yserver\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفککککر نکنم از نظر امنیتی یا کلا خود راست کد تمیزی باشه ولی خب کار می‌کنه، و همین‌که کار می‌کنه عجیبه‌.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-13T07:30:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eمخزن پارچ به‌روز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن world با ابزارهای جدید پارچ و همینطور لوگو بازطراحی شده پارچ به‌روز شد.\u003cbr/\u003e\u003cbr/\u003eهم اکنون لوگو پارچ به دو صورت دارک/لایت در دسترس کاربران در مسیر pixmaps می‌باشد.\u003cbr/\u003e\u003cbr/\u003eمشکل فونت فارسی در به‌روزرسانی‌های اخیر برطرف شد.\u003cbr/\u003e\u003cbr/\u003eابزارهای درایور منیجر؛ ایزو رایتر و کرنل منیجر به مخزن افزوده شدند.\u003cbr/\u003e\u003cbr/\u003eتوصیه می‌شود سیستم خود را به‌روزرسانی کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین برای نصب ابزارهای جدید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e## Driver Manager\u003cbr/\u003e\u003cbr/\u003esudo pacman -S pdm\u003cbr/\u003e\u003cbr/\u003e## Kernel Manager\u003cbr/\u003e\u003cbr/\u003esudo pacman -S parch-kernel-manager\u003cbr/\u003e\u003cbr/\u003e## iso writer\u003cbr/\u003e\u003cbr/\u003esudo pacman -S parch-iso-writer\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-06-13T11:54:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T_BKjzOILg23HY3rrJAFW-dY_6_No1-8E8eKoyCd6GSUGI-GXBKBE9ksZ5SvHotYV3YYfjq-7Hcq2ieCeGGxyci_6tcqU6QSqOLWkLdKO4HVFvVj9ahne8lWnPRGYXAwxL4_FkHBdi06Jlexlgv0wB2lHmyTDekc85kkXSmfbSIPHHzX3cIly-lxD3eJzFuVvMjXeQcYvFBUK1sVN29CvELHaoqgSGBJJhvXY8S8rJItxEudI1I7QVhZ6fLZgqVIfcKPv7uSjzjtQFWL1vc9W2s7g03kgcXrIRpuUObf4puN7C7Mz60gcaIbCvFXVbAThJCq7-tyYygKcC0J2xZDLw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "به‌زودی والپیپرهای جدید هم داریم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-13T12:01:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 852,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-06-13T17:13:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 878,
+      "views": 900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +56,7 @@
       "date": "2026-06-13T19:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 814,
+      "views": 824,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +74,7 @@
       "date": "2026-06-13T20:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +86,7 @@
       "date": "2026-06-13T20:18:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +98,7 @@
       "date": "2026-06-13T20:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 851,
+      "views": 865,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +110,7 @@
       "date": "2026-06-13T21:15:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 859,
+      "views": 878,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +118,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lIdA2ES1R6V6JVD81aiIAPqdu_BldT4oV2JPUDPyJw-zMqqXNSQkIMO6jsEeZhWwC09xTkoeBNsytJ8GG1tUxil_A_c7ElwAgle_8cz8WLQwJGZIN5LWgrnh22cZwQsuGeZUwKZH2l5Rp2h9sCIIeLT2TeKpEKvwvhyMAHSuy55A0yh3dh9cxQ9VRxl31IBaTd4i0RHV1ZGArKv5frU0M_HiG_9dA40oR-ttfRqOSmiHzB7vbbvNUiJBJJsLWrUU-NBF-uF6dFIeP0Mf2z40tQkP-O2JMHqS7_fAKLXpvlehUncmzPefMJt35prLgI_7OjAcphjaQu2TSfm4ZS4LVg.jpg"
+          "url": "https://cdn4.telesco.pe/file/Q9YxZMnmT1UMdUQE5ydgbHzj6tnI7mpXZE7Oue1ROFraKfMnuF3YgZxOQTEZQuB6ny8DIITX9uJXA_td-C7Un7x-zdpANzuCUy6WnJCmpvGad8WB-x7VOxe7LhmMfpfgkfKJFUC9hyTC4zozLqEdGtlPd1Bo4J_CTjtP-kIgNLryxWR7Qy65fMC5-k6gZp7xmABrXzdNHreniBL6EIeCn0s3HhArKefNtSQnpNF1tE6yMn7LlCoSAnHNbvas0blfmLPj42_-Yj4sKpjjwhw8dpjI53PClBePA0CcOVJ7tNoTAQSz4PO4b_NtuyhbMKdk8UvWuHMxVrKzfCoZOGzTLw.jpg"
         }
       ]
     },
@@ -170,7 +128,7 @@
       "date": "2026-06-14T11:54:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 924,
+      "views": 941,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +146,7 @@
       "date": "2026-06-14T19:48:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 952,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +158,7 @@
       "date": "2026-06-14T21:17:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 993,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +166,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A52mKqpc4cRcIEk4ZXgNV7j2H3Qlhx_sN2ih_5C2rCBJczNf1TQQZ6udIe8rSwFrCnx_DdEpQj3LFrN4u8id6jUBCOyN_mVJKAyLGslCyof4WUprbkTcO-3J2MyTXKk1tnC9Ew20gXfyu5t9PcVQcJnSmcbP1-wmv7DYyAnaFTmolkWrJ1UWRrfdxrZ0yIOn0nzayeXHbljXnUTB5ghOV-_7E1KAjgzRXSPTAcj4cqB5jAa4kedIrLMeILvHNDf_g3ZKS5oksLEJKPYsgk0tVjw4a_pnM8U-QSO4usGfGT_0O1P33vnsuFqdKNhOwMV7ssqu8NlMFWd9a3Knzp52gQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/oNa4EaGIO1nwapCYKPCv5soMt0anm7mQR2sbxQpy569T2dEHT6xJ11O5zULY69YenS9Y5t1ohnqH-L077QT_LGe4_JRvVUZRYnwNv7KPfPq0gcuzlABwUQq-39rZ-wpk86B6YiJHMcArRgfqa9HujGY-FKW9MC0se6UQB4CvnB5tiyrMR-DuNkw310IpYTG9gchZm95teee2AMtZRdkyMq27ChcZjY2GpL_wEvn7dgDEOPGsx_rHL4xpMCqaGdNR8rL-f3B_PnjRekV90J7TEGDcxHSj_ps47ZhdOiJnnT8PrxBVg2jnEHPgNhPeD4LLw5Kr_pmhDQrVr8fvVh_kYw.jpg"
         }
       ]
     },
@@ -218,7 +176,7 @@
       "date": "2026-06-14T22:00:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 995,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +188,7 @@
       "date": "2026-06-15T05:52:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
+      "views": 906,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +206,7 @@
       "date": "2026-06-15T10:29:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 774,
+      "views": 887,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +224,7 @@
       "date": "2026-06-15T16:47:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 414,
+      "views": 587,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,12 +242,66 @@
       "date": "2026-06-15T17:17:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 442,
+      "views": 681,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "اگر جدیداً دیسکورد رو روی آرچ نصب کنید؛ با این ناشاهکار روبرو می‌شید که میگه دانلود می‌کنم بعدش تموم شد توی installing دکمه ok رو میاره که بزنی بسته میشه و باز از اول دانلود می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچرا؟ :)))))))) چرا اصلا؟؟؟؟؟؟؟؟؟؟؟ باز همون دیسکورد قدیمی الکترونی رو بردن توی aur که باید ۴۰۰ مگ الکترون۴۲ دانلود کنی براش :))))))))\u003cbr/\u003e\u003cbr/\u003eنسخه وبش هم که دورش بگردم با فایرفاکس مشکل خانوادگی داره.\u003cbr/\u003e\u003cbr/\u003eحالا من چیکار داشتم دیسکورد؟ حوصلم سر رفته بود الانم پشیمون شدم به‌کل.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-15T21:04:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 391,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/apUsJFJOTZ2HUaXsPgV7wnIEWXevD3NmMnBIbsUFe7MW90pz1FXUJIyfX__XYfwlMp0IDSEpr3EBbTAjpBIbsgybzQjIA5bsHndnAY8H9Eb6dL1jPQRMQ2t1WHPen0K0_WzN7rn0PHinS4egfxJivjgj_Csu9IOwHbr8YdBkpvgT5IHdg-1gaDcZpmWyoOWQW6odZnzFawAAe__rN3txVYyeNVibEA3j_kU4lsEd90e1VL0Z1NLCwehgD2r_5zo8ozoV-W55TTdoehDoeYzMQkUVww_oPsNiT9BEQ1d4zUYfxBNxkzifpYDPrKZxqEouvPxP-TJQPxILZELX4uvGGQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خب اسباب بازی جدید پیدا کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://interfacinglinux.com/community/sbcsoftware/native-steam-client-for-arm-linux/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://interfacinglinux.com/community/sbcsoftware/native-steam-client-for-arm-linux/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-15T21:56:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 224,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HSWYznm7jW9FPj_-uqDBi_63_vuglqAf1EAI54bQ1YC0LYOUjfOK3bbRUdJfPgxs424ag0VqsrpPJzQwkSAbvLZGSy2ZIKbmySBGDb9L3sQZ-EWefzW9LAMN9kCXbRT_yaqaVaPMlAhLnG0B-IVtfqcPW23zxb7EVxOyPNGBgJFx5Yo--jWj_HM9PAvKdNIWMoFf6XxKRQVmgCYG8XQ8JznaMh6yAcUWurq2lmjRkQiO0CAfoXly7xxEy3sOcVXblGwMhB0NTloPMejNwL95kFqKgwGD_Js3rKU-QJAI4tQevIOmPj0O5RRMu_vD41qXv0kolDHz-SfUKO8txAHWiw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B8.png\u0026#39;)\"\u003e\u003cb\u003e🥸\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-15T22:30:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 53,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UNEL6U7nwtpTuCLFbJu8PoBbe-QhkU7piIcLca4nE3m8hAK99cZLLkdsJrU0lxh9QlnAVxqJ5fXJ6O_fbVOrjG8DRAhR5b33eikU7YEZ5oXOqgQSzecy5Z7Xcs4YtMq9Qs948-Dn-rT7id2nKYJT970MOfqJKEJseMxCo2OANEUAUxBfkQZ0SFf9_9vBc5hu831J5VlDXSE3JCu_GdNc3wZyx7p54apQKZsrgX8CY4dd6-mx7dVtfcdDfcI8AFzgkqWy2xfEVmCIPyKlMHgY7_qVQCxcAj7FukIjArfOFaBL2qaCsobrF62ICPN_3bNw3BoiKtGVNiXBeyYn5xVzmw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781555197
+  "last_updated": 1781562827
 }
