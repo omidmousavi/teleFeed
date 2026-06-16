@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینو فکرکردم شوخیه ولی جدی جدی سرچ میکنی emacs گوگل می‌گه منظورت vim بود؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل اینو عمدا طراحی کرده چون جنگ بین vim و emacs جنگ تاریخی هستش، حتی برعکس سرچ میکنی vim بهت emacs رو پیشنهاد میده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FoiYILhDFYH2ecepeokb1ZHgbDSHYG4-ixtqk5TizpSApEKBL2k0WubM_OeomO4NFzPewIH-zTDyTvgHuzjH3PVcbtOMVgymqVQoT-KivsdlyCSBpslUYI6bM5fJ-1ZLNL8KyPagi1DSMd0HOfwzierg5zFBFp7OR6LcebQhZg_whNXzq_MYGCVaYAG-5w2ljHY473Quw-u1dTjTSLm6UYrFnN8PC_cK9zf-tFjUzU6neWzZWj0fTvyxPfhhwH9wiilCW1l8OKTAjYbLnQA3dW5SgwiOeJou9ixw0mmfxaGp3fHIpVIF8Bu6IyfGYOiRFnoQVl1mjQKgipKI1lDHlQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "عملیات سفارشی در پای‌تورچ Custom Operation\u003cbr/\u003e\u003cbr/\u003eاستفاده از عملیات سفارشی توی مدل‌های پای‌تورچ یه چیز کاملاً عادی و رایجه. این عملیات سفارشی می‌تونن کلاس‌ها یا توابع خاصی باشن که با زبان ++C یا CUDA نوشته شدن؛ خوبی‌ش هم اینه که هم توی برنامه‌های پایتون و هم توی برنامه‌های ++C (واسه استنتاج یا همون خروجی گرفتن از مدل) قابل استفاده هستن.\u003cbr/\u003e\u003cbr/\u003eتوی این پست قراره یاد بگیریم که چطوری این عملیات سفارشی رو با ++C و CUDA بنویسیم و چطور ازشون توی مدل‌های پای‌تورچ و برنامه‌های خروجی‌گرفته‌شده با AOTInductor استفاده کنیم. واسه این کار هم از یه مثال ساده استفاده کردیم، لینک زیر :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://leimao.github.io/blog/PyTorch-Custom-Operation\" target=\"_blank\" rel=\"noopener\"\u003eleimao.github.io/blog/PyTorch-Custom-Operation\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "ابزارای تست نفوذ برای تست نفوذ و هک دارن روز به روز زیاد تر می‌شن این ابزار میتونه 45 تا آسیب پذیری رایج SQLi, XSS, SSRF, XXE, SSTI, RCE, deserialization, JWT, OAuth, and و... رو بفهمه\u003cbr/\u003e\u003cbr/\u003eبدرد این می‌خوره روی سایتی که خودتون نوشتین تستش کنید و امنیتش رو بسنجید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zakirkun/deep-eye\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zakirkun/deep-eye\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-11T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9130,
+      "views": 9230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-06-12T09:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
+      "views": 8080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-06-12T09:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8380,
+      "views": 8460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-06-12T10:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8550,
+      "views": 8690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gcxtnZniaI5WaYaXL1wlqowAb9PRTKzkQf_BZxaooJ2AYgFRMP8Ub5DcFkdqKdVqdsT6Mv6XVA8dMQtJLWjmxfmk0zP5P1p-ZxPzScxWOa6CpcBeyffXweRGqSz9sa80zwLPI5JLGnhr7xYS1Ed69S9Mc5Pkqg2rsDMlyD-yQ3f7YRO-7n4inQIyB9uCi17ggxk2BFkl90ntow2i88Ofe3QlSzv43gTCqnzWxx88e4i_Zsl1kIRBLhpHaUHS_S4VnxsuaIXe_q9Z_NBSw91oMLw_0rczgpOu7bNrmg1LXvqmYvVkFf6JKwK2h4nN6wP7qTNjuVwi2U8EheN3RH4oiQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/jlJ7lRMH93iyfDCmvyEeVAyGW4-KdiFqbjNsslJ3LSadiSayGT7DeiAJJy884SkfWb_AUF7wKFw20MqziFaE3Ilef65TZnNxZ1cpNr10wFNsffLt9qWbyW6ruicRnqhZlhf6ZFykRV6qDrnBmuiGCFlYtTgdqs2COcNv6tCIL-vZRBK7VaxVQBiVAbsrpBynifHWSu8po3MVTHBAFkHbtRfdR7SYop-c3udyz9rrI7OzPQAgcUK1khv4dvnA0qpOT1QQuRyirZGtWcYsXAEx_4yx8QNkBSyYzzQGMQYFEw69wPdmt_KUrQZZouDds61PQS2c9kwduwwTNEz1F34x0g.jpg"
         }
       ]
     },
@@ -102,7 +72,7 @@
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +84,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 7380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +102,7 @@
       "date": "2026-06-13T15:17:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +120,7 @@
       "date": "2026-06-13T15:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +139,7 @@
       "date": "2026-06-13T15:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 7330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +157,7 @@
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7870,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +175,7 @@
       "date": "2026-06-14T11:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6990,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +193,7 @@
       "date": "2026-06-14T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +211,7 @@
       "date": "2026-06-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +229,7 @@
       "date": "2026-06-14T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +241,7 @@
       "date": "2026-06-14T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +259,7 @@
       "date": "2026-06-15T08:00:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +267,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/fiHREG-URjqO6HETzBP_B3MhNsVrar-rCv53ZRIgO0hugp9i4roCh0TtPYtsX6P0Fz20hZRVZw0p_PwEpemH87v5x76TwvGEaDsWyplsPFKAYRn2QP_KKCeIfuEtVwfLUCrRZvAmmyvX0l1c4q2McS0pD-cuRxR1XZY0brckoIE5np869thYQGIpirBlXWWNstufbzG70rqujUjDroDaj9nVhHYzdIBGORgpq_UL4myjAjuV9auuHFGecvbW9T78ES1OM3UFpelvjhPy1YsZ9eZmRfOlPSluPgJR2ijbEUDaKQz7yiq7hL5Von9N_NuJaik3FzYvlx0d43yZ5yTD5Q",
+          "url": "https://cdn4.telesco.pe/file/RZh1Yhn5x9xPmcCFuJT6UITXtR9NRfbWrW9RlFvMg7C1IFm7SMF0tzBy11WnUJMs6VGGDW_FFeRf8xOE2S2MpCBe9Vkg0fyW9--kFywJokyY1Nr4hJrRdBEpa7-_XBnQbDKgVPArEjRmymKyVurGY37TuHHh10-dR_2qfmTJpml5C0j1N7-jF7kkfFRT57IVC-OinwtahkpFREo9J7jOXeDewZYnlNpr5UasjW-nR6XQEl6eBlBB_gQEe6amoExteLQK7XQJIvggtPvZWjNk4R3PGr3S2gZ-9DGUDlQteYU9KRp8zC82D5cnV6i_fdY5uVhkcU48ijpFuNSjjwrmlw",
           "width": 720
         }
       ]
@@ -308,12 +278,43 @@
       "date": "2026-06-15T11:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اینو یادم رفت توضیحاتش رو بنویسم :\u003cbr/\u003e\u003cbr/\u003eچهارتا گزینه در واقع ماتریکس BCG هستش، که به شرکت ها کمک می‌کنه محصولات مختلفشون رو بر اساس سهم بازار و نرخ رشد بازار دسته بندی کنن.\u003cbr/\u003e\u003cbr/\u003eبرای شرکت گوگل مثلا :\u003cbr/\u003eستاره یعنی سهم بازار بالا، رشد سریع مثلا گوگل کلاد\u003cbr/\u003eگاو شیرده یعنی رشد کند سهم بازار بالا مثل موتور جستجوی گوگل و تبلیغاتش و شایدم یوتیوب\u003cbr/\u003eعلامت سوال یعنی سهم بازار کم ولی رشد سریع مثل هوش مصنوعی Gemini\u003cbr/\u003eسگ یعنی سهم بازار کم و رشد کم مثل گوگل پلاس که به فنا رفت.\u003cbr/\u003e\u003cbr/\u003eیکی از علت هایی که پروژه هاتون موفق نمیشه و پول در نمی‌آره اینه که چسبیدید به سگه ولش کن بره بابا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T09:59:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "سلام وقت بخیر. \u003cbr/\u003eمن یه اپ رایگان برای مسیریابی مترو تهران ساختم Tehgo \u003cbr/\u003eخوشحال می‌شم تو کانالتون معرفی‌اش کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/taymakz/tehgo\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/taymakz/tehgo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T10:04:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2029,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/awq8Ni614Lht7xEv4JvHes161Ubgz2K6Cw0x93e3qt540xxEOxpd67ePXUyGm94JlMhg_Wp9MZ5fQ3ImA3K4CSt-N2mWKUBicQUzyVe9e8HvN-FYBkAtrSzoTraFvHGYQnG-d4tbSjcMUSHc9mXu8uNVGndZ8HdaaBs0gHNmjU6G0JB7SPO86K0bO2GxQ1DjeP6e139CbK5FV2GuOU8FoP6iGtxiixAUBPyoZarHme0Pq90pww2XzOp281FOuX9sAoGujuBWWbhToTDBFdsQM-y-JxDQQMhdpGGXTlYCmv8TavZloUrz02rcyrasXuxQnAyfPVbAJoWjMkNYq1-Fog",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1781588545
+  "last_updated": 1781607219
 }
