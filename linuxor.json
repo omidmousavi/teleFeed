@@ -3,76 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/LWfY4HkWOpqXl8Wj39qxj26RJBdmxyJwN85AarcGyJnRs3ZxXYcwlS0A2tCsSExKH1LtqydnTVasMKXWFaEcOk5QY8k3NJIbqBxxyClr88GKIOnTfiKQlKZtnPInhYwYM3gPcvod2082cHXeCdf9m5ia8-w4Wn856bt3T5cT3Wl16NpL9verouyJQcSaRaWIL-pl42FOjqA6k8xsBiX9zGvnE_V6ri0Z8FR4DPkVtGFh4ah1B5OBtikLjubw_nNxdluD6PX9UGpV8Ff2JGrj9vqxKs8iipBPiooR7tvDQUmpPVOoWcjNdQgtBSscj6WP3oP5r9oyiERQPVl_ghIBmA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/MHC_XwNdO9WKi0HcWnB4Ap8BJXpxd0s_-7Sf3F0-UE_lBcdkPE0T-ZUjKyiIoKGAGlzxCWzkZdVtRV-pMy0ruokp6bv6_yc1naPqkcZnE_OXiA--RuSSyKBfKCEJFFemH26Ly_VG4D8vnFEjubihabfPFBSZul1n-l79p8Y423iHSS7qSDoaQxGFAYkVvuvynyxEyTz4nj80Oc9L4k5s2w5zyVOrZoJ6YLm6QUoHLqeVSmYtoJhpPNwhfIiIAnNDTVT6vm4zaNSeIciS4hFkaFXFIEPrJ8Mz24SPnxS_mLaQrwXTzsbeDu3Zrt-8wi6ekqF_XlADdUmtaEHmhF5f6A.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "ابزارای تست نفوذ برای تست نفوذ و هک دارن روز به روز زیاد تر می‌شن این ابزار میتونه 45 تا آسیب پذیری رایج SQLi, XSS, SSRF, XXE, SSTI, RCE, deserialization, JWT, OAuth, and و... رو بفهمه\u003cbr/\u003e\u003cbr/\u003eبدرد این می‌خوره روی سایتی که خودتون نوشتین تستش کنید و امنیتش رو بسنجید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zakirkun/deep-eye\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zakirkun/deep-eye\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-11T17:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u_bLX5ZvUMih9qYhH3BCtSX3OpPEpT01Ch01_X8CB19RnDHnTEk-cpQW1clcc4qfDPAdq4DYniDT0EJx_xXNCVnxuTAxKeJcY6hrvl_Dh6p83UITfncRAOq7HHf3PofWtrR4ZXh1qiuI0Nr85AireX0fJDaemJxtmvnAU4WKWkU2Vb7QHqSeVuseX-HVFn4PZXDJyj0vUUqOdYUtJy9Osmsb9-3at_Hg5N3swJWKRGyC5ABzUwW4cyOWuU8smQgHDJi6k2W6vSfTenrVE0PPinWKlFIg2Umz6BEJn75H4Lioxbwmd1qoB8zo-XAp1oSXql0xGUh6tC7LUUyiG-4L0Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یارو برگشته میگه از مینیفایر توی پروژه هات استفاده میکنی؟ نمی‌دونه من از قبل پروژم میمیفای هست اسم متغیر هام همش حروف الفبان\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-12T09:34:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "من میگم اینستاگرام شاهکار دنیای مواد مخدره یه عده می‌گن نه نیست تو داری به زاکربرگ حسودی می‌کنی!\u003cbr/\u003e\u003cbr/\u003eالان توی آپدیت جدیدش معلوم شده حتی تعداد دفعاتی که استوری یه نفر رو می‌بینید هم ذخیره می‌کنه. دکترا هم برای فهمیدن شدت اعتیاد یه نفر میزان رجوعش به اون ماده اعتیاد آمیز رو می‌شمرن اینستا هم مثل دکترا داره می‌شماره. شاید بگید دمش گرم عجب دکتر خوبیه ولی نه داره می‌شماره که چک کنه ببینه معتاد شدی اگه نشدی با یه روش دیگه معتادت کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-12T09:57:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8460,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "‏یه ابزار باحال آنلاین پیدا کردم: یه عکس می‌دی بهش، بهت گرادینت میده با کلی تنظیمات.\u003cbr/\u003eبرای وقتایی که دنبال یه بک‌گراند یا پلت رنگی هماهنگ با یه تصویری، عالیه.\u003cbr/\u003e\u003cbr/\u003eتو مرورگر کار می‌کنه و رایگانه \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://photogradient.com/\" target=\"_blank\" rel=\"noopener\"\u003ephotogradient.com\u003c/a\u003e‎\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ghenaat",
-      "date": "2026-06-12T10:07:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jlJ7lRMH93iyfDCmvyEeVAyGW4-KdiFqbjNsslJ3LSadiSayGT7DeiAJJy884SkfWb_AUF7wKFw20MqziFaE3Ilef65TZnNxZ1cpNr10wFNsffLt9qWbyW6ruicRnqhZlhf6ZFykRV6qDrnBmuiGCFlYtTgdqs2COcNv6tCIL-vZRBK7VaxVQBiVAbsrpBynifHWSu8po3MVTHBAFkHbtRfdR7SYop-c3udyz9rrI7OzPQAgcUK1khv4dvnA0qpOT1QQuRyirZGtWcYsXAEx_4yx8QNkBSyYzzQGMQYFEw69wPdmt_KUrQZZouDds61PQS2c9kwduwwTNEz1F34x0g.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "می‌دونستین جاوااسکریپتی که الان وجود داره در طول تاریخ چند بار قصد از بین بردنش رو داشتن؟\u003cbr/\u003e\u003cbr/\u003eاولین بار JavaApplet بود که می‌گفت ما که کل دنیا دستمونه وب هم بیاد از جاوا استفاده کنه متاسفانه شکست خورد، دومین رقیب جاوااسکریپت Flash بود که واقعا توی زمان خودش یه رقیب قوی محسوب می‌شد ولی بخاطر مشکلات امنیتی و همچین استیو جابز هم گفت توی آیفون همچین آشغالی رو ساپورت نمیکنیم به گورستان پیوست، رقیب بعدی Silverlight بود که مایکروسافت ساخته بود که همون سرنوشت فلش دچارش شد، بعد ها گوگل وارد بازی شد و گفت بیاید از Dart استفاده کنید توی مرورگر و انصافا ایده خوبی داشت اما بقیه شرکتا قبول نکردن و گوگل در نهایت عقب کشید و دارت شد چیزی که خودش به جاوااسکریپت تبدیل می‌شه، که البته دارت نمرد و امروزه موتور اصلی فلاتره. گوگل اون زمان فاز پیغمبری برداشته بود و حتی زبان انگولار هم یه مدتی دارت کرده بود.\u003cbr/\u003e\u003cbr/\u003eدر نهایت دشمن های شکست خورده دست به دست هم دادن مایکروسافت تایپ اسکریپت رو بالا اورد و با انگولار امروزی ادغام شدن. که البته تایپ اسکریپت زبان جایگزین جاوااسکریپت نیست چون در نهایت کد های تایپ اسکریپت به جاوااسکریپت تبدیل می‌شن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-13T10:04:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +24,7 @@
       "date": "2026-06-13T11:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7380,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,25 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kN4aFbx83SA_dI5_5nhjCd6HZN8lc4nkclcg7fqShJNH2i7zRqHuVV-I3InWEV93g0_0QnH_agMwa0r6PzIiDwnHiZ997qA13GhaD7-pOmehuG0JzqbQU3cOjX8DqrQaMwkPK6dGDWXSIZpe-LILSuQLB1koQ2g9aPlN0NhVVDP1NQvyCM8F72I-1o0IzKY7zHocbyfrShjih-dTbLS7eCj795q1RGJTyRDog1T-8eJ3gdFpXYXcKbZjVNHFAvs_TPZXXTxTJS6hvSlQ7i4X41z11aTxgP3kKkhIn33VtBue5NU37qoRn6I9h_TI7KaMPFLC6yuCDOIqSeYYCbmRnw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5276032951342088188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمدیریت دارایی و عقب نموندن از تورم، فقط به معنی نگهداری ارز دیجیتال نیست. با استخرهای تتر، بیت‌کوین و طلا در اوام‌پی فینکس، از سود روزشمار و هدیه روزانه واریز رمزارزی تا ۳۵ میلیون تومان بهره‌مند شو\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.ompfinex.com/meteor-shower?utm_source=trend\u0026amp;amp;utm_medium=telegram\u0026amp;amp;utm_campaign=pool_ro_pool_tech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eسود قطعی روزشمار و هدیه واریز\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5782694927397820732\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/ompfinex\" target=\"_blank\"\u003e@ompfinex\u003c/a\u003e",
-      "date": "2026-06-13T15:17:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/e2Jj5NoYbR9SFS1mddm8XmxgfWajCg5ukU7sSfFJQ2Q_Q-8Rd5Ae0E-f8O-_ujd1tLqJdjguOifkIsqVA3Bu58KbcbUy4dLQ5Q9PpnfrniKv3FZTfJ1yTVHDti4Ib__MC-7kVIJuaw3DAjailSoJVZt42z_I3SQwPNOyoQGdsPMXKkR5e3BxSVjqShgDf9ZPR11C2sLHI0_sJtmYU20186Ek1n4crVk8CrNT95GkwFTZyrqyjCpfHNVjwyB9YC5LXTPC8dueiWOPRrPmwlfpPkMe9EBH7AW9WIx-VIPwJuniZrgBPk1XJaW7ZxBjzrfRcdVCZl4mkP8uAqlPwXKSMg.jpg"
+          "url": "https://cdn4.telesco.pe/file/uoKHA_Ic-QbydauVLASXZvmFu1rmsaF0rnCXDcZYDWEOvReRcpEuQ92-GV8eBMLCUApKYdoyPFefbz8exNA0z5mb2tkxSIzhq9zQiAxfriQ6LTXjjl-vpgbK0ZePP5Rvq6ZsahUms-yviiTAxQC2p4hQPILFNrJ_uNPk1UG_7nymRtHsMW8QW_AvGTZPKkhDYSkbhyrjQ53z9Ru72ReXDzbVQtMr6lUMcPxJKgLxoSs33doooEMirV5Sb8U47vUJnNZnOXR9ycPXJZGhp-Ozl4X7wu8CNDYSKOQNh5dDfTLEaxD_y0Q7OqacrjaoNhAfIm4xfs_IVgEWTad_9jo7UQ.jpg"
         }
       ]
     },
@@ -120,7 +42,7 @@
       "date": "2026-06-13T15:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +50,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IJ94Rvyw6HNYvUWdp9-eZL9_BtKO-wfBPIMyq3h0Ax_pnucf6Y-wmNMx-8-kROyD_0GYd3V9qBOsE72Z6KxmQucfd0-hXqOJOPe3pDciH9YwodROvE6wIxmHnv0_YDjz0fH2vxf4731Ad7vkzvDdspDswBc-PSeRAK8osUTlcqFnWzGtmvh09x6ag-VDRo1TwagPi5GIitMeT2tAa_3Ux7hLuwtdVaXL3nD-zmBz82Xlwo0pTPwOcBMwjT2KOAoFTxuClZRJrvk2DEBPMkdixlJw_8ZbRusf0zGgn8gXVU1ov9kWq3neWH2DRq7VSBCV84n6gndjhIiJyhe_Ilb2SQ",
+          "url": "https://cdn4.telesco.pe/file/O6I0sOLj7e4sYcuReKqMkST7HSWUaoTVs5SS4Q5Lr4wbuXjmk2uYXkSG_gpgWotLJe-UTDGfyu6LRvFpJoDiz0WZt6AfWNQBfo01yAxCUb7cooIT5pnvIzFGgpyekmRLK4Apjp0QnYgydyndWqzmUvBefQuMWzXS5H985xq4gJb9UNT9cGmiEAZeQDl2A-a3LT0QaAACyv3Huzl3hicUlSMN34Ie5iKaVdpaDHwrxmcFvRKH11Q_QdlcJ_q68mWq9Vbe3yAJYdVM-_rytspahhFmncnm3iSt4o_keqEZgbydzpaJ8YB8Bn2Pc5R8U-l06YVvWmLHBLfriHyRxZL4FQ",
           "width": 720
         }
       ]
@@ -139,7 +61,7 @@
       "date": "2026-06-13T15:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
+      "views": 7550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +69,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CZDXS4j0CCIV7dmwbeqhp3lVXcO5cHIws76eOS3XnuhjYGD0bjAVYgsHpUQIYlcn9ydowc0mPTmWyzwJOB2Tid_p-SEzSbWw3R_3yMTZdn-Qj12nwp7jYnNAxEU3GQkO4_aO5bhpszcX81UDnhE68PcmEEzD_xyY6wFzV7ZXpWIAnNfBILk6aJlJNDkHj-a9cOXh-Zw3ljbcTNEUr_m5J52JRBo3d_DMN-q7l5BZwI5hCH_UfDB_U3V4Mh0w_zrIdqAVTumJZwz_WiXa4T2X_4besfdFHO5kvIhGZW8SUXwJsR1PeY9aMv-mpviZwpbUJLnU7cn5nVTJ34JzPpOHiQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/u4jzVV6dAtDuib_0iG8PO-L3OwDHe4A0N66v1D_-JWP35VK6hcKxAUTTuq3qX_-ub53YsgnjiIVmmIvuyF-soG_akyvghyu952EZEL3DQsVYQ9uaUbAOEKK9FtQr8D1Efn4Af7GKprNxa4y91srBqM7ltcfYG75O6tPyJdwov0_zWCPyFFMMw76yRchDsrjRPHzmSbq3X-84UKKQjor23GospXXtkF0XGuf-M2vPdgIeFo30ro6Qr78xYcM0JZanNUUY8yxuCcOZoHhsakj-dWwqPvnHu47nft5PK7cHxyl2o2e9wdzzUmodj8n5g0CB0I22J1JgVyhVYXzbx3F4uQ.jpg"
         }
       ]
     },
@@ -157,7 +79,7 @@
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
+      "views": 8160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +97,7 @@
       "date": "2026-06-14T11:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 7360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kwswFlfgXtH_nkvWGQ27rMx_ZqGcDQgKQEAKn9Sdq32i_85i7sSNiU-gWYhmEGHvZKO1kZtcVz2OpPdUk8TmhHXa6vvSMKKgqBC84jmDj8OVTuHa9YpboymVGBje7IToSVCWB5i5a3ZmmNp0KgP5myJdjYP9P_6UNGh5FzWnKr7I93HJU_WNTkIzVGuOQWAElZbRx2s-ReIuEtgWuHhBoAX4FGvd_ccf0aWTIz5muAxmLLewjnD0vknM-MQApazPuKPEhox9BN3TvDnBpCV3kyzLAU8j1MaR0gJXXDUv5U0Wu-hsNJmRohPCCUwZYokWvdf6AO9reiMl4n5zt_We6w.jpg"
+          "url": "https://cdn4.telesco.pe/file/LK-dPKF2pndQZP7b36bdNhR3Chb-1o3EaS-k7_89OzYXbfSZVnox_e2Twvt_2WRwwYuTWWOEY4vfGlYApUwoc8U8-5w2z1vxTlqMXZjn5VFB_mmmQuuq3Dn-s40gktBDUYzdoo95MrEzOfn_z6Oli2yLXEOtMaWylkJCjN8PLdIA-wLL3CTgbD_7YaX1POaaIuhXjvKFB2-jIsINxoDa0ey1QmxHK13KoLeHu73KHxeASRZ9Df9XgAH43GFanXT60mT-QATp_wwQs9DUA1gcRLHmBk-rGrSOjDDJkaBIKALbotHMInslFhwg4NiRPVBgYj6e0oZfOkTD66ERjPKQBw.jpg"
         }
       ]
     },
@@ -193,7 +115,7 @@
       "date": "2026-06-14T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +133,7 @@
       "date": "2026-06-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +151,7 @@
       "date": "2026-06-14T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
+      "views": 7780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +163,7 @@
       "date": "2026-06-14T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 7980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +181,7 @@
       "date": "2026-06-15T08:00:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +200,7 @@
       "date": "2026-06-15T11:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +212,7 @@
       "date": "2026-06-16T09:59:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +224,7 @@
       "date": "2026-06-16T10:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +236,85 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یکی دو نفر ازم لینکدین خواسته بودن، حقیقتش نمیدونم چطوری بگم من از کار کردن خوشم نمیاد لینکدین ندارم \u003cbr/\u003e\u003cbr/\u003eمغز ما خودش یه مدل هوش مصنوعی قوی گرون قیمته که قیمت توکن هاش خیلی بالاس الان ارزون ترین مدل ها هم ماهی 500 دلار هزینه میندازن چرا برای 200 دلار برم سر کار. برای کار نکردن عجب شعرو وری گفتم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T12:38:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل فوری\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420094143089111506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F979D.png\u0026#39;)\"\u003e\u003cb\u003e🗝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پایداری بالا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مناسب سایت،  Docker و پروژه‌های سازمانی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4967897119760319376\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC86.png\u0026#39;)\"\u003e\u003cb\u003e⬆️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سرور ابری ایران با زیرساخت متصل به شبکه‌های \u003cb\u003eرسپینا، آسیاتک و فن‌آوا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438122878199428917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کد هدیه: \u003cb\u003estart100\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci\u003eاعتبار هدیه فقط برای کاربران جدید.\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://iserver24.net/\" target=\"_blank\" rel=\"noopener\"\u003eiserver24.net\u003c/a\u003e",
+      "date": "2026-06-16T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n-OIeqx6G8S3kv-C4e4sl-heleHhPs_huOup8qzlZDxvWLJwCxCeQGMcaN9HL239KkuRTcHX6c7WT9LIiOhEN_awqcHslOQYcJNpYDXhIPgJEGuRO1azYLWQjyOvsK9zNguy8RlxgTMLFe4WFHQ36VLJ1vHRdhpmqE_eUMtWD4PFQi0uBQ0HZvaaF38KH0Lwzp0Y8rJGr-Xbmwx2q7BZmrpc4ScQ0I_9h9cRLb6y7jJM-PcYF_xTAC_p3kWsojFrb1KQRT3lMe9c-7Z4kZ7-akI5J4pygxdqG0la38bjtuDJTEIAaiMdXzCoreq7vtOKrOy5AU6B-1XRuruEiO0OaA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "الان ZCode رو نصب کردم\u003cbr/\u003e۵ میلیون توکن در روز رایگان میده\u003cbr/\u003e\u003cbr/\u003eو البته مدل glm 5.2 هم توش اومده\u003cbr/\u003e\u003cbr/\u003eمدل قدرتمندی هست نسبتا خوشمان آمد\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://zcode.z.ai/\" target=\"_blank\" rel=\"noopener\"\u003ezcode.z.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Mehdi Akbari",
+      "date": "2026-06-16T14:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Qdo80v5eSlfkX8Jnof2NJHFinKgLKjAXUGKRQQev4YE6j4SmP2UArufuVC-4gmZrAvZM49yn_ZzMP4dvmmhmwgN2j6SF4adHvnrpf1xMG1BQaBJlg5ekPc9EE5XjF1PFESN3jBPHVMumvRtx5B2t7IxVSW6A_AiQYk6_hOhHzZzSQ9hfWrEw-HxygYCMcoDT8FzPXmOZpeHEd0f_k3Mnbvn_4HtBC9QQastI7a8N07D5kf58sxQ0rmJv_alO9cR6RrHDaBKulLLknqt1T5Bu_VSR7e2_1clkIB6mOwJPcYsPIwQQIDkfkax1cCB8Dol22tLYgWWprtCAT6b6mGu46g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اندکی فرانت کد زدن، برای آرامش روان خوب است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "داشتم سایت های telemetr و coinmarketcap رو مهندسی معکوس می‌کردم ببینم این چارت های زیباشون رو با چی می‌کشن که رسیدم به این لایبری :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.highcharts.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.highcharts.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته اگه شدیدا می‌خواید چارت رو کاستوم کنید باید خودتون با recharts ور برید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T15:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mQhhzhiYBW3XbJDq_CelZprit7iQH4JRlvnQGXRaj7uTvF9DgUFIp9-XcyOOYCCdM3DeGM-K80m3XvOfxTAX0iAKdKjhOKZ7BH3aQ7gjc624DeGu0ilck7UzWPR8Q04j3jr8pByhIAfpkFVacMp1VGpRuqJFFLs_Nd_GND6Y-D-LW3ahh2g4i-xDH7Gp0tEcBsMtb9lRRgS8W0Ozut7saV-TDINS4xNo-eXuj_FfV0jG-w4HPXzNMyzw_ZphTqAOX_wk2cOV39H188QpwZX0A1gwcLPfoRmU-RYEVdpjRixRLAZAMo2qGRp5Mhy9_iNOF7VDPhIFXIRWtwITnQCZYg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781607219
+  "last_updated": 1781624923
 }
