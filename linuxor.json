@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "می‌دونستین جاوااسکریپتی که الان وجود داره در طول تاریخ چند بار قصد از بین بردنش رو داشتن؟\u003cbr/\u003e\u003cbr/\u003eاولین بار JavaApplet بود که می‌گفت ما که کل دنیا دستمونه وب هم بیاد از جاوا استفاده کنه متاسفانه شکست خورد، دومین رقیب جاوااسکریپت Flash بود که واقعا توی زمان خودش یه رقیب قوی محسوب می‌شد ولی بخاطر مشکلات امنیتی و همچین استیو جابز هم گفت توی آیفون همچین آشغالی رو ساپورت نمیکنیم به گورستان پیوست، رقیب بعدی Silverlight بود که مایکروسافت ساخته بود که همون سرنوشت فلش دچارش شد، بعد ها گوگل وارد بازی شد و گفت بیاید از Dart استفاده کنید توی مرورگر و انصافا ایده خوبی داشت اما بقیه شرکتا قبول نکردن و گوگل در نهایت عقب کشید و دارت شد چیزی که خودش به جاوااسکریپت تبدیل می‌شه، که البته دارت نمرد و امروزه موتور اصلی فلاتره. گوگل اون زمان فاز پیغمبری برداشته بود و حتی زبان انگولار هم یه مدتی دارت کرده بود.\u003cbr/\u003e\u003cbr/\u003eدر نهایت دشمن های شکست خورده دست به دست هم دادن مایکروسافت تایپ اسکریپت رو بالا اورد و با انگولار امروزی ادغام شدن. که البته تایپ اسکریپت زبان جایگزین جاوااسکریپت نیست چون در نهایت کد های تایپ اسکریپت به جاوااسکریپت تبدیل می‌شن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-13T10:04:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این وب سایت لیست مدل هارو بر اساس رتبه بندیشون جمع کرده برای اونای که وسواس دارن تا بهینه ترین  LLM ممکن رو برای تسک خودشون انتخاب کنند.\u003cbr/\u003e\u003cbr/\u003eمثلا عکس پایین کیفیت عملکرد LLM ها برای Text Generation هست. \u003cbr/\u003e\u003cbr/\u003e ولی خوب میتونید توی زمینه های مختلف برای هر تسکی مثل Vision, Image, Video و... را ببینید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://arena.ai/leaderboard\" target=\"_blank\" rel=\"noopener\"\u003earena.ai/leaderboard\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ a_javadinezhad",
-      "date": "2026-06-13T11:41:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uoKHA_Ic-QbydauVLASXZvmFu1rmsaF0rnCXDcZYDWEOvReRcpEuQ92-GV8eBMLCUApKYdoyPFefbz8exNA0z5mb2tkxSIzhq9zQiAxfriQ6LTXjjl-vpgbK0ZePP5Rvq6ZsahUms-yviiTAxQC2p4hQPILFNrJ_uNPk1UG_7nymRtHsMW8QW_AvGTZPKkhDYSkbhyrjQ53z9Ru72ReXDzbVQtMr6lUMcPxJKgLxoSs33doooEMirV5Sb8U47vUJnNZnOXR9ycPXJZGhp-Ozl4X7wu8CNDYSKOQNh5dDfTLEaxD_y0Q7OqacrjaoNhAfIm4xfs_IVgEWTad_9jo7UQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "الگوریتم های Encryption و Decryption چطوری کار می‌کنن؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-13T15:33:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/O6I0sOLj7e4sYcuReKqMkST7HSWUaoTVs5SS4Q5Lr4wbuXjmk2uYXkSG_gpgWotLJe-UTDGfyu6LRvFpJoDiz0WZt6AfWNQBfo01yAxCUb7cooIT5pnvIzFGgpyekmRLK4Apjp0QnYgydyndWqzmUvBefQuMWzXS5H985xq4gJb9UNT9cGmiEAZeQDl2A-a3LT0QaAACyv3Huzl3hicUlSMN34Ie5iKaVdpaDHwrxmcFvRKH11Q_QdlcJ_q68mWq9Vbe3yAJYdVM-_rytspahhFmncnm3iSt4o_keqEZgbydzpaJ8YB8Bn2Pc5R8U-l06YVvWmLHBLfriHyRxZL4FQ",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "از WebRTC خیلی خوشم می‌آد باهاش می‌شه بدون هیچ سروری دوتا کلاینت رو به هم وصل کرد مثلا با گوشیتون می‌تونید به سیستمتون بدون هیچ سروری اطلاعات از طریق اینترنت بفرستید، به جمنیای گفتم یه کد ساده بزنه برای تست، یه چت آنلاین ساخته تستش کردم کار میکنه سرعت چتش فوق العاده بالاس چون سروری وسط نیست، اینجا براتون گذاشتمش اگه خواستید تستش کنید. چون سروری نداره روی کلاینت اول باید پیشنهاد کد بسازید بدید به کلاینت دوم و بعدش کد پیشنهاد کلاینت دوم رو بدید به کلاینت اول (این کد ها مسیر اتصاله) بعدش دوتا کلاینت بدون هیچ سروری به هم وصل می‌شن (دقت کنید این ادرس زیر فقط یه فایل html هستش و سرور نیست میتونید کپیش کنید روی هرجایی) :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://sepsoh.github.io/webrtc\" target=\"_blank\" rel=\"noopener\"\u003esepsoh.github.io/webrtc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-13T15:48:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7550,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u4jzVV6dAtDuib_0iG8PO-L3OwDHe4A0N66v1D_-JWP35VK6hcKxAUTTuq3qX_-ub53YsgnjiIVmmIvuyF-soG_akyvghyu952EZEL3DQsVYQ9uaUbAOEKK9FtQr8D1Efn4Af7GKprNxa4y91srBqM7ltcfYG75O6tPyJdwov0_zWCPyFFMMw76yRchDsrjRPHzmSbq3X-84UKKQjor23GospXXtkF0XGuf-M2vPdgIeFo30ro6Qr78xYcM0JZanNUUY8yxuCcOZoHhsakj-dWwqPvnHu47nft5PK7cHxyl2o2e9wdzzUmodj8n5g0CB0I22J1JgVyhVYXzbx3F4uQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "پس از سال ها پیروزی Node.js بر \u003ca href=\"http://ASP.NET/\" target=\"_blank\" rel=\"noopener\"\u003eASP.NET\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eنود جی اس در مجموع با 45 درصد از سهم بازار بک اند رو گرفته و از \u003ca href=\"http://ASP.NET/\" target=\"_blank\" rel=\"noopener\"\u003eASP.NET\u003c/a\u003e جلو زده البته مجموع سهم های Next و Nuxt و Express جمع شده. \u003cbr/\u003e\u003cbr/\u003eهمچنین Next.js پیشرفت شدیدی داشته و ممکنه خودش حتی به تنهایی از \u003ca href=\"http://ASP.NET/\" target=\"_blank\" rel=\"noopener\"\u003eASP.NET\u003c/a\u003e جلو بزنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-13T17:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8160,
+      "views": 8390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HU4UBTRRzAMQtkl2zV-B8JnzCIHonsep6INX2vBt3oAovzG2_e6FthnHMNlMqORhHv6f6Agv0sHZFntSwsJhjeu6uDNqaBWHN-GYLtAp3CVhPQEvBpY7SFMoQQXS4B1wiZLSqPjP-pW1_A2OaTYCgiSnvfYShOavQXRMpoKjSJYgLtSSb0KAqXXf-832-iywD-qm2aIv2bU2sTLtDrQ-OYoK_ApJDVxIWZX3eSJnXtUn4tikNWXrssg3geVnQrWZJWaG3bQ4SUCPgRqckzCUrPTO0gSKJiX-I08dMkeEawmTnEpJWGcZDNQsXWyEeFZh6z3T5Chor8xrNY3D4rw5Ag.jpg"
+          "url": "https://cdn4.telesco.pe/file/vsmAvRljqV_Mh3edYXbPHOfdP1pTxGdVhPvosfe33VCwieWZvfzHmEgt6XBT2DO2xkWaO9AuNFGB2P7hnnFZRVJGbdXhNjtuSG6zMMC7VjQA_H3e2cDO8TGfg37q0Vzb6s7SYftjbGH0849Q46Af0jMXEpqAL657BzZuSE8lJrTYNf9oTRozM9Ux-gAV_7-4s8rodIii3GH-Cbj6ZoX1Fy9atY18A6pYzLFZ97Fw0KanQ5QBmfcmTU3NumJfUI0ASvkPgHhE_ZZODJhvsiCLk_I8qjRIUX6kews1HpCLXf5ZYGCCdjns6O-_VBBkEoo3-mq5BVDZDyEfJks23PonLg.jpg"
         }
       ]
     },
@@ -97,7 +30,7 @@
       "date": "2026-06-14T11:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +48,7 @@
       "date": "2026-06-14T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7060,
+      "views": 7200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kcYnvCWpc92tGSb9lhT3Sa-Y5HLGqJY2bxpSdnY9J9NrUF7xajk7jBw74EIYGY7cBnewoye9hwhJ5G08RRitq_3HU2GivRStCiXpPNWr8DTma0T1DlpFMuAgz7Y-3t_8U-nr5LS38c4FlrxgKpgHCW-B6NLhpw2w5tZgxwU2sv7ApvpSlsgkS8zSkhqUG406uN65HNU4u5QwAS2URXOf7yRqBUzRkJbyv95L2cbGMvLhDxg09wHElpY5lWMxmwqsiMSehD8sURYwz_ZcxkgMF1TsePAjvx_Ga_nWb1jO6AfIU7t7IQ0muCukRTiYRsl8PI8gZ-UUnfEHiCdOAm85bg.jpg"
+          "url": "https://cdn4.telesco.pe/file/nEf5BoHMsMeAvCFMgqpSLlCY_WpNd-bZ73sRj2PruS6FsyDEQaQtjDWsZ8aR95dKcHBTeK0KROfnKYG04WXPnIBDeA2pjCjoudsZp5ici8Jmpj6BsImCbz6lf5DG1hSdV_GRShXp-QRIbdNvzrOAgsa5N6MXsfQ8l4mlaQCeRhI5tF0ieDPf3Njx-lMrPsCs3HVYFj-gmyfKMjjdgZyTOvjHyffuSaC50Cs-pLCbW3k0UGhog0e6sV3pmBTW2hsz8fIoVR9KhByjOjM44O1ET1aQT4jiDAyTcvh7LFavAHUbTJQdnims6G7xUNDS9DLFkz6yiuA7AuzokDIwHutmgg.jpg"
         }
       ]
     },
@@ -133,7 +66,7 @@
       "date": "2026-06-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VNgKT0QgxZPg1IvgdVZdI5XMAI0hwoBIHvvM7LNu7AdSg-29FZGpf_2p5rUnIurm53-gfGoIo7fOPpgxPM_s7KT7EKJaQquXVXHJoCi5kSarwrOu07diPPZyx1TNNmEK7_bvtNnYOVudSsZMqoUbpok8g-WIBwOz9VziCeVT6TfHp1h4OJMpF5E16HPvyGZSAvPswJ1UcGCZYnye9_akzypSWCZcBX8DfmqKTeDrzKjCPM9FOuAagVIUarrVZLu05pp3tgpW3Xaw92XVc9-hRFy0Nr5iJR0va-ozS8uE7yaNjanqwXmXrjEML6qA4EpNP1Vxf_x_LnMhzuQaTUs7Ng.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ly9Fe3UlEK5VWcGTCyDUaaGVrYMUGsUNU65DiGFaOWYdWVE3IJdz08KA3ErQJKgXcUlmPlSJnA_tsNwwN2CEsEFwDYUvxwSysTkNDuGFqJC2mvu3zO71VHTdKzamhZxDjBI_UqXfe1Mk0RmD0gJLgELyLWjdOxpgYJUIZxYfCKBDrOIrT28g6Sm-M4SfusHu8FZV8IwfKb4w8qinOJr514baOCKYPNlE0frlAr6HLndsemep4EplSQxlQwTzPeXAkS0v0TcyfZFNkb1OBLqQMiojJlkwNjQNr72uBGxLUVmjK4O7NNxibE2NXuOmOiURtr3F8-_CFNozkMcf-mkSsQ.jpg"
         }
       ]
     },
@@ -151,7 +84,7 @@
       "date": "2026-06-14T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7780,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +96,7 @@
       "date": "2026-06-14T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7980,
+      "views": 8130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JRzwwY32DrP1uPgqzzehfWbqSTy_dgEYaT9rpYD7Crn50klVcWdk246gTmyhyEZm143bRM90zwTzwyz3RT0gb6zcNWtSNgtWy7YLyyOelxW0yHlXgZJ5H-3EJ2gYznXxlU8T-tYsoCm79lCN7ex3qGy23IntUAdZcb2icvM-TpCGvBPqAoeqd0owTQdH70MFUcw89qULZs-EMiEk52V6EKulen_6lIXud244D3Bh9zdJnh9C4CbP8VyJcjNxI1GfCfXiyJcRfFxXIvZEQedQ1ZHFRqQ43oBGZy-qJtovkKWXUotuziPeL8s5bNC_1Fejx-DNAekQcgXfnhbziy8eeQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZTKVpVyeYiE4pfoe6v89xA6_iYUzfP17X66gawbEYV4znY9CcAQUcZTSgDnFx5nAKIWTJDvk6BKtZqw36GfV1a68dtqnf5zMcuyd8yhXdm1_LH6DKpNO2nmB7R7P-YpJkC2JLiuyxqhXCVCUFqTwsLu1LQewAs6muvNQp6nf_Or4Ceqw2CBzF5CNBmWhoR-cFu7JScl40ofgmLdFePFfvLDom3r6s5yxLIlsYgA96BaPAHzCZDhmXS4RW_pLF71m_Ue_smhSYJcfuqlrSwn0Hst540MhiY3svpSoauWCTWzRco3QJPOD4ftjmaNkf4PVmeO8PTupcO7y45KuByvnUg.jpg"
         }
       ]
     },
@@ -181,7 +114,7 @@
       "date": "2026-06-15T08:00:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7860,
+      "views": 8050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +133,7 @@
       "date": "2026-06-15T11:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +145,7 @@
       "date": "2026-06-16T09:59:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +157,7 @@
       "date": "2026-06-16T10:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +176,7 @@
       "date": "2026-06-16T12:38:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 5600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +188,7 @@
       "date": "2026-06-16T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2860,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +206,7 @@
       "date": "2026-06-16T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2700,
+      "views": 4670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +224,7 @@
       "date": "2026-06-16T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2170,
+      "views": 4330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +236,7 @@
       "date": "2026-06-16T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +247,67 @@
           "url": "https://cdn4.telesco.pe/file/mQhhzhiYBW3XbJDq_CelZprit7iQH4JRlvnQGXRaj7uTvF9DgUFIp9-XcyOOYCCdM3DeGM-K80m3XvOfxTAX0iAKdKjhOKZ7BH3aQ7gjc624DeGu0ilck7UzWPR8Q04j3jr8pByhIAfpkFVacMp1VGpRuqJFFLs_Nd_GND6Y-D-LW3ahh2g4i-xDH7Gp0tEcBsMtb9lRRgS8W0Ozut7saV-TDINS4xNo-eXuj_FfV0jG-w4HPXzNMyzw_ZphTqAOX_wk2cOV39H188QpwZX0A1gwcLPfoRmU-RYEVdpjRixRLAZAMo2qGRp5Mhy9_iNOF7VDPhIFXIRWtwITnQCZYg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e چالشو حل کن جایزه ببر؛ چالش اول شروع شد!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eاولین چالش آخر هفته کوئرا توی کانال منتشر شده و فرصت داری با جواب درست، وارد قرعه‌کشی جایزه‌ها بشی.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eبخش جذابش چیه؟\u003cbr/\u003e\u003c/b\u003e۱. هر کسی که به چالش‌ها جواب درست بده، یک «هدیه قطعی» از کوئرا می‌گیره! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e۲. و اما با هر جواب درست، شانس خودت رو برای برنده شدن توی جوایز قرعه‌کشی بالا می‌بری.\u003cbr/\u003e\u003cbr/\u003eفقط کافیه \u003cb\u003eعضو کانال کوئرا باشی\u003c/b\u003e و \u003cb\u003eجواب درست\u003c/b\u003e رو برای ما بفرستی. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003eچالش اول → ۳ شانس قرعه‌کشی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e چالش دوم → ۵ شانس قرعه‌کشی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e چالش سوم → ۷ شانس قرعه‌کشی\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e جوایز:\u003cbr/\u003e\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003e ۵ هدفون گیمینگ\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E92.png\u0026#39;)\"\u003e\u003cb\u003e🎒\u003c/b\u003e\u003c/i\u003e ۵ کوله‌پشتی شیائومی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ۵ اشتراک ChatGPT\u003cbr/\u003e\u003cbr/\u003eمنتظرتیم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eکانال تلگرام کوئرا:\u003cbr/\u003e\u003ca href=\"https://t.me/quera_ir\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/quera_ir\u003c/a\u003e",
+      "date": "2026-06-16T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BQmVyoLGgBV8n5F4g8Qs-ctQLEHHh_F9z0gOnKOGatF4AsdnIbjl9qchlBHTWzYNOKNQK2itastyrk3vV-F_Ipe1UJRnwbV6yzGV4427mavpx_Lkxq0fglAFC9T5dOkvqTC-JIjqV9TwRSAjNGw6Wxmv9q7U87dogz568pBqanz6HurQ5BkP_BuWMD9jULvD7Bbg-8L-kclRwARbFgsDq9nW0GFP3j_1O_c1rw4np9TTSnKhEl9mnGZulB2M-9X82-qtc3VPBJio9OR1cuTJIyUl2rqPbzZWi7SIDrYiq-M9x1ZUTMQKTEcIe6p1IZq0RCGajIB28tmJVZw4fsVpqw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "انواع روش های تونل SSH برای برنامه نویس ها به خصوص بکند کارای وب \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZmfQSRF4EThLW5RkyL1P1pcKwyGvcNbGJqi384yf1FpnscRUiH7ojxD0ItAtUrQJ2GuFI7Jjl9Mw2bl8jaW2RdGybNd55TCS4i8xx32zrIywKJrQhLL5j6iZsvodgyAtlsMP_q6DHJtJZrLD9ZZSB5WOy-guMhwoQbHzSzKk4t-KnX3d9l-XWi7UdG-DSoTkLq9v9Pxv0IYb9hxwIy-oblXozLM9Gmy1R4mb3IUU6SWxIL0iEuU7uQKKJy2tYy32G9tCh634bmAL-LzZLm_ZmCg_XnFwhAD1jwvKqsdMftYSJuWK_KP-btEC-GfMnLVfs_nobM116qk3oUSs270UPw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اوپن‌ای‌آی سال گذشته، در آستانه عرضه اولیه سهام (IPO)، حدود ۳۴ میلیارد دلار برای تحقیق و توسعه، فروش و بازاریابی هزینه کرد. \u003cbr/\u003e\u003cbr/\u003eنرخ بالای مصرف نقدینگی این شرکت نشان میده رقابت در حوزه هوش مصنوعی چقدر پرهزینه است\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
+      "date": "2026-06-16T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "‏برخلاف تصور رایج، چیزی که مارکت از پوزیشن AI Engineer انتظار داره، مشترکات بیشتری به Software Engineer داره تا ML و دیتا ساینتیست.\u003cbr/\u003eبین دوتا SE و MLE همسطح، SE شانس بیشتری برای گرفتن اون پوزیشن داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ arashsysh",
+      "date": "2026-06-16T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1781624923
+  "last_updated": 1781638081
 }
