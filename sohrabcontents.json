@@ -8,36 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "البته از اونجایی که ۲۰۰۰ ساعت اینترنت ایران قطع بوده و انقدر پکت‌لاست داریم و ایران از بیرون دیده نمیشه، فکر کنم دهن اون هکر بدبخت سرویس بشه بخواد از ما چیزی بدزده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا برفرض هم دزدید، مثلاً با کوکی ایتا می‌خواد چیکار کنه؟ :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهرچند این بخشی از واقعیت هاست، ولی باید رعایت کنید نکات ایمنی رو.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-13T20:22:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 941,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eاطلاعیه مهم \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا درود خدمت کاربران توزیع پارچ\u003cbr/\u003e\u003cbr/\u003eاخیراً نفوذی به تعدادی از حساب‌های مخزن AUR صورت گرفته و کدهای مخربی به برخی بسته‌ها تزریق شده است. \u003cb\u003e\u003cu\u003eمخازن رسمی پارچ و آرچ کاملاً سالم و امن هستند\u003c/u\u003e\u003c/b\u003e، اما اگر از کاربران AUR هستید و بین تاریخ ۱۹ تا ۲۱ خرداد (۹ تا ۱۱ ژوئن) بسته‌ای نصب یا آپدیت کرده‌اید، حتماً باید سیستم خود را بررسی کنید.\u003cbr/\u003e\u003cbr/\u003eبرای اینکه بدانید دقیقاً چه اتفاقی افتاده و چگونه با اجرای یک اسکریپت ساده و بدون نیاز به دسترسی root از سلامت سیستم خود مطمئن شوید، مقاله زیر را در بلاگ پارچ بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/aur-compromised/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/aur-compromised/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر سیستم شما آلوده شده بود یا سوالی داشتید، تیم توسعه و کامیونیتی در فروم پارچ آماده راهنمایی و کمک به شما هستند:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-06-13T21:15:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 962,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hSnfv_yHSbDnkRQ8f02Jg3brJDeRDm-40uejhATA2OZDIbnZFcW7NeAuQ_pkqZ0pGHnz8zcDcEctechbz85jDkCvJ2xb_Qur6eBGaBPtSCyfanAa_NLrmnSn8tEm5YfEFhnDVjINIA2XfW01fSBvtbIDKWkx6u9iP8UmMt6CMKgVO-qEBgbFDEtEJZ5vtJf6ckSNRvC1XMsEmBLvVE42q7Qg84VG4FoObSla3Yz5H8JNFmKzD6rZa53CxpViaKJ0MkXhysbkaz3j_vPW4mFqJRYOOL59VLLPQI-_3Me3VzK7JCp-Rw8gn-gBZOSl3wqhZAYonXed1pBapDmG4DSn-g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "برنامه راه‌اندازی پشتیبانی اندروید بواسطه Waydroid که در دست توسعه بود هم‌اکنون در مخزن پارچ در دسترس است.\u003cbr/\u003e\u003cbr/\u003eبرای نصب:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S parchdroid\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eکد این ابزار را می‌توانید از گیت‌هاب بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parchdroid/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parchdroid/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-06-14T11:54:33Z",
       "edited": false,
@@ -90,7 +60,7 @@
       "date": "2026-06-14T22:00:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +108,7 @@
       "date": "2026-06-15T16:47:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 836,
+      "views": 846,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +126,7 @@
       "date": "2026-06-15T17:17:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +138,7 @@
       "date": "2026-06-15T21:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 981,
+      "views": 997,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +156,7 @@
       "date": "2026-06-15T21:56:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 989,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +174,7 @@
       "date": "2026-06-15T22:30:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +192,7 @@
       "date": "2026-06-16T12:17:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 855,
+      "views": 882,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +204,7 @@
       "date": "2026-06-16T14:28:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 976,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +212,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sTqrn76fs8gFT-oVgnnIfIQLhDlHvdoTJLC0YIPG6AODCk9rxGY2zhMCIWbROCYhYPl6XNYK3XUP8xNZlCHyw2FlwlYQKoVvEwYomL13meN9oBxDBY-NFY6ChrrHWb_wXKA1x2yjj_KlbWdkT8-yELeMSOVgekYPGRxW4OahSBWY-dsItB0CDad3guBcekdWq8Db-8lWc1VJhOp1Y52uNVMNQT1xBPKRTuIJAK0xAsVmlanQpCs3XNOXUc-Zin_61gRzTgfqQlSeLgeNEDqQSwo0ngQAEb9LEj8Lvqr3Nw8oXHsY8Zst2EMTWadNrm1eYDaVTU69_wajhryZu5DiKw",
+          "url": "https://cdn4.telesco.pe/file/B_5MNQYQMDIsvrdiDE_3BYZzsya_VgreKbyvrQUlZotg3CnbCbrQoKBe2VJ4d2wEVklV7C4LiopUR5AGVANxHgAZCJ4RaawB8_9ET8_1G4I_p9l_psSo0gaBfVnkkkz0BlGKBtzM-g6wOMc6VEPnJg-wz15u0Wjl3fUYIm_gnsKWcbxhkyaZQrWEGg7PcssasblCWoePBG-2W6yztzsNjbatX_3SuzwfL8m3EqVf_xpfxmQsy6ywvaj_cSfRc5N38eo3mHq1fc3noxrBpnEv-9zHKT57ILbpS8wV2IhGbNIXV0FDAtOkWDk1m5lfB9sxJBVolV6mDNol1rK9YSeH4A",
           "width": 1280
         }
       ]
@@ -253,7 +223,7 @@
       "date": "2026-06-16T15:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 965,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eXll8EIX7ndd-nQhOoacdpqTf_UmecsGEebMHqWZHmumRiqd3gysb5pun1EErO7I2av_iLZyhAWhO6uh35QaRjLmRZj3aoAmbuofNihyf-_osfTwKt89lPvaldGyM8JshlSxNt_8HDruQ3J1bPJngZAbq4A-lEMQ_LXtzuw95V99-44OcHBHPTynkeBDiW34HF8Og0Grz9PWFByr7Szu2EHW_MpcpB5nbcIbzmqUOEwUz66HU4JeW_lAJfBMM0p9QaQOyauK7yxzSwuP2ymcKSs8-9p1-SB-dLkCqPgLgWVA8lGWuYOixpdzaMdHu_ggmxcQcIQWHWhecn3OCMmQYQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/m6zkWnC39QttIy8CL3hTh-_i-g0bm9GQ4_20fFmNKQ1RTX4CbnNYuxcObWikzpVtdfIrFW2osmtW7dZyNLU8DYhFypIB96nKgbdzkgJEQOUDFwndr5rvu-L3KKCm3Cn_DE1CbIwpueblhEs45hnIbBr4RyKLJ9vkTca4xyM8YKHd3QyWjAz4ch0V8um6a_pY2T55QsV2kMuefkXk4gRej-_cco0wka5n585l96cVZimZa8qGj98vYOsS4oUGRh-Twl0hbAlwy9uRVF-H5-Y3sFadh6jJd8KrATmBaX_bZcJB9PH0UtFR-9gQOQ-6jlp5elsYbEmFXOtoIFdwG7WsQg.jpg"
         }
       ]
     },
@@ -271,7 +241,7 @@
       "date": "2026-06-16T21:53:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
+      "views": 863,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +259,7 @@
       "date": "2026-06-17T09:06:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 514,
+      "views": 662,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +271,7 @@
       "date": "2026-06-17T10:13:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 367,
+      "views": 566,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,12 +283,42 @@
       "date": "2026-06-17T10:47:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 296,
+      "views": 548,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "من اکثر پست‌هایی که من تو این کانال می‌ذارم رو سعی میکنم جوری بنویسم که اکثر افراد متوجه بشن. \u003cbr/\u003e\u003cbr/\u003eسعی می‌کنم خیلی ساده بنویسم که همه اکثراً متوجه بشن که آقا داستان چیه و از چه قراره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا این رو برای چی میگم؟\u003cbr/\u003e\u003cbr/\u003eبرای این میگم که یک عده از دوستان میرن بر فرض man 3 یک چیزی رو مطالعه می‌کنن، بعدش فکر می‌کنند که تبدیل شدن به قدیس و باید از همه چی ایراد بگیرن، میان میگن که پستی که نوشتی فلانه. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخب من الان بیام سیستم کال‌های لینوکس رو توضیح بدم که چی بشه، وقتی فقط مثلاً از هر ده نفر کلاً سه نفر متوجهش میشن چرا باید بیام این کارو بکنم؟ چرا الکی بیام پست رو جوری بنویسم که برای افراد نسبتاً فنی جوری باشه که اذیت بشن وقتی می‌خوننش؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه هر حال این‌ها رو میگم، چون من جدیداً سیاست Zero Troll Tolerance رو در پیش گرفتم  بیشتر این کسایی که این کارها رو می‌کنن و با یک سری لحن‌هایی میان میگن، دنبال ترول کردنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-17T14:00:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 358,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "پوستهٔ بش ویژگی‌های جالبی داره.\u003cbr/\u003e\u003cbr/\u003eمثلاً یکی از این قابلیت‌ها \u003ccode\u003e/dev/tcp\u003c/code\u003e هست.\u003cbr/\u003e\u003cbr/\u003eشاید جایی چیزی شبیه این دیده باشید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eecho \u0026gt; /dev/tcp/google.com/80\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eدر نگاه اول به نظر می‌رسه \u003ccode\u003e/dev/tcp\u003c/code\u003e یک فایل یا دستگاه خاص داخل سیستم باشه، اما واقعیت اینه که اصلاً چنین چیزی وجود نداره. اگر دستور \u003ccode\u003els /dev/tcp\u003c/code\u003e رو اجرا کنید، با خطا مواجه می‌شید چون هیچ فایل یا پوشه‌ای به این نام در سیستم وجود نداره.\u003cbr/\u003e\u003cbr/\u003eماجرا اینه که بش هنگام دیدن مسیری به شکل \u003ccode\u003e/dev/tcp/میزبان/درگاه\u003c/code\u003e خودش وارد عمل می‌شه و به جای باز کردن یک فایل، یک اتصال TCP به میزبان و درگاه موردنظر برقرار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eبرای مثال، دستور بالا تلاش می‌کنه به درگاه ۸۰ گوگل متصل بشه. اگر اتصال برقرار بشه، دستور بدون خطا اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین قابلیت معمولاً برای اسکریپت‌نویسی و عیب‌یابی شبکه استفاده میشد در دورانی که همیشه ابزارهایی مثل curl، wget یا netcat روی سیستم‌ها نصب نبودند، می‌شد فقط با امکانات خود بش باز بودن یک درگاه را بررسی کرد یا به یک سرویس شبکه‌ای متصل شد.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.gnu.org/software/bash/manual/bash.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.gnu.org/software/bash/manual/bash.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-17T15:40:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 177,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EJd9Wyzg4sqs3VOJDyyaW4Hp9At2Bvf3vFLyxM-fdi0Bkm7ZbUTQkVHVsGz-nQXmcpP0lO2dMudav2NLoDRePcu04qKlgLWfX9aMsd4FLHIOm2UjL0Mp2rS9vvSc2IWfCBJdauMgZh2Yxbi5KJPZeqUWnTcjGJ9nZocU4xyb9nThtMW0DsLBA3nDjqGZpPj4dFzNasHXQWGYuyd4CzFEmThNaR_ar1XlW0PrJzJyLBttWhQ5Bsk0MQ1THfXkJMwKyyV1VUZNjkqy1W-OoDXCZIFtrbodENnvv9jiJ0_uywkBjRdnXrGJkUMyGB8ITpmZj4m8SyEeKaLDqycZsTDr8g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781697715
+  "last_updated": 1781712638
 }
