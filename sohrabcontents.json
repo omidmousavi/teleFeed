@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "به جی‌پی‌تی گفتم پلاسما موبایل رو در زمان KDE 4 تصور کن و خب باید اعتراف کنم که اکسیژن و کی‌دی‌ای ۴ در زمان اشتباهی معرفی شدن که باعث شد اون عشق و علاقه‌ای که نیاز دارن رو دریافت نکنن :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو این دیزاین منو یاد HTC میندازه نمی‌دونم چرا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-13T19:26:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 872,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PMbbSMDMDSZS42XW3VRS5sLJBq5m45HNrNaqpva5EQ-ulari2fIa_RscCODPUSXWl5CmpoIM-iBY7TiYzNsMt697kLgvlhnCjtWJyiPKsj7gl6XPx1-0RYz1Wl_lWaQ6txvyfpTidwKChOGqfuqRvK8CRQUG4HcNgAJW7ZHZvhpICbkv8YCzG0han3bFEmfYqt05MQkUPKwGJTQAvx41Ipuh69tfx-T_2Wph-GEqBDPD5wkHBRotpfUCoFdC3RWCAGQHXOZ7nJ2C-8lP8hGKH6MOrEr8VnvsTXsFvQSApM5yeNzoDGJ2PyhOKkHN-FBDpxMBUPSg049eM6YsOHRUjg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eحمله بزرگ به آرچ لینوکس 1500 پکیج AUR آلوده شدن.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eمحققین Sonatype یه حمله گسترده به مخزن AUR کشف کردن به اسم Atomic Arch یکی از بزرگ‌ترین حملات تاریخ AUR.\u003cbr/\u003e\u003cbr/\u003eچطور این اتفاق افتاده؟\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eپکیج‌های بدون مالک رو از طریق همون فرآیند رسمی درخواست مالکیت تصاحب کردن.\u003cbr/\u003eپکیج اسم، تاریخچه و اعتماد قبلیش رو داره فقط PKGBUILD عوض شده.\u003cbr/\u003e\u003cbr/\u003eهیچ پکیج جدیدی نصب نمیشه، یه آپدیت معمولی به نظر میرسه.\u003cbr/\u003e\u003cbr/\u003eبعد از نصب، یه اسکریپت مخفی یه پکیج npm بدافزار به اسم atomic-lockfile نصب میکنه که دایرکتوری‌ها رو اسکن میکنه و اطلاعات رو به بیرون میفرسته.\u003cbr/\u003e\u003c/blockquote\u003eچی در خطره؟\u003cbr/\u003eکلیدهای SSH ، کوکی‌های مرورگر و توکن‌ها\u003cbr/\u003e\u003cbr/\u003eبا این اسکریپت میتونید چک کنید که سیستم شما آلوده شده یا نه\u003cbr/\u003e\u003cpre\u003egit clone https://github.com/lenucksi/aur-malware-check\u003cbr/\u003ecd aur-malware-check \u0026amp;\u0026amp; chmod +x aur_check.sh\u003cbr/\u003e./aur_check.sh --full\u003c/pre\u003e\u003cbr/\u003eبیشتر بدون: \u003ca href=\"https://www.privacyguides.org/news/2026/06/12/around-1-500-aur-packages-compromised-with-rootkit-like-malware/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eprivacyguides\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/GamerTux\" target=\"_blank\"\u003e@GamerTux\u003c/a\u003e | \u003ca href=\"https://t.me/GamerTuxChat\" target=\"_blank\"\u003e@GamerTuxChat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23TuxNews\"\u003e#TuxNews\u003c/a\u003e \u003ca href=\"?q=%23ArchLinux\"\u003e#ArchLinux\u003c/a\u003e \u003ca href=\"?q=%23AUR\"\u003e#AUR\u003c/a\u003e \u003ca href=\"?q=%23SecurityAlert\"\u003e#SecurityAlert\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-13T20:17:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 908,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
-      "message": "توضیحات بیشتر توی فروم پارچ نوشته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/aur/1081\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/aur/1081\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-13T20:18:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 918,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "محتوای آزاد سهراب"
-    },
-    {
-      "id": 0,
       "message": "البته از اونجایی که ۲۰۰۰ ساعت اینترنت ایران قطع بوده و انقدر پکت‌لاست داریم و ایران از بیرون دیده نمیشه، فکر کنم دهن اون هکر بدبخت سرویس بشه بخواد از ما چیزی بدزده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا برفرض هم دزدید، مثلاً با کوکی ایتا می‌خواد چیکار کنه؟ :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهرچند این بخشی از واقعیت هاست، ولی باید رعایت کنید نکات ایمنی رو.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-13T20:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 941,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-06-13T21:15:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 947,
+      "views": 962,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +42,7 @@
       "date": "2026-06-14T11:54:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KwaaKwSJAfYxEU9MdWov-T8laAfXyODKv4xGsIiG_Ra2Kw8jwezX4PXeI7fOeQY3jnn_u-qLT2yoJ1k8hZ9X3G-yCBwJc1w7y7AXUVKW45JZ7C0nxlG_0x17UdLOCoIUB_c0ZsNj7ixgwyJIzvxQBgKIfEmBf4bzfO7RhlDBD8rhiUMWdB88nS1-GcDDr4pbC6KWQ1KcfyNPdSmRUvBssbwrU-rYVoKKonMw_-CkpKkIEbl3TqBKlDynRteZAdtd1bwuktldbJGhh3bhrHr84p8pkOzNaVHe-ZWoReuzQwt4O-vd-Rx3x1wBi4C1lczmFXGEVZZWRBa-MDn6D8QCpA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ax_ENEmJLMDVgvvR4LOCcbJg2py2StOA7LOtrDGvzk8Tm4A0HlhJ-YvWlFRvtdNbYHUM8zCTrTIuHZ6UZ2VyHwn-NoeuvXqA8YVyNiZfXKpHMWlY8VG9hMlOc7eYfdh3Ap_mdrODtO-EChUm7sxqKckN1XR5Q_eQOWGYpDxRw1OYhOrWirVbLQk0lNbvSfmipcAdkCWMpCeFmbfb2RqLugnXXBwiWbaP7CTLk2n4DpzJCwpbABsYC_5LWOXgjspjRyQaUODzvMBbSIXJA2RaTWyYXsGTUlw6bYZe-F-ky9RKN8zwkCDIymzPYdpa9A0WZha3bwHsOEvMexhdhItdpw.jpg"
         }
       ]
     },
@@ -102,7 +60,7 @@
       "date": "2026-06-14T19:48:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +72,7 @@
       "date": "2026-06-14T21:17:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +90,7 @@
       "date": "2026-06-14T22:00:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +102,7 @@
       "date": "2026-06-15T05:52:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +120,7 @@
       "date": "2026-06-15T10:29:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dlpZxB-4TWyYDrSCfIPPYeJRLLmI1PKma2phYxIVUBqG8SdSMoUGNS4u0cF3SCEow74L7ztCsV-NfZW_hvz_gzD8FvMO1RUA6fC6t935SW7j4zkd5I3KTlowAagOLb5vJXOYULW4ZDIWxc3bx0QRAOWhwNh-lfCwvFb-ecWrju1REFx5vDbn1Uy4KGn1zbgyR6F4uZcyMfPAPiLxLvt_R0l6egHdwBVHkPBnuNuGz-K2sMNiI8ezlXm7KXtp4C64AtkOTBGM8WOuqC_XcEZFQr9vhJwP6oye8ie2nvvK5GCA6oL2GZjnE2zAt62BBBPKuVCdrp_OKX0MXJz0QKQgtQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/QBGdCl2D83Hp729enH9EmAWdx_y734VIWKJLj0uyXWePAN0AMCXUYHvktnc1tVzqVQhl7wsjhcN99uZIdkRigmskwWMo62WJPPApxepoL_BzI6mMZtmavc2sySs0A0fZY-i3o3dGk7rE0Aplvqfo4Ef77XFd-IvMbHWu0i2_oMmFleMG_79U5fNUh1rNoxt0WW4s14Q1zcldipHJI-ksQh4acIbVt8UYQDyRVhRWBXBJd-mwKIu2i_dfBO--8vOy6OFX0MtOy6EmeSoInHgcklBd3sCvOzplAOsQVbyrLwslim1gCFr8R4i9QLKlgKYIZUDBufUshwjmiNXZC5R5gA.jpg"
         }
       ]
     },
@@ -180,7 +138,7 @@
       "date": "2026-06-15T16:47:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +156,7 @@
       "date": "2026-06-15T17:17:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +168,7 @@
       "date": "2026-06-15T21:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 942,
+      "views": 981,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +186,7 @@
       "date": "2026-06-15T21:56:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 957,
+      "views": 989,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +204,7 @@
       "date": "2026-06-15T22:30:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 988,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +222,7 @@
       "date": "2026-06-16T12:17:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 780,
+      "views": 855,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +234,7 @@
       "date": "2026-06-16T14:28:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 846,
+      "views": 944,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +253,7 @@
       "date": "2026-06-16T15:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 801,
+      "views": 926,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +271,7 @@
       "date": "2026-06-16T21:53:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575,
+      "views": 804,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +282,43 @@
           "url": "https://cdn4.telesco.pe/file/VHVS9h2QmoP9MLNv3yiFST97SJcyG3JE3mrpQsjEl4qig4dWgwKmzsisqfXRNHv_RnE5NOcW6sYSkIrKqDaUkBellAxUBTs-Xa27zpL08K0Hy_qwzRFleyj2KxWpRoG6WDpjQIt61xsxREu0gVGOaHpMpp3WMc5udp96rbjhvq5XmKVOP7J3AODtMzq5XCC_si5Yyz9gpXen4kkoEk5XxXdQrio33cr9vVV4y_D5xeT5ru1BB0vJP12T_zDWQ2e__7sVVBchTX1B2bZbcmXnjODR_8U-Kb2U8YPAU_jJY6CBU4gS5WfBLbBURDqxsOnCGPKlemY9K9tENnicklCo5Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اگر کسی از دوستان اینجا حوصله و زمان داره xfwl رو تست کنه و نظرش رو درموردش بگه.\u003cbr/\u003e\u003cbr/\u003eیک کامپازیتور وی‌لند برای نشست وی‌لند میزکار اکس‌اف‌سی‌ای هستش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/hanthor/xfce-wayland\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/hanthor/xfce-wayland\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوی aur هم هست:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eparu -S xfwl4-git\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eنیاز به نصب xfce دارید به صورت پیشفرض که روش تست کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-17T09:06:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 514,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "نیم‌نگاهی کوتاه و مختصر به پروانه انتشار بی‌اس‌دی\u003cbr/\u003e\u003cbr/\u003eدر این نوشته کوتاه، به پروانه انتشار بی‌اس‌دی و تفاوت اصلی آن با پروانه انتشار جی‌پی‌ال پرداخته شده است.\u003cbr/\u003e\u003cbr/\u003eبرای خواندن این مطلب، پیوند مربوطه را بخوانید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://bsdfarsi.github.io/#license\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bsdfarsi.github.io/#license\u003c/a\u003e",
+      "date": "2026-06-17T10:13:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 367,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
+    },
+    {
+      "id": 0,
+      "message": "شاید یک پروژه‌ای رو مثل Bottles برای کی‌دی‌ای استارت بزنم.\u003cbr/\u003e\u003cbr/\u003eبه هرحال جی‌تی‌کی روی کی‌دی‌ای درهر صورتی که کی‌دی‌ای اون رو تغییر بده بازهم یک‌جوریه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-17T10:47:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 296,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "محتوای آزاد سهراب"
     }
   ],
-  "last_updated": 1781680253
+  "last_updated": 1781697715
 }
