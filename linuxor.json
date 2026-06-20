@@ -8,11 +8,47 @@
   "posts": [
     {
       "id": 0,
+      "message": "داشتم سایت های telemetr و coinmarketcap رو مهندسی معکوس می‌کردم ببینم این چارت های زیباشون رو با چی می‌کشن که رسیدم به این لایبری :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.highcharts.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.highcharts.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته اگه شدیدا می‌خواید چارت رو کاستوم کنید باید خودتون با recharts ور برید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T15:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/G1fKmAFo591GmFE69syb6Zj4dTJ0hoGJkons4kwyxhH-9sgRwD13xfHTZA2JZ0ga0PyIxdbfvAMwPW2l6pYj677gULQhRuFdqoFiNZMPy8PSPc2gjUei4oKUqMcZUtOCG3GlGMKjwVNBWHBLLHzxpk9B_ylrYb8SRF7ss6c_JcjCdSmwHpl84TGSEwJJmgnitQWfpWJBXPJRhNWHu_aYIUJIoYetfv1WAq7z0ZM7CyxSFNlxlYBrJJ0s0afNH6jB1v5_uNAUj6VjR6zDGilyudOZ6znfMGk-NaTs-j9bp8WHR4xQSATRdN5Fsuli8rzuCSpGe1gZv3cxJ_636KsxEQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "انواع روش های تونل SSH برای برنامه نویس ها به خصوص بکند کارای وب \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-16T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/V8kIk0vciYIaEBN2cJgNVN6lr8d0UNidFrwWUCog2gY2KbeOZKPt9IsTd8ms5UQYPTvOoo3UCXF_MOKOOlhb7_SZeG8MqxbPNzf4NIFjSZLe_V76EIy-7_jngPaNBnytD4ks6nOPT8q1KeyGZe7PwlmGeEe66V93ibJ117XUDxvsab-ZskakdRaDc2PUxV6e2X25HQ8ZALLoZiZ4E7_l13U-NeHVM-wgm--NHLPWUJ3yb4h2aK4BVsQNv5kLTvCufIUVR_qwaby0D69Ouk-U7I_dDWB3qAik7HnA-4pSbx1ruX-JGYwW9Tv-EImvwvCeRzJfHz8PeceI0R6vD7QkTA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "message": "اوپن‌ای‌آی سال گذشته، در آستانه عرضه اولیه سهام (IPO)، حدود ۳۴ میلیارد دلار برای تحقیق و توسعه، فروش و بازاریابی هزینه کرد. \u003cbr/\u003e\u003cbr/\u003eنرخ بالای مصرف نقدینگی این شرکت نشان میده رقابت در حوزه هوش مصنوعی چقدر پرهزینه است\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Nima1980",
       "date": "2026-06-16T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +60,7 @@
       "date": "2026-06-16T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +72,7 @@
       "date": "2026-06-17T09:09:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +91,7 @@
       "date": "2026-06-17T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +109,7 @@
       "date": "2026-06-17T10:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +127,7 @@
       "date": "2026-06-17T11:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
+      "views": 6960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,29 +142,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاشتراکِ جدیدترین نسلِ هوش مصنوعی گوگل Gemini AI Pro \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cu\u003eیک ماهه\u003c/u\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985450824384385815\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 397/000\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cu\u003eسه ماهه\u003c/u\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985450824384385815\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003cb\u003e697/000  \u0026#34; \u003cu\u003eتعداد محدود\u003c/u\u003e \u0026#34;\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5275979556308674886\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فعالسازی روی اکانت شخصی شما\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5278602437001767574\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9493.png\u0026#39;)\"\u003e\u003cb\u003e🔓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e قابلیت استفاده بر روی تمامِ دستگاه‌ها\u003c/b\u003e \u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5276262671962892944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبا گارانتی یک ماهِ و بدون نیازِ ورود به اکانت شما\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206626000665868017\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eبرخی از امکانات نسخه \u003cu\u003eGemini Google AI Pro\u003c/u\u003e\u003c/b\u003e \u003ctg-emoji emoji-id=\"5206401524200145033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BC.png\u0026#39;)\"\u003e\u003cb\u003e🔼\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote expandable=\"\"\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ابزار Flow برای ساخت و تدوین ویدیوهای AI\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت ویدیو با Veo 3 / Veo 3.1\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ویژگی Gemini Live با مکالمه صوتی طبیعی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   فضای ذخیره‌سازی 5 ترابایت Google One AI Premium\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   مکالمه زنده همراه دوربین و تصویر (Project Astra)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   پردازش فوق‌سنگین PDF، فایل‌ها و پروژه‌های حجیم با دقت بالا\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت تصویر با هوش مصنوعی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   دسترسی سریع‌تر به قابلیت‌های جدید Google AI\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تولید متن حرفه‌ای برای تحلیل کتاب، منابع، مقاله و فایل \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   خلاصه‌سازی هوشمند کتاب، تحقیق، مقاله و گزارش\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تولید مقاله، سناریو، کپشن، ایمیل و متن حرفه‌ای\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ایده‌پردازی پیشرفته برای محتوا و بیزینس\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   بازنویسی، ترجمه و بهینه‌سازی متن در چندین زبان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تحلیل و توضیح تصاویر، صدا و ویدئو \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   پردازش همزمان متن، تصویر، صوت و ویدیو\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت استوری‌بورد و سناریوی ویدیویی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   اتصال به Gmail ،Google Docs ،Sheets ،Slides ،Drive ،Meet Calendar ،Chat\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت و ویرایش حرفه‌ای اسناد \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت ارائه وتحلیل داده\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تولید فرمول و تحلیل آماری\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تحلیل نمودار و دیتا\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تولید، تحلیل و دیباگ کد\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   پشتیبانی از Python ،Java ،C++ ،JavaScript و ده‌ها زبان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   کمک در ساخت سایت، ربات، اسکریپت و پروژه‌های نرم‌افزاری\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ساخت گزارش کامل همراه با منابع و رفرنس\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   تبدیل تحقیق به فایل، خلاصه، پادکست و آموزشِ تعاملی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ارائه Gems برای ساخت AI اختصاصی شخصی‌سازی‌شده\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ارائه Canvas  و تبدیل اسناد به خلاصه صوتی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   کمک در مدیریت پروژه و Workflow\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5985814681128800689\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e   ابزارهای پریمیوم Google Photos\u003cbr/\u003e﻿\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5278305362703835500\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    \u003cb\u003eجهت تهیه و کسب اطلاعات بیشتر \u003c/b\u003e\u003ca href=\"https://t.me/ElizaiumHelp\" target=\"_blank\"\u003e\u003cb\u003e@ElizaiumHelp\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5278305362703835500\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    \u003cb\u003eبررسی دقیقِ هوش مصنوعی‌ها در\u003c/b\u003e \u003ca href=\"https://t.me/NewElizaium\" target=\"_blank\"\u003e\u003cb\u003e@NewElizaium\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e﻿",
-      "date": "2026-06-17T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ku0Swv-l96u7Zvj6uYztFfQgl6FDo4rG4n0y7UnuTvDIQ1937GT0xDcT5l8g7KmZ11MVqpm9SFaBIYdBjBf7PbeXKynkwfDcDVLcteKtxgJL6IhCNJYD-tJgnvX_l1BdJQzf46TjGRIwXvufDSyq8LaUXII2iSTHQgjMe87HfkHMY8MUB9d7-drtNPspgUqF2v9i5TM0DXJpNYANUEzykitwTo_zH_hVYgPoCkU5y8vI2hv0wNKWzPSIPuCqnihoH-EDFKSm5LDwJiYONlPiUju9LHF_IF8m_hhy5eQOCCozPP4JISgb1xYgrHouv0kGvOMPoaVw-JK1K3E_blHbpA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ببینید چی پیدا کردم، دیگه وقت واسه اسلاید ساختن نزارید اینجا 34 تا قالب HTML خام ساختن که هوش مصنوعی از روشون قراره تقلید کنه و از روشون برای شما هر پاورپوینتی بسازه، کافیه ریپو رو کلون کنید و فایل \u003ca href=\"http://AGENTS.md/\" target=\"_blank\" rel=\"noopener\"\u003eAGENTS.md\u003c/a\u003e رو بدید به هوش مصنوعی و بگید چی میخواید که براتون بسازه، توضیحات بیشتر :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zarazhangrui/beautiful-html-templates\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zarazhangrui/beautiful-html-templates\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-17T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +164,7 @@
       "date": "2026-06-17T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7320,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +183,7 @@
       "date": "2026-06-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +201,7 @@
       "date": "2026-06-18T08:39:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,29 +209,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e آخرین فرصت ثبت‌نام در دومین «\u003ca href=\"https://l.hamrah.academy/991\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبوت‌کمپ دواپس (DevOps)\u003c/b\u003e\u003c/a\u003e» آکادمی همراه اول\u003cbr/\u003e\u003cbr/\u003eامروزه بسیاری از تیم‌های فناوری به دنبال متخصصانی هستند که علاوه بر توسعه نرم‌افزار، توانایی استقرار، مدیریت و نگه‌داری سرویس‌ها را نیز داشته باشند. دواپس (DevOps) یکی از مهارت‌های کلیدی و پرتقاضای بازار کار است که این فاصله را از بین می‌برد.\u003cbr/\u003e\u003cbr/\u003eدر این بوت‌کمپ ۱۲ هفته‌ای، با مفاهیم و ابزارهای اصلی دواپس به‌صورت عملی آشنا می‌شوید و نحوه پیاده‌سازی و مدیریت زیرساخت‌های مدرن را یاد می‌گیرید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e آموزش Docker، Kubernetes، CI/CD، Infrastructure as Code و مانیتورینگ سرویس‌ها\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e امکان کارآموزی در گروه همراه اول\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e همراه با گواهینامه آکادمی همراه اول\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان ثبت‌نام اقساطی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e ظرفیت محدود\u003cbr/\u003e\u003cbr/\u003eاگر قصد دارید مسیر شغلی خود را در حوزه زیرساخت، کلاد و دواپس آغاز یا تقویت کنید، این آخرین فرصت ثبت‌نام در دوره است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e پیش‌ثبت‌نام رایگان و مشاهده جزئیات:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://l.hamrah.academy/991\" target=\"_blank\" rel=\"noopener\"\u003ehttps://l.hamrah.academy/991\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Hamrah_Academy\" target=\"_blank\"\u003e@Hamrah_Academy\u003c/a\u003e | آکادمی همراه اول",
-      "date": "2026-06-18T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ag3BoTSow6hbqufESGqjAk3tInxfcGcfwYD1mCumGSvq12GvsbTmFjH8jO5g_OF2Y_LoBHvfrsjxPSRT7ScrTtMgyIBFj3iWdQT_RHOIlDRVd7HWUP8jlmk0gHxa7pua1RFzqqDj1yw46mhTGD43YfYoc2uzjziCezKHKIEd_NSQj3Eb8r2Ey1Fxvg3D0BUgwWKU6wRol2V8PM7Hej5fQqnOFOs1vbakdy8dFwUW2ojtmpAc3sfXt0Tso5bfF7HK5Ier0dp-uWb5sYCmNNMLa_do3DvARfB0zESLhk7rzeZAx7J3DZFBpgGfiA5RmmzIsE1a65LTgZ8CxjECLsvHlA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "پروژه ای که کار فرما ازم خواسته vs چیزی که من با هوش مصنوعی براش زدم\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-18T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +221,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/R2_26hED4X8BFk6CYFEyQeFRzotu6ZTvxiTjEMbzhL8I2JWNxiVbiidmHJHreea62Yz6WEiTnvZiw8zqxR9KJ0TFrFs88ip8fhdRbpzg2RN4RLTkEX09P-eN3tDXNWFv_OHFa19v9ufo1c5xHZSPQdFLMwR7Db9ZrR_L_yv6vbd9tqiob1ETXZzWTlGRzCZUHb_BRa-sI3l-TJTID9ogKPxj_E3tNzLRVjHrP3szOM7TodJbvqb3ISpJulcFkhZblJd0udw94t6WlLbKAgonXDWVHtaplLTyS6vSzKz_hH5E0M1PMMZEP5d7EYA1woI_QhXDqQqldl5aoBSCWTUWCg",
+          "url": "https://cdn4.telesco.pe/file/v6-cGUJLdgoR7kgyVrXyoEQSThG6RB-woxCM2DPqwBBbHYksfJzOdvU5iFH2wKFkCAPvvSS-VAzeiG1nCh7HF6QSF5mrT4bsMsdoxu7wbepKPgXhRt4bSgnzznCT_mLnrm8g3PPjKZ4L6ZT9AYn-cNAP9i7813LkrlSZaOrkqnF62mpMe-xWY3jv68VVcSs-EAfN7o4BaRzD0NVGGEB7a1dUHYV7sY3KlQGmV6m8NMzXD_PQ6uyfjFWopcr9ES4E8CHWSKFdVb2swiIpHYumOqpc68k7xvTLnl8J1HNZL4IH8uTIiPXS94V5FQKIleZ7DShg-Wuu4iSn0HLp-utZxg",
           "width": 720
         }
       ]
@@ -232,7 +232,7 @@
       "date": "2026-06-18T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +244,7 @@
       "date": "2026-06-18T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +256,7 @@
       "date": "2026-06-18T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +274,7 @@
       "date": "2026-06-18T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +292,7 @@
       "date": "2026-06-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +304,7 @@
       "date": "2026-06-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,5 +317,5 @@
       ]
     }
   ],
-  "last_updated": 1781952257
+  "last_updated": 1781958222
 }
