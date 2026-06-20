@@ -3,7 +3,7 @@
     "id": 0,
     "title": "جادی | Jadi",
     "username": "jadivarlog",
-    "photo_url": "https://cdn1.telesco.pe/file/AwmacdfioNOtksDKqCdeZIVKtfuns5KO8ii1fnBD1toMG49dS_lVf2S5kAsntl46WBOisPmOHcsYNPaf-Zsd3B4Dy0n2ShYgS8WPhZfcGaPYX7hNAo66amYCtEvaCZhTpUDZX9WNO1N8QbT5XeSsL78aYCE-3V5wK7btUYiPMTmj3uljJyPnvlBxzqfeul9qckTTJLniISJ5H63jLEF9FRoI2RwQVkSIZdb258jSdWrKp0hcrEAtuyHUNrDO2hGjMVKf8o-014e740WUZL-2BC-Hb_qTSCD1oXcazwE5WruHsyxtSEY_m_rf7Mie_EUIjpyGBnkNSK5EA9PhUjBljA.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/RyNVXqGGV0srBTZq4EQikiFhsDCYEtD0A73h8WQTF73O5g3qum9MbH35DC6Bzuv7tSmBphskSoNgC6ISvpcLMvjrIRnfZZgxBAI3iwBLmSpE2efDyEPUraIzvbP41uZG996mKY8E-0GZxlfBq9IT0FvDDkfKn2XhH1PXBy79AeZLJub7Ag8UwObrwZvQ1RgQg8hb2wf0_BSJUCTQer9arBEXst8tosP9JyANlA9v3K2zkMINdPh8AH62guLII4Vd9yy3ZTuKQOfcaegZaH78TJnTGsqRVO1uRcs8KT8R707t3YVYjle1t-Hq88FGSdK-kCemWohjkuBIvKzMnHFqMw.jpg"
   },
   "posts": [
     {
@@ -48,7 +48,7 @@
       "date": "2026-05-01T01:59:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74200,
+      "views": 74300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-05-28T18:08:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45700,
+      "views": 45800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,5 +145,5 @@
       "sender_name": "جادی | Jadi"
     }
   ],
-  "last_updated": 1781988450
+  "last_updated": 1781992813
 }
