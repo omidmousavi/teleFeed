@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "داشتم سایت های telemetr و coinmarketcap رو مهندسی معکوس می‌کردم ببینم این چارت های زیباشون رو با چی می‌کشن که رسیدم به این لایبری :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.highcharts.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.highcharts.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته اگه شدیدا می‌خواید چارت رو کاستوم کنید باید خودتون با recharts ور برید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-16T15:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZUp01jHrsUnqWgFXlw3DbUqBQOI3f1qw8IeQ4gWpgnUFkkjwJKS3FKyUMFntAKD6EAcGmxYpJGUNKYtRvOvFNALpFbX3IRifTaRKKldqET1s_r9aa7hI0mzuDZKXlTPF-rx0kT6oWKe4LAivltTETGW90I3haFJCknP5-Itn5iRIQl9nO40LmhmCdxL-fhJMDOqdtNRsAj8rDnzuK5MOxAW98gqFvhjj4aOQG9XdzRMVe59n-u2YYLQ4ThJ367y2OsIS3EeShPeC5N2mGNmM6GK8pMfQuQxdXwkWD8Ntk9TzAXerojZEjY4-81kEzVjI73F2JcfSy3l3zzTAMSJGnA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "انواع روش های تونل SSH برای برنامه نویس ها به خصوص بکند کارای وب \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-16T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 8250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-06-16T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
+      "views": 7770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-06-16T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-06-17T09:09:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-06-17T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-06-17T10:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7500,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-06-17T11:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +128,7 @@
       "date": "2026-06-17T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 7960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +146,7 @@
       "date": "2026-06-17T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +165,7 @@
       "date": "2026-06-17T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +183,7 @@
       "date": "2026-06-18T08:39:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6830,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +195,7 @@
       "date": "2026-06-18T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +214,7 @@
       "date": "2026-06-18T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +226,7 @@
       "date": "2026-06-18T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +238,7 @@
       "date": "2026-06-18T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AY3gwgAg-bP6ghphAqOEqq5aeEE_fYaSFv5Lb2fVEduL-cFCM3uJI_f_BIdel5iODzN_d7-6IDb6vNMtEXN0WBZqwBg6vlM17sfuCwXuSpCDOvA98fkof_F1WqPFkozufMY_DcVQqGWud1VV-FJg-nN4TyJncQAmbY-oyPJ1A9qnxkTPNyFEzxLxywNfQpSy7kungAHqVTHpnzdJyCjyb5ExZy3KaXhmV8Hr1GQS6hqArPJbSZ6Dg8YtypPYuKHX1o9pp3N9fboPoaxoyBQeu6mvrcCBAVTVN7G4n9-DEabU2NqMguKR012uwz0zqk3qLdSrmbd7pKdyk5vSNxFiyg.jpg"
+          "url": "https://cdn4.telesco.pe/file/EjwOahcmcHCeQI09VS-YU6KyXn4BxXmlicuENrOQRid8a5FIYiXcUv8uJNQq4KR564qvVb_B1KrFKyjoYc8x3u76st9spcHAnoMU0-Zr__0Q2_rkZN1-eWiSyEzFtjp9xrHj2DIWcWq6rzBt55fRp7ut517UJHZvfDvOhc6-LpN0WtvcVpdr7FYU8Ww3dIzfDZbKhTh4MK7BPUf7wONPMeDE_KAALjQvagWUuJ9r5olWi5NfjQ_lJmsZNX5r_NhUIZe3lErrD4-I-5LX5T57XslK9HDLl9MyBlOgjEkcOtBYetoJd0HxXwtO1gRz8xm4ZYHHlVwVmJqTLZWaa4BINA.jpg"
         }
       ]
     },
@@ -274,7 +256,7 @@
       "date": "2026-06-18T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KTZD6rt3ltABgYmlMdZjdkpUsoPSp-QyAeY44HLuHIatSOzACL7eNtzJl8Ne7MsZ9rR5ZzB__ToNgWnsZ8gcduU-KKWJeLo1BXxIztaZLwEPD5XxuYDc3vs4vzLVy3bOMtEIteGjP7kfhoKgEVMkM2XWfOkn7Vcd0t8hRLKY2t9gJf4N-0KZGmM7yEY5HjdS7lbQVaL2Qs3oHKH94Js-3PPe-PToP-idm1nOqOOBRLRujk5pInHFha6I8ceUYkMtrBpP3daqbaAxucuyOvwzIeEiX8nIxnZ82uUvZo8L54ggYFfae3ouSQ-VxRIOL0P1n1rLXvfTc1nQM7M9ll6puw.jpg"
+          "url": "https://cdn4.telesco.pe/file/L09ZorCucrSHgChHAeKLIZSNWOX-Ziwmd1L5qrPhXTmQKiysz5YLfEEWC0J4G1zGlYA9x_EYuMqbLBqSgg5kw0J9zE_-G5gwO9B4WUxtKPIryzWduTgrARWpa25YyMaJn-xAeKRylXkLn_UG6NE7YhhtfNKIsFCTQlpGpxQC2c3RHw_Z5ZJ8yLm8LZx-ikIT8Bj3nR4-Y1VfTXXWZVLrB3b87Lg6X0ck1ij_JeQCrKhlaxKiCRA1H6-GmM2uvsmN_VHVHcAn_IlTimnhimGU6aYSmOJ_iIAiOIcTk73qrFNGp3Zv7VBIQMoVu39R6WNQs5OVl2Jn5oaSQwRCHgp6mA.jpg"
         }
       ]
     },
@@ -292,7 +274,7 @@
       "date": "2026-06-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6640,
+      "views": 6930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +286,7 @@
       "date": "2026-06-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +297,19 @@
           "url": "https://cdn4.telesco.pe/file/EdZzyITgl3RSkWqtLST3jCvKy5b8vsVOPngIYiH7vS8iPDmfbdmd7won6qYWMGVi_g3SV-r1r7L0SE34HK2jjXFq5hh7n-LlGvMx7mz7xy1cyJSh8YqSSrxE_MdbjM9n82Tg-FoUYR562fW91GT0LmKMbCeBV8-qXbGUORksfHW0_IqeCQD9lJHxqDx0bNZSlIQzdNwK39dcagKlJcZMsRpCbqWj2LYT_aFChRx9cxXf9mblAdUkYiOX7mICPUQ8sQqHMUR0vocxO126V2ll0-UVxs5hNAUaO1bGFrmJBcR7zX_0Gcn-TAVjf23g0lQ0HRo0SL7Yy6uuDweCUOUCFg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من خودمم نمیتونم AI Agent بسازم ولی امروزه کسی نتونه بسازه باید مثل خر کار کنه، اینجا لیستی از ابزار های اوپن سورس برای ساخت AI Agent (حمال) جمع شده واقعا چیزای خوبی هست لینکو ذخیره کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/kyrolabs/awesome-agents\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/kyrolabs/awesome-agents\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمچی داره از اتوماسیون و فریم ورک ساخت ایجنت بگیر تا توسعه نرم افزار و تست و ارزیابیش و همچینین ایجنت های چند وجهی، مرورگری و... هم داره\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-21T15:25:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1782052716
+  "last_updated": 1782059133
 }
