@@ -8,85 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه تازه کارید می‌خواید AI یاد بگیرید از اینجا شروع کنید منابع خوبی رو جمع آوری کرده، زیاد نیست ولی اصلی ترین چیزایی که باید بدونیده، ربط عکس بالا رو بهش نمیدونم خودشون گذاشته بودن :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/owainlewis/awesome-artificial-intelligence\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/owainlewis/awesome-artificial-intelligence\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-17T11:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/d7-RFeUzlsdj7IJDIEsFhkygc2IOKHloB1cYMAwnIRVXr2pTyL2NPt-7rJJRdUor4epw1O6AMgJ4RES94SDtEA3sCCtqXI0SZGjXL1tN0Ux_i5Tv0sTkV-iEv068tfyldA2xN6DlBEvO6_UBd3qqtkeODR8nTOWTIuknI4NNg0-9vLAs0LeasortbCW6grZ5ffrb12tLha0TzBQD844XUM4Pmx-KJuBeDlYIc6TlLAVo9u1vnu4OmEWlHf7TzZ3gLZ9P2xfFVTDEMkHxqUHL7KCpEQDfnSZAyo81mJuVlrUpI-Q8OkWDBNbhaRlmbe10am7DiOrs-0zQpXiO2Ec-ng",
-          "width": 350
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ببینید چی پیدا کردم، دیگه وقت واسه اسلاید ساختن نزارید اینجا 34 تا قالب HTML خام ساختن که هوش مصنوعی از روشون قراره تقلید کنه و از روشون برای شما هر پاورپوینتی بسازه، کافیه ریپو رو کلون کنید و فایل \u003ca href=\"http://AGENTS.md/\" target=\"_blank\" rel=\"noopener\"\u003eAGENTS.md\u003c/a\u003e رو بدید به هوش مصنوعی و بگید چی میخواید که براتون بسازه، توضیحات بیشتر :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/zarazhangrui/beautiful-html-templates\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zarazhangrui/beautiful-html-templates\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-17T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p--GTlykL1-HX6rZzZ4Mw63KaXymMsqF8rLpZ3yzw5HpJ7O1XoQGWVXj6dRFWMA5ICaWGonaEBZUk7dqs8lcU7qeG0RlQ_ZBUhywDRzWxUurPvunbh77YWVFbFX5AtQ31QE895M2g6fUmEnx-BBy-r3BL8lvLnJobOCkMHMlEtGUpNjs2063YflD8Cs2emNGPkXIdbzSTsov9oIBp-bcHdNGYqPGcJqLr0TqKuBEB-_A7gRIg1O1YYvdWXSXAr_B3HPaoCZ1Ay9eFtxBW9GBBbv2e7aVHNT1i_Hiqi2c49xglfin5GtcwFrGdsbA2VH_7O80hAbegfYoY1uW2gBVpQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی به اون کارآموز جدیدی که تازه اومده شرکت رو داری کمک می‌کنی ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-17T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/F1LD9ip_pf06nb7cULIq65ie0lt8diyfUJTrkqUSunncTsS7QV_Hv6GGHp0HD0J10ieZDpFRNtYafyZ-VePNMvxhmtHeWwjJYoRSw9zwq_yf09v9v29pWGdYmsk9e4lj7keC0l6B2UNS9jKWIoWKx2j80Y_-AYFBzW6J8OECj1V3ddk-c6CXqHpGcc6klPqK_68h3SV8JgB-Qm4rMjTt-kc-MgQCoJcHSsrNc3u_GMfz6I37ozbhp-STtJ_sNHhoZNa9korTGWXs4FodEBG377P0aYRiQ3cU_jpiS_0tSZSK6N9HTiPj5w1w_ak-98pNhf_Be3HX6b8UqepyqwpVvA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وضعیت رم از سال 2005 تا الان\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-17T19:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TOFXxYods9gxt3KN14he8ZmuWtq8Hzqpu0s_vWZlRE6serIr6K9Z6Zt2v22d4h83QDNwZuUjggJV-JafbKHHUtkHwwCT9f6d_lXcQqYBUM6VrV_wh2G8MvhErFPdIQXTMcaxwClCiIuLy78nQG8VbAPYj_CeUhxtQTtqRXdjRthXoTl1AIXQ3lQuxYyT-ytjpoFLMC8S1saBjAM-i_AZXJMJwyfHz3aBlg8x-4cLHKc5YEIiL5Kd41gKfF8TIcLBUB71fePlSgwbfYzIyxbvffxnV7V6JbQNMs3iwQwjQwIGvcg9Wco8cRcmrzR0YDLjQtUJK_m1kgYT4ZvOL6E62A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "توی این سایت میتونید محدود به کلاد 4.8 و سایر مدل‌های آنتروپیک و بقیه شرکت ها دسترسی داشته باشید. فقط ایمیل میخواد.\u003cbr/\u003eتوی اکثر بنچمارک‌ها هم مدل‌ها رو با هم مقایسه کرده :\u003cbr/\u003e\u003ca href=\"http://llm-stats.com/\" target=\"_blank\" rel=\"noopener\"\u003ellm-stats.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ apypc",
       "date": "2026-06-18T08:39:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8300,
+      "views": 8420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +24,7 @@
       "date": "2026-06-18T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 9350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +43,7 @@
       "date": "2026-06-18T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8860,
+      "views": 9390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +55,7 @@
       "date": "2026-06-18T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8090,
+      "views": 8770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +67,7 @@
       "date": "2026-06-18T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8760,
+      "views": 9560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +85,7 @@
       "date": "2026-06-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
+      "views": 9190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +97,7 @@
       "date": "2026-06-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9340,
+      "views": 9860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +115,7 @@
       "date": "2026-06-21T15:25:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +127,7 @@
       "date": "2026-06-21T17:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,11 +135,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WZluzFsesVxdG6tWIcQWrl2RvsSW8G_-zNOFcFSzHmivCSsA3v9IliIosZxxDMSqEEN7AkijtxoMJ5TomMRA04ebsXWBddYho6BZnIQZGrhRTrUHBsErG2ujhmywvvaseEVr25SjyF_oUgNWMib4_kQBLsXO4dIDu2LbBbXkPYzboGqlaqbB9lyBuis4VjSuDriqjtaeBreUzbYP6-DqtZ4WijaLeSfZUIaURBRcs7pCDm5WkW8EBKd1YzGS-a1ykSbXKf5Y3Widd58KdBqOtzV80prHuCryf4YKKqmjU-4YuTzt8gaJ4ToIFgLzC3FXKRrMjre4n0zGOVP4MIyWFw.jpg"
+          "url": "https://cdn4.telesco.pe/file/fqJpAh3yJeI0v2JeYUokm6mJ0kNELNbtMAHTA0I3809E7LTQ7TqPwdCApZTvVMeoQfGIrh5NPodPiTcTHM6KgT-Ry45ZMSs4vOqVgDNqnA2FRPe0aV3235F6S9J6O2fjGz8l9pfbNVJBNJMPK0LYpG3JMo6TBl0nHdTxbShOPbCrCm5wUNW0uIbSKxZ4UQv8JJVbyOJINV_6PErogfk-awatOotkAzlPYJWEEFincSoLQ-32eH-5kWuY9mxYzTnlT97nDRcTO5QDyF5WUdZXiN71B08WaoRn9Xtq2IJIlfx470V8bNVSHB0P1YqQVDOt6MxxDORQPwySwy0ek2XwTQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/onKa0tgCd_K5OpvdBS66dWMvLpbVhBtAmCiMsL1o8G9LBpj6q7y0QCXturgDNUO4hgLqRR4j4AoyhQh_RhpGyEOMIdmG8x2o-9-VlZgPeF38zTThqkE4BidCBt9LNgZAQ5oqdRpJZT1tXsesQQ9WFRw3QeU97vZG0lOp-FGZICnF9H8Nr5KftQMr1J9W6Gfj45d2tDdcrb2OTNwZAXU2jktYxWfAEwB9IBNjdHDxjTQocJlRzdy6xEnUSOUbyJm_UQi_tHks1WiCQx-rwQc8-PmhhvQKlCyrufUrqUWlnNPTWBq72V7zRSqVmQa0tCJ9MblFGDkzsoup6fWscOMD_g.jpg"
+          "url": "https://cdn4.telesco.pe/file/mypljyKrdC8kt7NKHiPBwbk7JbQUz43teIcu1uPg_xZ3GMZKI6JN8QsHgJ5vnyXsBfxy9W0iHjR4muvDvJ0BaLeisLzMYPuW6ZOhVJs2lkHLtDVPJc8ft5s_XZk-Q5Pte4SAtj0KdQQl898ubBAwvcMn_xbLV8ArDtIr-1G1lc5fcL14Drf5n7MCvQbR1OplbEXh_ChEongUaGGNd27PkApxIAZ_nTl3TixSeGKCE5HBB0_9s8nN7FEjk7AMqbYG_pdBwPq8UDg9zReQBd7fnSORNtvvWWqOEz7NcTzdT3e1-qWHs8gIqRjQ7JJOjqxO5DAnKVr5iK-1Fj7ps9ltdA.jpg"
         }
       ]
     },
@@ -223,7 +149,7 @@
       "date": "2026-06-21T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +157,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/luNP528BvHN5JGLRXoAwAY5Ub7tyqEJzC5lSzu0jrmQhz11fVRyjlOrrXhBKBrMLVdZCaiRvi9l_g50nvbCTVNbyF-pfdUsEUrrTXFk7qVfdauc9W2T6v6irBK0MFrKp5J9PBwNldFRUeU5YaTd725BD90NkH3_55AU7HAUHD8x-UdHVsJ2DXXg8gDDE2KqJNpFdozuqIowo-y5dwBrHkGmG3entpsiDn4nMSSPQCjWtFltC8XnXc67rUmmuMOPpDAdh_YMT1YCOhvpSd3whHX9TGi3_xcsnR6hKfRY3Cb3nTD-RSKiNGXFdCzgtD01ipx-HdzzpL4_CMoEWCG_itA.jpg"
+          "url": "https://cdn4.telesco.pe/file/QzoETmuuH0atVv4GFc3ffbuUGrKSUH4VGUAFfjEdXqZtFxu3AJmuXZQda9iiMsNnQ9mTWVF9I12-lUxpeXzYdX23LF2Ah_zL88S76zlD6WkVTcJs4rtHIFVwu_VI49lJqWa_j5m7RjIKpedvssMbRPzeS7qY79qBrfQ-WNVE8OLJsygkYazaJwC7pLkPJzdRupkdILmCz4fknHyauoP-HucChn68x3QGbolLFb504BcvHUbzQ8qDriupY8yUYPUHWIRl7133xa_m-70Qf6vNiA030YYvz1b0o_g0n_0BUpjWMD7YVBRnbExlZnR-AaOF4XtaPm_ibopW41EOBu1hWg.jpg"
         }
       ]
     },
@@ -239,24 +165,6 @@
       "id": 0,
       "message": "اگه میخواید زبان C یاد بگیرید اما نمیدونید چی باهاش بسازید، به این فکر نکنید با C چی میشه ساخت و چی نمیشه ساخت با C هرچیزی که فکرشو کنید می‌شه ساخت! ولی بی شوخی اگه واقعا نمی‌دونید چی بسازید این 18 تا پروژه کوچیک رو یه مرور کنید از بازی 2048 و بازی نقاشی ساده گرفته تا مبحث یکم پیشرفته تر شامل مولتی ترد و موتکس رو پوشش میده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/labex-labs/practice-c-programming-projects\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/labex-labs/practice-c-programming-projects\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-21T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Sw71SCwy_9BYQj3nu-xhCb82i8_rGGxcU98jMVull8QxRYQZE4knbdDhspPdBJKE6KmtOOPc4fKK-K1FXIFedKXc1QzDO1jA5uca0eIRPN_F4nsHgqHIVW8vNmWKU1CL8g9m93l3XZqXeTy3p_ZLoZ50CPlvbEAR3AgPzGVRrnHGYxuyri0GPUFCb5XSHO78a0bwxcNnRkWSGJimJaVZ-v-lRnxzXJJJiVT1wmT429w300C4_jKWPTHKYWE1IXwNE1I-kT4qE761C1r5V8AzlX1211nemKqtnxd6qKGrYLoUlqXysD0ZGHOcbPlmk7f0jn3n1SWdapcKBOT_b3nuNw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اون رفیقم که توی بایوگرافیش نوشته Linux وقتی درایور کارت گرافیکش از کار می‌افته روز بعدش ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-21T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 6530,
@@ -267,7 +175,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OsPNLtZ-MMq84yOA5Drv_CAS8SHkUieYE0CSJFiRMjcTac_Lm_cye_msF9B4aJAADfH1mSwv3C-PyXRXy_6CQDw10bcZUh5i6B-KJ5e0bP8-kNkh62bFC3fh7cbc2obfKUjw9eQdHGXA3KUSHBNBRP_I3rCBVhShP06JUuw_n7L5GSRl5n3AQf_v8tnL9slV-KskLDVU6wHA48qa4Rv8tT4dcfcwmrBvAe2_14uGoEjbiFqt5qP6dp2a-j6ZZh6_aCikW-g0xAX4o5hxUzTmoh2BkhdPU8W26_BV7iEqIw5ExDuFGdms1hAwMZyWnLdRcBxaMl3S1iNfSfXCOPLcEw.jpg"
+          "url": "https://cdn4.telesco.pe/file/NlLfV9Ji_6w1-bw4n0ewUTkYnOzLQEJOXjPaXIhRQOccGtgVI_92ptnlD3WlERrIfjsmQi6Lf59RyXpm5F_StlmHvmVzJ52-lG26LK6ZIXTHnumXUf47mhEAbxP-nPn98t9_vQF_TIKQ1AKitC7jXVUZnf9eo-aHgQzLTcR5g0FGLnqWk0b2uyvsZTTFByMgN4Eji2-BxNAD942vizwEGw-EfRVOpekJVHBBtmPSsKVnP4nFPXAXD5Q-KN8aMQ3Gl28844Nwew6wA7FUfmPOF3c0O0ppnHD9QqVWfgEdZkvhb9hZ3svRplLduVVYBv6pdVS88E3mXD5GrF7_6Uo92w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اون رفیقم که توی بایوگرافیش نوشته Linux وقتی درایور کارت گرافیکش از کار می‌افته روز بعدش ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-21T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CuDaxX4dbKaGnDAjE_EiIrLBql3R87F_dab7cKbFyHCA2uLMAHrLniVLLvS4az_gHFBa3lJ5XwA2EMtOMJlFUQF915TpUgtclJf1QQnpAzh49RpCyQbApCJqTc75unZUwCY1o6UI8waZ4MGhIBpaYAIQ0B0XcWOQtRkF340y-PiNj1P9M95ByBKkq6rrwEKwFa28Ky_QZ_NPRVw8gJigXLeN84wpXSUhA3hTGThMgNE9ShpU28j-uzvZ951MCGB2EUJ8KN7B7Z08ZCaVwDI6CDevrg3ANuXizR6Ekp-5J37lSwgnyr8DlJV-Eej1iEcaSMpxU6CplcNlCcrAhVTbhw.jpg"
         }
       ]
     },
@@ -277,7 +203,7 @@
       "date": "2026-06-22T13:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,12 +215,84 @@
       "date": "2026-06-22T14:39:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eدستیار هوشمند شما، قدرتمندتر از همیشه!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاکانت \u003cb\u003eGemini Pro\u003c/b\u003e \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5836685831699435996\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فقط با \u003cb\u003e299,000\u003c/b\u003e هزار تومان \u003ccode\u003e(اختصاصی)\u003c/code\u003e\u003cbr/\u003e\u003cblockquote\u003eروی ایمیل شخصی شما بدون ورود\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eپرداخت امن با درگاه پرداخت  \u003ctg-emoji emoji-id=\"6001460886210876000\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | کارت به کارت \u003ctg-emoji emoji-id=\"5287661248878490473\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAAAA.png\u0026#39;)\"\u003e\u003cb\u003e🪪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | پرداخت با کریپتو \u003ctg-emoji emoji-id=\"5352874344378810114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eهمین حالا ارتقا دهید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eلینک خرید از وب سایت:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5310180286397423397\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://zhimunplus.com/product/gemini-pro/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eZhimunplus.com\u003c/a\u003e\u003cbr/\u003e\u003cb\u003eلینک چنل:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247011805783433524\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Zhimun_Plus/17\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@Zhimun_plus\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-06-22T17:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/h3lqjyww2rTOZKA2vw8XuX-b7vaWggttKOLhEPEzAmhzc71T2yZQRFMCfquAp4yZUe2JvMNzfhePK92vJQdSI4I5xSiNC6qoWaERB4L0H4ozBn2XcOyCUHRloBW8x6AxT7CFLQUxUTtyD4HsADo2y6nWAi8Gs1rNiGmSgjrsIRWTjssbV0TG_kKWhA8hPneSSq70wgKucvQELwShbCZA7G5FjoANBg2rFZPVGGc9kM2Tynzj-_fX_eugkm8W5H9DQAg67qskYkOiv3kNSSzX-IHUpVeYBUpxFUCYqNKtAT61BYQ4qd-6pmXlZSxCS-0wEWgFtr8UMhFFhBR6q9ihgw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دورک های گوگل عبارت هایی هستن که توی گوگل سرچ می‌کنید و سایت های خاصی پیده می‌شه، این لیست اختصارا برای باگ بانتی طراحی شده و دورک هایی توش هست که وقتی سرچ میکنید سایت های آسیب پذیر میتونید باهاش پیدا کنید و روش کار کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cipher387/Dorks-collections-list\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cipher387/Dorks-collections-list\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-22T17:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZBslee5EUJw1d34yv4dqpCfPp3vM5VlEtO4TbCYFM7Ot8eazFwdNftvNv9fMRdfvpVOvDHvoPthOxq9X0evqZLOlDA7Fz7c9Vx9yZZ-5cTPmFsiLApMgyJWntwUDHE80bjOdPGyddG7IjayQRpZ5PqHEEfPczQKAwRvqcPu29h30jDu3brrDZqY7D-MU6cAuShsRVg0DmoH5ThjtOJci5u4ePq67a7zjAfMJ-9u5DoDSYOgEURjXYprqvwhLgEm9ilCY3USq7MLS5areV4mUAVIv3gQwhp653AXR_xBFVZJ3VcfQneMPQ04-gCQjWKqNkqVhLjFjQQB72WcDRUdnfQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم گیتهاب اینو کی اضافه کرده ولی من الان متوجهش شدم\u003cbr/\u003eشورت کات هم داره:\u003cbr/\u003eALT+SHIFT+R\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MahdiAkrami01",
+      "date": "2026-06-22T17:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dhatJc2LRGYJ2qoI8LnIg5IrmADXSmOocHWSvS6I3FN9y-smrR4cQhOK2jIjiyyg26OagfZ9wL5idtG9gIqCQanLkxSJ2hGGSfLCbfw9MmH1iUxNUD0DmwMsf6A3jqPOZ6GN8ozpQPz6G365XpFb8G5aST2giQyrD_6A6XaufO9RrMjNwz9GH7wsoCqMZsfLWNDC5uGH3w8bhz-fMVxAUBsIiOpcF1YoGGHKjcAMZ7AXDYGCuy6IYHpOYsic-KKdlUpARbBbODE27qKTrZYZRNFPj23Ic3NBz1f0fvxQJoe5aCD5hgLAFENIvgY6j85yhsKFW3lLqhB8--EIzotgIA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پروژه اوپن سورس و قانونی زبان راست برای نوشتن بد افزار!\u003cbr/\u003e\u003cbr/\u003eشاید بگید همچین چیزی چطوری قانونی و اوپن سورسه و اصلا چرا داری معرفیش می‌کنی ولی دقیقا جذابیت دنیای هک و امنیت همیجاست چیزای خطرناک اصلا پابلیک نیستن و چیزی که پابلیک می‌شه فورا راه مقابله باهاش ساخته و تبدیل می‌شه به علم، همونطور که هک الان یه شغل، اینجا یاد می‌گیرید بد افزار ها چطوری کار می‌کنن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://git.smukx.site/smukx/Rust-for-Malware-Development\" target=\"_blank\" rel=\"noopener\"\u003egit.smukx.site/smukx/Rust-for-Malware-Development\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-22T18:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t1uCvex0_IoVY2SKuYwaKVUAbpoITZENVMATV2L5XM6gIe3dwwY5ooSFB5TCmAQ26CN2eq4BJofFFz1S9Uq48LCAJRTktaDFux9a8X6YsF-q9iQVibSOABx0OyFG7oeBcexNWhmfo44eTxveqzAOVssRtssaOuXoTlZofwPb4ZaR5cdSs9bClqSEjH9AdBgPUzh4edUVusvJHDDhMmeAxnGqc--7qh6OdT9yKKbTXj5Tp_fBH3lQVhER0Nf33eSyId-bsgQ48q4xnqBbLaYOs3YFfEPq3tzeE4PoiksWEAiCBSVmq91KFaM051EUpDj5Kwuzj_xz3hDwgFK4FdThyQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782145695
+  "last_updated": 1782158037
 }
