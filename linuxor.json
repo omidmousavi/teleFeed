@@ -3,47 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/sIb2zWQD3hLii52RP97VPIYd7fMXQBIz_akuxK31DmCWlznjxYe4V7-Ej145Oi76et9wgZ3lpAa1yrIiLROUdFjQjkIBYIwK8xwTzhR6cHFN43xu7rtcwgMgwQGNNArjxgtnGe_hFcUdYKMXiLNNbxVbLAqyv5Lt4MJRL-QRAMjmlGwYYsGhFR0NgVpnNX_9qDj4pRc7P4BLzXBbdLTAO5Tj5RGJLH1gkhS4_QFk92sXnK6eSP17gpl2WI86bNq-hcymce7x_Hn2JKdNTJmI8nqlGMRuLTthfU06KeNpNI3xbKTRkBOJ4xhjJ_jU63TzqaksY2trO0ggWoINM0rlNw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/MM8DdP60eWnkbO5GqQXi0ZUeU-XeV6Enb-CgXERUePyTjC8FVhOSintFEI4vr9jo4CWXcSvpBzPn4bdvhjHRyMRSWsLr6EJsxEkXX-vSPo_9VGQbo3_kz9ghRqxSfSww7GH8_tpFlkppst1fDfHxYBmHTg2M1st8yaiwor72IBlhF9HIkQCFrx8jlPqQKB1toHr7clPCIjiV2r9Y96PbfmWV4nf0CAWT1d1nIMTZSedHqVuP-ggMvKXafsXyuhkDYTxPhANwN8dvSNCFdV6iAVRkTBMN5gWg34ey1FM4ZNXJw8NirbkkV4-1S1HUybIrJKBG6mvwe99v1wLfi71ONw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "توی این سایت میتونید محدود به کلاد 4.8 و سایر مدل‌های آنتروپیک و بقیه شرکت ها دسترسی داشته باشید. فقط ایمیل میخواد.\u003cbr/\u003eتوی اکثر بنچمارک‌ها هم مدل‌ها رو با هم مقایسه کرده :\u003cbr/\u003e\u003ca href=\"http://llm-stats.com/\" target=\"_blank\" rel=\"noopener\"\u003ellm-stats.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ apypc",
-      "date": "2026-06-18T08:39:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8550,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "پروژه ای که کار فرما ازم خواسته vs چیزی که من با هوش مصنوعی براش زدم\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-18T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sVHt0szA1nL0tM2QA0gDPQTS4MRX7xH5yG8Te7SwdqJdo3-sZORwGT2vu8DdxJ93BRrauVkJFKrjDeTYbl3QDsxR219PVa1gTN_fo8lWUUVkGz3jqQIRsVxDlsyj7Dkjh2adkDJmg9c5g76RM_cU1gYEYQkmhXO4KrRNcgSMK3HxAgPUql8tGQnM9FKJsBukQ_ElMYCTj-Ah8171ij0Cz7l-rFGBInhwB9rCykb25yvVaeJ2_KpbfZtkaOQ9hghBDCrI0lmPxQtM0eRS0m0B19BB-nbN3Wlnp-jCNyEzyu5uexYCtmbcOudGuCPGjO_3HZd2UZmkzZYM2vWNrVpj7w",
-          "width": 720
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "ابزار RAGLite یه کیت ابزار پایتونیِ سبک و دم دستیه که بهت کمک می‌کنه واسه هوش مصنوعیت یه حافظه اختصاصی بسازی؛ یعنی بتونه بره لای فایل‌ها و دیتابیس‌هات (مثل DuckDB یا PostgreSQL) بگرده و از توشون جواب سوالات رو دقیق و مستند دربیاره. خوبی این ابزار اینه که اصلاً پیچیده نیست، دستت رو باز می‌ذاره تا از هر مدل هوش مصنوعی (چه آنلاین و چه مدل‌های محلی و آفلاین) استفاده کنی و با روش‌های هوشمندانه‌ای که داره، سریع و دقیق می‌فهمه کدوم بخش از متن‌ها بیشتر به درد جواب دادن می‌خورن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/superlinear-ai/raglite\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/superlinear-ai/raglite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-18T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
+      "views": 9860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +24,7 @@
       "date": "2026-06-18T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9070,
+      "views": 9310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +36,7 @@
       "date": "2026-06-18T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9950,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +54,7 @@
       "date": "2026-06-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +66,7 @@
       "date": "2026-06-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +84,7 @@
       "date": "2026-06-21T15:25:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +96,7 @@
       "date": "2026-06-21T17:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,29 +114,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاز ایده تا محصول، فقط با چند جمله فارسی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمی‌خوای لندینگ بسازی؟ سایت راه بندازی؟ یه بازی یا وب‌اپ طراحی کنی؟\u003cbr/\u003eکافیه نیازت رو به فارسی بنویسی. هوش‌مصنوعی «نقطه» برات می‌سازه. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e✓ ساخت و ویرایش با زبان فارسی\u003cbr/\u003e✓ بدون کدنویسی\u003cbr/\u003e✓ خروجی حرفه‌ای و ریسپانسیو\u003cbr/\u003e✓ انتشار آنی با مالکیت کامل\u003cbr/\u003e\u003cbr/\u003eکمتر درگیر ابزارها شو، بیشتر روی ایده‌ات تمرکز کن.\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e همین حالا رایگان امتحانش کن\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBC.png\u0026#39;)\"\u003e\u003cb\u003e👇🏼\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://nqte.ir/tga7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nqte.ir/tga7\u003c/a\u003e",
-      "date": "2026-06-21T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QzoETmuuH0atVv4GFc3ffbuUGrKSUH4VGUAFfjEdXqZtFxu3AJmuXZQda9iiMsNnQ9mTWVF9I12-lUxpeXzYdX23LF2Ah_zL88S76zlD6WkVTcJs4rtHIFVwu_VI49lJqWa_j5m7RjIKpedvssMbRPzeS7qY79qBrfQ-WNVE8OLJsygkYazaJwC7pLkPJzdRupkdILmCz4fknHyauoP-HucChn68x3QGbolLFb504BcvHUbzQ8qDriupY8yUYPUHWIRl7133xa_m-70Qf6vNiA030YYvz1b0o_g0n_0BUpjWMD7YVBRnbExlZnR-AaOF4XtaPm_ibopW41EOBu1hWg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه میخواید زبان C یاد بگیرید اما نمیدونید چی باهاش بسازید، به این فکر نکنید با C چی میشه ساخت و چی نمیشه ساخت با C هرچیزی که فکرشو کنید می‌شه ساخت! ولی بی شوخی اگه واقعا نمی‌دونید چی بسازید این 18 تا پروژه کوچیک رو یه مرور کنید از بازی 2048 و بازی نقاشی ساده گرفته تا مبحث یکم پیشرفته تر شامل مولتی ترد و موتکس رو پوشش میده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/labex-labs/practice-c-programming-projects\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/labex-labs/practice-c-programming-projects\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6830,
+      "views": 7050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +136,7 @@
       "date": "2026-06-21T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +154,7 @@
       "date": "2026-06-22T13:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +166,7 @@
       "date": "2026-06-22T14:39:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +178,7 @@
       "date": "2026-06-22T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4900,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +196,7 @@
       "date": "2026-06-22T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4960,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +214,7 @@
       "date": "2026-06-22T17:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +232,7 @@
       "date": "2026-06-22T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4730,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +243,55 @@
           "url": "https://cdn4.telesco.pe/file/t1uCvex0_IoVY2SKuYwaKVUAbpoITZENVMATV2L5XM6gIe3dwwY5ooSFB5TCmAQ26CN2eq4BJofFFz1S9Uq48LCAJRTktaDFux9a8X6YsF-q9iQVibSOABx0OyFG7oeBcexNWhmfo44eTxveqzAOVssRtssaOuXoTlZofwPb4ZaR5cdSs9bClqSEjH9AdBgPUzh4edUVusvJHDDhMmeAxnGqc--7qh6OdT9yKKbTXj5Tp_fBH3lQVhER0Nf33eSyId-bsgQ48q4xnqBbLaYOs3YFfEPq3tzeE4PoiksWEAiCBSVmq91KFaM051EUpDj5Kwuzj_xz3hDwgFK4FdThyQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این سایتم بهش پروژه رو توضیح می‌دید براتون کل کدش رو می‌زنه، بدرد پروژه های کوچیک میخوره، توی کانال چند تا دیگه مشابهش رو ارسال کردم همشونو ذخیره کنید باهاشون کارای دم دستیتون رو انجام بدید  :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://Lovable.dev/\" target=\"_blank\" rel=\"noopener\"\u003eLovable.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخوبیش اینه هر روز کردیت رایگانتون شارژ میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-23T12:39:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/LTvv1lK0QCxq3yeZtWyzimkR2yBJ54v6njfvDKzZMgAsLzLtaBvUO1dQ8ybDdK0enFQX1ObpIRnxm8ZkOIDwHdW4gh2d_UUUUXj6hDXFiJj2qnkro8uWhUjtl4u9CpT4VGSd8NoIA5Yax3yAp29445l9mHIRNhnOtd_fl9YifCHDPxIgxG1ce0NE9_DP5hqe5SwI7ZWwhNsLNgxYmaZ4heghYFlqjF-ygDeiFmk3OZ8jtARcl7_HmMj6yO-fUrLMLvbf73RaZzZTnpM7sFnrtuijRTI3YLRnEa4kRRiuy3jdqbpYDSjXu_sIe9-hhye-l4T1W3UK1d1FDIP2Dl9o-g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "توی توییتر یه بحثی شده که بانک ها هک شده و همه دیتا ها پاک شده!\u003cbr/\u003e\u003cbr/\u003eاین بحث بیشتر جنبه طنز داره ولی سیستم بانکی ایران اونقدری هم داغون نیست قطعا توی صد ها نقطه جغرافیایی مختلف به صورت آفلاین و آنلاین دارن از دیتاها بکاپ می‌گیرن این یه قانون پایه ای و خیلی سادس، البته restore کردن بکاپ بانک کار ساده ای نیست چون خود بکاپ ممکنه آلوده باشه! و نکته بعدی اینه با یه الگوریتم هایی چک میکنن ببینن جامعیت داده ها اوکیه، اگر اوکی نباشه بکاپ هارو بر نمی‌گردونن.\u003cbr/\u003e\u003cbr/\u003eیه عده می‌گفتن از روی آخرین پیامک موجودی ارسال شده قراره بکاپ ها بازیابی بشه، البته این شوخیه! احتمالا الان بکاپ هارو دارن توی محیط sandbox بالا میارن بعد روش اصلاحیه هارو انجام می‌دن حتی 1 ریال هم جابجا بشه جامعیت داده ها از بین میره و بکاپ رو به هیچ وجه روی پروداکشن restore نمیکنن تا زمانی که با آخرین تراکنش syncش کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-23T14:31:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرویس \u003c/b\u003e\u003ca href=\"?q=%23VPN\"\u003e\u003cb\u003e#VPN\u003c/b\u003e\u003c/a\u003e\u003cb\u003e ویژه \u003c/b\u003e\u003ca href=\"?q=%23%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C\"\u003e\u003cb\u003e#برنامه‌نویسی\u003c/b\u003e\u003c/a\u003e\u003cb\u003e و \u003c/b\u003e\u003ca href=\"?q=%23AI\"\u003e\u003cb\u003e#AI\u003c/b\u003e\u003c/a\u003e با ای‌‌پی \u003ca href=\"?q=%23%D8%AB%D8%A7%D8%A8%D8%AA\"\u003e#ثابت\u003c/a\u003e و \u003ca href=\"?q=%23%D8%A7%D9%85%D9%86\"\u003e#امن\u003c/a\u003e\u003cbr/\u003eبرای خرید \u0026gt; \u003ca href=\"https://t.me/TeleAdminSupport92\" target=\"_blank\"\u003e@TeleAdminSupport92\u003c/a\u003e پیام بدید\u003cbr/\u003e\u003cbr/\u003eدسترسی پایدار و بدون دردسر به \u003ccode\u003eClaude AI\u003c/code\u003e \u003ca href=\"?q=%23Cursor\"\u003e#Cursor\u003c/a\u003e, \u003ccode\u003eGithub Copilot\u003c/code\u003e  و سایر ابزارهای \u003ca href=\"?q=%23ai\"\u003e#ai\u003c/a\u003e فیلترشده یا تحریم شده/ و با ای پی ثابت از اشتراک پولی شما محافظت میکنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراک کاملاً نامحدود\u003c/b\u003e  \u003cbr/\u003eبدون محدودیت حجم مصرفی، بدون محدودیت سرعت و بدون افت کیفیت در ساعات شلوغ.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمانیتورینگ هوشمند IP\u003c/b\u003e  \u003cbr/\u003eآی‌پی‌ها به‌صورت مداوم توسط ربات بررسی و تست می‌شوند تا سرویس‌های AI مانند Claude و سایر ابزارهای توسعه بدون مشکل و با حداکثر پایداری در دسترس باشند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e لوکیشن‌های متنوع: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87AE.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇮\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇿\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B2.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇲\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e پشتیبانی از \u003ccode\u003el2tp\u003c/code\u003e, \u003ccode\u003epptp\u003c/code\u003e, \u003ccode\u003esstp\u003c/code\u003e و \u003ccode\u003eOpenVPN\u003c/code\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e مناسب برنامه‌نویسان، توسعه‌دهندگان، کاربران AI و افرادی که به اتصال پایدار و پرسرعت نیاز دارند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاتصال پایدار، سرعت واقعی، بدون نگرانی از حجم مصرفی!\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e جهت خرید و مشاوره قبل از خرید پیام بدید \u0026gt; \u003ca href=\"https://t.me/TeleAdminSupport92\" target=\"_blank\"\u003e@TeleAdminSupport92\u003c/a\u003e",
+      "date": "2026-06-23T15:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t6fHSVIXpLIDfw4LX7c2JLVmX2h9flRAi55n-VYy0OG016_IVWUh_mTKTUmrL1zhJgQGpv-PAhI9rGTQ5jH1KmMyWcXiRW9eNH98bc1bD5FcMlxYB6quMQ2ASQSY-YbJSKOjvEqPHxvtrld3kN3IHANQ6lKRlF7Z-lOy6G305pwBHS5WqSrIAOMA_1ci_7CUS9p3PwQ914bWHz2NB9WS6eZjWwyp-Fhojd4R7-92bq_dkKmP_cfkRxm44z7K_nEmhSep-4z6TEw-mpYVnLUfsEb26i_XGdiT4aM-q7G4UmaguEOvNC-vFMGbHDy2LdJkv6ScbxusEYF2DBKDj2E_9A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782216297
+  "last_updated": 1782228590
 }
