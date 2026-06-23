@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ابزار RAGLite یه کیت ابزار پایتونیِ سبک و دم دستیه که بهت کمک می‌کنه واسه هوش مصنوعیت یه حافظه اختصاصی بسازی؛ یعنی بتونه بره لای فایل‌ها و دیتابیس‌هات (مثل DuckDB یا PostgreSQL) بگرده و از توشون جواب سوالات رو دقیق و مستند دربیاره. خوبی این ابزار اینه که اصلاً پیچیده نیست، دستت رو باز می‌ذاره تا از هر مدل هوش مصنوعی (چه آنلاین و چه مدل‌های محلی و آفلاین) استفاده کنی و با روش‌های هوشمندانه‌ای که داره، سریع و دقیق می‌فهمه کدوم بخش از متن‌ها بیشتر به درد جواب دادن می‌خورن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/superlinear-ai/raglite\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/superlinear-ai/raglite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-18T12:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "اگه خواستید یه چیز صوتی بسازید (به خصوص دستیار هوش مصنوعی) این انیمیشن جالب رو موقع پخش یا ضبط صدا میتونید استفاده کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.npmjs.com/package/react-animated-waves\" target=\"_blank\" rel=\"noopener\"\u003ewww.npmjs.com/package/react-animated-waves\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-18T13:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دفترچه راهنمای مراحل سینور شدن!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/jordan-cutler/path-to-senior-engineer-handbook\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jordan-cutler/path-to-senior-engineer-handbook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-18T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dg_D0F2TjfjBNRpk4ZEk-KGrLLWYxDlNNO_Db7g4NRkktCxhJrrKsoNO_OX8M4VKwZq7xL4SoGEBQ7Q242sKpF2VRGR2j8iItUxyyBY3FNn583z6-tM6tw75RDSy_yXzzCnFI8W34ib44wMda2sroQqvNXr3CU-GUHUMPtqFWh9IVNIGyW9KyE4o6HdGgTmrM3B-idI-SizzDR28yiLana2sqP_Ic3CZobF96HlNL7BxSLtXxszhpttCvBwNTfqvjnZGzkmJDvmupRtifLxCAL-VihvBQTdIFYx45Pu3Qr6BNZ6yLK5p9TztXVeJ-KO5J4_hvnY6tQ69tXP6NYHbfQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه فرضیه بود می‌گفت با چهار تا پول دار بگردی پنجمیش خودتی یا مثلا با چهارتا آدم خفن بگردی پنجمیش خودتی، دیروز داشتم با یه نفر خفن صحبت میکردم که توی ده ها پروژه اوپن سورس بزرگ و کلفت مشارکت داشت؛ فقط مشکل اینجاست وسط مکالمه حرف کم میارید و کلا نمیشه بحث رو ادامه داد و بحث زود تموم میشه و این فرضیه از اساس غلطه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبه نظر من اتفاقا با چهار تا آدم اوسگول بگردید بیشتر موفق می‌شید چون اینا خودشون باعث انگیزه حرکتن از یه طرفی هم کمک کردن به بقیه خودش به روش یادگیریه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9640,
+      "views": 9770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-06-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tiCpgajqV9hYaJ1-IgQFo0PcPqGvpiU6puJ4vkOtxCdzZ4kMdUPIztGpjgkA4RmBU7bYB-2JDWkqkIZrme-fezJEb0EO5nQtKXjVC0MWy8yveuFSmNVOt9smlf0Eo79lrAqasjGAqBOTqzGzlHG0Wc3uPhzpW1l12X1r7F4LnDSwQhvmOy7qYZ5BiFgUxwFfSPYtSgSr3fKmgDsZnCFy3GqDDSh6DWZGMoivfUR8YNa56XSPFfASHiR6-GRRlJszvWAeUEPuUpAixPO9DUxkP4IIYsaX8G_DezsyKAtm93Wa45a2LPT5Mx1VkQxm_Z-qcswGURJPzycGUeRi1OYRgw.jpg"
+          "url": "https://cdn4.telesco.pe/file/nS0DyojvcfgHBoIbqk5r6MLAAAZd2DGEj5DPxRC0N21H3nY0XJcoeHYfFW7hFdH0lDpSH3D9hIiDNdiApWAuNuSIEAoNwo4sPJV6y2ZUrECsAGaTVl1zWWNI9jaGsZYDmWoXWYbMdYWL9C6oCeEEl5SdHPIAjAefIBdnMb6W_GAc4UuXNfdvYdJ1p-Q6M9PwgIz2zgMbi8jmKCTzwk3NjIoef1PYzvBYWiLys6tMECyVxP4rkhECbkfVbANqI2O1Tol3FdBw_KJQVBcc_qGWsG2CUFCN9VtYAIPG_GFFOZk31ci9WXM_g6aHau5fVuduepCU8VPJTkI1KKUeE2a8Pw.jpg"
         }
       ]
     },
@@ -84,7 +42,7 @@
       "date": "2026-06-21T15:25:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +54,7 @@
       "date": "2026-06-21T17:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7020,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,11 +62,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fqJpAh3yJeI0v2JeYUokm6mJ0kNELNbtMAHTA0I3809E7LTQ7TqPwdCApZTvVMeoQfGIrh5NPodPiTcTHM6KgT-Ry45ZMSs4vOqVgDNqnA2FRPe0aV3235F6S9J6O2fjGz8l9pfbNVJBNJMPK0LYpG3JMo6TBl0nHdTxbShOPbCrCm5wUNW0uIbSKxZ4UQv8JJVbyOJINV_6PErogfk-awatOotkAzlPYJWEEFincSoLQ-32eH-5kWuY9mxYzTnlT97nDRcTO5QDyF5WUdZXiN71B08WaoRn9Xtq2IJIlfx470V8bNVSHB0P1YqQVDOt6MxxDORQPwySwy0ek2XwTQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/Kp5-GN0ayTmQ7ibLrcQr9nbITQ1j5kdcWdSk_mqM7RZG_7bQRbMdlA_0XEyIAq5b9sb9VUfMX1nFfBY4DsYqVdbi2ZqkNVJ3UdD3kGHGX3xRFFFYfW9T9W3rUtRgYXSZP6e3X4jIzVw_EEmnUkYwXzcm7ItbQK-svxmigagrjEPDNOKnyMHbvIfWzJsnUUqhd5kiNbsGZ7k1oIY17E-n_IoZB9sBO_-_q6NXHr_awm-hjA-OLXnR3bUkeIF-Svlmt6uYZpEDKovN-U6XsPyRkzFYrEW_TUkMNTv46RKpl690BvRlhRDFTykhsHQjpTws4_Ikh_G3AH2EN-zT4_zt2g.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mypljyKrdC8kt7NKHiPBwbk7JbQUz43teIcu1uPg_xZ3GMZKI6JN8QsHgJ5vnyXsBfxy9W0iHjR4muvDvJ0BaLeisLzMYPuW6ZOhVJs2lkHLtDVPJc8ft5s_XZk-Q5Pte4SAtj0KdQQl898ubBAwvcMn_xbLV8ArDtIr-1G1lc5fcL14Drf5n7MCvQbR1OplbEXh_ChEongUaGGNd27PkApxIAZ_nTl3TixSeGKCE5HBB0_9s8nN7FEjk7AMqbYG_pdBwPq8UDg9zReQBd7fnSORNtvvWWqOEz7NcTzdT3e1-qWHs8gIqRjQ7JJOjqxO5DAnKVr5iK-1Fj7ps9ltdA.jpg"
+          "url": "https://cdn4.telesco.pe/file/YEFTHb7pr68HzBIcxsajnOX935PnI5AuFmlKBoKVoD2CbRSn_ywz3re2puc9eJl8GqBTGQ8bVSjDM-oHjnPLXoHin3qbd6_PC0vLoyormyToUhFkYiX62n1NBcq4iK6gcAN8ryHOabuNA4IehMD7ux2DtLJGAEJyWhACi1WnmFqCCVAQgAlkL2STxKX27S7qZBDzqEXm3D2sOS0ABBZjpAuXWBzMjbS5resOav-iTVa0splRXX1Qog0i2PSizhgtuMhVp9oP0LyAVoHkeVu7wBlEpH7ywphcwwtsOjdG4yuyBstC_8JisM1FmDPIKjC9IAMDccrBx1QWECc8wZg-uQ.jpg"
         }
       ]
     },
@@ -118,7 +76,7 @@
       "date": "2026-06-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +94,7 @@
       "date": "2026-06-21T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +112,7 @@
       "date": "2026-06-22T13:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +124,7 @@
       "date": "2026-06-22T14:39:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +136,7 @@
       "date": "2026-06-22T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +144,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h3lqjyww2rTOZKA2vw8XuX-b7vaWggttKOLhEPEzAmhzc71T2yZQRFMCfquAp4yZUe2JvMNzfhePK92vJQdSI4I5xSiNC6qoWaERB4L0H4ozBn2XcOyCUHRloBW8x6AxT7CFLQUxUTtyD4HsADo2y6nWAi8Gs1rNiGmSgjrsIRWTjssbV0TG_kKWhA8hPneSSq70wgKucvQELwShbCZA7G5FjoANBg2rFZPVGGc9kM2Tynzj-_fX_eugkm8W5H9DQAg67qskYkOiv3kNSSzX-IHUpVeYBUpxFUCYqNKtAT61BYQ4qd-6pmXlZSxCS-0wEWgFtr8UMhFFhBR6q9ihgw.jpg"
+          "url": "https://cdn4.telesco.pe/file/pWYAx1seuyaga3jeSopaygz0rdoOlwDdf5KiFMmXzGLB22fFIulBi8-hyCydPV5kIDFCTA-RiiP_HsYpjSu_0JOMG-F4N9IrmJsu7WSdYeL6CS7hfJ_b6ZZ1i5XuREMhmYHrkEq2GVBvNMuy462jkTQdnXh9wSyrDcXuTcjoBhR1wMI8ouE47y4kXVvBrm-MBbrAMUcUbKfvpYV4RBxWmEWdj1Hgpc_W8xipYiY7pf5jSp6dkFUliCyUeV9YXCjCIBvBpbkgrxKGMIzSI8Ko4LYTHcg0fCbuzpzkdAwzHSv229yPojaEr7k65nd6HJFVms0YJFBSznutFY0kUUsZWg.jpg"
         }
       ]
     },
@@ -196,7 +154,7 @@
       "date": "2026-06-22T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +172,7 @@
       "date": "2026-06-22T17:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +190,7 @@
       "date": "2026-06-22T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6110,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +208,7 @@
       "date": "2026-06-23T12:39:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4010,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +226,7 @@
       "date": "2026-06-23T14:31:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2460,
+      "views": 4180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +238,7 @@
       "date": "2026-06-23T15:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 3050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +249,55 @@
           "url": "https://cdn4.telesco.pe/file/t6fHSVIXpLIDfw4LX7c2JLVmX2h9flRAi55n-VYy0OG016_IVWUh_mTKTUmrL1zhJgQGpv-PAhI9rGTQ5jH1KmMyWcXiRW9eNH98bc1bD5FcMlxYB6quMQ2ASQSY-YbJSKOjvEqPHxvtrld3kN3IHANQ6lKRlF7Z-lOy6G305pwBHS5WqSrIAOMA_1ci_7CUS9p3PwQ914bWHz2NB9WS6eZjWwyp-Fhojd4R7-92bq_dkKmP_cfkRxm44z7K_nEmhSep-4z6TEw-mpYVnLUfsEb26i_XGdiT4aM-q7G4UmaguEOvNC-vFMGbHDy2LdJkv6ScbxusEYF2DBKDj2E_9A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دوست دارید از این بازی های گرافیکی TUI برای راست بنویسید که روی هر سخت افزاری ران می‌شه؟ اینجارو بخونید\u003cbr/\u003e\u003cbr/\u003eنکته خودش اینه از موس و لمس هم ساپورت میکنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ratatui/mousefood\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ratatui/mousefood\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-23T15:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gFZe5v3AVlBB34AATYcL85Ic0JYpWaq63JyXgDimZdkWMZdtVIhXrTddykRCBjAPHwtCEA3Qu0LJfAQqyvGL5ckCLt-B7Cy5kJHScEk5XqFHeg9IBiqwaDnsPbVq64tb3Zj7UlrBpVf1-fO3P99wvI0DBEGF4VHUkoMnfq2x4eANpblUzn3xSzlUU20U_5cXsslHoaUePX5HV5TtbSndyNESous6ROvjQXeydGbmvr_9damfgdYFVu3GYvS53eTEptJiA6Cyro-KQLD_UTE2puynRiwvP1DuVXE88WwjWKQekQRoN-lNDqiaOMMEZI1RNEikkR3NGs69KcG_z02jsQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی که FilePilot رو نصب نکرده باشید متوجه نمیشید مایکروسافت چه گندی به سرعت File Explorer ویندوز زده!\u003cbr/\u003eبا این همه امکانات حجمش 2MB عه و هر کاری بخواید بکنید هنوز کلیک نکرده انجام میشه!\u003cbr/\u003e\u003cbr/\u003eدانلود :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://filepilot.tech/\" target=\"_blank\" rel=\"noopener\"\u003efilepilot.tech\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ channelhitch",
+      "date": "2026-06-23T15:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aJQC1liCvXOfqX7gDYuT4wWjbvsx8llVHgf6N1Uqpxb2xGf5Wm5IbeFviUOlklmPGakFTa_H11XT72GXEqC_j5kkBQvC47xoaQNF-meOCXZ6Et2Csw4sef-P-ZbvJUxrEfUWD5DBxpexoSutzIaBK4Y3vTgfHRtb-h7tL6Ifp7O-X3VP_JghgnaEqSTP-j-quWANqtxrhuxLVnUi1QyBe92ZqKRQ3dV9KQCCYmQBmiUHqD3JGAmzp_ghkQAe4uXHjLrP0w8sR0pz1hu1CYEc5a1E4UC9OdXsD6tlR55SMqKJ98mOYt4bixNPJRGK_ElYsp9A5_5D652-t-YY4tXsOA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "توی ایران بخاطر تحریما هرچقدر نرم افزاری ها بدبخت باشن سخت افزاری ها دو برابرش بدبخت ترن، این ریپو مخصوص سخت افزاری هاست یه مجموعه بزرگ از چیزای اوپن سورس سخت افزاری مثل ابزار های طراحی، با نقشه چیزایی که با پرینتر سه بعدی می‌شه طراحیش کرد و برد های الکترونیکی و ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/delftopenhardware/awesome-open-hardware\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/delftopenhardware/awesome-open-hardware\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-23T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1782228590
+  "last_updated": 1782235605
 }
