@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "میزکار KDE 1 رو روی دبیان تریکسی تونستم نصب کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو خب خیلی خفنه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-18T14:59:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YarzP3FBSxcx6Y1h725glDBVbZIoBkF7YikUXWQC9XQxptlJQfz6PaD_f8SosgMwX_Z6j4M99vvSl5R8G17hBlo-ZUsYNOOv5m310axL89uK9iXj8aSWHq_fLzcEZrNl0tKOlPhHZI3PnkKrFhe0Ao7iSMP-72-fXdg5vHTCsgf2Tm2gFNnGUKnOmODiy0JoPEmpSoYCCI1mHZA76MH560dUWdLgYN3iPT47peUv2sfi2la1N1VV3BAgBbvS8Qwhv4ezHzWCcqXsp6UYT6hiCu0N-htWehiLditAFbdHEAYGmSjn41BSQPTLCLFp5nAPqZJTgi5L0pB1vdj9yHy6uA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "با سلام خدمت کاربران توزیع پارچ\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eابزار پارچ‌میت به‌روزرسانی خیلی بزرگی دریافت کرد و هم‌اکنون در دسترس هستش.\u003cbr/\u003e\u003cbr/\u003eتغییرات بزرگی که تا الان انجام شده روش:\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن سیستم چندزبانه (فارسی/انگلیسی)\u003cbr/\u003e- بازطراحی کامل UI شامل تم‌های جدید و رنگ‌بندی بهتر\u003cbr/\u003e- بازنویسی سایدبار با قابلیت‌های بیشتر (AUR، زبان، شورتکات‌ها و…)\u003cbr/\u003e\u003cbr/\u003eسورس‌ابزار:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinuxb/tuxmate\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinuxb/tuxmate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eویدئو یوتوب برای معرفی تغییرات و نحوه استفاده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/Ubq2sGI3POk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/Ubq2sGI3POk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ابزار:\u003cbr/\u003e\u003ca href=\"https://mate.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mate.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدونیت به پارچ:\u003cbr/\u003e\u003ca href=\"https://daramet.com/parchlinux\" target=\"_blank\" rel=\"noopener\"\u003ehttps://daramet.com/parchlinux\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
       "date": "2026-06-18T18:28:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MGithtJdC67kFL-0e8f-R-fXrKsVxHeoVFjjsyaS5xYE4Nt7rPTer-O7xf_kPLGooAbiUDjPJBLhJm97XPc1CCaKZmrRVCzKrGdTJy2BrT5425cMAv3qSTLJ8Kpvlb-iqNW5jHnMqog8je5vNQRsx3wLNwprGwILur1AUiaTcxZApDKvyxDY8B5Dl00D1jmdHBzHvFHF5iZ9r0HHLIl2wQyOcP0go6deABTEEBdg3skyrk_NpvCrahsAX3hmUi5TGw9AdXQURwh5obz0cmfwKIWt52bzvLXa0ZO_NTvBfwnfsBQfZGGnkMftkzj3Mxj4p1ed4DXk7yogHh33ypRc5g.jpg"
+          "url": "https://cdn4.telesco.pe/file/nTOhTV01dUJ4XxRQEiT-U1RQmGIruKX7HPxWqW8O580NtDb1-fcTUrO9vSK2OROtfmMLaULk1fGkyVmzzT6plAT1KmWCVK9AyeVdC8RmY0qr46uk6Wd1ZcYa3l8VxmVAAmEKmR2ySFSfdRiBlGkcq-rfVsHioLxSfqn3D17PKpq6xAAoKUon5xHuqW2o1PvHFEXtwbN_1Ay0Frn4AK4FRXbO_1tNiGF2Au-lKmtkH6iH5TMS5YDl9gE1wlaobjQ1Lt8ogOP44iFf1OzH9ZH6kgvYOIlIYEqPyf-c1F68c87_RQ-LZlVQCp4Q6HCtKFcCqkTi6-cIuo9Dg5VVs-7jLA.jpg"
         }
       ]
     },
@@ -78,7 +60,7 @@
       "date": "2026-06-19T15:28:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +112,7 @@
       "date": "2026-06-20T20:36:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +124,7 @@
       "date": "2026-06-20T21:56:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 929,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +142,7 @@
       "date": "2026-06-21T12:14:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 901,
+      "views": 963,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +164,7 @@
       "date": "2026-06-21T15:22:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 863,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +183,7 @@
       "date": "2026-06-22T13:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 697,
+      "views": 704,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +201,7 @@
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 928,
+      "views": 944,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +219,7 @@
       "date": "2026-06-23T15:32:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +231,7 @@
       "date": "2026-06-23T19:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 751,
+      "views": 823,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +249,7 @@
       "date": "2026-06-24T10:03:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 539,
+      "views": 683,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +260,25 @@
           "url": "https://cdn4.telesco.pe/file/c0aQw2rEWRzj8Xcn7U72Ady7VvtOntzVFnjFF_Z3zQ_RUMfzLd65RiZXwXwQZ1KDW_XiSVWWIDswQWi2xvpgObFH7GupzN4RE2e5_pF3RlSV746mg4RPCu2oreUmAkeA6n_RskWPTY0ATlW-fVf3x2wGHKsGp9fs0xl793jhWaFzkDDZVMyJI8iqCR_UmhTuvLyMpBYAGU0CCc9Lv42O9D4b_t6PG2gQtswcHFn-sOy_Z3OCtERy5MzFcj2iKi0y_hRcCbvpAfkOmR0ElmFK-DgxiErjHweI-9Zyc76qD_S9KXcWkIqY1LdvBhpLhWVPvM64mJHfNzWM_eI9rbqY4w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "انگار انتروپیک سیاست جدیدی رو مصوب کرده که دسترسی افراد رو سلب می‌کنه مگر اینکه با اسنادی مثل شناسنامه یا پاسپورت احراز هویت انجام بدن.\u003cbr/\u003e\u003cbr/\u003eخب این یک خبر خیلی بد برای وایب‌کدرهای ایرانی هستش که سعی بر این دارند دنیاهای جدیدی از چیزهایی خلق کنن. چون کشور ایران تحریم شده و در صورت اجرای این سیاست دسترسی ایرانی‌ها به هوش مصنوعی کلاد سلب میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-24T16:19:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 388,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fPsQ1Ll-DxVGCN9oPkVHg8D71ZfqOO4hdyCRNsd8rK18Nv1HreWRWkXiE_LUCL4OZDS534h1TBAQFxgrGdDPuVgkEt_ROs286_3DDGnCIDYhpvsmpW9DAiYM8xTOIyhe0kGHpc0INy8IEjVcVaZAIpoWNXWgEcOkWWCzEU0pKUFMZ0edro8cMUJhwHE-8SIeP-S5-bvYE0DFNi58xfxc6zeOyK1QL6pLRWTXwXnee6449VltbH6NVa7iwcqzA1BybOcOHjzztyNvLL0F6FHV2694_jNfxgdClmVfpxrYXh6kxDw9lTZAEy1mLX7_tGShjOLasvKXsWDsnf0P7Q5Fbw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782314213
+  "last_updated": 1782321972
 }
