@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پوستهٔ بش ویژگی‌های جالبی داره.\u003cbr/\u003e\u003cbr/\u003eمثلاً یکی از این قابلیت‌ها \u003ccode\u003e/dev/tcp\u003c/code\u003e هست.\u003cbr/\u003e\u003cbr/\u003eشاید جایی چیزی شبیه این دیده باشید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eecho \u0026gt; /dev/tcp/google.com/80\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eدر نگاه اول به نظر می‌رسه \u003ccode\u003e/dev/tcp\u003c/code\u003e یک فایل یا دستگاه خاص داخل سیستم باشه، اما واقعیت اینه که اصلاً چنین چیزی وجود نداره. اگر دستور \u003ccode\u003els /dev/tcp\u003c/code\u003e رو اجرا کنید، با خطا مواجه می‌شید چون هیچ فایل یا پوشه‌ای به این نام در سیستم وجود نداره.\u003cbr/\u003e\u003cbr/\u003eماجرا اینه که بش هنگام دیدن مسیری به شکل \u003ccode\u003e/dev/tcp/میزبان/درگاه\u003c/code\u003e خودش وارد عمل می‌شه و به جای باز کردن یک فایل، یک اتصال TCP به میزبان و درگاه موردنظر برقرار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eبرای مثال، دستور بالا تلاش می‌کنه به درگاه ۸۰ گوگل متصل بشه. اگر اتصال برقرار بشه، دستور بدون خطا اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین قابلیت معمولاً برای اسکریپت‌نویسی و عیب‌یابی شبکه استفاده میشد در دورانی که همیشه ابزارهایی مثل curl، wget یا netcat روی سیستم‌ها نصب نبودند، می‌شد فقط با امکانات خود بش باز بودن یک درگاه را بررسی کرد یا به یک سرویس شبکه‌ای متصل شد.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.gnu.org/software/bash/manual/bash.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.gnu.org/software/bash/manual/bash.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-17T15:40:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/efPc3dKMulJegQB1rNceT-KjIZTMvzi31GqzEn5PMwlWZNh-w6-TL1p-Y5_OfmfTaQT8jRElzOJyMJuRu0DJb5OkMLFozrfkQkhJ2eJbIbl8QSumB6Ybv3OmIjY-N6QMWV4Q5YgPJ9anblRFSSyjZGcQN1ycSLleo4ZRX1pKwz3N0Gimema1_xABMI6ArIOxFxnWvaQ2aZtemFX4wKjYAE-XjOaYwGrpQb4EY9OnUKZn0LniRlLegC8KgN6_CwC-JGP6SS75LCys8bB3lTnF2Uij96vBsS4JPQAhHMyXdVm42aQCQzfcUo8m2zbVGBUwuExRdIVAs_qLI_lDdU32cw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "میزکار KDE 1 رو روی دبیان تریکسی تونستم نصب کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو خب خیلی خفنه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-18T14:59:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-06-18T18:28:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 993,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-06-19T09:05:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-06-19T14:37:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-06-19T15:28:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +104,7 @@
       "date": "2026-06-19T15:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +130,7 @@
       "date": "2026-06-20T20:36:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +142,7 @@
       "date": "2026-06-20T21:56:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 881,
+      "views": 915,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +160,7 @@
       "date": "2026-06-21T12:14:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,11 +168,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TLTtTwwcJ5c6qqyUBzIqje7NMQLJXjaKTiSgyH-29BJDEjzXTblhg9QzMRTYnqGb46Ic0jx5E-YfAasTrIJZPYvt9KJFn8v4SuV0PKxE5UphLj_xkEyWIw3-ONlsC9U39MMvZT-Brt-hocpE017DyIBmYt-YWwzRTxkbFddE8GdNURx8hK6cdW6-lOL5Xaocgr6SGwkSfhNPH98fa3gron7sJWNCzdK57bX4T4L72Rvnfq1WSCoFRbb5PlSDKXyLsqBud8Qag0e7SXxVMDaVQf_qi6xXeGQjtSrYRd1PFyVKW7Hb7NHo6hfRIg5mA-UyONzDb8Erwus7DtcfAHft9g.jpg"
+          "url": "https://cdn4.telesco.pe/file/qi6by_E3fzX4qMoiFucDEcs4FeXxI19tOi1qWndpR3wd0BvXP_0vx0ppEJ3e5VpD006KovXFhPP17CVoM9u2cvT8idl_3yx5KjvEmSda5CKF6sHB0tnmYejDfg7tx8XljYjoEfsXSpQXLSpkW8krORzrKei8tveVCcW9p7kK8gzSMekn6TnxiH28IJf5kor1AkhG1u99sgxSFpVe2m010Ce4Ojr8Uu9AatMYkQvkV8qzD3zwEjoS5lWnHjwnm49Efs8r3N8L8UJkWk6mcVBieyDCujapCYVNH19lC--hRIOFIHdEnWYJzRCLveA1xMX4D7oH3omER4SWRxzqC0XjQA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uEjj1HNO8OJw8i4eWbIfDQi99r7PHbCXHX5I0MyNwT6QaMf_N5RbaNwcquqQ_WxHM4EGiIEfPOoipW-dkhnCBJHosefgM7hqPM5Jw26OTnLe3-Yv1DYP7rZ-ZWo12DBMIAAEp37FwSAJW0pOlf0UEiixthnvVBzhWfFoPamkN4gKU-XpL-ZYTpPrYExzsmK5TN00tXKxw3KQpHB13r3qyjo9wSZ3feWQV_QynMSvc4_M8Qla4GeTNTuKuxqH9DHuyuxjg2k7kujAeckDmJc8qYPRGYs6IENj18A6-9ai5-mxxAGeTjevNWishSFU9nTAz79_fa_-9gl9FVMRoemwyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/Jv7sKunhuSMMVBMz6kdku53DohzwyBpStVvnKhZ4SnBT-jLruv72JCUVLUDQ7C4O7rxkEWsX3ZsWKy0juV97bU6J9_rHeV6RWmfA-YkDbmpMY2MdA4pQSL42TlETTQ7-s-wmasBzF1Ry84HOM2mT0uLiMHVNTl_Yu2TskQCOcHtfJjKraWZ6INI-iPFqK6P23aJMJDYKyauLnenT-REMid2hq6V8C7D3D8R38PWVq6F17r3-U4J3_5M1WZkHFW9dHjkQGcUR_ZzuBBj_Av_dT9JFvs_h2jRes1OpoYAQMTM40aPaihCOk6GIgJ53FuL29Kpet0zh8dGFGAQ6iW_hgQ.jpg"
         }
       ]
     },
@@ -200,7 +182,7 @@
       "date": "2026-06-21T15:22:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 823,
+      "views": 848,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +201,7 @@
       "date": "2026-06-22T13:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 656,
+      "views": 681,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +219,7 @@
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 853,
+      "views": 904,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +237,7 @@
       "date": "2026-06-23T15:32:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +249,7 @@
       "date": "2026-06-23T19:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 567,
+      "views": 713,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +260,25 @@
           "url": "https://cdn4.telesco.pe/file/AE7c1bthqRymaCeW256joMPDOjjNWte0X3DT87IAqcDu4tt87R_DvdCt087GPco5MFAhdVMICvqvCMnbgn3qnwnRskDOgGwL75f-CXAu280hv_T7zV6W70-oFX4D1B7QlBkumRRoijajz1kZSw0YD9dKRQpLOWuSZpDG_JkHDDr-RS5pX49fQbZXUFp4YP8h8_71vaNx433Ck-tkZbwA1fSl_9cxulm2oWPZ8S6YReakIkl9Tzvhkq3nAx8QW4S_ZqxSi0F14ZLkJ3y0K3_RqrGVIPIz3BBhu2DqIAiK6z4dribuH-8R3oAQEaJXOlq8f7i0oecYx_Hg0UrTVlntLg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "برای تست یک سری چیزها روی معماری ریسک‌پنج؛ اومدم و کرنل رو با بیزی‌باکس برای این معماری بیلد کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو در ادامه خواهیم دید چه خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-24T10:03:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 446,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c0aQw2rEWRzj8Xcn7U72Ady7VvtOntzVFnjFF_Z3zQ_RUMfzLd65RiZXwXwQZ1KDW_XiSVWWIDswQWi2xvpgObFH7GupzN4RE2e5_pF3RlSV746mg4RPCu2oreUmAkeA6n_RskWPTY0ATlW-fVf3x2wGHKsGp9fs0xl793jhWaFzkDDZVMyJI8iqCR_UmhTuvLyMpBYAGU0CCc9Lv42O9D4b_t6PG2gQtswcHFn-sOy_Z3OCtERy5MzFcj2iKi0y_hRcCbvpAfkOmR0ElmFK-DgxiErjHweI-9Zyc76qD_S9KXcWkIqY1LdvBhpLhWVPvM64mJHfNzWM_eI9rbqY4w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782295044
+  "last_updated": 1782303345
 }
