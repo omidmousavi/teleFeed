@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این چهارتا سایت هم کامپوننت های وبی قشنگی گذاشتن، خدا خیرشون بده نفری یه صلوات واسشون بفرستید، خوبیشون اینه که shadcn هستن و نیازی به نصب نیست کدش رو مستقیم با یه دستور یا دستی اضافه می‌کنید به پروژتون\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://blocks.so/\" target=\"_blank\" rel=\"noopener\"\u003eblocks.so\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://shadcnui-blocks.com/\" target=\"_blank\" rel=\"noopener\"\u003eshadcnui-blocks.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://shadcn.io/\" target=\"_blank\" rel=\"noopener\"\u003eshadcn.io\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://reui.io/\" target=\"_blank\" rel=\"noopener\"\u003ereui.io\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-18T17:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iO5_-qkxvRhZhtu_hIsUZx3a0SgxkvNa_wlpF3m3DewjeDfh_9eQJcQgneN5ZRDPq1RmKU1c6dK_JdoMtYY491N1obW-vXfQC9NgnazH47OTUhap5DC4XFiSnusZjnjdp3kxi9ZWVJtEON7Rbwksj8wOh7hcvSLo9yR9suYx8Txpl6Jp7-5et8JvptZaZZGFEP7rpJOkHeeVO0-YWuNvLB9xQGP5Jv9CqrPKPtosP9sALn3GSd-_WdqPGPmeBfPUR_aIPsEMSHYo-Cm5NYlhspwkP2HP8ZN04fJT6Xv2XzCnTqQXT0-7CtmuEh2CALt_tWtsFis41LszVhDs7m4TpQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من خودمم نمیتونم AI Agent بسازم ولی امروزه کسی نتونه بسازه باید مثل خر کار کنه، اینجا لیستی از ابزار های اوپن سورس برای ساخت AI Agent (حمال) جمع شده واقعا چیزای خوبی هست لینکو ذخیره کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/kyrolabs/awesome-agents\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/kyrolabs/awesome-agents\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمچی داره از اتوماسیون و فریم ورک ساخت ایجنت بگیر تا توسعه نرم افزار و تست و ارزیابیش و همچینین ایجنت های چند وجهی، مرورگری و... هم داره\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-21T15:25:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "کتاب کاملا رایگان مقدمه ای بر احتمال برای علوم داده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://probability4datascience.com/\" target=\"_blank\" rel=\"noopener\"\u003eprobability4datascience.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوش کد ها و ویدیو و اسلاید آموزشی و جواب تمرین هاشم هست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-21T17:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +34,7 @@
       "date": "2026-06-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 8310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +52,7 @@
       "date": "2026-06-21T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/udGNLSeusmIgqdMNbWrQUiLtxzapyigezpf9epNP49MCedyKxurtey7hX996FULu6JqsqWXiRSdOWSK1KPmjg0YshXorq7My10625EuIJDd4Ru4I01vLcV5Ztlq1sDe7r2DWHVTWCvLaJTkJYz9u9MMkvshyfgVrWb6IPzaW7THXuIRhc0ymaroGIJrTpeJN7PbRMCL9PpyhSEE7vcwSvR9umRB3pQwta-Xw3H27crvJVNT-mhDnGpMZBotg3hSeQS4PV9NFQIbMqYGHKFrIWNWKeWsuvK4MiyvhXmSfQ17Bf89JEQx9spzpOQGk_HNot0MoOVuIYhsWiK3fAZMmHw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Hea3EBAWRv8BV3IItTuRanozQfW574j-LmhNrZ55-3hL6ILKkF0EinMBazB1qZhZahKx_vXbbemvwVHXi21EEEcExWWewMXw5hPHqLoBreUoo_iQk_cnJgnPP1tOOgBvuhh7euSzf5IMS4jWNIaB-5q6-aRahOQq-ZCzc0HgwvT7mejrsF4ggz65V3jSavkAQdrBUy8GJHK2kvty8Uegi9oroZzhSH5h-pcsN7Y7deHzvJXVs0JYzslU5U7W1f2vkJinqNErcvMqDZ4r4y5qgiXuVXFBwUR5RMN4-BP37jVoLEng7yrsxEHRo1kKUuz9IGFAQwI96xfyR01ort9kOw.jpg"
         }
       ]
     },
@@ -100,7 +70,7 @@
       "date": "2026-06-22T13:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8380,
+      "views": 9370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +82,7 @@
       "date": "2026-06-22T14:39:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 8690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +94,7 @@
       "date": "2026-06-22T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +112,7 @@
       "date": "2026-06-22T17:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +130,7 @@
       "date": "2026-06-22T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 8290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +148,7 @@
       "date": "2026-06-23T12:39:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7320,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +166,7 @@
       "date": "2026-06-23T14:31:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +178,7 @@
       "date": "2026-06-23T15:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +196,7 @@
       "date": "2026-06-23T15:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 7800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +214,7 @@
       "date": "2026-06-23T15:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8220,
+      "views": 8490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +232,7 @@
       "date": "2026-06-23T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
+      "views": 8310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +244,7 @@
       "date": "2026-06-24T10:37:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44300,
+      "views": 45400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,12 +262,72 @@
       "date": "2026-06-25T13:35:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4760,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اکانت‌های هوش مصنوعی رو با یک‌دهم قیمت بخر \u003ctg-emoji emoji-id=\"5229064374403998351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5999316645263184019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Kiro.dev/\" target=\"_blank\" rel=\"noopener\"\u003eKiro.dev\u003c/a\u003e Pro\u003cbr/\u003e- ایجنت برنامه‌نویسی شرکت آمازون\u003cbr/\u003e- پشتیبانی از تمامی مدل‌های Claude\u003cbr/\u003e- مصرف کردیت کمتر نسبت به Claude\u003cbr/\u003e- جایگزین اقتصادی و با کیفیت Claude\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gemini Pro:\u003cbr/\u003e- هوش مصنوعی جامع شرکت گوگل\u003cbr/\u003e- فعال‌سازی روی ایمیل شما (اتوماتیک)\u003cbr/\u003e- ساخت عکس و ویدیوی فارسی\u003cbr/\u003e- تجزیه‌ و تحلیل و تحقیق عمیق\u003cbr/\u003e- کاملا اختصاصی (فمیلی نیست)\u003cbr/\u003e- پشتیبانی از آنتی گرویتی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5773793517482546530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9486.png\u0026#39;)\"\u003e\u003cb\u003e🔆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ChatGPT Go:\u003cbr/\u003e- جامع ترین هوش مصنوعی\u003cbr/\u003e- فعالسازی روی ایمیل شما\u003cbr/\u003e- مناسب استفاده روزانه\u003cbr/\u003e- اقتصادی و به صرفه\u003cbr/\u003e- کاملا اختصاصی\u003cbr/\u003e\u003cbr/\u003eخرید و توضیحات بیشتر از ربات:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5287684458881756303\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ChatGPT_StoreBOT\" target=\"_blank\"\u003e@ChatGPT_StoreBOT\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Dazai_GPT/168\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eرضایت مشتری \u003c/a\u003e \u003ctg-emoji emoji-id=\"5796182602176007916\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-25T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این سایتم یکی از بچه ها معرفی کرد یه هوش مصنوعیه مثل بقیه هوش مصنوعی ها یه بخشی توکن رایگان داره می‌تونید باهاش پروژه های کوچیکتون رو بالا بیارید خوبیش اینه از دیزاین سیستم های مختلفی پشتیبانی می‌کنه و طرح سایتتون شبیه هوش مصنوعی نمیشه، سایت بالا یه سایت ساده تسک بود که بهش گفتم بسازه \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://Bolt.new/\" target=\"_blank\" rel=\"noopener\"\u003eBolt.new\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Banesh1",
+      "date": "2026-06-25T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ib04EzSatVW6v8IDQeazCN-SQyW7c4_KLJtciileCztmjobIbJl3D2ZWZfkS7tvKartTABzmZUpWk_knVwvr0u2xO9G2yqdV6aqSkk1dl8jBK0LvAKCoASkkbRKlOfA_G5jGbzNT2eTKoPK4iiwyRN934br1LxEOZevvyXZt2xq1nrz3CHvCIxPXVCldqfHYMBO7QQ4pjBpNEUdcTHz20c5pHbb0ujemRBPVHU7BjadfU38voUNXfKnz9YHeBCnQoyp3k_8KNlaYWbgk9ZUYtgjkLhoaA07FrH-ri9SwPV1thP4hxmEs8tgAzTu2uiCAIElXLPs4GMKCMBIdwOBs7A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "با کمی اغراق، می‌دونستید حتی خودِ شرکت‌های بزرگ هوش مصنوعی هم دقیقاً نمی‌دونن اون پشت، توی دلِ مدل‌هایی که ساختن چی می‌گذره؟\u003cbr/\u003e\u003cbr/\u003eهمون‌طور که دوربین گوشی وقتی از صورت شما عکس می‌گیره، نمی‌دونه رنگ چشمتون توی کدوم بایت از فایلِ عکس ذخیره شده، مدل‌های هوش مصنوعی هم همین‌قدر ساختارِ گنگ و پیچیده‌ای دارن. واقعاً نمی‌شه انگشت گذاشت روی یک بخش و گفت این قسمت مسئول شوخ‌طبعیه، این یکی مسئول استدلال ریاضی، و اون یکی مسئول درک زبان فارسی!\u003cbr/\u003e\u003cbr/\u003eدقیقاً به خاطر همین ابهامه که یه شاخه علمیِ مجزا به اسم Interpretability (تفسیرپذیری) شکل گرفته؛ حوزه‌ای که تمام تمرکزش اینه بفهمه یه مدل هوش مصنوعی چرا و چطوری به یک تصمیم یا پیش‌بینی خاص می‌رسه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-25T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "تقریبا همه چیز ها کانتینر لینوکسی دارن، با این برنامه می‌تونید کانتینر های لینوکس رو روی گوشی اندروید اجرا کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ExTV/Podroid\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ExTV/Podroid\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبدون نیاز به روت بودن گوشی؛ حتی می‌تونید یه دسکتاپ کامل لینوکس هم بالا بیارید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-25T19:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/b-78i0OQz-mPWQiN9epXSnw9GlTqSZZgNKCJIXS62A2j1lWryPAIjXBnL-dV33zEKt0cxiWFq1gxIFObrvIumd2OcNxgNofp8MCRH_96rnRCHFmbBpQMSLeLhc-lLWbiQmp9Jjxzm61HIgsBaT8fDkpYcfiWe0LUx7PoYB-6z-6xVyB3e7Tw0viD4hni2mYoQPIRFbrHFSut5h4xOWZT8VnaSANl5v_xHqXRXFjKMw4SVrSvmQ8Ur-O-fgPJOUR6nNVqjYOcItHk1J4iuHH20KmFw41VzGCD9034ultl2N7z8rWUuICR827GYKCrBqL0RPHzNSY47foNiydunjlItQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782410590
+  "last_updated": 1782419302
 }
