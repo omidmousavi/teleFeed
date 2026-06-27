@@ -8,51 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کتاب کاملا رایگان مقدمه ای بر احتمال برای علوم داده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://probability4datascience.com/\" target=\"_blank\" rel=\"noopener\"\u003eprobability4datascience.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوش کد ها و ویدیو و اسلاید آموزشی و جواب تمرین هاشم هست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-21T17:15:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aq8qn3a_w6SzxPp7licqHYzu8KfDFQf_zD5jSIbgYOFVVKswluh92aMHfFDAIPkukM53CSwgSAgDNtJPsfrnC6dF6NojR1PMD3GHIZ24uI0QgIMkc942x2bVghz98Ts9CEI4vhi2cvPfOBa9l4rMLad4Xu5eyBom5E8V4v-bH0SfYXfJ7oaDp57uqnT7w6Gyz2d4GAFi7yyLK8PY0hWV0hvTZWbaB5Enfs-oIj-JXG27CUS76GRhouB4RmUHCmJbk8tBk4BwmIngZRgZG-Qlw2ZflV0bQCY2yf6drPtCWlZSaetBxpB5wzSud7xIcavnQo_rkO6JnmgBLg3y7JOoag.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AzCkOtBsP_GgGCfg6x1xYigTkxv18q3v0g0eBJ125aQU_0NDHyA8yu8bex54g8CSLd8frEOsxa1dhMMXsqrP2UGPw6xqiQSlTfW0-wnhMhiqUrtBirR1j-esyPo5w2Wi8B7vqIU9acq9rD9Fo6wX3W6oxQPY9wXQVJgov-KghKY2l8sFPmbyWQlM2q2RnPGIsMjs3tmhbngP_3m_NpBkY8Yz5dgAgOwXBo5GnRMm84feJZNMk6KoJLtEXjCnPeyZvRJ96kXu_zeLaf1fOzd2ydQ2LN79Mx_pmBxbuLiiCF6GSESRRO9i4aZ_PLZLZcMhwy7RJpnv2ozD4WkbDy0LWw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه میخواید زبان C یاد بگیرید اما نمیدونید چی باهاش بسازید، به این فکر نکنید با C چی میشه ساخت و چی نمیشه ساخت با C هرچیزی که فکرشو کنید می‌شه ساخت! ولی بی شوخی اگه واقعا نمی‌دونید چی بسازید این 18 تا پروژه کوچیک رو یه مرور کنید از بازی 2048 و بازی نقاشی ساده گرفته تا مبحث یکم پیشرفته تر شامل مولتی ترد و موتکس رو پوشش میده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/labex-labs/practice-c-programming-projects\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/labex-labs/practice-c-programming-projects\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-21T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qdYh_LW9q3L-lDPh8HQutYL63DAtSrfXsnok381PCyrBy__iGgkZUA_F2MiyXTxlfwD6xyTqnFLZbjlAxQkCgjKlM7CB1bmtQh6CSLE2L8pq37YCOo4Y8k-fuBSnT14pCTrKAj2xNgcNQMl4xGFdVFlzJqgOaomUYXEhzA7tfjkYaf67Za-f3O2qSyIH81kHEdI2w-vsKyrHSSSVZgt2suEPhMN-BvUgUB4P4o1j77qiEk2pkOr41IMPYhEBiWach4l-M01Kypmp7OmivT5QNjKXr8Ez0_IqzLfqQWT_TZzDbn68aJmuPqVdB_yY5dwsSxnv-gPSAwaWEzy5Q0Cbng.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اون رفیقم که توی بایوگرافیش نوشته Linux وقتی درایور کارت گرافیکش از کار می‌افته روز بعدش ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-06-21T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +30,7 @@
       "date": "2026-06-22T13:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +42,7 @@
       "date": "2026-06-22T14:39:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9450,
+      "views": 9550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +54,7 @@
       "date": "2026-06-22T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 8840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +72,7 @@
       "date": "2026-06-22T17:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +90,7 @@
       "date": "2026-06-22T18:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9550,
+      "views": 9750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +108,7 @@
       "date": "2026-06-23T12:39:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
+      "views": 8900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +126,7 @@
       "date": "2026-06-23T14:31:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 8580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +138,7 @@
       "date": "2026-06-23T15:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8250,
+      "views": 8400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +156,7 @@
       "date": "2026-06-23T15:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9270,
+      "views": 9520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +174,7 @@
       "date": "2026-06-23T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8900,
+      "views": 9310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +186,7 @@
       "date": "2026-06-24T10:37:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48900,
+      "views": 49200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +194,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GDfDpD74KoUAZQELJJH8j3OuKHszlmlV7WmMsN51O_3jgPR9lj102hWe6PuVu_XFzNffNIwSt6X7yw4FK_WImd9lYrvLR4U4W8CycVgAbHASULJBQGcBLkxK7X3GzUxQQFWDAaqdPTnfCfgFcAkUrN1r3S1pjB2o2DWZJUuptCddsDhwf5ROrouxkeu00HDasMf_zM5qBZElTRj7xG1QgbsJyQlmydqeRqlKiYbUIdfZYdz0to7H2SYCUkRU3RvZCFE48f5ZIoriKGwQ8T316TLpU0tPKhrxZ1bHMI4BCKtXLBXXLGHto4_pDmL-hnrJ6-8TavTUWME0w3T0aX7bZQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ib7K0wwLgJms0i7qU9rZayavrywnm5szf1zNWeutam9ngngSHuDj2_Mv5aBpDjBIxgxXquPF-By1CnAAuAf4toY8GOJA5YcgrTNMwhUoWXsDTwLFCU_G11z64xiL0At1wls-imO1wyyqXewZbuX6BiOD9RwzoiQ6XNA1mQYXCdG_MdvCsFTO-A8ZjSjUG0sNDbLa_reMRPy3zjoMBsUHUn4yNHQRQPQ27SdcEe0xPkUFqfqFwG13McHK-ds7vMDWDIKGAhg2CxCrcfbmGFS69kx2gITyKhKTiCB0Oj05XeDuAu8WhCUx9jktuh_kv-nHBTcot_mHAepZuhnjjYw9Xg.jpg"
         }
       ]
     },
@@ -244,7 +204,7 @@
       "date": "2026-06-25T13:35:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
+      "views": 8300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +216,7 @@
       "date": "2026-06-25T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +228,7 @@
       "date": "2026-06-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +246,7 @@
       "date": "2026-06-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +258,7 @@
       "date": "2026-06-25T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +276,7 @@
       "date": "2026-06-26T10:30:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 6100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,10 +284,40 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/df49klRxpZvUPRQ-WWFb1nRGfJoDWqUM5L9JMdefl85IitXCY1hWv08aSgFriw5KLYOOG8n1PteosLfSpV7l5NW5Tt2ApJXAAvLs1T5Lb1vivn6ECK4BVsFM_s5bbDbjKRyOPq64OIK01zHZgeeTc3nN9XRv8CVTW7trWLi8ctCntlpOLb-EQDSJ072U8QLy4MCwnQQukFCiJNT-24_FzNIRUPTRXczbh1JHYnt0-TwA6ejTqJjTS-LCGMrU-tnAg2RNS3mdwSCu2pSFUATGs-QHzRVFARF2CqFYRMN1qv-2zQZopg-cVDKo7adWl9vvhs-TG13MyYz2sOFne86CGA.jpg"
+          "url": "https://cdn4.telesco.pe/file/upRmyVt9NEJIcjvI8WJO6N2WoRXkmXKXYBKArjLH9gbcDqSsFuw2H2_9ZMYZ_d3JXQHcUoiXEI0oVtLQJ4ADIon0eMqTmLyfYLYG5YGxZAuVuuG9VfUPjPmkfHerFQLXKTTHI9y3fvR1UBWQT1S5C4qxWF4v8QnyHba9vzqiFnSoYz_R5bF5rJpP-28hRgUB3UkPgPw3jd_25loBqtOhvAN6qEVnLv8KXPOqeP_n8C6Ts7w5cl_qp3yKt91Nisblj8nKfKG0YFSu0iJKdjWMzgzWnPkptkIEOZ4L59n89BosdlvgiMtBlQliqan7HizPE0ib2fvcITO_41OSx5wGtw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "‏یه سایت پیدا کردم پر از DESIGN.‌md که ایجنت شما مستقیماً میتونه اونا رو بخونه و اجرا کنه\u003cbr/\u003eبرگرفته از محصولات واقعی.\u003cbr/\u003eیکی رو توی پروژه‌تون بذارید، یه pass اجرا کنید تا رابط کاربری‌تون باهاش ​​هماهنگ بشه، تموم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://styles.refero.design/\" target=\"_blank\" rel=\"noopener\"\u003estyles.refero.design\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنکته : این روش کلون کردن سایت نیست در واقع دارید قواعد زیبایی‌شناسی رو به AI می‌دین تا UI جدیدت رو توی همون حال‌وهوا بسازه. خود Refero هم تأکید کرده که DESIGN.‌md مرجع سیستم طراحی هستش، نه قالب آماده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ bookunt",
+      "date": "2026-06-27T09:47:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/R5tnXY5wyq3B7sZRVhj-F4kfX18aVKAynGKpCt2ivm9SKpnNU3r5aDGQqjz7hgiAFO3U6HR8QUtyatgfm8vTYDcGjS0sUx90dgRZ0EystY05sfvTtRJh5vYpLCtN6AAbsBOglWQg-s-EqenpqHQr1EBBSZNXRWVekRCy0WhY6UW6O-z7fa9ovOyvEURrK6DVJtWJPDlTT8ivRfsMkhyP1yCpKehBzGgcNRp_C2L0cHeBSaXb5BOI71OmoNAFmbENiPGiw-bITJQ3oXXXNpTBGwAL1Xw5oHJPv1j_1b6jt80Fa_1dA6O_6kJhPS9ia16XXVZNFCGb78dh6ZMXfbp6ow.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خیلیا هنوز ته دلشون می‌ترسن هوش مصنوعی جاشون رو بگیره ولی به این قضیه توجه کنید که :\u003cbr/\u003e\u003cbr/\u003eکد نویسی، چیزی جز بیان کردن نیازمندی‌ها با دقیق‌ترین جزئیات ممکن نیستش.\u003cbr/\u003e\u003cbr/\u003eبنابراین اگر با یه متن به اسم پرامپت یه نفر تونست یه محصولی بسازه در واقع فقط زمین بازیش رو از کد زدن به پرامپت نوشتن عوض کرده و بجای کد پرامپت نوشته، اگر هم فرض کنیم اون متن پرامپت اونقدری ساده باشه و محصول قوی تولید کرده باشه پس با اصل قضیه در تضاده چون جزییات توش بیان نشده و محصول اون چیزی که می‌خواد نمیشه چون بیان نشده و اگر هم بخواد دقیق بیانش کنه در واقع داره کد می‌زنه! \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-06-27T10:40:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1782551362
+  "last_updated": 1782558548
 }
