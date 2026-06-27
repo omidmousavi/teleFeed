@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "در به‌روزرسانی‌های گذشته به ابزار نماگرفت کی‌دی‌ای امکان استخراج متن از تصاویر اضافه شده بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای فعال کردن پشتیبانی از زبان فارسی کافیست تا بسته \u003ccode\u003etesseract-data-fas\u003c/code\u003e را بر روی سامانه خود نصب کنید.\u003cbr/\u003e\u003cbr/\u003eبرای مثال در توزیع‌های آرچ‌پایه:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S tesseract-data-fas\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eسپس در تنظیمات این ابزار؛ زبان فارسی را فعال کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDEfarsi\" target=\"_blank\"\u003e@KDEfarsi\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e",
-      "date": "2026-06-20T21:56:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Hbl9d0-Fyj7qH5jYGElf7GBs8uMaKcD1yU028qsahEAXmT4pyQWkjO-3FAcFcuo9mFa9m8kbHNA-5GgN1NHLoWVVK6EQWmkJKhCTceVZ_nWwah6uxkdtCw_f4Pu16DGHrHs0LstqhTOJYKcjX2e2wXbVF6VZQREMy-vog76w_IQt-PR_ltduwIbJBW7Y3lZpo0I0VXVM6q0jIZia1XPw5crF58HY1zY9dh8rJ0pVrvWAAqpEEg5FG7feQUT_7es0ZJr2Qw0NnSieNN8yBwo2vC8Oa9qJ6dkixRiUgel_Emw5x6kalyHU9f-DflXUDPDX1I81ObEYUqGTNbulAxfKYQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "فایرفاکس پشتیبانی از pwa رو به صورت آزمایشی فعال کرده که فعلاً توی ویندوز فقط به صورت پیشفرض موجود هستش.\u003cbr/\u003e\u003cbr/\u003eبرای فعال کردنش روی لینوکس باید برید توی \u003ccode\u003eabout:config\u003c/code\u003e و مقدار \u003ccode\u003ebrowser.taskbarTabs.enabled \u003c/code\u003eرو به true تغییر بدید.\u003cbr/\u003e\u003cbr/\u003eدر نظر داشته باشید که هنوز پایدار نشده و یک سری مشکلات وجود دارن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-21T12:14:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +34,7 @@
       "date": "2026-06-21T15:22:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +53,7 @@
       "date": "2026-06-22T13:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 943,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rs2LVIVvP8lDL7LOAgjhuR-9rN2zE4N0_evH-ed_ZRhJg_b6RqTNulofQ0P8pi058iiTTQhwgj4dF-rsasGxLzqOOtxiIiUYbY9Y1CW45VbCgn3FLu93hiJtMi2tmCyXbGrv_BBmxjUi2rG5MuszkyV9u3_3d4t33VIJTFG-u2JUY_mcvZKT7jQVcbDtwIOHu7Njufw2flgln8lOB1UrfiaViaMimAwk6PnWMZw3CQNLh-m9Vg3dPHe2is4Sdbp1bXwMKbGFlEn5NeTF0QwfhKh3H6nkt8HFzggxCk5ky2pd6NB3A5u14aWETYjF3ILyKC5zLhh2JWOCl4dpppLEDQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/M2QqLuD8Jq5DuSx6s62Mauauz-S1MLcAzlIUuxofeYyrbMxTB6ShkH97A_8hW6-njtMVguUepYNv2vaxwo04RXMwn6otMGl8_0p7YOXJGt-2sZC4Y1RkyExUr9ij0J-bZRKSfTSbViK4WVI8NVhzTOJH6txHQj38GRpsiok-ETPBpSMCh7GA3r3cMxKZYR0ssU-nhTwI2_QcH50tjNiQXD67DYA4lCB2zYjGOfoKTspfWHJTVqhrqJwXp19o3ZoHpucRzr3iDGUtbtCUZI62AuCqJ-2xItIolMr7tGFqFDLCW3gcIE1mZ-MpjveGD8YgR6tLX8hWzF99dXS6HvdOvw.jpg"
         }
       ]
     },
@@ -89,7 +71,7 @@
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +89,7 @@
       "date": "2026-06-23T15:32:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1660,
+      "views": 1680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +101,7 @@
       "date": "2026-06-23T19:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +119,7 @@
       "date": "2026-06-24T10:03:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +155,7 @@
       "date": "2026-06-25T10:50:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +173,7 @@
       "date": "2026-06-25T12:15:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 839,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sJVTDcbTRsRfBDMUUhfvgza0ykyFZZCkeoyaVFCpXjqFOb5_UCEnjsUp1bluEgIwyZZsAEQ0WGV4892vJuXglRLZInYKFq3vg1N_oj5iyscJkBFOErgmLueBvxBnVhwWw9z4TV2kQIY0vgKuv1pBmonUd1ScWCQoP8fHQO-3S0hFKF9hBKqXr6Pdv95pIZwbpHMinn708RU1SFyNfA31_q4buHTzP4TTVUazQ9O1F-3O-JYLIBeEj7yZCYbyCZbn1T3JBHllXxxFpcxBJ1nw_zk9w-18PC9Ztf2H9G7Z3lZJc5V3Gg04Ns3HEy1-9KnXcM1N8lR_bU3bxsIUEIQ7uQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/sHqyNc8Z37_iP9MX-3sii7yhSWelXTNh1ScobOuOneM9v46TBo5Cg6ydABFh89ekOQdUzmVwvCR11s6dSphaQmUVITZga2-ZUL1gUUkk7WLpCfMmZHkBI6sJZb4P8xqHkh4Ngt-JK_U4u2m2lRh9c1F0Ztdb5mTkLfxRxcjdj-kWMPjVio9tDDlUPj4xZENw7M2nektnrzdlF6L4apPOTALp-TjIiN6q80Ni6jHfdgMxZkvkLMy-NKFCPyK7Af-hneZEwFXQzqzAwUqEr4EbJQZvvnaQVbU8JR75HyQQi7eHZ8wXAPVLEwdQDkXALnSdhgTSLoeg45k1JBl5ammqUg.jpg"
         }
       ]
     },
@@ -209,7 +191,7 @@
       "date": "2026-06-25T14:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +209,7 @@
       "date": "2026-06-25T14:49:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 878,
+      "views": 896,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +221,7 @@
       "date": "2026-06-25T18:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 854,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +233,7 @@
       "date": "2026-06-26T14:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575,
+      "views": 601,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +251,7 @@
       "date": "2026-06-26T15:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 824,
+      "views": 863,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +269,7 @@
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +287,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 651,
+      "views": 738,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +305,7 @@
       "date": "2026-06-27T10:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167,
+      "views": 401,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +316,19 @@
           "url": "https://cdn4.telesco.pe/file/OQVAbN1UwyjqdBLP7XFPwy3tegv0z_D_h1jxukP8jmoNl7Uqi1iZVmFnmKVB0wjP3svuUhYsv7QKzUJ9RNTWnjWXC67MQl4E12NzMuqn8phNYtuCRiZ0QGulfVlDAA8qStS1S5KWl2x1Em2TjPYh5D-btimpqz1os6VyYapGdXOhLf5VAhOWLxh35vSx5CvBKV-4510aD_ILFNCLL6EQYntXmcDMEJHahprMqZ6Td2XJeULDdwu27cOVK89NX_WBjM5MRlBVoHerGhXy1rh--gFbnvpwt4x8Io7WVkZgZfaW0aUrCUu9Rfn0-5_SYnEDb7jYYjKSSpjvQwL_GFZG-Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان اگر مشکلی داشتید در اجرای نسخه لینوکس برای اینکه بدونید مشارکت در پروژه‌های اوپن‌سورس به چه صورت هستش برید و مشکلاتی که دیدید رو بجای اینکه توی کامنت‌های کانال من بگید، براشون ایشو کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/UnboundTechCo/defyxVPN/issues\" target=\"_blank\" rel=\"noopener\"\u003ehttp://github.com/UnboundTechCo/defyxVPN/issues\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینطوری هم به رشد پروژه کمک بیشتری می‌کنید، هم مشکلات راحت‌تر پیگیری می‌شن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-27T12:46:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 85,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1782558592
+  "last_updated": 1782564615
 }
