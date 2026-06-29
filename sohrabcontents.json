@@ -3,38 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/h0Sce2zY6r62-CHk76rgl7npaAG1sJeT0ZGDzwDkLPuBg9sjwr0jOxHrjABYm8G2f3NQ-m5cVKUnWIh8G8M5sNIWD7nqjnAgsOLgNWNIeR6exr3-ULkSt5coBaeLTj3QeDW3HVjKkG_ajciBTcSphFQw5HYcBS23FRClYN0C9oiOkj1bQDIuuP8IIefueWbUAH8h9WTyfc1tKf3kvb2c_2wtv1aCKV_uHNgvQtKWwPV65BhHB8Ki2NqDmHX0G-Gxk9qSd5onJgVE-VpuibT9VcFsOpN8hJSuRs_Cil3tUUMzOcBZdzpOKFzu90Z3Yn0e9mCOb_zP_cFdh0xtWJVWSA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/o4KXfcGl_5D-lflW1Wfp7rxgeDFsjM8wNRKCiNzJrkWu3SbZ6ZnI0UQNVTZLJknS7TSfHIRS6jN6cTxft1xiE64IUDwspnI03jEIhJwEdgRntl7Q6Ykn3t-JwLVyDFfyGW7oC-1ctmwOCezR4Iu6G_0g7RpLrrGvDYXEqtolfVg-Z6r7XFBMYJ8C561BqgzODm1-Ny0eqZsbrc5JZYnv5Wk2ZahCS2lMnDyt5HtVAdHp6wXOcB3CeF606_apYPlsvd7JvVs_kWIEE60GZlUl-UFJ49YMV-O4lgg0GQtpHqTJJ2dQnXQFlBrBBlDQvuUZPXYNB6Z_lekEa36voKuRyg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "فایرفاکس پشتیبانی از pwa رو به صورت آزمایشی فعال کرده که فعلاً توی ویندوز فقط به صورت پیشفرض موجود هستش.\u003cbr/\u003e\u003cbr/\u003eبرای فعال کردنش روی لینوکس باید برید توی \u003ccode\u003eabout:config\u003c/code\u003e و مقدار \u003ccode\u003ebrowser.taskbarTabs.enabled \u003c/code\u003eرو به true تغییر بدید.\u003cbr/\u003e\u003cbr/\u003eدر نظر داشته باشید که هنوز پایدار نشده و یک سری مشکلات وجود دارن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-21T12:14:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/d2hkl5JvqYd8ElMMJRVn_HD9OOvJ4d0_l2UmAXNPK4oPNB6hrUzAU2uwyJ_2Mz-nUzo2zEV_kU4m1EkGGvRfBTj0Rnm_wPGx479bbVkgk6IshsLY-JoK8G7x9_ZlTYaRzEr63ppKsfvkhi6mSpS0Xhqm4HJrL1mBBdZ24qJR-Q1vD1h9KkLUT27rP3hpv4IiDTg6nIcUjPjwBh0pe149ApD7Hs5FOm-ulW6rTt9bfXsl4HFQSmk8YFeluKBWzhdXR4zaSDhvSFg84mvYejdu4UpCQ2whH1RVJcTfUfadimbQfhHgBDj-T7XA-Sa9d4o3FHYWQ6cUPKlPDThCHCi-Wg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UeFbI_AOdrJvtpoNDdLDBL9xs0-ek9IPZxnD8fU8kGauPkcuxImPMBnwpfxYZLEAA7HYB5GCdrT9UV80S5nmuVnMo1UtstNNGJLFg09sO2xJZCBni5A6pQaVKQ-JWTssa5DkCW6hGmKB8Ibam4UzhMdDq7Xayoqx4i4zyJ4YxmgqDfsl_Z10wIRGE0gw0IPfwMCcxqqA-uLS57Yff5CDreSwFP1Rrhxq8VZX6u3a0xuw8xjlTAHxWrnL4CVwR07hBXNxROSRoDeVhH-Rk6iXCnqBE1C1mM7qTADmU5cHymn8CQR6n6-ZtKhM6RcRV8eYg3qC3kfTQbT1ltTpyQgGrQ.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "پلاسما صفحه بزرگ ۶.۷ الان توی مخازن آرچ هستش و چیز جالبی که داره اینه که میشه Switch Session انجام داد از توی خود کی‌دی‌ای بهش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S plasma-bigscreen\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-21T15:22:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -53,7 +31,7 @@
       "date": "2026-06-22T13:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 967,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +49,7 @@
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1400,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +67,7 @@
       "date": "2026-06-23T15:32:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 1770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +79,7 @@
       "date": "2026-06-23T19:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +97,7 @@
       "date": "2026-06-24T10:03:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kdXRIcWOH8ydOdfBYDvWZlFf07Vfsp-Nnge8vChMv6WkQX3aMr8uflceCdY-kUD1x4CR9q7QuJ-3DEJ_dEFUJOytBXhMpXYeTc9qUkMbX2PhHcuCfuvikkNem_7u2CZTYQTPCylEUZG_etpHR1fhwYHJnU0_ft4kO6zpB2oQuM6Koo_JxC9gmgC9NHjELXL0-ONtgcTcQmyXI1ISctZfYEyUNKFOZYq68IpoxvzMP1eZAEQ3LW0n_4HqxTf2EyQ-yxhq9KEKhgbbQ3uq5HyHcmvZtm7z5BdX0e0NS0jdmnz2ZIjD_HMptSJrjvn8eJdYBwQ6agKKeN-Vba4zgXFZvg.jpg"
+          "url": "https://cdn4.telesco.pe/file/BaFe8vwZeCqRVMLMbmSXhRrZwGf9AI2R2lXf9cOvc13DMB8DFbYiY5idB7M7uqaVNlIryGszQJ-S1xqWp5kZ-yU6ZSgARBcjXCHdXUxXB-CAHlSjfj1RVUIZki8S5asPgpmArtpMc3VFcs3uCwkigwEda_Ly17gOvSBkWaz43H1pvLqvfNw-nvR_HpCDwKR-3pe-OHJtXHE0rN0JPgQHxfNOtzk_q4kCkKjVtWFqhfinQmXbfh3goMgsJsGaQfFSHLZs_WWpyGhzMuun1_1kwBTg2z6WzhE795qJFNHLUuqbkaik8tLlnEjKqC2d1LQN6-yRhTivFteqAc4bZLdUhQ.jpg"
         }
       ]
     },
@@ -137,7 +115,7 @@
       "date": "2026-06-24T16:19:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +133,7 @@
       "date": "2026-06-25T10:50:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sbOXlWL51rstWSAs1GmRNbjeyq_n92xQgORNc7esRuIphk3elPzMipDePc-dObh_iIXAhgk80otF1AQB07qOBKQnVPCusBKMN3nCxb9hTgvWgtrE63o5Kw4RyPTbrvENiJnhUrRi-f7In2iijuLcJcg3S_CHpmjA0pFJCG7aP0QKrAIzbfw4VGx4EqOP1BJRACI5jpFamnUzz3QNBBk8mN0cIDumC3HBHqr4selZXzNryFxxpXGaJMgJBHoXYtmtKuzEaTpTa9FsuOgc0q863T0_ILCwcppgQYJnZGCtk6bE0b5eoYHjxO_NV4CtPSgfNTUl98EIThrD3wS9GloiiQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/v3vkOZt8zY2_WFuUgS0GSOafFKlzbCcu5ygl_hwz3BHVbaLnLKusUWvD-xi5sJBKLHNmZJx-w9LmPLw8dR4fJ_K4D9Ht57oD_So9daZ0KsYK2MuAw7WK1-C1MJAxoo8vbJJiBfWKfml79AiroYjmAJwldZvgerjz9EDBd46xnBlDHwfxoDuyIxFNODciEnaM34YkJ0-pHPDQ3ZUK1vukrtaq54k2tYDKICKa3cQsKJgxFzfjpk2UiCBH6rstg9EFDjwAkQM4zMTWl5RH41FtnmRc9vaA5c78scLaFkXKXbuTZkq9jRBimPVlJkTYeyYiMcgEFMpxP1g_ADYT1Ltiww.jpg"
         }
       ]
     },
@@ -173,7 +151,7 @@
       "date": "2026-06-25T12:15:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 871,
+      "views": 895,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +169,7 @@
       "date": "2026-06-25T14:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +187,7 @@
       "date": "2026-06-25T14:49:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 949,
+      "views": 972,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +199,7 @@
       "date": "2026-06-25T18:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 904,
+      "views": 961,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +211,7 @@
       "date": "2026-06-26T14:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 660,
+      "views": 674,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +229,7 @@
       "date": "2026-06-26T15:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 961,
+      "views": 979,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +247,7 @@
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1590,
+      "views": 1620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +265,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 930,
+      "views": 974,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +283,7 @@
       "date": "2026-06-27T10:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 801,
+      "views": 866,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,12 +301,42 @@
       "date": "2026-06-27T12:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 707,
+      "views": 807,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "مدیربسته گرافیکی Shelly به مخزن world اضافه شد و در رلیزهای آتی جایگزین Gnome Software Center و Plasma Discover خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب shelly برروی پارچ می‌توانید از دستور زیر استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S shelly\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-06-29T08:25:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 333,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DnIV31K6gUGazGbKAXUreNfC46G8MK5URv7vc-om2E_uIW_5pgaC0FSjvNM5LFr8bwdPZsiYP1u2SfKkU5HGCfrNgk05Av6l-TKfIsvHsgfkhOAT-J1XUq4m-KX6mm1wsfHBgqXNxS40-swGAT1FU-vZOeTvIc2fFdMhHjGIwwMcrB62Im1XgIK7kbCCRdaAN2BVnihjHnyM2vcIkfRNeGNUE22sIdwcLtAajEIZxIdwRBL0Kf2me1GBQvQEy5s577SRqdqPPx9CAXZN2Xz2Yene6a7BBfUdUDNQGwYjP_2NBlrJ7OJNdBycFs1EbgxaLPqE1j5OAVlCJBpSwUOsTQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eیک خبر عالی برای کاربران انویدیا در راه است!!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکی‌دی‌ای در حال توسعه پلاسما ۶.۸ است که اواسط ماه اکتبر منتشر می‌شود و یکی از مهم‌ترین تغییرات آن، فعال شدن پیش‌فرض قابلیت بافر سه‌گانه یا همان Triple Buffering در KWin برای گرافیک‌های انویدیا است.\u003cbr/\u003eاما این قابلیت دقیقا چه کار می‌کند و چه فایده‌ای دارد؟ در حالت عادی گاهی اوقات کامپازیتور سیستم نمی‌تواند فریم‌های آماده شده توسط کارت گرافیک را دقیقا با سرعت نوسازی مانیتور شما هماهنگ کند. این ناهماهنگی باعث می‌شود هنگام کار با دسکتاپ یا جابه‌جا کردن پنجره‌ها، نوعی پرش تصویر یا لگ خفیف را احساس کنید که به آن استاتر می‌گویند.\u003cbr/\u003eبافر سه‌گانه با اضافه کردن یک فضای ذخیره‌سازی موقت سوم برای فریم‌ها، این مشکل را حل می‌کند. این کار به سیستم انعطاف‌پذیری بیشتری می‌دهد تا فریم‌ها را به صورت کاملا روان و بدون تاخیر به مانیتور تحویل دهد.\u003cbr/\u003eزاور هوگل از توسعه‌دهندگان کی‌دی‌ای تایید کرده است که تمام باگ‌های قبلی این قابلیت برطرف شده‌اند. این یعنی در پلاسما ۶.۸، کاربرانی که از کارت گرافیک انویدیا استفاده می‌کنند بدون نیاز به هیچ تنظیمات اضافه‌ای، یک تجربه دسکتاپ بسیار روان‌تر و لذت‌بخش‌تر خواهند داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://linuxiac.com/kde-plasma-6-8-to-enable-triple-buffering-by-default-for-nvidia-gpus/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linuxiac.com/kde-plasma-6-8-to-enable-triple-buffering-by-default-for-nvidia-gpus/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e",
+      "date": "2026-06-29T09:21:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 217,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1782709735
+  "last_updated": 1782727449
 }
