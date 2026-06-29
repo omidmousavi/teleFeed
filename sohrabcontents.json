@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "درود دوستان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eنصب لینوکس، درگیری با تنظیمات پارتیشن‌بندی و ترس از پاک شدن اطلاعات، معمولاً یکی از دغدغه‌های اصلی موقع مهاجرت به یه توزیع جدیده.\u003cbr/\u003e\u003cbr/\u003eبرای حل همین مسئله، طی یه همکاری مشترک بین «\u003ca href=\"https://t.me/parchlinux\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپارچ لینوکس\u003c/b\u003e\u003c/a\u003e» و مجموعه «\u003ca href=\"https://t.me/gooyban\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eگویبان\u003c/b\u003e\u003c/a\u003e»، تصمیم گرفتیم یه پلی‌لیست آموزشی جامع برای نصب توزیع‌های مختلف گنو/لینوکسی آماده کنیم.\u003cbr/\u003e\u003cbr/\u003eتوی این سری ویدیوها، قراره آموزش قدم‌به‌قدم نصب انواع توزیع‌ها رو پیش ببریم تا یه راهنمای کاربردی و کامل برای ورود به دنیای هر توزیعی (از اوبونتو و مینت گرفته تا آرچ، فدورا و دبیان) شکل بگیره و نصب لینوکس دیگه یه چالش نباشه.\u003cbr/\u003eاین ویدیوها به مرور و به صورت منظم تو کانال‌های یوتیوب و پیرتیوب ما آپلود و منتشر می‌شن.\u003cbr/\u003e\u003cbr/\u003eاز طریق لینک زیر می‌تونید به پلی‌لیست یوتیوب دسترسی داشته باشید. پیشنهاد می‌کنیم پلی‌لیست رو ذخیره کنید تا ویدیوهای جدید رو به محض انتشار ببینید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پلی‌لیست یوتیوب:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtube.com/playlist?list=PLINOW_VtUqNtK2873DD3ktxyq42Nj5tiQ\u0026amp;si=NBnbNgIJjKY7Z7D0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtube.com/playlist?list=PLINOW_VtUqNtK2873DD3ktxyq42Nj5tiQ\u0026amp;si=NBnbNgIJjKY7Z7D0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنویسنده: \u003ca href=\"https://www.linkedin.com/in/monireh-savaedi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنیره سواعدی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BE.png\u0026#39;)\"\u003e\u003cb\u003e👾\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/TehranLUG\" target=\"_blank\"\u003e@TehranLUG\u003c/a\u003e",
-      "date": "2026-06-22T13:50:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Iz3n7QZ0y4ptMQDjvIC8YsDDz4wyI9JmCOJ87PosXVCXXtE9MYfuarcsicWFlgoU_LPPG80btVjdQt_3Q7XoHrIYhFExo0x-udgs0BH8GRyFgdqZfcYy6ZF3KFZRXrwnOSt2HieeyBdh2TM5TFBenqebuIUfAxM38XrvglWscWk_JGpN54P7Vik1OSLfRIo6DMoqR-HFvC1BtT5q4bTltdJSTmZoUC4tUrpBG_ZWfkJKkafxwTLVGL_l3AiDAlV1jb3Ge55nONsnk6eTHKj2SjTgu3_sxXwSf_YRZMrDegFXEPr313zkspBucEjGs7eEDkLrkiPKlC3ZS-kxDRmgBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ولی CDE هم برای دوران خودش خیلی خفن بود :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیکی از علت‌هایی که KDE با حرف K نوشته شد همین بود.\u003cbr/\u003e\u003cbr/\u003eاگر درجریان نیستید کلمه KDE مخفف Kool Desktop Environment بود یک زمانی، و علت اینکه با حرف K بجای C نوشتنش این بود که با CDE که یک میزکار مطرح توی اون بازه زمانی بود اشتباه گرفته می‌شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیک فکت دیگه هم اینه که XFCE اون اوایلش ظاهرش رو از این میزکار کپی کرده بود، تا نسخه چهارمش که بعد بازنویسی کردند و عوض شد ظاهرش. \u003cbr/\u003e\u003cbr/\u003eبیشترین علتش این بود که این میزکار انحصاری بود ولی خب الان دیگه نیست و متاسفانه فایده‌ای هم نداره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-06-24T16:19:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1470,
+      "views": 1500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uaMobGzL-US_Pg0zHwLjaOoWqFs1Ueu4bf8MyAWjptu5G64mqmqqy_pBEMAwX8kCQdhSZkeM8NrR8PyxKKHyXQodUbbLneZI_uZgMjBB6OdPQ03V9DsLWNFGy5tgovURwda5bYIchNKpJqxXxJcRD-X_Ql4-nMKmuDhze6VL5t_yg_Tsb2uUPXTGK9CRpdSG6G9xT0xrJ1H0DUsTWwSdsJ836Glb1epRgkhn4tahe5-H5R0ceawOIcahGCKLI1EHHoBfNPLiMEH6slFauBbNjrhs85OJHZOLvwrW4WHhx21XEkHMi6Cf2Cp9Lm9_NsVXZznTZ46q-KWF-PHzTuXsQQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/QEkany3phZwwQiiZj30LyN9Bmt4eBQcUck83qM0XBRFaBiThlSKgM-LIOot1Ki7X7HIJmXUdJlpiFRnid0kFom-vluV6sLE47P3LiiNHbb4Pb3ydOS6oap7glgQEPp2TqliKN8Ep2idb64sUOHhBapeqjmVXCXYu8rYrnwo3IUUKxaxKmVFcyQ46-0KK4q4-mPK1vttDEbpfhUTPf5CP3rYET71Qf8ttt-6Q2T6MH-pnVX_4zAq8-1VvGh64M1bYzJhlsy3P5okg2XoWUSKWtqrrTmS4Jl8qPRl3dfS24GDs-upxsCr4-oxb97r5WE9DuA2EsmKn9vaVeOMIO3VGFQ.jpg"
         }
       ]
     },
@@ -114,7 +96,7 @@
       "date": "2026-06-25T10:50:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-06-25T12:15:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 951,
+      "views": 976,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-06-25T14:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-06-25T14:49:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 984,
+      "views": 993,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +162,7 @@
       "date": "2026-06-25T18:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 990,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +174,7 @@
       "date": "2026-06-26T14:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 684,
+      "views": 697,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-06-26T15:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 996,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K13u6pZ4Pga29c-EVK0L3bAaRGltaXAww6hhqWayWHu9KfCNYFZV7Kwa3izXXxPXqgFrMVtglJlh6dhsqJdeNwKz4JB4AUBwTCOhFouvOFxVWJEms3tCEThFn65UoZ8Bq7KyQJdcaOYC_heUkJP1475rOGGWm0jDkhSXeU7NJwDMjjlFHSRZvt1vJ4zcpXc80Kl5emC0MbjQbPYBM0mNQIR4lHdC4TbWCipkQVPrAq8qRUU8xi-SW4AH_e9TIt7s1l3jt8lyk7CGGEYdBF-XHNa1aSPSGPGVYC3ZuYze1s41OUTrtOX4beK1MP2V_h-LYOtkzxb4NThqB5--wiwFYg.jpg"
+          "url": "https://cdn4.telesco.pe/file/UdLV3mSl4Q32MrU834VT_iYOofZLrElIy4Q2dnuyaxCI7rGBfTZHncrZJZ4CCg6z3iEkE3NKrD9xG6TcXGy4zlpl88wc_gQPSL5R0DxjQHSMD7wqbvDliAs3wgFG89C5lJii_3qggec5HvRpolJF7mqTy2sJWJiTd5C9Dah8TXXd1IdJ8iNu6oGWvkXfFiDVrSn_SJ5bEvDDh6y-JFDL1B5ogmO8BIWik19X50VWbPoNNKqejEYp5XI6oxRCwqKJuCYHtFHeB1S9HjTzJiw1TteIx4JC4YTHuMbiTmqgkfTQ2Hy1tvgF0LGxMPGt2oWZtmZoqVgBF6SA87N_6wou_w.jpg"
         }
       ]
     },
@@ -228,7 +210,7 @@
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1640,
+      "views": 1670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MxfspKz4ln3B0E82JHncVmzuOsZv2r5y4EdZ9J4arQ9RE_eA7iTBPRYmbKwG50_mJsLfwLnm_GoRc-VzP73JbNng7Y8FJ250rF0HOc2v7ZCxf_p57h6toE5WbcnyFZ1eIiHweFNLxSCvTSc-LvQ7Dmou_JmoU2Sd19LR-Iq2NEvzJsbvLV8tQdtZx1hrbrXq_M8TyOrkOdExKCvQXdX0QvUD_F7OfdTJ0crBocRad8yY20UYz_8RBmpsJXFJ2BjJ1OMUgvgVNkrpDkxagRTOKPvBurAYl25oQKx3GnljDjl5gF7Wr7GfhA37J8wBa0TTwsd1V7MqcEOkLAjB2jHI1A.jpg"
+          "url": "https://cdn4.telesco.pe/file/GGKWb5vvIQSQy1MSvYQ8wOs5KKWlf3G1VEsnxwGPIBUgkY_8iXAwTHn0wejsYVJHYwW6eE9x7DP7NtBP9kpmrIBMCJhUoBl_FzwxfwESeMKPtEqgTjB0zUW5hm53fOZ1tO1VdCnvWUnxizPCm-C3Fxn9g3LQ9Jh64AaixbEe2cjH9FD-vpYHPvea-gaHtzYOm9f2KAnT887XIWTEgf3k6B7imwCTy2KA3Q4WfyNrUqKekfhuHW4-cu-YcxhFrFItukERGzO_j4WvGZFpwQXhvqR4y_jK0_nWr5Tn7c2czUn_7n7khoILRgIk0dOJA762n9gTwdyVvQq7XRHKD0VNFA.jpg"
         }
       ]
     },
@@ -246,7 +228,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-06-27T10:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
+      "views": 931,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-06-27T12:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 885,
+      "views": 912,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +276,7 @@
       "date": "2026-06-29T08:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 533,
+      "views": 598,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +294,7 @@
       "date": "2026-06-29T09:21:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 469,
+      "views": 549,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +306,7 @@
       "date": "2026-06-29T11:30:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 351,
+      "views": 479,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +318,25 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "آموزش کار با مدیربسته shelly را می‌توانید از یوتوب و پیرتوب پارچ مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://youtu.be/8FDaHsKfKuI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/8FDaHsKfKuI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-06-29T16:06:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 192,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t15OpRtgDs4UTVcVcFV0qRsNJME8srjl3bDN2PfnoLEmwvpGJoBr8HaM88xVG4Yz4OAPnqqSfFEfoE0yGkaotAcePw37KdTgOF65AqnJNmyD9t9I3M0C8BispnopTQh6FxWiU1Tr2eafQs_gkPuEz_M-Nsqynxni7W3iLcNktlbZNJhZoWqBwjM744jtnBsw203LNWFVgLzRzl4D5jFYfRU_ew9zmrl5asSsXFKcwMaFZdcNLPLkXIV4boDizNQ3xxggK75l11MBi2nZ5YKRp7LmjPI8J4iZ7CYHNobrtnV4ADF-sj_VjCLzY8mrI_nH4Q7WlTpuekgcFTsZ-9VzZw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782743544
+  "last_updated": 1782754074
 }
