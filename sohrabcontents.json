@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پلاسما صفحه بزرگ ۶.۷ الان توی مخازن آرچ هستش و چیز جالبی که داره اینه که میشه Switch Session انجام داد از توی خود کی‌دی‌ای بهش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S plasma-bigscreen\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-21T15:22:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/lUwLj-lCsvlH-ICRxEdDx7YqvOYcLuMezC_yx3wecD_d_Twdvs9c3603kwUZYMW2f2Vf_hmkon9rgCpntj9ak88y30Nd4mKFo4c5pTXbsR4ebRJsYVxr2nTsL29taoJk9VUrnaz9xuIrAr0X-iiCaNfGogb3kojbHlQRJFyeUy0RZOamzWHLKaj0xZBabduOjqrJQWUowUW-XuOiNscGHwgblplO37tmAbmvtz769jpTgeW2b4thb5AspaPx9ZKQMli4hK6dESqA0svIgRS6po8YLz1qmf1Bl7PxZlMdusPASUlFJi0Uhy6u8anxnmMO56YDXmZUfzUF6K_LKRuMjw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "درود دوستان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90A7.png\u0026#39;)\"\u003e\u003cb\u003e🐧\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eنصب لینوکس، درگیری با تنظیمات پارتیشن‌بندی و ترس از پاک شدن اطلاعات، معمولاً یکی از دغدغه‌های اصلی موقع مهاجرت به یه توزیع جدیده.\u003cbr/\u003e\u003cbr/\u003eبرای حل همین مسئله، طی یه همکاری مشترک بین «\u003ca href=\"https://t.me/parchlinux\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپارچ لینوکس\u003c/b\u003e\u003c/a\u003e» و مجموعه «\u003ca href=\"https://t.me/gooyban\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eگویبان\u003c/b\u003e\u003c/a\u003e»، تصمیم گرفتیم یه پلی‌لیست آموزشی جامع برای نصب توزیع‌های مختلف گنو/لینوکسی آماده کنیم.\u003cbr/\u003e\u003cbr/\u003eتوی این سری ویدیوها، قراره آموزش قدم‌به‌قدم نصب انواع توزیع‌ها رو پیش ببریم تا یه راهنمای کاربردی و کامل برای ورود به دنیای هر توزیعی (از اوبونتو و مینت گرفته تا آرچ، فدورا و دبیان) شکل بگیره و نصب لینوکس دیگه یه چالش نباشه.\u003cbr/\u003eاین ویدیوها به مرور و به صورت منظم تو کانال‌های یوتیوب و پیرتیوب ما آپلود و منتشر می‌شن.\u003cbr/\u003e\u003cbr/\u003eاز طریق لینک زیر می‌تونید به پلی‌لیست یوتیوب دسترسی داشته باشید. پیشنهاد می‌کنیم پلی‌لیست رو ذخیره کنید تا ویدیوهای جدید رو به محض انتشار ببینید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پلی‌لیست یوتیوب:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtube.com/playlist?list=PLINOW_VtUqNtK2873DD3ktxyq42Nj5tiQ\u0026amp;si=NBnbNgIJjKY7Z7D0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtube.com/playlist?list=PLINOW_VtUqNtK2873DD3ktxyq42Nj5tiQ\u0026amp;si=NBnbNgIJjKY7Z7D0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنویسنده: \u003ca href=\"https://www.linkedin.com/in/monireh-savaedi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنیره سواعدی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BE.png\u0026#39;)\"\u003e\u003cb\u003e👾\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/TehranLUG\" target=\"_blank\"\u003e@TehranLUG\u003c/a\u003e",
       "date": "2026-06-22T13:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 967,
+      "views": 970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -39,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PB6635rcm0pZRIuDHPGosFLuICkohnNrAkhm2DeayIs0ECnvtnJg9nLXWpGdsonu3fBEBflkM4pJVlNovoA-CD6Dery58wrkECu_iORbrmUiid9C8nxjoH3DWuGfpjBdlDwU_in3U-fKpagnxdKEcsq2LWLO-vgHlar6HzCU_OTeLbxFEVNvUB6xoJVpp-ZooVb_cmF_0-H9AYfsAFHXkLLqwpb-y_MgWVfpWdKVSVXTYU-JvWXjIiDOlYjny0wOGVhK9ZvQmbhKK1rS7W271HqZozw9vxoGykFBfdhB_bQr_G3BdfQZwn6D00OlF1WIAQFov7kLdaSmnmSPjP4WVQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/Iz3n7QZ0y4ptMQDjvIC8YsDDz4wyI9JmCOJ87PosXVCXXtE9MYfuarcsicWFlgoU_LPPG80btVjdQt_3Q7XoHrIYhFExo0x-udgs0BH8GRyFgdqZfcYy6ZF3KFZRXrwnOSt2HieeyBdh2TM5TFBenqebuIUfAxM38XrvglWscWk_JGpN54P7Vik1OSLfRIo6DMoqR-HFvC1BtT5q4bTltdJSTmZoUC4tUrpBG_ZWfkJKkafxwTLVGL_l3AiDAlV1jb3Ge55nONsnk6eTHKj2SjTgu3_sxXwSf_YRZMrDegFXEPr313zkspBucEjGs7eEDkLrkiPKlC3ZS-kxDRmgBg.jpg"
         }
       ]
     },
@@ -49,7 +30,7 @@
       "date": "2026-06-22T15:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
+      "views": 1420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CX18OKcbfNnNvx5XnyIjjSqAWizsYJfbpkq7iYbo5jhOHVPPMmVa-QCcphP97ydr2ynp_r22Q5iBcaCxjDUmve3WtfUMf-ziz4ds9MF1AjAre5-S8GXJDy-1TD7Peh-4A_H9I5U77yAZz39MLh-Ok9nu9lrwSo-iAm_2x1GH6Mnh2FmscxaLfYTLeun7cJMaw1rlyBcjKweZ2ZkTEW2G2jZQmI1k5zPjWyUjvpWqDERqSn1V9wC7JdBk6trw3-4OMp0rQHwSDYI2sFUAzjq8mbLFulNW2LK6vbpcnxbxBSJExUBsfN2oPFF8mX82lsdFj_bwllQpaaAORNOPDymZBg.jpg"
+          "url": "https://cdn4.telesco.pe/file/X5_LfklIx30xtk5pNZlKhOQypMYkD5iw4zeL1RSmQttXqKR7zYllBiOCvyT_hAJ5DVk0BCv8jB6UER_EtjFGUaMoVNYbdUOiM2U4_EgNVogTkHWS5ngbSZVsx4-3OiOntlRAdTEEywK1tvVULb0kBPph2kGRQUlNRK8sfur-nMUNsTrlJjMXeHFfPFbKg3mdHE7R5SRVLVqWmpjHpWnBhaWyh6cbc9LDCk00EROZPpAukxTFUA_rYn4Wda0e_kMwOrAjkrX7M4h004FIk2oNG57_PEhgXyi8bJc6Lq4rHwApnHPA4Vm96Uf79L9GA9wfmMPWTUAe98Dxra9yIIHqpw.jpg"
         }
       ]
     },
@@ -67,7 +48,7 @@
       "date": "2026-06-23T15:32:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1770,
+      "views": 1790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-06-23T19:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +78,7 @@
       "date": "2026-06-24T10:03:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "date": "2026-06-24T16:19:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
+      "views": 1470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +114,7 @@
       "date": "2026-06-25T10:50:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +132,7 @@
       "date": "2026-06-25T12:15:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 895,
+      "views": 951,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pMIplIwC_aoENP6aV71AScdBcIm_b-WgeCQglnziPCjLdiUnuHlrcQ3LRwMjIDfhGQ1FGDeY9PwGlbIvztN1fmrHgynV3LvEloRPCborYm46d2i716hew9Mrip4FW6ub3xAmjkEBupqVz1dccSrXpaRwD3NRKOBudejQktYQF00B32RvIQXtAGbH7r-d6zVyhxq6uRtPLowYwpqCwiRne5RK0PDmLjpLQfXlOvr1fpFQhb-O-cTrwmGgoQdJkhi94PKEfjnw41ySE0rU7wYWCH0bM4WzXZxpfT6MOBRBvIPRySfbkarGPAV3AFFbwyZ2fW_vbsAW68Jxa_1f0gtVNw.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZC_CWs5iXPsgiBtkcNqdtJh1NzfqI-uMfWG451MhNnV-c0fzpJZ5x16e0aKfRMJMj6inunW_EP_bSfcFFEGAo-prnjqLkm22wnywMy5vWB7qIY50caKuYPFRsPuDD-xraWQJT1ITLytaf022QBgNwoKKz-Vfjr7dPxijKAxGFH3K12h15QdS_KJtQPIRXUxRJ7CfHp7GqWUNG3Iew8T0eVjAtYn-HaLUFS6VItmN8hdCGhUcJDUEheaNFcWVvfG80qDiTFA1s9OBhX8pfej1obnoe6P4MmOnSBPBkNCzZ_7Me60OJxQMUGm8pQvfIA1KN15q8jYsxjGLzvVjpmInow.jpg"
         }
       ]
     },
@@ -169,7 +150,7 @@
       "date": "2026-06-25T14:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UAi8QqQfbrpRuIyxM2mxso_zENqh6ptNzruWpToDzfK2ZkS-XLz_m_kDb7HlmCZYZLKDi7MrbSzwUbl3SZRl4nKKFBFnTNJfDM7PJt8Mq74rZxvUsFkjOk97kw4htShtyfAECVeKgoNSPt3neLOwsbE7I8AfuSQFkPdUL6kH5ycY3Eqrk7B7E_HhLv2aQOCb5_JMz4NXK-pwy3H7_oxHQNuhineBcBhNwzjOVWBk9PxP5HvhiOlRDOlriNcRofhrak4gxAM-qKrlnuvhqIcfQrjm9N4domW9m12sEiR0lOxX42Kk9RCyW-IXCBRS5M3MZxnobE9ivndiB6u0n3yRzA.jpg"
+          "url": "https://cdn4.telesco.pe/file/g9sa8sOfoEmHmabeLsSUr_RN1B38G9bGGiQDgY38WKQ_0YMV29lsmBX7QrW-ZFSHDpsK4U0ZiCEHvaRGpUTC8e6z19aHJ5ee9mZ_ky7k8S8Z4v1Msfb41CTPE67Rypd7Hy0_C78fbi5ap-rEwP_iSiSQ5YNLM1wEaGN-raQK103UTVbOECiNbxQpU9E9MR2IqidggbqAPqAI3Z_8g09vmQ3_72h3NmENc1-nywYd9T9pCsSfkTtEFu-AU94N0okFEbstqskPiAcnSdpY0zDj7ol9x1LbtLDEtGCGM1L_M-R2CMZGchFi0sXm0RvW042ov52Ve5E8JHHdHlm2nxgezA.jpg"
         }
       ]
     },
@@ -187,7 +168,7 @@
       "date": "2026-06-25T14:49:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 984,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +180,7 @@
       "date": "2026-06-25T18:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 961,
+      "views": 990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +192,7 @@
       "date": "2026-06-26T14:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 674,
+      "views": 684,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BunlUklSVmw1z7ybe4Y6ZOe02PhTFJMRZ-n2fudkrITZTBpK4xDT17gUSnSnVLRbhCZsc4_7QrYLGPhKFMaoujNs-6sjreTgynAAm98OC2HNyOviqapGpr1K95_O0RkeZNaG9grnRQn0ziS0yP2fVpZf-4OHwhtL-pypLZuA9Ciye3iBTvdTJe8BlHJgrT0hh_LXjKGmWD7VsUx9_3dcZ6bwoUz3PyX3ZmHHZqE3elU4mqfEM-rS8PjJ1Xydc1Nk0iziXg0Z7sWHgGyC-QrXrTaY7hTRsrQ_URpsMo0ah9Hdt9GRY25wqIwtD0tifvOZXn4-w16fdnXU8TaWEm1MHQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/NTNPNTVw1IhPxOH7JCCDwCmPX0d0Y9qojlSJ_a3UnLKSnqmGdYJRLFDjp67lCMn-KkQ0KGcVUarzDumOv6sOPrr8YwUVuDMBxjGqYSbCx5CLltLkVwY9a3d9hZ25ysPADr0Mris3d92_3TV-u-K6PHOTX_PEn5Ko1MJdz_5zQqrxgUcag8wBFmhRJA2p9n64tt3zzEFrnmhyxbiAmO54xB26uo6-LTrM4tMCte8fcolsPUagfcCFMBJEgx1FbCPxFimIzFE8suvjoM4ib778AzdkO0GHJxW7-ILQ5TEew0ijyvxQVE-Fs2n_j3augCH_314JQEqRF8AIjrIWvDjLTw.jpg"
         }
       ]
     },
@@ -229,7 +210,7 @@
       "date": "2026-06-26T15:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 979,
+      "views": 996,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +228,7 @@
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 1640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +246,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 974,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +264,7 @@
       "date": "2026-06-27T10:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 866,
+      "views": 910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SCcP4L8KN8DOdWtxxkRglTx8My1H-yl405obtmn68fWEzo531CGiMgfaOJ5X7auP0A49EWeIU4gcCWGU8TAMVSREPan0Zug1nPndMiIX-AUKOHf56kfkO63aOKuOuW7SB4B0u7HRHHM3eerRJjpxgp84AvdcTCQUxm6WWMTFPxK-clj5oIf7PJucJVgQUPzjwDy6Et7Nhxv5SRuh0TLvnP0nqQOIzn7x9-oXqAQDOD0zFMi_tdu3sE7ZxNTOx9mqEh_nWGlZ-Y0mwNW0_uH5-5-u2oPIREGCKWZ6i8pHYKQYLtnEQeEsJQQJyTyVt_atdp9x3ZKFcpDp0RlFicrjpQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/WaEWeHosE42Y54HtqEODWInjggh0tX8UpxjkX-4i7Gyy9-TSnWkTPXaVlOu_HWv6RmuC1xfmluUThJ1TuiZxbzdjnfjvTRO_zTuN46_5jRylsU0ZdDKbwQcoz2Wb2a2fflR40BqeQ4SrorzbyH4QiFd34hHcaREeIcDJEHQhma0Tqt67zKhWuI0IzWexp6zot2mlW1wu0jBKlfnqTShuYgcxF1YoZxkUWtVHSymbP82oL8lAEQ163icFVJgDQD_agxhZjv7n4NFf9XTz15jTXMi-fhjz6lb57sfwBE8JpOIxQt18_CGLRBjHG8pmgEUGzqEMDcAOb9Gx4dmSI-eGJA.jpg"
         }
       ]
     },
@@ -301,7 +282,7 @@
       "date": "2026-06-27T12:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 807,
+      "views": 885,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +294,7 @@
       "date": "2026-06-29T08:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 333,
+      "views": 533,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,12 +312,31 @@
       "date": "2026-06-29T09:21:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 217,
+      "views": 469,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "قصد دارم به مرور برخی از اسکریپت‌هایی که برای سرگرمی نوشتم رو پابلیک کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیکی از اون‌ها رو که امروز توی گیت‌هاب گذاشتم اسکریپت mkappimage هستش که روی توزیع‌های آرچ بیس از یک برنامه نصب شده به همراه کتابخونه‌های موردنیازش یک پروندهٔ appimage می‌سازه که می‌تونید با خودتون حمل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/scripts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/scripts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-06-29T11:30:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 351,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/UTh5O-LCxVX1AZADaLwvJDisqRmLhTGRh2mABLYqC8RINcbWUnlkWgNdTBiKp6wo-QmundDuJdaMA5Ztyy8gWB3XTsNyyX37GHOJimKXN89OmFsf9grtFjevb9f9TOL0Xq7g0L_cn-0qiKPahsrsO6vLgne7lzqYdYy3Y_Rw7JuoWXDYIkilqcaCrtfY5bRfgQDftuqeTE07A-WEe3F8Xljx0fKxpGsIXsL_PtIgrcMWp62k_TgDj26mS4Mb-XITeUWPI2Hnavma9KETx1APhAEStuvceM9V3lDA_fxP7QfAak6SJSJKVx7h3Cf8URFbop8Z3hyam4sAwz2Y2vt_Ag",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1782727449
+  "last_updated": 1782743544
 }
