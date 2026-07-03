@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "سال‌هاست که گوگل هم سیاست بستن رو در پیش گرفته اما خب چه فایده هرچی گفتیم کسی گوش نداد :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز اونجایی هم که گوگل درنهایت کار خودشو می‌کنه باید با اندرویدی آزاد خداحافظی کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-25T10:50:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Cp0b04GvMdUSC0vLkRQsKOahqWQV6Vr7a9Yobc9VxzvaBMZRbC4b1yr5YiQFja-9tq-FoOR8mpEseYKX5lgnB_bM6r_a-yTQOmbzurmSq-qdFBoT84iHXw2W4VjB3xKX5YfhiV-HBQ0ItkgV7SIaBNckbQmMfkvu_2w-G6Psz5Wv64ogXKK0wliC7-NXlZ-cEz_1uWQcjH-vRnlr3wid6F0Raw7-F-Eh7k0Rqdq_tUQfV1wJ8vfD4T5ogPYcQjKybu05YKV6IMDgNgbhbrsN3pvSfmX1D0TmvsjKzmmZXSxTJU341hBvftvwBAKlfpnwGJE5yy5n18rdP9wZ25L1hg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "نگارش جدید ابزار نام‌بان منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eتغییرات این نگارش شامل:\u003cbr/\u003e\u003cbr/\u003e- اضافه شدن DoH و DoT\u003cbr/\u003e- دیزاین جدید مبتنی بر Adwaita\u003cbr/\u003e- ریفکتور هسته اعمال تغییرات با منطق قبلی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهم اکنون می‌توانید این نگارش را از مخزن world دریافت کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S namban\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinuxb/namban\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس ابزار\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا تشکر از \u003ca href=\"https://t.me/daycardat29\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمشیا\u003c/a\u003e عزیز بابت توسعه این ابزار \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB6.png\u0026#39;)\"\u003e\u003cb\u003e🫶\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-06-25T12:15:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/G2JwrLYKp1ecbgkWwClzbDXDXbNHmD-P6bjz3hZ09IvhsTXPslMlQm-aUwLGa9Udh_u9on1h5RqFOo4UAHOV4P0NOPvCngwvVwuKBLbC387FvzXX3XoA6SDRAWvZzp-LMe-P9OSiD0hGbhbzZSo-7Rzfp1sd3ryx_yCyCT8MetnHupKUKhaZhcgZ38QMOPqczT5Msc00s5vj5c8aFm2Vpiui9ocqcBmbzAHGh4uJQ9iC7AXZnOq2c4_sGzDmFBnDclP_rDFFEg0urh7vSg6sbbjZ2PcwFXNF_OzZuhxtS8jN8lqN9i75AnqueXN5zgnMIE4Y5tyAvAVvRMzucfbNPA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بتای مرورگر اوریون که برپایه وب‌کیت ساخته شده برای لینوکس منتشر شد که در قالب یک باندل فلت‌پک برای دانلود قرار دادن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://orionbrowser.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://orionbrowser.com/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمتاسفانه هنوز این مرورگر انحصاری هستش؛ ولی گفته شده در آینده قراره اون رو اوپن‌سورس هم بکنن.\u003cbr/\u003e\u003cbr/\u003eتکنولوژی وب‌کیت همون تکنولوژی هستش که سافاری اپل ازش استفاده می‌کنه و همینطور مرورگر گنوم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-25T14:03:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FaY7HjBGefTYryU9tWwiW99379DC2lityxb7Bd6ENsTQzggEG9g2FvNoSrovc0r6mz_n5efdmeHWCak0ymqj7b3mv9wfAf63f6oDvf0xy_ugVfil701VIwKE5g6qnRHaxQAubZlOEcpUWrgjGRfW3f53bv9YJq9Sq4Il0iM38wVEW8CYJpVUtsqzvSNkeRi9YYuWLoydIUlGO4NCwK04KK5XWeKnN5H_WE7zVnNm-PdbpDm7gqRkNMJQ-tdh2znTkdCvQtmqpKq8xNCZlYCdrjm04kNZ_KRRPXcRcyk2DNWQsa7NpVWcIIYGgWd2rmrLh3ku6D8RSKFim3IUk2FWVw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نگارش اولیه بلاگ کی‌دی‌ای فارسی در دسترس قرار گرفت.\u003cbr/\u003e\u003cbr/\u003eقرار است در این بلاگ درمورد راه‌های مشارکت، مشارکت در ترجمه و همچنین آموزش کی‌دی‌ای بنویسیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://kdefarsi.github.io/blog/kdefarsi-welcome/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://kdefarsi.github.io/blog/kdefarsi-welcome/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e",
       "date": "2026-06-25T14:49:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-06-25T18:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1250,
+      "views": 1270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +36,7 @@
       "date": "2026-06-26T14:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 949,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +54,7 @@
       "date": "2026-06-26T15:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +72,7 @@
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
+      "views": 2220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +90,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +108,7 @@
       "date": "2026-06-27T10:55:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +126,7 @@
       "date": "2026-06-27T12:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +138,7 @@
       "date": "2026-06-29T08:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +156,7 @@
       "date": "2026-06-29T09:21:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +168,7 @@
       "date": "2026-06-29T11:30:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +187,7 @@
       "date": "2026-06-29T16:06:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 985,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +205,7 @@
       "date": "2026-06-29T18:27:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +217,7 @@
       "date": "2026-06-30T13:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +236,7 @@
       "date": "2026-07-02T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 922,
+      "views": 968,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +248,7 @@
       "date": "2026-07-02T15:48:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +266,7 @@
       "date": "2026-07-02T20:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 647,
+      "views": 768,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,10 +274,41 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uj4_3D_NuqX_8jgN44qHu5RK7QHktVyaYDd9kPIxB48_TfdxveZ6YQe4D6w-PUfDTlKND9AmKS20yBHlI_GaNDidI8IBogQstjxIaEg17nLqd5JTu3blLuqEOEKmrpc4FetCueRp0mxGgWbVZB1WvVBQPn3iUPgIXmS2g3JHt3dP21zbn0sI5dwxm0BI9910jA3mDbCKhDqv1lfsyFAWinJBe1cnOl6lI7cnvkccTl4ngG4cJf2XWlRPzQU6ucrCGd4DvEx_FZg5en9a9bLjaqzPZbu9zgHj2uK8BKx81hD_uH5fvTPH3kC8KgbCchUt3QQm019GWlxmV8u7RdIehQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/RV8VwXvVyHZPlw7408Yagj8izPpBHc1_4F5bJ_SaCz3YmaNktz7YNpTDAoVInPMKmi7wgjf9DzK8Hgq11gW8BRo9kk7OAU-Ybo8wR9sNES4Jx_8OjInqd9NwmhYohe5V6zF-_4-zGk2s3-lAEFknvSFo2kLhodRnSyAmQh8wGTIfEB6bvazFku4LFFxp5FB6wLSLM_T9ptYc2YaYlDtCc-zuOxjrRPNjebGHcatYnP2jqaGODMQ3WwHme1c4ldQh5IUg0pVqWS1R-jM0Ti4HT2UP654vBL22PJFUg1Tt9_qhQYGAnWbV6shUqWYJZbnQPI77hNQgPUdPfXuohpMU9A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پارچ‌کاران درحال کارند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر سال‌های گذشته ما پورت‌های پارچ رو معرفی کردیم که هدفش بهبود و بهینه‌سازی پارچ برای کارهای غیر از استفاده از میزکار بوده.\u003cbr/\u003e\u003cbr/\u003eکه این پورت‌ها شامل پورت موبایل، پورت سرور، پورت آساهی، پورت ریسک پنج، پورت آرم می‌شدند که برخی از اون‌ها به ثمر رسیدند، برخی در پروژه اصلی ادغام شدند (پارچ گیمینگ) و برخی دیگر تا یک زمان نامشخص به تعویق افتادند.\u003cbr/\u003e\u003cbr/\u003eیکی دیگر از این پورت‌ها پارچ تی‌وی هستش که یک نسخه بهینه شده از پارچ برای افرادی هستش که می‌خواهند در خانه برای خودشون سیستم پخش شخصی‌سازی شده بسازند.\u003cbr/\u003e\u003cbr/\u003eاین نسخه با پلاسما صفحهٔ بزرگ توسعه پیدا می‌کنه و امکان این رو داره که با یک دکمه بتونید روش اندروید تی‌وی رو هم اجرا کنید و به سینماهای محبوبتون مثل فیلیمو و ... دسترسی داشته باشید.\u003cbr/\u003e\u003cbr/\u003eاین پورت هنوز درحال توسعس و به‌زودی اطلاعات بیشتری و همینطور یک نسخه آزمایشی ازش منتشر می‌کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-03T19:52:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SDj1rvxT3DeD5-D1S25uDF6dorA0CVNPWbhlrfyyBzQ03ffDpWRBgNu-FtAANYg__FHRpkUJzvR4ralniLwdGKacm4Cx92HikRScNQK-tWSs_AC8LdwVIkZjSuV_UYHq054WQAFBTZDQbqtYh9tRjFMASvpAJ0HIKX05y7RLWhi1wOokIHUdeLs9TBs9ZIe71s68K9mu7FjEG7Qq0B_7qenoHrx1TmZM_MmrgsvOQUvrtvgcZLmajlAc8Mpo2inIEvHoDDM2aYKW6XQXUKV5rT2TPfDoFU5oa0Pcj7c63eXWfDeOYb9UUa4IE_jZTAssr-XRZlmbFzD-OAVZ1uUD3w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "هیچ نظرسنجی در کانال من بی‌علت نیست؛ حالا جدای نظرسنجی\u003cbr/\u003e\u003cbr/\u003eبخش اندروید این موضوع رو شایان عزیز کمک کرد که بتونیم راهش بندازیم، اگر دوست داشتید می‌تونید در جامعه \u003ca href=\"https://t.me/bsdfarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبی‌اس‌دی فارسی\u003c/a\u003e شایان عضو بشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-03T19:54:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 229,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1783105335
+  "last_updated": 1783110990
 }
