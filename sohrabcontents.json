@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "ویرایشگر متن میکرو برای کارهای دم‌دستی و افراد تازه‌کار خیلی خوبه؛ چون از میانبرهای مشترک با اکثر ادیتورها استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003eمثلاً برای ذخیره ctrl + s و برای خروج ctrl + q.\u003cbr/\u003e\u003cbr/\u003eو از همه مهمتر اینکه پلاگین پذیره و میشه شخصی‌سازیش کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://micro-editor.github.io/plugins.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://micro-editor.github.io/plugins.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eروی بیشتر توزیع‌ها به اسم micro موجوده.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e# Debian/ubuntu\u003cbr/\u003e\u003cbr/\u003esudo apt install micro\u003cbr/\u003e\u003cbr/\u003e# Arch/Parch\u003cbr/\u003e\u003cbr/\u003esudo pacman -S micro\u003cbr/\u003e\u003cbr/\u003e# Fedora/Suse\u003cbr/\u003e\u003cbr/\u003esudo dnf install micro\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-26T15:22:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BKXEQc27uXFpI963Xo_f9_8JtVTARjFiueQbWe36G3veizDDg-Trxj3_-w0qu1kVlXK7-vx1BKDU9w1GFtRhDm8SFI_tISdUGHSsQwEi-ZYWRSPeG7GfSmV2bz4Ed-SfZdFOmypmDK_CUjFWuHFw4MLLoXQH6lYsE3NE5JgvahD0byO9dOej4FGgiu_SeG8zROvO_86J8G1rTAkZcHdf30SCh72Rb9P-evOuYN11DhDFKTptIAdhqxNRn1HxfFbALZc1kjbwon-XEFh4ty-Ft2VtNQzMLY9v63UufyiBzV9KQWZoNFlBwiEewzKhbFPqr3wCZ8WrBMOhqWhiDzw5eQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "دوستان کمربندهاتون رو ببندید دوباره یک آسیب پذیری توی کرنل از خانواده Dirty Frag پیدا شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html?m=1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html?m=1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-26T17:39:06Z",
       "edited": false,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nFVl4fhx9L3zVSNBCjVUntNFtL1y2eW3ELukJpuYAJNH2IBhpX5jsyToFHiBEn5cDdwXokiMANr6OBOhPbnHpTqeWZfBarK4NpLvgXq43OamgIAx9CbZatv1e4T0oZgQ8guvDhRs__P_Ehfw0vNOdEDFTCD2bTa9xM7MGD0w4cFH7V0r-8OvhIRS1YrwakJsDdUTixXJYXXOzg8LMqo0-cXnr3q49aWh4rj3-XBMExfW-ryEUs8unTHf_TsT0ivpCoY1DBmSXqnEilRXXGUIJosF8EOpGVPoUu3RDeJj6mlcrAU8iWMJVO57mQA1SrImy12BTKYs4gA5iPScRRc44Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/KjSPXFu0LWDUeJXrBJl58lnBShkhkJKihD4IP7VBiYulTKLG2v5PgVwLXCQM0lL7ztLY7DMWfzQhjfuTKp4UUQaZaPF8_83wPFxfCDXD0ddZm_FQMWKMNOH36kviw6-At6vdJ7I-CbI0J5zSLPjyTjHYCNb5GsaLoAC_x-0XepvoJm5-I0NV10zqOyjRw0srVNGzq5HJoQxbeQIxoZWx6_h7WgyNHJVkOkgYtkszUOiwjDhw8sOdc8BhdrXvks2NTbZMbZ9JcDfDAa9MxksgQa8qnpyM4YmopldQYqu53BALaqN_4boQ9Yt_nmgjUQ_CSiiUlfgBm_ebq1MXjWWVDA.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-06-26T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 1460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-06-29T08:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-06-29T09:21:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +108,7 @@
       "date": "2026-06-29T11:30:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1220,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +127,7 @@
       "date": "2026-06-29T16:06:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-06-29T18:27:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-06-30T13:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +176,7 @@
       "date": "2026-07-02T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +188,7 @@
       "date": "2026-07-02T15:48:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 962,
+      "views": 973,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-07-02T20:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "date": "2026-07-03T19:52:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 583,
+      "views": 618,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +243,7 @@
       "date": "2026-07-03T19:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 660,
+      "views": 697,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +255,7 @@
       "date": "2026-07-04T10:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 484,
+      "views": 555,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +267,7 @@
       "date": "2026-07-04T14:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 229,
+      "views": 360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +279,7 @@
       "date": "2026-07-04T15:02:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 198,
+      "views": 344,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +290,19 @@
           "url": "https://cdn4.telesco.pe/file/IRZNcIBolYuG6prxrJdozrnUy3wIvxLTJYC_2y8yPBnGAOKFaWPiT5C5pVdFL2cuM0Nh5OBq9bThTTt2P3YYRdchCiMSNTLtiiAGwub-5dLCHE7rUD1RXIGBWoZfAlOjEEyRkzpOTDlu7rF4CKjZBA4uu6dehpj0AWO-Y42hwVEq2yQ-SC8BMDzTRSL0sYh2nW_VzDreuQOaIfZZp2Xus1zB4HbAYO8Jb5FtVUi-iwI6Li6mHSY1YFb1l57faNzaciFp1-JGDaXkPBl_CUOieNVzyqDVMd-ysrELcOWbRX_jUzwGiUbupslDxhEFTxuKkja9uC9RZFqgI5qM-q2XDg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اپل هم مثل مایکروسافت یک کانتینر انجین برای مک او اس با سوییفت توسعه داده که روی مک او اس به صورت نیتیو بتونید کانتینر اجرا کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/apple/container/blob/main/docs/container-machine.md\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/apple/container/blob/main/docs/container-machine.md\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا من نمی‌دونم چقدر پایدار و خوبه نسبت به یک چیزی مثل داکر یا پادمن؛ مک هم ندارم تست کنم اگر کسی مک داره اینجا تستش کنه و بگه که چطوریاست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-04T16:07:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 212,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1783179569
+  "last_updated": 1783184082
 }

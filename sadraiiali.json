@@ -3,28 +3,16 @@
     "id": 0,
     "title": "AliReza SadraiiRad",
     "username": "sadraiiali",
-    "photo_url": "https://cdn4.telesco.pe/file/n9DRfzy9C2NYR0TKzPdA1VPYS-quDidtO5LWW6K7_LYdfz6HY49St26UNm4jWN2w2Nfj1pgIiPEr3dVbuICU7cNW-o3JTv4ZNFfgnFE32YvSxIuQeRM1mqOEdoCwq2RiAGXRn2gyOAgqM_Uy5pyx0XGxsND4MlGB0MhsVCLr_G_0Nu6LI-EuWo-2Py_-wdXJLsHZbBlTv1lx3qxJRa2oP9JPzff03roPv22abLyJofofsBscQBSb_THssnJ_Qm0iWQr25VkEILDj3Z7M6e7kRxS1RrWDkDyErKzCvy7pRtFiPt592wQU7ExSIMhiuwS3X3Vr65cKXysdRGjsEIF3sQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Z0AZYTM5qBTfWv6bm3ChTG88dIFBsara4r0TTXgc1l1HHbzVLvsfZMt5IEixw4uRON74oHdR0GkfqjWG48REvLv-AtTApUmRPrbYRuRGkP8phHKxWcnancABsDPzmcgAxZ-ABJxn8Mw588jkMLLJMcKB6LolW6QICDMCASFbpvnPwTJrf2qC6AUefOYDayyL7zhTgL-W-FlxRD2hAH2PCsL44etKczoi5oC4R_X3KoNYnH3mHA_g6_v9DNXfuOitKDWd8ayMrKpw-kPsumL6bE1Jgx5mmxpkm5F1jtsKU56pW76MjjXC6KJxeFVDShYtB-41Ohs1AqbozOccv4JLYw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "برای دوستانی که کمتر فنی هستند:\u003cbr/\u003e\u003cbr/\u003e- ابزاری های هوش مصنوعی جدیدی برای تست خودکار مشکلات امنیتی در سیستم ها ساخته شده که محقق ها و شرکت ها با استفاده از اونا مشکلات عمیقی رو دارن پیدا میکنن که بسیار خطرناک هستند.\u003cbr/\u003e\u003cbr/\u003e- خطرناک به چه معنی هست؟\u003cbr/\u003eبه این معنی هست که یک فرد با استفاده از این مشکلات امنیتی میتونه دسترسی بگیره به سرور ها به این معنی که میتونه اطلاعات رو در سرور ها پاک کنه یا تغییر بده. که بسیار خطرناک هست.\u003cbr/\u003e\u003cbr/\u003e- این اتفاقا داره خیلی خیلی سریع پیش میاد. هر رزو یه باگی از یه وری پیدا میشه. و براش یه اپدیت میاد رو سرور ها که بتونن مشکل رو حل کنن.\u003cbr/\u003e\u003cbr/\u003e- ولی خوب اینترنت هنوز قطع هست، سرور ها قطع هستند. حتی اگه سرور ها وصل باشن افرادی که اون سرور ها رو اپدیت میکنن قطع هستند و اینترنت ندارن که سریع با خبر بشن.\u003cbr/\u003e\u003cbr/\u003e- این مشکلاتی که داره پیدا میشه خیلی هاش خیلی پایه ای هست و ممکنه مثلا نیاز باشه شرکت ها سریعا یه یه اپدیت خودکار بدن به دستگاهاتون. \u003cbr/\u003eبعله ! شاید باورتون نشه ولی اکثر شرکت ها دسترسی پشتی دارن به دستگاه هایی مثل گوشی شما و میتونن بدون این که شما تایید کنین دستگاهتون رو از دور اپدیت کنن. \u003cbr/\u003eتو همچین مواقعی وقتی مثلا یه مشکل خیلی حساس پیدا میشه. اینکارو میکنن.\u003cbr/\u003e\u003cbr/\u003e- خلاصه. اون شرکتا که نمیفهمن که ایران اینترنت نداره. الان برای فروش محصول هوش مصنوعیشون دارن هی اوتومات باگ پیدا میکنن و ۳۰ روز بعد این که ریپورت کردن پابلیکش میکنن :) قاعدتا مثلا اگه چیزی تو اندروید پیدا کنن چند ماه گوگل ازشون میخواد که به کسی چیزی نگن تا درستش کنه و همه رو اپدیت کنن. ولی گوگل که نمیتونه گوشی های ایرانو اپدیت کنه مثلا!\u003cbr/\u003e\u003cbr/\u003e- خلاصه این قطعی اینترنت در این شرایط کم کم داره تبدیل به فاجعه میشه.",
-      "date": "2026-05-15T14:33:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 434,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
     {
       "id": 0,
       "message": "خلاصه هنوز همه چیز امنه. \u003cbr/\u003eبزرگترین مشکل/موقعیت هنوز اون باگ cpannel و لینوکس بود که چند وقت پیش اومد، که حمله کنندها میتونستن راحت وارد سرورا شن.\u003cbr/\u003eکلی از سرور ها آلوده شدن.\u003cbr/\u003eیه سری هم کلا اطلاعات رو پاک کردن.",
       "date": "2026-05-15T14:38:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 431,
+      "views": 432,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-05-26T15:20:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 461,
+      "views": 462,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-06-05T22:29:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 441,
+      "views": 442,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-06-07T21:22:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 343,
+      "views": 344,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-06-07T21:26:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 357,
+      "views": 358,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-06-08T06:12:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 362,
+      "views": 370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pbHGORIsqDV20j3mmSYaS-QjCMVPsStS0XICrS9hgkfNl3Di743IuZR-HskPPAkCOAj8aY2cRMcVgYQowTF5uwgFndtaInSyZPtHtcin-hf1CvDDFP4hhBuBP8QbjL-xmUQkpgzg-V8ubJM6tlxWxmroke0xAZgkBP_0FEpN3YMWExkq57ZT4wJjfgdkdfvPDlawdRro3S-tDnExsqg9xhp4bHv0vzGBGgcXeQ2EGqZcxNYUHiBR0UX5EminIJz8KvZJBxe-5ENeTPmkYGVJU_e9rGRwNfXx0IUARRDE3ER0YCnlOdvHABEkQHoLYFVfHjOsJmkyXGxTW1dv1BmsOQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/TpA8J19lkO_ufWkMXUR0s_M8fzAktltF02R2W864mRIajiDyF12BxMx-zsoBjnFoxRASiRsgq3YjR_KWq1PlAuSH5d1HMLKi7V1pqcEUm3YrfiMLVk4MhDS40nPKurKRMzvir8Qvt-jk4fcUcdde2Em7oIgZdHmzANLBoDIMSJ0h2qer4ZojoR3RQV00OgiMYkzeWIkN0K8ZieowthitXkF3mtV9qq--4s31Tb9swV5x53-8FNRrbyCBjGmyiKC0qeLAKTZqAWGOxTeEkZcQcyL-GnradSpTpqDo0YgcNSeXfU29SGK1rlDrG8ZMJ8L8K4NxYLaAbOCFSe1NrKUztw.jpg"
         }
       ]
     },
@@ -114,7 +102,7 @@
       "date": "2026-06-09T15:48:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 274,
+      "views": 283,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +114,7 @@
       "date": "2026-06-09T15:49:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 321,
+      "views": 322,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +126,7 @@
       "date": "2026-06-10T22:13:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 365,
+      "views": 366,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +138,7 @@
       "date": "2026-06-11T06:20:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 366,
+      "views": 367,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +150,7 @@
       "date": "2026-06-17T08:40:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 311,
+      "views": 313,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +162,7 @@
       "date": "2026-06-18T10:36:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 343,
+      "views": 349,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +174,7 @@
       "date": "2026-06-22T12:11:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 319,
+      "views": 321,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +186,7 @@
       "date": "2026-06-26T07:25:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 230,
+      "views": 232,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/EVFkqccllTVb-W0R8zT0yIPDQWDxtoyeHVhiUuasANINO50XXyfYJmk_76PZlSYN2XyCUudiOqHBX1hq3rJNgDtzU9eezZPe2gOv1NMxWNdI2-L_CTmZmohWo2DCQP2c9rD2MBCFChbaKAYCVsnLvpKYvSCMuZtiyw1KsvDHAc0E9juE_oroeLtIaMsICv4voR09QCM1AUF2Gm8lrE2CfPgxzdnRl9_FSBuMNP-Q6bPcmAuwz5HZOKkAQucWOO2Pr-tAxmQHwbbHzOzA_n0xqNSNMYZeDxYcqdCsfHm68pV8MlhoozFncVShX2IkgL3C4jWL5jn73zSvcHNbh21RLw",
+          "url": "https://cdn4.telesco.pe/file/pfxlSKQBFTLU2rUdWq5jOv5BX1dgykbbT7h05xhGKVhDt6qENgN-B4205muqhVWvSe9GbgfUn9e0NKpOxp9ZgsoTZwDdR8JPzH_Rg-3RgTDvUllBMvvxPrlijruXfI-8IT19d1f0Tn5nw_7ysVxzuLtMZR121djAMNALhDSZAoIqT2FItq2uQJPuVY46_97b3l39SKF-CSg9qjHD9Z389K8B4wjebJwe6ENqAlBVpztrRraMGNsQQ8ibphJddqnRVS47hN-8FhELd4MaP4LxTiGJt9vfQwC2E7Lf6WyICjzCDkvuSJP0su0Q6DRsV_1I_DzVI2bNJYgQXIb0sssDFA",
           "width": 480
         }
       ]
@@ -217,7 +205,7 @@
       "date": "2026-06-27T16:48:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 198,
+      "views": 205,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +213,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BRfD6ufZI3wjesybTKyL164RDS4gixicuHRJq3p2D5AgdA51t06UR6QboMtJVeU_Ohi2bglVv-wzPWOBjsUf4_CAJBr15LGp6mZXrSQtintst4vuUV8Dx0HNvIauRK5oZPA9JXHe5ydBiETqXnW81Z0QXV46GmUImBVPyUCiqH7abhN9cSoIPFGs2LiDvX_zW9XssUQU9_0VZUV4T2IxcmaniAsH2zuoKnr3yA0Zjg2UH06lTJ-A_PllDn9Wm04XuIBQ8c4Zvh-w-VHTf3B0MAlOegJfek9Trt8Nxu67ErH_n8M69i2w6P6D9QJXTglOBr0QvKFWCfe65cpnMbK5Xw.jpg"
+          "url": "https://cdn4.telesco.pe/file/lBHRfqt9NHwUV027hqiCL905UFCmImEKQ3CvwxaFwFvXE7fPJl7hOSJr3Fud9_yylT4srWJctJ3LnqW8tevSX0oM7Tb3nUOZNisakCthYwIFeKu8LPyaRLRsRm0z2PG6PIRWMMuMrcTalAyH1YnWxs6zl1oyk4nOCML6yjfstx-f7yd_4KyL2lgrGd_xyB4g5d2G6IDG7taE1Dp7osYsM6jgcETCcRWFQym5AyaUXu5u5c3IzHCLcSXJS-Of0GhXN9vrZePpz_WoO8CfwgGxJ6ldwL9MYHbHFetCE8TDeUCrgBdp2DsGWmUwaRBO8oxf2x0a2Lz_AemGMpx1VeWAog.jpg"
         }
       ]
     },
@@ -235,7 +223,7 @@
       "date": "2026-07-01T13:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118,
+      "views": 127,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +235,7 @@
       "date": "2026-07-01T20:19:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108,
+      "views": 112,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,12 +247,30 @@
       "date": "2026-07-01T20:21:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 111,
+      "views": 115,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://gitfut.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://gitfut.com/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eیه ابزار باحال عه برای این که از اینا بسازین برای گیتهابتون.",
+      "date": "2026-07-04T16:22:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 29,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/m7bGAqLSPmGwdgbbMDImgt5ESMeHh6MuMtJLVEx9kfEpAnXtPvav_2LTkQbm0XGlP4_s7dW8PcrDw1_Zg7UttAlZgOUsqhnDzZ52fv6TbOJEx3zPTLP2_L9RGt2VAuy4FA3RjYWsgjx1r0sisg6yCQHJJGTqjw_UFZU_oHuTAvpmlZ3nM-1AmlBlo3WCyIWllS1lTn807Xp66KWYM1GIpagux67hquvadgngerLJv-0g0qXlXbyLv6esb27fhvgRRd7cOQpaLl_qdWwOv0B7g9YRvVLZT4xU5cCjy4aDqDUDcnwcrrOiGy7GZ9MbmX_P_h5A7DXV-5U0EUlPCxK_1g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783179576
+  "last_updated": 1783184090
 }
