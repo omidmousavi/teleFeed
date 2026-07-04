@@ -5,6 +5,265 @@
     "username": "fr33c0nfig",
     "photo_url": "https://cdn4.telesco.pe/file/TGJ50BFQODoQxjfc1_3UkiRe-F4WUuQ2Ozm-5tmg3uK7afSZt058SWAxCgEWuTVzJWKh3n3sisV8-z1g81V8LUv5GqwGpxNKGRDoTNCW4yJjOEvfcrScZwKyy9c3TPcGKeMkfcXw7_lTBq-YHwlSsYx6hM0XSFF7vAVVdQCFKmkW-gdNM67qwk0xD4gDfhOmoIvUB4hU-GcSPFJImE2zBXi1s3kLtEiJGh0Ot6_2Lb1Q98mDu3qUi_99MIpqaUc8Bl6pux_71sI81kqdu6etPNC1d1lNdTt2Z9PvjR2RNUVE9Abg3jHmd2etEbU2Zp1flhK8Ii6auYSsRsgVAdrAVw.jpg"
   },
-  "posts": [],
-  "last_updated": 1783123209
+  "posts": [
+    {
+      "id": 0,
+      "message": "اینترنت را مجانی کردیم برا قشر غارنشین\u003ctg-emoji emoji-id=\"5945057700642560115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90B8.png\u0026#39;)\"\u003e\u003cb\u003e🐸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-05-30T11:31:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5947235249061631414\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گفته میشه روند اتصال اینترنت دیتاسنتر‌ها شروع شده و اگه درست باشه تا چند روز آینده وضع اینترنت بهتر میشه\u003cbr/\u003e\u003cbr/\u003eپ.ن : فععععک نکنم\u003ctg-emoji emoji-id=\"5920167338665057705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5785209342986817408\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-05-30T14:55:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "الان رو فستلی خیلی از سایتها رو باز کردن، سایفون از فستلی هم میتونه برای اتصال استفاده کنه، کافیه تو اپ شیرو خورشید برای اندروید یا se7en pro برای ویندوز (یا کانفیگهای mitm+psiphon)یک دامنه سفید پشت فستلی قرار بدید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.githubassets.com/\" target=\"_blank\" rel=\"noopener\"\u003egithub.githubassets.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://docs.github.com/\" target=\"_blank\" rel=\"noopener\"\u003edocs.github.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://www.fastly.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.fastly.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://pypi.org/\" target=\"_blank\" rel=\"noopener\"\u003epypi.org\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://repo.almalinux.org/\" target=\"_blank\" rel=\"noopener\"\u003erepo.almalinux.org\u003c/a\u003e\u003cbr/\u003e...\u003cbr/\u003e\u003cbr/\u003eبرای ip هم هر دامنه ای که قرار دادید ازش ping بگیرید و ip که بهتون دادو قرار بدید، دقت کنید ip و sni باید مچ هم باشن یعنی هر sni که قرار دادید ip همونو باید وارد کنید.\u003cbr/\u003e\u003cbr/\u003eهم به دلیل محدودیت های سایفون و هم به دلیل تعداد بالای کاربران سرعت متوسطی بهتون میده این روش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-05-30T14:56:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "بامداد امروز سیگنال تمام اپراتورهای تلفن همراه و همچنین تمام سرویس‌دهندگان اینترنت خانگی بصورت همزمان در شیراز و چند شهر دیگر استان فارس، همچنین شهرهای خط ساحلی جنوب کشور در حدود ساعت ۲ صبح به مدت تقریباً ۲۰ دقیقه “کاملاً قطع” شد. به عبارت دیگر هیچ دستگاه تلفن همراهی آنتن نداشت، هیچ وای‌فایی متصل نبود و هیچ امکانی برای ارتباط حتی با شماره‌های اضطراری میسر نبود.\u003cbr/\u003e\u003cbr/\u003eقطع برنامه‌ریزی شده جهت یک اقدام امنیتی، تست زیرساخت، حمله گسترده سایبری یا مسائل مرتبط به جنگ الکترونیک؛ مشخص نیست در آن ۲۰ دقیقه چه رخ داد!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-02T09:04:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5215685881989442149\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eلینکدین رفع فیلتر شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشبکه اجتماعی لینکدین پس از بازگشایی تدریجی اینترنت بین‌الملل، بدون نیاز به فیلترشکن در دسترس کاربران ایرانی قرار گرفت.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-02T14:20:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/h00CK12biYM2ot221yNeNy2S-nqCaEcZJAi4AC9_Gp-P96QS-tO1foF4413CwWzupPhK0saE8B1ac2qYFLbnub9qQz9Sm3gofZY89maRkORzTHtDczB1B1UTCB6bqD6On65dA_qel6tAJ1cANpHjEfnvrv0HLm3LhRZr-zPb1QqajmypOoz89yB9IzC_0wXo1-myt87XiIT1zdusnLG61NHJHXhNSa0MuJdde9TOT9BIa3hh1W_XQJiPtqSMQ98UfN5HboQwKiZ5EzMqJbTwjBDgmGp5xHjy0yZoXP6wS-M5kKyAmjuneUD6X8eFWeadjbDYeWeNe8Suojqkb62gxw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eلیست زیر تهیه شده از VPN های متصل بر اساس گزارش کاربران .(هیچگونه اطلاعاتی راجب امن بودن این اپها دردسترس نیست، و صرفا برای اتصال به شما کمک میکند\u003c/b\u003e).\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eVerde VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل، رایتل\u003cbr/\u003eسیستم‌عامل: اندروید ،‌‌آیفون\u003cbr/\u003eمزایا: روی همراه اول راحت وصل می‌شود.\u003cbr/\u003eمعایب: روی رایتل ناپایدار، روی ایرانسل با قطعی.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eJump Jump\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل، مخابرات\u003cbr/\u003eسیستم‌عامل: آیفون، اندروید\u003cbr/\u003eمزایا: اتصال خوب، پرتکرارترین گزارش مثبت، اتصال بهتر با ایرانسل\u003cbr/\u003eمعایب: برخی کاربران از احتمال مشکل برای اپل آیدی گفته‌اند، اتصال برای همراه‌اول بسیار ضعیف و تقریبا غیرممکن\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eBD Net\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل، مخابرات، رایتل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: اینستاگرام و تلگرام را خوب باز می کند گاهی، روی همراه اول عملکرد خوب.\u003cbr/\u003eمعایب: گاهی نیاز به تنظیمات خاص و تغییر سرور مناسب منطقه شما.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eLineVPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: سرعت خوب، اتصال پایدار.\u003cbr/\u003eمعایب: بسته به منطقه متفاوت است.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eHot VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: اتصال نسبتاً راحت.\u003cbr/\u003eمعایب: پایداری متوسط.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eNext VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: آیفون\u003cbr/\u003eمزایا: عملکرد خوب روی هر دو اپراتور.\u003cbr/\u003eمعایب: گزارش کمی از اندروید وجود دارد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eAmnezia VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: ایرانسل، مودم\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: با کانفیگ اختصاصی خوب جواب داده.\u003cbr/\u003eمعایب: نیاز به کانفیگ.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eX VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: ایرانسل، مخابرات\u003cbr/\u003eسیستم‌عامل: آیفون\u003cbr/\u003eمزایا: روی ایرانسل و مخابرات وصل شده.\u003cbr/\u003eمعایب: روی همراه اول ضعیف‌تر گزارش شده.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eSoren VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: ایرانسل، رایتل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: گزارش‌های موفق متعدد.\u003cbr/\u003eمعایب: گزارشی از آیفون وجود ندارد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eViva VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: آیفون\u003cbr/\u003eمزایا: چندین گزارش مثبت.\u003cbr/\u003eمعایب: اتصال منطقه ای و گاهی ضعیف.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eAM Tunnel / AM Tunnel Lite\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: اتصال راحت، تلگرام را خوب باز می‌کند.\u003cbr/\u003eمعایب: اینستاگرام گاهی مشکل دارد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003ePsiphon\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: مخابرات، همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: وصل می‌شود.\u003cbr/\u003eمعایب: سرعت پایین.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003ePotato VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: آیفون\u003cbr/\u003eمزایا: اتصال موفق.\u003cbr/\u003eمعایب: اتصال منطقه ای.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eTom VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: عملکرد خوب طبق گزارش کاربران.\u003cbr/\u003eمعایب: اتصال منطیه ای.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eFly VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول، ایرانسل\u003cbr/\u003eسیستم‌عامل: آیفون، اندروید\u003cbr/\u003eمزایا: روی هر دو سیستم‌عامل خوب جواب داده.\u003cbr/\u003eمعایب: معایبی گفته نشده.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eTorob VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: گزارش مثبت.\u003cbr/\u003eمعایب: گفته نشده.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eMxTunnelPRO\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: عملکرد خوب.\u003cbr/\u003eمعایب: گزارش محدود.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eShir o Khorshid\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: بعد از صبر در نهایت وصل می‌شود.\u003cbr/\u003eمعایب: چند دقیقه زمان برای اتصال.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eTunnel Guard VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: ایرانسل\u003cbr/\u003eسیستم‌عامل: اندروید\u003cbr/\u003eمزایا: سرعت بالا، اتصال موفق.\u003cbr/\u003eمعایب: فعلاً گزارشی از مشکل خاصی وجود ندارد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eErgo VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: نامشخص\u003cbr/\u003eسیستم‌عامل: نامشخص\u003cbr/\u003eمزایا: گزارش مثبت.\u003cbr/\u003eمعایب: اطلاعات بسیار کم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003ePlato VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: نامشخص\u003cbr/\u003eسیستم‌عامل: نامشخص\u003cbr/\u003eمزایا: گزارش مثبت.\u003cbr/\u003eمعایب: اطلاعات بسیار کم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eViking VPN\u003c/b\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاپراتور: همراه اول\u003cbr/\u003eسیستم‌عامل: نامشخص\u003cbr/\u003eمزایا: اتصال موفق گزارش شده.\u003cbr/\u003eمعایب: اطلاعات بسیار کم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eبهترین‌ها بر اساس تعداد گزارش مثبت\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eهمراه اول: \u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eJump Jump، BD Net، Fly VPN، LineVP\u003cbr/\u003eN\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eایرانسل\u003cbr/\u003e: \u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003eJump Jump، BD Net، Fly VPN، Tunnel Guard VPN، Soren \u003cbr/\u003eVPN\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eآی\u003cbr/\u003eفون:\u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003e Next VPN، Jump Jump، Fly VPN، Potato VPN، \u003cbr/\u003eX VPN\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eان\u003cbr/\u003eدروید:\u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003e Soren VPN، LineVPN، Fly VPN، MxTunnelPRO، \u003cbr/\u003ePsiphon\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eم\u003cbr/\u003eخابرات: \u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003eX VPN \u003cbr/\u003e، Psiph\u003cbr/\u003eon\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eرایتل: \u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003eSoren VPN \u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e، Verde VPN\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-02T16:31:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "300GB\u003ctg-emoji emoji-id=\"5041845079229072486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BC.png\u0026#39;)\"\u003e\u003cb\u003e🔼\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003evmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2Iiwic2N5IjoiYXV0byIsInBvcnQiOiIyMjMyNCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJwcyI6IkBmcjMzYzBuZmlnIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AifQ==\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-02T17:11:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدسترسی به اسپاتیفای بدون vpn ممکن شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبررسی‌ها نشان می‌دهد دسترسی به سرویس پخش موسیقی اسپاتیفای (Spotify) بدون نیاز به استفاده از VPN امکان‌پذیر شده است. \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-04T09:35:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "بوی روبیکا و بله و ایتا میاد مجدد",
+      "date": "2026-06-07T19:01:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eبا کانفیگ‌فروش‌هاتون مهربون باشید، چون هر لحظه ممکنه نت رو قطع کنن\u003c/b\u003e",
+      "date": "2026-06-07T19:15:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "کانفیگ فروشا اکثرا دنبال قطعی اینترنت هستن\u003cbr/\u003e\u003cbr/\u003eاما شرایط رو اگر بسنجین قطعی رخ نمیده\u003cbr/\u003e\u003cbr/\u003eجنگ حاضر محدود به چند تا پاسخ و تمام میشه\u003cbr/\u003e\u003cbr/\u003eاز طرفی ترامپ وارد میدان نشد\u003cbr/\u003eو \u003cbr/\u003eطرف دیگه جام جهانی در پیش هس",
+      "date": "2026-06-08T11:23:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "مردم بیشتر از جنگ، از قطع شدن اینترنت میترسن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-08T13:49:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "ترامپ: امشب خیلی محکم میزنیم ولی حواسمون هست آتش‌بس نقض نشه.",
+      "date": "2026-06-10T19:03:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/FRAGMENT\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/FRAGMENT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/splitted-by-protocol/vless.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/splitted-by-protocol/vless.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub2.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub2.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub3.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub3.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/subscriptions/all.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/subscriptions/all.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/mfuu/v2ray/master/v2ray.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/ss\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/ss\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/trojan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/trojan\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/hysteria\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/hysteria\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/other\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/other\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/vmess\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/vmess\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://mifa.world/vless\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mifa.world/vless\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیشنهاد خودم:\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/ThomasJasperthecat/sub/main/sublist1.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/ThomasJasperthecat/sub/main/sublist1.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://sub.iampedi5.live/sub/base64.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://sub.iampedi5.live/sub/base64.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://sub.whitedns.one/sub/mihomo.yaml\" target=\"_blank\" rel=\"noopener\"\u003ehttps://sub.whitedns.one/sub/mihomo.yaml\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://main.pythash.tr/FRkh99yBGCllN/01736620-2086-4c0b-a86e-52ebfe64dd12/#pythash\" target=\"_blank\" rel=\"noopener\"\u003ehttp://main.pythash.tr/FRkh99yBGCllN/01736620-2086-4c0b-a86e-52ebfe64dd12/#pythash\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://c6et83fe1u99lr8j5w4s9iwik9565bqx.pages.dev/sub/fragment/g4lWgI*%40zehfoOEK?app=xray#%F0%9F%92%A6%20BPB%20Fragment\" target=\"_blank\" rel=\"noopener\"\u003ehttps://c6et83fe1u99lr8j5w4s9iwik9565bqx.pages.dev/sub/fragment/g4lWgI*%40zehfoOEK?app=xray#%F0%9F%92%A6%20BPB%20Fragment\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/AmyraxVPN.txt\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/AmyraxVPN.txt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلیست بروز میشود\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A8%D8%B1%D8%A7%DB%8C_%D9%87%D9%85%D9%87_%DB%8C%D8%A7_%D9%87%DB%8C%DA%86%DA%A9%D8%B3\"\u003e#اینترنت_برای_همه_یا_هیچکس\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-14T11:08:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eکافیه لینک ساب رو کپی کنید و import کنین و طبق مراحل پیش برید هر ۱۵ دقیقه اپدیت میشه کانفیگا هر موقع ایپی فیلتر بشه از جدیدا میتونین استفاده کنین \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5834880742844272342\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eتوی تمامی کلاینت ها میتونین استفاده کنین پینگ نگیرین وصله\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5814669863699878746\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eبقیه ی \u003c/b\u003eبرنامه\u003cb\u003e ها هم میتونین اتو اپدیت رو روشن کنید و تایمشو بزارین روی ۱۵ دقیقه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-14T11:09:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TbY20Xk4jJEYVHEinsjqv_ejZt_n1ZY0UvJH8FUets2diqgZ8R8NAdUlNM5Mh-5PSHyH7wTUS37P4ThfvZhV-jLSWPHfCNdhTVJjGIPA0ADKxXF2tGpSoXpK-OkYyVfid4IhIM6pDZPtudJRMDMvua_Ns3AEmrj-eYfbiv7js2yGhGZFKEIn6VDjHXqfaq84HbHrxx8UcJcuLoSPylC-jWMutoTl3ldm1LlhiZwx6rvXYYhfVvVxXi4vpcibFGaWmPxDetoayXzFra-qQVulS6m6SuIpqEMEPL7ajtWelKvldPCn29Jrm1rGfXtXBkfq-imqQC8GWn0i-ZEl-AVbmw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/Fr33C0nfig\"\u003e\u003cspan dir=\"auto\"\u003eاینترنت آزاد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F958A.png\u0026#39;)\"\u003e\u003cb\u003e🕊️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003e\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/…\u003c/span\u003e»",
+      "date": "2026-06-14T11:10:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5202107935588626965\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهمراه اول بسته شبانه ویژه گیمرها معرفی کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5764642380988817099\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چند روز اخیر، بسته‌های شبانه یک‌باره حذف شدند و مشخص شد که اپراتورها به دنبال جایگزین کردن بسته‌های جدید بودند. همراه اول از بسته ویژه‌ی گیمرها رونمایی کرده که از ساعت 1 بامداد تا 7‌ صبح قابل استفاده هستند:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5970045352219253676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بسته 100 گیگابایت 30 روزه با قیمت 49 هزار تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4926956800005112527\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بسته 200 گیگابایت 30 روزه با قیمت 69 هزار تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5970045352219253676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بسته 300 گیگابایت 30 روزه با قیمت 99 هزار تومان\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5983074122626765336\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با شماره‌گیری این کد می‌توانید بسته‌ها را فعال کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5780403162913444711\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B0.png\u0026#39;)\"\u003e\u003cb\u003e🔰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e *1000*2521#\u003cbr/\u003e\u003cbr/\u003e• \u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-14T17:27:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e روزانه 10 گیگ کانفیگ رایگان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA0.png\u0026#39;)\"\u003e\u003cb\u003e🟠\u003c/b\u003e\u003c/i\u003e\u003cb\u003e پنل BPB کلودفلر\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبا جیمیل لاگین کنید\u003cbr/\u003e\u003ca href=\"https://dash.cloudflare.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dash.cloudflare.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e در ویندوز نرم افزار BPB Wizard رو دانلود و باز کنید\u003cbr/\u003e\u003ca href=\"https://github.com/bia-pain-bache/BPB-Wizard/releases/latest/download/BPB-Wizard-windows-amd64.zip\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bia-pain-bache/BPB-Wizard/releases/latest/download/BPB-Wizard-windows-amd64.zip\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eعدد 1 رو تایپ کنید و اینتر بزنید (اجازه لاگین در کلود بهش بدید)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eلاگین که شد بیاید تو پنجره برنامه گزینه 1 رو بزنید و ورکر بسازید\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eتمام سوالات رو بدون تغییر اینتر بزنید و آخرش y رو تایپ کنید\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eپنل که باز شد رمز دلخواه ثبت کنید و لاگین کنید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003cb\u003eتنظیمات پنل \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci\u003eCommon\u003c/i\u003e:\u003c/b\u003e\u003cbr/\u003e ipv6 رو خاموش کنید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eVLESS - Trojan:\u003c/b\u003e\u003cbr/\u003e- در بخش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e Protocols تیک گزینه Trojan رو حذف کنید\u003cbr/\u003e- در بخش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9493.png\u0026#39;)\"\u003e\u003cb\u003e🔓\u003c/b\u003e\u003c/i\u003e non-TLS Ports تیک عدد 80 رو بزنید\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5316827280863934685\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بیاید پایین و گزینه Apply رو بزنید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6255793039705377676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e دریافت کانفیگ ها در بخش Subscriptions :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e- گزینه Raw (without settings) رو بزنید و دکمه کپی رو بزنید \u003cbr/\u003e- لینک ساب رو در v2ray وارد کنید (میتونید لینک رو باز کنید در مرورگر و کانفیگ هارو کپی کنید)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6296367896398399651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-19T13:54:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NYv1YpF9tOmZrbSPqmt1pvnLmgJQG_l233zNijxRFa10kkt6hkQEWD4HUIvgEvMv_9rrKEg2S4iY6Cw2nCcXovN-71P3v7FG43kbIsHPBQwnB_F0iSJNZ59uwAOgKNaXBfSmeofaGnjUvG5ErgKkqikJSJbHt7JgtPdnlHm-x03gIuGUHWClkywrAJzIw7Lgl2xrJzUBCEzTJEzgnpNO35mt1xDIa0QWitU9m1Y18rR4P7TqrIMlxlFQObgAAglvF8wSOfxnVQL99JsLuYetv56EgRia2E7HFiW9EzXrkL3YtCQr76dj35DUWnSXqh8_qF6q4dXHAbazZfxV0w8OMA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تعدادی کانفیگ رایگان \u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none\u0026amp;type=ws\u0026amp;host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev\u0026amp;path=/?u%3D3e3fff3b5b\u0026amp;security=tls\u0026amp;fp=random\u0026amp;sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#Nova-cf2rxo\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.155.247:8443?encryption=none\u0026amp;type=ws\u0026amp;host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev\u0026amp;path=/?u%3D3e3fff3b5b\u0026amp;security=tls\u0026amp;fp=random\u0026amp;sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#Nova-i64qk5\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://fdb12587-1c15-4883-8d7a-9894641e183c@nova-mango-vault-2e63.wolf-fbi-red.workers.dev:443?encryption=none\u0026amp;type=ws\u0026amp;host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev\u0026amp;path=/?u%3D3e3fff3b5b\u0026amp;security=tls\u0026amp;fp=random\u0026amp;sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#fr33c0nfig\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-26T20:22:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    },
+    {
+      "id": 0,
+      "message": "10 GB FREE V2RAY\u003cbr/\u003e10 گیگ یکماهه\u003cbr/\u003eVeilora VPN Dashboard\u003cbr/\u003e\u003ca href=\"https://my.veilora.net/#/register\" target=\"_blank\" rel=\"noopener\"\u003ehttps://my.veilora.net/#/register\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا \u003ca href=\"https://t.me/vpn_proxy66/12663\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eایمیل فیک\u003c/a\u003e  ثبتنام کنید وریفای کنید\u003cbr/\u003e\u003cbr/\u003eاز قسمت کانفیگها لینک ساب رو کپی کنید و در کلاینت مورد نظر خودتون استفاده کنید\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e(از آپ خودش و رباتش استفاده نکنید)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/fr33c0nfig\" target=\"_blank\"\u003e@fr33c0nfig\u003c/a\u003e",
+      "date": "2026-06-28T15:12:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اینترنت آزاد 🕊️✌🏻"
+    }
+  ],
+  "last_updated": 1783133568
 }
