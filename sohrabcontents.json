@@ -8,90 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بچه‌های دفیکس بالاخره نسخه لینوکس رو دادن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/UnboundTechCo/defyxVPN/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttp://github.com/UnboundTechCo/defyxVPN/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-27T10:55:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OZVMuD0PJZ-tsX9B6etlYYsdrIBcdlwXVb6aSB32AMYt8FTJPO4JKzNqU-gk1PPkCWh1eXotB2WtYYfeK2BpHsDt3oKLaVR6bLbev-l-EN_QYbojRA9-j-UogCvzNr7wUe2Job87OvflZSD4InPJCNW5L6aw2g-qTHHzpztNKUSi47DzSLzJoSx5C0lyBQwKt4M0kpCpMiiTNxB-aJxQcu-k5MNMNxafnVydezcLKd7akaAe-Z8ep0_-9vG1ValuF_2UtjMVnCNaFlB2ddErTxW2I2u4DuOFxq-Jbx_3HwEEDAR6icrbsK-Rja21nIJRxxtIc1HvtIveqqetfvhBqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان اگر مشکلی داشتید در اجرای نسخه لینوکس برای اینکه بدونید مشارکت در پروژه‌های اوپن‌سورس به چه صورت هستش برید و مشکلاتی که دیدید رو بجای اینکه توی کامنت‌های کانال من بگید، براشون ایشو کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/UnboundTechCo/defyxVPN/issues\" target=\"_blank\" rel=\"noopener\"\u003ehttp://github.com/UnboundTechCo/defyxVPN/issues\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینطوری هم به رشد پروژه کمک بیشتری می‌کنید، هم مشکلات راحت‌تر پیگیری می‌شن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-27T12:46:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "مدیربسته گرافیکی Shelly به مخزن world اضافه شد و در رلیزهای آتی جایگزین Gnome Software Center و Plasma Discover خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب shelly برروی پارچ می‌توانید از دستور زیر استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S shelly\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-06-29T08:25:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ayJ8ZFrjdHpb6RacWTnt9bNqO8vXS-9BY7j7kcbR27JlDBUh7ErnkQ2qNr0KTNRdrAXLdpDLb4ynUCI033ipGMyhdrpgi7MyPx8vfnLqoR04KLBEJhEOdsPfdVabSk9nH-EExZRl1Gsku1-r8T4H33wyz9N53ISyL6Nn94o0zAu9xEMU9puWoLwNMRDciYsByYIYEeNeW7gR1SyM35gXs302xt5jEq0Q-OmXXMFkvBbPasfewXO2lFUtHv5qj1vKrUix_DetlNZpg1p6l8IqfitYKD6Y9kjtfj2mYcGc10_mPCDzJcY0D2vOrjOOJdi6tJ_ynPJEky8uk2dX9otv2w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eیک خبر عالی برای کاربران انویدیا در راه است!!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکی‌دی‌ای در حال توسعه پلاسما ۶.۸ است که اواسط ماه اکتبر منتشر می‌شود و یکی از مهم‌ترین تغییرات آن، فعال شدن پیش‌فرض قابلیت بافر سه‌گانه یا همان Triple Buffering در KWin برای گرافیک‌های انویدیا است.\u003cbr/\u003eاما این قابلیت دقیقا چه کار می‌کند و چه فایده‌ای دارد؟ در حالت عادی گاهی اوقات کامپازیتور سیستم نمی‌تواند فریم‌های آماده شده توسط کارت گرافیک را دقیقا با سرعت نوسازی مانیتور شما هماهنگ کند. این ناهماهنگی باعث می‌شود هنگام کار با دسکتاپ یا جابه‌جا کردن پنجره‌ها، نوعی پرش تصویر یا لگ خفیف را احساس کنید که به آن استاتر می‌گویند.\u003cbr/\u003eبافر سه‌گانه با اضافه کردن یک فضای ذخیره‌سازی موقت سوم برای فریم‌ها، این مشکل را حل می‌کند. این کار به سیستم انعطاف‌پذیری بیشتری می‌دهد تا فریم‌ها را به صورت کاملا روان و بدون تاخیر به مانیتور تحویل دهد.\u003cbr/\u003eزاور هوگل از توسعه‌دهندگان کی‌دی‌ای تایید کرده است که تمام باگ‌های قبلی این قابلیت برطرف شده‌اند. این یعنی در پلاسما ۶.۸، کاربرانی که از کارت گرافیک انویدیا استفاده می‌کنند بدون نیاز به هیچ تنظیمات اضافه‌ای، یک تجربه دسکتاپ بسیار روان‌تر و لذت‌بخش‌تر خواهند داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://linuxiac.com/kde-plasma-6-8-to-enable-triple-buffering-by-default-for-nvidia-gpus/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://linuxiac.com/kde-plasma-6-8-to-enable-triple-buffering-by-default-for-nvidia-gpus/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e",
-      "date": "2026-06-29T09:21:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "قصد دارم به مرور برخی از اسکریپت‌هایی که برای سرگرمی نوشتم رو پابلیک کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیکی از اون‌ها رو که امروز توی گیت‌هاب گذاشتم اسکریپت mkappimage هستش که روی توزیع‌های آرچ بیس از یک برنامه نصب شده به همراه کتابخونه‌های موردنیازش یک پروندهٔ appimage می‌سازه که می‌تونید با خودتون حمل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/scripts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/scripts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-29T11:30:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MRWtHlWZOKHSlFGUxeh2iFkSj_QsoakwGWAAn8TGvdbImZPzdjrK93TJush4ZaTWitgO8YkfwOid0p0Lma3-skiBSvqnalC6oQpE266_fOC4_TDU9bGk65uyo7P87Ix-riuhqSXBPvhD6aOOduGL4S71zo-mOfFoO0IZvif-oBdghtPfmqHMrir4I1X8zvOUFFo5opOej04JUIPikDUBd19lFnIep2jyCIZLTsCp4r2kwAUPVDSkOe_yNKc6iGfEvi9epi32HLWf3SYuaRHitrzpyd7THShY-gKJq9t_297-oO95IcdLgAEQeYb1B3xwwNBA3kgRsPnC5C3dfYtf6g",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "آموزش کار با مدیربسته shelly را می‌توانید از یوتوب و پیرتوب پارچ مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://youtu.be/8FDaHsKfKuI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/8FDaHsKfKuI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-06-29T16:06:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +30,7 @@
       "date": "2026-06-29T18:27:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1540,
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +42,7 @@
       "date": "2026-06-30T13:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +61,7 @@
       "date": "2026-07-02T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +73,7 @@
       "date": "2026-07-02T15:48:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +91,7 @@
       "date": "2026-07-02T20:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 948,
+      "views": 961,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +109,7 @@
       "date": "2026-07-03T19:52:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 722,
+      "views": 745,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +128,7 @@
       "date": "2026-07-03T19:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 803,
+      "views": 818,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +140,7 @@
       "date": "2026-07-04T10:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 744,
+      "views": 774,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +152,7 @@
       "date": "2026-07-04T14:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 650,
+      "views": 693,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +164,7 @@
       "date": "2026-07-04T15:02:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 684,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +182,7 @@
       "date": "2026-07-04T16:07:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 674,
+      "views": 733,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +194,7 @@
       "date": "2026-07-04T20:39:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 601,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +206,7 @@
       "date": "2026-07-04T21:55:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 477,
+      "views": 615,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +217,69 @@
           "url": "https://cdn4.telesco.pe/file/ObiVoOmRyITY48cGFIxMv-M4W4so5U00ocFYX07LJErLHbXmV4cHDfgI_sgDmNOkWi7AMnStwp3B16kEHFJhE1AMaCbblUjV9e6v6mbsCkDpxqtPLZhO8Gi-njeJLorZ1jRTeVGkev0ghYPHHzz-KCPPvCFO169Lx-6O-Yvh656Wrlzs26y75YuFs-rIGfx70RcUOAfCIxRG4D1RmZ6SLDmvqOKPFw1W76zVSmMIuSpwV0CRlv0OXK2Pk1CB8tghQ5rAkxRd6iZalzhsVpN90XaxIEui6XEkakc-0TGLphpnY2KyONgvz2Mgtg4XZcdLPrU2h_U7NUi8zBsBvgGXRg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خب زبان فارسی هم به shelly اضافه شد، دیشب داشتم پارچ رو به صورت محلی بیلد و تست می‌کردم، هنوز btrfs یک سری مشکل داره که به نظرم کلا بیخیالش بشم بهتر باشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-05T08:33:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qFcXWR7sp9zd_3GlK_0X5z_5d_JL_ZURdgvhEc2zs8H6wgEctm6YAC109lEYnjMzEg6yipvwTmoOU8sxqxH_ngpThERvxWvWWilJUkHSszzdJbI4Jl1yaPNlymFD7cAOzkVKahJ9yTffRYvRfwbGW1Fp0BTSe-Yr0JVU1eIXyw01i2vPaa-A8TQEJLTqr4qee-mL6WOVCR-XSH5lx5ckHTNDok26l3qT7HEwuEeGpMYSVLDkfQNRPjOuDNxZ9hUdES4mXX05s4kAbseqSM7igm57-_Ac9Rm8e-uReYYrRpSNsbz4odxvNyEvVk1e7kJRbpEvwnJU1KxK3wLvD1Rjig.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگر زبان سیستمتون فارسی باشه این هم فارسی نشون میده فعلاً توی تنظیماتش نیست زبان فارسی و نمی‌دونم چرا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-05T09:13:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 286,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ak1froIfxcjQo2atFp3uvIb9pi3jsoZZXNCH2sXhqo2cB_5XmH9nlqT0YYujTOSdlhMRsc9Hy4yud0rFIhBYfz2nB_7e6y_gBwSr9EP22UbgPr4nCEy21WDMboaNJXdVo-aV9ozBww92eNgd3-wR_qmxWyqC-iYfi0hMUMnL4u1d8Lw5PQ_kWGKdRmtkE-Ex9vQuzH4w1YmPUx8s8w6i5QM7V8P0WpVx4l0KwsR3IRC_jLt2zl-mWQ0owTYtPlPoY2y0Q1leXuVWjbfp1dll-Po3H4OM1Abf2O5MVX4uUc9MCWyaLpZJWvkOJ6-HXHAsK-KyfJBjX576atlZPycbSw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "در بیلد بعدی توزیع پارچ پیکربندی‌هایی که برای ابزارهای مختلف ساختیم به صورت پیش‌فرض برروی توزیع نصب خواهند بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز این رو  پوستهٔ‌های bash، zsh و fish و همچنین ابزارهایی مانند vim، nano و micro و همچنین git و paru و سایر ابزارهایی که به‌صورت روزانه در پارچ استفاده می‌کنید دارای یک پیکربندی اولیه خواهند بود.\u003cbr/\u003e\u003cbr/\u003eهمچنین بهبود‌هایی را برای وی‌لند (اجبار کرومیوم و الکترون برای پیروی از آن) و همچنین در pipewire برای صدا اعمال کردیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن پیکربندی‌های پارچ:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/base-config\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/base-config\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-05T09:17:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 235,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Vn8P47o4wcI22TrwYRZKhEqAf8oBDQDbeAKQtMXdjvVQZP4yzbJA7uHcEZ0mH1umbAEqFFinfObvaflt2dZ6kmcH51mUgz1q-Pok_PNwaYcW-8PpjBjsQC__QA2JTRMmeNlt0smrl2-yx52pjRwshcODewneIBdfZ4Z48n91VZZIOysNGWTRzNRm3PUTV1tc7447p1fy_AabsQpI-_mbVMM6Q0cPofnG0ebOsb1tic3DIV1DxVWxbVbcpnW9WbUA86kmJJ4bcN4fAcNCLlvIqwF5Gx_9lB9Hbt4gGkj-_wcwh13rM07zFH4f3O5xKXtiM48gopZArrCHaJvHO6o5ug.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ESwEABmTFy2TnKcxHUWSlb10ZiQzEm4_3qgqSSN9yyzZgh8k7Gg5rFQu39DiYQ0cNpxg-ALPBVthXZN10vlf3rVYHbq-F5Gcc99XD-y_ISAwWJXJNB8o8BzsjpS6H0BGmYMx2uSinoYXj6RweDY5I80BP5pAx5jJ0s69ceK8VA1RZQfeOJDEEsmqSi8rTL3oHPReRGxw3JD40RbZDP7w61UsmXUrEw021823tb_TjscAacsU0OyOTLFYdrAqPCEqq66eXHu9csMoxLgWH5-6KAFFDkLnkoKQLyD5XkAicwzPxVyuAvo2VvWvAR6dTyq_QmGF2h3bVhIJkFoM3e3Jrg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vg4ggIWvyC6h7OF4b002McKIvFL_Hvq_8l8Z1UKfnp5dNNpMtIz4ZFVcnYLfueawwc3FpUITejveVmXEFQjbcjpJ0TlAz6chcuZ5k7pbWao7TX9BfgSs7M9AQjaHOBpKoiLf3vPvoBfWYgL7CgNwZxYsc28fSd_bv8NJLHtH1F3CZK2t8Lfdlzq1Wsm7Q7ROJ6-BTXqliPEkBtqn3puad8MplTMmhXM2sU5Tb2EWug6YbVgN1fVJ5k6tuoMVCQUo4oUXj4vDIXN3lMSfefp98xG5CELU_OrT16treTutvJCmZCnL6saxIM_C15uHDAwNzcZsVV0l7tci4YmaJftplQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783239969
+  "last_updated": 1783247742
 }
