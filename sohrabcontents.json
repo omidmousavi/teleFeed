@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "آموزش کار با مدیربسته shelly را می‌توانید از یوتوب و پیرتوب پارچ مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://youtu.be/8FDaHsKfKuI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/8FDaHsKfKuI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tubedu.org/w/6DkUqfXReh2sYMh5mgkaW5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-06-29T16:06:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ungf1_ZLcanmP0v2xpgja_icV8Qx6DP0rvYcjzGm82Bv3xCKtieMcjq5NiMLhuCgE9ipxzltkBK_6V7IS5alfxfWbaa5GTWwP4CXX2IXrzG4IQXU9W4t1XtXHsQs91aLN9gY6VFqMkQ31ePivBvrXbGSOFbh48VTd8n_56DKDyGsgXgitTgOdfHzSX5JcRoIVGmp_2ZBEaaeSul1MFexn_4kmoalMbp8hMiAvQfY7NwHol_VS0gmoUP0Q8C826bfg3-YmHSKbbKT5CykBCzYHPEw8LF-9rPXe9tNlI3PXLZCTzQz6FLjj2c-sMui4GDqdMyzBQu35oCWePAQ5HWi3A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ابزار Shelly رو به فارسی ترجمه کردم و براشون درخواست ادغام فرستادم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Seafoam-Labs/Shelly-ALPM/pull/1211\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Seafoam-Labs/Shelly-ALPM/pull/1211\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-29T18:27:25Z",
       "edited": false,
@@ -42,7 +24,7 @@
       "date": "2026-06-30T13:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "date": "2026-07-02T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +63,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tmeLt7MnRooVJM8myjgq8_cz5BzCbpR-nmN_sBoAnUuXfOdwfX2lJTqlQtj8Q7CbGTrlwgzU4toffuCltRrDqE33XF_JxBOcLcnQinVZj2IJuEdkwX_qsI63R5CnoDYkVu0yS1XE1BanrMQwLf8wxQeuaR3BbM-flCzur59acWSUVh4SuW4oo0affIIZPTLco8NOF2WIVnMz105Jzlzupxlus80eKFFJ98yPHd04ZAbKS6NCtlmCacf-rSdODDvae2xGJCSqYz0X3MCVZI-GmPGKkG8DEglcNSv1aZF2FAXHbCVUFrrblU4ky0ktu2lTNuzRKAgt2rqxt3pn6XoIoQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/urvrCmP1YitTaI7MCAI6A-e8rcEIwW50huwwAU6kS6NvRMhAMU-xtDLMBBcR9Fz_OGXTmFIjuz0nEpEjIsVRDnB6F98BbPpKzooA1kRXW9ay6w4GFq5lDGH_T-2vktAD-g6_4nXwotAS9YGeq8oEnK1rPFtaHaHDG5nJrgtBOqzxC-2i6QKzKv8ePspZD3L1rudJdvoZEjZJrFtCNU_e3p-N2WAf0gPmWeEZkL9Q2XN_z-Cl4zvLzN_zlIcnXEkAYUMMakjqRZ43XV7CoNmjLGnQ4Kpv-go92o5zGlB2-iVdDtplK6vCiHlYpKjdLVqcHcos4TKkLvAc7Fh-wTEoHg.jpg"
         }
       ]
     },
@@ -91,7 +73,7 @@
       "date": "2026-07-02T20:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 968,
+      "views": 970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-07-03T19:52:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 753,
+      "views": 759,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +110,7 @@
       "date": "2026-07-03T19:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 824,
+      "views": 829,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +122,7 @@
       "date": "2026-07-04T10:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 782,
+      "views": 787,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +134,7 @@
       "date": "2026-07-04T14:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 703,
+      "views": 708,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +146,7 @@
       "date": "2026-07-04T15:02:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 742,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IRZNcIBolYuG6prxrJdozrnUy3wIvxLTJYC_2y8yPBnGAOKFaWPiT5C5pVdFL2cuM0Nh5OBq9bThTTt2P3YYRdchCiMSNTLtiiAGwub-5dLCHE7rUD1RXIGBWoZfAlOjEEyRkzpOTDlu7rF4CKjZBA4uu6dehpj0AWO-Y42hwVEq2yQ-SC8BMDzTRSL0sYh2nW_VzDreuQOaIfZZp2Xus1zB4HbAYO8Jb5FtVUi-iwI6Li6mHSY1YFb1l57faNzaciFp1-JGDaXkPBl_CUOieNVzyqDVMd-ysrELcOWbRX_jUzwGiUbupslDxhEFTxuKkja9uC9RZFqgI5qM-q2XDg.jpg"
+          "url": "https://cdn4.telesco.pe/file/h0K-hLf9AAAn03mXHMWMuYmZQE4zqiJcozsCV8zp9JSLW66DSuxF1H9jcRMkB_IxGFkYXGsKsbR-9BJ3PmfEtaCqfwMA6geh0FaGG2gYpQuXQWJuTsQ7mXT96fs21PdT1fdRMhS0ClO7WxolJPRbyEsa-ORPJv5RQkpu_LnusIHuTJXg4gzA490-3HnYgWuv2DSwCauhUsbC0BsvrmGuiMUjGBnMClmQrdSrVeXFrViOJ4Wjbz2E9D5Oy6veS35K_CST12p3AQ2c6FYFWn0keqIZgVzClvLhJGsB2oYvTdRU3ljKtlA0YUZhXI7Je_oY8ErdO8sWrDVvG6-uQHkqSA.jpg"
         }
       ]
     },
@@ -182,7 +164,7 @@
       "date": "2026-07-04T16:07:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 743,
+      "views": 752,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +176,7 @@
       "date": "2026-07-04T20:39:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 717,
+      "views": 733,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +188,7 @@
       "date": "2026-07-04T21:55:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 651,
+      "views": 677,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-07-05T08:33:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 452,
+      "views": 510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "date": "2026-07-05T09:13:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 381,
+      "views": 450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +242,7 @@
       "date": "2026-07-05T09:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 324,
+      "views": 406,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +261,19 @@
           "url": "https://cdn4.telesco.pe/file/vg4ggIWvyC6h7OF4b002McKIvFL_Hvq_8l8Z1UKfnp5dNNpMtIz4ZFVcnYLfueawwc3FpUITejveVmXEFQjbcjpJ0TlAz6chcuZ5k7pbWao7TX9BfgSs7M9AQjaHOBpKoiLf3vPvoBfWYgL7CgNwZxYsc28fSd_bv8NJLHtH1F3CZK2t8Lfdlzq1Wsm7Q7ROJ6-BTXqliPEkBtqn3puad8MplTMmhXM2sU5Tb2EWug6YbVgN1fVJ5k6tuoMVCQUo4oUXj4vDIXN3lMSfefp98xG5CELU_OrT16treTutvJCmZCnL6saxIM_C15uHDAwNzcZsVV0l7tci4YmaJftplQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "احتمالا این ویدئو رو دوباره رکورد کنم این دفعه با دبیان ۱۴ و با مدیرپنجره sway انجامش بدم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه نظر موضوع خوبی میاد برای ویدئوهای بعدیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-05T15:03:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 196,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1783260921
+  "last_updated": 1783266245
 }
