@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ابزار Shelly رو به فارسی ترجمه کردم و براشون درخواست ادغام فرستادم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Seafoam-Labs/Shelly-ALPM/pull/1211\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Seafoam-Labs/Shelly-ALPM/pull/1211\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-06-29T18:27:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "یک ابزار کوچیک و مینیمال توی C و GTK برای پارچ نوشتم که با استفاده از udisks2 میاد و usb رو فرمت می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/usbformatter\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/usbformatter\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eروی پارچ تستش کردم و به خوبی کار می‌کنه؛ اگر مشکلی دیدید یا پیشنهادی داشتید درب issue و pr همیشه به روی شما باز هستش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-06-30T13:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1460,
+      "views": 1470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +31,7 @@
       "date": "2026-07-02T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +43,7 @@
       "date": "2026-07-02T15:48:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +51,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bROHsTWk6GYLUYPf29KPa2Md0ZIwA6eVFYh0ntJoUmyQPSNKbrv18wEt6ljm3AennLCXtzrSVOoXqYU4uXYmVHv8ZK5MKLLPMrqZggfr1JUve07Q25T5fMI16EgVLvUmhVpoeUtwxl4AJuIU1iOhVpz_ATHkbzArY-SW5NAqvGBmn_JfyW65xuRlvKLbGcoe9BYVfB-c86A0NXoXUD_CFHs_DV1_UDS15f5h7kGdUVWK4mZ3OAkr8SUnw0HKaR4ixKeQ1L1OKJudTxOQ0sne3k7ZKGHZKs0NubodXzDtonEpANfaBSXux-L1CR7U8xjKPLUxTx4t4rFiMNqzCPOmBA.jpg"
+          "url": "https://cdn4.telesco.pe/file/R1UyY5YY8IAEdm3arcOVgQuq7yCcAbvyXXIDQJTE2sFa_8y8_RlyKa4JfNgP5Oj69m11_xxADCRRm_s3ac9psC94rz88QPPZprku5oLsMOotyITFYDCaCUnOYiZe2cWBtP5n27FGVCLHifKoD6dc4O1Hy1XPkmV0z77RZRIpwJPjtUnGzLVUeat57gIPASzuLGkQghG3n5MW8PoN2xSDZeLX-AUJfuL8k49eNWMR5jmq0v_4iLUNKfeQJwGmtwpejlnGCk3FBdqgv2udUFXEM4VG7NHv349IuNHXZ-ds76ylDSSB2rpKQ0931LuAxXaydKXcGEIushYBRdPzRNgDzw.jpg"
         }
       ]
     },
@@ -73,7 +61,7 @@
       "date": "2026-07-02T20:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +79,7 @@
       "date": "2026-07-03T19:52:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +98,7 @@
       "date": "2026-07-03T19:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 856,
+      "views": 868,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +110,7 @@
       "date": "2026-07-04T10:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819,
+      "views": 857,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +122,7 @@
       "date": "2026-07-04T14:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 754,
+      "views": 762,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +134,7 @@
       "date": "2026-07-04T15:02:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +142,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YW4sYlBfweX5zfXMRswovp4k_QaZF9cRseh27aDJ6u4bQhzHTTfnb2il2igUg0mrXv4iCohhppTFaOslLGeVocnoQ04Z_XhsY0w9nnPEDrnHOwsW0Ln2R_zHKGjIoo6leZOf-XDi-eQHIquC8uBd-U_noyzwtpbt4kMnmSOdgGkQblmwqxCR5Q58BBV-iNiRcpn_2Wf12-673soXoxgKPcQBBO4-n6MYVXf1tVmBZHHGrKAvcVu-W99I_uzcVFB3FHElKMvfoDf9jf8BMVRzxDg-M8Ve4SyzfJ-_9m5TS-nhUIntKVgMbar2uoFAPwVt5xZKtsq29LVwdD9AL8cs2g.jpg"
+          "url": "https://cdn4.telesco.pe/file/XmPG4XK6LQf6HTTa7p9ZXl40dHHvxNvQV64el2GHcxCp0swq-pOVRr4qFPOmPobJKP79xq28OZheJYvLS8HdV1vO6NaqhAJbaG0c6iRSf2ItjgmonXlSTheRQtUrKUdxKFA3T4oHSpwlKSG9fxbo0TvGk7InTcACF8hveA4W_ivAWyuJx7MhQFWhfha2bNiXCLnBUHVDhud0XvYsmzjA9paHIb8UixVHIItn8CwnxcPg3CRBnC__AOqGitQRfPGikuq3g2ED4X2PwCEC0PHnD-IrfaBdp35zY6O7-bcadkmBF1rojAsct5SXT_eIBq4GOFeIbirLYppJx-kyEhQngg.jpg"
         }
       ]
     },
@@ -164,7 +152,7 @@
       "date": "2026-07-04T16:07:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 788,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +164,7 @@
       "date": "2026-07-04T20:39:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 800,
+      "views": 815,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +176,7 @@
       "date": "2026-07-04T21:55:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 747,
+      "views": 763,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "date": "2026-07-05T08:33:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 631,
+      "views": 656,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +212,7 @@
       "date": "2026-07-05T09:13:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 600,
+      "views": 626,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "date": "2026-07-05T09:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 576,
+      "views": 614,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,12 +256,30 @@
       "date": "2026-07-05T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 540,
+      "views": 617,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "سلام اگر کسی علاقمند به تست کردن نسخه‌های آزمایشی ابزارهای پارچ هستش من الان نسخه ۰.۱.۰ ابزار Parch Tweaks رو روی گیت‌هاب پوش کردم و می‌تونید تستش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parch-tweaks\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parch-tweaks\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-07T15:05:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 185,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VM32ylG47FpCLUYpu4SMzuceD0k3uhXE09NMAZTNKvcSpNAVJpFmyN2FGgHqWmOjzG5tULsrgGn6QnHH1U54Wkt7Xq_d722cwKH9OOtUYIC-MeEe8gp5NqkNVJP1_WOuW65RcTRk8IwVl_xQQs_bEpD3AHpifbldKPo7cauCHy6TVFr62m5geHOLD9qs7f6Kfa6XPVJYzDGsCppz_eFXdsXIjgt04zFrIHO1mN51ElCcYACd6Thnu3Za2Yul90znpCyIDLGyqa5ExkT3rulAWKxiVa3ky23xYXRzfxVAF7YeXs1TSAjel0wn7tUJBaN07hAMaHiu32_0qw-pfo_RXQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783428131
+  "last_updated": 1783438853
 }
