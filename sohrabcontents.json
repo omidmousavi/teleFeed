@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب زبان فارسی هم به shelly اضافه شد، دیشب داشتم پارچ رو به صورت محلی بیلد و تست می‌کردم، هنوز btrfs یک سری مشکل داره که به نظرم کلا بیخیالش بشم بهتر باشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-05T08:33:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 936,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nfQ7To9JkR06ZAOwN262oSHnHdViZHV9srqCD04iD4sE4gqmaQ4FfMxytBAuICjkmx9U_HJPU5CkqasKKIj9l3kSBwc83YRIC4I7SLOBXgvbUXAVM5X6Fxgpx1oiWMeSGndkOzPX6HXD1EmoSuJ6fMUUDv77IaQjAGozZ5xTHTCrBT4yhCXbkFCher7EeE07bTw00PrGGLntZylRMnQOIIUCywPeJS5SA3sBs2Dr5nBr1kmEqvD95pel3RM7RrLzqfsUjrAXQs7iotrMabd2pgdIQPOGgM8ZDEH2KYbxuKrmpCX01P7I-51x_03BrU8pLtTvYRy9jhs7s4O_Vzfi6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگر زبان سیستمتون فارسی باشه این هم فارسی نشون میده فعلاً توی تنظیماتش نیست زبان فارسی و نمی‌دونم چرا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-05T09:13:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 909,
+      "views": 917,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-07-05T09:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +56,7 @@
       "date": "2026-07-05T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-07-07T15:05:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 923,
+      "views": 946,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +86,7 @@
       "date": "2026-07-07T22:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "date": "2026-07-08T04:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 751,
+      "views": 769,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +116,7 @@
       "date": "2026-07-08T10:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 863,
+      "views": 893,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "date": "2026-07-09T09:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 696,
+      "views": 728,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +172,7 @@
       "date": "2026-07-09T10:43:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 729,
+      "views": 777,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +184,7 @@
       "date": "2026-07-09T11:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 619,
+      "views": 684,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +196,7 @@
       "date": "2026-07-09T13:51:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 674,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +208,7 @@
       "date": "2026-07-10T08:51:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 439,
+      "views": 577,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +219,25 @@
           "url": "https://cdn4.telesco.pe/file/K3oYnjH2HUztfffiyArvY2OWsGb2tQP6L_2oLMNcBvv61oznRZuvAquirtQmSQlovOgeDaAf8I9-Qc16NBsVIq8yH_TXlCW09R_UnjUOc04BcKT8S_w-2Bd78U6oS3JnoLrITcL1TouAsvaz7Hs21POOssVaydzG-vBL0zjD9gkFpwHHCxWrqi2SwlvXqTV-vfVaqOLCAyFq9-R595l8vSh6gP_-ey-K-XgwVTHq1f_rwHtAeE1sjVJMu6eIw65Qt17gDGJvDLBMZhp_X2QbLRU_VkCFujB09fYioI-Ufpuo0goNhAUHsk5U2P7S-Iv-m2HSWOexseVHh3XX4NJRQw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "لینوس توروالدز؛ بنیان‌گذار پروژه لینوکس (کلمه بنیان‌گذار رو از خالق بیشتر دوست دارم) در یک رویداد مربوط به اوپن‌سورس در هند اعلام کرده که دیگه برنامه نویس نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو اون درباره نقش فعلی خود در پروژه لینوکس گفته که:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e«اگر کاملاً صادق باشیم، من دیگر تقریباً کد نمی‌خوانم. من برنامه‌نویس نیستم؛ من یک رهبر توسعه هستم.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eو توضیح داده که امروزه بیشتر روی درک تغییرات بزرگ، بررسی درخواست‌های ادغام و هماهنگی با نگه‌دارندگان زیرسیستم‌ها تمرکز داره و به ندرت کد خودش را مستقیماً وارد کرنل می‌کنه :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.zdnet.com/article/open-source-summit-linus-torvalds/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.zdnet.com/article/open-source-summit-linus-torvalds/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-10T19:44:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 313,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eBBlDLE15wN506q-PDAj8ADG-M_weS2R7kWRHuKvArlEbzEJpVZ-dBfsLWYtAxTiox5GMfsdGldUTEbxVJAnavmC4RaLqOP_iIGJqI5nwWSWgSPxS2YgzttYDTVuzJwgghK6w00jS1WAv2RdAhEYGXG91soQx2hfsjpkglN7dKkWN_BHqXpAXpt4qdy8764rcxor6c5cCtf1rxdMWoiqdxYMEJABCqWwx8kvjtxUAe3LuIrz-Tgc1-uJh9qbCQtGITVVRhHZNKwnSwF_zAX3iDnbHzGa-2cf1dl5qExoydF1JhQgVN3r_71bp8EP3QDiLVB0zW2MPt8PrSkRsure1A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783709758
+  "last_updated": 1783714448
 }
