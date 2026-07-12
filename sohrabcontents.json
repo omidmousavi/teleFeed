@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگر زبان سیستمتون فارسی باشه این هم فارسی نشون میده فعلاً توی تنظیماتش نیست زبان فارسی و نمی‌دونم چرا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-05T09:13:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BgQBTCvfiBS2-S6fOBKrVfWKjSkJ0j36CZ71uvT3RgRY7eXfa55kVUG3Rd5hFTWbmrkj40iPG4ljA07WTFzMIAlY1FTZUWTumyTLGPrrvzFX2UdglqN65IHmmrCWxsH-ZxpoEIYw-Qpp425itPvihbVUO9q7n-Kol9LdRmpkaKRow9aXQkRcs4vIsXcLMcA92P8mTnszaPQqWun-kOMVeJXyH3hG7APKHquceVfXD1-MfRPuGVj1dVg9THmU3AeGnJZ2Qda8leUkivPyK4MNeOwTJizEvEfzNsAvYfWvRxA5NUYVeTcUwCoBo62kuI9RUrWUe0yOrT0ZtsvTV6fhLg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "در بیلد بعدی توزیع پارچ پیکربندی‌هایی که برای ابزارهای مختلف ساختیم به صورت پیش‌فرض برروی توزیع نصب خواهند بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز این رو  پوستهٔ‌های bash، zsh و fish و همچنین ابزارهایی مانند vim، nano و micro و همچنین git و paru و سایر ابزارهایی که به‌صورت روزانه در پارچ استفاده می‌کنید دارای یک پیکربندی اولیه خواهند بود.\u003cbr/\u003e\u003cbr/\u003eهمچنین بهبود‌هایی را برای وی‌لند (اجبار کرومیوم و الکترون برای پیروی از آن) و همچنین در pipewire برای صدا اعمال کردیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن پیکربندی‌های پارچ:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/base-config\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/base-config\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-07-05T09:17:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "date": "2026-07-05T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "date": "2026-07-07T15:05:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-07-07T22:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8370,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "date": "2026-07-08T04:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 850,
+      "views": 867,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "date": "2026-07-08T10:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 976,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +136,7 @@
       "date": "2026-07-09T09:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 807,
+      "views": 820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "date": "2026-07-09T10:43:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 887,
+      "views": 902,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +166,7 @@
       "date": "2026-07-09T11:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 815,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +178,7 @@
       "date": "2026-07-09T13:51:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 940,
+      "views": 974,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +190,7 @@
       "date": "2026-07-10T08:51:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 857,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +208,7 @@
       "date": "2026-07-10T19:44:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +219,25 @@
           "url": "https://cdn4.telesco.pe/file/ZXZzL1QljFVHNNZGVYeFPZs6KPXiExPe4VbkqCxYPz6d4CQCYTlf_o6tcQBv7YEnOHY0BtxA2ORX0L6J6_DPnknWT787pODnIdSpb9-S4fIfgVXKvev1Ll7dy5k7ufR91vDdanZG3YUYQVPb_5nj9timy97wdEBdX6MZUDkvvWhV-3bMJZSOEakn_KQm02vlxbgrLfglaFnrqRq-WEJM9NOiTJ0rzZSbIkFOshRQVTHtrXmj_lkgp4Uato-RSgYPuXh8crK5fSAnVbDViz1GQphutXE7gGpgbrDTehDBRk7XXc7g7TK2Rg1hA8xgzX7Q8wJrQhI_VniMgkg0AUsMkg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "درکل از راست داره خوشم میاد برای نوشتن این مدل ابزارها؛ این رو قبلاً با پایتون نوشته بودم که خیلی مشکلات پیش آورده بود؛ روی بعضی سیستم‌ها که به کل بدون لاگ اجرا نمی‌شد و کد من هم توی جنگ به اسپاگتی تبدیل شده بود چون یک سری فیچر رو همینطوری اضافه کرده بودم؛ می‌تونم بگم که بازنویسیش توی راست واقعاً حرکت درستی بود که انجامش دادم و حالا یک سری مشکلات هم پیش آورده بود توی انجام اعمالش که منطقشون رو بازنویسی کردم و برطرف شدن :)\u003cbr/\u003e\u003cbr/\u003eحالا با خیال راحت می‌تونم روی این هسته پایداری که الان داریم فیچرهای جالبی اضافه کنم برای این ابزار.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-12T10:27:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 265,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eHn2K2cQa0EPDalC9MPz96Pzf_Ay3gSaTlSCcjpZ8t6za8eE-6LHUgVGd7_kJ9-j47E5LeBvHdFPPA0_P6MV5B-j_VLfaib26dd-JQOt0A0UFY2WNbEDFigurZl8szeZUChyxjSIiiPG409C64eia7kbnQCzt5WWChntIsFno14hErExc_2SxAc4NnU50Xo1OHf1JI817AngWAfDQc8YvbNSGdQICNHoY4ilu-cQE-XEvLKWXphTVoj1XryOuTn_vDyytD9t0QIPXygjPAFPqcaLhfYwxl4LbCw2gWjExoiacj5KeCpJmiaU_g8qmXQvB8a4ZURsz9NN3ULRLdNlVw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783849423
+  "last_updated": 1783854337
 }
