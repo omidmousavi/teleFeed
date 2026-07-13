@@ -8,37 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "در بیلد بعدی توزیع پارچ پیکربندی‌هایی که برای ابزارهای مختلف ساختیم به صورت پیش‌فرض برروی توزیع نصب خواهند بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز این رو  پوستهٔ‌های bash، zsh و fish و همچنین ابزارهایی مانند vim، nano و micro و همچنین git و paru و سایر ابزارهایی که به‌صورت روزانه در پارچ استفاده می‌کنید دارای یک پیکربندی اولیه خواهند بود.\u003cbr/\u003e\u003cbr/\u003eهمچنین بهبود‌هایی را برای وی‌لند (اجبار کرومیوم و الکترون برای پیروی از آن) و همچنین در pipewire برای صدا اعمال کردیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن پیکربندی‌های پارچ:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/base-config\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/base-config\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-07-05T09:17:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j3SXqzGsLGl4KbXXlXVqLkIie-UwwwPIJ0V0KsvoicnSrvEV6PVkLGrDa3io-_erJMy1FgF7mDA269nY85YcoGAKFigQbHYF2rMBQbtd-gBf-jVDtvl_k-dw-emX8Ra18ns9UP8sc3tDowOsD5lLHhh9y1CqzymbxPbXRbyWaVkdv2ifI83GSBmYRas5wUtHoXAPVFYN39WXSQjJMuwJSITcbu-OFSm5704g0jS52vu8a9fn60FLgK2vWwJVVxNxyg5_ncgwoZXHQA_VQBfjFcmZE63qkG079B4zpH8mlDJUgNDHBisjfJ6V88ppx_zTs3sv1lTuhcCYt31Ni5rH9w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YP3hpfA326GswL4cOVH3qnqs6mskcgS7AkhThHiysbaq7IDSBrdPJp-jPuSJI8WfJDdTbRm6l4XPx9KTgV8guP3K2uH2fHU0krTbmlWnjvSAF6_ecyoKpqpjbH-RRQ48tB6rfvn1EfZmR2AlRpFHtw7BGfNdPWDlBOFk-B8rft65o2Q1dTbIbNA1zix6qFDlZMM6JQFwJymLpX-2NUEIGxsw7n_DLgK2y_sMHxu-uRqgkCnMAQhISqUQoKLwOnAT1SEWSKHpu6rP4I2ywIkr92ffO_ikX5HkYnVKUsx34TiOVsB3tDFUYeHlMrmLQM7oDgDnQbtbls70rpNGEcBnKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/H8CY1KrUdsxp1HVmeHpWtH5WH6WLyNElNrOYCx3yXbYvabpz0BVXQsB-P-X-UABMiTxE07cAI9Os4Wz3WDzwSyZtFOsPLiLaCTB5cFyjYZlh2OKfdTdA_JyfvSghk4II-Ivdu_IPAO3eBWyhliRfitS1pRJsslHnSMBJyWQ_dY5Y7nLOjnAUroj_SM7ASJ8nz_evakFfPZ1Ke2nDrk2yfr1xnBZ05Ko16T0hiwKYX7ifXbkqEa5FRhpofTyKG5se34TnbmCgOfnsR_rxDB5lC9jjYFMX8TT3qCE_-Ux9FyvCrgjGl_U3ygcLVlVIwG2KRqrouGg4ZsXQcxaMBWoMRA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "احتمالا این ویدئو رو دوباره رکورد کنم این دفعه با دبیان ۱۴ و با مدیرپنجره sway انجامش بدم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه نظر موضوع خوبی میاد برای ویدئوهای بعدیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-05T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +42,7 @@
       "date": "2026-07-07T22:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9240,
+      "views": 9380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +54,7 @@
       "date": "2026-07-08T04:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 915,
+      "views": 919,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +72,7 @@
       "date": "2026-07-08T10:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +110,7 @@
       "date": "2026-07-09T09:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 955,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +128,7 @@
       "date": "2026-07-09T10:43:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +140,7 @@
       "date": "2026-07-09T11:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 906,
+      "views": 922,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +152,7 @@
       "date": "2026-07-09T13:51:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +164,7 @@
       "date": "2026-07-10T08:51:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +182,7 @@
       "date": "2026-07-10T19:44:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 1780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +200,7 @@
       "date": "2026-07-12T10:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 815,
+      "views": 853,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,12 +218,42 @@
       "date": "2026-07-12T13:09:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 825,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e \u003cb\u003eZanshin Tasks\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرنامه مدیریت وظایف کی‌دی‌ای که ویژگی‌های زیر رو داره:\u003cbr/\u003e- گروه‌بندی وظایف\u003cbr/\u003e- افزودن زیروظیفه\u003cbr/\u003e- تعیین تاریخ سررسید\u003cbr/\u003e- همگام‌سازی با Google Tasks، Microsoft To Do و ...\u003cbr/\u003e\u003cbr/\u003eبستهٔ \u003ccode\u003ezanshin\u003c/code\u003e رو از مدیربسته‌تون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
+      "date": "2026-07-13T17:47:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 161,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YeVF8AeY0yvZe1IzFWKdKHOvNUqRE2w1-FKGpr4nDtnCZDIQR48ixlxp3LANJkiFktrPs40RxsiXdQfFqApUaT5PW1zk5Bg58Bl0FIBd-w-NnQ2403ht2kWLa2mvPnpvW8p498cVIXbGrunQ3sTxI3BBqlHIial2e3Ma-Shq8TeSXfgIyTzyWohTFscg430B3znCwSbsURBBqJw4o00m5Wk_37BljMqgSzuyalk4V1KP7KW0u4N4hVtxjMd-bXIwGI-l0H3uOFOJ_o36M_ADgMn6tFovFmvXnQKgMEYfupEZho1SPuWP8k1bBCJawtRglVkuJFty5ZZLLv0p4C6sgA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "امروز داشتم ویدئو آموزش نصب دراگون‌فلای بی‌اس‌دی رو ضبط می‌کردم تهش به اینجا رسید که متأسفانه سر یک سری تنظیمات اشتباه ماشین مجازی من همه چیز منهدم شد و ویدئو از دست رفت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفردا دوباره ضبط می‌کنم اگر فرصت بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-13T17:48:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 164,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1783958596
+  "last_updated": 1783966575
 }
