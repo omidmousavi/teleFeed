@@ -3,46 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/jQ-K-cXdaawRn_foW9zSQGOzX2-3zm8_COTICwI7PvpSPBm4vSCGf0Pdo75ZzbLnUNjAHXpYVAhmnkVmO09jt7uFa1vl1XTPxGBi_dczC1s_M202w8UkRnAy9S6lW-Xjqy3A4pxYkZ39ohO5WPhirEyXTg7IE6oz8YkBZllCsR41WuIKw3Mm8f0Szvg7ggvXteRBXD5kr3B1OgfAkVN_WGJH_d9rhkvuKCrsnpHIHud8D6BpQv0qgikP9iimrLUuQBFM8SvR9VtGSo3LOHpyOTkWniQJ3Vg9rf6RrI15-HivsYJJKRyaYkpcugHN30MehPPBxo2i0cAgjdpo2sQYhg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/HtFKX5Z73-blRVXb5VhZqHwV9T2IVErP-P1bRUZ-XgMqRoqxolWIqq6oYK3W3KRZtkQr4xH948LppXBYM2kRbKeSciBiRbbiwGu37iJQ6U3d54YAqrPdrrXwadNizrNyC9YRLWDQ_T2FdTM1IDEL8qpf8wMhRZsgupxFMb_hnZFpDFJ7yL22GIi42obfeuRwpZ2GIzdQodz1w_dV2SPZHWsB518fgfU5uZzkLXwcDbmpAseicYT_32ZNPxfe7tYadEOK9gl3u-Tbl8c4sF8qnvQ8gnn64yO15SSddcqPJjP7RDsN4IsNvtRmN0duYTaKNKdprQkXB-VQYRxPrn8Afw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "احتمالا این ویدئو رو دوباره رکورد کنم این دفعه با دبیان ۱۴ و با مدیرپنجره sway انجامش بدم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه نظر موضوع خوبی میاد برای ویدئوهای بعدیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-05T15:03:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "سلام اگر کسی علاقمند به تست کردن نسخه‌های آزمایشی ابزارهای پارچ هستش من الان نسخه ۰.۱.۰ ابزار Parch Tweaks رو روی گیت‌هاب پوش کردم و می‌تونید تستش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parch-tweaks\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parch-tweaks\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-07T15:05:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QW2ISOK3lxTfuuBFjIgltAcbRbxlzbcMmus-m7x3tHPK294RVhapqTdhDVXK8VGM3nof6zu_dcxoG2zZGzQj2CbvBDoqP0B0F2r3V2RjumnRvFJIRd4ygKtsvc9BZQJEv1QFriqsofcO7Pjv6niUqOr_X-JyK5s9kRSmQioFzy4kZafPKimaKfA0WqfqsqCbMBad_0WZCABfZlhzIYhO3LpGJpMaWdv737yMLfU8sHuARAlX4t7tlOu-lq2cy3LI6gp588PP-_8bkISe6ssBZHnNJATEAdIeUe1VvZTO2-dh46Qkq_PgsemloWS_1ZBgy8PkfMZXI4hEfhF7xtewsw.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "یکی از پرتکرارترین دغدغه‌هایی که معمولا برای کاربرهای تازه‌وارد لینوکس یا حتی بعضی از مدیران سیستم پیش میاد، قضیه مصرف وحشتناک رم هست.\u003cbr/\u003e\u003cbr/\u003eطرف سیستم رو تازه بوت کرده یا یه سرور خام بالا آورده، وقتی خروجی free یا htop رو می‌بینه، شوکه میشه که چرا هشتاد نود درصد رم پر شده در حالی که هیچ سرویس سنگینی در حال اجرا نیست. اولین واکنشی که تو این مواقع می‌بینیم، ترس از مموری لیک یا یه پروسه مخفیه که داره منابع رو می‌بلعه. اما واقعیت اینه که جای هیچ نگرانی نیست و لینوکس دقیقا داره همون کاری رو می‌کنه که براش طراحی شده.\u003cbr/\u003e\u003cbr/\u003eتو منطق سیستم‌عامل‌های مدرن، مخصوصا لینوکس، رمِ خالی مساوی با رمِ هدر رفته است. وقتی شما کلی هزینه کردید و سخت‌افزار قوی تهیه کردید، هیچ توجیهی نداره که بخش زیادی از رم بیکار بمونه. کرنل لینوکس میاد از این فضای بیکار برای کش کردن فایل‌سیستم و اطلاعات دیسک استفاده می‌کنه. یعنی فایل‌ها و بلاک‌هایی از دیسک که زیاد خونده میشن رو میاره تو رم نگه می‌داره. این کار باعث میشه دفعه بعد که یه برنامه‌ای به اون فایل‌ها نیاز داشت، به جای درگیری با دیسک که سرعتش به مراتب پایین‌تره، اطلاعات رو مستقیما از رم بخونه. نتیجه‌اش میشه سرعت کلاک خیلی بالاتر و واکنش‌گرایی به شدت بهتر سیستم.\u003cbr/\u003e\u003cbr/\u003eحالا همیشه این سوال پیش میاد که خب اگر من بخوام یه برنامه سنگین اجرا کنم، با این رم پر شده چه خاکی تو سرم بریزم؟ اینجاست که معماری مدیریت حافظه کرنل خودش رو نشون میده. این فضایی که برای کش استفاده شده، به هیچ وجه از برنامه‌های شما دزدیده نشده. به محض اینکه یه اپلیکیشن یا سرویس جدید نیاز به تخصیص رم پیدا کنه، کرنل تو کسری از ثانیه همون مقدار فضای کش رو که اولویت کمتری داره رها می‌کنه و دو دستی تقدیمش می‌کنه به برنامه شما. شما اصلا این فرآیند رو حس نمی‌کنید و هیچ کندی یا افت پرفورمنسی تو اجرای برنامه‌هاتون اتفاق نمی‌افته.\u003cbr/\u003e\u003cbr/\u003eبرای همین همیشه میگم وقتی دارین خروجی دستوراتی مثل free رو می‌خونین، اصلا به ستون free کاری نداشته باشین. اون ستون فقط نشون میده چقدر رم مطلقا هیچ استفاده‌ای نداره و هیچ دیتایی توش نیست. چیزی که برای شما به عنوان ادمین باید ملاک باشه، ستون available هست. این ستون به زبان ساده داره میگه اگر الان بخوای یه پروسه جدید رو استارت کنی، سیستم چقدر رم میتونه بهش بده بدون اینکه مجبور بشه دست به دامن سواپ بشه. این عدد در واقع مجموع رم کاملا خالی و اون بخش از کش هست که میشه فوری پسش گرفت.\u003cbr/\u003e\u003cbr/\u003eفقط یه سری شرایط خاص وجود داره که باید واقعا نگران کمبود رم بشید و دست به کار بشید. اولیش زمانیه که می‌بینید همین مقدار available به شدت کم شده و داره به صفر میل می‌کنه. دومیش وقتیه که متوجه میشید سیستم داره مدام تو سواپ می‌نویسه و می‌خونه که بهش میگن thrashing و به شدت پرفورمنس رو نابود می‌کنه. نشونه آخر و خطرناک‌تر هم اینه که تو لاگ‌های کرنل ببینید oom-killer یا همون OutOfMemory-killer بیدار شده و داره پروسه‌ها رو به صورت اجباری می‌کشه تا سیستم رو نجات بده.\u003cbr/\u003e\u003cbr/\u003eغیر از این موارد، هر عددی تو قسمت کش یا بافر دیدید، فقط لبخند بزنید و خوشحال باشید که سیستمتون داره بهینه‌ترین استفاده رو از منابعش می‌کنه. بعضی‌ها با دیدن پر بودن رم وسوسه میشن که با دستکاری فایل drop_caches تو مسیر proc کش رو دستی خالی کنن. این کار برای محیط پروداکشن اصلا و ابدا پیشنهاد نمیشه و فقط سرعت سیستم رو میاره پایین؛ مگر اینکه در حال توسعه یه ابزار باشید و بخواین برای بنچمارک‌گیری، لود شدن برنامه‌تون رو تو حالت کلد استارت و بدون دخالت کش بسنجید. پس دفعه بعد که دیدین لینوکس رمتون رو خورده، باهاش نجنگید، داره بهتون لطف می‌کنه.\u003cbr/\u003e\u003cbr/\u003eبرای مطالعه بیشتر می‌تونید سایت \u003ca href=\"http://linuxatemyram.com/\" target=\"_blank\" rel=\"noopener\"\u003elinuxatemyram.com\u003c/a\u003e رو بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-07T22:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9380,
+      "views": 9740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-07-08T04:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 919,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/k-KRvrBUZ-67M2Wlm5jCnaHrj8xEaD8rSxD6am1QjNd-7za_iwP7AIY15TEURA2xRReA-FrHCT6D2VSUPVS6wqhw_p0z8CL_RK4_OSgigOhw3JXYtbHFS2D_KHYY9vXDeckJvb2ixrnCMVZcGgqc6QgAuHz3jP21Lu5lrCXHzUtNhDzMzJC2bh-R1jlqIHvThBk9RNgu_ksU8oT8GDR56CV7Nncozt3ZUYs3G-uQ-3ZZbCUq4FMf5HmLEhA_n_yLFSDogrDjG445dsENnlhj5zX9nXwDHvJkrkQQKTiTIGdSIjnxYa6KoqpJwBbfDvhoD4E_wTV_IgzI0i0hNy7acw.jpg"
+          "url": "https://cdn4.telesco.pe/file/mrAhtmY1z34bpcXkvorlFxiW5UbYWmgRd3eZ8BdLnQVz7RitbFTV1l_FywhTzKEYqeE2vyFyFn59vnhBmU3oIROjtzSQLTL_bkAkkKU8ZprDL7ddWponcaJrIyXUIJdi-DVAN_eGmVvRECiMFkr2TvQQh7_WoMsn1EDIvu-VRPJ1gCEpNylOtKGFIILIi2x9pMPBN1z3aBkAPjz-3jK8KN-77_MBoNpFN8jtddz5Rjbtu4EHzztGiX6wTPaRBuFoiEfW92eV71kL_T14irosCWNrMN0f1cM13PQXTT5FlpdlGZoTc2hooSye0aPOLZmejeLYJv-iXUsOOisb8QCTdg.jpg"
         }
       ]
     },
@@ -72,7 +42,7 @@
       "date": "2026-07-08T10:16:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,27 +50,27 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FCp-M5orPyzcsYt7GHQTFXMxJ-rjYHl5ipXrqUY98duzCaH_MaXjcOuqJHPppY8c3mlp4S7EFDRsfR2tKuek2qfix7jxyHmILCxs_hcxIjfrZQcrb_B8Cx8R7uxGnDC_NN5-tGtu233GNv751KHAGmnRv3lV4w3mYUK6f6cav5RUzeLHuFLGgY7nDvvbVQwUHDPXJZ00rUnLm3978e_IE4Zz3BUnoUPdsHmO8fiWAfNTnoEjhb3Afdk_uPpsWHD0MwHEIXXHtUjElCdTRRzuWq1K2OorJsTWKN1_wIS9I7GeZnv1pMRj0lOZ6RQEwzj_t4uXzOBEgNWfbg5WVAVEvw.jpg"
+          "url": "https://cdn4.telesco.pe/file/JTAQ1MRqw4Poba8_dqr3ozCy3PEATKkvC9HKkFHtsQruYhcbGt2OMrwNtBJ3kHVejHSLvXI43AoeNAeOMdArGvnJxF9c4I1SVudJdw2ALCojfx-AOZuaNTOW7O6c-Bj6fGGb_nHfxBv81f5d34i1uRvODz-zkksQ-GB2u842z-SMyyX5VHyjLCLXGBdO0L99L0_owQQTYCVW-4iWm8-J_689EEa_DWrww5v3p2A1gmDA8WH5MjkuSsQBAKOs8jDQ29Ttn-X-ozOwgdxx8LWr0l4DzqJLbUwp_AIl_COnNg0NiEK7tyU2QFikbZVXINJagwmofDx3Ff2kEJ6cOQeAIg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TKiW6KYPF8PiOVTHVQ6S3ktHprxDbRdiiSkJpCh35v2ylhY5GlzGtet1gQyjYIFwby8RAZcT0D9V5Or_6WDgveyxxwlNk8LpSrhsR8toJa1BktKCwegqyNN5tzZ67GBTHlOON-_ZdDnfJJeBVFlBG28JMvpEWj_qnlFxdNvKHpXRMifoYEDLW42bqSMutQQQIEDJxeRxwT3smaXkTPjlbc4SFSxEEr5eoNQpt95PXgiB8yaapBGJj0GxQZcOODVmA5Z3GNmH8p501DuDlBUgLixOy0ck1MYD6G3-8hs_c0Xmd9XDDLSzcpcRrq3e6kpfEo-SmT0pjY4b9vt5rn90jA.jpg"
+          "url": "https://cdn4.telesco.pe/file/UmNvG1yDtZ9vPNLoBklzNz5m0d2Fg3TlOOZFcnqIyCIoOYSeQeqcVvAT8xguMf7Z1oPcZYLUgz-RrGSvhhY1fawLOOpYo4xUmd1nxuv09xerqo6vfvw2Pl1E8iQsdOEN_TUu4T-VFOtZhBZBeoNkEoFqhLGW650B9leqnw4vIfsjFqL2VS7gCQZfV4L7fneBknbFRFGTXzee_dgEWZyL-tB3vEYmiOdiOmBy8jImOrJC_VpP3ZWFV3FPUoO7hoAMWr_bYm4h0eU9b508fDA5n6G7uut2OcLnEy7nmc__Nk54fSuRmuQ4l6e4bpxWMiROEdC7bg5lyVT3CMln-oEwNw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bUFMIhVpD_pA3-VhGYXtZQh3NT5KbXwiHv-D-siXyw-jpeqzXsuSr_mzkXywXKcr79gZgvjN2FWPeGl-jqX4j5PvQQCgZBxEkHSMXTbTsH3n0578iysgWVtgO0zsWLlec1SF_p3-jux4hc_DT3mSvOnqOOw3pxuYQqWWaW8UkDIYJ-A2T158C5a-QakzrydKEy3PEhB1_3oTMF-m4LaHNOmxlXiL7cOztP8EtoRPmG6IaVNFmPlNVdqW8jqZZITRw5p4ivMujbl2pM0IR901ht_KzwswyVm0T6KtGCRJ8GFDBvBeGj3kpdNe3AQExyeYPa8TsamZvTIbJN4XhxdYNA.jpg"
+          "url": "https://cdn4.telesco.pe/file/RPrDajb2YXPYXH-_OoV6Ut_VOIXuBPuTfzw1Zdc12owBCyQTAPf54LyEU-Gvz_tV4C5AQ4bMltJ5A6ynnf1lWc5_2f5PX-IOj4G_RFmZMs_YJEnn1foP-MXVk0OIZL0Wg4ogd8-cvClK9rY5UrZ8e2mob2_0jGW-nE6rwKuir_zBpV2YfWr6b1ZfLHFZRdVJwXfQdJ-N4Fk8Wj1Xjf2JVR3JsZFxYvY5vKmi3W7MZ5ucwawUhsXTebah20ZNIQwFAoomJdYAOt1WxcFmxSWPnmULCF3lzmJSmSeWeDEDPEZ3MYCdijHMVsL8G6SSSKt9-ylY7-fnkGAX_SBSfmOF5g.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fPePT79jv-wRl3hOIJpQkh8-2vl_m9hvhqnj8n_MAtQbXnD97lYyoAV20KonW1vRWVKmAUFb9bEJuHxj1Jw6B13O6EfoqKawlxdqyMD-hB1boX6n0KN4_jxC0qCGuPyO08tOlH14smr06p20iX_C4GkO841oXqHeu5juvpaKazJRwxFMpzcgptiamQB8kRLlierCfuS4o9PSCbn-QCZze-mjO0YQG8EwFhsywFZBVVXh_EDCFZJKrOAl-jM8Szw1KJq6ZVl6t-jZzd5j7uZLYAsjLy3yVRAI0X3GfjqQhytIt1NDj46U2-V6QyKpjMS-zi4kvJOAdWAdjry2PviL7A.jpg"
+          "url": "https://cdn4.telesco.pe/file/k2T6vprvb9rQ0AEnjYK1DbR6JzCSGwaa7ACoXCwGxVaDWOlF9uFHDul3QHXcSpdvsKMzeu9jAwNgcwBsOMCUlr9FA7FX6_nUOwBvk2W673pTmlf7EkDAJ9eYY544njAjGQ57CoTxhRJ96WxxHBLgIXYERWYt3yf-EG7TXIGfdkOKCMZLeAPsUJZqFiow_-c-kePqE89r4SaMLm0HroVECuTNTtSF3CxrxikdyRdt3NOCQ2L51iHuZFBwlp54ZI2V1Ai0a71PAW-xAmgQj9zx81fH4x_ql7lQ_19RKULGi2uWPp-MZ9k2FKHW_Y8MwTcj7YLqwY9yWGqTKkboDyNN6Q.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nwi7v3HEizCwdAK3GAOIVxLii7jRoQBOGzy-IZkhZmunIA75uHkiefJ6QEf67qVjXFH_U10Tb0yr4IrNPMQEC2a4N9KuWornBPE3OIsH_UZZIxloUGYvmzYGJzmi62uhtVVo7GyKJaw9d6Ai8H5sEsuICiO4LomvBuekWWQ9Fx5TEGEynTPmaJAE8boaTLXoNdbKyeV7qBS8jRGvB_H1QOD3jePxb3xpHfkqjW4uRN7Nmi03kUm2xuYChDNc_OdCVh5eCvCfIpXFpApryE4Vd__udIxcEbj-1lnL8WSMTRZimgcL5Vyt7s3niCH7LW7Y9ezwTnFJtn81Mn_ep6MSAw.jpg"
+          "url": "https://cdn4.telesco.pe/file/rME3ziv611ZCKZwLCMemD6F8gROb3f4yiboAWIfmBP_-gAr1eJlgGt7OmeNMG-ZoaNgbNxmMbxiTqdRnW_rERIAE98poE_nxA3HfNEwgkK4s5CtbVC9urH-jK9kJ_5by3ya0Xyumkn-K-g1exyk7zHUp21KjHEynk3g9F9r3PRbQ1nmiq7_PZEmiAZk-VIulm8wNXcTvo67gpk3HHzEyBIlkWcOFdBSjeiQAMC0eE5X6j7l2MD50q-GZtRbLLPVWg1qxItSenCnCuoaXjGIn30yWkCIhUELT78JjUspivhTqDO3044a8-gCyJ3Lh23nmElPsKVJMvXVGQq2TKzqrFQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rYVWoLwSRqyayAPOfKgJprVpbizt4nF4hz1X_cP3JAAqBMyCIlx87v0a0Pnr7eZUz00-UvoAlctNZ7xSTNwww1391f2LNaKRRqYIu4BLaHsgOAuZ6k02NBu46M8Jo7Kn7hndsmPluEO7Yi2-qBtYmrIYktgTrlkrZYOQVIwZt_DZ4jhSKhSSfDZxdC6K9jxdx0fsI0KqgWWJS-d4U5J45Jyva_r5rEKfl_yoJbqt7gWvr-hx3xsp7Mis0rM02urIM4Iobw98DeZqyfB8B2haRaCDB2uHTpXofyHvH_jvrFc4s51M4AC7s4qkgJVOc-VxrDg0BlyLRFMoPsX1npGKPA.jpg"
+          "url": "https://cdn4.telesco.pe/file/fyBT-yDVKDrzg-XYfXaQr24WT660NzX31cGf53k7D4Oh4XtJE-URTYT0N7eTv8R6Tsc76bDqyC-wycUcOvY-A-pt0u6-LaG2FkzNnXX7Bw14-_mBSz8tsj7WE9_T7n9aNlDddYn0uc1Vo5p4ifwAp0cbR4AjxUrWd97HFySGCoPbgGx1kn-kjghW-4d96B-2ZKYTD5AaZd6qSxl81AaGrkz_IOPlOQfxB4LxmfReulhrt5HCdIYjXysQ3Ays5AVnNyZ2_MLFQTkgZ2Vgdh-RiUO6Ek12o_fBY8zz1Xl3yAV14sBxVArprRX22Ez_lBuyxRTCWcLLlR4wUi6oH_wSdg.jpg"
         }
       ]
     },
@@ -110,7 +80,7 @@
       "date": "2026-07-09T09:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 955,
+      "views": 991,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +88,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZqpMxtVJPD1EoG7icjACCwp1PD5DLSe14CpLowY4iEXIE13jpwxo6i1sdUyogbHbfBD7rWwbjSO6rJK7AGuu3_xyxELJjLADaTPKidBXVQgyUvYsabZrTLvtzJvmsgtdWzW0hcgXuB2MVBF1Zj4UOtjERw7HLkIk0hy1NGglqp5MAetEdSksQ2RLasa24jh3VyjQBYYtXQQVpe-M7Lj4-G_F_cFsuNqKuYcgBooF-VVvtR2AyAGgAruUxAqxsWuufHboO2sSGWW6NJ9Ui_EtE19Tk3CwHSRCjcyoFYFEsXdCn4SZdjvHjaQK8IVwJqOdGxLI3pTSyzF8BLZ4BhSq7Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/rJ1ZeSjNP_1YIAAtP6S0et0reuqrNDKjmeoCzpBGfiyr0YwjPXRJ0rW0cMEyL16MgDa3iUaXwXHJYWbHCiCWGMWl_14QN5lLNxtA4ILcxc8z_UlcQKRnsLVDFeiPk0Ed-yHbn1gxj3ABdRkoxpPYKmiKFWYAk8EQSX66OV5Lwcjyg95wd5Kv6bdEB_3zdN5MBK6YCq3O8tK1O381fBzxe1CfIbHLnE9HRdPTC9oRmXyyzKhKEZW7PRsihQURHq9q6-NnpcXswq9H4VSV-TSLJUAaocnsRArxLSvb2xDcYyYBdI7bqlpAMfAgrZDBlnLuPUJTvbIvSPvp19UI70P8ww.jpg"
         }
       ]
     },
@@ -128,7 +98,7 @@
       "date": "2026-07-09T10:43:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +110,7 @@
       "date": "2026-07-09T11:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 922,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "date": "2026-07-09T13:51:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +134,7 @@
       "date": "2026-07-10T08:51:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +142,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CIViODwDH3oSliFnQP7oQKGSqDkZscF8lkrV4bKZC-xkQUo0pHW6Y1-s-dkLjrWLlKtPI9K2yUGCs8Od5pbWO10GsaKJuKGVF6IeKJTdTmhqBrJBaGbwo24De0en0kqmbcTrHnMwpEB3T6_E7MULM9zWAwUp8O1k6UqqCq_qntlmzsD8zDI53zj6i1Ucjfh0BSfxFhnudaYnJh4BTm2TqCemU72UrxZS_kpeRqQxqlht2hB8lv7_MLfq1nwkUgc6FOl7sg5EwRXUK21uQsK9k23iVvtH9bAv1_AEdJ7aUFwhudthLPYVZyX8TAoWEIZcqZJUn0SJ2jD1ghkGEwgT-A.jpg"
+          "url": "https://cdn4.telesco.pe/file/Z1JVxOJkC6wDUOqmu4JNbSSvUWnCQRMxSlQwB54OKKBRwdEcehayDbXj4fYFxryEn4f-RNKBD9YWnwFkrHRBJIBLfX509JYegq1NNMUYwIET9cLJKg0Vx0h2FWTdMr22G7vTKM2-hwN4nGdvVRZKDiQFReq7t6wAdnMCFnYiatrViRdNuXJU-8ONc6zZakGR3G2U3VUkexybV6YBSuVHx3dikcgsuUDst7CSplbSrQLIDnnTL1VROU4rP4vmtK4H3-8H4U_fWtKbBOUpW_jageYFCrc308-MeuuS9Mna-SCPPZYPp9rXPzFS1qBJOU5dkmBnAVBR3wQxPFymz3_wKQ.jpg"
         }
       ]
     },
@@ -182,7 +152,7 @@
       "date": "2026-07-10T19:44:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1780,
+      "views": 1980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +160,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HywHlaAmFKaZ39XJOU9X1bhw-yXpwQ5JIqOgem0wMuiTpoOpajflnXXZBq5vSmhFEUU_TCmNOF-By1J_o80ppDOAxpFuqEAPHuWHFKRvLK3-KB9bzLi-K4PeASd3rAuwUrJuKGRtgWJ3SGXvPOjLV5g4eOYpG77wwHayEwRr-R6P-2pa8JrqangTclae-AAlBP8Ybzhl0TqFSMcnE008TrhgXySF42KI7IK9jSVr0I98LfZjLButLUVmWnAqadwkEO_YGI_QV5BLle0k6pwvBM9aZ22ahwXo9dZoKIOm_qzl1Ym2256AxLQQdgr3_GYydhsltyD9lDM2aIMYyv_9YQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/UPbWUsWGc23aJZT-wuKhtAWdpRDXAqMH6mDWyehDMVIDOas3mgQdScotgfYDkbEJvkZofVt9pnVJ-YcHM91V4NgKtCSXUcEZ_KkMBBS8civ8qrbpUWZ5nE6yZXgJKPUycvv-T0G2flYhie_Qm7RTpqgq3zkU6jLuMy3Ijf-K0E_t02UEciAAFpjrBdky9M4DBEmiE0NjaEuN4g43kLYLHURyzMRPYM_9oVxAdh9VGngl72JS4BCCsWaqPw0-4k8N2YlnpO1O-UuT4Tdd7x_QK8CS_gGAwgZLVEmtCi511CozBi1EhWwtyZQ1iDSRr4ZddQEU3JXQb7EWjPbHHV18cw.jpg"
         }
       ]
     },
@@ -200,7 +170,7 @@
       "date": "2026-07-12T10:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 853,
+      "views": 982,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +178,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BaVyVp1f48dpKbm1U3lfX3BGbkhV4y8F6gN68tULJQIT6NEhHp0Q8kMYid07FEnRENO6wgthyqbIE0WSFyXrymHWdUtDZ9tSijNqQNfumFnLeINsLyLRnpA4IOtLrF-n7NCKVpVlz_0W7AnqUfYjbSLxo95IWD5I92zRnhwuZ_LE1dGWGO63XfPVhNP2dGyPaXQGzaY0iKs1SL7TfcqwS2s4Hm1ddJb-3t15RbrBv4I6Fk0Yhl67YSjHCknAcStdvw_3677rz7J0vDSPBykQ1jl-EYqFBJZWcHeWQceG3IL62UX7Uc-00Jh0xyxmdzVa2CMqtsPJF58u3aZpgbxazQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/o8PgnvTbqqCLYFE4WW1UOol8IQRUDdEj8EIwzTD_tKO5pts33qcwOREmgQOMZw0Z1Yrb0kDzP47KwfpTU5MeRFXxlUVOsppfAMW6L8ItOtwmdfrQ9IU5cKAe_nyh4paxuGFFGgyJ3L9erdy26L4ICNpy1sdPkUcemev9qB4o5vxAYjDi4nYgs4GO3EjHD-MrexDm0bqkRoTpZ876kmoA3n9hud_QFFCEB-D-LUqmCKT2WgokTmlsytvRUGyM15LJuat9O4Foy7ykUbyjBJbJP8a1Mkrxrhx19n-SRMSmCxrZA1e-MyJ9OoQy09NbWpFRaqdwpcaR3P6JK0vkwoaLKQ.jpg"
         }
       ]
     },
@@ -218,7 +188,7 @@
       "date": "2026-07-12T13:09:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 994,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +200,7 @@
       "date": "2026-07-13T17:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 585,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +208,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YeVF8AeY0yvZe1IzFWKdKHOvNUqRE2w1-FKGpr4nDtnCZDIQR48ixlxp3LANJkiFktrPs40RxsiXdQfFqApUaT5PW1zk5Bg58Bl0FIBd-w-NnQ2403ht2kWLa2mvPnpvW8p498cVIXbGrunQ3sTxI3BBqlHIial2e3Ma-Shq8TeSXfgIyTzyWohTFscg430B3znCwSbsURBBqJw4o00m5Wk_37BljMqgSzuyalk4V1KP7KW0u4N4hVtxjMd-bXIwGI-l0H3uOFOJ_o36M_ADgMn6tFovFmvXnQKgMEYfupEZho1SPuWP8k1bBCJawtRglVkuJFty5ZZLLv0p4C6sgA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ysula4P1AP1iOwuB6Rq5dwxZ6PcxWPhxfH2_iWU2DfXg_GuGRn7lJ2A-eMqbpkVw_s6x4F1WjWgcjRaK-Sx15Hb7pgGQ2Jp82PhFPuzrq0O5N5UlRu-uwPwAnlLK3fvNfmku6q_9mLqxC85ydbEJbhpMAnXxkqeTvtgh9B6yZzseUUvZvugljX5nAfBPo2HKA6u1PxZMl6WbcMM0ExrdQ6HbTesUU0F0CEem-__Oy0W6_5V2vA2XtkU1-2wrwmZ6neTr8cJTU-AgDk-hsBVIk1-JVb3yK3nibrl3jbtDeQo6bhtCJn7S3w_gE0dl7-xbLr2I68yDzAux73g8fEOvuQ.jpg"
         }
       ]
     },
@@ -248,12 +218,48 @@
       "date": "2026-07-13T17:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 164,
+      "views": 630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "نگارش ۰.۱ ابزار گیم‌هاب در مخزن پارچ منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ابزار امکان نصب لانچرهای بازی؛ پروتون و ایجاد نشست استیم را از داخل خود فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که گیم‌هاب همچنان در دست توسعه است و تا نگارش ۱.۰ پایدار راه زیادی باقی مانده است؛ اگر مشکلاتی در استفاده از این ابزار دیدید با ما در \u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفروم پارچ\u003c/a\u003e و یا گیت‌هاب آن به اشتراک بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/gamehub/issues\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/gamehub/issues\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب در پارچ:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S gamehub\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-14T08:55:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vJEG9iKnVsVXHgRFYsjg4S0erSSibEAgUU9sCjNFidHFylqpVW4eBs0lpMVWPnxp90mejIKS688gGFpWrxxHUUMTu0pRmBtJE5X2_D4PaTErQLwzj4zQwpIs9TGyqs3O5LQbxEfU0OkDo14PIR4kjPWf9YxeDIAMvZTvxQD_v0GWUcFQ7I2sJpt7-4upJUsyK4inVm_xokL0RmSsM3IvcRZSsu8lQAHhf74X7JxQ5imhVQdJtuu4BlynPsx4DnLKSYPLBi4kXp0G1fVaE71ZjsX7nl8Dr0yuER84zaibpsMAXgG97X_Pc8e6zkPU1wR9gwCKwze4rjNdyxKiK85WTg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "طراحی اولیه از پوسته گراب پارچ تکمیل شده و در مخزن پارچ قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S parch-grub-theme\u003c/pre\u003e\u003cbr/\u003e\u003cblockquote\u003eتوجه!\u003cbr/\u003e\u003cbr/\u003eاگر این بسته را از قبل نصب کرده‌اید، آن را حذف و مجدداً از مخزن نصب کنید، پوسته قدیمی تحت‌عنوان parch-grub-theme-legacy مجدداً در مخزن قرار خواهد گرفت.\u003c/blockquote\u003e\u003cbr/\u003eکدمنبع:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parch-grub-theme\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parch-grub-theme\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-14T11:57:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 285,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NmrhwDhD3IQRH72si5rkxiENuDmnffky8vcno0DmkVlFKXIERz81orZbiy5dbCuFNyQdzxk9Dx1o_qVIn0yXO_ZIXy5o26iQVP3hp821mfVOChVVlujRl-4PtYoPdMSO0F1IsgRQZEnqt4PfSxMbJ93sgGdawHVu66mjG1Co8izitfsN0d9Mr0KKwuVbxx8i5ueNArYHJxNLaHpu-rVqLMUcpIuKIWQ6d90jaZ9-NEb45Us5CqKVSk5qmHmcPRwAQx0k7yFvi5wzBHNv7XrLBOrgEYvTiV95kHLMwV4QmDcZfmaRIfGzPgDCYVbPHyspFpnWOmduDUybCTZBfZ6RgA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783966575
+  "last_updated": 1784038930
 }
