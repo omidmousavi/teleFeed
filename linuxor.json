@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/V3wy21AGHFd1KV0OYxI_HQm0lHPKP-k_nOa29wOdGDQM2OmgJSrgANd--P8HDtQMC8XWCKdT3UGmkKqgngD3ymqceBLUNwH6gVTn_kfIxI6QsYwvnng04r3DUpNt-VJzlaVdrfnVzmsX1i3q4faOCupb0lJa0xUjnPjkGkE5J1qh5hacGrHbFvsTTrAbleieOMDpgE7MsidN3vcXBduDInqCP9N7nEgC3FHrGVPtTpxYoqr2EO-YPsPeE5XpjGdoxIuzJL91cHMqlm59h-doErpBcraNdBkZaz_GiNvpa44jorYUn8J8PkCZFD8oCfK3ipWkRxH-6GOdt50eQ6eBaA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/iqWEWYmnq1Vr-Q99uGlc2Yg4Oj-GKYUImXQRAqX2VQVTbdYcXz-EyZSOC-1DzCPmqPCpO5AcLdBTubOXPT9eBTjyNRztKeImvLoyTEAK1SpRnS5230_RYHumJReNRKBWX7IDkFLT6GlC491E3h0tVsD33dfOsDDpIcmTAK5wnfuaO4K7JmDQOHpVxgMRZ_qkgpy97JbcAWA2UeUZ97WfsGwsqmkg3JBRl5Cwmi6DCAgjxtiVVmsvpK5hZR6umhnHmEGa3Xf-n2eT1a_ydTXaSVgsMAaoaz4OLRED63UY-zhNA8R9x4g0sPegh3qffKqPKHsA652zlrDGVbcx-KbyJA.jpg"
   },
   "posts": [
     {
@@ -198,7 +198,7 @@
       "date": "2026-06-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9440,
+      "views": 9450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +216,7 @@
       "date": "2026-06-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +264,7 @@
       "date": "2026-06-27T09:47:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,5 +325,5 @@
       ]
     }
   ],
-  "last_updated": 1784104821
+  "last_updated": 1784112132
 }
