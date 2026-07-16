@@ -98,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/N5lOvuPplLTOjSMv8Xe71_7XH8qNG2V7BPghHr_PAHR2Z9QMxiATXbCcjq34SRtp1f5-aMcL7DJ-oVTCV1My2oHjH04ZSIR_4GieIRypdUTV-kJXQG5Uk3floYXIKBHTE7J4NtgeW-wBJ-p263smFBBtJGWHfewtlsCMIfhfJqd9a6pnLOpzf3EL2SlaqUFKihDPvYR7_mN6zrtq--jJaf9Wsdeg5H7l415tBZSx0H6GfwdyyaisZDhb844t_w3ju8GdaYS0wGz8PQgfkA6EMxVbUVsNxSe_EsZZiFpDXahTja53Vvqqgy0qKRXGjcVWyzB7ddtK0MW1wFn3ljc6ow.jpg"
+          "url": "https://cdn4.telesco.pe/file/qdMjjXQRl_RFs-1JINNGU-X2Q-s0DrTQ7nlJpikJXmRqLxoeBfVxi52-UqA8qvwh20eAYAoSrtdlcqkGgDAlN4sNF2QmdXwF9kT3aCStQDFuJZFDLKDDDlJUwmn8fmk4WM8qpONTTRBGraIZHnHPusBlygiabu0k14BqRx9Xbr0XaDDhRYGzi6uqefscxLONLob2mVXMi1daxr8dmGXOuIP4DdDiJOdtMG7ktakwRoWGiF6SdkJlNoFBMnidplgaqYuwGsE4wxsMV9DNwbX9wbpsE9Js2YqhDRWUH4YRHvyET9ZvaKS_s3uooYQTUVR0uqA3cRfWRzmYIA9l06vEiw.jpg"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "date": "2026-06-24T10:37:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62000,
+      "views": 62100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +198,7 @@
       "date": "2026-06-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
+      "views": 9500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +216,7 @@
       "date": "2026-06-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9730,
+      "views": 9740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +228,7 @@
       "date": "2026-06-25T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +282,7 @@
       "date": "2026-06-27T10:40:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +312,7 @@
       "date": "2026-06-27T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,5 +325,5 @@
       ]
     }
   ],
-  "last_updated": 1784182217
+  "last_updated": 1784191122
 }
