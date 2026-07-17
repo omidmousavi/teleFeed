@@ -36,7 +36,7 @@
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OhRv09-975nH09c5ou0tjYAKglzNtMmROEVogRWCz1Ql6OVtZls5muGbyXHQtVGLfc0sYAWUXJzqYjX0FW8itLCmDA8fPKwsLunYFbEXuGgpUeoKb7eJ_hiBdvuBEDjN0KTzijri0MrYBP2eLHz_lC_kz-dXWvQkDJjxGW0J42nQnCbvvi6RHZ0nIFM_HJVtvb7j7L-D5MwqPplHbNwBFRwEUGz6cUiBjrhnhqC5L9coHjE3Rupcw3jKe0zfrfhYwf9aWShfGdGejs852xTyGoXsUHjQbjkS5WAA7BUW-x0hJXV6TlikDdSEx-jozXLrVFdb8_mJfJItG3L15-bSJQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/M1MQZVepf-FNByyp4NODF2xi2QB-JjYBB0XijAOK4stKTGCuTdkmFowd6u34Fav8PLHxV_1PWEejXSe0AuBO3Tg_UZqWWnhW4eecIQRVihbTaSTJr-P6vEb5euBSBlleSfjxv0jearcDYWUDdRIYyDgxVH1mnTlwAaxFOm_R_kFWF-4mREo30aS1d2jLGpnd3OQALtF07ysalNYom8MrrSTrlDc16-vAJTG2frE4tvaRJvqAtPAI3SGsAN5SrhXagI3JmochoHBkLKH_xJ0MHl2xwybyOTo5HtA_pCn4DIiRsV5XlvDc0WMzfJ6K0Zdnb8KGM3m7Q5LYS-fSHwsDgQ.jpg"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "date": "2026-03-23T17:35:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,5 +256,5 @@
       "sender_name": "Nariman Gharib ——"
     }
   ],
-  "last_updated": 1784245870
+  "last_updated": 1784252842
 }
