@@ -8,71 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "توی توییتر یه بحثی شده که بانک ها هک شده و همه دیتا ها پاک شده!\u003cbr/\u003e\u003cbr/\u003eاین بحث بیشتر جنبه طنز داره ولی سیستم بانکی ایران اونقدری هم داغون نیست قطعا توی صد ها نقطه جغرافیایی مختلف به صورت آفلاین و آنلاین دارن از دیتاها بکاپ می‌گیرن این یه قانون پایه ای و خیلی سادس، البته restore کردن بکاپ بانک کار ساده ای نیست چون خود بکاپ ممکنه آلوده باشه! و نکته بعدی اینه با یه الگوریتم هایی چک میکنن ببینن جامعیت داده ها اوکیه، اگر اوکی نباشه بکاپ هارو بر نمی‌گردونن.\u003cbr/\u003e\u003cbr/\u003eیه عده می‌گفتن از روی آخرین پیامک موجودی ارسال شده قراره بکاپ ها بازیابی بشه، البته این شوخیه! احتمالا الان بکاپ هارو دارن توی محیط sandbox بالا میارن بعد روش اصلاحیه هارو انجام می‌دن حتی 1 ریال هم جابجا بشه جامعیت داده ها از بین میره و بکاپ رو به هیچ وجه روی پروداکشن restore نمیکنن تا زمانی که با آخرین تراکنش syncش کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-23T14:31:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دوست دارید از این بازی های گرافیکی TUI برای راست بنویسید که روی هر سخت افزاری ران می‌شه؟ اینجارو بخونید\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه از موس و لمس هم ساپورت میکنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ratatui/mousefood\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ratatui/mousefood\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-23T15:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dtz7ik_-2wmlMmUkN12AH5x04-BYYKeyyH9Z8KpNlqyqJ6w0RamQ7_mz0vc4AVFyu3xeHMOrIlBt5NTmDXILZHnY-9cTRTPo6dmI9oVQ7fYmpCaUdMz9kzusjO956j90ARumD-49WteLtebj63yx28Wi3Cb-OQwh5XjI6j3fjX-n6G5axsoEQBjjMcUp9ajKAbESKj1BAlxrKkiCvcyctPo-mU1-jkA0trQJ6obfLy0RRb710FtUUck8vGvI8yZ967cS3DKYMgNxR29if_zg_0QQSuGIMacpnpBTqVYojQxLqiO5nDmapiYj0N_ozLzzwX2X7sTrvTAOByasd7fgeg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی که FilePilot رو نصب نکرده باشید متوجه نمیشید مایکروسافت چه گندی به سرعت File Explorer ویندوز زده!\u003cbr/\u003eبا این همه امکانات حجمش 2MB عه و هر کاری بخواید بکنید هنوز کلیک نکرده انجام میشه!\u003cbr/\u003e\u003cbr/\u003eدانلود :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://filepilot.tech/\" target=\"_blank\" rel=\"noopener\"\u003efilepilot.tech\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ channelhitch",
-      "date": "2026-06-23T15:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gmxTQ7weVUI1hTC5J-C3MbNCaY5sYy9FG5DLvL5O_VMd330ud0fMyvGMDmRjKaqm9MB36fuuh9vly5QP__DZpjWoXW8rPksM74MwxaHGnaghtzlqUoYwEVALxsCODqI-y1L3QoG1ScIkSm8P08dMI0WhAhfhGok_Q81kDdaz-IAfevolTg1uwBcLYhXhNlyTIUolSrBuik3zpsBwl8wvM4ZCHkAGyNliX23uLQJHMdNwDKVQUIRPsiB4mz3it75vXqPAuW2KcgBB0sjguvzXEO7pnYYZM2Gi_KH1lfftUk_OFf0RCmpkdNoXkYZxAInV47XtjRWgpGJlTrkpYtuuZQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی ایران بخاطر تحریما هرچقدر نرم افزاری ها بدبخت باشن سخت افزاری ها دو برابرش بدبخت ترن، این ریپو مخصوص سخت افزاری هاست یه مجموعه بزرگ از چیزای اوپن سورس سخت افزاری مثل ابزار های طراحی، با نقشه چیزایی که با پرینتر سه بعدی می‌شه طراحیش کرد و برد های الکترونیکی و ...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/delftopenhardware/awesome-open-hardware\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/delftopenhardware/awesome-open-hardware\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-06-23T16:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "این سایت اومده همه بازی های کنسولای قدیمی رو یجا جمع کرده واسه بازی آنلاین، از آتاری بگیر تا سگا و نینتندو و میکرو.. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eSite 1: \u003ca href=\"http://retrogames.onl/\" target=\"_blank\" rel=\"noopener\"\u003eretrogames.onl\u003c/a\u003e‎\u003cbr/\u003eSite 2: \u003ca href=\"http://retrogames.cc/\" target=\"_blank\" rel=\"noopener\"\u003eretrogames.cc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ fireabusefyan",
       "date": "2026-06-24T10:37:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63200,
+      "views": 63400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +30,7 @@
       "date": "2026-06-25T13:35:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +42,7 @@
       "date": "2026-06-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +60,7 @@
       "date": "2026-06-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +72,7 @@
       "date": "2026-06-25T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +90,7 @@
       "date": "2026-06-26T10:30:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +108,7 @@
       "date": "2026-06-27T09:47:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +126,7 @@
       "date": "2026-06-27T10:40:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +138,7 @@
       "date": "2026-06-27T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +156,7 @@
       "date": "2026-06-27T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +174,7 @@
       "date": "2026-07-17T11:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5220,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +186,7 @@
       "date": "2026-07-17T11:31:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +204,7 @@
       "date": "2026-07-17T11:38:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +223,7 @@
       "date": "2026-07-17T11:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,12 +241,72 @@
       "date": "2026-07-17T15:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3330,
+      "views": 5170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5262838511161076891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2998A.png\u0026#39;)\"\u003e\u003cb\u003e♊️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e حساب پرو هوش مصنوعی جمینای\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5863838988606904294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eوقتشه همه امتحانات رو نمره کامل بگیری \u003ctg-emoji emoji-id=\"6035179269997464380\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5463181048844135476\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA497.png\u0026#39;)\"\u003e\u003cb\u003e🤗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قیمت فقط ۲۵۹ تومان تقدیم میشه خودشم یک ماهه روی ایمیل خودت بدون نیاز به ورود به حساب\u003ctg-emoji emoji-id=\"5863852315890422523\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5454357665599744853\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تازه خدمات مجموعه ما فقط به هوش مصنوعی خطم نمیشه! میتونی تلگرام پریمیوم، استارز و حتی اسپاتیفای تهیه کنی!\u003cbr/\u003eو همینطور قیمت ها هم رقابتی هست و فکر نکنم کسی زیر قیمت ما خدمات بده :)\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6006051467515923703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سفارش:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/ArvanCoinBot\" target=\"_blank\"\u003e\u003cb\u003e@ArvanCoinBot\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e",
+      "date": "2026-07-17T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YNZLVIgtndw5HAOlbIlxEXPavEwE75IbET6u7a_cN_bU26KwI4PE52YkoeHjusJlpLrwEf4ruw-25U9w8v4IQ5_H_CRwrPeRongUcIGxLdooFk_iMJxW8KTeMIC157aZbYC6JJ52Z3OP01yIY288BGJpiYQCkA005JCRoKzcUUjsQaBxKqugAKeyiqp2im6uT_UFRTPHJm90ckmyJ8w9AZdEPItX7kCSscYlRcrieBnkTm7nIyGiW4k2tg-UuvnOAjN0TYSxjIsQRMJdhQK4GjAmtsaLXyPpRUY_ibllfZm6wwRuW8lrUvFEgyh7G8mlyE8R-wUBOEQD8nT0oKwAAQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه یه رزبری پای توی خونتون داشته باشید تقریبا همه کار باهاش می‌تونید کنید مثلا این پروژه رو ببینید اومده رزبری پای رو تبدیل به دانگل وایفای کرده، نکته جالب اینجاست کامپیوتر شما اصلا فرق رزبری و دانگل رو نمیفهمه و فکر میکنه واقعا بهش دانگل وایفای وصل کردید و هیچ درایور خاصی هم نیاز نداره\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ewww.cnx-software.com/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-17T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YJ1uWItNT9XdRpaRxwtTT8_iIbyYMq3rHFU18PyFQYcaMqOgIyK16dwWowb2vr5sNe2eG3VmQ_yTLpdIDGDyz1Av0SUvR0jWTsbZ05Lx0gn_0unx7wfzbS702VUls8lt4muGX7CLTQoPMqDSRzH_qGPAoU6FrSf5zulH8kiMDGgn6oQX-MoGIXQptbykY-Jg-U0EUR2XYGHwNTxjp8BsrI6uVMJP6GJWFf9gJ_SzQ_WbBixOXj3GXmaAWQD8qmTKQk7Wv7uE-uyjczyExCM8PzBipNWcELTC315WiNjG1Vv3q_0MBOCKnCUwgmqJ17fZ17YQ2DvB3HHQ0jKqDCzncQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستانی که سایت دارن دقت کنید شما به هیچ وجه نباید چیزی متفاوت به گوگل نشون بدید و یه چیز دیگه به کاربرا (کلوکینگ)؛ دقیقا باید همون چیزی که به کاربرا نشون میدید به گوگل هم نشون بدید، گوگل روی این عمل بسیار حساسه و خیلی از مواقع سایتتون رو با چیزی مختلفی غیر از گوگل بات چک میکنه و وای به حالتون اگر بخواید گولش برنید علاوه بر دی ایندکس رتبه سایتتون هم میاره پایین.\u003cbr/\u003e\u003cbr/\u003eالبته دقت کنید گوگل باهوشه فقط کلوکینگ رو برای چیزای مفید مثل تغییر زبان سایت برای کاربرای مختلف یا شخصی سازی های خاصی استفاده کنید گوگل خودش با پارامتر های دیگه می سنجه و میفهمه چه چیزی رو به چه کاربری نشون بده شما نباید دخالت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-17T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "پاول دورف و ایلان ماسک هردو گفته بودن اگه دانشجو هستید بهترین چیزی که میتونید یاد بگیرید ریاضی و فیزیک هستش\u003cbr/\u003e\u003cbr/\u003eراستم میگن اما حرفشون یه اشکالی داره، یادگیری ریاضی فیزیک برای پولدارا و بی دغدغه هاست، برای مثال به خصوص توی ایران یادگیری ریاضی و فیزیک درامد خوبی نداره و شمارو اصلا وارد Positive Feedback Loop نمیکنه که توش پیشرفت کنید، ولی واقعا راست میگن من خودم اگر هیچ دغدغه مالی نداشتم تا آخر عمر ریاضی و فیزیک یاد می‌گرفتم چون جز بنیادی و مهم ترین ابزار های فکری بشر هستن!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-17T19:15:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1784311584
+  "last_updated": 1784317092
 }
