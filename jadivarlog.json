@@ -80,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VFmvWXzSZCAsSbLfN_RH96JX38L5d0YZewQflR8U3l40Pe1GVXgWnz9icelwMcL_ccT50HmNdmJm5dC0b-yKrscVSNpOekNRRgmuEV6VylijWrvlSucM8kD9_daPkN5Ou0naWx20iNt7K9XhKYFVFAuxStEngrOmDpGNbFYCODGSbaq3VKYhwsu_O8xz7LBpXKqH_sNG3agfXtEG3iMUbwHnpVEjxrDKECSQ93HqZs8Y-HIUaysEY8BmJn7YbVh2W5Dz60glwuTvDWiy-M7mdvmurOFjuYzfy9ykH6PVgm6wtO3Ltb5KEOE2sdKfl4oFsJY8FlFhxuiOMK_nMfcfRg.jpg"
+          "url": "https://cdn1.telesco.pe/file/QfwBU0VwxGRXZdb9y1eMbPJIbX3AfR3RTmzdTR6GUayKBbMWHbOoCaLlIZLXSpnchqMl7nLxtef0ZrLMAUK0jPMAib8UIX7efVqKuHSTtL3UsaN_RAdWjM0NiRh9bYCqSYWdlf1NCIxUFd23KAyiYtTR9gyMj3v3LYfAgrTnMdS4ldRP2A5vQZQnKThA9OZikTWB2HL02wLBryzXIpIrjTjTu1Ib87eIMaIjX9wtXn_eSrLs3AuKYunE5unUCeWFH7CTqq20uF4HjvXF5JKy_gw96NrWVxPBav2ba7A6BksoXymhXrywXSwGM8TF21IbDdSeib6oOblktqTEMoJDxQ.jpg"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "date": "2026-05-31T16:52:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84100,
+      "views": 84200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-06-30T17:17:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51900,
+      "views": 52000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-07-03T23:09:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41600,
+      "views": 41700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,5 +145,5 @@
       "sender_name": "جادی | Jadi"
     }
   ],
-  "last_updated": 1784437909
+  "last_updated": 1784446662
 }
