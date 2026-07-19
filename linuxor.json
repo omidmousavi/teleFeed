@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "فنی ها یه چیز مشتی براتون اوردم Jcorp Nomad یه سرور رسانه‌ای آفلاین و قابل حمله که با تراشه ESP32-S3 ساخته شده و اندازه و ظاهرش شبیه یه فلش USB هست.\u003cbr/\u003eاین دستگاه بعد از روشن شدن، خودش یه شبکه Wi-Fi محلی ایجاد می‌کنه. بعد فقط کافیه گوشی، لپ‌تاپ، تبلت یا هر دستگاه دیگه‌ای رو به اون شبکه وصل کنید تا بتونید فیلم، سریال، موسیقی، کتاب و سایر فایل‌های رسانه‌ای ذخیره‌شده روی دستگاه رو به‌صورت استریم تماشا یا گوش کنید.\u003cbr/\u003eنکته جالبش اینه که هیچ نیازی به اینترنت، مودم یا روتر نداره و چند نفر هم می‌تونن به‌طور هم‌زمان بهش وصل بشن و محتوای دلخواهشون رو پخش کنن. این ویژگی باعث می‌شه برای سفر، کمپینگ، ماشین یا هر جایی که اینترنت در دسترس نیست، گزینه خیلی کاربردی‌ای باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Jstudner/jcorp-nomad\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Jstudner/jcorp-nomad\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-18T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Tv39xe-YiNffekSq-B3TOuQ_FLR1B9DW2h3tlDZaKS1wHCoBYxNeJtedUUFoZEYrrYQZEEiHfl10ubGVYpZ-xORDpwk3ZB1MSmYijXQoJVt5Eei5Rt6DUFvmOHGaHJnXUYGOacfotkr1BwfaL4aLnsdqljyzzm2gzFUHEIBL7guLoNpAqogr_qFz8vintJdENEpd57UvyvAkGUS7zxqYCaHLxXYKl60ujqR_WWuFe7_Xk6Fg0v2p-zTW8kkwG_4uxMM_H3e7rZeeXdHpdDaa0hCmY1oU6FhLeOMCWGcoFSyu7lI3SPBl5t20XA7mjkGCEjjyWGsu8U5cEASgdt1JJA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "همیشه وسط کار با Claude و Codex به لیمیت می‌خوردم و کل فلوم می‌پرید. این چند روز 9router رو آوردم بالا و کار جمع شد! 9router یه پروکسی لوکال رایگانه که میاد ابزارهای کدت رو وصل می‌کنه به ۴۰+ پرووایدر. نکته‌ی قشنگش fallback سه‌طبقه‌ست: اول ساب خودت، بعد مدل ارزون، بعد رایگان خودشم سوییچ می‌کنه و دیگه با quota exceeded خداحافظی میکنی.\u003cbr/\u003e\u003cbr/\u003eیه بخش هم داره به اسم RTK که خروجی ابزارهایی مثل git diff رو فشرده می‌کنه اینطوری حدود ۲۰ تا ۴۰ درصد توکنت کمتر مصرف میشه! نکته مهم اینه که اپن‌سورسم هست. اگه چندتا ابزار AI رو هم‌زمان استفاده می‌کنی، حتماً یه تست بکن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/decolua/9router\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/decolua/9router\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MamJeyDev",
-      "date": "2026-07-18T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uRC0TXvXDEVp-hJR4J7qPZYM2SnlMjTI-D0E_7Bs51cO_6gdgGjzsXLaTyQ6rNV8dXosCVe96xCrwdZOv2Ae1jFghX57p9Mi0c5MshekGaj7t67WL5ROVXEB4rRgbq6pmZUe-hfBAG1XkGjlEYKDzZoxssNo99eY8C0H41cvGhYmXY7D6sKrEbsYzwTp7RlST4Q5fxT9TNcDKIwLcKp_-8Q6wl93sw10i57PjHDPflGZuTj8rMghoAWt5eb3x3g4MPjfAsEiZY_bnZvKdxGzXefGhgWWemCJi3JhCB2IBts8oNcbdNEUCXKMpvZEL1i6VgVmY84eR9905uUVZua1wQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "کتاب رایگان مبانی مدل‌های زبانی بزرگ (PDF)\u003cbr/\u003e\u003cbr/\u003eاین کتاب قدم‌به‌قدم توضیح می‌ده که مدل‌های زبانی بزرگ (LLM) چطور ساخته می‌شن و کار می‌کنن. اول از همه درباره Pre-training یا همون مرحله‌ای که مدل از حجم عظیمی از داده‌ها یاد می‌گیره صحبت می‌کنه، بعد می‌ره سراغ ساخت مدل‌های مولد، آموزش اون‌ها در مقیاس بزرگ و نحوه کار با متن‌های طولانی. بعد یاد می‌گیری چطور با Promptهای مختلف از مدل بهترین جواب رو بگیری و با تکنیک‌هایی مثل Chain of Thought کیفیت پاسخ‌ها رو بهتر کنی. در ادامه هم روش‌های هم‌راستا کردن مدل با خواسته‌های انسان، مثل Instruction Fine-tuning و Human Feedback رو توضیح می‌ده و در آخر هم می‌رسه به بخش اجرای مدل؛ یعنی الگوریتم‌های تولید متن، روش‌های سریع‌تر کردن استنتاج و چالش‌های اجرای مدل‌های خیلی بزرگ.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://arxiv.org/pdf/2501.09223\" target=\"_blank\" rel=\"noopener\"\u003earxiv.org/pdf/2501.09223\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-18T17:15:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-07-18T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-07-18T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 7480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +66,7 @@
       "date": "2026-07-18T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 8170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-07-18T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9030,
+      "views": 9160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rFHOp1Tz7sGTKvvBBCClZvmgv12JpDSTnpJaY9zOwTYO8G1-xSsoCkG4YXjF0pzPhBOQmdUa4Hf0LkV1jYU1th2yxLNNhGdZbocxcVKdZoC2HCTgBE9Hm_9eJSZtjFt7-pMVI-2IP8NAkj8Zw9kURGZWzHyEWCMfDFEBlC8CG3WOVi9bpnOL-1-UY2rAz9R3Hx6v27QTdfT3GWsgAJ4zMu8YzNzLJ1sm0ypB_skBKMl3Lu3CwhHZ-pU0ZXVSB0ylf600w9mwEOFn_8D8heJpMnj9WivtAr5R07U-gqP-WFm5IPTbPG970f8oAyUum0oqfP2hAqnRJ2ij0blV8isShg.jpg"
+          "url": "https://cdn4.telesco.pe/file/Tv6XN7SUTxjyuAK5deL0vwkOd6Ayb5M8EgdX2odNtyvK-e0jpjStvYVy2Dc5wwcMujJlhFrpVsXMIisMSAUsrMqxD7MqbCb0NSag490mlIWfATYJPNR-6YNdh3ywirw_Er7IX8qoI6sc5DvIh7vYyAyh5yWJh98RVT58NGsjAimSqZPzsTLFsvK5VBhPHEGjxfQJQjemTsc49Go-T7vaxcFgZtX4EeXxitxD4iG9dV1cQV7nm0SehV5uumIgS3VhpXD6JgMUofo8BRP1x2N_KeaHZmVL0HtldMllbsDEeWthmdNJXRvS6vCFJkvNgapcc28PHUQujxc90OUcmNcpZg.jpg"
         }
       ]
     },
@@ -138,7 +102,7 @@
       "date": "2026-07-19T07:39:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-07-19T09:57:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +126,7 @@
       "date": "2026-07-19T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +144,7 @@
       "date": "2026-07-19T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5630,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +162,7 @@
       "date": "2026-07-19T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +174,7 @@
       "date": "2026-07-19T15:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 5610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +192,7 @@
       "date": "2026-07-19T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4540,
+      "views": 4980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +204,7 @@
       "date": "2026-07-19T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4510,
+      "views": 4970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +222,7 @@
       "date": "2026-07-19T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4480,
+      "views": 5010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +234,7 @@
       "date": "2026-07-19T17:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +246,7 @@
       "date": "2026-07-19T18:01:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2890,
+      "views": 3890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +264,7 @@
       "date": "2026-07-19T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 2890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +282,7 @@
       "date": "2026-07-19T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
+      "views": 2710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +293,44 @@
           "url": "https://cdn4.telesco.pe/file/I-o0bPaHTMq2UWAQpGLxpt4_IxXY8g3sMvkXxldghLFu4hkobEPMxI3W1EmuquzdlXAfjEmNPfmsdUdwSXspuX1amAA2Iw-LaBARQAhAdEgZmNzUR_8Ozmk0rV1NkNXSEBwrEEqEPNEWu8plcBFZzZ2RbhXadYP7UmtTsghs1gmQfnudrxogoDNw3he6JQLdjbYWNUcW5PH3KNnl79AtzvFgJPoUmuCQJ_0e7R-UWXIvzX6cnSBLqyoLFKblLRezHHjKKG6_PPdLCetjQlPM0-bjB3ww593m1gcmjaCAXMheOB-8IK1kdb7fN2mr72UG1hH2WlNwM4k79R7pI7JRXg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "با این ابزار اوپن سورس می‌تونید بازی ها و برنامه های اندروید رو به زبان های مختلف ترجمه کنید، یه مدل افلاین داره و البته مدل انلاین API_KEY هم می‌تونید بهش بدید   :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/dominostars/playtranslate\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/dominostars/playtranslate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-19T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hMNKbTOredB-NZPRXITPeUIgKWevZgqUUaQ1PUUcl__ZOFOs-3Qouzej9vb1-x30ixdL79TBNHdjWLazsOpSzbhXL1I8975dTltdtykVyUWrNgI6d5Z4BZGiEbpWhTAFPBmj8TEDV3BBPFQzjz3fqTb6hSl3lwocNVOsR_si6u-CpkE_I_nSM07sDfsIoB5S5fHOT_3tCOLXFb1G75mcxy8niA5eERDfPWRlGMhuMA6iiNWSEHYJ3pzka85-vGCXyE3ibDZ45yNODCRJBAFdtaaWc53gJ9Jc9ZgHqEgNWlT4Z8dQeE6fwFBcXgjsrsLEDAXaQSwCYg0SUhqaLy8sFQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "‏اگر AI رو دنبال می‌کنید این پروژه رایگان و اوپن سورس رو از دست ندهید یه SDK متن‌باز برای ساخت Computer Use Agent ایجنت‌هایی که می‌تونن به‌جای شما با کامپیوتر کار کنن از کار با موس و کیبورد گرفته تا کنترل صفحه‌نمایش و ترمینال از مک، لینوکس و ویندوز هم پشتیبانی می‌کنه و در حال حاضر به رتبه اول ترند روزانه گیت‌هاب رسیده\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/trycua/cua\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/trycua/cua\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ 0xdavinchi",
+      "date": "2026-07-19T19:19:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Bc9Ee_ppJBw6rb--m4k27_5fFcfPd5zq9Aazu50stppRZXKIbmhFeyjQPHYV7zCIL9ZFzS7jiuZPsBX5eIBIwSK40m9FQJU9e6CAFtx6Qax3bY1I-XK_0DrNnV0rnCtxfLwT4fSkrZfSdY-FRDhREnjo6gxlJVfzYc6b_rMDtL78r8pSgdm07c9vBDwFogjIRplOVNzvWLbD-A-qpHqSFr70eNEDOf5duCVV_-t_aJ3XKO33kHwNPKBa-fRHV5TOtXMEKjRXm4-uYfOEtu-SEF6XLsj5e-r9uJWYib_TGFaXu4gA6ynaOadKp0jxYESGBsQoQyUz8xl_EzTCFqle_g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784487057
+  "last_updated": 1784491347
 }
