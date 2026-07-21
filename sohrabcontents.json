@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک مسأله‌ای که خیلی از افراد در هنگام مهاجرت به گنو/لینوکس دارن پیدا کردن درایور برای گرافیک‌های قدیمی انویدیاشونه که بر همین اساس خیلی‌ها می‌رن سراغ توزیع‌های قدیمی مثلاً دبیان ۱۱ یا حتی اوبونتو ۲۰.۰۴ که عملاً درحال حاضر استفاده ازشون منطقی و عقلانی نیست برای یک یوزر عادی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدرایورهای قدیمی انویدیا چندتا مسأله دارن.\u003cbr/\u003eیکی اینکه از وی‌لند پشتیبانی نمی‌کنن (سری ۴۷۰ به قبل) که عملاً گنوم و کی‌دی‌ای رو برای شما همون اول کنار می‌گذاره، دو اینکه Xorg از زمان عرضه اون‌ها کلی ABIهاش تغییر کرده که اون‌ها رو حتی با Xorg هم ناسازگار می‌کنه. نمونش درایورهای سری 340xx به قبل با Xorgهای جدید سازگار نیستن و سوم اینکه ماژولشون درحالت عادی با کرنل‌های جدیدتر کامپایل نمیشن.\u003cbr/\u003e\u003cbr/\u003eخب بعضی توزیع‌ها بخصوص توزیع‌های غلتان برای این درایورها وصله از طرف جامعه عرضه می‌کنن مثل \u003ca href=\"https://aur.archlinux.org/cgit/aur.git/tree/0016-kernel-6.8.patch?h=nvidia-340xx\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآرچ لینوکس\u003c/a\u003e که اون‌ها رو با کرنل‌های جدیدتر سازگار کنن و امکان نصبشون رو بدن.\u003cbr/\u003e\u003cbr/\u003eولی درکل اگر نظر من رو می‌خواید چون این گرافیک‌ها خیلی قدیمی هستن و درایورهاشون سازگار با کرنل زمان حکومت ناصرالدین شاه قاجاره، توصیه می‌کنم روی همون درایور آزاد Xorg بمونید و تغییرش ندید که هم بتونید از تکنولوژی جدید وی‌لند استفاده کنید و هم با به‌روزرسانی کرنل توزیعتون دچار دورانتاشیدگی مزمن نشه و بعداً درگیر رفع مشکلات اون باشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-09T10:43:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "ویدئوی معرفی، مقایسه، نصب، نقد و بررسی پارچ‌لینوکس با عنوان «برابری و پارچ‌سازی» در یوتوب منتشر شد: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/wiQS6NFFME0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wiQS6NFFME0\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eدر این ویدئو علاوه بر معرفی خود پروژه، در مورد فروم، ویکی، مقایسه با توزیع‌های دیگر مبتنی بر آرچ‌لینوکس هم صحبت شده. در واقع میشه گفت هر سوالی در مورد پارچ دارید در این ۴۸ دقیقه پاسخ داده میشه. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/haghiri75_blog\" target=\"_blank\"\u003e@haghiri75_blog\u003c/a\u003e",
       "date": "2026-07-09T11:53:06Z",
       "edited": false,
@@ -74,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UZdyCgAJ6Y0vnBpkyu7dR0SA7YwsUkBBJXi6SDkWp0dQMVGXl6tAIgc_qtIDtNkWyIfPQjE_z1nE10eE66yJRxB1tsSeaoU4B2TUijxNLX_qLAXU58TW-bmsHxaAWbv4o0qizvnlFXmjroHHRPBc0fBF_aCmTvA9gZvlI6qB6lENVaL1L9D5cVgbDlFJru--PdNeemzTQbUxfMD0oIkYEGGtFc7eni3zNiNyJrm9BDOapzIO0CATXiI__BZTcTa2ebNp462njQg_CwzhHxl2v8Ejdgto-3DG-3a9aXIq7_eOhbiPI9CoXcBuPMQBgyBEXLG9OTgY62gYcI_QJmd2PQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/jE5XNZ1jr62eC6uBFl-byaRiKFyQSgc3JkHLEfymvQOHXCoq5vrJfB2Frilar4dAezx19hfbw38cLi1HgZt_5I9fF9jI_ZbUQAYxb2GaIsoKXiydIknEbkDjRx1lRg8UP33KFqTKWZWT7h39lRntXzmAbmumtBzN7a9czWLVBeAtwlSTPbgtM6v7IIkT_jdavGvEHJtUFjUJgqjh7FNgT2cPtB70uvP378iQpVCSqLSyhyPUXVQ9mAruJZBU9QC_QcshYdksLQgogJeATWSN0ztKQbYuNuAKdaCu63sJ9bOnlbZPV25tMZmE7hQVOWlIYu-hQcKmXo3VhavR786ftg.jpg"
         }
       ]
     },
@@ -84,7 +72,7 @@
       "date": "2026-07-12T10:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1590,
+      "views": 1600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-07-12T13:09:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1550,
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +102,7 @@
       "date": "2026-07-13T17:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-07-13T17:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +150,7 @@
       "date": "2026-07-14T11:57:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-07-14T21:44:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-07-16T20:01:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 990,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +204,7 @@
       "date": "2026-07-17T09:28:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 981,
+      "views": 994,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +216,7 @@
       "date": "2026-07-17T09:38:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +228,7 @@
       "date": "2026-07-17T17:44:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +240,7 @@
       "date": "2026-07-18T10:29:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 851,
+      "views": 928,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +252,7 @@
       "date": "2026-07-18T17:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 813,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +264,7 @@
       "date": "2026-07-20T20:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 571,
+      "views": 631,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +275,25 @@
           "url": "https://cdn4.telesco.pe/file/E-A8NlpJrgu6jscwlytABegOBdigc2PoxPMVazavBOJtHGiE6ZK2vOmxyVopFCWP7NWxw16XTKrhE2NxzqsQJp88EWsBfGDAmYKrFfiD9qvbVR0Oo4v9QYAqp2APctIZigI9Vq3ByllU0SDCnzCZOS9snJybMF0QsHVz-WyoRTieKNuACjF_7lsxmTzi84jZR20YMrOtktyS1te3pNwZuG5eZWf7jgHhE383XMVU8L_6F1kLLeXbqz_joH6zL4iL3CjZMI0uJsmiZSCOMqLETT_9Zff8MoAr__VedZMSGueeC3304xUxQzGn27qqOg3oF-1Jc4WQsQCDLGKXqrPRyQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نگارش ۰.۱.۱ ابزار گیم‌هاب در مخزن پارچ منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاین به‌روزرسانی شامل بازطراحی اساسی بخش‌هایی از رابط کاربری و رفع باگ‌های مهمی است که تجربه کار با گیم‌هاب را بسیار روان‌تر می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمهم‌ترین تغییرات این نسخه:\u003c/b\u003e\u003cbr/\u003e \u003cb\u003eبازطراحی کامل صفحه پروتون:\u003c/b\u003e این بخش حالا کاملاً بر اساس استانداردهای طراحی گنوم (GNOME HIG) بازطراحی شده است؛ مدرن‌تر، منظم‌تر و با امکاناتی جدید مثل دکمه حذف اختصاصی برای نسخه‌های نصب‌شده.\u003cbr/\u003e \u003cb\u003eرفع مشکل بسته نشدن برنامه:\u003c/b\u003e باگ آزاردهنده‌ای که باعث می‌شد برنامه پس از بستن پنجره همچنان در پس‌زمینه باز بماند و از منابع سیستم (CPU/Memory) استفاده کند، برطرف شد.\u003cbr/\u003e \u003cb\u003eحل مشکل بارگذاری پروتون‌ها:\u003c/b\u003e باگ لودینگ بی‌نهایت لیست ابزارهای سازگاری (Proton) و همچنین مشکل عدم نمایش انتشارها و نسخه‌های Proton-CachyOS حل شدند.\u003cbr/\u003e \u003cb\u003eاعمال مستقیم تنظیمات:\u003c/b\u003e کلیدهای بخش تنظیمات (مثل تغییر CPU governor و پارامترهای کرنل) حالا به جای یک تغییر ظاهری، به درستی دستورات سیستمی مربوطه را اجرا می‌کنند.\u003cbr/\u003e \u003cb\u003eبهبود اجرای لانچرها:\u003c/b\u003e افزوده شدن Minigalaxy به لیست لانچرها و حل مشکلات مربوط به زبان سیستم (Locale) در زمان اجرای لانچرها.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
+      "date": "2026-07-21T16:17:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 212,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/s3f8NhQyoYkcmhSqjtjUjDM8gVamJxs82eDma-inGVMTdE9CUdgvJtCtWLkuZ3UQpfdC_eIQ4jNECRRDN5Ybp4AGgpmUs59ndZVAK8YNzkIexpl5Ec6RcOHKmC5U8fRCR5bXy_tPbXrx9YZ-sbL9kvVyeim30Cn3fRhEJH7XrfAY_VP5zi5nVEdAErdK9nL9ZgiyQFdkrjZgWsLGabfmxhtEJPlkj4QfJJ_E8Zy_Dpe0dgwSqVmlNVYZzVJuwp70pwqoAxAiYYwRxJx6kyYaZrnd6vfbFOCY_nmEIAxgyj3-tCiFYPEm3ilZIY6h5uT7aoouTUqTWVU8m0OUM3Va4Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784649838
+  "last_updated": 1784656230
 }
