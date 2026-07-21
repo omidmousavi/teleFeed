@@ -174,7 +174,7 @@
       "date": "2026-06-14T11:08:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8990,
+      "views": 9000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +228,7 @@
       "date": "2026-06-19T13:54:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8770,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +236,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/U4S-wSjGRRYY6lqu4-615JY72XKHYImU3L--s5Fd9P632L-SsRLIKR9aGBxdcE-VIBeX9Ba3wJ841fE02PL4MolryVIQ_QlUoTC8DMq_YdOjfdlQd_USPsmFStsps32w8oJQBK0xBVy5C8Gblo6AMBbOs79m9qQMKbvAwbsse3wtzGdBNygCHEcOk13dEK5mx1KmHbgE1uvFqvFYTfSL_R4HOO8ljeOAUT8za51xcfPAFwHHFFhMMM-Tc7jRIW5pzYBpBFroY1DfaxmSUSXf-DZHXP_BKHRul7ceeBJGYUBpsZnk7rVsqF2GZVm-dDcvionz8MOX27j6c35pfUAOyw.jpg"
+          "url": "https://cdn4.telesco.pe/file/sCW6Px9UTtkQ4AP4wduHXHqUqGIG_X4h8yfyDvwJ8MzYFUE-0y27oBKCIh2GSMFQjqR-h-H0eOUMyJHXKF7Yc6_zQDuJ-ht-tByPY9cSs5K-29VW7olIo2QKwSrZJr139_JR1pPBuKgeDUNMqPXDmb4AlPN_3ObiMHa52AJHy_OleGxw3-0Lpa8-Wpo4sm6_JerGG1kYNes-dAhxqj2UdkLZOBOdf6bkNjHvzz9vmOl72HIm2zLVnEQqWBHuIknzWrPhRtF7r9cpWbYMBSplcH3SzI7Qik0rCjchEUL0j2yUDuFCZWVVqlxrAlMX0r81LSoqgEaeaKy_gyIrWVHjSQ.jpg"
         }
       ]
     },
@@ -246,7 +246,7 @@
       "date": "2026-06-26T20:22:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,5 +265,5 @@
       "sender_name": "اینترنت آزاد 🕊️✌🏻"
     }
   ],
-  "last_updated": 1784610037
+  "last_updated": 1784619250
 }
