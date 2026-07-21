@@ -8,30 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "ویدئوی معرفی، مقایسه، نصب، نقد و بررسی پارچ‌لینوکس با عنوان «برابری و پارچ‌سازی» در یوتوب منتشر شد: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/wiQS6NFFME0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wiQS6NFFME0\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eدر این ویدئو علاوه بر معرفی خود پروژه، در مورد فروم، ویکی، مقایسه با توزیع‌های دیگر مبتنی بر آرچ‌لینوکس هم صحبت شده. در واقع میشه گفت هر سوالی در مورد پارچ دارید در این ۴۸ دقیقه پاسخ داده میشه. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/haghiri75_blog\" target=\"_blank\"\u003e@haghiri75_blog\u003c/a\u003e",
-      "date": "2026-07-09T11:53:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "روی یک ابزاری داشتم کار می‌کردم به اسم نشانه که بالاخره نسخه ۰.۱ش رو منتشر کردم. یه ابزار جامپ دایرکتوری تو ترمیناله که بر اساس تگ کار می‌کنه، یعنی به‌جای اینکه بشینی حفظ کنی مسیر کامل کجاست یا هر بار بزنی cd و تایپ کنی، بهش می‌گی یه پروژه رو ایندکس کنه، خودش کل درخت پوشه‌ها رو می‌خونه و برات به alias کوتاه تبدیلشون می‌کنه، بعد فقط با یه کوئری چندکلمه‌ای می‌پری همون‌جا.\u003cbr/\u003e\u003cbr/\u003eمی‌تونی تک‌تک پوشه‌ها رو دستی اضافه کنی یا کل یه درخت پروژه رو یهو اسکن کنی. اگه دو تا پوشه اسمشون تداخل داشته باشه خودش تشخیص میده و alias رو گسترش میده تا یکتا بشه، نیازی نیست خودت دستی دخالت کنی. با bash و zsh و fish هم کار می‌کنه. پوشه‌هایی که دیگه وجود ندارن یا miss می‌خورن به‌مرور امتیازشون افت می‌کنه و با یه دستور prune می‌تونی پاکشون کنی.\u003cbr/\u003e\u003cbr/\u003eبا راست نوشته شده و برای ذخیره‌سازی از دیتابیس sled استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://docs.rs/sled/latest/sled\" target=\"_blank\" rel=\"noopener\"\u003ehttps://docs.rs/sled/latest/sled\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمخزن گیت این ابزارم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/neshane\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/neshane\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-09T13:51:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eرویداد شماره ۴ طبرستان گنو \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90AE.png\u0026#39;)\"\u003e\u003cb\u003e🐮\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ثبت نام:\u003cbr/\u003e\u003ca href=\"https://evand.com/events/tbgnu4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://evand.com/events/tbgnu4\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://osm.org/go/zSX9yveRq?m=\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآدرس روی نقشه\u003c/a\u003e\u003cbr/\u003eجهت رزرو هتل \u003cu\u003eتا\u003c/u\u003e تاریخ ۱۹ تیر ماه اقدام کنید: 01144525126 هتل کیانا نور. \u003cbr/\u003e\u003cb\u003eبه دلیل حجم بالای مسافر، امکان پر شدن ظرفیت هتل تا تاریخ رویداد زیاد است\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/TabarestanGNU\" target=\"_blank\"\u003e@TabarestanGNU\u003c/a\u003e",
       "date": "2026-07-10T08:51:33Z",
       "edited": false,
@@ -72,7 +48,7 @@
       "date": "2026-07-12T10:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 1610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-07-13T17:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +96,7 @@
       "date": "2026-07-13T17:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-07-14T08:55:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +168,7 @@
       "date": "2026-07-16T20:01:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +180,7 @@
       "date": "2026-07-17T09:28:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 996,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +192,7 @@
       "date": "2026-07-17T09:38:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +204,7 @@
       "date": "2026-07-17T17:44:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +216,7 @@
       "date": "2026-07-18T10:29:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 945,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +228,7 @@
       "date": "2026-07-18T17:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 864,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +240,7 @@
       "date": "2026-07-20T20:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 644,
+      "views": 662,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +248,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E-A8NlpJrgu6jscwlytABegOBdigc2PoxPMVazavBOJtHGiE6ZK2vOmxyVopFCWP7NWxw16XTKrhE2NxzqsQJp88EWsBfGDAmYKrFfiD9qvbVR0Oo4v9QYAqp2APctIZigI9Vq3ByllU0SDCnzCZOS9snJybMF0QsHVz-WyoRTieKNuACjF_7lsxmTzi84jZR20YMrOtktyS1te3pNwZuG5eZWf7jgHhE383XMVU8L_6F1kLLeXbqz_joH6zL4iL3CjZMI0uJsmiZSCOMqLETT_9Zff8MoAr__VedZMSGueeC3304xUxQzGn27qqOg3oF-1Jc4WQsQCDLGKXqrPRyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/oF7Kb44tFHRiirU_xGyN9NkhylKIxsicxoBM6oeohUuxqCPJZ-JpAbjepM9GKiTbpvPFgze-VQI-v5yRqOKSzh68FPyxhjikZ3my4oj6vRe69jTH7QpJejkbevviZ3WYgumACVNCWOqoRKpp4FVi9KprMNa1rOwL-LlrA2p53uxdQS6jkoU2DcTygcZ9BZ15MBoalHQAblSuu42ujQKHHZc64mT5kDRMBnwP0AuFfNhQoOQBb3axz_9NTusaGfJ6RtSzZdHXun8sVfvI_SejeTB-EIi_Tuwhgb5mX8GKJx0ykCWwVC9x51r0IiHKLgeKM4RazkCLPm4H-qQaTA4O6Q.jpg"
         }
       ]
     },
@@ -282,7 +258,7 @@
       "date": "2026-07-21T16:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 254,
+      "views": 335,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +269,31 @@
           "url": "https://cdn4.telesco.pe/file/s3f8NhQyoYkcmhSqjtjUjDM8gVamJxs82eDma-inGVMTdE9CUdgvJtCtWLkuZ3UQpfdC_eIQ4jNECRRDN5Ybp4AGgpmUs59ndZVAK8YNzkIexpl5Ec6RcOHKmC5U8fRCR5bXy_tPbXrx9YZ-sbL9kvVyeim30Cn3fRhEJH7XrfAY_VP5zi5nVEdAErdK9nL9ZgiyQFdkrjZgWsLGabfmxhtEJPlkj4QfJJ_E8Zy_Dpe0dgwSqVmlNVYZzVJuwp70pwqoAxAiYYwRxJx6kyYaZrnd6vfbFOCY_nmEIAxgyj3-tCiFYPEm3ilZIY6h5uT7aoouTUqTWVU8m0OUM3Va4Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "ما توی توزیع‌های لینوکس دو مدل درحال حاضر داریم. تغییرپذیر و تغییرناپذیر.\u003cbr/\u003eتوی این پست می‌خوام درمورد توزیع‌های تغییرناپذیر و انواعشون صحبت بکنم.\u003cbr/\u003e\u003cbr/\u003eتوی توزیع‌های کلاسیک (مثل آرچ، دبیان یا هر چیز دیگه‌ای که تا الان باهاش کار کردیم)، فایل‌سیستم ریشه یا همون \u003ccode\u003e/\u003c/code\u003e قابلیت خواندن و نوشتن داره.\u003cbr/\u003eیعنی چی؟ یعنی شما، مدیر بسته (مثل \u003ccode\u003epacman\u003c/code\u003e یا \u003ccode\u003eapt\u003c/code\u003e) یا حتی یه اسکریپت مخرب، می‌تونید مستقیماً فایل‌های حیاتی سیستم‌عامل رو تغییر بدید، پاک کنید یا آپدیت کنید. همه‌چیز عالی به نظر می‌رسه تا اینکه یه روز وسط \u003ccode\u003esudo pacman -Syu\u003c/code\u003e برق میره، یا یه وابستگی (Dependency) حیاتی می‌شکنه و سیستم دیگه بوت نمیشه.\u003cbr/\u003e\u003cbr/\u003eاما توی توزیع‌های تغییرناپذیر (Immutable)، کلاً صورت مسئله پاک میشه. فایل‌سیستم ریشه به‌صورت فقط‌خواندنی (Read-Only) مانت میشه. هیچ‌کس حق نداره به هسته سیستم‌عامل دست بزنه. حالا سوال پیش میاد که \u0026#34;پس چطور برنامه‌هامون رو نصب کنیم؟ کدهامون رو کجا بیلد کنیم؟\u0026#34;\u003cbr/\u003e\u003cbr/\u003eجواب اینه: جدا کردن سیستم‌عامل از محیط کاربری. شما برنامه‌های گرافیکیتون رو با Flatpak نصب می‌کنید و برای محیط‌های توسعه، ابزارهای CLI و برنامه‌نویسی می‌رید سراغ کانتینرهایی مثل Distrobox. سیستم‌عامل فقط وظیفه داره سخت‌افزار رو بشناسه و یه بستر پایدار برای اجرای این کانتینرها بهتون بده.\u003cbr/\u003e\u003cbr/\u003eحالا می‌رسیم به این بحث که این روش چند مدل صورت گرفته و با چند روش عرضه میشه؟\u003cbr/\u003e\u003cbr/\u003e ۱. سیستم‌های مبتنی بر اسنپ‌شات (Snapshot-based)\u003cbr/\u003eاین مدل برای کسایی که می‌خوان کمترین دردسر رو برای مهاجرت از سیستم‌های کلاسیک داشته باشن، بهترین گزینه‌ست. اینجا ریشه فقط‌خواندنیه، اما مدیر بسته هنوز سر جاشه.\u003cbr/\u003eچطوری کار می‌کنه؟ وقتی می‌خواید سیستم رو آپدیت کنید، سیستم‌عامل با استفاده از قابلیت‌های Btrfs یه اسنپ‌شات جدید می‌سازه، اون اسنپ‌شات رو توی پس‌زمینه با دسترسی نوشتن مانت می‌کنه، آپدیت‌ها رو روی اون اعمال می‌کنه و در نهایت به گراب (یا هر بوت‌لودری که دارید) میگه دفعه بعد از روی این اسنپ‌شاتِ جدید بوت شو.\u003cbr/\u003eخوبیِ بزرگش اینه که اگه آپدیت جدید سیستم رو بریک کرد، فقط کافیه سیستم رو ریستارت کنید و از منوی بوت، اسنپ‌شات قبلی رو انتخاب کنید. انگار نه انگار که اتفاقی افتاده. توزیع میکرو او اس از اوپن‌سوزه از این روش استفاده می‌کنه\u003cbr/\u003e\u003cbr/\u003e ۲. معماری پارتیشن‌های A/B (Image-based)\u003cbr/\u003eاگه می‌خواید یه سیستم‌عامل رو در مقیاس وسیع یا روی دستگاه‌های خاص (مثل کنسول‌های بازی یا گوشی‌ها) پخش کنید و مطمئن باشید که آپدیت‌ها کاملاً اتمیک انجام میشن، این روش بهترین روشیه که دارید.\u003cbr/\u003eاینجا ما دو تا پارتیشن ریشه داریم (A و B). شما الان دارید روی پارتیشن A کار می‌کنید. سرور آپدیت، ایمیجِ جدید سیستم‌عامل رو (یا دلتای تغییراتش رو) می‌فرسته و روی پارتیشن B که الان بی‌کاره می‌نویسه. وقتی کارش تموم شد، یه نوتیفیکیشن میده که \u0026#34;لطفاً ریبوت کنید\u0026#34;. شما ریبوت می‌کنید، سیستم روی پارتیشن B بالا میاد و پارتیشن A میشه رزروِ شما برای آپدیت بعدی (یا برای مواقعی که پارتیشن B خراب بشه).\u003cbr/\u003eاندروید و سیستم‌عامل استیم از این روش استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003eادامه در پست بعدی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-21T19:23:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 189,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "۳. مبتنی بر درخت‌فایل و لایه‌بندی (OSTree / Layered)\u003cbr/\u003e\u003cbr/\u003eاین روش رو میشه اینطوری توصیف کرد: «گیت (Git) برای سیستم‌عامل». ابزارهایی مثل \u003ccode\u003erpm-ostree\u003c/code\u003e یه ایمیج پایه از سیستم‌عامل رو دانلود می‌کنن. آپدیت‌ها اینجا به شکل دریافت تفاوت‌ها (Deltas) بین نسخه فعلی شما و نسخه روی سرور انجام میشه.\u003cbr/\u003eنکته جالبش اینه که اگه واقعاً به یه پکیجی نیاز داشته باشید که باید توی سطح سیستم نصب بشه (مثلاً یه درایور خاص یا ابزار سیستمی)، می‌تونید اون پکیج رو روی ایمیج پایه «لایه‌بندی» (Layering) کنید. البته توسعه‌دهنده‌هاش همیشه پیشنهاد می‌کنن تا جای ممکن از همون فلت‌پک استفاده کنید تا سیستم کثیف نشه. توزیع‌هایی مثل فدورا از این روش استفاده می‌کنن برای ایموتبل بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e۴. سیستم‌های اعلانی و تابعی (Declarative / Nix \u0026amp; Guix)\u003cbr/\u003eاینجا دیگه وارد دنیای جادوییِ بازتولیدپذیری (Reproducibility) می‌شیم! توی این توزیع‌ها اصلا خبری از قفل کردن سنتیِ فایل‌سیستم نیست. کل فلسفه عوض میشه.\u003cbr/\u003eتوی سیستمی مثل گیکس (Guix)، شما کل کانفیگ سیستم‌عاملتون رو (از کرنل و درایورها گرفته تا پکیج‌های کاربر و تنظیمات) داخل یه فایل متنی واحد (مثلاً با سینتکس Guile Scheme) می‌نویسید. وقتی به سیستم میگید خودت رو بساز، هر پکیج توی یه دایرکتوری کاملاً ایزوله که اسمش هشِ کریپتوگرافیکِ سورس همون پکیجه قرار می‌گیره.\u003cbr/\u003eسیستم‌عاملِ شما چیه؟ صرفاً یه مشت سیم‌لینک (Symlink) هستن که به این دایرکتوری‌های هش‌دار اشاره می‌کنن! وقتی سیستم رو آپدیت می‌کنید، فایل‌های قبلی اوررایت نمیشن، بلکه نسخه‌های جدید تولید میشن و سیم‌لینک‌ها جابجا میشن. رول‌بک کردن اینجا به سرعتِ تغییر دادنِ چندتا سیم‌لینک هستش.\u003cbr/\u003e\u003cbr/\u003eمن خودم به شخصه از مدل A/B و تابعی خوشم میاد؛ چون به نظرم روش‌های تمیزتری هستن. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-21T19:23:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1784660640
+  "last_updated": 1784666491
 }
