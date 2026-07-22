@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "لینوس توروالدز؛ بنیان‌گذار پروژه لینوکس (کلمه بنیان‌گذار رو از خالق بیشتر دوست دارم) در یک رویداد مربوط به اوپن‌سورس در هند اعلام کرده که دیگه برنامه نویس نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو اون درباره نقش فعلی خود در پروژه لینوکس گفته که:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e«اگر کاملاً صادق باشیم، من دیگر تقریباً کد نمی‌خوانم. من برنامه‌نویس نیستم؛ من یک رهبر توسعه هستم.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eو توضیح داده که امروزه بیشتر روی درک تغییرات بزرگ، بررسی درخواست‌های ادغام و هماهنگی با نگه‌دارندگان زیرسیستم‌ها تمرکز داره و به ندرت کد خودش را مستقیماً وارد کرنل می‌کنه :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.zdnet.com/article/open-source-summit-linus-torvalds/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.zdnet.com/article/open-source-summit-linus-torvalds/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-10T19:44:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jE5XNZ1jr62eC6uBFl-byaRiKFyQSgc3JkHLEfymvQOHXCoq5vrJfB2Frilar4dAezx19hfbw38cLi1HgZt_5I9fF9jI_ZbUQAYxb2GaIsoKXiydIknEbkDjRx1lRg8UP33KFqTKWZWT7h39lRntXzmAbmumtBzN7a9czWLVBeAtwlSTPbgtM6v7IIkT_jdavGvEHJtUFjUJgqjh7FNgT2cPtB70uvP378iQpVCSqLSyhyPUXVQ9mAruJZBU9QC_QcshYdksLQgogJeATWSN0ztKQbYuNuAKdaCu63sJ9bOnlbZPV25tMZmE7hQVOWlIYu-hQcKmXo3VhavR786ftg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "درکل از راست داره خوشم میاد برای نوشتن این مدل ابزارها؛ این رو قبلاً با پایتون نوشته بودم که خیلی مشکلات پیش آورده بود؛ روی بعضی سیستم‌ها که به کل بدون لاگ اجرا نمی‌شد و کد من هم توی جنگ به اسپاگتی تبدیل شده بود چون یک سری فیچر رو همینطوری اضافه کرده بودم؛ می‌تونم بگم که بازنویسیش توی راست واقعاً حرکت درستی بود که انجامش دادم و حالا یک سری مشکلات هم پیش آورده بود توی انجام اعمالش که منطقشون رو بازنویسی کردم و برطرف شدن :)\u003cbr/\u003e\u003cbr/\u003eحالا با خیال راحت می‌تونم روی این هسته پایداری که الان داریم فیچرهای جالبی اضافه کنم برای این ابزار.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-12T10:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 1630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-07-12T13:09:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 1580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-07-13T17:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 1330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-07-13T17:48:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-07-14T08:55:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-07-14T11:57:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PNLd5By3qDZGDRWfbl4I2VCU5bBPcooHZ1HJj84kmAdFL9iF5hepPGgEPfF2GFOvLg1HZH5_HOt8gFY_eCCXFjmhAuW2FgM82L29dOSh6iJ5Kqu3wyUBg9a2pQnsc4w1yZpbh6a1D0gbCTtvtKmiQeMh7rbMexyHu6-6dtHAURZK9INmyN2WtC_V7mIoIrP5xHm760eA8MMl3ZB8PcBmjeoKYumsZ4W0v-qK9EsOtvEfC67CBOxANLHmZxNqdg4IASZWD7ujCSBfZIF_rFYRW13VbqT1qkiWigr8PYBCUyTEJfzRx0JdoYlaST15fxIlkUA4QaywRwJBo1Jgm5y3Mw.jpg"
+          "url": "https://cdn4.telesco.pe/file/S0_2l0A5Synt9NdHTaPVJD0ikwxq4jtO9cRh4l5PgXNW3K40u162LHfFFdp_utu7vNVrJb2_aoO7r_sUBbQYlByMzkWcFkrs3FEtrabp9xju1k40SDtHCjyE083qXB7EmxNf2-raFOm3hWsIFg4gdPsJ77lcDTDIplZ0ADHTaxNAM20pV6arKuYC-LwmuG75WPjpIonpYchF3i7vOIZzkorjn5TWMkRGupf8tLzzuCHFU4IqjP2oyDVF4p_HkqB7ta0Z0wSiSi6M1iCt8E3B7v9UlgKb7nRomSPkPbwMgC4Fn4BuZFxqaqRIOFU8j1PpoaBeoOmoo288ktlHvRgo7A.jpg"
         }
       ]
     },
@@ -126,7 +108,7 @@
       "date": "2026-07-14T15:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-07-14T21:44:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-07-16T20:01:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-07-17T09:28:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-07-17T09:38:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-07-17T17:44:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +180,7 @@
       "date": "2026-07-18T10:29:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-07-18T17:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-07-20T20:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 696,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +222,7 @@
       "date": "2026-07-21T16:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 430,
+      "views": 492,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +240,7 @@
       "date": "2026-07-21T19:23:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 366,
+      "views": 449,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-07-21T19:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 395,
+      "views": 515,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-07-22T07:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42,
+      "views": 301,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +275,25 @@
           "url": "https://cdn4.telesco.pe/file/daB8VaR-UiWKc30vwtx-hwWzAlLYg59lglepKgI--7Uj_7C5NXqI_nYEq2MG39-5Wp5tHU22HkePjBTJMGgTdGboaiVIWZCC5MrgZp6bzkYglWGZ9rTvnmFUz_JRjyIogpQNe_FGQPeh5YcbfQt1xeG0r-421t8b88-HGwDhJo00IfFSn0GIpQnByUj_7TV_SHTnV6MxZkonKpbsz1UQr53xM1LOZ0a9nzByilR_3bF2000ezcu1tjMG3tTaEoc5ZPQLMIwfztAI6g1q-NFu8aHWuHI9AGCRxeob8FFwSqRho4Ld8gWVHOMhkFvr00xKhT66LMTrH4_vTTvPBJtV0A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "هرچندوقت یکبار هم یکی میاد و دنیایی جدید از ترکیب فری بی‌اس‌دی و محصولات اوپن‌سورس اپل خلق می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eالبته پروژه NextBSD یا FreeBSD X یک پروژه نسبتاً قدیمیه که از ترکیب پروژه‌های اوپن‌سورس اپل با فری بی‌اس‌دی خلق شده.\u003cbr/\u003e\u003cbr/\u003eمثلا از launchd مک او اس به عنوان PID 1 استفاده می‌کنه و چیزهای دیگه و به تازگی یک بتا هم داده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nextbsd.org/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nextbsd.org/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://en.wikipedia.org/wiki/NextBSD\" target=\"_blank\" rel=\"noopener\"\u003ehttps://en.wikipedia.org/wiki/NextBSD\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-22T07:40:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 299,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cVPUzVnjh67D30GOool4LwbDAYBCEgbvCbNVOLawIajCbsBl4nCgDlkVW2FqvWjHk99UJau04w4EhiDGTEOuB3flgDLb9Q2ZlqONeDL2nA-Vbd0CMgN9PU9RxBCLPnuptpf4XObIH7vaRIs6lgbX0WPrjZnVBCi8Mv3r2CpekzR4PKP89Bk3DIzFApqexsep0fRPAg705zU82LiNV44WZ2RkeWIsePBCaZPLAzyOD3tVPKaeBGo8UpxzZ5BLeNxEh2iYn5TmgCxxJ1PVtE367SZchOM5Ds8yHa3kd-2nJ1hlj_ga5kwbGFJrzbQMBoUxpgeZFx5MjHZhtaW4oaHMKQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784705655
+  "last_updated": 1784715322
 }
