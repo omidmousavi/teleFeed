@@ -8,72 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خیلیا فکر میکنن اوسینت یعنی سرچ ساده توی دیتابیس های پابلیک، اینو ببینید از روی عکس چطوری لوکیشن رو پیدا میکنه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-21T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JEDe-VyWHPnrjU6I4rwpgF_hpdTUGj0VemoxhBjGaj_vmQBrOIpzLRKpb2RFjUfVJNNfnHheVECIRoLFwHCgpb7meDlV5JfVdi4CZH077mJuSnp3TKuEbIHtaqftIIdR65D4E2mCq3LkTNPqmyLcrzhCUFa0Ely_oxLkGUNzH-0H93vU7GeGwAubWW669lBpzWPG9vMFNTT8NIFheZq8j2HDl5Q9dT00XXIm19m0MROFazAyr0fb0zuiLzq1G9Ftt3pBY3Nhm4nqc9xP_Njj23nt8-wCSyaQoRY4F7Efgnf1uEneaE049AGACKXV5SoxEkua-DwQ6XZBsnBlm2TQxg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ما برنامه نویس ها همیشه توی جمع های خودمونی به شوخی روی لینک های ناشناس کلیک می‌کنیم چون که می‌دونیم چیزی نمیشه حتی می‌ریم و اطلاعات فیک و فحش پر میکنیم و می‌خندیم\u003cbr/\u003e\u003cbr/\u003eولی جدای از خنده با یه کلیک روی لینک توی یه ورژن های قدیمی از اندروید و IOS که یه زمانی واقعا باگ هایی داشتن و با کلیک فعال می‌شدن و حتی عجیب تر دسترسی روت میتونستن به مهاجم بدن بدون اینکه خودتون بفمید مثلا Stagefright یا Dirty Cow واقعا باگ های خطرناکی بودن! البته الان این مشکلات خیلی کمتر شده و عموما لینک های ناشناسی که ارسال میشه مال دله دزد هاست نه هکر های حرفه ای ولی عموما توی گوشی که ولت و چیزای مهم دارید روی لینک ناشناس کلیک نکنید اندروید و IOS هم خدا نیستن و همیشه پر از باگ بودن، علت اینکه تا الان تارگت نشدین چون هدف نبودین نه اینکه امن هستین!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-21T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "ابزار Beetle یه ابزار متن‌باز برای بررسی امنیت اپلیکیشن‌های موبایله که کاملاً آفلاین هم کار می‌کنه. از اندروید، iOS، Flutter و React Native پشتیبانی می‌کنه و کلی قابلیت کاربردی مثل تحلیل زنجیره حمله، بررسی سورس‌کد، تحلیل با کمک هوش مصنوعی و ساخت گزارش‌های حرفه‌ای رو یکجا در اختیارت می‌ذاره.\u003cbr/\u003e\u003cbr/\u003eاگر کارتون ریورس، تست نفوذ یا تحلیل امنیت اپلیکیشن‌هاست، Beetle می‌تونه بخش زیادی از فرایند بررسی رو سریع‌تر و منظم‌تر کنه و کمک کنه راحت‌تر به ریشه آسیب‌پذیری‌ها برسید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/f3rb123/beetle\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/f3rb123/beetle\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-21T15:15:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/O9tiDI2dVowIoTIwnX6iRoWzotOHUtiYz7WwwZ8PDwg1DgqGn6FUQZiWoa8zBKvww0nbokLVukSM4lHC6Dh_oTN9lhI8NkqqhcJLjvFogYrRba3guwshQRO8d48sxpkGgocY8ZSAirujcxfIxEHWWQpOg0TJKakRNa0iOhgsFf7o1Y683pLE0Vc9r-sD75D4oiTzngWkxqV5Lk4ue6Q01sLeW4PLuIYMsXoc_UGs9wFpuWdzjhCSiYvRiEG5GfzhhQ1MxzdXpYVgBtd86dQolmqQaNHaau-K2B863nkegoRegEO3fJr0vJl3h6ExtAes3R4DjnRqQQQy_hVFIGR0Gw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5199785165735367039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بیش از ۵۰ لوکیشن فعال در ۶ قاره جهان\u003cbr/\u003e\u003cbr/\u003eبا اشتراک پرمیوم به تمامی لوکیشن‌های اروپا، آسیا، آفریقا، آمریکای شمالی، آمریکای جنوبی و اقیانوسیه دسترسی داشته باشید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5345905193005371012\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حجم نامحدود\u003cbr/\u003eوب‌گردی، یوتیوب، اینستاگرام، تلگرام، دانلود فایل‌های حجیم، تماشای فیلم و سریال بدون محدودیت.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5345905193005371012\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بدون محدودیت دستگاه\u003cbr/\u003eاتصال همزمان روی موبایل، لپ‌تاپ، تبلت و سایر دستگاه‌ها؛ مناسب استفاده شخصی یا خانوادگی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5345905193005371012\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سرعت و پایداری تضمین‌شده\u003cbr/\u003eسرورهای پرسرعت، لودبالانس هوشمند و مانیتورینگ ۲۴ ساعته برای اتصال پایدار و کمترین قطعی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370919202796348364\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشتیبانی اختصاصی:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5199628545457923796\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/kratu3\" target=\"_blank\"\u003e@kratu3\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370919202796348364\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ربات خرید اشتراک:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5199628545457923796\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/BioBioVPN_bot\" target=\"_blank\"\u003e@BioBioVPN_bot\u003c/a\u003e",
-      "date": "2026-07-21T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "چین بعد از ریزش شدید سهام شرکت‌های هوش مصنوعی، دنبال اینه که بازار رو آروم کنه؛ اما نمی‌خواد دوباره یه حباب جدید مثل دفعات قبل درست بشه.\u003cbr/\u003e\u003cbr/\u003eبرای همین، صندوق‌های سرمایه‌گذاری وابسته به دولت (که بهشون National Team می‌گن) میلیاردها یوان سهام خریدن تا جلوی افت بیشتر بازار رو بگیرن. از اون طرف، شرکت‌های دولتی هم برنامه‌هایی مثل بازخرید سهام و افزایش سود نقدی رو اعلام کردن.\u003cbr/\u003e\u003cbr/\u003eمشکل اینجاست که خیلی از شرکت‌های AI چین هنوز سود قابل‌توجهی ندارن، ولی ارزش بازارشون خیلی بالاست. مثلاً میانگین نسبت P/E شرکت‌های بازار STAR به حدود \u003cb\u003e86\u003c/b\u003e رسیده که از نظر خیلی از تحلیلگرها عدد خیلی بالاییه.\u003cbr/\u003e\u003cbr/\u003eدولت چین از یه طرف می‌خواد صنعت هوش مصنوعی رو به‌عنوان یه فناوری استراتژیک تقویت کنه، اما از طرف دیگه نمی‌خواد این حمایت‌ها باعث بشه سرمایه‌گذارها فکر کنن دولت همیشه پشت این سهم‌هاست و دوباره موج سفته‌بازی راه بیفته.\u003cbr/\u003e\u003cbr/\u003eاین نگرانی هم توی شرایطیه که مدل‌های جدید شرکت‌هایی مثل Moonshot AI و رقابت شدید بین شرکت‌های AI چین، باعث شده سهام فناوری نوسان‌های سنگینی رو تجربه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-21T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EPaaY1wv8HwbSgb9aMC4YLNHGq6PX3gqkHRSXB_swfZ-QANAoZQtnSZzFGKPXHf4SgVMC7QcoG90Ft_vGshYCxGArxfnhcWFcaoLQVYcv3RxTi8y4z5p9XKZzBmnqQ3Ey2AgT6_0abceLRZFNpwV5XugicA7y1scRVIozetwR2zK8uc4HpTVMDOXGLl507v7WVh4WWG83Lc1MYFUVvqtFwrwQlfz1h2n3veRNFA7G-0aN86wIipeqczgoYyN4UCWocOPhBCbfKf37geg1wL3_jLcxGxp5tZ-yfoOu27XemcOwYX5saRw-bQdxB43XNqaHOc8i4J7L3wVd21tGqqyMA.jpg"
+          "url": "https://cdn4.telesco.pe/file/MBCadstschmFykw481JWpyjgd8gfldT2uzjEgGTIQByYBQuBm7AKrFqYA5tqC5WpLC0DO4lY7ACatn4QI3GD1A9jeLCl0d19hQXsZTQ_Bwx_pJMyavctrzKrXDHV7QIHJnG5qzajwdcewKLsnH7JyIEv_6xRwbecijI4wND4gZfdw1Fp03AnfqIJ3vYHF9OcmsDwwM-NimAjqBObr1mDz61b2EIdDnBoKmJMvBbVMJJ0jJkyz5qXUECiGnx-FcreFXhPc62v9MInRXigyuRIHcD5-Vsqv5_ibtdlEX5AOrdTkhj8llYlUcO9NwroPfJ10ypbj8ZXn99XUqQE6VlLmw.jpg"
         }
       ]
     },
@@ -91,7 +30,7 @@
       "date": "2026-07-21T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LYQOmbBpIM9xl6DCLSHuaIpIustc3bQuU5kWxWMmBhqxhgn8qiuU3mtD0WXuGVhJqz4gjM1LhlM9ZbxrluR-9icp1qwz6I1yXXy6E3JNJMJMdCgtwozauIWmYsfyDp6VWEkFxkUqtWAa7nc7wS8oU4ofaR0B84Z8zeKGBbsQzffJrlw7Eg-q5FkUozCqSUew6UnOW9VFGNcAzojp8p0nN6RctQZWM7FlqYBgacs75F1N6VNEe9iR6gPFoNlD4H_wyIu2PY_jfPQlYPSU6VHgHgEeIoXqiyp11ZiX_1BO4mK6FrnylB4reGC7oKx4O9rjmfbZILhJwi-85tvbillGlg.jpg"
+          "url": "https://cdn4.telesco.pe/file/tWdObut3CYpb8FM3pnt5ESc0PtFtDx2eWjxiJ-D7cSo2raEKpZc4Xx8VzpRKwEp1qOhK-4Z-vH0lv0YFpQbLQpw_KecydELjr7DeV9w2T0KiK6gHJla6kG_4ut3HRBkfgXQYcUJgbSdlMbAzlpYvaLHUXi4vu2Irb21YuwlA03_TJEnofAAtu0JTeE2LprEdYHuWIGnjPf2ltlcieUA4RRuXtczlMyilxCi58CkN2y2S05hY62i-vwX0ugk2NgnOJiCAzur5-FMobod_BEe7BxE2Tba8a-GG6l3-P1DAGvmnpHMOqQaq5hEy8peyd48bzCtPhmgSpEwBGGs7m5Xw1A.jpg"
         }
       ]
     },
@@ -109,7 +48,7 @@
       "date": "2026-07-21T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6610,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +60,7 @@
       "date": "2026-07-21T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +72,7 @@
       "date": "2026-07-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +90,7 @@
       "date": "2026-07-21T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
+      "views": 7530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +102,7 @@
       "date": "2026-07-21T19:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7530,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +114,7 @@
       "date": "2026-07-22T06:50:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +126,7 @@
       "date": "2026-07-22T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +144,7 @@
       "date": "2026-07-22T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +162,7 @@
       "date": "2026-07-22T09:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
+      "views": 5600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +174,7 @@
       "date": "2026-07-22T09:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4850,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +186,7 @@
       "date": "2026-07-22T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +204,7 @@
       "date": "2026-07-22T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2900,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +223,7 @@
       "date": "2026-07-22T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 3930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +235,7 @@
       "date": "2026-07-22T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +246,73 @@
           "url": "https://cdn4.telesco.pe/file/Eq3XUlAa262bYaRW48QorVwvODhw-7vzwjcncMuSOns1H5PqZE3H5V4FtZYf9N9bisWhaoBW1u9pqcu41Hz84oirXjFUMdGab-fh-g-ew5ZfEp5IUfLgO2A2sVgQQDd1Lygjre_p89E8I4CzxbMv0OV-ji0XR3nHeKzcH6Z2WLbe1safnkKQsTimJ7C5sbKu5Wwgpq4wcMCJHmQHLzmjJeky_tJnMKDlRF45FOl5DvOSglRAb0BZ1VAX6_ToEjDKV_Uq_47NI3rWQAgQXMQAJ079JQ55sKPK3bf1ssy_BP2S9zHvxrMfUUjbg1vCiznARaWCZC3YogebuAO0qbZLdQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفروش اشتراک ۱۸ ماهه Gemini Pro روی جیمیل شخصی شما\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگر برای تولید محتوا، برنامه‌نویسی، تحقیق، ساخت عکس یا ویدیو از هوش مصنوعی استفاده می‌کنید، اشتراک \u003cb\u003eGemini Pro\u003c/b\u003e این کارا رو انجام میده !\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e فعال‌سازی روی جیمیل شخصی خودتون\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اعتبار اشتراک: \u003cb\u003e۱۸ ماه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e همراه با \u003cb\u003e۱ ماه ضمانت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e دسترسی به \u003cb\u003eGemini 3.1 Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e ساخت ویدیو با \u003cb\u003eVeo و Omni\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e قابلیت \u003cb\u003eDeep Research\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e دسترسی به \u003cb\u003eNotebookLM Plus\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e ساخت نامحدود تصویر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e دسترسی به \u003cb\u003eFlow\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e دریافت ماهانه \u003cb\u003e۱۰۰۰ کردیت Flow\u003c/b\u003e برای ساخت ویدیو\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e دریافت \u003cb\u003e۵ ترابایت فضای ذخیره‌سازی Google\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9385.png\u0026#39;)\"\u003e\u003cb\u003e📅\u003c/b\u003e\u003c/i\u003e تمام این امکانات تا \u003cb\u003e۱۸ ماه\u003c/b\u003e روی جیمیل شخصی خودتان فعال خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقیمت ویژه اعضای کانال: 850,000 تومان\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e ظرفیت فروش محدود است.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e برای خرید و دریافت اطلاعات بیشتر، به ادمین  پیام دهید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Subchi_Support\" target=\"_blank\"\u003e@Subchi_Support\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکانال ساب چی\u003cbr/\u003e\u003ca href=\"https://t.me/Subchi_Shop\" target=\"_blank\"\u003e@Subchi_Shop\u003c/a\u003e",
+      "date": "2026-07-22T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ehzj6hMoDsKMIAYUZN9FXCoT9_8espcX-h69xvHRHkmvOy2fnEgRw1BsAA670S_Um_QK4K3xvr2PonG2TXsapWPQCAouIqZugLVygpcit4OEMrWeIxe9aopDjEtYUVPQZ0dXnWvWIM7tvepKRnM3pQlwe2U3mBY3I1KxNb8nFRxxvHmyGDrc7KCfgWDHfYJ06HETk8gTEla-faSLsLlWw7BTYG1fYburgzR63ZvNuVnkLDnTX_19c5xeR44LESPqtoEfPJdQUR5fQyhWrRfO82WAmBrIr0U-kjhYq_iQgJo1wV-jHGhR_EwJF4ziaIKk_43RHAUcGBalB1lK_XT_tA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "همیشه یکی از تفریحاتم چرخ زدن تو ترند های جدید گیتهاب بود تا اینکه اخیرا یه ابزار خفن برای گیتهاب پیدا کردم که لیست ترندها رو خیلی تمیز و دسته بندی شده برام لیست میکنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.ranbot.online/\" target=\"_blank\" rel=\"noopener\"\u003egithub.ranbot.online\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MamJeyDev",
+      "date": "2026-07-22T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RTcfB8e_2DTdvhOzJjL2eJyiFf5-dQ9nijsg5gKgio2ZrlstpynQ7Ot3yFZjs-8IiutucHcZdOnx03NJUuz-C0V3ufnAZpVIWOJpF6IZW8byOq9FNr663bQfVFwhfdoTKlOux_FG8VpIgZmccqhnugB3154zD63dLqVVJkRSsXnWD6Ucmo3-Undv4UrfcLZCUp3ZeR8G6OPJv4Wk9OgFsJS33fi2fbNZwSS0dFdRxejE_6s34-rgzKOesj--J-GNdX990XeQo42fSR8p7GfaUyT2iFK0WxXAM30EF0-MjwQpBJTWEvphX_YOQL-rX9f2CNu9ZGqmcN8Y0tlrwFBT_Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "جالب ترین پیامک بانک هم مربوط به بلوبانکه میگه فلان تومن از حسابت پرید!\u003cbr/\u003e\u003cbr/\u003eقشنگ معلومه ناراحت شده که از کلمه پرید استفاده میکنه انگار توی یه معامله شکست خوردی و اون چیزه از دستت پریده... بخدا پنیر خریدم شکست بزرگی نخوردم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-22T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه کتاب کاملاً متن‌باز و رایگان درباره‌ی طراحی AI Agent ها پیدا کردم\u003cbr/\u003e\u003cbr/\u003eفرمول کل کتاب: Agent = LLM + Context + Tools\u003cbr/\u003e۱۰ فصل، از مبانی تا production\u003cbr/\u003e۸۸ پروژه‌ی عملی با کد واقعی\u003cbr/\u003e۵ زبان (انگلیسی، چینی، تامیل، ویتنامی و…)\u003cbr/\u003e\u003cbr/\u003eکاملا رایگان :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/bojieli/ai-agent-book/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/bojieli/ai-agent-book/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~Shayi78",
+      "date": "2026-07-22T17:15:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VdzPzeTZup0X8RiIVqdUopeneaUo8iNNlETIysd-hHxTW41a26A8dU-8dfwByofUrX3CH5A-v95tP9CCDB5Juxzi8ewytKB9Ie7-rJkpnXrG-jMm0ffiOf0TjMYdjmETE7evl3emC71ZlQWtndcNsyN4Im3_PxojJWky7CfqmKMtBr_E6oxvujfImLtLRlhjlnxuAIpkzWWsn2N1BF4cFzEFQ-RZjf2qpM2qEV6TMi8TUHs9rGP9hth3iFxa8TJ26iFUoNEFuQrChmDm0OgxEyen_Ex5r8z9dJ-or81DJZ1ROpSAMKjJcgnIUfOlwB60trIPmQMX-QMyT0ujz3mFIg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784736898
+  "last_updated": 1784742438
 }
