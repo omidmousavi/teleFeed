@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه فکر می‌کنید سیستمتون ضعیفه و هیچ مدلی روش اجرا نمیشه سخت در اشتباهید، ابن ابزارو نصب کنید میگه چه مدل هایی روی سخت افزارتون خوب اجرا میشه (قبلا یه ابزار مشابه همین گذاشته بودم این یکی خیلی خوبه)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Andyyyy64/whichllm\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Andyyyy64/whichllm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ayub_kokabi",
-      "date": "2026-07-20T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/DH-65RB76WtuKe3sqHChQXyIKoV_Qatfs3hXSIX77sB5EFqo9I0oDF7MjtpXIMPLu20J9yO8Cjwy5BamZVJBk1qfcYEgnQUbSsgUohhpU6cEKe4NFoVLk8ppd_U6NgZHoPkvdwrNKFFxLzXAvv1G0zb0rond0zz5tYUUBNg0D94p2htshQZ9OKNgkPuxSG8SriR2rbwtiTb4520yH-rRHtSn2Os_J-v5xEURiHTDVIBb0cvCDFynXhB3ugQjYe91rSICWAwdyxNxUxgoEp1_Gk1jWoEF7OPOU3p7F_hes-EzKIlq_uZ5fABO3i3J5dWpUpigq4rjL2KxPvU1xKACxw",
-          "width": 1108
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خیلی‌ها با LLMها فقط با چندتا پرامپت بازی می‌کنن، ولی وقتی بخوای یه سیستم واقعی بسازی داستان فرق می‌کنه. \u003cbr/\u003eاین یه دوره 10 هفته ای و ریپوی اوپن‌سورسه که قدم‌به‌قدم میره سراغ ساخت اپلیکیشن‌های واقعی با LLM، از RAG و Vector Search گرفته تا Evaluation، Monitoring و Agentها.\u003cbr/\u003e\u003cbr/\u003eفقط تئوری تحویلت نمی‌ده؛ بیشتر شبیه همون مسیریه که توی پروژه‌های واقعی نیاز داری: دیتا رو بیاری، سرچ معنایی بسازی، مدل رو وصل کنی، خروجی رو ارزیابی کنی و آخرش یه سیستم AI قابل استفاده داشته باشی. برای هر کسی که می‌خواد از کاربر ChatGPT بودن برسه به ساختن ابزارهای مبتنی بر AI، می‌تونه نقطه شروع خیلی خوبی باشه.\u003cbr/\u003e\u003cbr/\u003eکاملا رایگان :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/DataTalksClub/llm-zoomcamp\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/DataTalksClub/llm-zoomcamp\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-20T19:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +30,7 @@
       "date": "2026-07-21T06:31:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +48,7 @@
       "date": "2026-07-21T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rgCJBPOggLT7XphZDmNH-pRKgjyTin28GlJ72vDaz5VEjiLj8LBoc2D2-t7xwjGUzvAFMBuldjTpQY8rfpGLZKjcxSwmgdEJ9uGvFR8au8X34sRaBGc7f7632TE_Igb22_DoYk6-TZbv5DKCzkopX1J2gp75wwA9OdUJg3Pmz0XgmbE6bCTcMb_a-GBxsIA3oLpEPU0-bCY5F57kRrthFmvxU1Zl26YGMbBJdPOPoIMqQKH8pTgY0nXk2mycvI-44X1IkEkPGrbLEIapXZuQLl-ZE5uP43nFvvR9WdP72QKttOv6ID5wZntSzkLpH6-8IZXLhfPh9--5858gw1qZBg.jpg"
+          "url": "https://cdn4.telesco.pe/file/DnET7y5GLPZrunOvQbjNcXfD4-51ak4M0Zr6o5T1Gr4KPQviCBtVQM01yLLu7mGgtxmJd1AfgHLggfEkACXhdXMjRvejHF8ojd-140hwDlxMhEKZD9wSmkR8ZuMxJ2VLqa9SGi23_Oj0mW04bjpg0XNfUdnGHHOSu9WhYzB9_m5Z-OSb75y9NnvenPeJf24-IDCRv1IIMwzHsedpmLFfGgyxExc66VbqY8AzOgoOoX4ZxpE63NHwklPCgN9FrBCWifHN8UFtuvkR7Eh8iHXx4PMs2qpbrGLDu4_QksilLeTpRIYXluvDsiUWzH3ku5rTMJ89pByDdmwIlm-VYT0o7Q.jpg"
         }
       ]
     },
@@ -85,7 +66,7 @@
       "date": "2026-07-21T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7000,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +74,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/o9U_7HcC0qEYx7EOwNA4PJmb5o65vPX1-ZC-Xch2H9GTm9y-egvq8_ENvSOvN4zoY3GtMbN5ZE5lornEN6SapAKxD_BQO5WAcNjHaCNgXIqZPJsuK0zVefWg-LA4Ru02UJHx51PMnPOLZ1EDU_qROG8b213fGsx8kiwWBMEquWcUkXCWCeRC7cxlP0a8JEUl6RQn2DXG0oIkTKnADxyABeNhx9EkG-LtVSp-YVfpSRCUU16qww3uOvNG8_9XZyVZuXLLZ-_EcW4c6n2ct70193rJ9ybwL1eO1O6RWkbEbOCjw7eAoDMz6cliC1BFDod2mppHhz6b6i_1nJrZLxdMjw",
+          "url": "https://cdn4.telesco.pe/file/JEDe-VyWHPnrjU6I4rwpgF_hpdTUGj0VemoxhBjGaj_vmQBrOIpzLRKpb2RFjUfVJNNfnHheVECIRoLFwHCgpb7meDlV5JfVdi4CZH077mJuSnp3TKuEbIHtaqftIIdR65D4E2mCq3LkTNPqmyLcrzhCUFa0Ely_oxLkGUNzH-0H93vU7GeGwAubWW669lBpzWPG9vMFNTT8NIFheZq8j2HDl5Q9dT00XXIm19m0MROFazAyr0fb0zuiLzq1G9Ftt3pBY3Nhm4nqc9xP_Njj23nt8-wCSyaQoRY4F7Efgnf1uEneaE049AGACKXV5SoxEkua-DwQ6XZBsnBlm2TQxg",
           "width": 720
         }
       ]
@@ -104,7 +85,7 @@
       "date": "2026-07-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +97,7 @@
       "date": "2026-07-21T15:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +115,7 @@
       "date": "2026-07-21T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +127,7 @@
       "date": "2026-07-21T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +145,7 @@
       "date": "2026-07-21T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +163,7 @@
       "date": "2026-07-21T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +175,7 @@
       "date": "2026-07-21T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +187,7 @@
       "date": "2026-07-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +205,7 @@
       "date": "2026-07-21T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +217,7 @@
       "date": "2026-07-21T19:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +229,7 @@
       "date": "2026-07-22T06:50:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +241,7 @@
       "date": "2026-07-22T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4019,
+      "views": 4480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +259,7 @@
       "date": "2026-07-22T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4460,
+      "views": 5060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +277,7 @@
       "date": "2026-07-22T09:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 4410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,12 +289,30 @@
       "date": "2026-07-22T09:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e خرید VPN با قیمت عمده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e سرعت فوق العاده \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e سرور IP‌ثابت آلمان \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003eبدون قطعی \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کافیه قیمت ها رو ببینی تا دیگه دنبال VPN بگردی \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e روی لینک زیر کلیک کن برو بگیر حالشو ببر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+GVQeb6h9gVY5MzA0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+GVQeb6h9gVY5MzA0\u003c/a\u003e",
+      "date": "2026-07-22T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 226,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ub2NKs8eeQqo4LlsgcxbA8mJQ-7_McnsohW3dsXiyIxZSacFN77rKKGGH1bXbO4rIwhKZ7JIWtlPWCeff865MGc1zowHh9LYM86ZxB4OGwmeePwYZTEDaFFigZPHYXHcrFnK510RcmU93rIWfuy5RSeA0hLXpmNbtuQRjY71BdtxvA4lSIOqjeso_4_-wHNm6jYv4BWL765B4LWAJl5aLXNnxe3oRDhvO8VaRFwLdv8olhfUTWZnhjTqxio3DycS6R5MNKfgIa0WD0pjRTzV-mmfunSgyffXNj1CkgRDJ1VvSXMj24CTPWXlCB6-yQraSi6xFvVXo5oM3KGiaKHhvQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784722205
+  "last_updated": 1784730719
 }
