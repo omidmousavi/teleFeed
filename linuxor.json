@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خیلی‌ها با LLMها فقط با چندتا پرامپت بازی می‌کنن، ولی وقتی بخوای یه سیستم واقعی بسازی داستان فرق می‌کنه. \u003cbr/\u003eاین یه دوره 10 هفته ای و ریپوی اوپن‌سورسه که قدم‌به‌قدم میره سراغ ساخت اپلیکیشن‌های واقعی با LLM، از RAG و Vector Search گرفته تا Evaluation، Monitoring و Agentها.\u003cbr/\u003e\u003cbr/\u003eفقط تئوری تحویلت نمی‌ده؛ بیشتر شبیه همون مسیریه که توی پروژه‌های واقعی نیاز داری: دیتا رو بیاری، سرچ معنایی بسازی، مدل رو وصل کنی، خروجی رو ارزیابی کنی و آخرش یه سیستم AI قابل استفاده داشته باشی. برای هر کسی که می‌خواد از کاربر ChatGPT بودن برسه به ساختن ابزارهای مبتنی بر AI، می‌تونه نقطه شروع خیلی خوبی باشه.\u003cbr/\u003e\u003cbr/\u003eکاملا رایگان :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/DataTalksClub/llm-zoomcamp\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/DataTalksClub/llm-zoomcamp\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-20T19:15:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XoRStnPJZKPIMsPYS5_4WogpN4YfL5RkNdDTFut1itZOX5p4t3lhZvW0n62kksYX9sQWyA_lIdXaqTxrIH4Iye3ZkZ3ZAG4eMjBu3-sDV1-cptfszLXQ4srhBNeVBK3YD4qF6pTRuNyeHxSzrAwsmCLc7VXZt1V57sJ3srpMHJ0oqM9zHTHs9E3YMWZMGCr7N1uzxlD98kdyzIKxH794vVfpR5Vi0RY_N0P0Cmhl2S9dPscfYmSnyOpJKodQhBb7j4cK_O2VQJfhi8m3uzibxgDa2NklNu6VNkvAAyN2WFZvAZBcgh3Qs9ZAJ3SChHUMPapVvVtDGOT0oBdw_tUIRw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بیش از ده هزار صفحه کتاب رایگان برنامه نویسی و تکنولوژی \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eJava \u003ca href=\"http://goalkicker.com/JavaBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/JavaBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003ePython \u003ca href=\"http://goalkicker.com/PythonBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/PythonBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eJavaScript \u003ca href=\"http://goalkicker.com/JavaScriptBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/JavaScriptBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eSQL \u003ca href=\"http://goalkicker.com/SQLBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/SQLBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eDSA \u003ca href=\"http://goalkicker.com/AlgorithmsBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/AlgorithmsBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eC \u003ca href=\"http://goalkicker.com/CBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/CBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eC++ \u003ca href=\"http://goalkicker.com/CPlusPlusBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/CPlusPlusBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eNode.js \u003ca href=\"http://goalkicker.com/NodeJSBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/NodeJSBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eHTML5 \u003ca href=\"http://goalkicker.com/HTML5Book\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/HTML5Book\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eCSS \u003ca href=\"http://goalkicker.com/CSSBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/CSSBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eLinux \u003ca href=\"http://goalkicker.com/LinuxBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/LinuxBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eGit \u003ca href=\"http://goalkicker.com/GitBook\" target=\"_blank\" rel=\"noopener\"\u003egoalkicker.com/GitBook\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-21T06:31:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RovQ2uSGFuSX2B-EBs9awxRUYsYfsjbnkli7P93pdXOKJyVHvoaE-OihH7k2HkG09m1v-as2d7p0qjCoFWBnlrpqX48MRHPrYHpltuvekyJrCRBFpa2JDTBbyBC4TRQmWrYl7u8sdBSNTlV1zKbyQCvqWJx6tI0DbxEYyGS_bJCj8FOD37PiRi0ThLcDWWfnEta51Eolc7H-ZxtAu2brZh_bWtP0GKvvzgJHgFwyHSfSid7CduorQySXQ3lVmZYsybRk9VzkeJCm8fKxjkRkAJjAqodd2F2qRfMlLgQLcTN1FN68mrpNMEZq1fQ1SYUdL0meFP4Ig9mQPoAU1YvcOg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e فعالسازی Gemini Pro ۱۸ ماهه، کاملاً اختصاصی؛ آفر ویژه امروز کاربران Linuxor\u003cbr/\u003e‌\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eفعالسازی بدون نیاز به ارسال جیمیل و پسورد\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۲ هفته گارانتی\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e مدل \u003cb\u003eGemini 3.1 and 3.5 Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96BC.png\u0026#39;)\"\u003e\u003cb\u003e🖼\u003c/b\u003e\u003c/i\u003e تصویرسازی \u003cb\u003eNano Banana 2 \u0026amp; Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e ساخت فیلم با \u003cb\u003eVeo\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e استودیو \u003cb\u003eLyria 3\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e فضای ذخیره سازی\u003cb\u003e Google One 5 TB\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e فضای\u003cb\u003e Workspace AI + NotebookLM Pro (5× limits)\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e کاملا اختصاصی و بر روی جیمیل خودتون فعال میشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراکی نیست\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفقط ۶۵۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e خرید از \u003ca href=\"https://t.me/ariobox_bot\" target=\"_blank\"\u003e@ariobox_bot\u003c/a\u003e",
-      "date": "2026-07-21T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DnET7y5GLPZrunOvQbjNcXfD4-51ak4M0Zr6o5T1Gr4KPQviCBtVQM01yLLu7mGgtxmJd1AfgHLggfEkACXhdXMjRvejHF8ojd-140hwDlxMhEKZD9wSmkR8ZuMxJ2VLqa9SGi23_Oj0mW04bjpg0XNfUdnGHHOSu9WhYzB9_m5Z-OSb75y9NnvenPeJf24-IDCRv1IIMwzHsedpmLFfGgyxExc66VbqY8AzOgoOoX4ZxpE63NHwklPCgN9FrBCWifHN8UFtuvkR7Eh8iHXx4PMs2qpbrGLDu4_QksilLeTpRIYXluvDsiUWzH3ku5rTMJ89pByDdmwIlm-VYT0o7Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خیلیا فکر میکنن اوسینت یعنی سرچ ساده توی دیتابیس های پابلیک، اینو ببینید از روی عکس چطوری لوکیشن رو پیدا میکنه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-21T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +31,7 @@
       "date": "2026-07-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +43,7 @@
       "date": "2026-07-21T15:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +51,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HDJF7pJRLQXGWqG3SKNtlplvvJAUh9IEV_h4_p4ud9SstQ-eTysHdENvwGeF-9o-kdTLRRX4wIFj27VPKmVwIRfpFNzW6ulcwCY5PUMYAvrG1lcoj8eIRGuOCWKRjmT2Ew5IRqwEeM0qnZXwiiuR4k-AuGMfUqv0eGcJyfn4VNxr4RH-JI27AwVWzRP4ecHf88wfRXFpLO9wPksIsX8BVVz4DpMiPU-NgNsBb7GUbNbym5E61iP2o3_F23whMwo3oLxIakJhE4SfRehDhRvJhzA14NnbRC48Y1pMp-G-UobvDHN7barai2L-HKpbRM1APIWub8krbTfjGvJ9QMkpcw.jpg"
+          "url": "https://cdn4.telesco.pe/file/O9tiDI2dVowIoTIwnX6iRoWzotOHUtiYz7WwwZ8PDwg1DgqGn6FUQZiWoa8zBKvww0nbokLVukSM4lHC6Dh_oTN9lhI8NkqqhcJLjvFogYrRba3guwshQRO8d48sxpkGgocY8ZSAirujcxfIxEHWWQpOg0TJKakRNa0iOhgsFf7o1Y683pLE0Vc9r-sD75D4oiTzngWkxqV5Lk4ue6Q01sLeW4PLuIYMsXoc_UGs9wFpuWdzjhCSiYvRiEG5GfzhhQ1MxzdXpYVgBtd86dQolmqQaNHaau-K2B863nkegoRegEO3fJr0vJl3h6ExtAes3R4DjnRqQQQy_hVFIGR0Gw.jpg"
         }
       ]
     },
@@ -115,7 +61,7 @@
       "date": "2026-07-21T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +73,7 @@
       "date": "2026-07-21T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +91,7 @@
       "date": "2026-07-21T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +109,7 @@
       "date": "2026-07-21T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +121,7 @@
       "date": "2026-07-21T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +133,7 @@
       "date": "2026-07-21T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +151,7 @@
       "date": "2026-07-21T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +163,7 @@
       "date": "2026-07-21T19:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 7530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +175,7 @@
       "date": "2026-07-22T06:50:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 6370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +187,7 @@
       "date": "2026-07-22T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4480,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +205,7 @@
       "date": "2026-07-22T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5060,
+      "views": 5810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +223,7 @@
       "date": "2026-07-22T09:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 5190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +235,7 @@
       "date": "2026-07-22T09:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +247,7 @@
       "date": "2026-07-22T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 226,
+      "views": 2960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +258,56 @@
           "url": "https://cdn4.telesco.pe/file/ub2NKs8eeQqo4LlsgcxbA8mJQ-7_McnsohW3dsXiyIxZSacFN77rKKGGH1bXbO4rIwhKZ7JIWtlPWCeff865MGc1zowHh9LYM86ZxB4OGwmeePwYZTEDaFFigZPHYXHcrFnK510RcmU93rIWfuy5RSeA0hLXpmNbtuQRjY71BdtxvA4lSIOqjeso_4_-wHNm6jYv4BWL765B4LWAJl5aLXNnxe3oRDhvO8VaRFwLdv8olhfUTWZnhjTqxio3DycS6R5MNKfgIa0WD0pjRTzV-mmfunSgyffXNj1CkgRDJ1VvSXMj24CTPWXlCB6-yQraSi6xFvVXo5oM3KGiaKHhvQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "مایکروسافت یه پروژه متن‌باز و رایگان به اسم SkillOpt منتشر کرده که می‌تونه مهارت‌ها (Skills) و پرامپت‌های Agentهای هوش مصنوعی رو خودش بهتر و بهتر کنه؛ تقریبا شبیه همون کاری که موقع آموزش یه مدل هوش مصنوعی انجام میشه. یعنی Agent یه کار رو انجام میده، بعد یه بخش دیگه کیفیت خروجی رو بررسی می‌کنه، دستورالعمل‌ها رو بازنویسی می‌کنه و فقط نسخه‌ای رو نگه می‌داره که واقعا عملکرد بهتری داشته باشه.\u003cbr/\u003e\u003cbr/\u003eاگه تا حالا برای بهتر شدن جواب‌های AI مدام پرامپت رو تغییر دادین و نمی‌دونستین واقعا بهتر شده یا نه، SkillOpt این فرآیند رو خودکار می‌کنه. حتی تغییرهایی که نتیجه بهتری ندن رو رد می‌کنه و طبق نتایج مایکروسافت از پرامپت‌های دست‌نویس و ابزارهایی مثل TextGrad هم عملکرد بهتری داشته. نکته جذاب‌تر اینکه به هیچ مدل خاصی وابسته نیست؛ یعنی امروز با GPT کار کنین و فردا برین سراغ Claude یا Gemini، می‌تونین همون Skillها رو دوباره استفاده کنین.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://github.com/microsoft/SkillOpt\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/microsoft/SkillOpt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-22T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hdfiHNkKNVmurR3xGRH5Yqht0ygkdwWAa0kvj28pBoG1m2KxvUNTfunxTu6GfUD5Azd0HKtR6jtBzAX12S2MWdNHJva2s9U_t8KS1_P6cJYJlC5SwIIf0Eckp8AC5DhjETA0Hr1df1PX3hSpFLjHyo6YK7YkS0kP0Ucpjb_nqc4PP6UJfVPtvFFDxZeRCC4tvTEIc39T8lyoD_hRwpTuj8Ymxp07-0_CCc1g_eamKo5lFs40p_aFDMAqUNdBoa7fwO1vjAyJ6NwB_iSEPwjr3JvoezO10_LSLu48YafQ0qN0lr-dZO5RYg93CKIg-sPykMREBlsSwB2T-h-HG0kraw",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "جالبه بدونید هیچ مدل اوپن سورس واقعی تقریبا وجود نداره مثلا Deepseek و Llama و Qwen همشون اوپن weight هستن یعنی شما یه ماشین بهتون دادن و فقط میتونید سوارش شید و به صورت خیلی جزئی هم شخصی سازیش کنید مثلا رنگ چراغاشو عوض کنید، اما اوپن سورس یعنی واقعا کارخونه ساخت ماشین رو بهتون بدن و قدرت بینهایت بالایی توی شخصی سازی کردنش دارید البته بعضی مدل های ضعیف تری هستن که اوپن سورسن مثل Pythia و OLMo ولی زیاد اسمشون شنیده نشده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-22T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "با این برنامه اندروید اوپن سورس می‌تونید با خود اندروید برای خود اندروید برنامه بسازین!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/AndroidStudio-App/NeonIDE\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/AndroidStudio-App/NeonIDE\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنکته : تازه داره توسعه پیدا می‌کنه اگر مشکل داشتید می‌تونید از جایگزین هاش به اسم های AndroidIDE یا AIDE یا ACode استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-22T15:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Eq3XUlAa262bYaRW48QorVwvODhw-7vzwjcncMuSOns1H5PqZE3H5V4FtZYf9N9bisWhaoBW1u9pqcu41Hz84oirXjFUMdGab-fh-g-ew5ZfEp5IUfLgO2A2sVgQQDd1Lygjre_p89E8I4CzxbMv0OV-ji0XR3nHeKzcH6Z2WLbe1safnkKQsTimJ7C5sbKu5Wwgpq4wcMCJHmQHLzmjJeky_tJnMKDlRF45FOl5DvOSglRAb0BZ1VAX6_ToEjDKV_Uq_47NI3rWQAgQXMQAJ079JQ55sKPK3bf1ssy_BP2S9zHvxrMfUUjbg1vCiznARaWCZC3YogebuAO0qbZLdQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784730719
+  "last_updated": 1784736898
 }
