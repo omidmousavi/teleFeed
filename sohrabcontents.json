@@ -8,72 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e \u003cb\u003eZanshin Tasks\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرنامه مدیریت وظایف کی‌دی‌ای که ویژگی‌های زیر رو داره:\u003cbr/\u003e- گروه‌بندی وظایف\u003cbr/\u003e- افزودن زیروظیفه\u003cbr/\u003e- تعیین تاریخ سررسید\u003cbr/\u003e- همگام‌سازی با Google Tasks، Microsoft To Do و ...\u003cbr/\u003e\u003cbr/\u003eبستهٔ \u003ccode\u003ezanshin\u003c/code\u003e رو از مدیربسته‌تون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-07-13T17:47:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iB1HUmcIU4aFQG2uqmJRbY1jSZFXWdTFIEzoUO1YU6lD1-W8RrBlNaB9TZUU6ZtDd4baCrMQpIMJZBDLPbrBbl4bjrbB_2HT6Z371gjDab0FL2s12Fy6ZdJxGI2GscC8ilYeHfQi0Tlr_WiyKVWQu7fHjviwOnlVSWNHpt86FFu-1oafFH16wexjYTb99URa2LijhoRVew8ODCgmKmYnIj2Px4OzPzQpN1QbO4ZD3ycCpScwdu8qSQKnH7WzuQzyIv9m3fHtE-BiZPPSzC80KBMo9xO7xWdwZBxNDoW8Fy9ukpmIS_sgEo1NDBR6XF0ZZmVe_nLefqrQbxg-kRZPBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امروز داشتم ویدئو آموزش نصب دراگون‌فلای بی‌اس‌دی رو ضبط می‌کردم تهش به اینجا رسید که متأسفانه سر یک سری تنظیمات اشتباه ماشین مجازی من همه چیز منهدم شد و ویدئو از دست رفت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفردا دوباره ضبط می‌کنم اگر فرصت بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-13T17:48:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "نگارش ۰.۱ ابزار گیم‌هاب در مخزن پارچ منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ابزار امکان نصب لانچرهای بازی؛ پروتون و ایجاد نشست استیم را از داخل خود فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که گیم‌هاب همچنان در دست توسعه است و تا نگارش ۱.۰ پایدار راه زیادی باقی مانده است؛ اگر مشکلاتی در استفاده از این ابزار دیدید با ما در \u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفروم پارچ\u003c/a\u003e و یا گیت‌هاب آن به اشتراک بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/gamehub/issues\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/gamehub/issues\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب در پارچ:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S gamehub\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-07-14T08:55:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RotJ4In-1YSgk-HzVHF5YvMwX0BGwLJhZraPxj80LXvwzDcPl8QynUjQccxZwyFUBkvbqh4APegBAfHKq9dv9NTs0toAX-JyDrAa6ctic7CMlK32lXJ4HoouL65V-eOR3oKR6i3mcbmEv3vY9DWDljFOyW9KRdH_3BLg8mkrt24SqTgfGPogedu3Lu9JoFrMcv9YfqKlxxe0GWedLZ8Q0aMnMEnSAL8jYNtEv9CAbC5ush7aPEkKFFWhqt8TUDnitCoRkuTH9HWp6FP6OfI0sjTh8r7X_NvafA8StdwS1Aj0RFEp6fbnm5zeUV-RxzBRc8pHls_G37JN2W9ov4u9dA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "طراحی اولیه از پوسته گراب پارچ تکمیل شده و در مخزن پارچ قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S parch-grub-theme\u003c/pre\u003e\u003cbr/\u003e\u003cblockquote\u003eتوجه!\u003cbr/\u003e\u003cbr/\u003eاگر این بسته را از قبل نصب کرده‌اید، آن را حذف و مجدداً از مخزن نصب کنید، پوسته قدیمی تحت‌عنوان parch-grub-theme-legacy مجدداً در مخزن قرار خواهد گرفت.\u003c/blockquote\u003e\u003cbr/\u003eکدمنبع:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parch-grub-theme\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parch-grub-theme\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-07-14T11:57:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ot2lyFwLp38q9f9Mp4qMk-yhaSNeM6x11WLrhRRtg98I5XD25UF2gx1QIATKEUwCk5Cfr_4P1dZMB_gF87-PPDKzBVaO-BhuPsyEhGrW9-z98s-gjmgPknC9KEV3VAm4hyAKdrIb6d-bfwXiek-78ohRz8_MbAMyH09SmsZBItY4fIdwxdtFmHP7bwf5cpbqgIBKkwepMChulhvVvrJ-4fMa9ODwP0PhT255_ASa2YAopf6PMOh86zb82XTIcm1aLAuK5l8_fQTGDBuKiWRwRisTmlZ9VtkKwEVVYHDCt5ceD0ZiTr2NCDFd_kIttLYd2fh6d3jbvsZRAaJ8Mu2-ZA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یک زمانی سلوشن‌های no code مثل اپچه و ... خیلی روی بورس بازار بودن برای افرادی که نمی‌تونستن برنامه‌نویسی کنن به هر دلیلی تا برنامه خودشون رو بسازن و این نتیجه‌اش این شده بود که استورهای ایرانی پر شده بودن از اپ‌های شبیه به هم با باگ‌های یکسان :)))\u003cbr/\u003e\u003cbr/\u003eدر زمان خودشون خب پاسخگو بودن ولی الان با سرکار اومدن هوش مصنوعی میشه گفت که عملاً همون بازه زمانی داره تکرار میشه، اکثر سایت‌ها یا ابزارهای وایب‌کد شده یا پر از رنگ‌بندی جیغ هستن، یا کامنت‌های خنده‌دار یا emdash و بولت‌پوینت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-14T15:55:38Z",
       "edited": false,
@@ -90,7 +24,7 @@
       "date": "2026-07-14T21:44:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 1570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +36,7 @@
       "date": "2026-07-16T20:01:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +48,7 @@
       "date": "2026-07-17T09:28:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +60,7 @@
       "date": "2026-07-17T09:38:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +72,7 @@
       "date": "2026-07-17T17:44:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +84,7 @@
       "date": "2026-07-18T10:29:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +96,7 @@
       "date": "2026-07-18T17:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +108,7 @@
       "date": "2026-07-20T20:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 826,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +126,7 @@
       "date": "2026-07-21T16:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 636,
+      "views": 648,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +144,7 @@
       "date": "2026-07-21T19:23:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 659,
+      "views": 668,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +156,7 @@
       "date": "2026-07-21T19:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 752,
+      "views": 761,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +168,7 @@
       "date": "2026-07-22T07:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 724,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +186,7 @@
       "date": "2026-07-22T07:40:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +204,7 @@
       "date": "2026-07-23T08:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 624,
+      "views": 666,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +216,7 @@
       "date": "2026-07-23T18:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 358,
+      "views": 452,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +227,73 @@
           "url": "https://cdn4.telesco.pe/file/Tg08T9wKOT649J0OB80WH7QdnswY59Zibvfn0k-lMGrHI5gYcER10fFk8Mvuom589pNt-pCbYu2fP7DbWor-10x4kZFfX-RoexFr_od4oiJuTxV11bgOOlu4-CnlyrppReNtKpKOTkzBSiw1_7YS_AncoAm6-hW0V-gpaeSLVoJIy_FGQvrDv0dsbNdF7gwQmJ2phqgAi1Li_m89kmh49ezD3H-T6JAEw7ufHi8T8X9_xVxOKqXklijDxBAA8ck3GHSQzv0lvNyQoNl706qSlxOTjX2Ysak2uyAkYH3SY9dthPXNOm88BXQkVgXNfWRaUby52kOL0zK6svu1-9LbcA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه آزمایشی ۰.۵ ابزار مدیریت مخازن پارچ (MirrorMan) در مخزن Void منتشر شد.\u003cbr/\u003e\u003cbr/\u003eدر این نسخه داشبورد سلامت میرورها، انتخاب هوشمند بهترین میرور، سیستم دسترسی امن مبتنی بر D-Bus، پشتیبانی بهتر از نمایشگرهای کوچک، پیش‌نمایش تغییرات mirrorlist، مدیریت پروفایل‌ها، نمایش تاریخچه pacman و بروزرسانی خودکار اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین ساختار داخلی MirrorMan و آیکون آن با طراحی جدید؛ بازطراحی شده و پروژه به معماری ماژولار Rust منتقل شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاین نسخه \u003cu\u003eآزمایشی\u003c/u\u003e است و ممکن است دارای مشکل باشد. گزارش باگ‌ها و بازخورد کاربران به بهبود نسخه پایدار کمک می‌کند.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-23T21:33:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 192,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/U5nHwh3iJMfhCOlQtiv7hi5GbodigVoe2YGi-f96wQnYyd09Okh-S45A1DTUXqaJbR1ccpcKiz1ocMrPXpAsIlgaa2cR5INq4OtCBg4KlMEuOMle2MpmcI9SALrBSvNfi60lijcaZkXWw_2udkZDG8-qbKbyV6D8iHMLtk6E0uhNBa_A4-HSSui-7gh6--9ZSCeq0ploLzYdJTTmG1wakaOXRymyuCPB-53LeKj4YuH7HBcH2siac1v3lGHE3oMlTKm8FYBOnt-pRXhwkZsmibJaOMPbC_4AuyBPX7WKRJxzKIBpHyaCz7zcwabwY8-ldXAyhciIJFx7gcnabCi9yQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه ۰.۵ تغییرات اساسی زیادی داشت بخصوص توی بحث دسترسی‌گیری از سامانه و همچنین بهبود تجربه‌کاربری.\u003cbr/\u003e\u003cbr/\u003eو بیشتر لاجیک‌هایی که از نسخه پایتونی مونده بود رو توش بازنویسی کردم؛ رابط کاربری بهتر شده و الان امکان تعریف پروفایل داره.\u003cbr/\u003e\u003cbr/\u003eمثلاً با ایرانسل یک سری مخزن خوبه؛ این رو می‌کنید یک پروفایل به اسم ایرانسل؛ یا یک پروفایل برای همراه‌اول؛ یک پروفایل برای قطعی اینترنت و.....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eسایدبار هم که روی مخ خودم بود کاری کردم که بشه قایمش کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-23T21:35:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "صفحه تنظیمات پک‌من هم از یک پنجره مجزا پورت کردم به adw::BottomSheet و به‌نظرم بهتر شد.\u003cbr/\u003e\u003cbr/\u003eالان مثل یک فنر می‌پره بالا.\u003cbr/\u003e\u003cbr/\u003eبرای صفحات کوچک‌هم برنامه بهینه شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-23T21:38:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PnJXA9OwjqA9ZPNiIgu2MXS0ewEj8APrJbXfPKhg72NWurowggwx7RSjg0RBB_g1h45YiYK2FOR-UFN1424m8zeCIBH_uqOfn_Vsf7DKG4OyqH1xqSh8ugSilbvvjiHZGmi5fmRCCs0kOT34S3_33nbVYPHoQGWd_j7OT3fv6AZJnBH0rezUUYJsAlG2v-dlhctA72brOJRMtJqU9pZzXWjf9V4lO5n0cW0D6iCfRvZLrDj7vh1VmJ96JWTlP0wof9Hg2om4dnm6r6Z8dBEto17txiKxMA118jks7VwbPf5QOzXCgo6MCmhChbeJzPmmFkuGe83WBjrnqEfXBGg19w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "و نسخه تحت خط‌فرمان برای کسایی که GUI دوست ندارن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-23T21:40:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 195,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/j-9UuVMfonzR0YI03cvxe1JMCnzhF2YdDk5L2bLqNd_0M5scOqHFAjW5FA4atygkz3j9a3FhWeRPtG468qb8GceNp7vm2OJO9e9thNL1zeLWrjQWrXgAsBo8erb2e5KzvYW0Fxw6r-IrpblQC-0Sg0skiDE6l5jtsIQ-Tv-mbzfIb3azmmFTPIIwZ6d-A7VPJQI-cuRaFwZ-OJjYHl_creIRgw02_zijnh3gQRGJaQXNt0U19MLX1dN6aVu-q4GlGF435yO2cA2SJMLrQwmLWf0CeR8H12LUE5908z7iic1eR1I6RT28Y4XRIZp7bbDlZJKChczhCnRfWjQTk8ZuyA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784842431
+  "last_updated": 1784846845
 }
