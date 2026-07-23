@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "هاگینگ فیس توسط اوپن ای ای هک شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eشرکت OpenAI یه گزارش منتشر کرده که واقعاً عجیبه، این شرکت برای اینکه توانایی مدل‌های جدیدش رو در حوزه امنیت سایبری بسنجه، همه محدودیت‌های امنیتی مدل رو داخل یه محیط آزمایشی برداشت. مدل هم اول یه آسیب‌پذیری ناشناخته (Zero-Day) توی همون محیط پیدا کرد، از Sandbox خارج شد و تونست به اینترنت دسترسی پیدا کنه.\u003cbr/\u003e\u003cbr/\u003eبعد از اون، مدل به این نتیجه رسید که جواب‌های بنچمارک امنیتی ExploitGymاحتمالاً روی سرورهای Hugging Face ذخیره شده. برای اینکه امتیاز بالاتری توی این آزمون بگیره، خودش شروع کرد به طراحی مسیر حمله؛ از اطلاعات ورود لو رفته و چند آسیب‌پذیری دیگه استفاده کرد و سعی کرد وارد زیرساخت Hugging Face بشه تا جواب‌های آزمون رو پیدا کنه. البته تیم امنیتی Hugging Face خیلی سریع این فعالیت رو شناسایی و متوقف کرد و هیچ داده یا سرویس عمومی آسیب ندید.\u003cbr/\u003e\u003cbr/\u003eنکته مهم اینجاست که هیچ‌کس به مدل نگفته بود برو Hugging Face رو هک کن. فقط بهش هدف داده بودن که در آزمون بهترین عملکرد رو داشته باشه و مدل خودش تصمیم گرفته بود برای رسیدن به اون هدف، حمله واقعی انجام بده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-22T09:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aRLa8ZGQCcAy5mp6MHU0tr8tMI1ujD0zeV6FOuxi5flrVZWyHcr__m4V6z_Lk8N58xPDsllV_OhyntmEcinNaNeq9NvuZcqrHqhthao4cm_Z0bFUrrBkDiYdEEATFAogsp7oN0zHS8CJ6_dgcJtjeotrJKAP-j3pRSWjNk4FPVUUSratVEoaYpADLiPLz5v526ZipDXLK09qELijPG0lKXxdEShJ_YPQ3JXfndSV7azYMjDhrIS-4VBFTcp6iPiXB706PmfbX76Ihw4Fs-V9w-dKR-ZclJV_WPWhuR1mdDcgUc0SRJqVI0t_7ZQZv-AcN6uzzcmMvirUZaUOdKQqPw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "کسایی که سایت با دامنه com دارن دقت کنن از 10 آبان به بعد قراره قیمتش به طور جهانی افزایش پیدا کنه! \u003cbr/\u003e\u003cbr/\u003eتخمین زده می‌شه که 7% افزایش پیدا می‌کنه اگه دامنه مهمی دارید می‌تونید بازه 10 ساله زود تر تمدیدیش کنید تا به نرخ جدید نخورید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-22T09:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-07-22T09:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +36,7 @@
       "date": "2026-07-22T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-07-22T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-07-22T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "date": "2026-07-22T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5550,
+      "views": 5600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Eq3XUlAa262bYaRW48QorVwvODhw-7vzwjcncMuSOns1H5PqZE3H5V4FtZYf9N9bisWhaoBW1u9pqcu41Hz84oirXjFUMdGab-fh-g-ew5ZfEp5IUfLgO2A2sVgQQDd1Lygjre_p89E8I4CzxbMv0OV-ji0XR3nHeKzcH6Z2WLbe1safnkKQsTimJ7C5sbKu5Wwgpq4wcMCJHmQHLzmjJeky_tJnMKDlRF45FOl5DvOSglRAb0BZ1VAX6_ToEjDKV_Uq_47NI3rWQAgQXMQAJ079JQ55sKPK3bf1ssy_BP2S9zHvxrMfUUjbg1vCiznARaWCZC3YogebuAO0qbZLdQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/HQT-CMnpmvSo8fDItK6wdc8xG-AX_HzEqm16hequoXzHecUacVeZn9nAcJnZXxzeHKCH3fAriakfSTAnsH_X3YVFTfD7WDWo1RW4Af8aJT57xj0tbeNzZ8T4gi4ZXy1Kx8jzlmVwCKbbviUU7C0FfAFwREw4j56I7K2r3RDSVDoRADNSNVMniqZivwWC342ZKNd2b7cZFP96HDUqSsqkwPED7B7yE6nhHovJ0_XQ-bIo5fzaYx1H0zVvigqUKCkwZBHrV1e1XX8zvhHy6TMmAQpqFHefW1AC_mF6hkI7R-7pFGe0MQ5u8gRZJBuStm63wtU6MsO1NzIy_RJSMRXqtA.jpg"
         }
       ]
     },
@@ -121,7 +103,7 @@
       "date": "2026-07-22T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 5460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +111,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ehzj6hMoDsKMIAYUZN9FXCoT9_8espcX-h69xvHRHkmvOy2fnEgRw1BsAA670S_Um_QK4K3xvr2PonG2TXsapWPQCAouIqZugLVygpcit4OEMrWeIxe9aopDjEtYUVPQZ0dXnWvWIM7tvepKRnM3pQlwe2U3mBY3I1KxNb8nFRxxvHmyGDrc7KCfgWDHfYJ06HETk8gTEla-faSLsLlWw7BTYG1fYburgzR63ZvNuVnkLDnTX_19c5xeR44LESPqtoEfPJdQUR5fQyhWrRfO82WAmBrIr0U-kjhYq_iQgJo1wV-jHGhR_EwJF4ziaIKk_43RHAUcGBalB1lK_XT_tA.jpg"
+          "url": "https://cdn4.telesco.pe/file/gXLxUQ8HfFvkBno5T9Eg1leOguiMLqec2wvlPx1TsqbzzgPpMX8gVwR3Gs8NFYYSGJdY4RaYRn317wmC--Rb1FqiNPNdxOlgS-3qyWRlCYwLt2QhMNUxaPa1hUwMYkPhikvR63oRWAEwk4n2QCmvna-jYvtfX2vJTpDedRGk4fv4Ns8nDRzDc3S7ZLeAEFaVH-xTnHFcG48RwiiQRnFmaLbiJA7Xb3_-oPb9hz7TXDbZm01nyyWL76O0W6-tcEz7JnA3YGqo6zRJxb-sPNzlHVyEVjLC1LMbOP_dMOrV0VFJiCt1Lrl3_QHM9G9cCGawvylUNieVxtpP6V5ZS28K-w.jpg"
         }
       ]
     },
@@ -139,7 +121,7 @@
       "date": "2026-07-22T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 5690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-07-22T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +151,7 @@
       "date": "2026-07-22T17:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +169,7 @@
       "date": "2026-07-22T18:12:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-07-22T18:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +205,7 @@
       "date": "2026-07-22T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-07-22T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +235,7 @@
       "date": "2026-07-23T06:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "date": "2026-07-23T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
+      "views": 3900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +271,7 @@
       "date": "2026-07-23T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 4500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +289,7 @@
       "date": "2026-07-23T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2810,
+      "views": 3770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +307,7 @@
       "date": "2026-07-23T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2350,
+      "views": 3520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,5 +320,5 @@
       ]
     }
   ],
-  "last_updated": 1784817556
+  "last_updated": 1784823595
 }
