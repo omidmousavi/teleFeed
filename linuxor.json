@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "محتوای بیش از 1800 سایت رو با یه نرم‌افزار دانلود کن؛ شاید این کامل‌ترین دانلودر متن‌باز باشه!\u003cbr/\u003e\u003cbr/\u003eاگر همیشه برای دانلود از YouTube، Instagram، TikTok، Reddit، Udemy، Hotmart، Bilibili یا حتی فایل‌های Torrent مجبور بودی چند ابزار مختلف نصب کنی، وقتش رسیده با OmniGet آشنا بشی\u003cbr/\u003e\u003cbr/\u003eانتخاب کیفیت و فرمت خروجی\u003cbr/\u003eدانلود گروهی و صف دانلود حرفه‌ای\u003cbr/\u003eدانلود بخشی از ویدیو یا استخراج فقط صدا\u003cbr/\u003eپخش‌کننده داخلی ویدیو و موسیقی\u003cbr/\u003eکتاب‌خوان داخلی برای PDF و EPUB\u003cbr/\u003eمبدل فایل با FFmpeg\u003cbr/\u003eمیانبر سراسری؛ فقط لینک را کپی کن و با یک کلید دانلود را شروع کن\u003cbr/\u003e\u003cbr/\u003eبه نظرم یکی از کامل‌ترین پروژه‌های Open Source امسال برای مدیریت دانلود هستش و ارزش داره حداقل یه بار امتحانش کنین :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tonhowtf/omniget\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tonhowtf/omniget\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ pedrambirack",
-      "date": "2026-07-23T06:38:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ShQlOar5zy3TbzXXO1p4DIaYcSJvk1C9Y6G5Aji7ekcDucJmHiaOUcS-WvaCOoBK4IItilJ2nD8I-zyT8kc1_V34uEEx69GUQR7zjnFbdbRvdeKjbtRinNnIa2cW6WtyQ42xSlaHxEIGQvONsAnksRplxP1QzwJaUqJwyvtLER3b6c7LKJ0tbD1u2y-Qe1WaMKUjZ_BJJ2krNexrnkhCis4H4xOdg91BVIrpRuh0bapaXTNlTLyTEAX_p117kaB630NW32inF_p5K9X-pmojJLbIt0b6-obAEYz-S21KLRngogBHxR5DnAk0WHKnRA2dEm_7dq1IeuBxP4XE-U-K6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "مدل Qwen 3.5-9B-Aggressive-Uncensored حسابی سر و صدا کرده \u003cbr/\u003eبیشتر از 500 هزار بار دانلود شده و بدون هیچ محدودیت یا فیلتر محافظتی، حتی روی کارت گرافیک‌هایی مثل RTX 4060 به‌صورت لوکال اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین یکی از اون مدل‌های اوپن‌سورسه که خیلی از دولوپرها برای خلاقیت آزاد، کدنویسی و کارهای بدون محدودیت سراغش رفتن؛ خوبیش اینه پشتیبانی چندزبانه قوی داره و قابلیت چندوجهی (متن + تصویر) داره و قابلیت Chain of Thought (استدلال مرحله‌به‌مرحله) داره و نسخه‌های GGUF داره که نصب و اجرای لوکال رو راحت‌تر می‌کنه\u003cbr/\u003eبرای اجرا هم بسته به نسخه‌ای که انتخاب می‌کنی سخت‌افزار متفاوتی نیاز داری:\u003cbr/\u003e\u003cbr/\u003eنسخه Q6_K (حدود 7 گیگابایت): بهتره حداقل 12 تا 16 گیگ رم داشته باشی.\u003cbr/\u003e\u003cbr/\u003eنسخه Q8_0 (حدود 9 گیگابایت): برای اجرای روان‌تر حدود 16 تا 24 گیگ رم پیشنهاد می‌شه.\u003cbr/\u003e\u003cbr/\u003eنسخه BF16 (حدود 17 گیگابایت): بهتره 24 تا 32 گیگ رم یا سخت‌افزار قوی‌تر داشته باشی؛ برای سیستم‌های معمولی خیلی بهینه نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-23T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 8150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-07-23T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-07-23T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-07-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-07-23T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-07-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-07-23T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-07-24T09:16:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +141,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/c3qnDgQWRHd-KpVHpCPZMY77dKvZzSwzTrMAZ_ce4qcI-vEVe0XycU_RrQcpwA0tvF18cKPWC48Xs907SI6iZ4T5ItTabBP1rZ4ZOLHod4LMHlFypm0Ly5HHruuRTZnhvNICncCSP__KFSH_M6hAeizUL_Ai565g64-LOvoPRefK7DsevLEbTIbREvzyUyoQ0po88MzocKQf9DMfm38KE70syheOfmYJDKbYkE6BzM94pU0QG4lNgtCn3SxaR12B51iyhvvlTmVoWmjI79GcRofh3maqVUBaizExpkZSAIK9S5h6wLZpqrZnr8OqkqDw6YeyhRHUSFxolpKBC368fA",
+          "url": "https://cdn4.telesco.pe/file/vXl_UtqomdR9M79kheTntWzP--PBItBBqat4rgTwwew0Mgjrx5khzlNO5eadcUzmQqcuQzWF9nR8_DqvghMIYy0wM4oAr3Skrt3I1tYzVoaxn5rAeWeihBjmEhptwe6QXMut35-sBqJAw4YUYlPh7R1hCdFqzMu286F7Tp6KSiqFkqGcbmkT1_AF6GoV2AQ-dR-XRF8yrZ-1j4nSIcDq2m9IbjR9Zgkyz8PbbLQ11yjuOMCQ2NxEI0rNI4m0VJAZnqU_rt-bTqegax_fZoX3ggxyZooWOwut86ZRqaLJvOgxeC1PTOf-VHGKMAf7nVRw0VFYoo3h25Vlm8uvYILj0Q",
           "width": 720
         }
       ]
@@ -170,7 +152,7 @@
       "date": "2026-07-24T11:53:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +170,7 @@
       "date": "2026-07-24T12:05:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +182,7 @@
       "date": "2026-07-24T13:53:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "date": "2026-07-24T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "date": "2026-07-24T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 5910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +236,7 @@
       "date": "2026-07-24T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +254,7 @@
       "date": "2026-07-24T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +266,7 @@
       "date": "2026-07-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +277,19 @@
           "url": "https://cdn4.telesco.pe/file/bsWjIOg6q1K48o2-9nEyLDMZ8L8nfHCMleKwWsmitEhMOUompdjBKJP_gOG-S-ejZK_XYq-ESEZ3xsScNORTtYUfc_iMREwUe5KJyROQI-85bzhnS5whGWaBXZh7c8zP6JvJcd-dA6Kv9q5cyKuOIkJMA1AMt9p3TEEOw1GVsM5Z8B0hwz473nejKbz8NDP-JzVg2c5aD3yaD8PXypLMMzbAFJlQju7cKoxSDwZdD1LSrtf0zSWpjmNmo9HoyyX_qlMUdy_k0JZPFYew03GaoqRgu9m6RjSOaSZMhjCfO63XQXB7YOtwhf6fk1XOwzbscNEJsREiNWiQdfjbBUjCDA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه بخوام بین دو گروه \u0026#34;وایب کدرها\u0026#34; و \u0026#34;کمالگراهایی که خیلی می‌دونن\u0026#34; بگم کدومشون در آینده موفق می‌شن صد در صد انتخابم وایب کدر هاست.\u003cbr/\u003e\u003cbr/\u003eچون وایب کدر نمیدونه داره چیکار می‌کنه ولی در حال حرکته بالاخره، اما کمالگرا هرچقدرم بدونه اصلا حرکتی نمی‌کنه و اگرم حرکت کنه حرکتش عمقی و بدرد نمی‌خوره مثال معروفشم مقایسه الگوریتم DFS با RandomSearch هست DFS ممکنه اصلا به جواب نرسه ولی RandomSearch بالاخره یه چیزی نصیبش می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-25T07:45:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1784963481
+  "last_updated": 1784971009
 }
