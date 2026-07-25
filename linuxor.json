@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه پروژه خیلی جالب برای کسایی که می‌خوان بفهمن پشت صحنه‌ی LLMها چی می‌گذره ساخته شده. این ریپو قدم‌به‌قدم نشون می‌ده چطور یه مدل زبانی رو از صفر بسازید؛ از جمع‌آوری و آماده‌سازی داده‌ها گرفته تا ساخت کامل معماری Transformer با PyTorch و در نهایت اینکه مدل چطور شروع به تولید متن می‌کنه. حتی بخش‌هایی مثل Attention، Multi-Head Attention، بلاک‌های Transformer و کل ساختار مدل هم خودشون از صفر پیاده‌سازی شدن و با توضیحات و نمودارهای ساده توضیح داده شدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/FareedKhan-dev/train-llm-from-scratch\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/FareedKhan-dev/train-llm-from-scratch\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-23T13:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6990,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Fu8zkHsxvXx2xZXXd-SO7y0j8M_rYTAT_ImkH0Su-l6OXpVytK2-h_fPYuVCNbtOSXTCYiJve2wbCVEqLIWia_mH99zXriYgAByzuR8UMr7agerCzGDFwytK6NuqWbKy63-ZlWnVCR1tQLNoFpq8MmlOHTklUJNzbIkmSMXE5cHdE6kusLe3k4d3ifKQm2TYzZkEYPDA4tw-EMkr1OD4rJqrzjennMhpCsxdYq57Taj3iyZrqizOBQ9nlQzuhgKu67NNstlpQ-2Rb5xCc5TQWOxnkmvXiELlZIBzf4zJwU-QWQcL57marigsimNF9UA43P9n64J45QHotSKo1qq30A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاز Prompt Engineering تا ساخت AI Agentهای واقعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e در \u003cb\u003e«مینی‌کمپ Agentic AI» کوئرا\u003c/b\u003e یاد می‌گیری چطور از هوش مصنوعی برای \u003cb\u003eجست‌وجو و جمع‌آوری اطلاعات، تحلیل داده، استفاده از ابزارها و خودکارسازی فرایندهای چندمرحله‌ای\u003c/b\u003e کمک بگیری.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e همچنین، با پروژه‌های عملی و تیمی و ا\u003cb\u003eبزارهایی مثل n8n ،Flowise و LangChain\u003c/b\u003e کار می‌کنی تا نمونه‌کاری بسازی که برای \u003cb\u003eرزومه\u003c/b\u003e، \u003cb\u003eمصاحبه فنی\u003c/b\u003e و \u003cb\u003eفرصت‌های شغلی هوش‌مصنوعی \u003c/b\u003eبه کارت بیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت قسطی بلندمدت هم وجود داره.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e ثبت‌نام اولیه رایگان:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://quera.org/r/ucn18\" target=\"_blank\" rel=\"noopener\"\u003ehttps://quera.org/r/ucn18\u003c/a\u003e",
-      "date": "2026-07-23T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M8pwclAQa1nwyUcwd6d8V_wCsKAA_my53neF5qxvFzuHyt97kZoDkWRObFqv-ngecAuZop6MaB7oHSzHsnWQZvZWC-jIQT03W6WEyf-CZZ71ox1IWKM1PQGayw43v2fdbpZVEOdoYILIo6U__5zOoyVYvJBkNELJni0K1U6nzqwulRsZVlfct_vNcSiygjP49IfKXPwjO6tPzZqN9S0XGz7pLo3xAIqcCgVsLUabvWcvJ3UJNqFuwyjH9be26Ex3Lhk2glTqxBjvh4eLH5FQm2iA-x2QEE6u6PVRjomdwMOYV063OPl2OPlU8K4LoMZslVNDQmdkPHVFlvtYxXNZOQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اینجارو ببینید چی درست کردن با هوش مصنوعی، یه تخته وایت برد که با ماژیک روش مینویسید و هوش مصنوعی هم همکاری باهاتون میکنه خوراک ساخت آموزشه و کلاس های آنلاینه.\u003cbr/\u003e\u003cbr/\u003eدقت کنید پروژه اوپن سورسه باید خودتون برای خودتون رانش کنید سایت نیست :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/penecho/penecho\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/penecho/penecho\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-23T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +31,7 @@
       "date": "2026-07-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7580,
+      "views": 7660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +43,7 @@
       "date": "2026-07-23T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +61,7 @@
       "date": "2026-07-24T09:16:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +80,7 @@
       "date": "2026-07-24T11:53:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +98,7 @@
       "date": "2026-07-24T12:05:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +110,7 @@
       "date": "2026-07-24T13:53:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +128,7 @@
       "date": "2026-07-24T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +146,7 @@
       "date": "2026-07-24T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6260,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +164,7 @@
       "date": "2026-07-24T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6930,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +182,7 @@
       "date": "2026-07-24T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +194,7 @@
       "date": "2026-07-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6610,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +212,7 @@
       "date": "2026-07-25T07:45:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4840,
+      "views": 5690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +224,7 @@
       "date": "2026-07-25T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 3430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +242,7 @@
       "date": "2026-07-25T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 3140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +253,49 @@
           "url": "https://cdn4.telesco.pe/file/mZIguSGH0kJ-fzr8BnQpUatg5IO-NWVNps1x-PMqWqccDOj4E6keKr39V72VaGWdtRSqC3xzu3STnLE5aduHFdyUu38x4DpWNyPktVg8cDcE-AjNkjSyHxFD_8Y4B69zhK65XC-SIFCnwUet4xC02fHgiR7HB7y8EpRIlW-mCy-j7ofYfJawm1t6mgkb0E8RFnuTlWXgMmjPHpV3dkdZRHDuDZcSolEL_fWe697oebfX2ub0X66MfD4dHHBYD5zN5YjFvqoDXwY-jxbg5RK5w4UyzUSGX9Zkmituaal5pFDRD3dcE5SOWhiULAo6dPS6IdFS1ObwJDzxEpd5V4eNnQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "جالبه وقتی توی گوگل یه چیزی رو اولین بار سرچ می‌کنید و روی اولین سایت کلیک می‌کنید اگه چند روز بعد دوباره همونو سرچ کنید بعضی مواقع گوگل عمدا اون سایت رو اول نشون نمیده و مثلا دوم یا سوم نشون می‌ده که ببینه واکنش شما چیه؟ (فرض می‌کنه سایت شمارو به خواسته تون نرسونده) اگه بازم با اینکه اول نیست روش کلیک کنید مطمئن می‌شه که اون سایت شمارو به خواسته تون رسونده و براتون ارزش بالایی داره و دیگه بعدش همیشه بهتون اول نشونش میده.\u003cbr/\u003e\u003cbr/\u003eالبته این تجربه شخصی خودم بوده چند بار برام اتفاق افتاده،‌ توی اینترنت گشتم ببینم جایی همچین چیزی مستند شده که بیام دربارش بنویسم ولی هیچ چیزی پیدا نکردم نمیدونم این اتفاق برای شما هم افتاده ولی داره حرکت جالبی می‌زنه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-25T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "راستش این سایت رو که دیدم، گفتم حتماً به اشتراک بذارم.\u003cbr/\u003eیه مجموعه‌ی تمیز از 200+ دوره‌ی رایگان که همه‌شون گواهی معتبر دارن. از برنامه‌نویسی و AI تا دیزاین و بیزینس و امنیت و غیره و چیزی کم نداره.\u003cbr/\u003eبیش از 20000 ساعت محتوا توش جمع شده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://panx.io/awesome-certificates\" target=\"_blank\" rel=\"noopener\"\u003epanx.io/awesome-certificates\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ algotrade24",
+      "date": "2026-07-25T15:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vlPcJFBKJ2Q-wIcVYuKhozylF5-78-pCoXQFk0tx5a3owNrvWuF06qDwNw9mb7Hqc01k7s59qGI5kUrrTSKACqIoN5mL3RzAqJ-RhGfHUavBm1HlpeWuU3oTojZ4UKsUhIJw_0H2cKcMTU4u8_G_x6kcZcJvi3D3uCcGXN_65ELxVNJBYxLqourPt8FEVz0hsocijzTFfuIkNeWOW6jLpgOEbnzLrzCIDekuDl5moqIIX0gjyTCNTp-NK-QjUHoLc1p6zB76mBNzbqtHJwmyt7qdIcSV01W76e6ahKDF0M6aaGU6_X45cvMdtZVNVKkTE5VrfF_2-seIxpu9UmU2Gg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بهش گفت تو اولویت 20- منی ولی ولش کرد....\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e(نمیخوام جمله رو احساسیش کنم ولی حق داره ولت کنه توی لینوکس اولویت منفی 20 یعنی شدید ترین و بالاترین اولویت و برای سیستم های شبه ریل‌تایم استفاده می‌شه حتی init خود کرنل داره با اولویت 0 اجرا می‌شه منفی 20 دیگه چیه گفتی!)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-25T15:30:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1784990658
+  "last_updated": 1784994984
 }
