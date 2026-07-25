@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مدل Qwen 3.5-9B-Aggressive-Uncensored حسابی سر و صدا کرده \u003cbr/\u003eبیشتر از 500 هزار بار دانلود شده و بدون هیچ محدودیت یا فیلتر محافظتی، حتی روی کارت گرافیک‌هایی مثل RTX 4060 به‌صورت لوکال اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین یکی از اون مدل‌های اوپن‌سورسه که خیلی از دولوپرها برای خلاقیت آزاد، کدنویسی و کارهای بدون محدودیت سراغش رفتن؛ خوبیش اینه پشتیبانی چندزبانه قوی داره و قابلیت چندوجهی (متن + تصویر) داره و قابلیت Chain of Thought (استدلال مرحله‌به‌مرحله) داره و نسخه‌های GGUF داره که نصب و اجرای لوکال رو راحت‌تر می‌کنه\u003cbr/\u003eبرای اجرا هم بسته به نسخه‌ای که انتخاب می‌کنی سخت‌افزار متفاوتی نیاز داری:\u003cbr/\u003e\u003cbr/\u003eنسخه Q6_K (حدود 7 گیگابایت): بهتره حداقل 12 تا 16 گیگ رم داشته باشی.\u003cbr/\u003e\u003cbr/\u003eنسخه Q8_0 (حدود 9 گیگابایت): برای اجرای روان‌تر حدود 16 تا 24 گیگ رم پیشنهاد می‌شه.\u003cbr/\u003e\u003cbr/\u003eنسخه BF16 (حدود 17 گیگابایت): بهتره 24 تا 32 گیگ رم یا سخت‌افزار قوی‌تر داشته باشی؛ برای سیستم‌های معمولی خیلی بهینه نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-23T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W10CEBHm7dBs6DpKy7To7hJOpDHgL-mGBTbILi9JUuHi5vZbtCZhjPoV3BqvT09MrSRqkM_2DkBQWw6uxRKBO2Sv2j_gfxW_Udhk6gcH5N_4RWSPW5SdgJEYv1FkLE2KUNb5Rr8aUY4206V3ue2QRxHQ2ry8o3YbrQhiDSVjevIB5EoOEUCi5mp5P2f_t7c1POV1HHsd1YXnPjDGzZuMpO3EtMZGXvbBHn7-J9pOi7sEBR1spEB_Idyof_pczMo5cJNidcXoGnZGydWXw7zChPkNV8pkM89ZP5tcmb9In2Dnv83AemMQyNUW08avfFMOFT7X4KnhCf23YNXfznfDiQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-23T12:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sXxoUD0HdULug1QaZpMuMW5LOwak4B_z4UYXTXKanByjpz17lgHuTyfM_vNEZUeCWGGIV4DHMTtXUoxv-u39PkBYYocSKdbTK-uxM1pQ51t9K-tDhVnneAGX6DpXffZJyQFdPGcyZLFapRDu7pKB68JATiBsExUSuDV3Rlsdxsmgcgosyk5UrQuaBO8sEgDGz_5DNYcfeHSOZQQW9HrK0pBoJOp9nzULEV-ZnungFxo9nof0OpDf86ZtWyP2HlK3xgPMdLL4cbIWAkJTvaAEF3f3xb-6mIlx8n0j1l0pBWEXIYbobIPODjPYKWkdpAoYe-fQbi_5vv82mNg8KFkJpA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه پروژه خیلی جالب برای کسایی که می‌خوان بفهمن پشت صحنه‌ی LLMها چی می‌گذره ساخته شده. این ریپو قدم‌به‌قدم نشون می‌ده چطور یه مدل زبانی رو از صفر بسازید؛ از جمع‌آوری و آماده‌سازی داده‌ها گرفته تا ساخت کامل معماری Transformer با PyTorch و در نهایت اینکه مدل چطور شروع به تولید متن می‌کنه. حتی بخش‌هایی مثل Attention، Multi-Head Attention، بلاک‌های Transformer و کل ساختار مدل هم خودشون از صفر پیاده‌سازی شدن و با توضیحات و نمودارهای ساده توضیح داده شدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/FareedKhan-dev/train-llm-from-scratch\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/FareedKhan-dev/train-llm-from-scratch\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-23T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-07-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-07-23T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +67,7 @@
       "date": "2026-07-23T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +79,7 @@
       "date": "2026-07-23T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-07-24T09:16:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7750,
+      "views": 7820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +116,7 @@
       "date": "2026-07-24T11:53:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +134,7 @@
       "date": "2026-07-24T12:05:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +146,7 @@
       "date": "2026-07-24T13:53:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CnKS40VrT7qK0foTKmZWdTSgpWblaTAT8xY70R-etm5c3W2f9YaKMJ2A0kxqa6I2YAxjyXxMuL5DTEKcsIlpbg2BnQOjwfpz7Bey8PAgn7KYCrZm69NfbEt80L9hi77bDpDWvLNt-2xNGS4hdoB8_r6cveF3wjf3cIpThS0Mk7weoHBoE0oyyJv-500QXCOt8ap0XTvjD3h_9E6ynHjg8jjY6JVlSGFuRsZiq2u93I6Fz1LbDKddm7OCMOh-_GaFtj2tUkZbSbMOCut4dLzIlwy4Ne0OwckWKrrswtqd8chbKDkecgvBrWMt02heakSy-HECJCacBmsD0FQkOT-Olg.jpg"
+          "url": "https://cdn4.telesco.pe/file/WAko60FcCEVmKXEGBJWIibtHEgWXTGzQyMIlQp4Ep-kfh2KtWXdZxUkGtSPeDWDPHR9IblcvhF12IHvnEpKl5IBmFkEWAEKsMdKmT6_6JeSDsUuO1y4NHVGj2zg6dcWPdmT1FpzqbVvxQALKIJGm7OEVm4IhJtyrYlCCXaXa-JKLsCIdo9a13_equEN4DxOgXzjJg-ik3JqIKS-5fK1vadYHsarQJTya9OcR9_WBzyvp3Xvs6vWl4XOWMgko1gBlk3V8LJGrrCORIh87gQ9TSJOBH8wu9eWfvNGRl-w7EQV81qhO8HdMCJNFqPNw15p1YLuM1UG8BMxFgDKN8bSUZA.jpg"
         }
       ]
     },
@@ -200,7 +164,7 @@
       "date": "2026-07-24T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6110,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +182,7 @@
       "date": "2026-07-24T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +200,7 @@
       "date": "2026-07-24T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
+      "views": 6930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +218,7 @@
       "date": "2026-07-24T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +230,7 @@
       "date": "2026-07-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,12 +248,48 @@
       "date": "2026-07-25T07:45:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
+      "views": 4840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه برنامه‌نویسید و دوست دارید انگلیسی‌تون رو برای کار، یادگیری و ارتباطات حرفه‌ای قوی‌تر کنید، این کلاس‌ها مخصوص همین هدف برگزار می‌شن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبرای اطلاعات بیشتر و دیدن جزئیات کلاس‌ها، چنلشون رو چک کنید .\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e آزمون تعیین سطح هم رایگان هست.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Learnobit\" target=\"_blank\"\u003e@Learnobit\u003c/a\u003e",
+      "date": "2026-07-25T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/E3HojtUexy-PtPcRT2-xg5OOwQ6NgQ_ir2N37J1pNcV-B6Vq9rqmveRLSQg-u_aNIlkkaFQ1sHAAztItkwTIU5Ev9loFYvgFuCNTRoNpWNIM49MaJIwyaSyC_z8JZgkpYLJi3nAPOLJTIEvMVSV1cSM6sqa_YStqVWYcDoxIdtj7WxV9n4BkrMv7Qkh1-DIhrv9UAhH3kzy_RuFdJO1bgM9ifRjGe4EDhWwXkXI77O2hCRDV9Rqa8v_lsEV646bWwYvHSh-An9roYHlTXaP6jqiJEgCsP8hLqSh4LCfkYM76KhMADY4JHH-B9Vigllbb-t-GoB4iyrJMWRUaYd6mUQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برای سئو لازم نیست همیشه سراغ ابزارهای گرون مثل Semrush و Ahrefs بری. \u003cbr/\u003e\u003cbr/\u003eابزار OpenSEO یک ابزار متن‌باز و سبک برای تحقیق و مدیریت سئو هستش که می‌تونی رایگان تستش کنی\u003cbr/\u003e\u003cbr/\u003eبا نسخه رایگانش می‌شه:\u003cbr/\u003eکلمات کلیدی جدید پیدا کنی\u003cbr/\u003eحجم جستجو، سختی و CPC رو بررسی کنی\u003cbr/\u003eنتایج واقعی گوگل و صفحات رتبه‌گرفته رو ببینی\u003cbr/\u003eکلمات مهم رو ذخیره و دسته‌بندی کنی\u003cbr/\u003eرتبه سایت رو توی موبایل و دسکتاپ پیگیری کنی\u003cbr/\u003eدامنه رقبا و ترافیک ارگانیک اون‌هارو تحلیل کنی\u003cbr/\u003eکلمات و صفحات پربازدید رقبا رو پیدا کنی\u003cbr/\u003eبک‌لینک‌ها و دامنه‌های لینک‌دهنده رو بررسی کنی\u003cbr/\u003eمشکلات فنی سایت را با Site Audit پیدا کنی\u003cbr/\u003eتا 50 صفحه را در هر Crawl رایگان بررسی کنی\u003cbr/\u003eحضور برند در ChatGPT و Google AI Overview رو بسنجی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/every-app/open-seo\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/every-app/open-seo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ pedrambirack",
+      "date": "2026-07-25T14:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mZIguSGH0kJ-fzr8BnQpUatg5IO-NWVNps1x-PMqWqccDOj4E6keKr39V72VaGWdtRSqC3xzu3STnLE5aduHFdyUu38x4DpWNyPktVg8cDcE-AjNkjSyHxFD_8Y4B69zhK65XC-SIFCnwUet4xC02fHgiR7HB7y8EpRIlW-mCy-j7ofYfJawm1t6mgkb0E8RFnuTlWXgMmjPHpV3dkdZRHDuDZcSolEL_fWe697oebfX2ub0X66MfD4dHHBYD5zN5YjFvqoDXwY-jxbg5RK5w4UyzUSGX9Zkmituaal5pFDRD3dcE5SOWhiULAo6dPS6IdFS1ObwJDzxEpd5V4eNnQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784984869
+  "last_updated": 1784990658
 }
