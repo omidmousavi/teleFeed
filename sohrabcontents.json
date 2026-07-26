@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "میتسوزو (پیست‌بین پارچ) که در تابستون نوشته شده بود تا کمک کننده باشه، کد منبعش تمیز شد و روی گیت‌هاب منتشر شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/metantesan/mitsuzo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/metantesan/mitsuzo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگر دوست داشتید مشارکت کنید یا برای خودتون خودمیزبانیش بکنید از صفحه گیت‌هابش و طبق مستنداتش می‌تونید انجامش بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-18T17:30:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "این چندروز درگیر یک سری کار شخصی بودم که زیاد فرصت نکردم بیام و پست بنویسم؛ در همون حین هم روی این ابزار کار می‌کردم که یک برنامه الهام گرفته شده از ابزار winboat هستش با این تفاوت که خب با راست و جی‌تی‌کی نوشته شده و الکترون نیست و حالا دارم یک سری چیزهایی رو روشون کار می‌کنم که با پارچ بیشتر سازگار باشه یعنی یک سری ويژگی اضافه‌تر داشته باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-20T20:49:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rk_n9ExDokigxK_h8XJlzTHqJwpM1K7GR4YjbMsd5iLr5NMYlVgMPzQ0flrPzvv_sTYvVlEuAzREsKojWA_u9vQUXtjZfI6AxfZpDUijnymcXI3bCPbC5px-UIlgA78SDa5V610bq7e7z4Q8jYnkxNNtXS0-jaw24rVcYHe8GpwEHuKT2x8kNYJEe1JEOIkxnjm6zqrX01-MDBExEkmZuw2vfDyHl294RGqh7wccHPnYECHesVwo31Zppku4BPIOiSs5u1jo1WFwRriycImX4XrJsadVo8wUIGCFIJSXUqLmIr8eNRwtCdk2x85GKHPSR69bzlQF0kBLvX_F7605FQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "نگارش ۰.۱.۱ ابزار گیم‌هاب در مخزن پارچ منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاین به‌روزرسانی شامل بازطراحی اساسی بخش‌هایی از رابط کاربری و رفع باگ‌های مهمی است که تجربه کار با گیم‌هاب را بسیار روان‌تر می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمهم‌ترین تغییرات این نسخه:\u003c/b\u003e\u003cbr/\u003e \u003cb\u003eبازطراحی کامل صفحه پروتون:\u003c/b\u003e این بخش حالا کاملاً بر اساس استانداردهای طراحی گنوم (GNOME HIG) بازطراحی شده است؛ مدرن‌تر، منظم‌تر و با امکاناتی جدید مثل دکمه حذف اختصاصی برای نسخه‌های نصب‌شده.\u003cbr/\u003e \u003cb\u003eرفع مشکل بسته نشدن برنامه:\u003c/b\u003e باگ آزاردهنده‌ای که باعث می‌شد برنامه پس از بستن پنجره همچنان در پس‌زمینه باز بماند و از منابع سیستم (CPU/Memory) استفاده کند، برطرف شد.\u003cbr/\u003e \u003cb\u003eحل مشکل بارگذاری پروتون‌ها:\u003c/b\u003e باگ لودینگ بی‌نهایت لیست ابزارهای سازگاری (Proton) و همچنین مشکل عدم نمایش انتشارها و نسخه‌های Proton-CachyOS حل شدند.\u003cbr/\u003e \u003cb\u003eاعمال مستقیم تنظیمات:\u003c/b\u003e کلیدهای بخش تنظیمات (مثل تغییر CPU governor و پارامترهای کرنل) حالا به جای یک تغییر ظاهری، به درستی دستورات سیستمی مربوطه را اجرا می‌کنند.\u003cbr/\u003e \u003cb\u003eبهبود اجرای لانچرها:\u003c/b\u003e افزوده شدن Minigalaxy به لیست لانچرها و حل مشکلات مربوط به زبان سیستم (Locale) در زمان اجرای لانچرها.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-07-21T16:17:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 907,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Q8Ceia0mARN1MeAQW-bpDvHMwVQqHGdkT1uXhobJwvsdmFzHzFKQfchR0Z4jYdNceqS1FWhoUnC6dgenVUfp4wAza6VYQ2l9ZYlckFxHU0UNF9Mc640SVaTrEz_eT_YAoq05Ja8LMTfIehd8W-lHObvokO26TvNEAUAuipUOZI63yCzAfh1zi3vRbKB5rfJXA4G2Yl61_u4D7NoAtkwvLa3ZyTcbOORG0ZElhZhiF9swjRpiVVGQ0XU_4vCrYgKU7PvNJlRHtaL4q0dOAaRO-VNLM0KZP8ljjrehwQpLLM6KAda0p87byVDrXiwLdHLakdR8BRc0iH4KtLAUnEbz0w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ما توی توزیع‌های لینوکس دو مدل درحال حاضر داریم. تغییرپذیر و تغییرناپذیر.\u003cbr/\u003eتوی این پست می‌خوام درمورد توزیع‌های تغییرناپذیر و انواعشون صحبت بکنم.\u003cbr/\u003e\u003cbr/\u003eتوی توزیع‌های کلاسیک (مثل آرچ، دبیان یا هر چیز دیگه‌ای که تا الان باهاش کار کردیم)، فایل‌سیستم ریشه یا همون \u003ccode\u003e/\u003c/code\u003e قابلیت خواندن و نوشتن داره.\u003cbr/\u003eیعنی چی؟ یعنی شما، مدیر بسته (مثل \u003ccode\u003epacman\u003c/code\u003e یا \u003ccode\u003eapt\u003c/code\u003e) یا حتی یه اسکریپت مخرب، می‌تونید مستقیماً فایل‌های حیاتی سیستم‌عامل رو تغییر بدید، پاک کنید یا آپدیت کنید. همه‌چیز عالی به نظر می‌رسه تا اینکه یه روز وسط \u003ccode\u003esudo pacman -Syu\u003c/code\u003e برق میره، یا یه وابستگی (Dependency) حیاتی می‌شکنه و سیستم دیگه بوت نمیشه.\u003cbr/\u003e\u003cbr/\u003eاما توی توزیع‌های تغییرناپذیر (Immutable)، کلاً صورت مسئله پاک میشه. فایل‌سیستم ریشه به‌صورت فقط‌خواندنی (Read-Only) مانت میشه. هیچ‌کس حق نداره به هسته سیستم‌عامل دست بزنه. حالا سوال پیش میاد که \u0026#34;پس چطور برنامه‌هامون رو نصب کنیم؟ کدهامون رو کجا بیلد کنیم؟\u0026#34;\u003cbr/\u003e\u003cbr/\u003eجواب اینه: جدا کردن سیستم‌عامل از محیط کاربری. شما برنامه‌های گرافیکیتون رو با Flatpak نصب می‌کنید و برای محیط‌های توسعه، ابزارهای CLI و برنامه‌نویسی می‌رید سراغ کانتینرهایی مثل Distrobox. سیستم‌عامل فقط وظیفه داره سخت‌افزار رو بشناسه و یه بستر پایدار برای اجرای این کانتینرها بهتون بده.\u003cbr/\u003e\u003cbr/\u003eحالا می‌رسیم به این بحث که این روش چند مدل صورت گرفته و با چند روش عرضه میشه؟\u003cbr/\u003e\u003cbr/\u003e ۱. سیستم‌های مبتنی بر اسنپ‌شات (Snapshot-based)\u003cbr/\u003eاین مدل برای کسایی که می‌خوان کمترین دردسر رو برای مهاجرت از سیستم‌های کلاسیک داشته باشن، بهترین گزینه‌ست. اینجا ریشه فقط‌خواندنیه، اما مدیر بسته هنوز سر جاشه.\u003cbr/\u003eچطوری کار می‌کنه؟ وقتی می‌خواید سیستم رو آپدیت کنید، سیستم‌عامل با استفاده از قابلیت‌های Btrfs یه اسنپ‌شات جدید می‌سازه، اون اسنپ‌شات رو توی پس‌زمینه با دسترسی نوشتن مانت می‌کنه، آپدیت‌ها رو روی اون اعمال می‌کنه و در نهایت به گراب (یا هر بوت‌لودری که دارید) میگه دفعه بعد از روی این اسنپ‌شاتِ جدید بوت شو.\u003cbr/\u003eخوبیِ بزرگش اینه که اگه آپدیت جدید سیستم رو بریک کرد، فقط کافیه سیستم رو ریستارت کنید و از منوی بوت، اسنپ‌شات قبلی رو انتخاب کنید. انگار نه انگار که اتفاقی افتاده. توزیع میکرو او اس از اوپن‌سوزه از این روش استفاده می‌کنه\u003cbr/\u003e\u003cbr/\u003e ۲. معماری پارتیشن‌های A/B (Image-based)\u003cbr/\u003eاگه می‌خواید یه سیستم‌عامل رو در مقیاس وسیع یا روی دستگاه‌های خاص (مثل کنسول‌های بازی یا گوشی‌ها) پخش کنید و مطمئن باشید که آپدیت‌ها کاملاً اتمیک انجام میشن، این روش بهترین روشیه که دارید.\u003cbr/\u003eاینجا ما دو تا پارتیشن ریشه داریم (A و B). شما الان دارید روی پارتیشن A کار می‌کنید. سرور آپدیت، ایمیجِ جدید سیستم‌عامل رو (یا دلتای تغییراتش رو) می‌فرسته و روی پارتیشن B که الان بی‌کاره می‌نویسه. وقتی کارش تموم شد، یه نوتیفیکیشن میده که \u0026#34;لطفاً ریبوت کنید\u0026#34;. شما ریبوت می‌کنید، سیستم روی پارتیشن B بالا میاد و پارتیشن A میشه رزروِ شما برای آپدیت بعدی (یا برای مواقعی که پارتیشن B خراب بشه).\u003cbr/\u003eاندروید و سیستم‌عامل استیم از این روش استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003eادامه در پست بعدی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-21T19:23:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 914,
+      "views": 918,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +24,7 @@
       "date": "2026-07-21T19:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 951,
+      "views": 959,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +36,7 @@
       "date": "2026-07-22T07:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
+      "views": 999,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +54,7 @@
       "date": "2026-07-22T07:40:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +72,7 @@
       "date": "2026-07-23T08:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 927,
+      "views": 946,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +84,7 @@
       "date": "2026-07-23T18:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 821,
+      "views": 835,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +102,7 @@
       "date": "2026-07-23T21:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 752,
+      "views": 754,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +120,7 @@
       "date": "2026-07-23T21:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 842,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +132,7 @@
       "date": "2026-07-23T21:38:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
+      "views": 912,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +150,7 @@
       "date": "2026-07-23T21:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 966,
+      "views": 968,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +168,7 @@
       "date": "2026-07-25T12:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 887,
+      "views": 894,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +180,7 @@
       "date": "2026-07-25T15:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 999,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +192,7 @@
       "date": "2026-07-25T19:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 826,
+      "views": 841,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +204,7 @@
       "date": "2026-07-26T12:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 548,
+      "views": 591,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +222,7 @@
       "date": "2026-07-26T15:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 381,
+      "views": 444,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +240,7 @@
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 196,
+      "views": 294,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +251,33 @@
           "url": "https://cdn4.telesco.pe/file/ahygcUBytHl1dSWs2vHram7GfiKeM-YspDRyW48-5wMOrtlp46Y72PcjNpphWlnZ3OHS27Jba3FtlSPV0OmsQQG-ddPu2B__gkBHUGTWQQpuuyol1fPEjjqwf42KnWeGJnaTkoU6ulaoinNg9JHiJgiRn4wizkG9x-foDpS-wTnwYRelIefKbFG92lfBLmYkMbON5cByRQtWXv7-ylS2CM_jQRnn07CyE-eoPrpLKFCOnnHzv12GRn6UTzBuJ1Z6SnHqDt4FHRG0SIfFlesR5F0oecpdYbanhFyWl2GkcvCinz-qXbgCRnm_3ncqHfHtnd5qhvHV--_DfDhjbW_QTg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دارم روی نصب آنلاین پارچ کار می‌کنم بواسطه کالامارس؛ هنوز راه زیادی باید طی بشه ولی خب این بیشتر کمک می‌کنه اگر ایزو قدیمی شده باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-26T19:47:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 151,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z3Sorse8sIM965vYuUvLkMAIO1g-BblZOwOJ8eoFYbLdF6afhdBS-SDJmy7vGXsXje_cdtkr-8tr9CUNnUo1CaPIofqju3s0k04R-r-o-tY-XaX7_7d1iK1CeeRNAR1FRvMODZYcEi3Zarnwq5n1jOU-49zUSN-X7rJEb_MCvwlzOA4w7J_ahaLr_p2ZnccYed_BTmLPHBrHP56ySLGJnZGJtcHQB50DI-hjzZ-F2Mzk0gfM438tt2t3i_QUe_O5qSzOgBbjcBJ0zkVi2kcHCYQBBAQqqbvREiPEZ-Uqr4nLV1s3DBmx1sHhK-m0ejdY3ZdhsFSJ3YF3hOhrYzPa2Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gWpI2sO1dwGuWYJGuatYk_mnbzB36xvT-pusfgHO0FogK24OnWsV44AoS8myuOytSBTpJTZHCYjWIdYOXffcXANyRcmaKPyvrWzKqFLQ4sr7uXYdsWzv-gKi3v-poqpbXEjhCPT70d9HcZwxJEKsl7uNAzp0cM4btpScxP9M2paHAEXJYTtapsxvy5w4Cqjda1L0khiQu0Iw7NYjrvivrsdAjdqCqqsQrUb7hIAak2XfYgKDUZp_MOZd3NKPfRPQHox35gj84vEvmybTL9OdDNT3OX965Glq3BrK8x93nyJfTowxXNwmJxehDWErAEM3um5PdlVKSXU2OVpedDcR6A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nZUbGXGu4cHJjq3zTe3Tm-8_a5wpZ_F3z_iFayUcVXe0y4Xl5OOB0VRqWAG6egpi3RVPfSAumgWwBkwDQ9utUQ3yzJ1fVj3IKcwQR00dxD_uAgo04vN6kZkRVgw_XxJ4M-FG2w7jktFGjo3MffY4DdmVjgxVwtTlF7w5DdN2imXJ3efWGHteq15e19dDYliLTlVwJDshOHsJYO39fMFICzG56Xu3YELaXrYCZAaE4WoFAED_7Mex0mJFDJbq2eP18c5VIZ6LANjvngwPAhQScVjZVHuj8laQwOnAHn6l4v9BwbyTs_QZ5l5D7gd0LVb1HmgwzALnXVpRkndFf4LdsQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785092242
+  "last_updated": 1785096353
 }
