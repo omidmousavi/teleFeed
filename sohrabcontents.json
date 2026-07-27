@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "۳. مبتنی بر درخت‌فایل و لایه‌بندی (OSTree / Layered)\u003cbr/\u003e\u003cbr/\u003eاین روش رو میشه اینطوری توصیف کرد: «گیت (Git) برای سیستم‌عامل». ابزارهایی مثل \u003ccode\u003erpm-ostree\u003c/code\u003e یه ایمیج پایه از سیستم‌عامل رو دانلود می‌کنن. آپدیت‌ها اینجا به شکل دریافت تفاوت‌ها (Deltas) بین نسخه فعلی شما و نسخه روی سرور انجام میشه.\u003cbr/\u003eنکته جالبش اینه که اگه واقعاً به یه پکیجی نیاز داشته باشید که باید توی سطح سیستم نصب بشه (مثلاً یه درایور خاص یا ابزار سیستمی)، می‌تونید اون پکیج رو روی ایمیج پایه «لایه‌بندی» (Layering) کنید. البته توسعه‌دهنده‌هاش همیشه پیشنهاد می‌کنن تا جای ممکن از همون فلت‌پک استفاده کنید تا سیستم کثیف نشه. توزیع‌هایی مثل فدورا از این روش استفاده می‌کنن برای ایموتبل بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e۴. سیستم‌های اعلانی و تابعی (Declarative / Nix \u0026amp; Guix)\u003cbr/\u003eاینجا دیگه وارد دنیای جادوییِ بازتولیدپذیری (Reproducibility) می‌شیم! توی این توزیع‌ها اصلا خبری از قفل کردن سنتیِ فایل‌سیستم نیست. کل فلسفه عوض میشه.\u003cbr/\u003eتوی سیستمی مثل گیکس (Guix)، شما کل کانفیگ سیستم‌عاملتون رو (از کرنل و درایورها گرفته تا پکیج‌های کاربر و تنظیمات) داخل یه فایل متنی واحد (مثلاً با سینتکس Guile Scheme) می‌نویسید. وقتی به سیستم میگید خودت رو بساز، هر پکیج توی یه دایرکتوری کاملاً ایزوله که اسمش هشِ کریپتوگرافیکِ سورس همون پکیجه قرار می‌گیره.\u003cbr/\u003eسیستم‌عاملِ شما چیه؟ صرفاً یه مشت سیم‌لینک (Symlink) هستن که به این دایرکتوری‌های هش‌دار اشاره می‌کنن! وقتی سیستم رو آپدیت می‌کنید، فایل‌های قبلی اوررایت نمیشن، بلکه نسخه‌های جدید تولید میشن و سیم‌لینک‌ها جابجا میشن. رول‌بک کردن اینجا به سرعتِ تغییر دادنِ چندتا سیم‌لینک هستش.\u003cbr/\u003e\u003cbr/\u003eمن خودم به شخصه از مدل A/B و تابعی خوشم میاد؛ چون به نظرم روش‌های تمیزتری هستن. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-21T19:23:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 993,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "چندوقتیه دارم روی بیس دبیان آزمایش انجام میدم؛ و خب اون نتایج دلخواهی که می‌خوام رو بهم نمی‌ده.\u003cbr/\u003e\u003cbr/\u003eدرنهایت هم فکر می‌کنم بهتره بیخیال پارچ روی بیس‌های مختلف بشیم؛ اگر هم همچین اتفاقی بخواد رخ بده شاید روی آرتیکس یک بیلد انجام بدم که هم به آرچ نزدیکه و هم سیستم‌دی نداره و با برخی از اهدافی که داریم هم‌خوانی داره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/sohrabContents\" target=\"_blank\"\u003e@sohrabContents\u003c/a\u003e",
       "date": "2026-07-22T07:31:50Z",
       "edited": false,
@@ -42,7 +30,7 @@
       "date": "2026-07-22T07:40:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-07-23T08:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-07-23T18:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 907,
+      "views": 914,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +78,7 @@
       "date": "2026-07-23T21:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 782,
+      "views": 787,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +96,7 @@
       "date": "2026-07-23T21:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 878,
+      "views": 883,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-07-23T21:38:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +126,7 @@
       "date": "2026-07-23T21:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "date": "2026-07-25T12:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 936,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +156,7 @@
       "date": "2026-07-25T15:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-07-25T19:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 918,
+      "views": 924,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-07-26T12:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 755,
+      "views": 771,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +198,7 @@
       "date": "2026-07-26T15:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 666,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +206,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hdd9jHYq1o-FjEvxYjhTSpSJYhvICnpH9Z__hyjQj3e6gGNq86qSu90J2GpRtk9K-uLLizoNaU4E5ZWBHUyOngTpmbVyb7awZNQL1s8dn0kEP3GKeXA3ymw58Un_hZg9UybuHk8M4LqB6oQVO5XcCBeN1BGVhmcPaxDW_AyKZr4NsUCKmMTzgoxrqDPOWBzosxy50gCFdQsVXQIGfKh52GB-ikYfxjkyx76syDM45phfKvb-tmPR-10rG7F3Ow8C3-_MuR3BPj1pl9ukoZWdZbfaj9Chgqfu7zLjijPIVwj0ziETVQ9KjTzN23FNG8_3LCdZNTCnsUyGj5b_YA2LKg.jpg"
+          "url": "https://cdn4.telesco.pe/file/IvJ2g92nqWgL_-AbmVU-YO4mUhjqEGnnKRskOty_sgLe7XO2Mb65U62pdBGxnMN8UfkAb_-DAFvxznD9PIw-kzhOoLZbfeP7VzC3G32PSqN2UOiEFmRHfNGYrf8klpW36oUK-aivPaevrKXRHxT0xW4-n3B1vn3WHe-2Sa4UhpyIqRTYavqrm95jm3BVwsYJZALwCiRm_79LcDJt8npb2UUNn_pyUd4RhWlZqaxiHhqJci60QawEqRIvDnMIxDNcKmDEkaafxgyPxzhWoyOUP-5Q88nYPZ5cjGfjGRkDYkFSQ10dY08WNyBSptL3MTqJ-n44XS9aQuGYYA9KW4NGKg.jpg"
         }
       ]
     },
@@ -228,7 +216,7 @@
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 593,
+      "views": 622,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +234,7 @@
       "date": "2026-07-26T19:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 636,
+      "views": 684,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,12 +260,30 @@
       "date": "2026-07-27T08:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 489,
+      "views": 561,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "تصمیم گرفتیم تا دیسکورد پارچ رو مجدداً فعال کنیم و به \u003ca href=\"http://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفروم\u003c/a\u003e متصلش کنیم در آینده تا بشه از هردو پلتفرم‌ها استفاده کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای عضویت در دیسکورد پارچ می‌تونید روی لینک زیر بزنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://discord.gg/kyPq5eYrGA\" target=\"_blank\" rel=\"noopener\"\u003ehttps://discord.gg/kyPq5eYrGA\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوجه: گفت‌وگوها به فارسی را لطفاً در تاپیک Persian Chat در دیسکورد انجام بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-07-27T16:44:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 162,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sJ3BlnKSWITp4ka9ALupITd0mDFGbvCgkqqhHrGZUoAsVGpkneHT_uWUHzBYa6qLz_snbvtUQJ2A790me8LqkvV43BwOYlqQYnr0PZTNiPY_6CUB4ztr1t3P0OQow9z35r8W9FiIpowfLZo4sxj7J01rKcbRiESdE0WVY6nNUQ51cnArF5BBFzO4YztJhHAaKAUzFQJzdVYp5rXuTpVjPxp7SxiKJ1le-6xrBSERhn72nUCm7N9G98FXlNJu0Jm-WZ3fECYkQRhNoVnvxp51TXQD1PUQjI7EhNmWuFIWD5L1LKcYu1PnGs6ZAbsjCJwPtpMmA7aCuNyHDyJK6E8mmA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785165691
+  "last_updated": 1785172539
 }
