@@ -3,28 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/oNF2Ybobk7gQRFB9KgDibqWJE9Sym3pgGbblcPsONOHhxiWRQxTBbvkD3sqRylCM44wkbQyBcSibHLvPVHqp5HW9WleiyUGmgJzp9UBtxOGVcMGZBtrl3S-_dDyRZaIYqcJCT4rQPV0tF2mINV3NH8vfbXy71eFCb7VbuT3996DIxgwC3rhQ626fyGz-Euztw3lcFReSFo-hv7u5okcreYboISp2APceQfydvHmCwkT9XGSSDjSvhK4fNLyrs1Mxp_qA1GLv8KuzWp1XG_y2y4pAwLle5cEsOhxqLFEvUDJ1T_5FbpTUrJiMNPDtGmv5CuF7IF1yLyRhtFNsZ20yBA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/WuGr6IgN3qMYPxm9W4LWnAR32JHFXn6Kwe94vVC9CfvdtVTGiu4-POTkc0QKRZrSmyGEwlpaf8akfk31deQhs-AU74E8jQ3CVSLziZ8PbGFiiKuLcqvV-L_XOtqci-BWU9H1GYRMGEYbdyttwcDX00RQWP-XUVLsRkzLraycp6iGaM6soIZlQqmt55rZdnsU-QBU28qT2-h49qM_NCoW9kNykN1TkHRQ5IZax-hQVaJuQ77wuGjSZG2Yu3SAitL9fbpDyvBbf1JNb5BTmrfQCmx2yV0v7ezjIIYgQv9xTeAuYedj_oc8uwm1lEESKxFUshvI_CLv6X4vBAunjNo6CA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "ما توی توزیع‌های لینوکس دو مدل درحال حاضر داریم. تغییرپذیر و تغییرناپذیر.\u003cbr/\u003eتوی این پست می‌خوام درمورد توزیع‌های تغییرناپذیر و انواعشون صحبت بکنم.\u003cbr/\u003e\u003cbr/\u003eتوی توزیع‌های کلاسیک (مثل آرچ، دبیان یا هر چیز دیگه‌ای که تا الان باهاش کار کردیم)، فایل‌سیستم ریشه یا همون \u003ccode\u003e/\u003c/code\u003e قابلیت خواندن و نوشتن داره.\u003cbr/\u003eیعنی چی؟ یعنی شما، مدیر بسته (مثل \u003ccode\u003epacman\u003c/code\u003e یا \u003ccode\u003eapt\u003c/code\u003e) یا حتی یه اسکریپت مخرب، می‌تونید مستقیماً فایل‌های حیاتی سیستم‌عامل رو تغییر بدید، پاک کنید یا آپدیت کنید. همه‌چیز عالی به نظر می‌رسه تا اینکه یه روز وسط \u003ccode\u003esudo pacman -Syu\u003c/code\u003e برق میره، یا یه وابستگی (Dependency) حیاتی می‌شکنه و سیستم دیگه بوت نمیشه.\u003cbr/\u003e\u003cbr/\u003eاما توی توزیع‌های تغییرناپذیر (Immutable)، کلاً صورت مسئله پاک میشه. فایل‌سیستم ریشه به‌صورت فقط‌خواندنی (Read-Only) مانت میشه. هیچ‌کس حق نداره به هسته سیستم‌عامل دست بزنه. حالا سوال پیش میاد که \u0026#34;پس چطور برنامه‌هامون رو نصب کنیم؟ کدهامون رو کجا بیلد کنیم؟\u0026#34;\u003cbr/\u003e\u003cbr/\u003eجواب اینه: جدا کردن سیستم‌عامل از محیط کاربری. شما برنامه‌های گرافیکیتون رو با Flatpak نصب می‌کنید و برای محیط‌های توسعه، ابزارهای CLI و برنامه‌نویسی می‌رید سراغ کانتینرهایی مثل Distrobox. سیستم‌عامل فقط وظیفه داره سخت‌افزار رو بشناسه و یه بستر پایدار برای اجرای این کانتینرها بهتون بده.\u003cbr/\u003e\u003cbr/\u003eحالا می‌رسیم به این بحث که این روش چند مدل صورت گرفته و با چند روش عرضه میشه؟\u003cbr/\u003e\u003cbr/\u003e ۱. سیستم‌های مبتنی بر اسنپ‌شات (Snapshot-based)\u003cbr/\u003eاین مدل برای کسایی که می‌خوان کمترین دردسر رو برای مهاجرت از سیستم‌های کلاسیک داشته باشن، بهترین گزینه‌ست. اینجا ریشه فقط‌خواندنیه، اما مدیر بسته هنوز سر جاشه.\u003cbr/\u003eچطوری کار می‌کنه؟ وقتی می‌خواید سیستم رو آپدیت کنید، سیستم‌عامل با استفاده از قابلیت‌های Btrfs یه اسنپ‌شات جدید می‌سازه، اون اسنپ‌شات رو توی پس‌زمینه با دسترسی نوشتن مانت می‌کنه، آپدیت‌ها رو روی اون اعمال می‌کنه و در نهایت به گراب (یا هر بوت‌لودری که دارید) میگه دفعه بعد از روی این اسنپ‌شاتِ جدید بوت شو.\u003cbr/\u003eخوبیِ بزرگش اینه که اگه آپدیت جدید سیستم رو بریک کرد، فقط کافیه سیستم رو ریستارت کنید و از منوی بوت، اسنپ‌شات قبلی رو انتخاب کنید. انگار نه انگار که اتفاقی افتاده. توزیع میکرو او اس از اوپن‌سوزه از این روش استفاده می‌کنه\u003cbr/\u003e\u003cbr/\u003e ۲. معماری پارتیشن‌های A/B (Image-based)\u003cbr/\u003eاگه می‌خواید یه سیستم‌عامل رو در مقیاس وسیع یا روی دستگاه‌های خاص (مثل کنسول‌های بازی یا گوشی‌ها) پخش کنید و مطمئن باشید که آپدیت‌ها کاملاً اتمیک انجام میشن، این روش بهترین روشیه که دارید.\u003cbr/\u003eاینجا ما دو تا پارتیشن ریشه داریم (A و B). شما الان دارید روی پارتیشن A کار می‌کنید. سرور آپدیت، ایمیجِ جدید سیستم‌عامل رو (یا دلتای تغییراتش رو) می‌فرسته و روی پارتیشن B که الان بی‌کاره می‌نویسه. وقتی کارش تموم شد، یه نوتیفیکیشن میده که \u0026#34;لطفاً ریبوت کنید\u0026#34;. شما ریبوت می‌کنید، سیستم روی پارتیشن B بالا میاد و پارتیشن A میشه رزروِ شما برای آپدیت بعدی (یا برای مواقعی که پارتیشن B خراب بشه).\u003cbr/\u003eاندروید و سیستم‌عامل استیم از این روش استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003eادامه در پست بعدی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-21T19:23:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
     {
       "id": 0,
       "message": "۳. مبتنی بر درخت‌فایل و لایه‌بندی (OSTree / Layered)\u003cbr/\u003e\u003cbr/\u003eاین روش رو میشه اینطوری توصیف کرد: «گیت (Git) برای سیستم‌عامل». ابزارهایی مثل \u003ccode\u003erpm-ostree\u003c/code\u003e یه ایمیج پایه از سیستم‌عامل رو دانلود می‌کنن. آپدیت‌ها اینجا به شکل دریافت تفاوت‌ها (Deltas) بین نسخه فعلی شما و نسخه روی سرور انجام میشه.\u003cbr/\u003eنکته جالبش اینه که اگه واقعاً به یه پکیجی نیاز داشته باشید که باید توی سطح سیستم نصب بشه (مثلاً یه درایور خاص یا ابزار سیستمی)، می‌تونید اون پکیج رو روی ایمیج پایه «لایه‌بندی» (Layering) کنید. البته توسعه‌دهنده‌هاش همیشه پیشنهاد می‌کنن تا جای ممکن از همون فلت‌پک استفاده کنید تا سیستم کثیف نشه. توزیع‌هایی مثل فدورا از این روش استفاده می‌کنن برای ایموتبل بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e۴. سیستم‌های اعلانی و تابعی (Declarative / Nix \u0026amp; Guix)\u003cbr/\u003eاینجا دیگه وارد دنیای جادوییِ بازتولیدپذیری (Reproducibility) می‌شیم! توی این توزیع‌ها اصلا خبری از قفل کردن سنتیِ فایل‌سیستم نیست. کل فلسفه عوض میشه.\u003cbr/\u003eتوی سیستمی مثل گیکس (Guix)، شما کل کانفیگ سیستم‌عاملتون رو (از کرنل و درایورها گرفته تا پکیج‌های کاربر و تنظیمات) داخل یه فایل متنی واحد (مثلاً با سینتکس Guile Scheme) می‌نویسید. وقتی به سیستم میگید خودت رو بساز، هر پکیج توی یه دایرکتوری کاملاً ایزوله که اسمش هشِ کریپتوگرافیکِ سورس همون پکیجه قرار می‌گیره.\u003cbr/\u003eسیستم‌عاملِ شما چیه؟ صرفاً یه مشت سیم‌لینک (Symlink) هستن که به این دایرکتوری‌های هش‌دار اشاره می‌کنن! وقتی سیستم رو آپدیت می‌کنید، فایل‌های قبلی اوررایت نمیشن، بلکه نسخه‌های جدید تولید میشن و سیم‌لینک‌ها جابجا میشن. رول‌بک کردن اینجا به سرعتِ تغییر دادنِ چندتا سیم‌لینک هستش.\u003cbr/\u003e\u003cbr/\u003eمن خودم به شخصه از مدل A/B و تابعی خوشم میاد؛ چون به نظرم روش‌های تمیزتری هستن. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-21T19:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 969,
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PCcL7CPf8Ku6sqkGLMeIRiT4O7DbVo0tQ0m4UKt12Ymllwc-W6mTn4_aPOdFaVby_ItQwLDwiZOyCdb9FwLcOfIfMrPHO1Cc8J2g7Ilbf7pcSk97PBtYAm00rHZhAMK7BjO9oN-UAPiu64F2oE_D4Sqrdv83OWVo7HHvYQhjrG91OzGGUngEk-Tle6niI15X5tBJcYNkz6Iye54mRdGzYg6JjRWMbhkwCFBZA7UHR1ylChdFqnx2ELpexTrrSuSvFX7BqFvH2-1VNCYDLQVX8JIINjRYiXzps_qCJMkxDMRsYdLRiAGXa2OIVB-EjMAIrNtt_Kft6UwZjD7tQbfzeA.jpg"
+          "url": "https://cdn4.telesco.pe/file/PmUW_8o2oTcs3gZiT9nf-M7CUC8mOIA6LS23V8U7dU35lYlUEILaFamOuxQdrwUpldFkAJayopRiaM1QazQ5FApBKlUNp9a1N6_nnXDEESvPspbIiy1UtNcEgOMENhlOPMNjHlKxT0nKr2HTQ8912MzxDWw2pgj4ckaNNn1YCrPGgndHUw3V9JbHn4I30tVT_2DYl6naHJAx46mmZO6vKOURQ4jT7fWcvILNYAP5U0zdu0knA_ZptiGguzW-iTJ2wQTrHtZ7Bq_Tr_JiOU8hGb8ef7l6v1zspcD0k3_p-xkVLX2HtYaQIQfjyFGRq_KPOCRxmYNlj1_vGdSr0a3hQw.jpg"
         }
       ]
     },
@@ -54,7 +42,7 @@
       "date": "2026-07-22T07:40:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bwVrJaryS7KLAohDFLpJXA6T_DHIcmZEdLIfx7h4QhuQ-OK6A4qoOfz5xqRUq4GAqWxZ0SdxCqik1kD0ydoVFHN33IEFqYmR-b2m-bOxkQ58N-wKRmoz60-D-J3-lBzZkox-bT2dY4JZZcjZRLTd70D_EK2WASPfY21GdF_boDiX1262W57_Tb_7gO4t_sd5Rzn8Vc4dhB_ka24X-yaTy-bA1iHcigbhy9TmBLmCUbMzXU0NGeX1R_xFVwkPiWGdKis8LMUsYIbix4LW9i01wjlH2eyOtAAc1WJRucn1NV3pTjg4yOdRA16s0fxFe3ej1JWVJY1vetL69B6dPD78UQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/jRUfJ0xwsXvkGVfpJFoAx7jWILP_Ft8taXDws87BgFkBtfxq6qaWOUh-f-szLER9L_AuiTbgpZxr5x71VL_Es3_zmaCbeRO9o-ydpiQb7Bugwh-VufmxUlldr3UPgGkO688XtGin2NGcImRl-USyU1RAOihnIbk4RGjedv5C_3WYRyUJ7q1csvqoOZDXVNcSlhhjmlO1O_s3Xj3YlNNTbcMZA7QtYUCdCAIJ-jj0hU8kOSJCYAfRi40rTCB96sM8EYbrQanoR0LcJi1cFpUOqRpHawqyIYyFPO_WqicjVXuMM39e3uo7K0DXobfw9MV0t-7YdqmO0e4cEjn5T7lMSQ.jpg"
         }
       ]
     },
@@ -72,7 +60,7 @@
       "date": "2026-07-23T08:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 982,
+      "views": 997,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-07-23T18:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 877,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-07-23T21:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 762,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +108,7 @@
       "date": "2026-07-23T21:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 850,
+      "views": 858,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-07-23T21:38:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 921,
+      "views": 962,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +138,7 @@
       "date": "2026-07-23T21:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 976,
+      "views": 993,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +156,7 @@
       "date": "2026-07-25T12:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 902,
+      "views": 915,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-07-25T15:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-07-25T19:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 859,
+      "views": 888,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-07-26T12:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 652,
+      "views": 696,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +210,7 @@
       "date": "2026-07-26T15:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 526,
+      "views": 580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +228,7 @@
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 423,
+      "views": 498,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +246,7 @@
       "date": "2026-07-26T19:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 361,
+      "views": 493,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +265,19 @@
           "url": "https://cdn4.telesco.pe/file/nZUbGXGu4cHJjq3zTe3Tm-8_a5wpZ_F3z_iFayUcVXe0y4Xl5OOB0VRqWAG6egpi3RVPfSAumgWwBkwDQ9utUQ3yzJ1fVj3IKcwQR00dxD_uAgo04vN6kZkRVgw_XxJ4M-FG2w7jktFGjo3MffY4DdmVjgxVwtTlF7w5DdN2imXJ3efWGHteq15e19dDYliLTlVwJDshOHsJYO39fMFICzG56Xu3YELaXrYCZAaE4WoFAED_7Mex0mJFDJbq2eP18c5VIZ6LANjvngwPAhQScVjZVHuj8laQwOnAHn6l4v9BwbyTs_QZ5l5D7gd0LVb1HmgwzALnXVpRkndFf4LdsQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من این انبه رو انلاین پیدا کردم به صورت رندوم توی یوتوب؛ نسبت به هایپرلند بیشتر منو جذب کرد، و به نظرم چیز جالبیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://mangowm.github.io/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://mangowm.github.io/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eشاید امتحانش کنم روی رزبری‌پای ببینم که عملکردش چطوره و آیا واقعاً ارزشش رو داره یا نه :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-27T08:35:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 184,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1785128592
+  "last_updated": 1785142338
 }
