@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برنامه نویسا و مهندسای اسنپ فکر نکنم ماهی 110 بگیرن \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-27T12:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ujIgBkljXZYTQPj403MHNik8YBM1SsJGEZrRoCYjB5KdlQE5eEyZ_sY0MZo1Gy7ywCoa_0kwCWdSQM1fLOLJRTpXorJ9C0ETNRfy0jPqdcxuD2Q1LWFgJHflBUEODH_qa44SbMc_1YZrrsoX-q-59qWO452y5YB_kW8fQJ3s2Km2kZNhCk3tHkwaBrBjkfo-W2I9-f32MpixG5cA0W51rsrmokdayxdIDWo3TcGFX1ydkMnQbCzLE-OG6hLRRy4DvZ-fSBHTwkLGwha0tLTWIKY2il0swM9WtJb6q8Mv1b77NL65Fv3HMBLTxAGCsksl6cRxqu3AhlIPwVNMLVeCZA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "گوگل هفته پیش یه دوره یک ساعته درباره مهندسی ایجنت‌های هوش مصنوعی و نحوه ساخت و مدیریتشون منتشر کرد \u003cbr/\u003e\u003cbr/\u003eکه توش مفاهیم پایه ایجنت‌ها و معماری‌های مختلفشون (مثل ترتیبی، واکنشی و برنامه‌ریز) بررسی شده و نحوه کدنویسی ایجنت‌ها، استفاده از ابزارها و ایجاد ایجنت‌های چندگانه آموزش داده می‌شه. همچنین موضوعاتی مثل مدیریت حافظه (کوتاه‌مدت، دیتابیسی و long-term memory با Vertex AI Memory Bank) ایجنت‌های طولانی‌مدت که ایده‌آل برای فرآیندهای چندروزه یا چندهفته‌ای هستن و پروتکل MCP برای اتصال ایمن و استاندارد ایجنت‌ها به ابزارهای خارجی (مانند Google Trends) توی این دوره ارائه شده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.youtube.com/watch?v=vE31B0D3n08\" target=\"_blank\" rel=\"noopener\"\u003ewww.youtube.com/watch?v=vE31B0D3n08\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-27T13:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dNGsb8TeEecNbX_bcoasmdzByE66kCargCneP5ckHYCzSjLZjKrva0shMgNdiCNCoHC24BvcH3tJeQCkDxufRR7FO63R9uw1C9omp3YOd6UxMkxB6CO_Uu0tuYp64k2tdDlM5rFoD0h8ci15DARTg-48q90_K0Twpv8mWYPk2Oko57pX85tuCg7Qu_5DzpOBmRNzeErpWRLdHnEfz5MrBNN_wZoUo1D-UFspJB1u5Jp6sVxvCv6YA9tROUFMc1nv69-4DXcXzLJVuETuFgCDO6aV2-0RUHScCxYA3aEOC21j7FQ9R_df--hDvJmVg2nop5JgHU_LX0pGxVyDYAf_xQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه توضیحی راجع به صحبت شخص کدلوژیست من اضافه کنم\u003cbr/\u003e\u003cbr/\u003eحرف کدلوژیست درسته و این روش واقعا توی وایب کدینگ استفاده می‌شه اما زیاد آنچنان خیلی خفن بهتون کمک نمیکنه چون قضیه برمیگرده به اوایل هوش مصنوعی که این ایده ایجاد شد ولی بعدش دیدن زیاد آنچنان مدل رو باهوش و خفن نمی‌کنه چون خطر بهینه‌سازی روی معیار اشتباه (Goodhart\u0026#39;s Law) وجود داره\u003cbr/\u003eبزرگ‌ترین مشکل اینه که مدل ممکنه یاد بگیره چیزی رو بهتر کنه که اندازه‌گیری می‌شه، نه چیزی که واقعاً مهمه.\u003cbr/\u003eمثلاً:\u003cbr/\u003eمعیار ارزیابی: تست‌ها پاس بشن\u003cbr/\u003eنتیجه: مدل کدی می‌نویسه که تست‌ها رو دور می‌زنه ولی معماری بدی داره.\u003cbr/\u003eیا مثلا\u003cbr/\u003eمعیار: کاربر سریع جواب بگیره\u003cbr/\u003eنتیجه: مدل پاسخ‌های کوتاه و سطحی تولید می‌کنه.\u003cbr/\u003e\u003cbr/\u003eیعنی حلقه‌ی ارزیابی ممکنه مدل رو به سمت بازی کردن با معیار سوق بده به قولی اگه مدلی خوب نباشه خودتونم بکشید نمی‌تونید بهترش کنید. ولی تجربیات میگن این نوع حلقه کمک می‌کنه درکل ولی اونقدر که فکر می‌کنید کمکش زیاد نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-27T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dswiZ6SzwY-HPIQ7yrI66g0wU_1f54z4p6RY5AVfjztERB_0RI5WyqtS7fYPCGlEl2NkEoJDqK_Xj7Uo0oKvhAwH2lvuXCLoVjB3qkGLAyL4dgd9xiuoKHiCmEjFxtfG_mFtpLXCvzEtej0XG-_CYn6YnqBeU2BVeKlttC5btS8-Lj103fyruylTjC6ZTMJDpYDPXY7Wr1UPSV-9054BNONnUUPKz2SqsusUtS1E35njt6K3ZLEW_VZESlD0SsAdx-vQPe1CX5tQPln_YI_aXiMgsyiQfOmy-qeZ63mh8ziXAAZI4h7VRdPIDm2pTwiliieBe87Ou2brfNvHJnN5TQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "فهمیدیم که با فایل های Skill می‌تونیم به ایجنت ها و عامل های هوش مصنوعی بفهمونیم که وقتی به موضوع خاصی رسید چی‌کار کنه، ولی این کافی نیست نمی‌تونیم برای هر چیزی بیایم دستی Skill درست کنیم، این ابزار بهتون کمک می‌کنه یه کتاب یا مستندات پروژه رو تبدیل به Skill کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/virgiliojr94/book-to-skill\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/virgiliojr94/book-to-skill\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-27T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-07-27T17:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +36,7 @@
       "date": "2026-07-27T17:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +54,7 @@
       "date": "2026-07-27T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +73,7 @@
       "date": "2026-07-27T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +91,7 @@
       "date": "2026-07-27T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 7460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +110,7 @@
       "date": "2026-07-27T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +129,7 @@
       "date": "2026-07-28T05:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +148,7 @@
       "date": "2026-07-28T06:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5760,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +160,7 @@
       "date": "2026-07-28T07:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +190,7 @@
       "date": "2026-07-28T08:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +208,7 @@
       "date": "2026-07-28T09:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4330,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +226,7 @@
       "date": "2026-07-28T10:25:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3660,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +244,7 @@
       "date": "2026-07-28T11:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
+      "views": 4520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +255,61 @@
           "url": "https://cdn4.telesco.pe/file/C_6Vj31biNSPL8YZdTvpV2ZzG1QlMpGElzUk4pFqvyZbubykRgsPEYGjZGfGfwvLvsleHcsOVVM91ZbUXhf33qzTkLwMPjC8vzF_QbjrxnDIblTP1_gz-p4HD4zer1YTxKiOACnuwLl3zTKHUxNbc3dQxmfF6owNSJ1uSrdp37-cx6c7mLzAh5egkrBVI6KPZEpDw7qjgcq5Yz8ZWV-i4S1NoChlpq3qVMWsAeBvXKb6UkQkNt3_cR1i4uKNsgI4J6MUO0UVzymWAFPPpU0NYx5PbfD78vPHxWexBDN-cN7xHRo3RYvbN5bUeXxDMADBv3fex20buvh7gmg8sDW7fA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این Webots یه نرم‌افزار شبیه‌ساز رباته؛ به‌جای اینکه یه ربات واقعی بسازی و کلی هزینه کنی تا ببینی درست کار می‌کنه یا نه، اول می‌تونی رباتت رو توی یک محیط سه‌بعدی مجازی بسازی و امتحانش کنی. توی Webots می‌تونی مدل ربات، سنسورها (مثل دوربین، سنسور فاصله، لیدار)، موتور‌ها و محیط اطرافش رو تعریف کنی، بعد با زبان‌هایی مثل سی پلاس پلاس پایتون یا ROS بهش برنامه بدی و ببینی ربات چطور حرکت می‌کنه و تصمیم می‌گیره.\u003cbr/\u003e\u003cbr/\u003eمثلاً اگر بخوای یک ماشین خودران، ربات راه‌رونده یا ربات صنعتی بسازی، اول می‌تونی داخل Webots آزمایشش کنی، با مانع‌ها، مسیرها و شرایط مختلف تست بگیری و بعد همون ایده رو روی ربات واقعی پیاده کنی. این پروژه متن‌بازه و برای آموزش، تحقیق دانشگاهی و حتی پروژه‌های صنعتی استفاده می‌شه. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cyberbotics/webots\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cyberbotics/webots\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز بخش Release ها دانلودش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T12:23:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nQTPC2pW5hXoWnJ_SnlU8mqLqUUQ9VfWzQQ4PHqsyKu7daSajbUQvep80On9uTfWFqAJv2YYAyxVobIvtMrvAjkxbkh3gfLCI4DTcdl2e990Onf94U9sZbDUUtV2qrZl2wMkUe8-fmikoxinBQNNEMvSAY0fF8YYvz28PhsY7gsKtGdiViaTq3lhnCLGiW_EnuR_6ZMnUG2WUcm3po0SiXT4XuIHTchkmiNg8C9t7d4w8IBlrlyC2LJ1zPYgKUCPFhwT2ra4DVpJNUfcph97PCY6r9u0ZqopkoqVcFYu7U_8BB2FidtKjtUYy0HPRs4qmVj6P4D2E2vVIwk5nYiEcA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اتحادیه اروپا از این به بعد می‌خواد شرکت‌ها هر چیزی که با هوش مصنوعی ساخته یا تغییر داده می‌شه رو واضح علامت بزنن؛ یعنی کاربر بدونه چیزی که می‌بینه واقعی نیست یا توسط AI ساخته شده.\u003cbr/\u003e\u003cbr/\u003eاین قانون شامل چیزهایی مثل عکس‌ها، ویدئوها، صداهای مصنوعی، دیپ‌فیک‌ها و هر محتوایی می‌شه که ممکنه آدم‌ها رو به اشتباه بندازه.\u003cbr/\u003e\u003cbr/\u003eهدف اروپا اینه که مردم راحت‌تر بفهمن یک محتوا واقعیه یا ساختۀ هوش مصنوعی، مخصوصاً در جاهایی مثل خبرها، تبلیغات، انتخابات و شبکه‌های اجتماعی.\u003cbr/\u003e\u003cbr/\u003eشرکت‌هایی که این قانون رو رعایت نکنن ممکنه با جریمه‌های خیلی سنگینی روبه‌رو بشن. در بعضی موارد جریمه می‌تونه تا \u003cb\u003e۷ درصد درآمد سالانه جهانی شرکت یا ۳۵ میلیون یورو (هرکدوم بیشتر باشه)\u003c/b\u003e برسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T13:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JVNwGvNyu_ho2luy7MbeyNpjnN20SKQtlZgwMaJDU1YmiCarYbMbhmyXp7j6PN2x2Yr330eOCvO5QaP_f-YVAj2Bvr2w_iLJGU3Lfvk5rZSG1XrXrGnj8k9marWvVkySrSLccg7J4jgFBQzhbiPcwJiAW_8T9zYQZI1vsH2l6borbxhkQ9Y0M5LEXosZt-Cb40a5-4yXTKjHjrlzy074XLNQiuo8edQ3H9HLTs53mlgbWrVTJGY_5alNKnklv_AogUwwsCWSiUlJk8n2flh4zYgNB_ih_Zav2hXeo-hqPFZwgII_pYp6XRjBYBww7E5m3Nt9AdHOVpJXI9gR0H67yA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینجا تمام کد ها و آموزش های لازم برای تشخیص چهره و اشیا‌ توی عکس با پاییتون رو گذاشه و توی 3 ساعت کلش رو می تونید یاد بگیرید، کلی چیز آماده هم داره که در طول مسیر یادگیری به دردتون می‌خوره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/murtazahassan/Learn-OpenCV-in-3-hours\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/murtazahassan/Learn-OpenCV-in-3-hours\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T14:23:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xjo6DTqn1SIopw_GxmJFIES6WBfY_5y5ptlJmzS2ugVTnPMQAaeDHOSdWvWMznT4kwbZuPjEqLx7R2E6wU6R_HDmgK0xz9fs89vz2619Kf2PEYMz3XmKUO4wwZ-0TgtWX13x6Qk-w-hu0ROn4SEJFoOTVj1nIpJlNUukPA4dRAK3uX4Ae1sn1FMZJ3kXtdLmP3rSSNMGTckgdWiNbTreS2va3nLxjK9eftzVZzcdT_KHIZSVq7tThUpqiRlfDeCrDtkrq_OqgYyxUm6Iff-eRTSsxrrVpGu0waUy5RZ79o0eoVv4u3eB3NLeG0Ux4uzM1WrqzK9_acgfC2HyrhASDg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785241149
+  "last_updated": 1785250585
 }
