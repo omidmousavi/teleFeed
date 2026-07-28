@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "من فایل ارائه امروزم توی مشهدلاگ رو گذاشتم روی گیت‌هاب؛ برای خوندنش نیاز به ایمکس دارید چون توی اورگ نوشتم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/presentations\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/presentations\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-23T18:47:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 947,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vt9lDBoQuew4BXK7oZ6MNn510MZuk7o5rUQM9qFuXhA3EEFN-CsdH8apvQaUv5bVQ0WkJ4dq_Ds58UH2shElqVNjrJ-xY4u4xySsbABmoUH0ZrDh0NhRotFhbKARqZFsuMh7VjJpcTQm6kvDGxuNyV-Ek_bswnBSwCsiSaTqAa02YjaAb-cpTMrqpnB70Mm1Missup4udZar4DLwVWTi7eEklhq-FnrnbmUFHQPdrjK0Ymue10bndQF4V-wP3KMpZfyaX6Nb70um41HO8JHSYG2RH5_NQWZe_w4WvBVBmjrl6wZS3K2E2juBrhmkot1Lcx-s48ytUUdhcFNDNIJxjA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نسخه آزمایشی ۰.۵ ابزار مدیریت مخازن پارچ (MirrorMan) در مخزن Void منتشر شد.\u003cbr/\u003e\u003cbr/\u003eدر این نسخه داشبورد سلامت میرورها، انتخاب هوشمند بهترین میرور، سیستم دسترسی امن مبتنی بر D-Bus، پشتیبانی بهتر از نمایشگرهای کوچک، پیش‌نمایش تغییرات mirrorlist، مدیریت پروفایل‌ها، نمایش تاریخچه pacman و بروزرسانی خودکار اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین ساختار داخلی MirrorMan و آیکون آن با طراحی جدید؛ بازطراحی شده و پروژه به معماری ماژولار Rust منتقل شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاین نسخه \u003cu\u003eآزمایشی\u003c/u\u003e است و ممکن است دارای مشکل باشد. گزارش باگ‌ها و بازخورد کاربران به بهبود نسخه پایدار کمک می‌کند.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-07-23T21:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 816,
+      "views": 821,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p1d7Up6X55BVF3WPnp0iQPoN_Siy2GQc4nkhSNFwJY8ny4y8PWC5fxXB0MhzLb5cqHCOXIi8AVXrIj8yt-4f2o0FrH3Y213diaiuHR5Fn1dm-0BD5j3vAi8AVWAd1mAz4ACSOdyLmPK_YOyndv3y7Wt4G42OOuXYQ08PYTb3U4uiOwErNrg9l4xpQKC9e72GrY7PPYdPPgDrSj7DQKjbk8OcHqHSHsAm0mRxU2bidcHvAL2ltdOeYxEhd6GBt3jfUG6suwstZ1R0_dwDj3d29v7BICfiZJvcuI030IaAeljxRyuKR2rPFPIwQzvoM-vD5WG30NDgVWIs8tzsS7BwyA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Is1jZC5ZfDAkwwolHvmLV1-smKZ4Zck9SqN7w6OvB7Iact0sCDDWQzsqBd7bEwGoTokMMBkFG-pJ8BwNTvw7q0L8ug4IxG_nLmf0kHSrjJMnBYqbYWq2gyH6DyGLmsuFcFlVhkI-tO6A7AXfRE5eAZMP-gTEEGrbBLH4HOHPgQI6u0T67GFRO2N2q3Y9x3rE0iYA7uiWR9B1tpy9cTqttCcR07E4fd-N9lmHQ3tZWwGjH5otFOQoLjMCCI-r-fG-kWi7rW-1YxWb5hGhY5rmfVajjyp9fJNfXD8iYsJIpKMpH9sXi66mQMqYgnWLKop9MAAcvuYtoiI38e3QhbB32Q.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-07-23T21:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 909,
+      "views": 913,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fzrKWEG9sqiavXsf3rK1QjQ6dKJpM8adZBR9qxtwrQc4fj-uDBdFI0KD-PPRMpXrGcKMJ6XVSAneYyhMSuXKt2RJmWuil95JNrPsFs_PGPT3mC1lzCyzdyqZ8yEu7WmmQbj9p8X1mzGraVd5jcxvKV5QIsHuWcdnCuST0zBK3q-s3Q1_W5QDYVhEE6im9DZHDXYBT63ZZry1gnzR8vVXW_u4rTTZsc3ZaJuh-lZ8zYCuK35hh8gDJslCtdKLCld3toS-U4U591XHHSKTRAcNP2hotYwhqql4U9Q6SmttmBbtKehGWvZ3NyjDq6UzEUpw8LQz2kGJ9zLDf8iNpyWrJg.jpg"
+          "url": "https://cdn4.telesco.pe/file/rzn4vqdThO_HSrRKzqG8_HZq398Lqg77otKUdIvY_xRYMjhenFJbmjVhl_rbLkONiBsPb5ljUJLSaFhAHySHJiLyiaIIAo3WhF4q4DDdoaPEMR0Yr1J4q6UR3tjx7q0GsvI3fSd6jgIjs2NOVTsSrhs6lXZNouaDO9qiKUIMpNmIGohPRjZegMfXEETQHZurP8zGXoz8fhtFRKEmv9O07H0eFCxtqPjQJficeEqnRM5Kcn4UJKACZiDALcZhnyA8gtH2U_XJdsDnJkMy3WZJWWg72M4aSpUxMBCMmCd18jFQ2Owbp_e2y0QpBazVOPYXUl3JD3TXl9oBOizaOl2boQ.jpg"
         }
       ]
     },
@@ -78,7 +60,7 @@
       "date": "2026-07-23T21:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JJHS7ADHzX7weGwB3d8qzUilj5mAMwybwVW9nyZDlmVrq5mestRYGMhsfAK-EDGg1uTYyCU44ItoUZG2AK_VAuEjHoct2vZ4CsqcJOkuJHhZMJgjBwJBw7UvcSyPR5CywcHcLBz1a9uEJvrjKW_buf0PNLqFmleKRmXRHTJQezPiwflz9oskBPFH9nnVq7PaXlotvZK91eyYGBdbjXhRIiSHU8w8z5yb7ICWk7psV0Zmn3p-9Oo6kzJGlPywRNsZev2LqU63UdUBVlfXSI7kSrnxWwfeUDGJS70IKyafVuvQHUQ6aWNT_oQ_64Z0tAe4QYkNwWZJ9zyrySsqucEnmw.jpg"
+          "url": "https://cdn4.telesco.pe/file/c-NTiYhIU_-RlwKOIbGqiVB9Uz5ToMKlH21EwkGxfYp0SO7MFr9X5LOHygWduGlBEeJnZR0ZjTTB4MO5KJOEHSWu6xCl0O_uNDm9ekxdOmJHHeMunz6XkEptsl8fPkjDvCNzf7VqG-A5xLt1fPy6J-vu3P4js0uBOGG_SlNrBCWMre8mFTNyQivfhwZZZdyKkAZRciaokzIiHBuDggGal7hAnC-xLc7oWQ0RfvMkT-TLkbk3S8VOga2qQ00O7PZ2ztlBh0ju-nlCYf5eL1utn2l91MLEihlaw1TaX6Tcnkv35QRjlEx5FmnBZYTsJxJj12hr3Ydi__0gAeKvLXvBIA.jpg"
         }
       ]
     },
@@ -96,7 +78,7 @@
       "date": "2026-07-25T12:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 989,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-07-25T15:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-07-25T19:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 957,
+      "views": 966,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-07-26T12:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 837,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-07-26T15:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 750,
+      "views": 761,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 714,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-07-26T19:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 815,
+      "views": 824,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,15 +176,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p9r_EUkjU2nxX61OEo-pjRre6DzwEbmtoDwd-_xC-nZ4lbk6GH8b6p8JPSuttbjA9kFlYeSdKxjSDStBQpv1RGZAJu4GrQClWle4ue-av2a9PcgAkz2lmoIb-FQGG34uxZpvBdSY_fA0fQXo-tK_YMLU7AgAcB-MHtNAZS3Uly64KNpPwCily5IKjGSFM4FxwzRJDhwPgKBAAzjckL-DkTBsDI2fQ5EG7EFyjFNRWsH1fiG2i7ye27qlJ8W4Og_1STQ4ZTCDzqyXhba6qUnPm8H12mXYD5Pt0vbiDklKXT0AMcQqF4VXB-0W7PT5oqf4bUZGZBJFuQ3zKJRWNr-d0g.jpg"
+          "url": "https://cdn4.telesco.pe/file/UkSotvHqzNlzu-OwS5pyyeJKEHZUJi_aPgXHwrxQxhnbAeM4IdK9PkDtncF25yFGvZTLGjqur8YFpXHnX2c7EOvsKxh-nblHh16E-SA9_ojKnrGUVHn2r_zZBRlchLXv04WJ6hCJNmUe3aUVeA0pSQPVDA1Sm36H1O_i0bQaiNN7ncWcahe6YrtC8u0gtycpqE1x-h070eCj8IyU8sDx_kl4mWJHIg5zH_Hl4aZYDsq_OnVC4d4oqWZ44s65ykX3ACdduEUOu2tIClhXO_ft3raaneN4NQYRFxeqtMhTVkwuRTTsNEnAYQKeOfe32WM2mSKxenvT8nXPvWspfKBXSQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GIk0_9lntJUhuKYt7dKiehPyuuK-mQQN4DC24t0R1mzRD2-JWlvqd7IyrDd4YetlYoUdX9bytez61Gz_N-pWEFNPGmgqcxPbwUmmVcYfWi7sUqX8P2SbBiVQ0Y72PuEYIxj5g9znzyzCPibR3xLTU2wQQwW8GZIBazeJhGPXOMZe6c-k__7rJ79WbbP7sSNU1JF53d57CdFArvnqQCMHpCWNnTQV5tQRgOEX3hNLmIkVL2xDJA2N9PMhvEEpCyqqcLoiVqCy1sAknW7ho9j4oKIELAsIagA3FxtPTyFIi7paeBw88Gw7NFTA5QWS2lRRafpLv7rAeRTsOv40Mr-OTg.jpg"
+          "url": "https://cdn4.telesco.pe/file/Nyga_7KMwZa7nDoAlAhla85YqHQE9tJ4uiaL-a3m2Db9A1O1wcrqoSWhIXouZ0nzHI0uNQhEus68brv2mqC8Vq_Zeh0Q6uAqx0xUvUPJeORufGqpECvhujin0Er9cwrumxBSuTF-3h3oxOs9vuiEx9LhqfLZwfTV0qjm_RSOUovZt3mAICbClu1ITVlQ9yiO91XtcQH_7Lw4d323AFsKqZOd7RM3v6CR9jkizj5yFSiK2NUZ-kHeUMoUWxKcWFumuBa0TBKPzTJjmkNA0PuxM-jwZuDzm3NRrPAeRZIiFbRXTCa_uvAVEZqp4mX4uXQN0FrDy7hArHGsqAlcjT9DlQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CrqfWTXA4Wu0vzlMAs1ImfsdGdeBRIp0y7M2s3TXWRoIrOB099eW3Cwki2U4Xo00DKzhfynQYoqwDgtdpusDU_-SM6Cqe_BlJaf1tdIHB9JNpOCHmmUB_VcTqO2Q6ekGvqAMTgZp61cLk5yGp3It0oRAdMJ3s5x1ODWtRDHLYWzWj7RY3dRCL_CBqAAnRA_BpHOa9jCzL4-xUE8bo-7pm5saX0KVtjPlm2HCgST86u6usu56gsdRyRMMOLrhp9R9GLYQvpXClx55S1tzvSV9IfyTKMG1GOukCmgvnqypX4C5SGVFQ0tlmWb3HB0UsxdLsrBnz3RfFBDk57ScGiLl4A.jpg"
+          "url": "https://cdn4.telesco.pe/file/hLT3SUt9uywFwUDBP6jUfGHFsRzTEMoUAK5EQbTn3q4j6dok_Xc_gjzqsDUYprvsmTy9pRJc4O8AHKhSt1zpiXrag0TY41XonDDP7kmoFGF4gsxX_6Lyd3CoZWYzTVS1n_pCfc4VrfmF7iQJumitfY5oPjYToSHNHSFBOUDMUWwpi73u3C26DXu5ybu2V4SAtOaaFSCp3_CWQ9cShVx6ZGvjCfRQCq3i5dYfBIi4xSpDx1lHfmK8hml6pRh-F9xrTKJPEF25rZJRqR0ZV708j-uVXgenB9HxcSgnStoZGOXMZdx7FvP1PgyvgI6vGCO_JLhpTFpXtDSMDUY8chXbrA.jpg"
         }
       ]
     },
@@ -212,7 +194,7 @@
       "date": "2026-07-27T08:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 766,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-07-27T16:44:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 602,
+      "views": 632,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "date": "2026-07-28T06:07:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 567,
+      "views": 622,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +242,7 @@
       "date": "2026-07-28T17:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 327,
+      "views": 443,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,12 +254,24 @@
       "date": "2026-07-28T18:26:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 196,
+      "views": 365,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "یک پروژه جالب به اسم Starling برای لینوکس معرفی شده که چیزی فراتر از یک محیط دسکتاپ جدید محسوب می‌شه. توسعه‌دهنده این پروژه اعلام کرده بخش عمده کدها با کمک Claude نوشته شدن. (یکی بالاخره راستشو گفت)\u003cbr/\u003e\u003cbr/\u003eمیزکار Starling از یک کامپوزیتور اختصاصی Wayland که با C توسعه داده شده استفاده می‌کند، اما شل دسکتاپ، رابط کاربری و اپلیکیشن‌های آن با Swift نوشته شده‌اند. نکته جالب‌تر اینکه به جای XWayland، یک سرور X11 داخلی هم داره تا برنامه‌های X11 را مستقیماً اجرا بکنه.\u003cbr/\u003e\u003cbr/\u003eطبق گفته توسعه‌دهنده، برنامه‌هایی مثل Chrome، VS Code، IntelliJ IDEA، GIMP و Blender بدون مشکل روی اون اجرا می‌شن و کل سیستم هم بدون نیاز به اجرا شدن با دسترسی روت کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eفعلاً پروژه در نسخه 0.2 قرار داره، فقط برای Ubuntu 26.04 بسته نصب منتشر شده و تاکنون روی AMD و virtio-gpu تست شده است. پشتیبانی از Intel و NVIDIA هنوز کامل نیست.\u003cbr/\u003e\u003cbr/\u003eراستش فارغ از اینکه چقدر بتونه با پروژه‌های جاافتاده‌ای مثل KDE Plasma یا GNOME رقابت بکنه، از نظر فنی پروژه جذابی به نظر می‌رسه؛ مخصوصاً اینکه یک نفر تونسته در حدود شش ماه با کمک هوش مصنوعی چنین استکی را از صفر پیاده‌سازی بکنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.phoronix.com/news/Starling-Swift-Desktop\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Starling-Swift-Desktop\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-28T19:23:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 251,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1785265669
+  "last_updated": 1785271233
 }
