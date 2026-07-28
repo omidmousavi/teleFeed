@@ -8,68 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "گیت‌هاب بزرگ‌ترین مشکل وایب کدینگ رو حل کرده به‌تازگی Spec Kit رو راه‌اندازی کردن و فقط در چند روز، این پروژه بیش از 100 هزار تا ستاره گرفته.\u003cbr/\u003e\u003cbr/\u003eایده چیه؟\u003cbr/\u003eبه‌جای اینکه پرامپت‌های مبهم بدید و دعا کنید که عامل هوش مصنوعی پروژه‌تون رو خراب نکنه... Spec Kit هوش مصنوعی رو مجبور می‌کنه قبل از دست زدن به کد، یک مشخصات (Specification) ساختاریافته ایجاد کنه.\u003cbr/\u003e\u003cbr/\u003eهوش مصنوعی ابتدا می فهمه شما دقیقاً چه چیزی می‌خواید بسازید، چیزهای ناقص یا نامشخص رو می‌پرسه پروژه رو سازمان‌دهی می کنه و بعد شروع به برنامه‌نویسی می کنه.\u003cbr/\u003e\u003cbr/\u003eدستورات :\u003cbr/\u003e/constitution → قوانین و استانداردها\u003cbr/\u003e/specify → چیزی که می‌خواید بسازید\u003cbr/\u003e/clarify → برطرف کردن ابهام‌ها قبل از شروع\u003cbr/\u003e/plan → معماری و تکنولوژی‌های مورد استفاده\u003cbr/\u003e/tasks → وظایف مرتب‌شده و مرحله‌بندی‌شده\u003cbr/\u003e/implement → اجرا\u003cbr/\u003e\u003cbr/\u003eنصب :\u003cbr/\u003e\u003ca href=\"http://github.github.com/spec-kit\" target=\"_blank\" rel=\"noopener\"\u003egithub.github.com/spec-kit\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-27T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ifW4s7U4i29Duwqc6go68gm53i1xfXWZE1lwMl2u2_KKhg6UzylLSVk3HKdcOoSZaRJ3QG6MriY32iNTOgh1diuw1SlnMVPctz57Q2gNXd-9cNDR8WNk5rxb4mRVZyxd45tqmklm20X-uF634t__Q4yIvCjjxW_E86muN3rsv9i9hDF-PSvS4cjuboY9svFl_fDt5OxeSQudU4zVH1Gf_zgEFuBXs7-yuGNy6T4pjN93B7e9z9vd0fiqKPxEij1xIF9kbLi9u2lFsVbaAQdmhS_ut7Sp8cXxJNJCu0kEHV44UhPOuXanvLjeYRhqDxS7N4g8cAN3bTnGZOQRaJd02A",
-          "width": 1052
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بازی ساختن از چیزی که فکر میکنید خیلی راحت‌تر شده، مثلا اینو فقط تو یک ساعت ساختم :)\u003cbr/\u003e\u003cbr/\u003eجالب اینه که من تا حالا تو زندگیم با blender کار نکردم ولی با mcp وصلش کردم به claude و اینو با three.js ازش خروجی گرفتم! (وان شات)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://fox-floe.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003efox-floe.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ AmirAnonn",
-      "date": "2026-07-27T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7440,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://t.me/Linuxor/4562",
-          "width": 3024
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌دونستین گوشی که دستتونه صفحش خازنیه و می‌شه ازش به عنوان یک تستر فیوز استفاده کرد؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-28T05:27:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FAEDuMpgavJV_tbshuFaQtKudUVBunO8aWlngg_ZyY2-6wIPXwzZDewMgN7H4qVltDrFEo6I7JNHM16AFTgm4JbhbSG5fFBxUE_xCIfUyRzvraE4Hbw84H4v3g2k9yHJidRr9KKYI-ZUjnSx4a1BPjKqwm3YU4TNAfT5q3oJnAiaId5uL16ko9TYacSJhQTDN85vjZTQpLzirAFQuIDKgHjAriiSBLi5AuP-LxQUuopkKqM5VD1oO4ODcyjNdH3khNUdCt-ltUCNxEudmF3DS7EzprFE7-mIitfTvYtmhJxopw4emeXLAEM8-pDTwCLfHKJs_hE5be2TvVlh6Ea2Hw",
-          "width": 576
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من اگه راننده تاکسی بشم : \u003cbr/\u003e\u003cbr/\u003eمی‌دونییییی! این کمبود رم همش کار خودشونه هدفشون اینه سرور های خودشون رو تا جای ممکن قوی کنن و لپ تاپ های مارو تا جای ممکن ضعیف؛ آینده داره به یه سمتی می‌ره بهش می‌گن کلاد کامپیوتینگ یعنی ما هیچی رو روی سیستم خودمون اجرا نکنیم و روی سرور همچی اجرا بشه و پولش رو باید همیشه به صورت اشتراک بدیم. بخداااا.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-28T06:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +24,7 @@
       "date": "2026-07-28T07:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +54,7 @@
       "date": "2026-07-28T08:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +72,7 @@
       "date": "2026-07-28T09:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +90,7 @@
       "date": "2026-07-28T10:25:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +108,7 @@
       "date": "2026-07-28T11:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +126,7 @@
       "date": "2026-07-28T12:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +144,7 @@
       "date": "2026-07-28T13:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 5470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +162,7 @@
       "date": "2026-07-28T14:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +180,7 @@
       "date": "2026-07-28T15:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4220,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +198,7 @@
       "date": "2026-07-28T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3440,
+      "views": 4350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +216,7 @@
       "date": "2026-07-28T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3310,
+      "views": 4390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +234,7 @@
       "date": "2026-07-28T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3120,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,12 +246,60 @@
       "date": "2026-07-28T17:19:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
+      "views": 3630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5796185041717433060\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BA.png\u0026#39;)\"\u003e\u003cb\u003e😺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e - فروش ChatGPT یک ماهه 765 هزار تومن. \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5244559903443412409\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e - فروش Gemini Pro 12m دوازده ماهه 999 هزار تومن. \u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5262838511161076891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2998A.png\u0026#39;)\"\u003e\u003cb\u003e♊️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e- فروش Gemini Pro 18m هجده ماهه 495 هزار تومن.\u003c/b\u003e \u003cbr/\u003e \u003cbr/\u003eاین \u003cb\u003eتخفیف\u003c/b\u003e فقط به مدت \u003cb\u003e24 ساعت\u003c/b\u003e پایدار هستش.\u003cbr/\u003e\u003cbr/\u003eتجربه کار با پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در \u003cb\u003e«اکانت‌آباد»\u003c/b\u003e تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای به‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6084700423308975252\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6082290027532918112\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FAA.png\u0026#39;)\"\u003e\u003cb\u003e🏪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6084595583157278741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6084561249188714482\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-07-28T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Lzf_fXVGF46EbPzNQNMFUhYzrWE4ZL8jgj2QbDL_fYotDADig__4hE__L6UFrT5JPAmFXRZR-AiE4Y4kdwFxIMHpSwVMmeuMN6dzXjrxR3cXdCyoxmXdsi4AOlk8ozZfvUsfRrLccTMY99hFErbVxhpGIScukwQwqTzFCbpjalaqExcOxQckxWN4qqXdiSAaMPAy0PSNnj5Evg2kLVNoWXXm43Y1pm41L9a0LD0-bSdPAk2hTJYeJ3gDVg2jov36G1BEVcsFDxYbszSbxtt-3h6NHHPs8rFtsOV6zfDQJjwKqjcTnAtBQgsmJHJeKRnyLu8f8Ju-LELEJVEIA6sV3A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این بهترین توصیفیه که دیدم AI لزوماً همه شغل‌ها رو حذف نمی‌کنه بلکه ماهیت کار رو تغییر می‌ده. بخش انجام دادن کار کوچیک‌تر می‌شه، اما بخش تصمیم‌گیری، هماهنگی و مسئولیت‌پذیری بزرگ‌تر می‌شه.\u003cbr/\u003e\u003cbr/\u003eاستعاره همبرگر با گوشت باریک و نان ضخیم که جدیدا وایرال شده داره می‌گه هر شغل شبیه به یه همبرگره:\u003cbr/\u003e\u003cbr/\u003eنان بالایی (Decide): تصمیم گرفتن، برنامه‌ریزی، تعیین هدف، قضاوت\u003cbr/\u003eگوشت وسط (Execute): انجام واقعی کار\u003cbr/\u003eنان پایینی (Deliver): تحویل نتیجه، پاسخگویی، بررسی کیفیت، ارتباط با دیگران\u003cbr/\u003e\u003cbr/\u003eتوی گذشته، بخش بزرگی از زمان افراد صرف گوشت وسط می‌شد؛ یعنی انجام واقعی کار. اما امروزه AI قسمت وسط رو بسیار سریع‌تر انجام می‌ده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/R-nNUxvkv8GzAn58K9TIWNKDtgHRlO7YQv0Us1IU-988Rq9D4-GAPiZVKYng_NL3TulmS5HTgOjLOSMzdOk6wTkxR5T_rgH0nm32izHf4tK3tZf80d36mNZx6eKDSh374PR_xc3wJawxDlbth_oXIWFeDtmh-MxX36gGOuVPwmKXeirJV4RidGB_tovmCLjxHX1xhP-9b2DrYc0sC_VQkUOy8XN_ffM2142jfcLBJ4qoqnTupET8ANLqlT_Id-YLYe4q3eyL6kVEWG8c4aJvnBEaQkAVhZNhXyW-U-0wbuHhhH-tv3NDXcc3mUfkhjQJ_S3T-A6YdiC--w2JGgtgEw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایلان ماسک گفته بود تا سال 2036 دیگه پول اهمیتی نداره و همچی برای مردم توسط هوش مصنوعی فراهم می‌شه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدوستان یه وقت به این حرفا گوش ندیدااا تنها کسی که می‌دونه پول چقدر ارزشمنده خود ایلان ماسکه توی تاریخ بشریت کسی به اندازه ایلان ماسک پول از مردم و دولت پارو نکرده. اصلا فلسفه پول از رقابت می‌آد و رقابت هم یعنی پیشرفت‌، اگر روزی به اون چیزی که ایلان ماسک می‌گه برسیم پیشرفت متوقف می‌شه پس هیچ وقت نمی‌رسیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1785261234
+  "last_updated": 1785265626
 }
