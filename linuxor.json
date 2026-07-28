@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه متقاضی ردشده از یه برنامه امنیت سایبری توی IIT هند، بعد از اینکه پذیرشش انجام نشد تونست به بعضی سیستم‌های IIT Madras و IIT Kanpur نفوذ کنه و پیامی با مضمون «فقط یه فرصت عادلانه می‌خوام» به جا گذاشته. این اتفاق دوباره یه بحث قدیمی رو مطرح کرد؛ اینکه توی حوزه‌هایی مثل امنیت سایبری فقط مدرک و رزومه مهم نیست و مهارت عملی هم نقش بزرگی داره، ولی مسیر اثبات این مهارت هم به اندازه خود مهارت مهمه.\u003cbr/\u003e\u003cbr/\u003eبرای کسایی که دنبال ورود به دنیای امنیت هستن، این ماجرا یه نکته مهم داره: بلد بودن نفوذ به یه سیستم، تنها بخشی از کاره؛ یه متخصص واقعی باید بدونه کجا، چطور و با چه مجوزی این کار رو انجام بده. فرق یه هکر حرفه‌ای با کسی که فقط دنبال شکستن سیستمه، بیشتر از ابزارها به نوع فکر و مسئولیت‌پذیریش برمی‌گرده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-27T11:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OzZtH6Rd2y6V_Hh3RQqO4lPhCLgI_M7HNxeAyeu_NNAJ1ORZ0a2suojk_MujKvqCxpdVKTzXcHG7jPiTtjQlCihiXkzImKx9IkL1qMmtP2e49krxk3S_gMzoSAlqtvhbMDox_BzJHCS8e1QH8bUVAzn60OrfETg8m8lMkuYk678yeNV3ubn6Ckpmms0R0k8r7L-wv0h7RgXnMGpA-TTpXUJQWRBut_vl2NXtT_Br0rcVjnnFH32ftAwcxBNQpd8oLOmrn4K2QAPJewAkRDGlKJ5wr7oh8ArNFhMDVW80BILpNHoIn4Z4fcPL1i3NkaaN1RkABUFEv1kcEBcDjl7-hQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بخاطر نوشتن این اسکیل یه عده عاشقم میشن یه عده ازم متنفر میشن\u003cbr/\u003e\u003cbr/\u003eساخت اپ برای مک/ویندوز/لینوکس با ری اکت /پایتون و راست و ایچ تی ام ال این فرانت و… به صورت همزمان و کامپایل با گیتهاب (گیتهاب اکشنز یه قابلیتیه که باهاش می‌تونید بدون داشتن سخت افزار قوی از طریق سخت افزار های گیتهاب کدتون رو کامپایل کنید)\u003cbr/\u003e\u003cbr/\u003eخلاقیتتون رو زنده کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/peditx/tauri-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/peditx/tauri-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ PeDram PeDitX",
-      "date": "2026-07-27T11:59:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "برنامه نویسا و مهندسای اسنپ فکر نکنم ماهی 110 بگیرن \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-27T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/niY9LZnlvuvMk9YMid01rKodBa-hla5KU9JbFIQCTnwuu1CPvUZJQznigQSbi6h3RfnfNn6KVYgAzrMNMQvKB0W--Aaxfz9j5n8Rzg2RfOnQNW6WHItJJXJC1I0gEZo7P9Q3chB50rkkdsAGa3NfJJY_mwXm77t6-uuYEAi9Os327Uxxj_1eNlBPiGzBSA7mu1sX4UeEgeuwluoOSneTNIMmuVlvAOWDev8n0SOeJuHA3mtv0_KQDSxSEdaNUzZEg3AfEP9BzuWoaJ3-q94G321-8z4OPNnJZNiGoylb0HFyEmodouuUy3aaX8Zep35OYlxZ0lheadG1Z7O0S0zT4A.jpg"
+          "url": "https://cdn4.telesco.pe/file/ujIgBkljXZYTQPj403MHNik8YBM1SsJGEZrRoCYjB5KdlQE5eEyZ_sY0MZo1Gy7ywCoa_0kwCWdSQM1fLOLJRTpXorJ9C0ETNRfy0jPqdcxuD2Q1LWFgJHflBUEODH_qa44SbMc_1YZrrsoX-q-59qWO452y5YB_kW8fQJ3s2Km2kZNhCk3tHkwaBrBjkfo-W2I9-f32MpixG5cA0W51rsrmokdayxdIDWo3TcGFX1ydkMnQbCzLE-OG6hLRRy4DvZ-fSBHTwkLGwha0tLTWIKY2il0swM9WtJb6q8Mv1b77NL65Fv3HMBLTxAGCsksl6cRxqu3AhlIPwVNMLVeCZA.jpg"
         }
       ]
     },
@@ -60,7 +30,7 @@
       "date": "2026-07-27T13:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7060,
+      "views": 7240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-07-27T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-07-27T15:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-07-27T17:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-07-27T17:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +108,7 @@
       "date": "2026-07-27T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +127,7 @@
       "date": "2026-07-27T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +145,7 @@
       "date": "2026-07-27T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +164,7 @@
       "date": "2026-07-27T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +183,7 @@
       "date": "2026-07-28T05:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +202,7 @@
       "date": "2026-07-28T06:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +214,7 @@
       "date": "2026-07-28T07:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4270,
+      "views": 5320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +244,7 @@
       "date": "2026-07-28T08:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +262,7 @@
       "date": "2026-07-28T09:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2310,
+      "views": 4330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +273,43 @@
           "url": "https://cdn4.telesco.pe/file/bgYkZWLBpt33ORWmx_z5zAVnP2Nj4eLVHSNs_DPhQlXzwLdU95dgP6MNv449wg4_LXcZ_PIEY6N70BndGdu95Wnh-chkMslKsoUphy2hh41Zi5qYge9C4_tjBTQ10wZXORemYYWCuCHE6-L1N2qfQioS4o28g4RuMa8oKR-WPrRfs5w-bNdNFrEnXFzQXkQjjCI_LQso9bCCSYc9Wgn2df1IS2P0q_g2Cc0ZFFRnC0LTfJFKf9UC9CFvNnsjUJomp1crQEM7Kb4bcmP3V6b0NlKP-6yRJGW_Lht9ittn9RsDsy7kBRp7a8vlA4nUM7CU_ADQ0dr58dROINGFsj8l3Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خیلیا سایت می‌سازن و نمی‌آد بالا توی گوگل و می‌رن کلی هزینه می‌کنن دوره SEO می‌خرن و یا  آدم استخدام می‌کنن :)\u003cbr/\u003e\u003cbr/\u003eولی سوال اصلی اینجاست آیا از خودتون پرسیدید اصلا گوگل از شما چی می‌خواد دقیقا که انقدر اذییتون می‌کنه؟ گوگل اینجا دقیقا گفته چی مي‌خواد از شما، یه سری قوانین بسیار سادس رعایتش کنید گوگل هم بهتون حال می‌ده و می‌آرتتون بالا ولی اگر برخلافش عمل کنید ممکنه نتیجه خوبی نگیرید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپیشنهاد می‌کنم این داکیومنت گوگل رو کامل بخونید کلا یکی دو ساعت وقتتون رو می‌گیره ولی ارزش داره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://developers.google.com/search/docs\" target=\"_blank\" rel=\"noopener\"\u003edevelopers.google.com/search/docs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T10:25:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tnORenh3pIlUqwGLbymgdAV_z_1rhbX9Gi9aJQwCc2ag_S1qiIoeIdqIXNNNmcsOFmuLYPhQje9HBKF9QwAHBiASWCalfSK6pS3BVaKd1BQwGGQvTnd7COWor5jNc3UAgh8-S1rSlfYHfiu9OwdvzsOW3wS3Hnau-fzPxwEZrKQc3mm5K4LKeNW-5XFLBAFtXmmYDiS5SL_rpfaz280L8bR-b8tG1JkFWQSX5sR-XA8NYgemz7MG6hzPKhMWvHWeypByUYBHEdlhdU-WSxOKiasDMAEdohqDOvvnKXDY78XrICSDNeJqYRO7D7CFyj6BDaON6I1eohmLf8rS-eip_A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چند روز پیش QWEN یه مدل اوپن کرده به اسم Fable-Fusion 27B که به گفته خودش سانسور نشدس البته کاربرا تستش کردن و گفتن هنوز کمی سانسور داره دقت کنید لایه های امتناع کامل حذف نشدن چون بعضی چیزا ضررویه اما این مدل بخش زیادی از درخواست هارو جواب می‌ده (مثلا ساخت داستان با شخصیت منفی یا کمتر فاز مشاور اخلاقی می‌گیره)\u003cbr/\u003e\u003cbr/\u003eروی کارت گرافیک 3060 به بالا اجرا میشه حجم دانلودیش هم بستگی به اینکه کدوم کوانتایز (~کیفیت) رو دانلود می‌کنید متفاوته و از 11 گیگ کمترینش شروع میشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehuggingface.co/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرید توی قسمت Use This Model و Ollama رو بزنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-28T11:28:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/C_6Vj31biNSPL8YZdTvpV2ZzG1QlMpGElzUk4pFqvyZbubykRgsPEYGjZGfGfwvLvsleHcsOVVM91ZbUXhf33qzTkLwMPjC8vzF_QbjrxnDIblTP1_gz-p4HD4zer1YTxKiOACnuwLl3zTKHUxNbc3dQxmfF6owNSJ1uSrdp37-cx6c7mLzAh5egkrBVI6KPZEpDw7qjgcq5Yz8ZWV-i4S1NoChlpq3qVMWsAeBvXKb6UkQkNt3_cR1i4uKNsgI4J6MUO0UVzymWAFPPpU0NYx5PbfD78vPHxWexBDN-cN7xHRo3RYvbN5bUeXxDMADBv3fex20buvh7gmg8sDW7fA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785234238
+  "last_updated": 1785241149
 }
