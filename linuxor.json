@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این Webots یه نرم‌افزار شبیه‌ساز رباته؛ به‌جای اینکه یه ربات واقعی بسازی و کلی هزینه کنی تا ببینی درست کار می‌کنه یا نه، اول می‌تونی رباتت رو توی یک محیط سه‌بعدی مجازی بسازی و امتحانش کنی. توی Webots می‌تونی مدل ربات، سنسورها (مثل دوربین، سنسور فاصله، لیدار)، موتور‌ها و محیط اطرافش رو تعریف کنی، بعد با زبان‌هایی مثل سی پلاس پلاس پایتون یا ROS بهش برنامه بدی و ببینی ربات چطور حرکت می‌کنه و تصمیم می‌گیره.\u003cbr/\u003e\u003cbr/\u003eمثلاً اگر بخوای یک ماشین خودران، ربات راه‌رونده یا ربات صنعتی بسازی، اول می‌تونی داخل Webots آزمایشش کنی، با مانع‌ها، مسیرها و شرایط مختلف تست بگیری و بعد همون ایده رو روی ربات واقعی پیاده کنی. این پروژه متن‌بازه و برای آموزش، تحقیق دانشگاهی و حتی پروژه‌های صنعتی استفاده می‌شه. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cyberbotics/webots\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cyberbotics/webots\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز بخش Release ها دانلودش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-28T12:23:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vi28eEGElgi6LbI9MUvCUiy2RF_ozaVIRnRT5clOpg13PjQ2b2yclJ-uBFuyhjs0sYI1ZUyFb3JeWnBn-fdNdgNGzGmqzPR1X4aUH2S9_cxCeHTUf8aYilnSsBltZUmOkMvtqnmspcULDX3SjaIH9scJ2U0ce4C62TI5TAyiRTrEbYeMeKWsWYgJyPVsdeYlFu6YEPE9rTlgu6icbl_qXl69mkihKfFk2zj7yaDLh-Nv_zSQT1eO3C7FSJeVIK_NhxUYMU4B3FnXxkPCjebXzRoS8thaApf6lkdsq8bB012ktBxQUgGkWqe-F5WfhGj6rjC6N_pNTMPvX_NBmIGwbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اتحادیه اروپا از این به بعد می‌خواد شرکت‌ها هر چیزی که با هوش مصنوعی ساخته یا تغییر داده می‌شه رو واضح علامت بزنن؛ یعنی کاربر بدونه چیزی که می‌بینه واقعی نیست یا توسط AI ساخته شده.\u003cbr/\u003e\u003cbr/\u003eاین قانون شامل چیزهایی مثل عکس‌ها، ویدئوها، صداهای مصنوعی، دیپ‌فیک‌ها و هر محتوایی می‌شه که ممکنه آدم‌ها رو به اشتباه بندازه.\u003cbr/\u003e\u003cbr/\u003eهدف اروپا اینه که مردم راحت‌تر بفهمن یک محتوا واقعیه یا ساختۀ هوش مصنوعی، مخصوصاً در جاهایی مثل خبرها، تبلیغات، انتخابات و شبکه‌های اجتماعی.\u003cbr/\u003e\u003cbr/\u003eشرکت‌هایی که این قانون رو رعایت نکنن ممکنه با جریمه‌های خیلی سنگینی روبه‌رو بشن. در بعضی موارد جریمه می‌تونه تا \u003cb\u003e۷ درصد درآمد سالانه جهانی شرکت یا ۳۵ میلیون یورو (هرکدوم بیشتر باشه)\u003c/b\u003e برسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-28T13:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JVNwGvNyu_ho2luy7MbeyNpjnN20SKQtlZgwMaJDU1YmiCarYbMbhmyXp7j6PN2x2Yr330eOCvO5QaP_f-YVAj2Bvr2w_iLJGU3Lfvk5rZSG1XrXrGnj8k9marWvVkySrSLccg7J4jgFBQzhbiPcwJiAW_8T9zYQZI1vsH2l6borbxhkQ9Y0M5LEXosZt-Cb40a5-4yXTKjHjrlzy074XLNQiuo8edQ3H9HLTs53mlgbWrVTJGY_5alNKnklv_AogUwwsCWSiUlJk8n2flh4zYgNB_ih_Zav2hXeo-hqPFZwgII_pYp6XRjBYBww7E5m3Nt9AdHOVpJXI9gR0H67yA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اینجا تمام کد ها و آموزش های لازم برای تشخیص چهره و اشیا‌ توی عکس با پاییتون رو گذاشه و توی 3 ساعت کلش رو می تونید یاد بگیرید، کلی چیز آماده هم داره که در طول مسیر یادگیری به دردتون می‌خوره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/murtazahassan/Learn-OpenCV-in-3-hours\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/murtazahassan/Learn-OpenCV-in-3-hours\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-28T14:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Xjo6DTqn1SIopw_GxmJFIES6WBfY_5y5ptlJmzS2ugVTnPMQAaeDHOSdWvWMznT4kwbZuPjEqLx7R2E6wU6R_HDmgK0xz9fs89vz2619Kf2PEYMz3XmKUO4wwZ-0TgtWX13x6Qk-w-hu0ROn4SEJFoOTVj1nIpJlNUukPA4dRAK3uX4Ae1sn1FMZJ3kXtdLmP3rSSNMGTckgdWiNbTreS2va3nLxjK9eftzVZzcdT_KHIZSVq7tThUpqiRlfDeCrDtkrq_OqgYyxUm6Iff-eRTSsxrrVpGu0waUy5RZ79o0eoVv4u3eB3NLeG0Ux4uzM1WrqzK9_acgfC2HyrhASDg.jpg"
+          "url": "https://cdn4.telesco.pe/file/A3Sti6Jsvjt3kD185PHp1G5ZUDaAIVbxkSefatQWA1pVQn_irHEnWeRzYTMUpjzRMLCNEROxgYHdVLbW_ReqWCtUXgdc8R_ISxVqRX5OGkDP_GgutHJIitzIlLblYlDxPRaGOKN9MJEXmlLFDD4TrYhPKst4c15hQIINpNSELAzf5pqMXIaFz4kOInJ060AymqCMUcSVHE-AuVm6ATDqZLOORUedupNzEXlymPjI2E_tvigiYUxRhI3Dcoq4LmMqH7KOC-P5EqzSwB5tnOk5mEG8WFFa7yE18NNiHbeyvcjAVdj3hWMBLXzyE3P40hTgJnr5hWTr-NEAs3owN9cgXw.jpg"
         }
       ]
     },
@@ -66,7 +30,7 @@
       "date": "2026-07-28T15:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-07-28T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +66,7 @@
       "date": "2026-07-28T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-07-28T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
+      "views": 7460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +96,7 @@
       "date": "2026-07-28T17:19:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +108,7 @@
       "date": "2026-07-28T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +126,7 @@
       "date": "2026-07-28T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +144,7 @@
       "date": "2026-07-28T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +156,7 @@
       "date": "2026-07-28T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 7510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +168,7 @@
       "date": "2026-07-29T06:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +180,7 @@
       "date": "2026-07-29T08:33:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5060,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +199,7 @@
       "date": "2026-07-29T09:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +218,7 @@
       "date": "2026-07-29T10:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 4690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +236,7 @@
       "date": "2026-07-29T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3310,
+      "views": 4860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +255,7 @@
       "date": "2026-07-29T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
+      "views": 4760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +267,7 @@
       "date": "2026-07-29T11:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2330,
+      "views": 4670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +285,7 @@
       "date": "2026-07-29T12:26:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 549,
+      "views": 4200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +297,43 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "«هیچ‌کس حق ندارد وب‌سایت شما را به گروگان بگیرد»\u003cbr/\u003eاین شعار Instatic هست، یه CMS که دو ماه از عمرش نگذشته ولی تونسته کلی توجه جلب کنه.\u003cbr/\u003e\u003cbr/\u003eمیشه بهش به عنوان جایگزین Webflow و Framer نگاه کرد.\u003cbr/\u003e\u003cbr/\u003eاز کلادکد استفاده کردن\u003cbr/\u003eمتن باز و رایگانه\u003cbr/\u003eسلف هاست میشه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://instatic.com/\" target=\"_blank\" rel=\"noopener\"\u003einstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ YaserShahi",
+      "date": "2026-07-29T13:28:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/afzMKmm6FCy9nJKZKauCpI8aBFh83MGkLrzP5wGP4BRWFRV2Wi6cX_G1yc5gmEQnhP1Y7AdFcItp_9X2iW6VVs_gufm6ZEVoUZPHlmvbflsM8K_W0RRHRCgTnNrHFzqoPF4iScOTmPi8L-Lg1QAVfoTVw4V3f66h0jrEnfIHydWBD5ZLXSSNkv5i_-B8mxcZV1u3kz3w0BDRhSWaAdlWTAKqN4vdAmddKcoF6Nrmzm61aK1bLxZ8ZWbmeBB3D5m_JRsC8w15-Czgb2utLYf71RW6N8ZIXxdbpbEXQpP6etYWtWyBYArOESwmAzBzmzrUSVGmOBXFYH15XqbiJNEbGA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چینیا و هندیا دارن از هوش مصنوعی با ساخت ویدیو توی یوتیوب و تیک‌تاک و اینستاگرام و ... پول پارو می‌کنن\u003cbr/\u003e\u003cbr/\u003eاین ابزار رایگان و متن‌باز ساخته شده توسط چینیا که 100K ستاره هم گرفته به‌صورت خودکار با هوش مصنوعی ویدیوهای کامل کوتاه (ریلز) می‌سازه.\u003cbr/\u003e\u003cbr/\u003eاسم پروژه هم حتی گذاشتن MoneyPrinterTurbo از اینجا می‌تونید ازش استفاده کنید کاملا رایگان و اوپن سورس :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/harry0703/MoneyPrinterTurbo\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/harry0703/MoneyPrinterTurbo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-29T14:25:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/X1KXBfHYDO9NBbvKPU4CCQoIFR5iWLF4rDgeW-qKNKU02LYBz6KeK2SXuTQcxKJBmQKHaalctDQwSB1D95-gZCponNvp7UgF-J4bHQyWWQR1Wdv3kv7Ra3xtrQjvAmU0ur056NfuJXNTtxr1Tyh8TAuEkmfMnuJh-sHVZng3MwBgPwnhOxkZ1DJ0-8DFY0e7P98U8d5FKybYmd5dM3w3_5-tsJQTwYAJ2v-W0MBZ3ExuD_twdWVoAfDreqhaL5JeAH6y-N8yw1Kry87yYHSqDHxeIODLyDUHOUjv4ERfEnleCFt1Y5VGFESNJQcQz8RLMSqzI_5Zdafh5X1jFPLNJg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785328159
+  "last_updated": 1785336059
 }
