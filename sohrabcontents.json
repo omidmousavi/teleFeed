@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگر گنوم دارید و همچنان از نظرتون هنوز شبیه به مک نیست، می‌تونید با نصب این افزونه بیشتر شبیه مک او اس بکنیدش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-25T12:09:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "خب :))\u003cbr/\u003eوارد دوران جدیدی از slop داریم می‌شیم.\u003cbr/\u003e\u003cbr/\u003eیک سری آدم بیکار اومدن با ابزار \u003ca href=\"https://github.com/NationalSecurityAgency/ghidra\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGhidra\u003c/a\u003e یک سری برنامه نوشته شده برای مک او اس ۷ رو بررسی کردن و سیستم‌کال‌هاش رو در آوردن و با استفاده از کلاد کد؛ یک PoC از روش توسعه دادن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Kelsidavis/System7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Kelsidavis/System7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین هم کاغذش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://zenodo.org/records/17196870\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zenodo.org/records/17196870\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو این هم ویدئو اکشن رترو از این موضوع که تستش می‌کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=rJRlHKQqX2M\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=rJRlHKQqX2M\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-25T15:35:18Z",
       "edited": false,
@@ -48,7 +36,7 @@
       "date": "2026-07-26T12:11:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-07-26T15:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 921,
+      "views": 933,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y3Q2TmA7ey73YE3kpT-QItPz85XRzxY9I5bc9HCmLUgUyBxDed0tJNAs7L0NtE2PnrrOi1jl9I22dFyv3jVbfY9fjmWnAvuKZWUAKhVog1z-WIZNNiR7wST34JmbNBlez5f-_FH-1wUrZ4yaSa2X_NAxl-GaE7EqdyUS-MsD3_4ICDAIb8fIGbWPbqqECZuCwtg2I-NQem5uQB_JktdLWwvV8Wk5xKpmoUxrgfT6c4MXOhQdrp3Ot8Es0rlu8T4nWyufxMXIVoEDkilJGw50peQuPwZq0sr9ZafxyVN_gxha6cPGIuqk44GaoK2XjBM0hOEqR9ScYUeoEV0WWftALA.jpg"
+          "url": "https://cdn4.telesco.pe/file/R4yVJCyGD3UbQay9iEkaPngLQgVBKcwEX1Zuz7uDdRNGzuMHD2umEAsbwfAdtzQpyLoKFsDbJjp2AXo9SLirmmo19ylgXP9WuZFYu0lNqjZkI0nEAShGxh8LQ1CuZtdRN8uhuLOiIGtReCkBhatPpDdSUWDtQqjuZwUhkGPuIREXclRiiitT4X-mJ_h58mrJlOxq1z81FEitjwmAqpC3r0sknnCLS4bDGK-0hSwN6_rl9BJMH6xcW-IC7PnHnCS_xvPsui7p3ta-3hmZQBj_2PVK8TXLLlujznqEZCFO66H2WyUlnsTt6RsTEMnnyGNN_yZpMLQ3mjyx0jKd5QUIIQ.jpg"
         }
       ]
     },
@@ -102,7 +90,7 @@
       "date": "2026-07-26T19:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 968,
+      "views": 988,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +116,7 @@
       "date": "2026-07-27T08:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 903,
+      "views": 913,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +128,7 @@
       "date": "2026-07-27T16:44:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 755,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +136,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EkIKhv5ySspvmcQp4p6vCNSnhTMz8V5j9t5euqnEPRl2W7N5zlNXoeHXGD5NUF4_naHxakujKS4rJaVa7DoF7WtKxTww01u_L7q8FCIu8Or_O3cKw6BgF1sHjkrfKk2lOuBpJo5yVTY8I0iTN7DRu9SV1Y29b7A0VASyHaawr84aTxKjn_b63vx5YQIORh4DZUscbLETVySTignDVeR60eXUWEANizYZ7IjcYWtYTaGETpBH693lqtajphSkuFVC2dFMZIWs8sLUrqsgu_GafFTQWlU8nqemA_h2Tyack7ppNySYvnenGwCJduvpMA_y7Vm_cEohVlU45RvP17WHBQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/EI4SB_uyAdJZKYa_ZD7Wg4T6c1_O4ik-oXo4IDqAwJubTdwwubTGkwo1CX-J4P90mPGJY9e7-LK5R9vdet9DC1lmwzc7t2tLy6E-jGyrKULFkr_5UD2_E5fBIGouqhGIJX8RbqO4uLNA1mHNm_rlkejCZ29iYpt2Aut8NriTjyJeEFVmYzpIf4eEamffrw20HUld0RlsfOj-Sfdnb4_IYi-P2CkSu4z84OpwVmjbFfYX8Jf7TJJMiP6ptMfqypOPNVMxm0GW0I8j4QnquLVe4pSEVtWV2a-zIVjt58VfSPLv1jE7Uc2juoxQ6I8KaSNemX7QsQmaQH9pN_TjLIEhhw.jpg"
         }
       ]
     },
@@ -158,7 +146,7 @@
       "date": "2026-07-28T06:07:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 821,
+      "views": 829,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +164,7 @@
       "date": "2026-07-28T17:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 753,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +176,7 @@
       "date": "2026-07-28T18:26:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 713,
+      "views": 726,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +188,7 @@
       "date": "2026-07-28T19:23:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 746,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +200,7 @@
       "date": "2026-07-29T10:08:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575,
+      "views": 608,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +212,7 @@
       "date": "2026-07-30T06:46:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 467,
+      "views": 520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "date": "2026-07-30T15:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94,
+      "views": 240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +245,19 @@
           "url": "https://cdn4.telesco.pe/file/UsK3F6Ognzo5ZkOO-mjozZdPOmsANQxg_FHtvjXBAjTVgi2y3Vi05ow7WpQGHSeOLgQCx3d3YTiqzPN4c3U-pB5c7sQ29-8be2mxzLn_TK-uauJZ73mkYR8zGgNU-w3gUYtbrZJFd0CmNuhnfZFXDf490cge2gR_R_XXycb2868CNA9gqLRAmJ388RstVJaPN1vG3X7tsgzUiCWzrY2sDg1211b2M5XwqvIlWRNZqTE0Y_Zq0sSiByPix6UhWWV8j2NFdDTSotg5q30gapqcAWiXagbnKkPqnVrBZPTlUeJ7pJeVbtIpxT8GAYGvfoEk9phghzWcYAQWm8iajMmdJQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چرا جدیداً چیزهایی که می‌ذارم اونقدر مثل قدیم بازخورد نمی‌گیره؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%88%D9%82%D8%AA\"\u003e#موقت\u003c/a\u003e",
+      "date": "2026-07-30T16:54:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 79,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1785425406
+  "last_updated": 1785430850
 }
