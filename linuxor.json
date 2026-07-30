@@ -8,79 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یادگیری انمیشین ها توی وب واقعا یه غولیه برای خودش، با این ویدیو توی 30 ثانیه یه زخم بزرگ بهش بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-29T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oMvFffqGPEn2vOsEmzPB5VKOjHuWzEC4eW4uJ565qlcTUaNpqhc8cd40ZaLTzlbxQfzN4T1EKHXY25g21SkjcaLFQ1J0AlwloT-AJ2DrJAC0NwHdGHCONX-Sct4sAJTKAFD2HAR0R9fUlzJUnfXoeZlwdI271AY7PF-PDGHo5rNiL_z6lQ5NSdugjVOJNNyf8QOe3Yb-6hDnAy-AZ0gIGVqGyHP_gEoLOXWejTXPPeNuXwJktK2HmeBlPdXtkdNh9ANEBCZHZzbxtNxIy5xyEmSMgChb0gQkujqYy83RPrMUZhxv0GnfpxD-6lofRB_-00e9NzTDuch15ZwvQk-hpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خواستین بازی مازی با هوش مصنوعی بسازید از اینجا ایده بگیرید سورس کد همشون هست و نحوه ساختش هم هست\u003cbr/\u003e\u003cbr/\u003eلیست بازی ها که می‌تونید آنلاین تستش کنید و همچنین سورس کد و توی سورس کد MCP و SKill های ساختش هم هست :\u003cbr/\u003e\u003ca href=\"http://play.mint.gg/\" target=\"_blank\" rel=\"noopener\"\u003eplay.mint.gg\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-29T19:32:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jw0_oH6d7VUoUoEUGG971GXMJsrU4upj5QEYA5W8OzKloUWkP-eo7_fl1p1XIO3FusQvmU3wSTwUPkpYCX1DnMCbpTFWyMyrYGnYTc4cRTKTkc_gb9ZQVksI_nDS7VwwxhRePcbTawZh4bf8CMMxm9A_mOuRfzaglhIo_fy_iRgMnVhxkn0WxhrZfjRO5YllO5KHRj7j-Rf4sRKHli4onpRYcwXVkzWkIJC7EbBOlEeRgrkCzrmN5rRxyoC69PxM4X1rL_MpNCFIX33Rn5mztCDkGgaVAjpoFNuF3iwFDX0iImp_EfULUiovHqEBeTJw0nDlGF6yVOVxl8-M0JVpTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه یادت رفته سیستم عامل لپ تاپت چیه یه راهکار خیلی ساده وجود داره دستور \u003cbr/\u003esudo rm -rf /\u003cbr/\u003e\u003cbr/\u003eرو توی ترمینال بزنید اگر لپ تاپ همچنان روشن موند و خراب نشد یعنی ویندوزه اما اگر خاموش شد و کل اطلاعاتتون پاک شد کافیه لپ تاپ رو بچرخونی اگه پشتش عکس سیب گاز زده بود مکه اما اگر نبود لینوکسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T06:26:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این پروژه usbtree یه ابزار خط فرمان (TUI) هستش که ساختار و وضعیت دستگاه‌های USB متصل به کامپیوتر رو به‌صورت زنده نمایش می‌ده\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدانلود برای مک، لینوکس و ویندوز : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/gnomeria/usbtree\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/gnomeria/usbtree\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T07:25:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XYKlonluSZPO3AS2L8knHwQ1nkGgNxb137SGc-URypxHRXU4JPYPAV6ojz3djSqcHEpxj3sWDa4xWMBtVLFVdEKBaucKrydDvOIIxRn3yGpxmCqaacjfnoxUkoXJCLQHj5gMG7pebTsEa1RC0KC-VJ3bbafNYbjdVgWnKHqEyjESd1UGLofxWN0tkC9ER-WTw8DAGnneuXXbAWeZa1zvHXFtuZhp8hg5TVzpvexSNl8mRGUqKvTZM-KCywqgMVmHAr2rad4M5CUcHRDcUJQduwQF5Eukknt3Axw4CmU5ukC7SDAp4OtRsvVbuFu4vCcSgJ_Ifcdz0XyAIghkEK4spA",
-          "width": 1500
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "هوش مصنوعی بجای ارزون تر کردن زندگی داره زندگی رو گرون تر می‌کنه!\u003cbr/\u003e\u003cbr/\u003eهوش مصنوعی شاید تو بلندمدت هزینه‌ها رو کم کنه، اما فعلاً داره برعکس عمل می‌کنه. سرمایه‌گذاری میلیاردی غول‌های فناوری برای ساخت دیتاسنترهای AI باعث شده تقاضا برای برق، تراشه و تجهیزات حسابی بالا بره و همین موضوع فشار تورمی جدیدی روی اقتصاد آمریکا ایجاد کرده. یعنی فعلاً تبِ AI بیشتر از اینکه تورم رو درمان کنه، خودش داره به گرون‌تر شدن بعضی کالاها و خدمات دامن می‌زنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-30T07:49:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +30,7 @@
       "date": "2026-07-30T09:30:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6250,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +49,7 @@
       "date": "2026-07-30T10:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5630,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +67,7 @@
       "date": "2026-07-30T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +85,7 @@
       "date": "2026-07-30T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +97,7 @@
       "date": "2026-07-30T11:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +109,7 @@
       "date": "2026-07-30T12:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +127,7 @@
       "date": "2026-07-30T13:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +145,7 @@
       "date": "2026-07-30T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +164,7 @@
       "date": "2026-07-30T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4820,
+      "views": 5460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +183,7 @@
       "date": "2026-07-30T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4580,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +195,7 @@
       "date": "2026-07-30T15:35:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4240,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +213,7 @@
       "date": "2026-07-30T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +231,7 @@
       "date": "2026-07-30T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
+      "views": 4490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +249,7 @@
       "date": "2026-07-30T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3520,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +268,7 @@
       "date": "2026-07-30T17:22:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2460,
+      "views": 4170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +280,73 @@
           "width": 1278
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e آفر پنجشنبه ویژه کاربران Linuxor\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cb\u003e فعالسازی Gemini Pro ۱۸ ماهه، کاملاً اختصاصی\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e‌\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفعالسازی بدون نیاز به ارسال جیمیل و پسورد\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۲ هفته گارانتی\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e مدل \u003cb\u003eGemini 3.1 and 3.5 Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96BC.png\u0026#39;)\"\u003e\u003cb\u003e🖼\u003c/b\u003e\u003c/i\u003e تصویرسازی \u003cb\u003eNano Banana 2 \u0026amp; Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e ساخت فیلم با \u003cb\u003eVeo\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e استودیو \u003cb\u003eLyria 3\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e فضای ذخیره سازی\u003cb\u003e Google One 5 TB\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e فضای\u003cb\u003e Workspace AI + NotebookLM Pro (5× limits)\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e کاملا اختصاصی و بر روی جیمیل خودتون فعال میشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراکی نیست\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفقط ۸۵۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/ariobox_bot?start=promo_95_96\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبرای خرید اینجا کلیک کنید\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-07-30T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/T9U-ffynyc9C82UvdBqkilETrbNzf8IP5dFZjNb7SX6aJ8tXJf9gEZNdve094b1hSLVK3gGHR3GJosYN0xND8RhS2YrfcG2CoVHPqckuHyYNUftLOQa4zuqUuGGoQfA_QEv01S0CJ7scHY8mFpYDNbk-D9qJ_ePj7xsDN290eEquRKfYnn3LDQN_luIZQ7VNnExdggbO_4cnsZ3adUBFt939dWe7ysr-Y1JjBMaxentKOcPaHqQcfhCziIncx1Du-rlAQN284WJjDcmc3OTCJ6wf0RwEUkyRDruUAoDY3-jmjLB2fZMn0hLPo-qjKGYYt3pMBoaDGV_CJfOVyeYfrQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ساتیا نادلا، مدیرعامل مایکروسافت، می‌گه شرکت‌ها اگه بی‌حساب‌وکتاب از هوش مصنوعی استفاده کنن، ممکنه آخرش خودشون کسب‌وکارشون رو نابود کنن.\u003cbr/\u003e\u003cbr/\u003eنادلا می‌گه خیلی از شرکت‌ها دارن مهم‌ترین سرمایه‌شون، یعنی دانش و تجربه کاریشون رو کم‌کم به طور رایگان می‌دن دست هوش مصنوعی.\u003cbr/\u003e\u003cbr/\u003eهر بار که کارمندها از مدل‌هایی مثل ChatGPT، Claude یا Gemini استفاده می‌کنن، فقط پول اشتراک نمی‌دن؛ ممکنه اطلاعات، روش‌های کاری، اصلاحات و تجربه‌هایی که توی شرکت به دست آوردن رو هم در اختیار اون شرکت‌ها بذارن. یعنی شرکت‌ها دو بار هزینه می‌کنن؛ یه بار با پول، یه بار با اطلاعات ارزشمندشون.\u003cbr/\u003eاگه یه شرکت همه کارهای فکریش رو به یه سرویس هوش مصنوعی وابسته کنه، کم‌کم استقلالش رو از دست می‌ده. بعداً هم اگه بخواد سرویسش رو عوض کنه یا با بقیه رقابت کنه، کارش خیلی سخت می‌شه چون همه‌چیش رو مفتی داده به هوش مصنوعی رفته!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-30T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ciuAAhoffWHz2Ar1xP8wOEhEEwchk0v27GERqhhYEHkHXyadcdEWkxNHixxc6408cUBRYIq4vR6emAOZ51mtZ33AIUzDygDVv1zj3Icb-GeYpLzprjyhZSogffRgjTc316tAW4P3sPz4Xf4nbHKjP5SdKpoanmxx3nj3HU-ToHKqgJIonjdndh5mjabkNVTKaDCT8373XGImkW1oPp-HMgHcheN4vHUVBYFGvlMvM1YhoshKl17d2SP0IFH6VHiQ1inIbN6hIcTy2NyqyvOzTEL3F5HGPnncaHSGRXOp76KZZnVG6U2HGZAAUY_v8tfXFQe9wEjumgi2V7akVVIIyw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه با هوش مصنوعی کد می‌زنی، هکرها یه روش موذیانه پیدا کردن که مستقیم روی کامپیوترت بدافزار نصب کنن\u003cbr/\u003e\u003cbr/\u003eبا اینکه مدل‌ها توی بیشتر زمینه‌ها دقیق‌تر شدن، هنوز خیلی وقت‌ها چیزهایی از خودشون درمیارن (همون چیزی که بهش می‌گن هذیان یا hallucination). این اتفاق اونقدر رایجه که محقق‌های امنیت سایبری هشدار دادن هکرها می‌تونن از جواب‌های خیالی AI سوءاستفاده کنن و بدافزار رو در اینترنت پخش کنن\u003cbr/\u003e\u003cbr/\u003eطبق گزارش SecurityWeek، این حمله از یه ضعف دستیارهای برنامه‌نویسی هوش مصنوعی استفاده می‌کنه وقتی هوش مصنوعی به برنامه‌نویس‌ها پیشنهاد استفاده از نرم‌افزار یا پکیج جانبی می‌دن، ممکنه اسم‌هایی پیشنهاد کنن که اصلاً وجود خارجی ندارن.\u003cbr/\u003e\u003cbr/\u003eاسم این حمله Adversarial Hallucination Squatting یا Hallusquatting گذاشته شده\u003cbr/\u003eهکرها اول اسم پکیج‌هایی رو پیدا می‌کنن که هوش مصنوعی معمولاً اشتباهی تولید می‌کنه؛ بعد همون اسم‌ها رو توی مخزن‌های واقعی ثبت می‌کنن و داخلشون کد مخرب می‌ذارن.\u003cbr/\u003e\u003cbr/\u003eحالا وقتی یک برنامه‌نویس از AI کمک می‌گیره و AI همون پکیج قلابی رو پیشنهاد می‌ده، ممکنه بدون بررسی اون پکیج رو نصب کنه و ناخواسته بدافزار رو وارد سیستم خودش کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-30T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IggS3IZajSVYV4g4p9u2SM4lN7RuFbdkgB_D5GlVZqNWN5i8qRIf2kBdFFcK4aTi5_-J72IH9LVq9eDWN9A9cxA1RCmtk1E_SkvHmgNVCrpzOOqE9H03F2QRnhYG1WugnlkqoowsxowMhwni6jZG-avs__Oez1yvlItDq1d8Cndkig12H_XOjp59F58VmX1Kvxi3aLNzWDJo16WGlL-DtZRmFxwwcgmbr8ur_losKED0LhKRDIYptgM3TSLAZZF8kPM14lLSWf4rGT4Cs77vZz9N67n6VfaWINc0Jk6oy3LHhovBl2dHMm2kHu4qfXYyy6a7U7W5q6ns2lvHrJWVTg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "عامل OpenAI فقط Hugging Face رو هک نکرده بود در واقع افسار پاره کرده بود\u003cbr/\u003e\u003cbr/\u003eیه عامل هوش مصنوعی از OpenAI که اول فکر می‌کردن فقط به Hugging Face نفوذ کرده، در واقع تونسته بود به چهار حساب دیگه توی سرویس‌های مختلف هم دسترسی پیدا کنه. ماجرا از جایی شروع شد که این مدل‌ها توی یه آزمایش امنیتی روی ExploitGym، با سوءاستفاده از یک باگ توی سرور Artifactory راهی به اینترنت پیدا کردن. بعد هم برای پیدا کردن جواب تست‌ها شروع کردند به جست‌وجو و ظاهراً فکر می‌کردند داده‌های این آزمون‌ها روی Hugging Face قرار داره. OpenAI بعداً اعلام کرد که این مدل‌ها اطلاعات ورود لو رفته‌ی چند حساب رو پیدا کرده بودن و شرکت Modal هم تأیید کرد که یکی از اپلیکیشن‌های مشتریانش توی این ماجرا هک شده.\u003cbr/\u003e\u003cbr/\u003eیاد اون فیلم سینمایی ها افتادم تفنگ می‌دن دست هوش مصنوعی همه آدمارو می‌کشه:)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-30T19:20:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1785435514
+  "last_updated": 1785441559
 }
