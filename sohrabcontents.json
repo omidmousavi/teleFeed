@@ -8,83 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگر گنوم دارید و همچنان از نظرتون هنوز شبیه به مک نیست، می‌تونید با نصب این افزونه بیشتر شبیه مک او اس بکنیدش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-25T12:09:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "خب :))\u003cbr/\u003eوارد دوران جدیدی از slop داریم می‌شیم.\u003cbr/\u003e\u003cbr/\u003eیک سری آدم بیکار اومدن با ابزار \u003ca href=\"https://github.com/NationalSecurityAgency/ghidra\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGhidra\u003c/a\u003e یک سری برنامه نوشته شده برای مک او اس ۷ رو بررسی کردن و سیستم‌کال‌هاش رو در آوردن و با استفاده از کلاد کد؛ یک PoC از روش توسعه دادن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Kelsidavis/System7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Kelsidavis/System7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین هم کاغذش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://zenodo.org/records/17196870\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zenodo.org/records/17196870\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو این هم ویدئو اکشن رترو از این موضوع که تستش می‌کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=rJRlHKQqX2M\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=rJRlHKQqX2M\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-25T15:35:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "خب انگار تلگرام یک ویژگی جدید اضافه کرده به اسم جامعه که من گروه نردز گنگ و همین کانال رو بهش اضافه کردم؛ حالا تا بعد شاید کانال‌ها و گروه‌های بیشتری بخصوص کانال‌های بچه‌ها رو بهش اضافه کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-25T19:49:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "یک افزونه پیدا کردم برای نکست‌کلود که بجای داشبورد نکست‌کلود اجازه میده که یک محیط میزکار داشته باشید که خیلی باحاله و از تقویم شمسی هم پشتیبانی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apps.nextcloud.com/apps/desktop_workspace\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apps.nextcloud.com/apps/desktop_workspace\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-26T12:11:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 983,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZqIDhoKUN53Gh7Xnx4EwFad8EHOc-bEHc6w1F2BHP9pN_oEHXwZx1xKu61zcM90gIuQk6FYfTutcKi8of5tmNazi_x9X9YcUpOCloOcdph8Q4CabNGS0XEGT8krt146IC045JkK5dE9mxeb-usyazbtMLv5VqhOCBHijD-PaNehEtM3q5NKlEfvNUEINkO4d4DfFWCVkO08lorJfgR2gLwAp36MeHWfTVTaGDhc_IZoXouXzbXOwGR3NGHTtmMbHzylEyGNY5_1KT0Zgud_QiGcQ6eC7rJ-P2649ONdFltBHa2ZCKIGs3-1_Ql6ws1xu6sJZpCIpQQrVF82DBj_xuQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خب مشکل BtrFS هم که از سمت کالامارس بود؛ متاسفانه از سمت اون‌ها حل نشد و من مجبور شدم با استفاده از تاکتیک‌های ناشناخته‌ای که توی همون ایشو گفته بودن این مشکل رو حل کنم برای پارچ و یک ویدئو از تستش گرفتم.\u003cbr/\u003e\u003cbr/\u003eلینک مشکل کالامارس:\u003cbr/\u003e\u003ca href=\"https://codeberg.org/Calamares/calamares/issues/2440\" target=\"_blank\" rel=\"noopener\"\u003ehttps://codeberg.org/Calamares/calamares/issues/2440\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپ.ن: مشکل از سمت بالادستی نه حل شد و نه پچی داده شد و صرفاً بستنش.\u003cbr/\u003e\u003cbr/\u003eتماشا از یوتوب:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/9hA5ySKsinc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/9hA5ySKsinc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتماشا از پیرتوب:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://tubedu.org/w/a4rJXmAbps2odDzUcF8PAv\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tubedu.org/w/a4rJXmAbps2odDzUcF8PAv\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-26T15:49:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 961,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mwO9gws8CsJVFkl2du9YyngoASiry6oa78P004kq12-IJahRn8bcw2fN1s-ZaZ1Wu-DJvlAxbWC-4Cqg2fztb-TNh5tYKF2r7frfjusSP9Plah835OlgM8AQ5YRBsU-3iiY7gH5A22kuBGUxhgPcPVa9xS8QKn9IchzJkfHbujv7hvdxheLi-J4mnl0qeH_aDtNCn9MdpxD0cMET-D-Dds5BtgRGPxl5Jre9hPlAtH-FdwQBEwWh82pQLREk-zJLg5nk9MitcbC0NRZVlpZa8C06SP7RihM8eGhvlDxeSxcW6kFpfNaj2lL_eKxp1GXRAaCAYb5UbFIZ-gIf2CoQ6g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "انتشار مدیر کرنل پارچ نسخه ۱.۱.۰\u003cbr/\u003e\u003cbr/\u003eنسخه جدید مدیر کرنل پارچ با مجموعه‌ای از قابلیت‌های جدید منتشر شد.\u003cbr/\u003e\u003cbr/\u003eدر این نسخه:\u003cbr/\u003e\u003cbr/\u003e- امکان انتخاب کرنل پیش‌فرض بوت برای GRUB و systemd-boot\u003cbr/\u003e- نمایش جزئیات کامل کرنل‌ها شامل حجم، تاریخ ساخت، وضعیت هدرها، مسیر ماژول‌ها و درایورهای DKMS\u003cbr/\u003e- بررسی وضعیت درایورهای DKMS مانند انویدیا، broadcom-wl و VirtualBox\u003cbr/\u003e- پاک‌سازی ماژول‌های باقی‌مانده کرنل‌های حذف‌شده\u003cbr/\u003e- جستجو و فیلتر سریع کرنل‌ها\u003cbr/\u003e- تنظیمات آماده برای بازی، تأخیر کم و مصرف بهینه باتری\u003cbr/\u003e- اضافه شدن زیرساخت ترجمه با پشتیبانی کامل از زبان فارسی\u003cbr/\u003e\u003cbr/\u003eرابط کاربری نیز بازطراحی شده و اکنون کاملاً با استانداردهای GNOME و LibAdwaita هماهنگ است. همچنین مشکلات امنیتی، سازگاری با معماری‌های مختلف و پایداری برنامه بهبود یافته‌اند.\u003cbr/\u003e\u003cbr/\u003eهمچنین ما درحال بازطراحی آیکون‌های ابزارها هستیم که با زبان طراحی پارچ بیشتر هماهنگ باشند.\u003cbr/\u003e\u003cbr/\u003eاین نسخه در مخزن \u003ca href=\"https://t.me/parchlinux/1311\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVoid\u003c/a\u003e قرار گرفته و برای تست و دریافت بازخورد کاربران در دسترس است.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu parch-kernel-manager\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eتوجه: این نسخه آزمایشی است و نیازمند بازخورد جامعه می‌باشد.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-07-26T17:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 885,
+      "views": 894,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +30,7 @@
       "date": "2026-07-26T19:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +56,7 @@
       "date": "2026-07-27T08:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 936,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +68,7 @@
       "date": "2026-07-27T16:44:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +86,7 @@
       "date": "2026-07-28T06:07:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 842,
+      "views": 848,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +104,7 @@
       "date": "2026-07-28T17:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 792,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +116,7 @@
       "date": "2026-07-28T18:26:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 745,
+      "views": 750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +128,7 @@
       "date": "2026-07-28T19:23:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 778,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +140,7 @@
       "date": "2026-07-29T10:08:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 663,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +152,7 @@
       "date": "2026-07-30T06:46:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 595,
+      "views": 616,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +170,7 @@
       "date": "2026-07-30T15:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 416,
+      "views": 454,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +185,45 @@
           "url": "https://cdn4.telesco.pe/file/UsK3F6Ognzo5ZkOO-mjozZdPOmsANQxg_FHtvjXBAjTVgi2y3Vi05ow7WpQGHSeOLgQCx3d3YTiqzPN4c3U-pB5c7sQ29-8be2mxzLn_TK-uauJZ73mkYR8zGgNU-w3gUYtbrZJFd0CmNuhnfZFXDf490cge2gR_R_XXycb2868CNA9gqLRAmJ388RstVJaPN1vG3X7tsgzUiCWzrY2sDg1211b2M5XwqvIlWRNZqTE0Y_Zq0sSiByPix6UhWWV8j2NFdDTSotg5q30gapqcAWiXagbnKkPqnVrBZPTlUeJ7pJeVbtIpxT8GAYGvfoEk9phghzWcYAQWm8iajMmdJQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یک سری ویژگی اضافه کردم، متادیتای فلت‌پک رو درست کردم و فلت‌پک رو فعلا توی ۰.۱.۱ برای معماری اینتل ۶۴ بیتی و توی ۰.۲ برای آرم ۶۴ بیتی بیلد گرفتم.\u003cbr/\u003e\u003cbr/\u003eروی موبایل این شکلیه.\u003cbr/\u003e\u003cbr/\u003e این هم نمونه اشتراک گذاری شده از جواب شماست:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eپردل\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003c/pre\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-07-30T21:58:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 108,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NRYdYpqmxs6etBOfHvkEFm6IcbkyDpByPb5r65ihMI-A6xx4lhPqTh8CAHAtVs4ZkNeitsC5jIW8YH41HShP0cck_cPqtJmMk7mDGrs3m-dmnvjvuHvjTFaoUemNi7y5QaYltlRMjAp31c2IiKcBjUayxaycsqvxOn7sAYZR8hdyIHqQiZShhOam8SgfHJDRKFthtrOfWQTmD8DLsUg_My_z393fo6I1fPlZBhobLTTuJSdVQaSqnw9SZYv5RAB908gkMjssjdnH6sP9BQQm1yvT7GCeb_Q0AGjg0GK9x8o0I1GUiwkROY4kwXlaNvUKdUXpmebQ8kBUvJQTP-0zWw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BlTHhqd33weKFmW6VKQYGfKtgZtY1bP9cexXswJ93h-fvRNzs_-tD-0JD3NBMy8KcVQ3RiGg_ba47SRlggthdu-Iz2etjagqTnnrnRH3B76qZvIRyH0B_v7qlofL6nzXhda6bX-E584FltS_9C4xKQWdISXyl7zruEaH9YGZhji3ls6_UyssSlENR95m2jPx-A7Zi4PKRQq_dZ0PcMSN9_hfR0aHXbkF131gytttgP9QZmhqiUTBic0zHAFpqHDNylZmWdnUy-uN1AGbqaSZpbDMq02fC5R6HIm2-U3XmHoiiJPGm1gKkuo6xEQhh7HA6sXQgxn1HvSiU7vem3hA0w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/veRhWRQI8r7qGwBbtUr_1Iexs8yQCnJHHvqagXjn6Cb_AYfnLMNRg-PyJHn4MuQn4pn3lbRWfOMRAvtpgvQo_VxtZrZRLBs0Gg4TU6LzOaj-iwOFpdkkymc6zaS7rOZ0S5GaWVYOXd_0XPujbtBhIOujdmVPkdrEYoI8vxBIfECiK0pcXXCFPK31ukNrqGc9CXHVUSKAI8QPjr0T4bPCScYmRLNNINDCJho7tDvIy5m3B2J59bFT7djr4389T6f9nV0dG9Q3lRRTunlgt84Gl3pxXi70XE-Qj0OIc5X31ha5KZL5ihzQq_sOjXirRyeS90CG831sLtBLyuAbqt3TDA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RQqLXOqfBczyl_lUc1IqsYiIpEd7G5v4gVlMJ6p871vzMZuLcP8TJ9GVbAwZpbdlxQY83v9Z0_3McoixL8h_29sWAph6Y-f9iMk3UUyyyUlasasWzuddNX3RFgbh3D8Q3p8cw55R2lzrtzVIYzVIZoKsZOCzG2LaVuIqEd3c99bAsdHo11DTfYfu03JFCT_nxQI2RdFqw-AmjEXikhMV8QvejybH-dpubsXiD7TpEtOU_8sE6FMa02_eR0OQemFDylLqQ5J_UjEfaQWe2S-bFpHSvZQPyPujX_B8FlE9LijdtbFcmWRcPrVU41zgJX-N8Vng2SikcURMPcgS2iQ8-Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/a6RvW4ydLZljMFQC7F2dxsUtsbuVwSoxIUh6pFyL3uQAethiZcy9KbUm2_IFGOxRMWU5Xgj5JNCrHoMWUsDx01myD2S3R6dG49pwVw-LPQzRMrF-_r2MaZzoPezy4AeuHxFJsHoWgVPynhNVvHfCOU0oKvX5IpoyE1cuYMVY1cIO5T8FYhl0IAj_rUP6wT-pwzdzyCmPiW4ds3l9OOv-l1P5t5AciHlMJGXaFbNUushRC-FpU_I5kcEJX-pZHYzQDgWtpE48dD7xKRslw7lpsAUsn3WJJVwwOG3DWlriHrhY3LrtUGqHi-Z3a9V69RSkeAlXmXm9G30UHnupEKPkYg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BlTHhqd33weKFmW6VKQYGfKtgZtY1bP9cexXswJ93h-fvRNzs_-tD-0JD3NBMy8KcVQ3RiGg_ba47SRlggthdu-Iz2etjagqTnnrnRH3B76qZvIRyH0B_v7qlofL6nzXhda6bX-E584FltS_9C4xKQWdISXyl7zruEaH9YGZhji3ls6_UyssSlENR95m2jPx-A7Zi4PKRQq_dZ0PcMSN9_hfR0aHXbkF131gytttgP9QZmhqiUTBic0zHAFpqHDNylZmWdnUy-uN1AGbqaSZpbDMq02fC5R6HIm2-U3XmHoiiJPGm1gKkuo6xEQhh7HA6sXQgxn1HvSiU7vem3hA0w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785445873
+  "last_updated": 1785450875
 }
