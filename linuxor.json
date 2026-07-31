@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چندتا نکته کوتاه و امتحانی در حوزه Ai میگم که شاید ندونید:\u003cbr/\u003e\u003cbr/\u003eمایکروسافت یک زبان و ابزار ساده‌ی جدید بنام Flint برای چارت کشیدن ساخته. نه برای ما، برای Ai. اگر وصلش کنید به Aiتون، چارت‌های بی‌خطا و بینطیری میکشه.\u003cbr/\u003e\u003cbr/\u003eبرای دیپ‌ریسرچ؛ خیلی وقته که chatgpt و جمنای دیگه بهترین نیستن. بهترین الان چیه؟ ریسرچر‌ مایکروسافت کوپایلت پرمیوم (۲۰دلاری درماه)\u003cbr/\u003e\u003cbr/\u003e‌برای Structured output، مدل Deepseek v4 pro از همه، حتی از opus هم بهتره، برای آتومیشن هم اگر N8N رو یاد نگرفته بودید دیگه سراغش نرید. از trigger دات dev استفاده کنید.\u003cbr/\u003e\u003cbr/\u003eبرای تحلیل داده خام و یا گزارش نویسی فقط از opus و یا Fable استفاده کنید.\u003cbr/\u003e\u003cbr/\u003eاگر mcp سرور وبسایت Fal رو به Ai متصلتون کنید، دیگه فقط به Ai میگید که چه عکس و چه فیلمی رو برای چه مصرفی میخواین، Ai خودش تشخیص میده کدوم مدل برای اون کار مشخص بهتره. پرامپت شما رو بهینه میکنه و بعد خودش خروجی رو از Fal میگیره و به شما تحویل میده\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ AminAnvary",
-      "date": "2026-07-30T10:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "داشت همه UI اش رو با هوش مصنوعی می‌زد نمی‌دونست UX مسئله مهم تریه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T11:18:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "هوش مصنوعی شرکت هارو جوری به بدبختی کشیده که توی فکر اینن گوشی های قدیمی پیکسل رو تبدیل به سرور برای محاسبات کنن\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T12:28:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T24cJKR5Ki0NSSnIWZIIjDXIts5Q8eCG5Yzg-DLc4RpfWwgS4kLoryY7eoP0l_srklZ6qzkvepYpDCcexXGvI6RXMzT_Peb6SC4uAEca2k6IkKyWsEFBE6Au8SUggjkAQkhoubOPo4Oxe-VJy4RQVRNeBeJvpYYkqjxH93gwy0Pom9djL8Fr_Li7QJXtuCsEiQUicLtaouzXQEEvtLCDPNy3WBxk9pweICjb_DHJMdMlRKXRshWJe288I9Ql7cgw9iAtFWwttg80J0fxXmGJ-5U0IOPAl9yAyfrMeeRArn7gYjcVv6chdxO8ta4b9WCUryIAAgqiiQZtakTRQAExyg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "سایت Hackflix یه آرشیو ویدئویی از کنفرانس‌های امنیت سایبری هستش؛ مجموعه‌ای از سخنرانی‌ها، ارائه‌ها و ویدئوهای مربوط به رویدادهای حوزه‌ی هک، امنیت اطلاعات و پژوهش‌های سایبری\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://h4ckfl1x.com/\" target=\"_blank\" rel=\"noopener\"\u003eh4ckfl1x.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-30T13:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-07-30T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-07-30T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +68,7 @@
       "date": "2026-07-30T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +80,7 @@
       "date": "2026-07-30T15:35:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +98,7 @@
       "date": "2026-07-30T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +116,7 @@
       "date": "2026-07-30T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +134,7 @@
       "date": "2026-07-30T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +153,7 @@
       "date": "2026-07-30T17:22:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +172,7 @@
       "date": "2026-07-30T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 6080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +190,7 @@
       "date": "2026-07-30T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +208,7 @@
       "date": "2026-07-30T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +226,7 @@
       "date": "2026-07-30T19:20:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +238,7 @@
       "date": "2026-07-30T20:55:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +250,7 @@
       "date": "2026-07-30T21:04:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +269,7 @@
       "date": "2026-07-31T06:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3100,
+      "views": 5330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +288,7 @@
       "date": "2026-07-31T07:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1840,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,7 +299,47 @@
           "url": "https://cdn4.telesco.pe/file/J7Mhu6-fXS2mvFk2yPSYDlJLcVfEMqWyASu7iCTR0dao7FIlCCSurt0AynmfyfIuPVy0iHfW8JS2CCdLnRRKGcNBUDOo-yZXQT-hukXYjXux1GdY1HIDsySrGvFsv-TQeysp-IWrSZ-goxIZg9NVCH722cxQY4MdhTMZuZu1V9MoB3MGvvPut82c82cfJHcFEtkBHdUeimqx2skB3VQjNvx3DqYbhfUGp57MdWoRHCD2SSJDZfJ8Ld0VooIjYORqfO4lU-ye6fXhC3cfftEYvmTJJZV0kEEOTCkKfwGWC0_U3lsR1o7uIhvsRvkeXATYp3Mx8kZykX6kbzjXJNdThg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "تجربه استخدام در OpenAI در 2026\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-31T09:24:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3280,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oEjbpzl4ciLsyNmy3XM6OL439L-_Y6O4lrRaa6YjpDm6FjqDjKhcPd04A8ksI9iLqghntRfsSAXjr0cFB7tu3mwa1XD5HqqhGW18j1fuAFSpIgb5QIXKHFZ6fFEt60ZTvw2Pi8Wj0GJ9EpHfsUEd-y1xglJS21w9SHoJMA4gviIqKXUqp8szCEl-EFhqqOHZEw_t4eXtYw4n9QeTKPHDJtiwAHFGNiXwlRhUFiJ9AuD5JjbS7tZ4kEP8gm5yfWElTqX0_9rwrX1aFAGuxOgE8Y8P9Cu922c5IYeh_wu54xVpHbKmjefxh7gZvy0ta1k9GfRY8GhLd2ZxxZu70SIwBA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KDzrCFq-uX8vMWCCy_r4FruTm-VC-LdWdwWhirL5_zvsqUBsH7qhGUZZkDTF2USsIsOjoM9Zd01i6yEBKSfJo4DrwZvCF9I6ihDNXr9mMFKXPW082tsUGu0ACsyqmUMDD5Si219TPkD_4qHGwmNN3Nd0_6YXtTT39azp4EbfflYl4mnpzKXh2u0-BxrXY83BDHX09sMqk5CdxnYLPdDQyPzc802dXGbK1IKiEYfNy-QUnE2a7Y7sl3b8s0TC94iS32hvfhMrp6-b2g1vHmQqIH1gY2mlSV2kGR1joroAQho9xuhAgSvFsHT0Tgo3FNAx2LXuqwoN-XyRO8W7zIYFGw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-31T10:27:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mBaTfAA60JUux7SHUgRCEM5M9ektKg9uOjCC6KFjrQeoKvvEqhZieVOC83I6ULHWnVKA6hBBDR4XBhtmzHmSXZEVUayy79nfU77GAkvLW7oGNZszZj0AhXL3Nq5so7FexurRHym4HHmumRcu4yU8rp89HYUTSPvhKsoOuRyOUDn1xZhPqQzykz1o4mCOFkzypjtwwnz87ExxE_Z-mgJAwPpRTX_2WDyN5ePjKPfQ0t09mQYEE7crjhQzxC1RfwlSaS5EtejsPsI1sg9Enhdk8cruCfHq1TV6wZiT89MwDHuiJuTR7yUPOKvdtxWX3aD_DpTaCiyui9O9l0XfF09XXw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785485654
+  "last_updated": 1785495818
 }
