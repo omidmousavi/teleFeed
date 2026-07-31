@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه با هوش مصنوعی کد می‌زنی، هکرها یه روش موذیانه پیدا کردن که مستقیم روی کامپیوترت بدافزار نصب کنن\u003cbr/\u003e\u003cbr/\u003eبا اینکه مدل‌ها توی بیشتر زمینه‌ها دقیق‌تر شدن، هنوز خیلی وقت‌ها چیزهایی از خودشون درمیارن (همون چیزی که بهش می‌گن هذیان یا hallucination). این اتفاق اونقدر رایجه که محقق‌های امنیت سایبری هشدار دادن هکرها می‌تونن از جواب‌های خیالی AI سوءاستفاده کنن و بدافزار رو در اینترنت پخش کنن\u003cbr/\u003e\u003cbr/\u003eطبق گزارش SecurityWeek، این حمله از یه ضعف دستیارهای برنامه‌نویسی هوش مصنوعی استفاده می‌کنه وقتی هوش مصنوعی به برنامه‌نویس‌ها پیشنهاد استفاده از نرم‌افزار یا پکیج جانبی می‌دن، ممکنه اسم‌هایی پیشنهاد کنن که اصلاً وجود خارجی ندارن.\u003cbr/\u003e\u003cbr/\u003eاسم این حمله Adversarial Hallucination Squatting یا Hallusquatting گذاشته شده\u003cbr/\u003eهکرها اول اسم پکیج‌هایی رو پیدا می‌کنن که هوش مصنوعی معمولاً اشتباهی تولید می‌کنه؛ بعد همون اسم‌ها رو توی مخزن‌های واقعی ثبت می‌کنن و داخلشون کد مخرب می‌ذارن.\u003cbr/\u003e\u003cbr/\u003eحالا وقتی یک برنامه‌نویس از AI کمک می‌گیره و AI همون پکیج قلابی رو پیشنهاد می‌ده، ممکنه بدون بررسی اون پکیج رو نصب کنه و ناخواسته بدافزار رو وارد سیستم خودش کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IggS3IZajSVYV4g4p9u2SM4lN7RuFbdkgB_D5GlVZqNWN5i8qRIf2kBdFFcK4aTi5_-J72IH9LVq9eDWN9A9cxA1RCmtk1E_SkvHmgNVCrpzOOqE9H03F2QRnhYG1WugnlkqoowsxowMhwni6jZG-avs__Oez1yvlItDq1d8Cndkig12H_XOjp59F58VmX1Kvxi3aLNzWDJo16WGlL-DtZRmFxwwcgmbr8ur_losKED0LhKRDIYptgM3TSLAZZF8kPM14lLSWf4rGT4Cs77vZz9N67n6VfaWINc0Jk6oy3LHhovBl2dHMm2kHu4qfXYyy6a7U7W5q6ns2lvHrJWVTg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "عامل OpenAI فقط Hugging Face رو هک نکرده بود در واقع افسار پاره کرده بود\u003cbr/\u003e\u003cbr/\u003eیه عامل هوش مصنوعی از OpenAI که اول فکر می‌کردن فقط به Hugging Face نفوذ کرده، در واقع تونسته بود به چهار حساب دیگه توی سرویس‌های مختلف هم دسترسی پیدا کنه. ماجرا از جایی شروع شد که این مدل‌ها توی یه آزمایش امنیتی روی ExploitGym، با سوءاستفاده از یک باگ توی سرور Artifactory راهی به اینترنت پیدا کردن. بعد هم برای پیدا کردن جواب تست‌ها شروع کردند به جست‌وجو و ظاهراً فکر می‌کردند داده‌های این آزمون‌ها روی Hugging Face قرار داره. OpenAI بعداً اعلام کرد که این مدل‌ها اطلاعات ورود لو رفته‌ی چند حساب رو پیدا کرده بودن و شرکت Modal هم تأیید کرد که یکی از اپلیکیشن‌های مشتریانش توی این ماجرا هک شده.\u003cbr/\u003e\u003cbr/\u003eیاد اون فیلم سینمایی ها افتادم تفنگ می‌دن دست هوش مصنوعی همه آدمارو می‌کشه:)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T19:20:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دخترا یه هینتی بهتون بدم، اونقدر واسش پروفایل مروفایل عوض نکنید اون اوسگول اصلا برنامه تلگرام نصب نداره از طریق API توی ترمینال داره باهاتون چت می‌کنه و چیزی نمی‌بینه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-30T20:55:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "ایلان ماسک قراره توی سر پردازنده بزاره، همون لحظه من درحال بیلد گرفتن اندروید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-30T21:04:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +31,7 @@
       "date": "2026-07-31T06:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +50,7 @@
       "date": "2026-07-31T07:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 6840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +68,7 @@
       "date": "2026-07-31T09:24:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +90,7 @@
       "date": "2026-07-31T10:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +108,7 @@
       "date": "2026-07-31T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5010,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +126,7 @@
       "date": "2026-07-31T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +145,7 @@
       "date": "2026-07-31T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +163,7 @@
       "date": "2026-07-31T13:20:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4730,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +181,7 @@
       "date": "2026-07-31T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4160,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +199,7 @@
       "date": "2026-07-31T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +217,7 @@
       "date": "2026-07-31T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +229,7 @@
       "date": "2026-07-31T15:22:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3580,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +248,7 @@
       "date": "2026-07-31T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2280,
+      "views": 3500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +266,7 @@
       "date": "2026-07-31T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2070,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,12 +285,67 @@
       "date": "2026-07-31T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
+      "views": 3280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "کامپوننت‌های زیبای رابط کاربری که می‌تونی فقط با کپی و پیست ازشون استفاده کنی. ذخیرشون کن \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://canvasui.dev/\" target=\"_blank\" rel=\"noopener\"\u003ecanvasui.dev\u003c/a\u003e :\u003cbr/\u003e افکت‌های WebGL روی HTML زنده\u003cbr/\u003e\u003ca href=\"http://beam.jakubantalik.com/\" target=\"_blank\" rel=\"noopener\"\u003ebeam.jakubantalik.com\u003c/a\u003e :\u003cbr/\u003e افکت خط نورانی متحرک دور حاشیه‌ها\u003cbr/\u003e\u003ca href=\"http://originkit.dev/\" target=\"_blank\" rel=\"noopener\"\u003eoriginkit.dev\u003c/a\u003e :\u003cbr/\u003eکتابخانه رایگان کامپوننت‌های متحرک\u003cbr/\u003e\u003ca href=\"http://aicss.dev/\" target=\"_blank\" rel=\"noopener\"\u003eaicss.dev\u003c/a\u003e :\u003cbr/\u003e کامپوننت‌های رابط کاربری برای چت‌های مبتنی بر هوش مصنوعی\u003cbr/\u003e\u003ca href=\"http://transitions.dev/\" target=\"_blank\" rel=\"noopener\"\u003etransitions.dev\u003c/a\u003e :\u003cbr/\u003e ترنزیشن‌های ضروری برای اپلیکیشن‌های وب\u003cbr/\u003e\u003ca href=\"http://metal.jakubantalik.com/\" target=\"_blank\" rel=\"noopener\"\u003emetal.jakubantalik.com\u003c/a\u003e :\u003cbr/\u003e افکت فلز مایع برای دکمه‌ها\u003cbr/\u003e\u003ca href=\"http://beautiful-ui-five.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003ebeautiful-ui-five.vercel.app\u003c/a\u003e :\u003cbr/\u003e المان‌های پایه (Primitive) طراحی‌شده برای رابط‌های هوش مصنوعی\u003cbr/\u003e\u003ca href=\"http://agentation.com/\" target=\"_blank\" rel=\"noopener\"\u003eagentation.com\u003c/a\u003e :\u003cbr/\u003e علامت‌گذاری روی رابط کاربری و توضیح دادن نیازها به ایجنت کدنویسی\u003cbr/\u003e\u003ca href=\"http://orbs.jakubantalik.com/\" target=\"_blank\" rel=\"noopener\"\u003eorbs.jakubantalik.com\u003c/a\u003e :\u003cbr/\u003e گوی‌های متحرکِ Thinking برای رابط‌های کاربری هوش مصنوعی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-31T17:20:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Ggg39zJGGjM_eINuZ-oYladX8CyT-8mqDWP3kVyei4wQ2r4TdVpqQ12s1J9cDpaNIk2NZIH20bx8P2Yi6v9lwMHANyp4HYoSMzw3Se6sLqCxyT2hi6LJgo3-zrClfe_xsna1b3ASkLsKAo7JfowjGf1YRXUTII8Zw-v0YWkpYZcHy1uUEilenwgecbuwWW4doTRga7XAXH6NFmt3yyNiv7gNKfBBbWt92NoSDZn2qnAVXqXMaHRFRZbPBOvJlTNTiTyc7NkEE_Cgy21pAsF4uIf6L9fR3jtXEiFeMf1qcABqpVpb1wfmDsB5QNKw_edT-xREpdfaYDAb0XG50yJpXQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e آفر ویژه اکمارس | اکانت‌های اختصاصی هوش مصنوعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e Gemini Pro | اشتراک اختصاصی ۱۸ ماهه\u003cbr/\u003e\u003cb\u003eفقط ۵۵۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e فعال روی جیمیل شخصی شما (Owner Family)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کاملاً اختصاصی و غیر اشتراکی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e فعال‌سازی تنها با لینک (بدون نیاز به رمز عبور)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۱ ماه گارانتی تعویض و پشتیبانی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تحویل سریع پس از ثبت سفارش\u003cbr/\u003eامکانات ویژه:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e جدیدترین مدل‌های \u003cb\u003eGemini 2.5 Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eNano Banana\u003c/b\u003e برای تولید و ویرایش تصویر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e \u003cb\u003eVeo\u003c/b\u003e برای ساخت ویدیو با AI\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e \u003cb\u003eLyria\u003c/b\u003e برای تولید موسیقی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eGoogle One | 5TB\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003cb\u003eNotebookLM Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e \u003cb\u003eWorkspace AI Premium\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e مناسب برنامه‌نویس‌ها، دانشجوها، تولیدکنندگان محتوا و کاربران حرفه‌ای AI\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ChatGPT Plus اختصاصی + Codex\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e تخفیف ویژه\u003cbr/\u003e\u003cs\u003e۳,۸۰۰,۰۰۰ تومان\u003c/s\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e فقط ۱,۵۰۰,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اکانت اختصاصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دسترسی کامل به GPT-5 و Codex\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e گارانتی ۳۰ روزه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تحویل سریع\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e Cursor Pro | اشتراک اختصاصی ۱ ماهه\u003cbr/\u003e\u003cs\u003e۴,۴۰۰,۰۰۰ تومان\u003c/s\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e فقط ۳,۰۸۰,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اکانت اختصاصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مناسب برنامه‌نویسان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دسترسی کامل به امکانات Pro\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e گارانتی و پشتیبانی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://Www.accmars.com/\" target=\"_blank\" rel=\"noopener\"\u003eWww.accmars.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Accmars\" target=\"_blank\"\u003e@Accmars\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Accmars_Support\" target=\"_blank\"\u003e@Accmars_Support\u003c/a\u003e",
+      "date": "2026-07-31T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 975,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YS9m5bX9mt5dRXNmrBBwlzJteMaZPNQNjahzSHhS4BhK0JJ4dXac5hZN59DZejsN9bZpsDu3JeesGlVr5V5020copYhvZibuV1dPxn-L0PR84VMLhaBKZgDTD59juu_PT0kq83w_xZX7NBrTFlCky56e40oE-L7Lic95JXCvooeOr_ZdlxLeQmvTKZn2Nya7PzN7q63SyfPaMxg7Pe_GqwLX7AYuNEV7RIA6YS_Yx1eYro-eBswpQmYhyBxrbka_5G3tFFPBwWHII-omE9_60vbmElX04_nlka3sS3PaVyYM_ZeQCYr2uaR_HvON2gJU8K3pmljKAzGohFCe2PVb9Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این پروژه یه ابزار متن‌بازه که از روی یه عکس، به‌جای تولید یک فایل سه‌بعدی (مثل GLB یا OBJ)، کد Three.js تولید می‌کنه. ایده‌ی اصلیش اینه که مدل سه‌بعدی به‌صورت برنامه‌نویسی‌شده ساخته بشه نه به‌صورت یه مش (Mesh) آماده.\u003cbr/\u003e\u003cbr/\u003eاین برای بازی های وبی که می‌سازید (خودتون یا با هوش مصنوعی) به خصوص پروژه‌های WebGL  خیلی مناسبه و قابل شخصی‌سازیه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://img2threejs.github.io/img2threejs-showcase\" target=\"_blank\" rel=\"noopener\"\u003eimg2threejs.github.io/img2threejs-showcase\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-07-31T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 544,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YG_49GmEI8wnDPJHUMVqwueuZxxwqgrCHALiaTVvFAqYawRr-jdRX9MhEoTbEAKNoD8dufSwhsaarVG7DIir4FvbhZc9v7TBpRW41JDtj2alnU3ZnIishOLQzmDdmNudlbz6qw1uPReaP5cWN7y6JB4KscxxOUEsPeZZf5vG5lSg-R2AwPhuNo3MzahAxEOF2bdsSbJgWaopCWHtUGwScbssWLMWLaEyUiGNB9x0Y4wE3RwRQqTf6GFJ2xt-fZVTRyPelKXSmyULUxEb5riEdsqqMrYvg8Aj5GINWSiZpVagGyFY8n06mfDAZJbf2VPnHtiAukbolq_aOnWvXpr1Rg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785518342
+  "last_updated": 1785523794
 }
