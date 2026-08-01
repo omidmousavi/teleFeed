@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این پروژه یه ابزار متن‌بازه که از روی یه عکس، به‌جای تولید فایل سه‌بعدی (مثل GLB یا OBJ)، کد Three.js تولید می‌کنه. ایده‌ی اصلیش اینه که مدل سه‌بعدی به‌صورت برنامه‌نویسی‌شده ساخته بشه نه به‌صورت یه مش (Mesh) آماده.\u003cbr/\u003e\u003cbr/\u003eاین برای بازی های وبی که می‌سازید (خودتون یا با هوش مصنوعی) به خصوص پروژه‌های WebGL  خیلی مناسبه و قابل شخصی‌سازیه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://img2threejs.github.io/img2threejs-showcase\" target=\"_blank\" rel=\"noopener\"\u003eimg2threejs.github.io/img2threejs-showcase\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-31T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YG_49GmEI8wnDPJHUMVqwueuZxxwqgrCHALiaTVvFAqYawRr-jdRX9MhEoTbEAKNoD8dufSwhsaarVG7DIir4FvbhZc9v7TBpRW41JDtj2alnU3ZnIishOLQzmDdmNudlbz6qw1uPReaP5cWN7y6JB4KscxxOUEsPeZZf5vG5lSg-R2AwPhuNo3MzahAxEOF2bdsSbJgWaopCWHtUGwScbssWLMWLaEyUiGNB9x0Y4wE3RwRQqTf6GFJ2xt-fZVTRyPelKXSmyULUxEb5riEdsqqMrYvg8Aj5GINWSiZpVagGyFY8n06mfDAZJbf2VPnHtiAukbolq_aOnWvXpr1Rg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دیزنی که یکی از بزرگ‌ترین شرکت‌های سرگرمی دنیاست و صدها تیم مهندسی پشت سرویس‌هایی مثل Disney+، Hulu، ESPN و کلی محصول دیگه داره، تو آمریکا Copilot مایکروسافت رو کنار گذاشته و به‌جاش Codex اوپن‌ای‌آی، Claude و Cursor رو انتخاب کرده. از دست دادن همچین مشتری بزرگی برای مایکروسافت اتفاق کوچیکی نیست؛ شاید هنوز نتونیم اسمش رو شکست بذاریم، ولی قطعاً یه زنگ خطر جدیه که نشون می‌ده رقابت ابزارهای کدنویسی هوش مصنوعی از همیشه داغ‌تر شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-31T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "اینو ببینیو به نسخه از کالاف رو با کلاد ساختن اسمشو گذاشتن Claude of Duty\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/mshumer/Claude-of-Duty\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mshumer/Claude-of-Duty\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-31T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8070,
+      "views": 8170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-07-31T21:48:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-08-01T07:36:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +55,7 @@
       "date": "2026-08-01T08:16:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +73,7 @@
       "date": "2026-08-01T09:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +92,7 @@
       "date": "2026-08-01T10:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +110,7 @@
       "date": "2026-08-01T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +128,7 @@
       "date": "2026-08-01T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +147,7 @@
       "date": "2026-08-01T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +159,7 @@
       "date": "2026-08-01T13:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +178,7 @@
       "date": "2026-08-01T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +196,7 @@
       "date": "2026-08-01T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +215,7 @@
       "date": "2026-08-01T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +233,7 @@
       "date": "2026-08-01T15:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4360,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +252,7 @@
       "date": "2026-08-01T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
+      "views": 3880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +270,7 @@
       "date": "2026-08-01T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 3920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +288,7 @@
       "date": "2026-08-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2810,
+      "views": 3980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +307,7 @@
       "date": "2026-08-01T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 3290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +318,44 @@
           "url": "https://cdn4.telesco.pe/file/frAimVY_rEFUNG0OdXV-tekUpZmqqCjgwSrlhDcRcgGAxC8lmJt5npfnFmXGyUUIqLuRnX267ONEmLgQy7gB9zk8osrGhFw15DtSHyRX1scDZoeC98Lxu7MNk5JZJDiVfWlRpBNXTropkUqK1teZCVNLHx64YNqIA78F28MOQL7wD_CyAX08lgyIkfsjnOQSKJkNhzqJOKdHxp1eQYq5ak3OlnXQBydjD9YQopi_BW6tOP2zLpFX0x0pH_lkR7_zYRgnNtBLj5evMnm6wXkZ7OfyOeejXKpk6MQjIPqCxIaPRg9ApQdtt44hzghLm5rOsQUrIUIkQ8E21zECdH1DAw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e پایتون می‌تونه آچار فرانسه رزومه‌ت باشه!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e \u003cb\u003e«مینی‌کمپ پایتون آلفا کوئرا»\u003c/b\u003e یه مسیر منظم برای \u003cb\u003eشروع برنامه‌نویسی از صفره\u003c/b\u003e؛ از یادگیری پایتون و حل تمرین‌های هدفمند تا بازخورد منتور و ساخت پروژه تیمی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e در پایان، یه \u003cb\u003eنمونه‌کار قابل ارائه برای رزومه و مصاحبه‌های شغلی\u003c/b\u003e داری و می‌تونی برای \u003cb\u003eورود به بازار کار\u003c/b\u003e و \u003cb\u003eرسیدن به درآمد\u003c/b\u003e، مسیرت رو در حوزه‌هایی مثل \u003cb\u003eهوش مصنوعی، تحلیل داده، بک‌اند و اتوماسیون\u003c/b\u003e ادامه بدی.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e امکان پرداخت در اقساط بلندمدت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e ثبت‌نام اولیه مینی‌کمپ پایتون آلفا:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://quera.org/r/agmmd\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://quera.org/r/agmmd\u003c/a\u003e",
+      "date": "2026-08-01T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OujQRN-JfZhNxpHJGGVSAvvlfZafrIpSej6adkceK582FZiKYUn8FLrfukN-kKAY1bru92SUQAp6UR1Fj5ps9H5WtTCpT7zRGjdM1m9EX8JSMCXj9v46o5df3QJ-l6txHpU2vk9BUtJuU-YbwIW58o1nnQzgEa5aHPK-mDNCrVX3XE4NdpPWwhvz9ezec8aqYxAg-NRVrqayw3oA7iseStbUAb_r4yrfkkys1YqhmwqtJoejMzw7kzbnkOLb4rrMWYN1JGdi7cGZZ__CeOwivvApAIOhGMDiw6vPkqMd4L6n70z69gtsAK0-4bhyOoTW7MH1bRx68AtOpinGbijsjw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اقا این نوع loading که اختصاصا توی Google Play هم استفاده شده (و بهش هم اون موقع تو کانال می‌خندیدم) جدیدا مد شده و اومدن کدش رو نوشتن :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://ksokolovskyi.github.io/material_wavy_progress_indicator\" target=\"_blank\" rel=\"noopener\"\u003eksokolovskyi.github.io/material_wavy_progress_indicator\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003ca href=\"http://github.com/ksokolovskyi/material_wavy_progress_indicator\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ksokolovskyi/material_wavy_progress_indicator\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-01T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LuzggRBYXh2dQgfu6EOFG5mB1TOOqs-gvkiPf1xrIDnTYClirsiraihnuF4GLEcMlP-K9t2BWeNEiC9cMGchd_jfMT_ZwmZAniNm7Ekbadt7n9faJ64PzvYylTZnKMnGNgVpXFcruCNqBiFzVy_RVTBdIRRQHcw2ZJHzGEXD77sLZ-pKBQBUIpVwJTZUANZR7JYWkaGHvCWoCJWL0x93UT6QS0vCpa_Rf99TCX5AbdeZTE44FWhWwIV_-5mpIQtpW3UISG7q7zGwChgwxWkdZ3ZY5iVlhTwFOsz9R8YgYYRHZW_02kQj7H9XyqvyfOtPnZR2OTBBDlcquN73BsHr6A",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1785606752
+  "last_updated": 1785610448
 }
