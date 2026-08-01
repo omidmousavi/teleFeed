@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینجا هم ‌یه سری کامپوننت های وبی زیبا می‌تونید پیدا کنید اوپن سورس و رایگان:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://appica.dev/ui\" target=\"_blank\" rel=\"noopener\"\u003eappica.dev/ui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-31T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iBIMpCkfvduvfJuqoCXLtwnSRjWfxKJFF9Iq-rM1gTUqtyTDPJeBUIm4Q8foavndK42YD50QVL-G9jrd69iw6rtRJmQOrrzB9LLAOXGYjiIBetyMOxRjmG2oP-rpisDZhSJiBcb0CvZjpAdf-um3RTEAiT1dCJ1Av-A3UPyRuBknnZYPZtpHfFY0WVK1hxEzlX5HEB0rPMW1_0YPOk1QgcEw01GactSYgNZN7oUK92tZpW68J87qtsgQK7VkquJ3VB7DQlFZr8In8lOkFYQMXKN8YhE7tW4XWq4eawm5VwbyXCVa31q45YlUIWrgKZH8oouhIk8frZ3bGNPUB0GsxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه جوک UDP بگم؟\u003cbr/\u003e\u003cbr/\u003eنمی‌گم چون ممکنه نگیرینش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-31T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "چین جدیدا یه عامل هوش مصنوعی (AI Agent) متن‌باز و رایگان منتشر کرده که می‌تونه تحقیق انجام بده کدنویسی کنه ارائه (Presentation) بسازد و کارهای مختلف رو به‌صورت خودکار انجام بده.\u003cbr/\u003e\u003cbr/\u003eاین پروژه اسمش DeerFlow از شرکت ByteDance (شرکت مادر TikTok) هستش. این پروژه یه مدل زبانی (LLM) نیست؛ بلکه یه چارچوب (Framework) برای ساخت AI Agentهای پیشرفته هستش و ویژگی های زیرو داره :\u003cbr/\u003e\u003cbr/\u003eانجام تحقیقات عمیق روی وب و جمع‌آوری منابع\u003cbr/\u003eنوشتن و اجرای کد\u003cbr/\u003eتولید گزارش، اسلاید و فایل‌های مختلف\u003cbr/\u003eاستفاده از چندین Agent به‌صورت همزمان (Multi-Agent)\u003cbr/\u003eحافظه بلندمدت برای نگهداری اطلاعات پروژه\u003cbr/\u003eدسترسی به فایل‌ها و اجرای دستورات داخل یک محیط ایزوله (Docker Sandbox)\u003cbr/\u003eپشتیبانی از ابزارها، MCP Server و Skillهای قابل توسعه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/bytedance/deer-flow\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/bytedance/deer-flow\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-07-31T15:22:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hw04UaL-HNyStsruP1A-7SQSbY48SzuIEhYMO6Gw4g8hUG96uN2wxiPeQIl_9BKVz15IiH_3Z2ON9l1sTAdakTNPai95XY63EA89kbT9bdF8Akr8LiCrVrCsy8JGn4I-I_490VVwbxVZyBG6bzCBOgKFwBVB9dfXOb0ioHPF0UsYjoflPwsoVpM8IkXyYf0BWinzn6obSIsHiMkwbS3T1eUiRMup1b3i5a9Qu_czV_ADN9UCZQ3a51YcNn6FHXrgpZVCO88beACnMN6i3Ai3P7DGbNiTZNtj3JyyZv2Y9ROXMlVHAan-r70prFEJ5iio__pAIzMd2i2n6OHzrwMRUg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5276424673834317384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنامحدود | حجمی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352792306208480366\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e هلند، آلمان، ترکیه، آمریکا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465169030291673198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پایداری بالا\u003c/b\u003e      \u003ctg-emoji emoji-id=\"5217757821457684103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eضمانت بازگشت وجه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن حجمی از \u003cb\u003e۲۹ هزار\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن نامحدود از\u003cb\u003e ۱۵۹ هزار\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5228703768949827057\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با استارت ربات، ۱۰,۰۰۰ تومان هدیه دریافت کنید!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859297284029681680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید و تست\u003c/b\u003e:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5276040424585185834\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Mastvpnbot\" target=\"_blank\"\u003e@Mastvpnbot\u003c/a\u003e",
-      "date": "2026-07-31T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fDVSv4s5jJHSX0U1TA3OygrDtNsUjNCfCuYzflEi3LIS7Yc2mun_Lu3WwzR4k12tyAk4GstHETApT5PhMI5B2E_UUeiBDGZG8zO4G-ki_U11RfRExLAjHWxkPrSkFz1LPVL1IF1MT1s9_5-3Qoxmf34XJ_4uLt4zlVsTMvErIPrbix-RYROa6w66N51mQGN-m6UccVUQFCMbCwVuz0-79VCMECs_QqcSVDQ23txpzjDYkHEgtpQ60lursseYfKsDF2yw1Z-RvLq4bmWOZaZ2HYXQJwlIm0cgYrkm5xG830rNlOBD6CPXJIxlFoFT1OL87wQiHcPerpsnECs4pmHrhg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "رقابت توی هوش مصنوعی اونقدری فشرده شده که شب می‌خوابی و بیدار می‌شی و میبینی یه مدل جدید به اسم MiniMax ظاهر می‌شه و می‌ره رتبه اول\u003cbr/\u003e\u003cbr/\u003eمدل MiniMax H3 جدیدترین مدل تولید ویدیو از MiniMax و جانشین خانواده Hailuo است.\u003cbr/\u003eدر رتبه‌بندی Artificial Analysis:\u003cbr/\u003eرتبه 1 در Video Editing\u003cbr/\u003eرتبه 2 در Text-to-Video\u003cbr/\u003eرتبه 3 در Image-to-Video\u003cbr/\u003e\u003cbr/\u003eقیمت نسخه 2K برابر 7.80 دلار در دقیقه است؛ ارزان‌تر از مدل‌هایی مثل Kling 3.0 و Dreamina Seedance 2.0، اما گران‌تر از Gemini Omni Flash. که 6 دلار در دقیقه هستن.\u003cbr/\u003e\u003cbr/\u003eشرکت MiniMax اعلام کرده قصد داره وزن‌های مدل رو تحت MiniMax Community License منتشر کنه، اگه این اتفاق بیفته H3 احتمالاً قوی‌ترین مدل Open Weights توی حوزه تولید و ویرایش ویدیو خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-07-31T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6250,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +31,7 @@
       "date": "2026-07-31T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +43,7 @@
       "date": "2026-07-31T17:20:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +62,7 @@
       "date": "2026-07-31T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +80,7 @@
       "date": "2026-07-31T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 6960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +98,7 @@
       "date": "2026-07-31T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +110,7 @@
       "date": "2026-07-31T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +129,7 @@
       "date": "2026-07-31T21:48:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +141,7 @@
       "date": "2026-08-01T07:36:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +153,7 @@
       "date": "2026-08-01T08:16:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5690,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +171,7 @@
       "date": "2026-08-01T09:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5350,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +190,7 @@
       "date": "2026-08-01T10:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4800,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +208,7 @@
       "date": "2026-08-01T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3510,
+      "views": 4460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +226,7 @@
       "date": "2026-08-01T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3430,
+      "views": 4440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +245,7 @@
       "date": "2026-08-01T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
+      "views": 4490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +257,7 @@
       "date": "2026-08-01T13:15:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2390,
+      "views": 3930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +269,81 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e اولین وب‌سایتت را فقط در 4 هفته بساز.\u003cbr/\u003e\u003cbr/\u003eاگر همیشه دوست داشتی برنامه‌نویسی را یاد بگیری، وقتش رسیده به جای دیدن آموزش‌های پراکنده، اولین پروژه واقعی‌ات را بسازی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e رایگان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کلاس زنده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پروژه واقعی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e ظرفیت این دوره محدود است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e ثبت‌نام:\u003cbr/\u003e\u003ca href=\"https://codypy.ir/c/7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://codypy.ir/c/7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال اطلاع‌رسانی:\u003cbr/\u003e\u003ca href=\"https://t.me/+ZSQKRWlsR2piNTFk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+ZSQKRWlsR2piNTFk\u003c/a\u003e",
+      "date": "2026-08-01T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Mgd4XqTUUutBY6kUSSQ2xZ-4H7WXETEiRGAxlgMA57aqz4OpKsi4FUIWcp8yv5CZoTnCBhbXpkbzsVDV2EiHC9eABkNLGQt7VpLjf4kkny1YJ-LyvYj-8VxGIlP6ZVBnB293xSAUh_x7IzFxqPe9I9wOOnCmIjB1Il_PWUebRtnTclGhGHtTZJFAl6w2RopRVieQ_CTZ403Wv-atozQtNSNGODUbXXVUXvrZ7DouX0jbWH4kqbzFf0yTIMAZ4xiJwgzPH3nrM-_u4Qt_2GdiIzEWtt0sOSJzUcJlq9KI4O4UhYhOV3IQ9GvZKMhXpeG7L_gy7Xe-22dXe2fZu6TwZQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه چیزی پیدا کردم شاید اولش بگید این چه چرتوپرتیه دیگه! \u003cbr/\u003e\u003cbr/\u003eاگر ادرس ریپو گیتهاب یه پروژه رو داشته باشید می‌تونید با این مهندسی معکوسش کنید و یه کپی ازش بسازید کافیه مثل ویدیو ادرس ریپو رو تغییر بدید به این سایت:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gitreverse.com/\" target=\"_blank\" rel=\"noopener\"\u003egitreverse.com\u003c/a\u003e\u003cbr/\u003eبعد پرامپت رو بدید به هوش مصنوعی.\u003cbr/\u003e\u003cbr/\u003eشاید سوال باشه این چه کار احمقانه ایه پروژه اوپن سورس کدش معلومه دیگه اگه بخوایم استفاده کنیم از همون خودش استفاده می‌کنیم چرا یه فیکش رو بسازیم و بعد از فیکش استفاده کنیم؟ جواب این سوال رو دقیق نمی‌دونم ولی مزیت این سایت اینه کل ریپو رو تبدیل به یه خلاصه و پرامپت ساده می‌کنه و میشه روش کلی مانور داد.\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-01T14:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VCPw3RJHcBbosjxGOXSpO4e-jZ4tGwkR6qsXOEzMOYddwe0f72mkXwvLGtFr7sMKdZCKQg93Zf6TeaZws3h52E0drlEYMpWU87TnUiulQ05VWtyqNp2OnimrLSKGUzQuCqVOJm8lgbdq_pk51uketTQnZPf54Zw_7YrYbLph6NpkNK8LaJfICGgp444r0k6H29HN_WfRUnBw7Xia08BA0Jtg1hpgQaUB4EiGS7sFNLNutOVKP6JA7f3hRg0XepPo1HNpzualj6yiPfa4koAZuFlwvfgf2M9c2Fh2ZBztm6OpwtKQaGrDkLl_IpiX8ra_Ckp6MqIRR545w5Ym4bawfQ",
+          "width": 1152
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اقا عجب اکستنشنی براتون پیدا کردم 30 هزار نصب 5 ستاره\u003cbr/\u003e\u003cbr/\u003eکاربردش هم اینه استایل هر سایتی رو تبدیل به متن یا SKILL یا پرامپت دیزاین می‌کنه می‌تونید بدینش به هوش مصنوعی دقیقا براتون شبیهش رو بسازه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003echromewebstore.google.com/... \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-01T14:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mlSsNU9nBh2z14D1Y1T1esy8pjQfHLg3XJCX19rVvP1VqiQQQxn04IxcSMQiM4EyAu0Nejlh9BS-UV7_wTccb-5p_ovsyvSYAMStX1FMTbiE6AMqKmxQw6uDrNu1aEkhuwh4n3scOivYbou30cmNbo6o_gXX7XcZcZOwBU-zqBzlHRgH4657yT9BAy8JkZzg6ULTFfI2IzsGcNOLG172drsQeK9gb7ls0qhvjn2jK25J2t8Ku81_bxPIJ9L4WLOZ9gOi4L9kwwNaJacSvz6Efqt73L5vnnvhL_sVm7Yy52M3fnsSJNaGd4JAGc-y4tCBKaDOdLFqzVWrchewkneNnw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکی یه بازی موتور سواری روی چارت سهام شرکت ها و بیت کوین ساخته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://stonkrider.org/\" target=\"_blank\" rel=\"noopener\"\u003estonkrider.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-01T15:15:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/cKHIud86LxxGueyIqfnUUeo_Fw4TGUWz3urxoa6rIjB9uwhh8JkMgZGbFn32exmMD_R9u578hWxxBJKohd8-otND3SVFMkhMaMeFV_9wOf-SoY0IZiJKR_lRkHzct2EaQnZcVbLAKho6cKsbaJF-ilnqcPeinYr8zqRusWsNeoibaZ1i2RjuLq6ya4QOhy55zULUJNRMelvnqhlX1p_ijb-uYHyQ-Z8JRVo76fUPcvGcMwonVB6S_CGwj0ENAo2aYhvpP_1-1Rv51ZbqUuWY2hXlSNnPD911p7Wn_cy7ZMi4A7_LWBpSL3kQlNE9iprwoK8mb_-kSF5hwKzh7YxL_g",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1785594153
+  "last_updated": 1785598457
 }
