@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینم یه ترفند جالب گیتهابی، کافیه explain رو به اول ریپو اضافه کنی و هوش مصنوعی ریپو رو توضیح می‌ده.\u003cbr/\u003e\u003cbr/\u003e(اونی که دیروز معرفی کردم فقط برای مهندسی معکوس بود این خودش هوش مصنوعیه و توضیح می‌ده البته اولین بار باید لاگین کنید)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T07:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Zd6Eq9Dvy6ZDzXtXNwP5DpGkmE4OvY9q6gRoMf2jrIuOH2DtH6zHOjW0jBv_gBnXBDL78DZT-yZbu8yQwYM7eqM8IosEiIfsxucic9viETPOHhKZVdwdF97nae7Wqw2XRQKoPKKk18K99_B8zjdVePL-xr2YIkBBrcXzTgtOUDL72lbMvFGThbhSdlMK0SX0jZturWFB5BhRrRdkA4DENmZPGNy_DwoUd_NAAXTAWGyx_a1xKE65jmAV3DBHMDBi7S_JGRSK0MC0KXYrqVwoEKcSWs-dpgb-X7g_6aO-_uCiklw8y9YpubtguikWjCdRbwJhEiYNwMRwiYqVWxCUyQ",
-          "width": 2636
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌خوای مدل رایگان Gemma گوگل رو روی مک، با فقط چند گیگابایت RAM اجرا کنی؟\u003cbr/\u003e\u003cbr/\u003eاین پروژه رو از دست نده Turbo Fieldfare یک موتور اجرای LLM برای Apple Silicon هستش که با تکنیک‌های فشرده‌سازی، اجرای مدل‌های بزرگ رو با مصرف حافظه بسیار کمتر ممکن می‌کنه.\u003cbr/\u003e\u003cbr/\u003eقابلیت‌هاش:\u003cbr/\u003eاجرای مدل‌های Gemma روی Apple Silicon\u003cbr/\u003eکاهش چشمگیر مصرف RAM\u003cbr/\u003eاستفاده از GPU اپل (Metal) برای افزایش سرعتش\u003cbr/\u003eاجرای مدل‌های بزرگ روی مک‌های معمولی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/drumih/turbo-fieldfare\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/drumih/turbo-fieldfare\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ pedrambirack",
-      "date": "2026-08-02T07:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qw1MxTBmAshpc4kSQsvqDqjxTdcq_Ue4re-T-1xmEekkgXUmQD8dQaXkm9I2B4j9C-brWjm5JmxF-r-iFqY_xF5sfTEJnVsPP0Y1pFozsu3AY9TUkB9kDZpxU8bH4Dxw27KTsufda_MHo9PmLVmFOdqvfv6nCHGwzJBqtqd91qZpyPq9X0T_XQXdAACknfZN9793w1-J16li8enIC5GK4NzJupXesLBphDHXjVPSeqAMTy68igy3h0_803_KbH_5rjkb6MWR2UjSNOIGag-7R9swwkVNt4_UMCHKeeE7De68cXkgWK6BXWGe57qrtcLbNnU0REl0PrJVKKU5Qu64cQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه نفر یک ابزار متن‌باز ساخته به اسم AirLLM که باهاش می‌تونی یه مدل 2.8 تریلیون پارامتری رو با یه GPU فقط 4GB VRAMروی لپ تاپت اجرا کنی! از روشی به اسم Layer-wise Inference استفاده می‌کنه؛ یعنی به‌جای اینکه کل مدل رو یکجا داخل VRAM بریزه، فقط همون لایه‌ای که همون لحظه لازمه رو بارگذاری می‌کنه.\u003cbr/\u003e\u003cbr/\u003eنه Quantization  نه Distillation نه Pruning\u003cbr/\u003eنمونه‌ها:\u003cbr/\u003eمدل DeepSeek-V3 (671B) روی 12GB\u003cbr/\u003eمدل  Llama 3.1 405B روی 8GB\u003cbr/\u003eمدل Kimi K3 (2.8T) با کمتر از 4GB\u003cbr/\u003eو با تقریباً همه مدل‌های متن‌باز هم کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه بزرگ‌ترین مدل، کمترین VRAM رو لازم داره. دلیلش اینه که Kimi K3 یه مدل Sparse MoE هست و برای هر توکن فقط Expertهای موردنیازش رو اجرا می‌کنه، نه کل لایه. یعنی یه مدل 2.8 تریلیون پارامتری می‌تونه با VRAM کمتر از بعضی مدل‌های 70B اجرا بشه. البته این به معنی سریع‌تر بودن نیست؛ فقط یعنی محدودیت حافظه دیگه اون مانع نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/lyogavin/airllm\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/lyogavin/airllm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-02T08:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7640,
+      "views": 7800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +30,7 @@
       "date": "2026-08-02T09:10:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +49,7 @@
       "date": "2026-08-02T10:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +67,7 @@
       "date": "2026-08-02T11:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +86,7 @@
       "date": "2026-08-02T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +98,7 @@
       "date": "2026-08-02T12:45:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5420,
+      "views": 5730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +117,7 @@
       "date": "2026-08-02T13:03:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +136,7 @@
       "date": "2026-08-02T13:20:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +155,7 @@
       "date": "2026-08-02T14:34:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4460,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +173,7 @@
       "date": "2026-08-02T14:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +191,7 @@
       "date": "2026-08-02T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4300,
+      "views": 4710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +209,7 @@
       "date": "2026-08-02T15:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +228,7 @@
       "date": "2026-08-02T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3840,
+      "views": 4470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +246,7 @@
       "date": "2026-08-02T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3860,
+      "views": 4500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +265,7 @@
       "date": "2026-08-02T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3880,
+      "views": 4610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +283,7 @@
       "date": "2026-08-02T17:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3840,
+      "views": 4970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +301,7 @@
       "date": "2026-08-02T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
+      "views": 3710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +313,7 @@
       "date": "2026-08-02T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 3490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -361,7 +324,43 @@
           "url": "https://cdn4.telesco.pe/file/VBDSHfjp_Z_Q9uF_Ug7G7Pij34LBG174WQt2E0PcZbREdb0VSSkajsw7aq_yYF6hVllm3HbSnhVnF1Dx0ZnR6B45DrFQ7IXNe5hg8qtLojscYZnxsicN3FFz_SCWQdEU451FfByJaNMhUv0nf-FjjFxp1JngdQW0znkYm8Qg7S5Zme9QL-z7HQhsn0oMXKFl2m00_NpOz26VCEsEFMULbK0aWEPzrBOyD2t1lJYzvFATSsu0h3dBJGDi9mm4tS_Qg5njphgFr2WWOZrEkx-uGA69_j2t9QTeB_VfhRwfgrPWhXeI7GIOmfR4LJNQNvvuJZ3_axp3rQ5jjwD8e0gkHA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "گوگل با کمک هوش مصنوعی داره پیدا کردن و درست کردن باگ‌های امنیتی کروم رو سریع‌تر می‌کنه. این ابزارهای هوشمند می‌تونن کدهای کروم رو بررسی کنن، مشکل‌های امنیتی مخفی رو پیدا کنن و حتی برای برطرف کردنشون راهکار بدن. هدف اینه که فاصله بین پیدا شدن یه مشکل و منتشر شدن آپدیت امنیتی کمتر بشه.\u003cbr/\u003e\u003cbr/\u003eاین استفاده از هوش مصنوعی باعث شده گوگل بتونه تعداد زیادی از حفره‌های امنیتی کروم رو قبل از تبدیل شدن به تهدیدهای جدی شناسایی و رفع کنه. فقط در یک ماه، 370 آسیب‌پذیری از جمله 7 مورد حیاتی برطرف شده و این روند باعث شده تعداد اصلاحات امنیتی گوگل از مجموع چندین به‌روزرسانی قبلی هم بیشتر بشه.\u003cbr/\u003e\u003cbr/\u003eاین کار نشون می‌ده آینده امنیت نرم‌افزار بیشتر به همکاری آدم‌ها و هوش مصنوعی وابسته است. البته گوگل هنوز تأکید می‌کنه که بررسی انسانی لازمه تا مطمئن بشن این تغییرات درست کار می‌کنن و مشکل جدیدی ایجاد نمی‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-02T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZZAESKuSpBn0I0FrGCremffpD3OKxsJ1H_4wJRpsRxkd4JPX2Q6AHcFPIcW7VmPhDBKmSjn-4qOolbNhqcCm6CxUdQqfEYxLgT0lT4gRMFpW9OF0_O2NvKtxBQOng72e0pQ-ZdlS-XCCIF83FKQdUDl-I4NaKYO9gNb1yXqPjGxX8AqPO7Pifs3Ow1E1j_NusntvkwsO1p3HAyJSVYTqV1E-GmGOs5HRXEvvTfp3O3GwHZkl-5-TDA56heINK8nO4vf8zTgcnzzWC4-YmwzzT6N30K1KDcQkhD8UPSC0F2sYhsukN9WG6pcp5lsiVJrnPJGpqGjj13NpUic9ttAUjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه خبر خوب و یه خبر بد\u003cbr/\u003e\u003cbr/\u003eگوگل اندروید نه چندان خیلی آزاد رو داره تبدیل می‌کنه به IOSی که نمی‌شه از هرجایی چیزی روش نصب کرد! برای مقابله با بدافزارها و اپلیکیشن‌های کلاهبرداری، سیستم جدیدی معرفی کرده که در اون توسعه‌دهندگان باید\u003cbr/\u003eهویت واقعی خودشونو تأیید کنن.\u003cbr/\u003eاپلیکیشن‌های خودشونو پیش گوگل گوگل ثبت کنن.\u003cbr/\u003eدر صورت انتشار خارج از گوگل‌پلی نیز اطلاعات برنامه رو توی Android Developer Console ثبت کنن.\u003cbr/\u003e\u003cbr/\u003eاین خبر جالبی برای اندرویدی که همیشه آزاد بود و ‌می‌تونستیم از هرجایی APK نصب کنیم نیست اما خبر خوب ماجرا اینه اعلام کرده دستگاه‌های اندرویدی موجود در کشورهای تحت تحریم آمریکا (Sanctioned Countries) از جمله ایران و کوبا، از اجرای سیستم جدید Android Developer Verification مستثنا خواهند بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-02T19:15:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OfMb-RYiKgR96A-hjX1LztrSlsc5u8uJ18adKvxf4sHUUVRZ466uUUFGLly-xkEmwYfXwh6qdiBCT3fJzPxhBwZ8_jYFMVhynb3rFxoCKHffxJq66x4dB9-Xy-wOva0yVvl1C66e7OAPSvop6TvaOXku6eDa3GOOXlf0dzxS-uHbFezkLon7WOZ26iQu-a0vPGAeYhhr0K4_sMfBoRgHn4E_WytTsSt9z9kg4vW6p27iBhvRStVdNDDelPvzwU9mgi10hSewqjHPl3gybwYg3ZSUDNMjbqwPnmMI1XWKsOh8bU-kZsaub8EPbyV_2OCNR4k6TbAUKv8WOcgr-4inkQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785696877
+  "last_updated": 1785701142
 }
