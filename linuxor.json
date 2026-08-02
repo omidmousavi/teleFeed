@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آتیش چطوری ساخته می‌شه ؟ (افترافکت)\u003cbr/\u003e\u003cbr/\u003eاینایی که اینارو طراحی می‌کنن واقعا خارج از چارچوب فکر می‌کنن و دیدگاه جالبی دارن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-01T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KZx--j5Q6PohBCOwPGeY5PbT7RBlEZM5MCgs8G8PtOp5V34mXGb8zDG_YMLyeJyFrNjbjJ_yBFRjUnEUiBywufUYrAN7mQSnv0cQiT3O4u86dNTXkKzgcyyVwzgp5sP23tlJmo7PPwMKMh95PjHKpwSXluXvpj_xVjzWRCBNAWoMVzqavUlMvaEyM1PWtsQq8ZETyIfTu8rLBVLGMSX0Z-7uFZgsTMymiQe_uD-EkS-JI_f58s1-g0nqVGPxT0hxZSGyh86daZ8opneBzIV1HO1tmV7-RJcnjuaJVvhTsQjG9Hezz7ZOklRFNWPQBceIAzEHyXDZT1FCsrLuC7IA-A",
-          "width": 1500
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تا حالا صفحه‌های معرفی محصول اپل رو دیدی؟ همونایی که با اسکرول کردن انگار دوربین وارد یه دنیای سه‌بعدی میشه، محصول‌ها حرکت می‌کنن و همه‌چی مثل یه فیلم بدون کات جلو میره.\u003cbr/\u003e\u003cbr/\u003eساخت همچین چیزی تا امروز کار هر کسی نبود؛ معمولاً چند هزار تا چند ده هزار دلار هزینه داشت و ماه‌ها زمان می‌برد. تیم طراحی، سه‌بعدی‌کار و WebGL دولوپر لازم داشت.\u003cbr/\u003e\u003cbr/\u003eحالا پروژه‌ای به اسم \u003cb\u003escroll-world\u003c/b\u003e اومده که میگه: این داستان رو با یه پرامپت بساز! برندتو توضیح بده، صحنه‌ها رو بگو، خودش دنیای سه‌بعدی، حرکت دوربین و کد اسکرول رو تولید می‌کنه. اوپن‌سورس و رایگانه؛ یعنی چیزی که قبلاً پروژه‌ی چند ده هزار دلاری بود، می‌تونه با چند ساعت کار و هزینه‌ی تولید محتوا ساخته بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/oso95/scroll-world\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/oso95/scroll-world\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-01T19:15:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/O7aRCpSSMRNb_KNY5jt0TZQxshjH4ev2vfDwa1NBNnDNCloPcltchn_L1mcc_8nG3uY6uoTFIFLSMTvrkzIcMRZOtIjYA0iFMg7TkXVUAYLaNWOlzz1kW4aBBcEk5XVnIvVWBOnzXETS0Efi-DqcKwosmMPHy4qmBpYVONZqGk-YTDpz0dh5wNcRFtzDxrU4yrZiYLxX08sLW7ZSokT_ofv5CCyvDzw4dEeKIIcFZ2E5aU2LSw4vLX-6P5xdsQBFJ_cxONikR-Hby-HQQZV3QgbRbiS-hDHO7-1d0aGcHvWnO6XSjPpgl8q_yNGw_qTUDedBxQZzNMLcvW0QepbhuA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "فریم‌ورک Open-Code-Review؛ ابزار کد‌ریویوی علی‌بابا که تو مقیاس واقعی تست شده و اپن‌سورس شد! یک معماری ترکیبی داره که لاین به لاین کد رو بررسی میکنه و جلوی مشکلاتی مثل خطاهای نخ (Thread Safety)، تزریق SQL و خطاهای NPE رو با هوش مصنوعی میگیره.\u003cbr/\u003e\u003ca href=\"http://open-codereview.ai/\" target=\"_blank\" rel=\"noopener\"\u003eopen-codereview.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ callitVer1",
       "date": "2026-08-02T06:25:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +30,7 @@
       "date": "2026-08-02T07:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +42,7 @@
       "date": "2026-08-02T07:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5590,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +61,7 @@
       "date": "2026-08-02T07:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +79,7 @@
       "date": "2026-08-02T08:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +97,7 @@
       "date": "2026-08-02T09:10:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +116,7 @@
       "date": "2026-08-02T10:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +134,7 @@
       "date": "2026-08-02T11:27:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +153,7 @@
       "date": "2026-08-02T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5020,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +165,7 @@
       "date": "2026-08-02T12:45:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4760,
+      "views": 5160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +184,7 @@
       "date": "2026-08-02T13:03:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 5010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +203,7 @@
       "date": "2026-08-02T13:20:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4270,
+      "views": 4780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +222,7 @@
       "date": "2026-08-02T14:34:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +240,7 @@
       "date": "2026-08-02T14:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
+      "views": 4019,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +258,7 @@
       "date": "2026-08-02T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3000,
+      "views": 3910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +276,7 @@
       "date": "2026-08-02T15:19:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2650,
+      "views": 3840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +295,7 @@
       "date": "2026-08-02T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,7 +313,7 @@
       "date": "2026-08-02T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 320,
+      "views": 2890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,7 +325,43 @@
           "width": 3276
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "از دیپ سیک پرسیدم اسم دقیق مدلت چیه رفته همین سوالو سرچ کرده و چون سایت NVIDIA کلی مدل داره و اعتبارش هم بالاست نتیجه رو از همونجا برداشته آورده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://chat.deepseek.com/share/35ka6zs0aqm6g1rze7\" target=\"_blank\" rel=\"noopener\"\u003echat.deepseek.com/share/35ka6zs0aqm6g1rze7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-02T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EX8fOFTNhdsORApVACjntvfQZjY6AsrGVU8gLYJuiv9sR-VPvl6LzPpDKesVMmwVl2jb63LXW_g2-_Jq_C4rt4IvIudlLUJyLSi5-7DVXyjq2dSKTGXNh3hd9rPBgVKygEsyb13jRQk6cPDP4ImOG1BNXoA-IOCCniI9V6Q7WnUHkh-uw1oc1_4cXTRgLuvnf_Pb0TpvJ02MI9sEABehv_qEIB778UQOkEwJddy3OXe0rhDlkiM2QwQkpAqzu3egHpmPY8e3AbBnCClVXft2ZV-AV6fVOaNg-4LKIVgBRe1EV7qlRfkf4e2-RsUvJ2Yrd33FxRVwAy1jklr4PC4hDQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تا حالا فکر کردی اگه با یه هوش مصنوعی که تو سال 1930 زندگی می‌کنه حرف بزنی، چی میشه؟ \u003cbr/\u003e\u003cbr/\u003eمدل Talkie-1930 دقیقاً همینه؛ یه مدل زبانی 13 میلیارد پارامتری که فقط روی متن‌های قبل از سال 1931 آموزش دیده. یعنی نه اینترنت رو می‌شناسه، نه جنگ جهانی دوم رو دیده و نه هیچ اتفاق مدرنی براش وجود داره. یه چت‌بات که انگار واقعاً از دل اون دوره اومده و با همون طرز فکر جواب می‌ده:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/multimodalart/talkie-1930\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/multimodalart/talkie-1930\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-02T17:15:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2009,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n5JvmsEWdaMwdHQj0OuOZnGqfhLvv8vzx_FV8qQvKQTkS9Jgt06obMjivmgASToLlVtRr9Q-U0W-apcU1KWP6-xR7gB5qX7Rppn5Rj84V0nX35ePdDgy_BRm91-Fnv9Ge3DgO_iGk-pKFtZ491SgV4F4EJHNRUU8j-wNVm9SdZ1iY3V1rqMnWUlrOIVavqpHmyBBE7FQVefDgQGY04JgzNUdwj8hvMsjxL46kQZjCGni4nhSVO-oxUm5xlCQ9M4A2r_uNvzZUcXB2MUNBGUv7i0k1wjKhFTF1oUyBrvQaZuXBlfTVS-ZkCeqY6H4hXmou5enzeZzIGgFt10L-MRmKw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785689193
+  "last_updated": 1785693192
 }
