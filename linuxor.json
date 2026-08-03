@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "گوگل با کمک هوش مصنوعی داره پیدا کردن و درست کردن باگ‌های امنیتی کروم رو سریع‌تر می‌کنه. این ابزارهای هوشمند می‌تونن کدهای کروم رو بررسی کنن، مشکل‌های امنیتی مخفی رو پیدا کنن و حتی برای برطرف کردنشون راهکار بدن. هدف اینه که فاصله بین پیدا شدن یه مشکل و منتشر شدن آپدیت امنیتی کمتر بشه.\u003cbr/\u003e\u003cbr/\u003eاین استفاده از هوش مصنوعی باعث شده گوگل بتونه تعداد زیادی از حفره‌های امنیتی کروم رو قبل از تبدیل شدن به تهدیدهای جدی شناسایی و رفع کنه. فقط در یک ماه، 370 آسیب‌پذیری از جمله 7 مورد حیاتی برطرف شده و این روند باعث شده تعداد اصلاحات امنیتی گوگل از مجموع چندین به‌روزرسانی قبلی هم بیشتر بشه.\u003cbr/\u003e\u003cbr/\u003eاین کار نشون می‌ده آینده امنیت نرم‌افزار بیشتر به همکاری آدم‌ها و هوش مصنوعی وابسته است. البته گوگل هنوز تأکید می‌کنه که بررسی انسانی لازمه تا مطمئن بشن این تغییرات درست کار می‌کنن و مشکل جدیدی ایجاد نمی‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZZAESKuSpBn0I0FrGCremffpD3OKxsJ1H_4wJRpsRxkd4JPX2Q6AHcFPIcW7VmPhDBKmSjn-4qOolbNhqcCm6CxUdQqfEYxLgT0lT4gRMFpW9OF0_O2NvKtxBQOng72e0pQ-ZdlS-XCCIF83FKQdUDl-I4NaKYO9gNb1yXqPjGxX8AqPO7Pifs3Ow1E1j_NusntvkwsO1p3HAyJSVYTqV1E-GmGOs5HRXEvvTfp3O3GwHZkl-5-TDA56heINK8nO4vf8zTgcnzzWC4-YmwzzT6N30K1KDcQkhD8UPSC0F2sYhsukN9WG6pcp5lsiVJrnPJGpqGjj13NpUic9ttAUjg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه خبر خوب و یه خبر بد\u003cbr/\u003e\u003cbr/\u003eگوگل اندروید نه چندان خیلی آزاد رو داره تبدیل می‌کنه به IOSی که نمی‌شه از هرجایی چیزی روش نصب کرد! برای مقابله با بدافزارها و اپلیکیشن‌های کلاهبرداری، سیستم جدیدی معرفی کرده که در اون توسعه‌دهندگان باید\u003cbr/\u003eهویت واقعی خودشونو تأیید کنن.\u003cbr/\u003eاپلیکیشن‌های خودشونو پیش گوگل گوگل ثبت کنن.\u003cbr/\u003eدر صورت انتشار خارج از گوگل‌پلی نیز اطلاعات برنامه رو توی Android Developer Console ثبت کنن.\u003cbr/\u003e\u003cbr/\u003eاین خبر جالبی برای اندرویدی که همیشه آزاد بود و ‌می‌تونستیم از هرجایی APK نصب کنیم نیست اما خبر خوب ماجرا اینه اعلام کرده دستگاه‌های اندرویدی موجود در کشورهای تحت تحریم آمریکا (Sanctioned Countries) از جمله ایران و کوبا، از اجرای سیستم جدید Android Developer Verification مستثنا خواهند بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T19:15:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OfMb-RYiKgR96A-hjX1LztrSlsc5u8uJ18adKvxf4sHUUVRZ466uUUFGLly-xkEmwYfXwh6qdiBCT3fJzPxhBwZ8_jYFMVhynb3rFxoCKHffxJq66x4dB9-Xy-wOva0yVvl1C66e7OAPSvop6TvaOXku6eDa3GOOXlf0dzxS-uHbFezkLon7WOZ26iQu-a0vPGAeYhhr0K4_sMfBoRgHn4E_WytTsSt9z9kg4vW6p27iBhvRStVdNDDelPvzwU9mgi10hSewqjHPl3gybwYg3ZSUDNMjbqwPnmMI1XWKsOh8bU-kZsaub8EPbyV_2OCNR4k6TbAUKv8WOcgr-4inkQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی از بزرگ ترین مخزن های Loading برای وب\u003cbr/\u003e\u003cbr/\u003eنکته خوبشون اینه انمیشین اضافی ندارن و CSS خامن و خودشون خیلی سریع لود می‌شن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://css-loaders.com/spinner\" target=\"_blank\" rel=\"noopener\"\u003ecss-loaders.com/spinner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-03T06:25:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hAmQd2NhREHj_wkiD1Bbi-mEqTwaASvs8S4X4Vbbc07YURLCDxzs9m837p_gJhfOaN_r696dHOzqd1GA058yaygkHYzIdt_KLjBUEuivNgfNFT6xro3amZ5p-d94nHAnypE7ciiL2IvvkpaO0NcT3ci46Qw_k1nfSF7xXReeJ9MvyAfjGzy8-UTDIVSwXEpwqktaM6SFFUNQQLrhRaffx1bphsxL6Ar2UywxHXR7QRS0qlnhz0ptkkUjazTlysIPYgY6ZWWE1-coHF77zstFWE9heOJWtNKCtQnEOOIcK1LOkkXuVcLCmcQoRvE5nhpbQ9OsRoF0fnR9cl6svglMgA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "می‌دونستین اپل یه SDK (مجموعه ابزار برای برنامه‌نویس‌ها) به اسم RoomPlan داره که با استفاده از دوربین و سنسور LiDAR آیفون/آیپد، می‌تونه فقط با اسکن کردن، نقشه سه‌بعدی کل خونه رو بسازه.\u003cbr/\u003e\u003cbr/\u003eیعنی شما با گوشی داخل خونه راه می‌ری و برنامه:\u003cbr/\u003e\u003cbr/\u003eدیوارها رو تشخیص می‌ده، اتاق‌ها رو می‌شناسه، درها و پنجره‌ها رو پیدا می‌کنه، حتی بعضی وسایل مثل مبل و میز رو هم تشخیص می‌ده، و در نهایت یک مدل سه‌بعدی از خانه تولید می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://developer.apple.com/augmented-reality/roomplan\" target=\"_blank\" rel=\"noopener\"\u003edeveloper.apple.com/augmented-reality/roomplan\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-03T09:37:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +31,7 @@
       "date": "2026-08-03T10:35:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +50,7 @@
       "date": "2026-08-03T10:57:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +68,7 @@
       "date": "2026-08-03T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
+      "views": 5330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +86,7 @@
       "date": "2026-08-03T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +105,7 @@
       "date": "2026-08-03T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4900,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +123,7 @@
       "date": "2026-08-03T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +141,7 @@
       "date": "2026-08-03T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +159,7 @@
       "date": "2026-08-03T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4760,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +177,7 @@
       "date": "2026-08-03T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4290,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +195,7 @@
       "date": "2026-08-03T15:18:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4180,
+      "views": 4690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +207,7 @@
       "date": "2026-08-03T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3400,
+      "views": 4170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +225,7 @@
       "date": "2026-08-03T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 4380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +243,7 @@
       "date": "2026-08-03T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3290,
+      "views": 4230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +255,7 @@
       "date": "2026-08-03T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2900,
+      "views": 4150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +273,7 @@
       "date": "2026-08-03T17:30:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,12 +291,69 @@
       "date": "2026-08-03T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "برگای آدم می‌ریزه ببینید چه شطرنج سه بعدی با هوش مصنوعی ساختن توسعه دهندش می‌گه فقط توی 2 ساعت ساختتش!\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://medieval-3d-chess.rork.app/\" target=\"_blank\" rel=\"noopener\"\u003emedieval-3d-chess.rork.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/alexngdev99/rork-medieval-3d-chess\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/alexngdev99/rork-medieval-3d-chess\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/NfutI59YJIi3SUpNoe_fePmGwFIK9unIBysYvBvY8gRFgqHtRUcKwOgSgR5iXjZpu_I_2Un5xia80YgFA7LZlchqjbo4NjA2fL3QB4i0EhN5fxB-vSskOZkXZG6jhbmY5W9fpYs1F-ig4rprFdnO0ztK3ZVV-v3MWs80wl1e17fWQXa8gC-W1HD0vxZDwR5biWr_3ipT1kBktiQ4s2j-VZETpgC2nRIfGPOZvpaXy4uOz-1Bmi8mFq_y1789vK_EMnjC3A2yZ6WkwyeMMo1omsgJTLjf1WlyfgxnMU_efBGIMCCfjnrE-6medKzWkdjcAHnHBExFMelwEirSjhvGvw",
+          "width": 3840
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی یه مدل روی لپ تاپ خودت بالا آوردی و ازش سوال می‌پرسی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FslqjF_BMD5esKIQPQjynvFWSFhYQ61xDt1JNNtCeNa3qVjLWh6xdMcOBKHNOU7jO6f76xGxPH8TIek8KXZOYelgklPsk27kD0IYK0oV65kRgPj5CF6Blq0QxHuSILVZ7a_LHXUsMz7nSdWcdiTbC2QGBZEz9iRiwAU93Rl6jtaO88t4g5b4qWgF2DRv86iVJo88OkreALdml5kxStweK8dxLngfJFf0M1STHYM8PiQyPAO1sbwfb8pJYYaoLX2_PXPufWj-y771FAJXPRTqXC48kbR77aXLizC3p5U1UGldFt6u8AVpPtlKv9PeZMqK-ZGY7N18rELuIMZ-H01UjQ",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایتم ‌خیلی قشنگه برای تازه کار هایی که توی ساخت وبسایت مشکل چیدمان سایتشون رو دارن، اکثر چیدمان های رایج رو پوشش می‌ده\u003cbr/\u003e\u003cbr/\u003eسایت اصلی :\u003cbr/\u003e\u003ca href=\"http://flexboxlabs.netlify.app/\" target=\"_blank\" rel=\"noopener\"\u003eflexboxlabs.netlify.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد سایت (خواستین ببینید خود این سایته چطوری طراحی شده) :\u003cbr/\u003e\u003ca href=\"http://github.com/prazzon/flexbox-labs\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/prazzon/flexbox-labs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T19:15:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ggAAHScYwOjyhfunbFH-5V9aW39xBVSm3CUs5ZxC1sfcfPHMnM-0JcFV1i8-fSKEkz_X3PqjEg-maIyLRnjqWZqkA1RsUnm46DWU1itRvfY8PzYSvfTDzI4WYLUkG3fEbJj-fM6UZ9bVY7ZYlVvyfmCe8n107fZbmGNGna4_sRoV9mbphbk53L5x1aYjUpsoI02hiIaEyGN3PqGG-OpAX93sHchLKPTn637feYPYzDEFzi_p_wVt5rysgGEFOpR66vUZZZYbRJp_2cWE7Qy-olngJPZYd63jdAbWmicDeq0M6tDG7bxnByHSpsRffxc8QteYohM8iIO1B56rxDhRSA",
+          "width": 2946
+        }
+      ]
     }
   ],
-  "last_updated": 1785782599
+  "last_updated": 1785788432
 }
