@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک پروژه جالب به اسم Starling برای لینوکس معرفی شده که چیزی فراتر از یک محیط دسکتاپ جدید محسوب می‌شه. توسعه‌دهنده این پروژه اعلام کرده بخش عمده کدها با کمک Claude نوشته شدن. (یکی بالاخره راستشو گفت)\u003cbr/\u003e\u003cbr/\u003eمیزکار Starling از یک کامپوزیتور اختصاصی Wayland که با C توسعه داده شده استفاده می‌کند، اما شل دسکتاپ، رابط کاربری و اپلیکیشن‌های آن با Swift نوشته شده‌اند. نکته جالب‌تر اینکه به جای XWayland، یک سرور X11 داخلی هم داره تا برنامه‌های X11 را مستقیماً اجرا بکنه.\u003cbr/\u003e\u003cbr/\u003eطبق گفته توسعه‌دهنده، برنامه‌هایی مثل Chrome، VS Code، IntelliJ IDEA، GIMP و Blender بدون مشکل روی اون اجرا می‌شن و کل سیستم هم بدون نیاز به اجرا شدن با دسترسی روت کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eفعلاً پروژه در نسخه 0.2 قرار داره، فقط برای Ubuntu 26.04 بسته نصب منتشر شده و تاکنون روی AMD و virtio-gpu تست شده است. پشتیبانی از Intel و NVIDIA هنوز کامل نیست.\u003cbr/\u003e\u003cbr/\u003eراستش فارغ از اینکه چقدر بتونه با پروژه‌های جاافتاده‌ای مثل KDE Plasma یا GNOME رقابت بکنه، از نظر فنی پروژه جذابی به نظر می‌رسه؛ مخصوصاً اینکه یک نفر تونسته در حدود شش ماه با کمک هوش مصنوعی چنین استکی را از صفر پیاده‌سازی بکنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.phoronix.com/news/Starling-Swift-Desktop\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Starling-Swift-Desktop\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-28T19:23:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرعت رونویسی با تعداد زیاد ۱۸ برابر شد \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبالاخره پس از حدود ۱۲ سال، مشکل سرعت پایین رونویسی تعداد زیادی از پرونده‌های کوچک(مثل چند هزار عکس کوچک) حل شد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچطور؟\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e- برداشتن واسطه اضافی\u003c/b\u003e\u003cbr/\u003eبرنامه‌های کی‌دی‌ای حالا به جای استفاده از یک رابط ارتباطی جداگانه برای ارتباط با کارگر پرونده‌ها، از یک ارتباط مستقیم درون حافظه (In-memory transport) استفاده می‌کنن.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003e- رونویسی دسته‌ای\u003c/b\u003e\u003cbr/\u003eبه جای رونویسی یکی‌یکی پرونده‌ها، رونویسی چندین پرونده در یک عملیات انجام میشه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنتیجه؟\u003c/b\u003e\u003cbr/\u003e\u003cpre\u003e[cp -r]     -\u0026gt; 81   ms\u003cbr/\u003e[KIO v6.28] -\u0026gt; 1616 ms\u003cbr/\u003e[KIO v6.29] -\u0026gt; 88   ms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eتوضیحات بیشتر رو از \u003ca href=\"https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-07-29T10:08:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 951,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "یک پست در لینکدین نوشتم درمورد اینکه چطور می‌تونیم فضای یک مسیر مثل /home یا هرجایی رو افزایش بدیم بدون اینکه نیاز باشه عمل resize رو انجام بدیم یا raid رو از صفر بسازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.linkedin.com/pulse/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%AF%D9%88-%D9%81%D8%A7%DB%8C%D9%84%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D8%A7-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-behdani-9gaoc\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخواندن از لینکدین\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-30T06:46:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 989,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +30,7 @@
       "date": "2026-07-30T15:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 931,
+      "views": 954,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +52,7 @@
       "date": "2026-07-30T21:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 911,
+      "views": 933,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-07-31T11:29:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 755,
+      "views": 768,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-07-31T14:16:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 983,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "date": "2026-07-31T20:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +138,7 @@
       "date": "2026-07-31T20:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +156,7 @@
       "date": "2026-08-01T09:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3260,
+      "views": 3300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +174,7 @@
       "date": "2026-08-01T23:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +186,7 @@
       "date": "2026-08-02T12:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 765,
+      "views": 861,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +198,7 @@
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 692,
+      "views": 814,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +210,7 @@
       "date": "2026-08-03T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 418,
+      "views": 617,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +221,43 @@
           "url": "https://cdn4.telesco.pe/file/e8YNzQ9s9X5j4bya2XV0Zyv25P4_dOB9dZ2PQBlhuk607NC5BLos_6YzjxlzCQvm81-b6m2MGJwl2HTxYtssdt5gCmJm5ypMuOm0o6b2RFpULKs4i4oHxUEvn8DAyd6UhCSd1YR5oiliVpHANlRhSI0_YztBa5-nCnidaJKKdYeD7m5SbQyckBV1NH6PbWcSn1pIlbfCDdzihkI88X04epBcyx87eDkERvGUgFQ7D54s2B_e-NeY-c_OJX3Wpc6ei7lIEhyi9TiMGelfiYEMmB1NlhVEoCivyznobPVa67hcgOokHtUEBUSK5-MwlsaJoo_amjBkdP-T4uVfLrrguw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": ":)))))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیک روزه آخه\u003cbr/\u003eاصلا با این سرعت فیلترنت کاری نمیشه باهاش کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-03T17:10:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 396,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/C7PNxILoTpNwcDFzsN6b3sTIPiH3qfNIPHY6K1-yUXodyvYjv8yAJQ6Ak_uAUGiFznoSwIsTQymvnwSWJkil7nopUQvAiVLGdTpJhX4A3XF1O06hxkUIehGDFYpxOozwvggiSF3LhxaXbLyyY4-pROe2BFZOD88lXPZZaq46w1KR_vKmLnJMTAgitN7I-8tu4WshVdF3gmBuuBMEzdDoW_U5nF19j_bKs5m1gQwjvhCKklEs1j10EbupuDPIHYrwjGBoS9TRD-0qjCzqbil7zUM4Aav7OBVM1kqIvIlcZ4IuprvGU6ZFM-5jrVspL8_e09UMy9sdS8bLRYuyM2cETA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چرا آخه :)))))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eجمعه ادم می‌خواد زود بخوابه بره صبح زود سرکار.\u003cbr/\u003e\u003cbr/\u003eاین چه مسخره‌بازی ایه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-03T17:24:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 329,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/i53SlGIz4zIZMhFVThf9y1qbvg1WifUGBQrfdmNyGTETw2gU5-1WNP6TXudAn7pajFxD3vFUZIFrJ42V8rLEc_8YFXPn3wLgR8bPRgjyuTSA97Izi9qNyLkm0jStWT2KQLnvSKSSQVHYUqk4-t6E0pNb2ck31zrl46JQhu7PT2m-pRr0ZNYJRUHyCVO3Mc4PWEJU5JqCAJDws8qFL8ZcHfwrkrqGiohYq1Eb7v-c4s5-ObWA3O2IsYDk6G_-mFulWCBDAjkrtH9XkPNP4muylbyZsz8IxzgjOLzWmLSv8CYO3K1nFTa-3b7vtxljdfqNZV1sX2FuhxKxsJe0h0-GYQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785775527
+  "last_updated": 1785782653
 }
