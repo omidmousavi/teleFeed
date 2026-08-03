@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک پست در لینکدین نوشتم درمورد اینکه چطور می‌تونیم فضای یک مسیر مثل /home یا هرجایی رو افزایش بدیم بدون اینکه نیاز باشه عمل resize رو انجام بدیم یا raid رو از صفر بسازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.linkedin.com/pulse/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%AF%D9%88-%D9%81%D8%A7%DB%8C%D9%84%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%DB%8C%D8%A7-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-behdani-9gaoc\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخواندن از لینکدین\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-30T06:46:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ggo2kb6Iw86DBV_h5UtNOT5SaqHvAxUrLy3q5ps8p_kmn3K-HTEKrS1Dd2-DwKZn9sPYoQfsLzTbmfBrSvyvc4VesZ5NedlX6-Jj5ku9NleoBa1L85vmmd_nBTzgYdReQ9NL7ciLOoTuG__IzMyGf1X2YF9F8RDAppu5Gj2cAtzpNH6tet6JodamMaSnpRaGBM8IZ8R8eDT4_Z_t4kn_HnSuqr_0KL4HZV-gpCAKuhf4nXDmRJbwAbAoS8iQymtxZB-oYLZNXy_3C0oQVqPc9BpZM069FAdqqpQyAh11LwGUttmLOI0rRrVSjhqoBQI8cLmUFut6byUsbNIhZbztHQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eبازی پُردل (Pordle) اولین بازی توزیع پارچ بر روی مخزن world منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین بازی الهام گرفته شده از بازی معروف wordle هستش که دارای دو حالت روزانه و آزاد می‌باشد.\u003cbr/\u003e\u003cbr/\u003eهمچنین دیتابیس این بازی درحال حاضر دارای ۹۹۳ کلمه است و کلمات روزانه بر اساس محسبات زمانی انتخاب می‌شوند. برای مثال کلمه امروز ۸ مرداد ۱۴۰۵ در این بازی کلمه تمدید بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین بازی اولین برنامه از پروژه پارچ است که به صورت چندسکویی (کراس‌پلتفرم) برای توزیع‌های دیگر نیز بر روی فلت‌پک منتشر خواهد شد.\u003cbr/\u003e\u003cbr/\u003eدرحال حاضر می‌توانید اون رو از مخزن world نصب و آزمایش کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S pordle\u003c/pre\u003e\u003cbr/\u003eهمچنین می‌تونید پیشنهادات و یا انتقادات خود را در صفحه \u003ca href=\"https://github.com/parchlinux/pordle\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیت‌هاب\u003c/a\u003e و یا در \u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفروم پارچ\u003c/a\u003e با ما در میان بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-07-30T15:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 961,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +34,7 @@
       "date": "2026-07-30T21:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 936,
+      "views": 985,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-07-31T11:29:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 772,
+      "views": 775,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-07-31T14:16:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-07-31T20:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-07-31T20:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-08-01T09:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 3360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-08-01T23:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-08-02T12:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 883,
+      "views": 898,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +180,7 @@
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 838,
+      "views": 861,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-08-03T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 671,
+      "views": 720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "date": "2026-08-03T17:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 515,
+      "views": 599,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "date": "2026-08-03T17:24:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 462,
+      "views": 562,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +239,25 @@
           "url": "https://cdn4.telesco.pe/file/i53SlGIz4zIZMhFVThf9y1qbvg1WifUGBQrfdmNyGTETw2gU5-1WNP6TXudAn7pajFxD3vFUZIFrJ42V8rLEc_8YFXPn3wLgR8bPRgjyuTSA97Izi9qNyLkm0jStWT2KQLnvSKSSQVHYUqk4-t6E0pNb2ck31zrl46JQhu7PT2m-pRr0ZNYJRUHyCVO3Mc4PWEJU5JqCAJDws8qFL8ZcHfwrkrqGiohYq1Eb7v-c4s5-ObWA3O2IsYDk6G_-mFulWCBDAjkrtH9XkPNP4muylbyZsz8IxzgjOLzWmLSv8CYO3K1nFTa-3b7vtxljdfqNZV1sX2FuhxKxsJe0h0-GYQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "فقط کنونیکال می‌تونه اینکارو بکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-03T21:41:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 238,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uloLP5fjC6mQ5GzimAMVSJOyNyydAnLOxVyQ-rWJeSMysmmfcb1vfMpCYVSfEWrEvQXYM9Kzo-ZVSFz-678fzXjRPyzBMa33BujTkwnKGkMRePt1U-sVhybMMg4QuShhiKnenQHX0gyDYSDEigeQbRGqcte44afaYwe5qUW84pW67WYlzrdZ08hY5mentSLkB4XjNBqx2EmeNSeHZhA_v5O1YrpyHcu5kIBBu0w6dKwmhVNwOEQIYKNYazc2pAkiJ7luCqrse3j6YB0toa0geBZC7Pd2p8hbR-3rXZU126YEwuL605xkakKUOnw9Cc63g1Wxq2kvjqhuqS8fwLuzXg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785793039
+  "last_updated": 1785797587
 }
