@@ -8,121 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانت ChatGPT Plus پیش‌ساخته یک ماهه، کاملاً اختصاصی\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۲ هفته گارانتی بی‌قید و شرط\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمدل Codex 5.6 Sol\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e قابلیت اجرا در VS Code و Cursor\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به همراه Codex Windows\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e این آفر فقط برای کاربرانی که در Linuxor عضو هستند فعال است!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e فقط \u003cb\u003e۱.۲۰۰.۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ariobox_bot?start=promo_116_119\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرای خرید کلیک کنید\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-08-02T14:34:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HwhaDC5XcRrD1Rfy7nAvCDaNeTCrguyervGTRQXu7hRvXl5h9N9WmmKgpcrght7b3qS4_THHLr0gtPEusbQX-Saq0tZXl-x72CUJA48uciCPiSvoIWwTGN8LFYgPPVnojEFJCFPnESge3xtH5I-8rPJwrluQGZaz8HYABmkTnJX8uAhmUGkMrqL7V8uDrymHyvcRhKNhLiFlpfroAQbiPYj0I0qoUAubhf0JjOIbFk7qKHGPyAJJF3a89v45MydOzJNjfBR5KVVdtte1rQiLxDxUH8Y0_sp-lFlL5w5DjX5R7fKPZjJvMqvUYQI2v_cCcMVbmoHzZpH6BrPtnmaJvQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه بین انتخاب llama.cpp و vLLM برای اجرای لوکال مدل‌ها شک دارین، این مقایسه خیلی کوتاه و کاربردی از IBM که چهار روز پیش آپلود شده تکلیف رو روشن می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاصلی‌ترین تفاوتشون توی هدف و محیط اجراست:\u003cbr/\u003e\u003cbr/\u003eابزار llama.cpp برای اجرا روی سیستم‌های شخصی، CPU و دیوایس‌های کم‌مصرف عالیه با فشردگی وزن‌ها و فرمت GGUF اجازه می‌ده مدل‌های بزرگ رو حتی روی لپ‌تاپ یا رزبری پای اجرا کنین. ابزارهایی مثل Ollama هم از همین موتور استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003eابزار vLLM برای محیط‌های سروری و پروداکشن ساخته شده. با تکنیک‌هایی مثل PagedAttention برای مدیریت KV cache و بچینگ پیوسته، سرعت سرویس‌دهی به چندین کاربر همزمان رو به شدت بالا می‌بره.\u003cbr/\u003e\u003cbr/\u003eنکته خوب اینه که هر دو ابزار APIهای سازگار با الگوی OpenAI ارائه می‌دن، پس تعویضشون توی کد RAG یا ایجنت‌ها بسیار سادس.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.youtube.com/watch?v=0ujh7hfutq0\" target=\"_blank\" rel=\"noopener\"\u003ewww.youtube.com/watch?v=0ujh7hfutq0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MehdiAllahyari",
-      "date": "2026-08-02T14:48:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j8Lj6yTbwN-n5MQZx78HcA4tWPTaR143OA6UdNU_phMtNrPEEhe-vd1oORFJaXKI2ejci3AhS5U3bZRK_IB-_76ATFORCJZUNSckSTAc9-0gWJDcZrtrry5F4-qkhq1gZ_ZQZwLyFM5eHafcJKp5ehdR4vVEjKjFsTgvhIBYs6aIeCA0QKvdzMWitjtOvQFXgYb-r9XZWznnaT6DnyyVsdUZ-CwZb5wx6OlmNDzGz8IEnOgwosI4jZKdu6QAQAU0zR9jBxNNtOsW6d7YX8GpWHP1JSo5X6IEur9RRIEDMFiF0JMo1IUBIqBHUx21e4EA28kqY8wIx7wXf-RRyXAPpw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ما همیشه داریم به نرم افزار جدی نگاه می‌کنیم و توصیه می‌کنیم سمت وایب کدینگ نرید چون منطقی هم هست دیگه اقا هیچ پروداکت جدی ‌ای با وایب کدینگ بالا نیومده\u003cbr/\u003e\u003cbr/\u003eولی واقعیت اینه که وایب کدینگ تقاضای بالایی داره مثلا یه پلتفرمی قشر نوجوان دارن به اسم روبلاکس توش بازی های وایب کدینگی و تفریحی می‌سازن و جالبه 1 میلیارد هم دانلود داره این عدد خیلی مارکت بزرگیه! نکته جالب اینجاست خیلیاتون مثل من نصبش کنید اصلا نمی‌تونید باهاش کار کنید چون اصلا توی دنیای دیگه ایه.\u003cbr/\u003e\u003cbr/\u003eبا چیزی که ترند می‌شه هرگز سعی نکنید بجنگید باید سوارش شید دنیا اصلا براش مهم نیست شما محصول خفن تولید کردید یا نه فقط براش مهمه آیا الان تقاضا داره یا نه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T15:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oP7EH_MxxsCh0NrexNbXScYsQaZw8h_7fDiJbBvPPV6PFpq43g-IDZOhv75qyRDJWxpH0B1LABnSWAFxS-z2wVkPcGKmXBLOiHFR01nUQ7JbHAlcOR4Ixw-VtXqg8ebLYz89rmLchHeCzxFjeX8d8DXi7bkMvRfC076S8G4tClAs-jqItWPSHaVdemnvfOvedxQC9hbrHSCtQhriWoSUjrMs9Q7v8cbpv6ytWiQog3p_6E3T3GvhppKi7YR3eSEY8BA6xRub1rR1_1crzt6BumMsLawN8nc4QBMA86S_7ebPk-YShr674UjnU4LI7gRALCp73PY32yUZ3VUYJcE5CA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه سایت هستش که کافیه قالب سایت رو انتخاب کنی بهت پرامپت دقیقش رو بده.\u003cbr/\u003e\u003cbr/\u003eاسمش MotionSites AI هستش و برای کسایی ساخته شده که با ابزارهای هوش مصنوعی سایت می‌سازن. به‌جای اینکه از صفر دنبال ایده، دیزاین و ساختار صفحه بگردی، قالب‌های آماده رو می‌بینی و پرامپت مناسب همون طراحی رو برمی‌داری.\u003cbr/\u003e\u003cbr/\u003eبعدش می‌تونی اون پرامپت رو بدی به ابزارهایی مثل Cursor، Lovable یا ابزارهای مشابه تا یه سایت نزدیک به همون چیزی که دیدی برات بسازه. یه ابزار کاربردیه برای وقتی که می‌خوای سریع‌تر از ایده به خروجی برسی :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://motionsites.ai/\" target=\"_blank\" rel=\"noopener\"\u003emotionsites.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T15:19:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gOuei-XFLpeb87dLgtSRPwxEipHZEVnKB27OZXGgzE_u0EKmiGLcIZ-Q6H5F-V8Pva_GgWohkwQUtEFYXtlRQiZDzKQx-RrVs85lKmhv5GdPWp5DaXufjD_HGM2kyR2-IUmI4h-zsEyyqgY6JY-fNJEuQSvoAUt3V-VK5FD0MlGbKrgD_v83cvMxlMYdPlcCamfXONX5lFpe5uc3Ss1n8ENI8kzJ5BO8j-5wRm8PlVeB8ay19Ecq3LZmE63Xswh0M8SEdPS160cMadAdx7iFKimctDNwwfpBwZfQpafIg_cC8WJa7OKcIEuDwT_54gNAugsWJw-1-KRfTgpU97ULIQ",
-          "width": 3280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرور قدرتمند، بدون هزینه‌های سنگین!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eوب‌سایت، اپلیکیشن، پروژه‌های نرم‌افزاری یا گیم‌سرور شما به یک زیرساخت سریع و پایدار نیاز دارد؛ نه یک سرور معمولی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e ابر ماهان با VPS پرسرعت، تحویل فوری، پشتیبانی ۲۴/۷ و انتخاب سیستم‌عامل ویندوز یا لینوکس، زیرساختی مطمئن برای رشد کسب‌وکار شما فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پینگ مناسب با دیتاسنتر داخلی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e فعال‌سازی سریع سرور\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e پایداری و امنیت بالا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت رقابتی\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eکد تخفیف ۱۰٪ (سفارش اول):\u003c/b\u003e\u003cbr/\u003eNEWVPS10\u003cbr/\u003e\u003cbr/\u003eخرید سریع \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://B2n.ir/cloudmahan9\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/cloudmahan9\u003c/a\u003e",
-      "date": "2026-08-02T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vyihEmDz9yAQebVFpTpgT3LWXDcxkCsDPirw8zKEJJ7JT0rHSXPemlz2Yrw8Wz5ewRNtjc3wVPcxnKO_WIME2GBPlgA2LYR3HbmCd_82hZn14DoX2OGiKg1enxTqiWFrVfdI8zpkw89wMGjoSmSNqBtXV5OQ6yLIE_riTAjiLY7JyHBpKM4OmPgu7TxBhidjleOq0Wz97pgKbBo575eJ2nogAsHiNgoNSENj_FiEskbsWSVqtCcDgE5jZsP0Zn8lo3HtvQDNX6VX0LwA_Hjr1nG0YRjcho5KWyE3Q04sQWBo_zNha_YIbC2ZcsxSdX2O7IiXPtwysQHaBOXVLEDBfg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینم یه قالب زیبا برای ساخت سایت  شخصی Portfolio و رزومه :\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://portfolio-site-template.fayaz.workers.dev/\" target=\"_blank\" rel=\"noopener\"\u003eportfolio-site-template.fayaz.workers.dev\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/fayazara/portfolio-site-template\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/fayazara/portfolio-site-template\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-02T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/NhnCihD-xkd7caos65hYViFYB079ugEBALjVHItTK9YjxiApdUwl2vVJZM7HQSVn-NeYPbHnyLsf_FLYxtc3SQnAAoO9aTGQNmAVCvS__5wQWlcpW2RoWzpid827CLkJ2__vsflY_fs77FWkWTEKYD7TVqgF9R4eIqeuBZz-NutYdeko4kF4ykb2nUUSZPjupoaTkJwMGcEZJi5Qwnzud-8VXfpj89RctrGYWCdgMsT1OEwaveQ3gB3N7a-u0geCHoJoVhp4Dv5x8WZI1StDABwTgdva4dy4gXoojwx0iynnl69SclM4Q8mNI_ysYQnbAAdnYuPMtq-VntQJgSrNBw",
-          "width": 3276
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "از دیپ سیک پرسیدم اسم دقیق مدلت چیه رفته همین سوالو سرچ کرده و چون سایت NVIDIA کلی مدل داره و اعتبارش هم بالاست نتیجه رو از همونجا برداشته آورده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://chat.deepseek.com/share/35ka6zs0aqm6g1rze7\" target=\"_blank\" rel=\"noopener\"\u003echat.deepseek.com/share/35ka6zs0aqm6g1rze7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-02T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +30,7 @@
       "date": "2026-08-02T17:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +48,7 @@
       "date": "2026-08-02T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +60,7 @@
       "date": "2026-08-02T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +78,7 @@
       "date": "2026-08-02T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +96,7 @@
       "date": "2026-08-02T19:15:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7550,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +114,7 @@
       "date": "2026-08-03T06:25:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +132,7 @@
       "date": "2026-08-03T09:37:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +151,7 @@
       "date": "2026-08-03T10:35:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4910,
+      "views": 5690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +170,7 @@
       "date": "2026-08-03T10:57:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4580,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +188,7 @@
       "date": "2026-08-03T12:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3260,
+      "views": 4530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +206,7 @@
       "date": "2026-08-03T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3640,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +225,7 @@
       "date": "2026-08-03T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2770,
+      "views": 4360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -353,7 +243,7 @@
       "date": "2026-08-03T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2240,
+      "views": 4200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,7 +254,109 @@
           "url": "https://cdn4.telesco.pe/file/jm1pLvRGWWZHRiBVJvFKs0cUP6oydmo4EFxl7aY-MMjXK57tM1mEc2ME4Ll5Azc2tB6NRXK6kLw5JMJE4mSlXtmnEt5dlHfCPHIMwbRG2BwXOibKGzk44Tei_wVCXbGTWX439PF16ojcr3zWpQ9JipiId1fNVpgT50ss6tLtcXIwuBhZ7W8WtALpl-aAvfwCUjeGPEKnoUkAUR-QFE_7kr7DyQUleVZvdGZwjOHa_gSnlFhFscUblrXOGpbtjyqssmMsHFrUKRaCpXLBI4J8-kQFrc9dEjSsDXejdWfsM-dX92GB5W72KV_NnrvJuKvisYokaN3MyEnNEynMI8iO5A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e آفر ویژه کاربران کانال\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cb\u003e فعالسازی Gemini Pro ۱۸ ماهه، کاملاً اختصاصی\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e‌\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفعالسازی بدون نیاز به ارسال جیمیل و پسورد\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۲ هفته گارانتی\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e مدل \u003cb\u003eGemini 3.1 and 3.5 Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96BC.png\u0026#39;)\"\u003e\u003cb\u003e🖼\u003c/b\u003e\u003c/i\u003e تصویرسازی \u003cb\u003eNano Banana 2 \u0026amp; Pro\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e ساخت فیلم با \u003cb\u003eVeo\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e استودیو \u003cb\u003eLyria 3\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e فضای ذخیره سازی\u003cb\u003e Google One 5 TB\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e فضای\u003cb\u003e Workspace AI + NotebookLM Pro (5× limits)\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e کاملا اختصاصی و بر روی جیمیل خودتون فعال میشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراکی نیست\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفقط ۸۵۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/ariobox_bot?start=promo_95_96\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبرای خرید اینجا کلیک کنید\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-08-03T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iT9OtnRnttQjl5-mY6_6BeWYDWlULalRLBkOiPLX0oiFzzUTrgF7kf5YfNXwPJ77mD8NzyVPQAP_R7S86zf6D2bls7UEAIstz4KSsv_rvdcwxwjsT8iw7PQ_r59hb2mqQUyyJEkcWz9ejCQ05BO-AGKKgkmXgRPdDc6HfTkpPfIYKhHz3-8gEdk8ahHWfldTbHgD8WzHQtnNbbTn-oOjBsdDNM2TJoh2CHsfid7Oc4ROj_VFPVoSS5XICH5IMXeKaBULHVTMhBRqXpRFXCxHfPWeK_0MzyhbhrQPn8Kb2le5pUY06l7SliudWdM6Z4pciaYzQvFyT5kdY5E5de7RWw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خبر فوری \u003cbr/\u003e\u003cbr/\u003eآسترا، هوش مصنوعی جدید OpenAI، تونسته 10 مسئله‌ی قدیمی و حل‌نشده‌ی ریاضی رو حل کنه؛ از جمله اولین ساختار صریح یک گروه غیرصوفی. جالب‌تر اینکه کل این کار با هزینه‌ای حدود 2000 دلار انجام شده.\u003cbr/\u003e\u003cbr/\u003eراه‌حل‌هایی که ارائه داده، فقط ایده‌های خام نیستن؛ همگی تأیید شدن و روی گیت‌هاب منتشر شدن. این دستاوردها حوزه‌های مختلفی مثل علوم کامپیوتر نظری و پیچیدگی مدارهای حسابی رو پوشش می‌دن.\u003cbr/\u003e\u003cbr/\u003eبین این نتایج، رد حدس صلبیت کانز (Connes\u0026#39;s rigidity conjecture) و حل مسئله‌ی 183 پاول اردوش (Paul Erdős) هم دیده می‌شه؛ مسائلی که سال‌ها جزو چالش‌های جدی ریاضی بودن.\u003cbr/\u003e\u003cbr/\u003eاین اتفاق می‌تونه یه نقطه‌ی عطف برای استدلال علمی با هوش مصنوعی باشه؛ چون نشون می‌ده AI داره از حل مسئله‌های معمولی عبور می‌کنه و وارد مرحله‌ی کشف‌های واقعی علمی می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xc703-HjE9dx7hbnI1LUUu0gBkwpCjmTOU0DFH1hzhs_2t-h_dsnRrmTueJfmVrdVl0w8tvzBAtBvhcZ7XEcneq-kFYOQ5geIsuJZA5WV3hHQB764ukDlSY3qhuqPaijLHJpk0kBhYyJp54-qn--bhGW9UWvt295OBS4vfKdFI8kmsmbR_nA6OmErDn-D5boLyvLPlKMm4GI7EBf7r2CXWQkXgLqAbRpCrwYeOQZBggGZV2UszB0OgGEBK2jhtPs7-0VO-iVgFyGhncoLMtWVXYMsVrUVLmmiVlcK8pExnKmMQ3aB71M1FKlywLz_Sbc8eLk-e3M0sgF30rnsKCeyQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه به هک و امنیت علاقه دارید این پست هکرنون رو بخونید درباره امنیت مدل های هوش مصنوعیه\u003cbr/\u003e\u003cbr/\u003eچون Prompt Injection شبیه SQL Injection نیست که با یک تکنیک استاندارد بشه اونو کاملاً حذف کرد. این حمله از نحوه‌ی کار خود LLMها هستش پس هیچ فیلتر جادویی وجود نداره. راهکار واقعی، طراحی سیستم با فرض  اینه که مدل ممکنه هر لحظه فریب بخوره.\u003cbr/\u003e\u003cbr/\u003eاین مقاله مفاهیمی مثل «مثلث مرگبار»، «قانون دو»، الگوی Dual-LLM سایمون ویلیسون، سیستم CaMeL گوگل دیپ‌مایند و شش الگوی طراحی از یه مقاله سال 2025 رو معرفی می‌کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hackernoon.com/you-cannot-filter-your-way-out-of-prompt-injection\" target=\"_blank\" rel=\"noopener\"\u003ehackernoon.com/you-cannot-filter-your-way-out-of-prompt-injection\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VD1vkVnl-sYQj0dCM6oi3Ydi5XteEp9Pp4q4uyUF9az5DFWkKciUVvqAwzyfIaLD4VZtX6UGigY8ZRgqlBpmgFrQbatlP50sgUcINrP1AEKCAfIFHfOJCxwpMbfwfF3W7UcUUTz96D5vhk9v2pGs836wCbuVmkNCulXILZFnv2ouAIY2sbzg_hd4CPrtMyLIRrGSGp2At_aXfbi1TAePuQ-qjOy2BZjrVXnNloJmijI5D2O_r4vmitniCJP520Nm_8u65aThbUafX3W8tJYlmigI9jETUw9UJZvpIb3ZEmmbFiEgYeNGzT55Pibc2Yu4sR_ex3UmQ5bU-Hwsc7cU2Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خیلیا براشون سواله شایان اویس‌قرن، ایرانی‌ای که مدال آباکوس گرفت، دقیقا چیکار کرد؟\u003cbr/\u003e\u003cbr/\u003eاول بگم مدال آباکوس یکی از معتبرترین جایزه‌ها توی حوزه ریاضیات علوم کامپیوتره. شایان مسئله فروشنده دوره‌گرد (TSP) رو حل نکرد؛ چون این مسئله هنوز حل نشده. کاری که کرد این بود که بعد از چند دهه، یک روش تقریبی برای حل این مسئله رو کمی بهتر کرد.\u003cbr/\u003e\u003cbr/\u003eشاید بگید خب یه بهبود کوچیک چرا مهمه؟ چون TSP یکی از سخت‌ترین مسائل محاسباتیه. با زیاد شدن تعداد شهرها، تعداد مسیرهای ممکن به شکل وحشتناکی زیاد میشه و پیدا کردن بهترین مسیر خیلی سخت میشه.\u003cbr/\u003e\u003cbr/\u003eبهبود همین روش‌های تقریبی می‌تونه روی کلی حوزه مثل طراحی تراشه، مهندسی، شبکه‌ها و بهینه‌سازی اثر بذاره. ارزش کار شایان اینه که یه قدم کوچیک، مرز دانش رو توی یکی از سخت‌ترین مسائل کامپیوتر جلوتر برده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-03T15:18:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانت‌های پریمیوم اکانت‌آباد آماده سفارش هستش!\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5262838511161076891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2998A.png\u0026#39;)\"\u003e\u003cb\u003e♊️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gemini Pro - 12 Month \u003cbr/\u003e1,100,000 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5262838511161076891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2998A.png\u0026#39;)\"\u003e\u003cb\u003e♊️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gemini Pro - 18 Month\u003cbr/\u003e550,000 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e تحویل سریع و فعال‌سازی مطمئن روی اکانت شخصی شما\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388632425314140043\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9488.png\u0026#39;)\"\u003e\u003cb\u003e🔈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296767301100513078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-08-03T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 838,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/qs_vBYGMCK7JasyiiadIougcZheq_oqeBA7J-39E6jGlatnMww-r7t4iAYhu4WG8SeBQMMeJZskKznKukFXDmVWF_NDfuitwNAY_4KB_eMo2X4BaWWGtI4JoV2Q5um5mQkk-xzCGWHIu0EJZHa9ybzYGL8YYuaRoG_W0uO1Vf3RCFzRQJZ3u0Tr89FQq-ACCgYCuiaRjONjhNFET_VYz_PUEoKK6MqZi8nozl6p2vIPVVkJU_pZuylS-SDT0RMG1raHrVrOdeDu8Gfd6g7e1JxOwlP4cC_iturJnTQ5yJjCJ-N12QdtEMY8aKXompdvXGmBbckEbPc-JX1ng4f6PGg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "احتمالا خیلی هاتون با اکوسیستم skills که vercel ساخته اشنا باشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://skills.sh/\" target=\"_blank\" rel=\"noopener\"\u003eskills.sh\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهرکسی میتونه اسکیل خودشو بسازه بذاره github و اگر ساحتار اسکیل منطبق بر چهارچوب ارائه شده توسط vercel باشه همه میتونن دسترسی داشته باشن و استفاده کنن.\u003cbr/\u003e\u003cbr/\u003eمن اما میخوام بهتون یک اسکیل خاص رو معرفی کنم به اسم find-skills که از اسمش معلومه کمک میکنه به جای نصب تک تک اسکیل ها خود مدل بتونه tool_calling بهتری انجام بده و اسکیل مشخص رو پیدا کنه.\u003cbr/\u003e\u003cbr/\u003eادرسش اینجاس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://skills.sh/vercel-labs/skills/find-skills\" target=\"_blank\" rel=\"noopener\"\u003eskills.sh/vercel-labs/skills/find-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eروی پروژه یا به شکل گلوبال میتونید نصب کنید.\u003cbr/\u003e\u003cbr/\u003eروی هرمس ترکیب برنده رو میده به شما چرا که خود هرمس سیستم skill_discovery بسیار خوبی داره اما روی اسکیل های نصب شده و فعال و این اسکیل به شما کمک میکنه بیرون اکوسیستم اسکیل داخلی هرمس اسکیل جدیدی پیدا کنید و بهش اضافه کنید و حالا شما هم internal_discovery دارین و هم external_discovery.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Thatssoheil",
+      "date": "2026-08-03T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/o7RuQCh14AKAcfYpGn638uZPEnlPcrDTmCNLTR2SacFJOJWlwRJMK4DbTKzpnYt9jj0nip2Kn28mP-z2WJ3rTKCqyuF-CXOGcux2DRTGJFlftjZ6ZBbmyGv36TRxwX17fgr4kAde3ywnWVAMfLNB1yqZ19OLWN_gdgNdX3FVoVhkX2FUz7VYrVsx4jXLeO_voJG7rc3s4uWMfTXGohpCHmUA7fxgdgPqR0bE9UPrZK6bwTQCRmTuaedgD8BsIHim-zH-kea7ZYR2NiWIuWlPvvicxtTpd6M8OwncRvK82wk_iwR5eh90nTXbM7tvFXw-sipO8MlDtH1zOanm6sepVQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785766514
+  "last_updated": 1785775485
 }
