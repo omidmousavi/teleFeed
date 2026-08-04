@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آمازون در حال سرمایه‌گذاری عظیمی روی هوش مصنوعی هستش (بیش از 200 میلیارد دلار سرمایه‌گذاری برنامه‌ریزی‌شده)، اما به گفته جف بزوس، مزیت رقابتی واقعی این شرکت نه توی فناوری‌های جدیده، بلکه تمرکز بر چیزهایی است که هرگز تغییر نمی‌کنن مثلا‌:\u003cbr/\u003e\u003cbr/\u003eمشتری‌ها همیشه قیمت پایین‌تر می‌خواهند.\u003cbr/\u003eهمیشه تحویل سریع‌تر را ترجیح می‌دهند.\u003cbr/\u003eهمیشه انتخاب‌های بیشتر را دوست دارند.\u003cbr/\u003e\u003cbr/\u003eجف بزوس معتقده شرکت‌هایی که روی نیازهای دائمی مشتریان تمرکز کنن، حتی توی دوران تحول‌های بزرگی مثل هوش مصنوعی نیز مزیت رقابتی خودشونو حفظ خواهند کرد.\u003cbr/\u003e\u003cbr/\u003eدوستان این خیلی نکته مهمیه ها جف بزوس خیلی خوب می‌دونه نیاز های اصلی انسان هیچ وقت تغییر نمی‌کنن و روی اونا تمرکز می‌کنه بجای اینکه بچسبه به چیز های جدید تست نشده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-03T17:15:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OAc7nC98ZwX5_1tLAvHS97q3MPjICFLxE3EakpwixJFARELTpd-cHhiuyc2e7OmPsFh7KZnB0eRNpsc0pCLQG5w7DVlbNTvYzZOTkMh6q6y6kKubiovkGnFx1v0ToimbpgxCuPoyDT9eh__pby_6Y06-7SLTawebG5yYEBW1f_2zgklNeht0-SWfOY3ZuEi3n6P7jdyYsTRR_kWYW8xN1Twrn2aEyhHa1tkbnLedU6djhS6vGY6YC4zQLJHk_Dj9UpMvqALS-owe08Tn7ZXQD-xqGMkAmoQckrMovNlMxWtl3C-5FdHfI6Nf-PfVo4TYH2H0e4eMrd26wzHUllDnoQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بزرگ‌ترین مشکل تست پروژه اینه که معمولاً بعضی سناریوها از یادت میرن؛ همون‌هایی که بعداً تبدیل به باگ میشن.\u003cbr/\u003e\u003cbr/\u003eبرای حل همین مشکل، یکی از بچه ها به اسم سبحان یه Prompt متن‌باز منتشر کرده که سورس پروژه رو تحلیل می‌کنه و \u003cb\u003eبی‌نهایت سناریوی تست فارسی و انگلیسی\u003c/b\u003e در قالب ( عمل + انتظار ) با استایل چک لیست داخل یک فایل HTML تولید می‌کنه. کافیه مرحله‌به‌مرحله تست‌ها رو اجرا کنی و ببینی آیا نتیجه‌ی مورد انتظار رخ می‌ده یا نه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/sobhanrajabi31/test-scenario-prompts\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/sobhanrajabi31/test-scenario-prompts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-03T17:30:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YzFaO9c3bas6p6Tf8RlQkKC1wB4JzMuAulY3g4eyaLsd0ylmtt4NcPhI_oZ7FXYZR6WQgfc45pp4_JxAPY_xF1_Vx3_yXz4yWKvm4sMZiiQMPkrx-PKm6_Xyt8KNCtQCqxNkmALdF7bW-M6H62Bp67Mb5aW8TGYU9SPhCtB6mK6y17phxUrwQAB8bNzCstJaWgBSvWF0288ptQj_2ieDVmo6H0SEl3ySfnhrmk4bwHBPhtw3J3YuChjv3tgRroWQtQ5003a9gRkFBsNTLP2GSEuBRQUYPCzUKJjoqXbH1iwrYXD332cF3OX7ZW7mCR8xxDGIOuGsUEf_H0gMlf52TQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://accmars.com/product-category/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین\u003c/a\u003e ریلزهای تبلیغاتی که توی اینستاگرام و تلگرام می‌بینید رو همش با جمینای پرو و چت‌جی‌پی‌تی پلاس می‌سازن. خیلی از کاربرها اکانتشون رو از اینجا گرفتن؛ هم قیمتش براتون مناسب درمیاد و هم فعال‌سازی‌شون سریعه و همه راضی بودن. می‌تونید یه سر به سایت یا کانال‌شون بزنید و راحت سفارش بدید.\u003cbr/\u003e\u003cbr/\u003eراستی، اگه به پشتیبانی تلگرامشون پیام بدید، زیر یک ساعت تحویلتون می‌دن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars\" target=\"_blank\"\u003e@Accmars\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars_Support\" target=\"_blank\"\u003e@Accmars_Support\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://accmars.com/product-category/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e Www.accmars.com\u003c/a\u003e",
-      "date": "2026-08-03T18:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "برگای آدم می‌ریزه ببینید چه شطرنج سه بعدی با هوش مصنوعی ساختن توسعه دهندش می‌گه فقط توی 2 ساعت ساختتش!\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://medieval-3d-chess.rork.app/\" target=\"_blank\" rel=\"noopener\"\u003emedieval-3d-chess.rork.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/alexngdev99/rork-medieval-3d-chess\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/alexngdev99/rork-medieval-3d-chess\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-03T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JKqJRlCqe57E2LspP_aqCU14cBxcEEj4RgU-ZtJ4reZhbpU6PtuGAo4qONufrCwg7lCHUnyLHSETyZVqqXkNtSMOF-uCcrRzHeUgTVjrgJqNMECWMPYfoCRYJmxudR1_fpMYg7VpDG1waL1nhRdwT1xhgr8wms-iQaUG222KV86vyRJKILWQe3fFPYRp2dzGHGaZe4KYJuvz8K4KPIYIl7197k6YUX_UPcPavi1so3CWG7qUUTxaoOqm4LwTBp88Om22ZFHw0o6xcIHcXQxeTdNi4BtszmFGaD23eqk9CozJFhbcepbq7Vm7qipqeGa88eB96WfLoK7xwvuuGNIz7A",
-          "width": 3840
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "وقتی یه مدل روی لپ تاپ خودت بالا آوردی و ازش سوال می‌پرسی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-03T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 7280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +31,7 @@
       "date": "2026-08-03T19:15:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7060,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +50,7 @@
       "date": "2026-08-04T06:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +69,7 @@
       "date": "2026-08-04T10:03:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +88,7 @@
       "date": "2026-08-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +106,7 @@
       "date": "2026-08-04T11:50:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +118,7 @@
       "date": "2026-08-04T15:39:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +136,7 @@
       "date": "2026-08-04T15:47:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 5020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +155,7 @@
       "date": "2026-08-04T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3930,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +173,7 @@
       "date": "2026-08-04T16:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +192,7 @@
       "date": "2026-08-04T16:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3630,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +211,7 @@
       "date": "2026-08-04T17:19:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3360,
+      "views": 4490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +229,7 @@
       "date": "2026-08-04T17:38:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3060,
+      "views": 4440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +247,7 @@
       "date": "2026-08-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
+      "views": 3910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +265,7 @@
       "date": "2026-08-04T18:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1590,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +283,7 @@
       "date": "2026-08-04T18:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 880,
+      "views": 3960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -361,7 +294,75 @@
           "url": "https://cdn4.telesco.pe/file/QzjmeG8H_vw1c0-DkwA4a7G4e7_trtJmADgmQyRWTJ0dn7BXoBioYfpfcbcpY8eAXtiCkVMl54IBq8fgoXvJIHdl-zutoI9PghN9tKZoT7NxAx4wQ0wgvjIENnXtUC2S81xsD_Uh9Ea-Ed4wqteGepxCJnRXmq86cyH2a8VojpmpPBl6MDXobj-MKdd4XOSMc3tEqBQkLHhXnt5sJtL947b2bRDOBnhLYog-Fd0vWBr8fbSz_5AQQ6X8zXq7_7pQaVNIcVtoQUZlyWthw7yCSaX6m3AMhMOYbiQh-LGU6ECxbU_Ls8y0yiWVym31nAXHgsL-we9hS1gTddt-HOy8xA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اینجا پر از سیستم پرامپت های لیک شدس، آخریش مال GPT-5.6 هستش برای هفته پیش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/asgeirtj/system_prompts_leaks\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/asgeirtj/system_prompts_leaks\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-04T19:14:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/As5Lq72WmuGcpBfruwQ2Xz3mfDIhK2EnV8Wfj7IL6EsO6qvfiGSeKvN3Pqu5ntqZHUQoD7DYyXMklECRQ2aBL96RJzaeLcjEc3Ztl54PD0PWG-NhsavFrFljtRehi1BTTLJ8Nr6c3W_3p47CBZdjbWa_PcmlW7UHdopf2TeUS3NonejOymKXfXInVwnjfQsTfoD-1gzISmeAbSLw2vjxZcNda5ztF414fDIIDAyq4RqozT13Mi0ISKMk94_MbaP0A1-1o29uwBZ6uMzwA67TXK0bQzJee7vDn5eqx96YwyQnIOo5fR3r-DpUVUJcyXMu2QLKksOeChUGal34W2tygQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر با شارژر اندروید ایپدش رو زده به شارژ، آیپدش حامله شده و سه قلو زاییده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنکته : شارژ اندروید هیچ ضرری برای آیفون و آیپد نداره چون پروتکل Type-C هوشمنده این بلا بخاطر فیک بودن شارژره نه اندرویدی بودنش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-04T19:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ZiAkTS6_q0p9uKknS3wDioQaG8N_tAjDKDup8AYqO6xS_OT9axRILEH_Ft3iNP6aXyFy8xIQL8e9Mt0evccYUGNpmQ24qD0umpSEE_aCFGhVGdEZMPRM-Pp3RMn16gyv1gNfhfQe9ySj3D5JuQk4b3sYe9M3-nprO3bHZe1LZ_TmI8qYXFSHEvl_DTfysECGWmiypAdgVrhdQR7kMR8OWLEHVjDcJfU2Anq3LFocYdJwxgkqmv0XXUlA9mN5vMuEBoy709H_z0apGaYPcJtUdBslZPcPJ-ulTXTUGdyIjEcKf0T5zeY9A-obWLPocNfb-QTU7_Jw2Q5m3Y5M_PgmMQ",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مدل های چینی به طور عجیبی دارن بازی رو عوض می‌کنن، دست گذاشتن روی ارزون بودن از طرفی بازی کیفیت هم به همین راحتیا نمی‌بازن، قیمتا رو ببینید چقدر تفاوت داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-04T20:05:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/YldjOBdX_CMlYaPsrZgaoednvmZD4IsmWrkfXP3yXHTeB-P5ERLIXuJYj3kkNRLNiCA2lAZg6HEdVKlTxboosa1OT81OZVTDZ2-YGKzutvqtV0SDM4ns-T4shn_x-w0gQetPwYfjqJESnG3jdWuLtx3li7nb0iisUqog0OXSB5x5kCOEMTAQ6j9cqZn6oY51mIrzdpQKxg_dZ0VP6ndVwt8oAioa3UO0t4AZPVQSAGJz4XYacJDLE5_yTE8d2JtimQ14-FgwVQAKnFKQEXWMU8zQ6EoFa_uTPOqrDNU4Kfg0Q4UBzqIQ5ZrqQeGFAharqLDk32aBpxnJSo_eLDkD5w",
+          "width": 1600
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستانی که سهام های مربوط به هوش مصنوعی دارن دقت کنن توی موج های سال اخیر اکثر شرکت های مربوط به هوش مصنوعی بیش از 2000 درصد رشد کردن این رشد ها بخش زیادیش مربوط به سرمایه گذار هایی هستش که اصلا هیچ چیزی جز سود نمیفهمن (هوش مصنوعی آنچنان سود ده نشده هنوز) با کوچک ترین ضرر و رکود فورا پولشون رو نقد می‌کنن و خارج می‌شن و ممکنه شمارو وارد ضرر کنن.\u003cbr/\u003e\u003cbr/\u003eاز طرفی هم چون بحث میلیارد دلار نیست و وارد تریلیون شده رقابت بسیار خونین شده و هر شرکتی ممکنه بخاطر منافع خودش یه چیزی رو اوپن کنه که به ضرر بقیه شرکتا باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-04T20:24:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1785870411
+  "last_updated": 1785876512
 }
