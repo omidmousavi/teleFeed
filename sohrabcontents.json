@@ -8,28 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003eبازی پُردل (Pordle) اولین بازی توزیع پارچ بر روی مخزن world منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین بازی الهام گرفته شده از بازی معروف wordle هستش که دارای دو حالت روزانه و آزاد می‌باشد.\u003cbr/\u003e\u003cbr/\u003eهمچنین دیتابیس این بازی درحال حاضر دارای ۹۹۳ کلمه است و کلمات روزانه بر اساس محسبات زمانی انتخاب می‌شوند. برای مثال کلمه امروز ۸ مرداد ۱۴۰۵ در این بازی کلمه تمدید بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین بازی اولین برنامه از پروژه پارچ است که به صورت چندسکویی (کراس‌پلتفرم) برای توزیع‌های دیگر نیز بر روی فلت‌پک منتشر خواهد شد.\u003cbr/\u003e\u003cbr/\u003eدرحال حاضر می‌توانید اون رو از مخزن world نصب و آزمایش کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S pordle\u003c/pre\u003e\u003cbr/\u003eهمچنین می‌تونید پیشنهادات و یا انتقادات خود را در صفحه \u003ca href=\"https://github.com/parchlinux/pordle\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیت‌هاب\u003c/a\u003e و یا در \u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eفروم پارچ\u003c/a\u003e با ما در میان بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-07-30T15:15:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 996,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NnwVp6pRN7TS8LgmgWIQFJm82qQ6ySYgNMHcl6GL5m-xb1M6aRaP4Y4ww8jOn_2oR9nLP8xBTpItFg_gO9vH3ia94BN4v4kqlEoUZo9z9fbiHfTkaJa0QNclPYk15UiMz0EJleqZnN5Or4NVyfJp-csJ-AXyfuLkozwErAsHZ40YBgGjzKb-eeavwC_67X4Mpxpy74shpSJ65WDS24z5LcWXc3WUf2_vecTTMjoBwxaJdZLUlXaaYttIMKjHIv0HKVrpgxibVWskAC5wiB6H2r53AaL-huOUMbtglqVH5XlrzFQ8crESzSHqze8LxB08A0xdsYG5pyqOaeTjhGy3Xg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ghMFWpKPj1WoAjYLin2A8SWJ1JYRiMM5hYC9KAWz5OcRroNg-pe6RGBReC0iIL5IMPHZUOxLbbV1aktsoi9PG8Z5dEH4vIODUxbIMlVafE_C3QRYcVyyM5AgeIfQdiYvShoQkilO7GHU5F1aMxnm9UEeL1IsSiCyQ2doa2KmzpxzOiSjFlHBMxs7-opW6A4XseuzRveot3VrK9WRuhWcLGaeJb7EFRAHFhyhyNO-Al6LFERKi_3IGkntk61_QxkTc6ecvM_-IlpoVEPTWcj1i45hw2ZgWL-aOC0TsrQEuHA28FL1FcIxHP95r6bUT_KOINAkWN-1J_NPubK4UvNAPA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یک سری ویژگی اضافه کردم، متادیتای فلت‌پک رو درست کردم و فلت‌پک رو فعلا توی ۰.۱.۱ برای معماری اینتل ۶۴ بیتی و توی ۰.۲ برای آرم ۶۴ بیتی بیلد گرفتم.\u003cbr/\u003e\u003cbr/\u003eروی موبایل این شکلیه.\u003cbr/\u003e\u003cbr/\u003e این هم نمونه اشتراک گذاری شده از جواب شماست:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eپردل\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC9B.png\u0026#39;)\"\u003e\u003cb\u003e⬛\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA8.png\u0026#39;)\"\u003e\u003cb\u003e🟨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003c/pre\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-30T21:58:46Z",
       "edited": false,
@@ -72,7 +50,7 @@
       "date": "2026-07-31T11:29:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 875,
+      "views": 882,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +68,7 @@
       "date": "2026-07-31T14:16:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +116,7 @@
       "date": "2026-08-01T09:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3790,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +146,7 @@
       "date": "2026-08-02T12:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 988,
+      "views": 994,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +158,7 @@
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 947,
+      "views": 952,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +170,7 @@
       "date": "2026-08-03T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 870,
+      "views": 876,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +188,7 @@
       "date": "2026-08-03T17:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 820,
+      "views": 828,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +196,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C7PNxILoTpNwcDFzsN6b3sTIPiH3qfNIPHY6K1-yUXodyvYjv8yAJQ6Ak_uAUGiFznoSwIsTQymvnwSWJkil7nopUQvAiVLGdTpJhX4A3XF1O06hxkUIehGDFYpxOozwvggiSF3LhxaXbLyyY4-pROe2BFZOD88lXPZZaq46w1KR_vKmLnJMTAgitN7I-8tu4WshVdF3gmBuuBMEzdDoW_U5nF19j_bKs5m1gQwjvhCKklEs1j10EbupuDPIHYrwjGBoS9TRD-0qjCzqbil7zUM4Aav7OBVM1kqIvIlcZ4IuprvGU6ZFM-5jrVspL8_e09UMy9sdS8bLRYuyM2cETA.jpg"
+          "url": "https://cdn4.telesco.pe/file/BsWFC0mTMwQDm_lR7-QnBG41ynqMgLMX2knIt60OsPSdZONkqrD-iz_nE-plR3_67GCUkN0iiRfUMv-5r8fqCCQtoIjpdDD6e02_qo_qBhEe2CyXrS1lIP0tWcDvGZNh_Tg8JZ5EV4lPKd4hQmZZmdQPfMCajFYQBe3dqSqw8MA4pnfZ3DAzV82VAvc1b0_E2fEg9K3d3vQn2zniJdj1ZI-Q-lQKKHxLqo2WgIBMUsmSDg8NNnXNOa9tpXP9f0e76vG5H0B0qIyJQxrHiURn88pNJrypxsk44ZkvivAN7o6paRQBbbdv_wAYyyaB9lbNUzTcszGooug2hpSAHbZGUw.jpg"
         }
       ]
     },
@@ -228,7 +206,7 @@
       "date": "2026-08-03T17:24:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 812,
+      "views": 822,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +214,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/i53SlGIz4zIZMhFVThf9y1qbvg1WifUGBQrfdmNyGTETw2gU5-1WNP6TXudAn7pajFxD3vFUZIFrJ42V8rLEc_8YFXPn3wLgR8bPRgjyuTSA97Izi9qNyLkm0jStWT2KQLnvSKSSQVHYUqk4-t6E0pNb2ck31zrl46JQhu7PT2m-pRr0ZNYJRUHyCVO3Mc4PWEJU5JqCAJDws8qFL8ZcHfwrkrqGiohYq1Eb7v-c4s5-ObWA3O2IsYDk6G_-mFulWCBDAjkrtH9XkPNP4muylbyZsz8IxzgjOLzWmLSv8CYO3K1nFTa-3b7vtxljdfqNZV1sX2FuhxKxsJe0h0-GYQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/L1DxPsyUJzwOT9ABr8esfYeogH27rNsggQBsWwJqXdi9ylcNOq-w4FBSw5a6ihTdJFcTOlkZQdk5KkrYW6X40BmtH6JULSVmY9br1fKHKIRnedm891jjpiNyjjyNuGmhla4XpWamTFuFGZg3xIIoWjCvGpcecF5KLJb_f0P3QKvGM3YFGGFBUqRfgCWUd2XRBw854Wh5PFAeejw4YHDP6ZZvL4A3HMdR72I4tpa0d8nf07f4hw2EAOfaQvrG6xJVNdIYA269BFMQlbmbG2RdHoOvCicdoaeueZSvs5BVeTlA7eHbYia28LGqOtO-XmfVyp-VTMtHdtY_2C7QEhuu1w.jpg"
         }
       ]
     },
@@ -246,7 +224,7 @@
       "date": "2026-08-03T21:41:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 727,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +242,7 @@
       "date": "2026-08-04T10:44:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 319,
+      "views": 352,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +254,19 @@
           "width": 1080
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "فروم پارچ هم اکنون به \u003ca href=\"https://t.me/parchlinux/1316\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدیسکورد\u003c/a\u003e پارچ متصل است و می‌توانید در هر دو پلتفرم فعالیت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eدر فروم پارچ با رعایت تاپیک می‌توانید درمورد هر نرم‌افزارآزادی سوال بپرسید، مانند دبیان، اوبونتو و......\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین برای بیلد بعدی پارچ و ابزارهای آن می‌توانید پیشنهادات خود را در این تاپیک بنویسید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/parch-gnu-linux/1129\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/parch-gnu-linux/1129\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eثبت‌نام در فروم با استفاده از گوگل و گیت‌هاب امکان پذیر است، با توجه به شرایط کشور توصیه می‌شود تا یک کلمه‌عبور دستی برای حساب خود تنظیم کنید تا در صورت قطعی اینترنت همچنان بتوانید در فروم پارچ فعالیت کنید.\u003cbr/\u003e\u003cbr/\u003eما سعی می‌کنیم تا با فعالیت مستمر اعضای پروژه در فروم پارچ، توسعه را به سمت جامعه نزدیک‌تر کنیم و ارتباط بین تیم و جامعه را بهبود ببخشیم.\u003cbr/\u003e\u003cbr/\u003eهمچنین IRC پارچ مجدداً در دسترس قرار می‌گیرد و به بخش گفتگو فروم و دیسکورد پارچ پل خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-04T17:22:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 50,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1785858200
+  "last_updated": 1785864571
 }
