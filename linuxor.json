@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بازی ترسناک و بقای TAKEN توی مرورگر\u003cbr/\u003e\u003cbr/\u003eبه تازگی با هوش مصنوعی و ThreeJS ساخته شده : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://taken-game.com/play\" target=\"_blank\" rel=\"noopener\"\u003etaken-game.com/play\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبازی اوپن سورس نیست و فقط می‌تونید آنلاین بازیش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-04T10:03:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gzjFaeynjQt7qPtJhQk_IlxmnEK2F5hXDY4VZVdNPT6oAZFHl8-KdSfoy00g8LRlYvVnAcfFkSSK7gnDmp2ASE8oHNZG_qmV2z1pwRFntD6aEv56kfz1fTFmiOZ3DjbyKfR2E6_72uRd2M-W5tmBttNe4NQA4qaXNC5OGRATmqtnFYkekbkM-2T66843NpCFTpfjoGKaGkNIv2CMLmxDFJoMq3fN7EYfchnkTp5Xh1HPyemVUWysohhy9h-DjeTDoX07E1gQCjWuusim6P1Mc-r1i519t52YnO31VEkN2iEuPmkk_0tO1pamMTes_ZPkQuLY5F-tPWD4kXPIsrWHdQ",
-          "width": 1278
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "شرکت Firecrawl ادعا کرده که سریع ترین موتور پردازش pdf رو اوپن سورس کرده که سرعتی برابر 0.002 ثانیه برای هر صفحه داره.\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه که کاملا لوکاله البته رقبای دیگه ای هم برای این کار وجود داره مثل Docling / Marker / MinerU ولی این مثل اونا OCR نیست این بیشتر خودشو پارسر معرفی کرده\u003cbr/\u003e\u003cbr/\u003eتست آنلاینش که فارسی هم ساپورت می‌کنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://firecrawl.github.io/pdf-inspector/#demo\" target=\"_blank\" rel=\"noopener\"\u003efirecrawl.github.io/pdf-inspector/#demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کدش جهت اجرا روی سیستم خودتون :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/firecrawl/pdf-inspector\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/firecrawl/pdf-inspector\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-04T10:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +30,7 @@
       "date": "2026-08-04T11:50:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 6980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +42,7 @@
       "date": "2026-08-04T15:39:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-08-04T15:47:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +68,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/uiVrDc9l6pBWZ_gB7waMy1ySodboa_oOkvvE7Usc7i8pzTBNv2K83C8vNyMoQmColwlKeDPq6TPEKogeREnDByu2zSXXRx26GLsdQIhHLsaTL7p7-iDDHti9CNRw_Gy8j5KNYUkTCHsLGWZokbqQMFs4F19owmR01q49DIE-6QXyX_1kZD3omLLJFbtVmxN5jNGPj4oOq5jAVaGw5OidFsEz6zaksEy-rlCbJ8_J0WuIB7a5BuPdG4x9nFdPKpPzmnJSmSd_RmZXSOGEk_fwFDMZfPJwnJgvJeupKhC0_E6U2hN55dBUXDL2tEdugGEJY2yIH5TGQ9RZ6fgMCuOhyQ",
+          "url": "https://cdn4.telesco.pe/file/I_S5NupR6rA-5_3YV40hv4YPZB9egQidBjuavcTuHRuW8nmkEiELyfUnrAnZ5GR6VTWssxzSxA8R8IA24msvVtQ0rLX7_UlRijDhfsOmeN-FPsTADCmPrOJcqP5swuvhsxD6AtQa1kMdjCLY6im-JeV7hp77Oi1RvNW-NiwWpx69_hw_ZzrujRrsKh8LYFS-z5RVVnG01iXrc2tWjqBl_xkEc8vDLkSkTt7d42WKGk-77cgX43hA7XROEhxcu2wburRBbwXo1kj-ekAt7L7xp5sFsMBjx9I_ZLP1n8mcWIR2bQ8nXbrxb6yTer-jI0ZhFMT9OsWi5jKBRebWjo3INQ",
           "width": 2748
         }
       ]
@@ -98,7 +79,7 @@
       "date": "2026-08-04T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +97,7 @@
       "date": "2026-08-04T16:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +105,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IppKLao07O0WO0SoXgw21TTIL2QMwcHvKaAPArfa2vmdWI0qBjKEcGmNh5ltrg3yEx0x6w4e8ZGz4aPptOLNNN314jT-VOeS03lpZLpPXSVO96IcAaCYWvLAWrk4p_a-1tet6Q-N037hQGV4QJw7_lxwbcLyR-l3leflG-DodMvylZheZHwk5wqa_t8Tbn3Of1QTELI9YBzNt_BQPChaxtJcpQWGQlp0O6W-koPP4AeLd2TMYDXWYoauna1r7ZXWWuOhsAbTpQWhD13dWhirawLNGmWf4gUBo_OI3K7LOKBVs4G_rlt4rqUSyoAZjjXOfZk5V2HGIJZyE085OZY5hw",
+          "url": "https://cdn4.telesco.pe/file/XyofhoQMtZDToYAn5pcPV5TBW4LOgr6xtK7p4BkgbDi9Y3qR9Sx6uqU4skB9SjiDUFsGS0mqf46D27H0LqQQHF___hykI-agkcboUiWobER7qLtAzPu0-txYapuwcmftR21YQa1FocF1x_Fwub1HwT_o-p8Yw6ayeev7vDMLx-VwRWJV5O-i-5DFhAh5ePtwPIDtF5obrE-eZ9PyvsEk6EsGMl8-4ahj4TlkBUQZDBrHt1tXrw_c1WeE6PME-5O6Z_rREH2x5hsXwav_9TfFeVCdEM5JWLGDixXqJ207rJQyD-fuQzF3Hlwu1HRVpRnw55Rsa8haIok64NVKtOTWgA",
           "width": 1280
         }
       ]
@@ -135,7 +116,7 @@
       "date": "2026-08-04T16:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +124,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oVoap_j_drpB6X6jtOhk-aJ5DgjPIWntoL_PL7odnQdxJlXo3OfZ3mJAWp44r4boaJVSaTS3gN8f9AY0xgOLMiNDW9NVNgnXz7IxqiMG_sy-p4kYlz-dxryl9F_BJ7E0BOoV90j_8ke2BYlrYzpxuTKRGEzboXjJxLHCTBGJXyGc2U36SFEnwBAVvQYVZIOqizHkSwDCrjbVPRMngjSTkj0B14_2oUaFItuJwTRnY8anNzECS0ft68NEJHArfDhhG3vzY0jXuMsvDb0V1-MYQz6zjHiRW0c0HDiA6ImuTzvytlXp2Wk3FvYP5QpiH7JAloej7d0f9vBBPBJmGlMIpA",
+          "url": "https://cdn4.telesco.pe/file/KagLyv9kdqhDh1znKErbbwopTNESKgNrMRmFnMAB0Xv0EWcigH_6blpLEnLU9-9YWPOoRF439C9iBNnKc70166RHHQuJKAhOhFVltt-8UtNffMSengtA1n8OL7mAk-pwF7G2hJ9-NkY3Q0avcWyi1g9u9UC1_3tvaYThQgrscvPZTXvkbEQPWJHMqGXchm6izA1FmrKho_7ADMtjkLUAFNeS9EAZL95aAVFAaO25FSJ1E6nKGBWny5gRk-AvAtSDkpPiqfbdUuwxzxk-ElxE-qXGNnUPnwoIROdEssZasjULkOxMKk5Ja9xkc2fC0DaHKmQ8MQKkN67DjO7SCKIWWA",
           "width": 1920
         }
       ]
@@ -154,7 +135,7 @@
       "date": "2026-08-04T17:19:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +153,7 @@
       "date": "2026-08-04T17:38:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +171,7 @@
       "date": "2026-08-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 5750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +189,7 @@
       "date": "2026-08-04T18:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +207,7 @@
       "date": "2026-08-04T18:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +225,7 @@
       "date": "2026-08-04T19:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +243,7 @@
       "date": "2026-08-04T19:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +251,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RkOXFiJf5iCvUkaOcfWCSf6YJf2fbgcK9Ao19QfLPSYm5ZX8JirVcm4yFBafB_VdaB3zoCQ9uXG7JLO_PbwDqVBgZfHHz-dgKTr4FNduaN8wMoBSEF3G3_bjYAQOeBazzB2Nn8cLjWdt8rblM9RyUMtgSac-b8_788zsRcreP9q1D3bf3dCIGoH_dloArB-okS13IVWlhOXgRue1H7YDT4f97FvvvRVgnn87vYB5s9OBa0ffZrcpujW0pcME0F-oD5zyhcVc0sid6PCxbXFteETOl0Bg7TdTPbaOMufqfOpoPRKfRxP9GcF3QdQcvLWliR0PhR_wx1APY1xbFR8gJg",
+          "url": "https://cdn4.telesco.pe/file/ZiAkTS6_q0p9uKknS3wDioQaG8N_tAjDKDup8AYqO6xS_OT9axRILEH_Ft3iNP6aXyFy8xIQL8e9Mt0evccYUGNpmQ24qD0umpSEE_aCFGhVGdEZMPRM-Pp3RMn16gyv1gNfhfQe9ySj3D5JuQk4b3sYe9M3-nprO3bHZe1LZ_TmI8qYXFSHEvl_DTfysECGWmiypAdgVrhdQR7kMR8OWLEHVjDcJfU2Anq3LFocYdJwxgkqmv0XXUlA9mN5vMuEBoy709H_z0apGaYPcJtUdBslZPcPJ-ulTXTUGdyIjEcKf0T5zeY9A-obWLPocNfb-QTU7_Jw2Q5m3Y5M_PgmMQ",
           "width": 720
         }
       ]
@@ -281,7 +262,7 @@
       "date": "2026-08-04T20:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +270,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/r2J4dAy8H3Vw539WHYs5_JVKWkWolOna5y47gW9spD5gZWoFi79G-vlp5jN0YNk351LwhJQOxlMjLoTNf1e0WyvbIKGvx_f5rflo-eccFSXBvBJf7pJmq1XNq5-Y6gtQR0rQ4D-wq5nzB3qmKj6GTj_xZOLZVXV4V8eoMxz6jdyPLx9LWkfKKwSiYQqFY6nTNJ3hDZ9LIP44rFnBzLFCrruBPZpIYqMu2AiaqsJEeeEF1-WVYSs8XN2DeWl-WHci0KCrSmV8iqORRm0wJD5xTNGKrxABxE5LtMJKtznwrIH9tFe-6giqfwdIsOD-0ClkMsAHgVPbtPEiZQ9d3rxsDw",
+          "url": "https://cdn4.telesco.pe/file/YldjOBdX_CMlYaPsrZgaoednvmZD4IsmWrkfXP3yXHTeB-P5ERLIXuJYj3kkNRLNiCA2lAZg6HEdVKlTxboosa1OT81OZVTDZ2-YGKzutvqtV0SDM4ns-T4shn_x-w0gQetPwYfjqJESnG3jdWuLtx3li7nb0iisUqog0OXSB5x5kCOEMTAQ6j9cqZn6oY51mIrzdpQKxg_dZ0VP6ndVwt8oAioa3UO0t4AZPVQSAGJz4XYacJDLE5_yTE8d2JtimQ14-FgwVQAKnFKQEXWMU8zQ6EoFa_uTPOqrDNU4Kfg0Q4UBzqIQ5ZrqQeGFAharqLDk32aBpxnJSo_eLDkD5w",
           "width": 1600
         }
       ]
@@ -300,7 +281,7 @@
       "date": "2026-08-04T20:24:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +293,7 @@
       "date": "2026-08-05T06:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +311,7 @@
       "date": "2026-08-05T09:17:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3670,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +323,7 @@
       "date": "2026-08-05T09:28:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -353,7 +334,25 @@
           "url": "https://cdn4.telesco.pe/file/KUuFzGsyC4lzJJNSEmyDOelaUAao0zVGFhm_dVdIYvJwXiOEHCI9Ut0BT9isCpyR7jd-VUd8BGWX052xIIShcVXGsJbGeOYjM-7olPi61Q9Zo_QvS4zXW5J7MREDUi15cDmeYyyC0sY_fRXdZPnZ-dWoOd7JrsxPHwic7r_m9zN0mVOFdQI4rW7mgL6-F0O3Yvsll8NpWvs8wkuZzrQLHx9Z2pyqHqNyaV_ZXZdvvbxktBJrbpaOKddhs9Z_pfYhI9Hu5wbZbouHCLhjzbCV-EmlT7062uRORI-Z6spZjaeIjO7NlibckLRkLOwJFM6Qtxc9RE4O2VgCFWP_I6OXTQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "جایگزین متن باز Fonto، رایگان، تحت وب\u003cbr/\u003eدیگه برای استوریاتون پول اشتراک ندید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین:\u003cbr/\u003e\u003ca href=\"http://fontwow.github.io/\" target=\"_blank\" rel=\"noopener\"\u003efontwow.github.io\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد پروژه:\u003cbr/\u003e\u003ca href=\"http://github.com/FontWoW/FontWoW.github.io\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/FontWoW/FontWoW.github.io\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ m4tinbeigi",
+      "date": "2026-08-05T12:34:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UIfhtZ85EZ0ftSeHUqF65BnRQq7ayC1TqOysvbwl1H40vGjHp7_Ro3W5cbn3pwxhK2rQWr1C6axUIuJljFU28-HD-AjttxvQKzLHjSDb7TY_ecvRUMnN7aqm7uh36kMI5ocua4JJM-ZAs4visVxv_JQal40ZHSp5Qy-6IDkDHka3iBc-fwbW5ZNcQf2vfsmrNIkgGnvVo5R8SNpPLoy3xhOeH3ytofF_mbOP1robY7D3740joezORacPC0qPjIPl15laUdUSjRiepmL5rdMbfZ7oM4QypJfVkJk1yukEAdGeHJrd8g-Jd1sA4CQAEDcCMgRu1IKJn1wxt9yNa17gng.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785929729
+  "last_updated": 1785937348
 }
