@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "شرکت Firecrawl ادعا کرده که سریع ترین موتور پردازش pdf رو اوپن سورس کرده که سرعتی برابر 0.002 ثانیه برای هر صفحه داره.\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه که کاملا لوکاله البته رقبای دیگه ای هم برای این کار وجود داره مثل Docling / Marker / MinerU ولی این مثل اونا OCR نیست این بیشتر خودشو پارسر معرفی کرده\u003cbr/\u003e\u003cbr/\u003eتست آنلاینش که فارسی هم ساپورت می‌کنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://firecrawl.github.io/pdf-inspector/#demo\" target=\"_blank\" rel=\"noopener\"\u003efirecrawl.github.io/pdf-inspector/#demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کدش جهت اجرا روی سیستم خودتون :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/firecrawl/pdf-inspector\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/firecrawl/pdf-inspector\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-04T10:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SN5s072ubNKO3o9tX3udHtzqNdfd3DR1qDqlekwwDGaO5WVWsreBOdM80MkE0hC_94AC0aRGuiyGTbAnaBVUi0OE_wFXWeiqfNBE67AG99aEqr_k5OlzdCIuIZnW7D7hSC7QHDIBXrtLe7N-Xtflt34YrGN5glcSrIcwMWTvZax_RZFX-NJHzpE7wtfO_LsO71Tl2Ac26Bej2tzLsYYUYcr6KA-ygqmMLtQ5TT5FJ6PoJU6Xg5iLt5VZ47PmKI6cZ4KpbOHPfbmy2bwmt5GYr6TUgCvh5ix1Zcv25Xmj37prSOQb89HqqTdrwG37WE_d-E0tjYFPx2IJ0zcnb-kXvQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تویی که تاحالا یادگیری عمیق نداشتی معلومه ماشینی که یادگیری عمیق (Deep Learning) داشته جاتو میگیره. \u003cbr/\u003e\u003cbr/\u003eبفرست براش بزار یکم به خودش بگیره نگران بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-04T11:50:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دیروز یه خبر عجیب از دنیای بیت‌کوین منتشر شد چندین کیف‌پول سخت‌افزاری Coldcard هک شدن و ده‌ها میلیون دلار بیت‌کوین از دست رفت. نکته ترسناک ماجرا اینه که هکرها دستگاه‌ها رو نشکستن؛ مشکل از جایی بود که فکر می‌کردیم امن‌ترین بخش ماجراست: ساختن کلید خصوصی.\u003cbr/\u003e\u003cbr/\u003eماجرا اینه که هر کیف‌پول بیت‌کوین اول یه عدد کاملاً تصادفی می‌سازه و از اون Seed Phrase (همون 12 یا 24 کلمه بازیابی) تولید می‌کنه. اگر این تصادفی‌سازی ضعیف باشه، فضای حدس زدن کوچیک میشه و مهاجم می‌تونه Seedهای احتمالی رو یکی‌یکی امتحان کنه تا به کیف‌پول‌های دارای موجودی برسه.\u003cbr/\u003e\u003cbr/\u003eیعنی هکر لازم نیست دستگاه رو بدزده، PIN رو پیدا کنه یا رمزنگاری بیت‌کوین رو بشکنه. فقط کافیه Seedهای ضعیف رو بازسازی کنه، آدرس‌ها رو روی بلاک‌چین چک کنه و اگر پولی داخلش بود، با کلید خصوصی اون رو منتقل کنه.\u003cbr/\u003e\u003cbr/\u003eدرس بزرگ این اتفاق اینه که امنیت فقط به آفلاین بودن کیف‌پول بستگی نداره. اگر ریشه کلید اشتباه ساخته بشه، حتی یک Cold Wallet هم می‌تونه تبدیل به یک گاوصندوق با قفل قابل حدس بشه. برای کاربران آسیب‌دیده، ساختن Seed جدید و انتقال دارایی تنها راه امنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-04T15:39:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MpmEeGfvqSx9CTs1sHblFALpkQzcxjznONCt1V8vsvb26WWfR8VjmktxckdFLPL4aP1C1dbcg9GUl6wCyU7l0fHtFLw39Jr6UzRlqw2kIo9nCiTb3BQ9OCYSqTYIilYkSbGz8PiyzQuPF4LVhR_Yna7Z40NH2kWfn_NeX1l0b9S-Oau3y00UDOOzu_t6LVx1CfR48jJ1RQjgbxtPTzwFrCNMsRvipe_KUGNdYXJK_L1W5_fBLogtN6uirIm8bEsPQBQyoA10Wb9GmSFY6rdTKgjPhPnfalbHKZRUdJwicxvoA6WmlVdGb1FP7zGayLUlz06RF7VEJPAAuCKFQ55l4g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این ابزار رایگان بهت اجازه می‌ده افکت‌های خیره‌کننده‌ی Glassmorphism رو با کلی گزینه برای شخصی‌سازی بسازی. حتی از طراحی‌های Liquid Glass و Neumorphism هم پشتیبانی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://aethercss.lovable.app/\" target=\"_blank\" rel=\"noopener\"\u003eaethercss.lovable.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-04T15:47:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/I_S5NupR6rA-5_3YV40hv4YPZB9egQidBjuavcTuHRuW8nmkEiELyfUnrAnZ5GR6VTWssxzSxA8R8IA24msvVtQ0rLX7_UlRijDhfsOmeN-FPsTADCmPrOJcqP5swuvhsxD6AtQa1kMdjCLY6im-JeV7hp77Oi1RvNW-NiwWpx69_hw_ZzrujRrsKh8LYFS-z5RVVnG01iXrc2tWjqBl_xkEc8vDLkSkTt7d42WKGk-77cgX43hA7XROEhxcu2wburRBbwXo1kj-ekAt7L7xp5sFsMBjx9I_ZLP1n8mcWIR2bQ8nXbrxb6yTer-jI0ZhFMT9OsWi5jKBRebWjo3INQ",
-          "width": 2748
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآفر امروز ویژه کاربران Linoxur\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاکانت یک‌ماهه Cursor Pro کاملا اختصاصی با دسترسی به قدرتمندترین مدل‌های هوش مصنوعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e Grok 4.5 High Fast  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e GPT-5  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e Claude Sonnet 4  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e Fable5  \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اکانت کاملاً اختصاصی  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e همراه با دسترسی به ایمیل متصل  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اکانت پیش‌ساخته و آماده استفاده  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تحویل فوری\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت ویژه: \u003cb\u003eفقط ۳,۴۰۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/ariobox_bot?start=promo_15_35\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبرای مشاهده و خرید اینجا کلیک کن!\u003c/b\u003e\u003c/a\u003e",
       "date": "2026-08-04T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +30,7 @@
       "date": "2026-08-04T16:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +49,7 @@
       "date": "2026-08-04T16:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +68,7 @@
       "date": "2026-08-04T17:19:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +86,7 @@
       "date": "2026-08-04T17:38:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +104,7 @@
       "date": "2026-08-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +122,7 @@
       "date": "2026-08-04T18:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +140,7 @@
       "date": "2026-08-04T18:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +158,7 @@
       "date": "2026-08-04T19:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +176,7 @@
       "date": "2026-08-04T19:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +195,7 @@
       "date": "2026-08-04T20:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +214,7 @@
       "date": "2026-08-04T20:24:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 7030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +226,7 @@
       "date": "2026-08-05T06:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +244,7 @@
       "date": "2026-08-05T09:17:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4740,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +256,7 @@
       "date": "2026-08-05T09:28:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,7 +274,7 @@
       "date": "2026-08-05T12:34:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 4260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,7 +285,75 @@
           "url": "https://cdn4.telesco.pe/file/UIfhtZ85EZ0ftSeHUqF65BnRQq7ayC1TqOysvbwl1H40vGjHp7_Ro3W5cbn3pwxhK2rQWr1C6axUIuJljFU28-HD-AjttxvQKzLHjSDb7TY_ecvRUMnN7aqm7uh36kMI5ocua4JJM-ZAs4visVxv_JQal40ZHSp5Qy-6IDkDHka3iBc-fwbW5ZNcQf2vfsmrNIkgGnvVo5R8SNpPLoy3xhOeH3ytofF_mbOP1robY7D3740joezORacPC0qPjIPl15laUdUSjRiepmL5rdMbfZ7oM4QypJfVkJk1yukEAdGeHJrd8g-Jd1sA4CQAEDcCMgRu1IKJn1wxt9yNa17gng.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآفر اکانت ۶ ماهه Figma Pro Full Seat\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفعالسازی روی اکانت شخصی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e Dev Mode\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e Figma AI\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e Figma Design (Full Features)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cb\u003e Figma Make\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e Figma MCP\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e Figma Sites (Beta)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e FigJam Collaboration\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e Figma Slides\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e Figma Buzz (Beta)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/ariobox_bot?start=promo_158_167\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبرای خرید اینجا کلیک کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8C.png\u0026#39;)\"\u003e\u003cb\u003e✌️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-08-05T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Es69W0fQiSk5qsThTAXfc9egs1HHH5JM3wOdl5W3p4ftHBgjv9Kp0RC4cVBlnGo2urj01cHTwQaAxsDsVLDTqI9tFtK65rjAmMp0ZsaGfERNsV49PuKBj-VBRvrQbfxXDhI6MJNPcM-NXgvp2_RFhZH6FBTZUCGYwuXO1OeY2U9wbKCcpIVfQq8yCGteAJUPM4sZEKDxeU4QR_Axn5KcAK58e6VXGq6m4GEZK3e_4IDQZSdBd2CFrvGSBIDF6Rf9HKwiCt-HSVx-cblRTetDUUv8ccjphHKVv7hBL28Oy0NgyehRntkHcT-h332VEf0l3RsVhdwnO4mHQpyPjvuCVw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر به سه تا مدل Fable و Qwen و KIMI گفته سه بازی یکسان رو بسازن و نتیجه رو ببینید Fable واقعا نتیجه بهتری داشت اما Qwen هم نتیجه قابل قبولی داشت :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپرامپت و تست آنلاین بازی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://cloud.typingmind.com/share/3c57d9d5-852f-435a-844b-26e61d630e0b\" target=\"_blank\" rel=\"noopener\"\u003ecloud.typingmind.com/share/3c57d9d5-852f-435a-844b-26e61d630e0b\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-05T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/srhkOeOu1JjTlJS-JVrZSgKcQu9rUX_gcUnIEMAUTefZo2a0ZRb2QFjoaQqW2GiUKBr5OOzywOTWnmeHfZnbLDelmFhnO8dKfuRdC8dONZ5NE8XIcHKGPkKpvQUiwDPv0ZWhwAhoWlWiy8CjIFAdx4ocdAf_17yLva3BhKbtlkcHXKJ6wtQCAQhfNkWeCEJx0J_3DI5-erSzhvy1rfHSzBYft25fJDVMXM9gFnWmTr7khOZCOMj88zh8zNPXbHL9wYNvl2POn8YrOoXiUVc4LQqi7BeRQ3V53KXagGSSsR7UxugZhQ9GsVxSupBIEVjpjgviMUxUd0hFP3Nbi2lW7g",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من مهم ترین چیزی که توی این سالها برنامه نویسی فهمیدم اینه که وسط کد زدن چای و قهوه رو تا آخر نباید بخورید چون ته لیوان می‌مونه خشک می‌شه و شستنش دردسر داره یه ذره بزار تهش بمونه خیس باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-05T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "کسایی که توی فاز هوش مصنوعی نیستن ممکنه اسم اینو نشنیده باشن openinterpreter یه ابزار متن‌باز که به یک مدل زبانی (مثل GPT یا مدل‌های محلی) اجازه می‌ده کد اجرا کنه و با کامپیوتر شما کارهای واقعی انجام بده.\u003cbr/\u003e\u003cbr/\u003eنکته خوبش اینه به صورت پیشفرض سندباکسه و کار خطرناکی نمی‌کنه و همیشه ازتون اجازه می‌گیره و همچنین اوپن سورسه.\u003cbr/\u003e\u003cbr/\u003eدانلود برای مک، لینوکس و ویندوز :\u003cbr/\u003e\u003ca href=\"http://www.openinterpreter.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.openinterpreter.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-05T15:15:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/H-GzVJu3Okvri-YZu-2LtyhV-IxrG0VKq2jUCV7MaKnFHKm9EQ4pHU2fv5Qor8WYpiz0110MPpYIL7w18zJQgSy9Hp7ItsRIr8NGa2hwoRehQf9p3DfhZIHU53zTG-J47P52kJk9WVjBOKKNgsEBn426X0DHL_xEKBPdUgOP9zg1e6J-8_0yMAuGGs4M9ignsZDPzizebVbZlxP8SGirgsUaedQuOzqIQ_J659-QxcqTnJzVX0GPX2pEX8k-t1rN0pXwuRYzYhWn_svZAfy8gAKhKF9KJoa86-dc_V20EnpNNg-EsIFRgeIRNUDlPeJwdwGQIy0sXKUG2QpA8DZcyg",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1785937348
+  "last_updated": 1785945264
 }
