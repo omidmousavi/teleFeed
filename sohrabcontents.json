@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9382.png\u0026#39;)\"\u003e\u003cb\u003e📂\u003c/b\u003e\u003c/i\u003e \u003cb\u003eDolphin\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eچه چیزهایی مدیر پرونده دلفین رو متمایز می‌کنن:\u003cbr/\u003e\u003cbr/\u003e- ترمینال یکپارچه با فشردن F4\u003cbr/\u003e- تقسیم صفحه با فشردن F3\u003cbr/\u003e- امکان نصب افزونه‌های مختلف\u003cbr/\u003e- پشتیبانی کامل از SMB، SFTP، FTP و ...\u003cbr/\u003e- نوار نشانی هوشمند با امکان کلیک روی هر بخش از مسیر\u003cbr/\u003e- برچسب‌گذاری، امتیازدهی و نظرگذاری روی پرونده‌ها\u003cbr/\u003e- حالت‌های نمایش مختلف که برای هر پوشه جداگانه به خاطر سپرده می‌شن\u003cbr/\u003e\u003cbr/\u003eبسته \u003ccode\u003edolphin\u003c/code\u003e رو از مدیربسته‌تون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23App\"\u003e#App\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-07-31T11:29:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 968,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YcWJLKLDzO6DvtyhLizD7PdajDZodkFzkjw1pvKyc9vN8O_i4tMxTGaQoQ4fnIHnANSMvO6Mc8kqICAaSLR8FH9ScPKk3alBfeWAi3oClkqk7rTR0zhRh-q3s1aGCJ01BJrU-Ht4W6vS3C5a9in4-32zVhQdVlcT6FbNYEA8jG4niRJONVOhWrKG1kyW8CaIdPqUiOr6_l-PFAOE8jhMUPOy6o4Sk_-YnbCwgmkDOCTiokaONVfdsP9GTrILh92zL8QOjbssP_EotYcmZK2EdwDerT8vqDn9hUR132lePXB97LCwh-1SnyTvZYxTsGMzeMs_JQdher9DVWusOqq1SQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "درود بر همراهان جامعه کی‌دی‌ای فارسی،\u003cbr/\u003e\u003cbr/\u003eزبان برنامه‌نویسی راست (Rust) در زیست‌بوم کی‌دی‌ای به بلوغ چشمگیری رسیده است؛ تا جایی که مستندات رسمی توسعه‌دهندگان، اکنون بخش ویژه‌ای را به آموزش گام‌به‌گام این زبان اختصاص داده‌اند.\u003cbr/\u003e\u003cbr/\u003eبرخلاف پروژه‌های مشابه که تنها امکانات کیوت (Qt) را در راست فراخوانی می‌کنند، پروژه CXX-Qt با هدف یکپارچه‌سازی و پیوند کامل زبان راست در محیط کیوت ایجاد شده است.\u003cbr/\u003e\u003cbr/\u003eدر این راهنمای جدید، به‌شکل عملی و ساده با مفاهیم زیر آشنا می‌شوید:\u003cbr/\u003e\u003cbr/\u003e* ساخت اشیای کیوت (QObjects) به‌طور مستقیم در کدهای راست\u003cbr/\u003e* نوشتن اولین پیمانه (ماژول) اختصاصی با استفاده از CXX-Qt\u003cbr/\u003e* طراحی رابط کاربری با QML و اتصال آن به کدهای راست\u003cbr/\u003e* پیکربندی و ساخت پروژه با سامانه‌های ساختی مانند کارگو (Cargo) و سی‌میک (CMake)\u003cbr/\u003e\u003cbr/\u003eپیش‌نیازهای شروع این آموزش ساده است: نصب بودن ابزارهای زبان راست، یک همگردان (کامپایلر) برای C/C++، ابزار سی‌میک (نسخه ۳.۲۴ به بالا) و کیوت ۵ یا ۶.\u003cbr/\u003e\u003cbr/\u003eاگر می‌خواهید امنیت حافظه و کارایی زبان راست را با قدرت کیوت ترکیب کنید، مطالعه این مستندات رسمی را از دست ندهید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://develop.kde.org/docs/getting-started/rust/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://develop.kde.org/docs/getting-started/rust/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23KDE\"\u003e#KDE\u003c/a\u003e \u003ca href=\"?q=%23Rust\"\u003e#Rust\u003c/a\u003e \u003ca href=\"?q=%23Qt\"\u003e#Qt\u003c/a\u003e \u003ca href=\"?q=%23CXX_Qt\"\u003e#CXX_Qt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
       "date": "2026-07-31T14:16:53Z",
       "edited": false,
@@ -42,7 +24,7 @@
       "date": "2026-07-31T20:10:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1400,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-07-31T20:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 1610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-08-01T09:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4340,
+      "views": 4370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XtEzCEmuapBKGgbY3oHe1YYIsXp1GgEzwdYzJ7j0tUDJLEmTzARFoadzqtB4tv1aVFbUKk4c9gP45bU1F_bAg9zU0scpr7bh_Yu_lLDy570Xtn42jr94Mciglr2NRNyBYWiwF24v8D3A83e6-qhVdksGZc9YsS3zaUuHn03JomZfz4DLuagRYLRJNys5X1JABQi2kfwoAjNv0CCA7Ci9DFYkALeN9Xp6Ra53fj0gJdY07Pv2bO9qH_oBJa10jHdMohbN8sAenMKaRCZMh6d4GGCx294kYDZH4LG3_-iMtpT8eAGw9dcsmqpGBrbK6n7PA7SfTfB3kEb17t7HltDu4w.jpg"
+          "url": "https://cdn4.telesco.pe/file/b5E3cevnv1OjZTv09YoLtVUD274Zz315zG3BpiIEfV7xipsBRAr1rxhiUKeZ9aPHFI6pvLXqbF0_B3qNV0UbBmCFqF9ATeJRSPrOy9Ozd5CalHs7cAMvEF6v-jHoVFFTtn0da8MCOnnO8Xrvl1aCQr5COnO0U0Auy8gW8wbX-00h2iPLtGDp0fzwobIYpfD43B__RH9LM-cg1r8Kh9EMzS7OLTV3O6Tk9PzXzwVwryZw41IhC3NoWm9paWfypXFhBfyeK1N_gPbch2onFTsJIFp1afm530wf6hQeAFqNQo11SA4M7kId_FB7U3HCpbdtjIBgQ1PlAjQrYTZDPr-cHA.jpg"
         }
       ]
     },
@@ -96,7 +78,7 @@
       "date": "2026-08-01T23:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-08-02T12:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-08-03T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 999,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-08-03T17:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 944,
+      "views": 953,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-08-03T17:24:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 948,
+      "views": 957,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "date": "2026-08-03T21:41:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 932,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-08-04T10:44:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 742,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +205,7 @@
       "date": "2026-08-04T17:22:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 692,
+      "views": 706,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-08-04T20:38:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 813,
+      "views": 834,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-08-05T07:24:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 626,
+      "views": 659,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +248,7 @@
       "date": "2026-08-05T11:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 547,
+      "views": 592,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +256,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u-Zd_RDeZDGhQqSBfCiUOEuYkAZutVPioOkev4dgQvSxnZXFmbj5bRcjxVNtqANq4FG1S4Qjl9kzf7lwEGPLE1o3g4ZY0e-Mn--iNHJGF7STVoTRsFocwjXn4h3jm_hzlhGMOZM9o00irc3pmwZJBHA28eNBbqdJGf1zvOX6WVNFRsdTdTIgmuNJE_SHpTkRzlLPnj9_1hbg4qb3bB70lY3sGDsmbLWQgte1i3QEn14XXbamdmpv1bGGgE_dWkhrOvVv2YkYWg_1x9g2PTyMmahuE8w7iiWU3sSzYRQuqJ1X11QvNrhRYFSHctx6lwarHBIRI5CvR2Ez8KLiccuMWg.jpg"
+          "url": "https://cdn4.telesco.pe/file/gLq5VZw7GEirMzyNfluEU9fadQH1qgX6iPquIBr5H4Sz8WH_qhyIh8oavezPjHhaXQzwlt5GyEK9Kz2GsaqbnHCXGOqSvgPpBPe49FPuymjII6v9fEot3_dsRc9Y4Q5MF-3ApuSWgM0NH0VxP4NVN5vVdyeOY_cdC0mrXLiRpa12KsGEHhP4EACsDJ8rcX7mIKpR1XG-n0_l8_77XuUtr6U2HdH-5UOjXoxHdXtw1a4AzGDEJi7f8wR39QuT6lAgSNmzMO8mmHZO_-5HyVpc0EHXj14itByCb1MkH_qVWHK078g8q5OI9qcLic4_NX7rc46ubvvoVhNn5I3sc8jQfQ.jpg"
         }
       ]
     },
@@ -284,7 +266,7 @@
       "date": "2026-08-06T07:09:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 348,
+      "views": 470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +288,7 @@
       "date": "2026-08-06T09:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 258,
+      "views": 428,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +299,19 @@
           "url": "https://cdn4.telesco.pe/file/aHU_34NO0XZulKMlAtonXn9Vcjg3t5bdCVbIFsbvRZseg_df51_uqm9kMDdC0eQjnXtfCMgOv-XuM331sY2j1X98SoCDrVAhwX2Sa_sA4_p4RngwT0ekIpi2aIHiKHqpPGTAr0aQUlZ0sbW3IasujFGhFaaMN9yYbi03GbwFsNKN6G8rVGLJJY6kO4x7Hxc8xoElkf2MMdNomw5RNIpcbTR_N23uzNAegpKQCCAGwzUG35Qs01GN2Iu1VUU5AkU3PeGYhCeM_i70RbfRkHFku5zKt2ochq7--xiJGrgu2KtquJHg9zcxB1BcUI1BnxAuYqzIkdwKJg88fG_zMkROCw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یک مطلب خوندم الان دربارهٔ وضعیت فعلی متن‌باز که واقعاً طنز تلخی بود.\u003cbr/\u003e\u003cbr/\u003eاز فشار کاربران برای MIT کردن مجوزها، موج AI-generated PRها، پروژه‌های «vibe coding»، اسپانسرهای بی‌ربط، بحران نگهداری پروژه‌های رایگان، کمک‌هزینه‌های دولتی، و تناقض بین آرمان‌های FOSS و واقعیت اقتصادی توسعه‌دهندگان. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://lake.computer/blog/help-wanted/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://lake.computer/blog/help-wanted/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوصیه می‌کنم شما هم بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-06T11:23:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 242,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1786012112
+  "last_updated": 1786019127
 }
