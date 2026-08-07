@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "درود بر همراهان جامعه کی‌دی‌ای فارسی،\u003cbr/\u003e\u003cbr/\u003eزبان برنامه‌نویسی راست (Rust) در زیست‌بوم کی‌دی‌ای به بلوغ چشمگیری رسیده است؛ تا جایی که مستندات رسمی توسعه‌دهندگان، اکنون بخش ویژه‌ای را به آموزش گام‌به‌گام این زبان اختصاص داده‌اند.\u003cbr/\u003e\u003cbr/\u003eبرخلاف پروژه‌های مشابه که تنها امکانات کیوت (Qt) را در راست فراخوانی می‌کنند، پروژه CXX-Qt با هدف یکپارچه‌سازی و پیوند کامل زبان راست در محیط کیوت ایجاد شده است.\u003cbr/\u003e\u003cbr/\u003eدر این راهنمای جدید، به‌شکل عملی و ساده با مفاهیم زیر آشنا می‌شوید:\u003cbr/\u003e\u003cbr/\u003e* ساخت اشیای کیوت (QObjects) به‌طور مستقیم در کدهای راست\u003cbr/\u003e* نوشتن اولین پیمانه (ماژول) اختصاصی با استفاده از CXX-Qt\u003cbr/\u003e* طراحی رابط کاربری با QML و اتصال آن به کدهای راست\u003cbr/\u003e* پیکربندی و ساخت پروژه با سامانه‌های ساختی مانند کارگو (Cargo) و سی‌میک (CMake)\u003cbr/\u003e\u003cbr/\u003eپیش‌نیازهای شروع این آموزش ساده است: نصب بودن ابزارهای زبان راست، یک همگردان (کامپایلر) برای C/C++، ابزار سی‌میک (نسخه ۳.۲۴ به بالا) و کیوت ۵ یا ۶.\u003cbr/\u003e\u003cbr/\u003eاگر می‌خواهید امنیت حافظه و کارایی زبان راست را با قدرت کیوت ترکیب کنید، مطالعه این مستندات رسمی را از دست ندهید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://develop.kde.org/docs/getting-started/rust/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://develop.kde.org/docs/getting-started/rust/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23KDE\"\u003e#KDE\u003c/a\u003e \u003ca href=\"?q=%23Rust\"\u003e#Rust\u003c/a\u003e \u003ca href=\"?q=%23Qt\"\u003e#Qt\u003c/a\u003e \u003ca href=\"?q=%23CXX_Qt\"\u003e#CXX_Qt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-07-31T14:16:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "داشتم گیت‌هابم رو مرتب می‌کردم که به این برخوردم.\u003cbr/\u003e\u003cbr/\u003eدوسال پیش من با کتابخونه tui (که همون موقع هم منسوخ بود) در زبان راست یک برنامه نوشتم به اسم rust top که یک ابزار ساده بود، پروسه‌ها رو نشون می‌داد و امکان کشتنشون رو داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/playground/tree/main/rusttop\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/playground/tree/main/rusttop\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eامشب می‌خوام اون رو به کتابخونه جدیدتر یعنی ratatui پورتش کنم و یک سری مشکلاتی رو که از نظر پرفرمنسی داره برطرف کنم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-07-31T20:10:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZKoEoo8dkJvGiC81UsiOUQm8kJCWmgwAzVrIe79pspoZOnqNLnYidl7K6V18_PetgxN6CDzwhxjnqDui8_AhJwR-CP0z8Va2DFHANM_5IAL5sxzBWahjQzPy66EEUeDUl7sSnhvEz31hOe4Ld68bJswZaBAaqEbHFpf27XvhPXzDMCk-dATnxVudQJogEJyX86MD4OVmjsYkQkX5FT3OmMarI33qKlk1ULdac00IGupIFMjfZgQtaOIASHlYE-0sfIYxEPf6zqaJbbes98yKEoMKRZDWkDSMDRzEM6HBjjYZxweTFFQqztI7eoEc6lnZYbGe0adeKMzGSxRMaNkXNQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "سروش هم یک ماژول کرنل نوشته که براتون بع بعع می‌کنه؛ اگر دوست داشتید امتحانش کنید. برای فهمیدن اینکه ماژول‌های کرنل هم چطور کار می‌کنن می‌تونه مناسب باشه اگر کدش رو بخونید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/soroushalinia/shepherd\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/soroushalinia/shepherd\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر دوست داشتید هم بهش استار بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-07-31T20:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 1640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GsMQW2YlL-E7S_7KngMyTrRAoptoxZ__RsPZDHmyoiCIK1hx8kEPZ4dQ6b8V39AS0MeY4MIn9YGqmCsX2RCf4rEtZN8HKNVqSN7UzZEuLv9nkOeCJq6cYVeqkDWpkfe2_F3xzucdMr4Fz29igJ8XtAC9SBuQs5tJCyCKbOqPS5xjy2Y6DqLadXtAKt44FMdM-otK68Vb_GTnXJ3-X7coxV_I6Bj10yBvTNoiwqozG2rBOP1-WxdmsXb9OhD1HUild-gBvY9JAGVfz4sW6m4Powdn8kI1JyYd1MFZ01iEPNLc-f8NzI-mtSguk6I_hPQoh2gEQuyQR3LXDv2Yd6IqxQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/RasQjMVzVsoyZbAUeJe6DDs91ttj3DuDMn5FQqUFzKPOZ25I6kV5v_jFlAGt5Uf2UTkfGgB-tvW6g7HEKGEJjdbBMwI_VxuiU_xRhQcl1vUUbzHcCZ9OpM3RV0g05T3-4mEMfzEQQlGZWopATA8j82D_gwAKcc1ta5rqltU-aUzvoIqITF_SZbsdbPGqK9dJSErhyZhHjqfyLadQ53o7sGrIe9iYOua6cZTyvs2kwO5xIo8z828E1zzsMS2NfCtCwlzUv05FjB0aWjQYB-q2RLAaNScSwl8Dh7aJW1ptvQc_Y9c2wrRqBBFBL9Rx7B1ZEF0h_YP7PBAFNOY5k-DCHA.jpg"
         }
       ]
     },
@@ -60,7 +30,7 @@
       "date": "2026-08-01T09:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4400,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-08-01T23:31:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 1450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-08-02T12:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +72,7 @@
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +84,7 @@
       "date": "2026-08-03T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +102,7 @@
       "date": "2026-08-03T17:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 954,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GKQM5lzon6ezq2p5xDp4l7S2omT03g5NSYCqHQdrMD3_pavlLoF9bSfvrB9Tf1Mt6rHxa4DGIw07izPVffeVa0S71hkdpct31Gkz1UfsuVOKwMkpj8q4JykVjf2pJ_ktjgaBHuDvaVqQn66b4imIU4q6kBvTYpyXrnLCN0O_Vc1Uq3wZfMgGntzPjessTSe7ChO6PrOdlDevThetieZmIDP2gFpIcA_6Q-p3cRG_Is0p6zTSoHRAzJ6-gtGMWsVAiwtr2BrzenFfLMgyL2SbRX60eGP4RTCYc11Oz-6a0meD-SetKigmsqdoifo-t_UflNINmjdKwL_-W1QeK7cBUA.jpg"
+          "url": "https://cdn4.telesco.pe/file/sBY1PqVqmOcldmFTuIgmOsuSkiVh0_xpANqZFJBH89mxs-SnLCkCyd-H1gbOlxdyccPpwiIvkSfnXdQkaZCaLAWJdamOQfyPzfPnKa66Z9luy5tmP3_GhaPQXbhQM8NBgh5s7E1VK0dhifKqLJChkfLgXSU9S6FOHmBaX1iGp-Yvgr6RHiE1Wn5ZkuITzIiFJ0_KstDQwcuufnSDJx9kx5pXquhyV5-PNTmZtJn7X6HVOcHO3xzPoyilqK8k8VDkEJCE7PSq6l02UHP7ND4sK6-wN0pYPBu9S6PJ5ipL_RCKfLfUkWlxEAUZTwqc5ikpf3TQLGT0Uxh7Baf2uGZplg.jpg"
         }
       ]
     },
@@ -150,7 +120,7 @@
       "date": "2026-08-03T17:24:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dK0DOeBA-weQ7R0ig6RmpQ8uWb43b6FbRdulMfHwUcvtmEb2mcCVTHIvKkbpRCY3kmfmygSUZJjhmpxctBII7gUHTfEN3h8D9RJjuFKlgR2ZII_DS_aqVEc_z0B2N-6dX4rrMsMJpbRECjv9hZGSPh9OaqFh_H_0Xe3VZnGUS_2ETB5PBWErJps0HvGKuh5oR3o2OvW2BMSeMMtrNh4HkE9147OW28Dr8yBGtW4JNAZdV52GjI9yvRGtYM5pWUYVXzaPe1DuL6gp3qInsbVoeLPGXcF6CFT4g_WuFHALiVFOkcCNxhiQUCuQhze6Pg3FJ2AWskOCjlAUl466Fi3Kww.jpg"
+          "url": "https://cdn4.telesco.pe/file/LOMqSsxctD7cIUAxIikFGK3raazLPPRG0BWIf3myoSZSeKjX6W8LFKiLHkaHS_ScPHqyzMfg2e5Aq47CI64DJvgPAvPkEMW5HHgDpJVCKDQ6_wIcrBmJfx_7ydeWhqEi4bsuqv5FStOMhr1aDEZOdSrtSVELFyvfq1tErqm7BMGlRSHRV7mzt3NI3Tx1dYJEVcVB08u9Q-j5qBbbVExA6pWV85MDZiH4zfBJ4h_wosmS1Xbh2t7-a-i2qoxe_KtyZvqyWPk-qvm8gL9tYkNpZ_jdMoLu8tNzHi3672fVFep_qPO751GGR4DXjNfLdeF8AfeZpvqZGqV8gnJFdLAMKg.jpg"
         }
       ]
     },
@@ -168,7 +138,7 @@
       "date": "2026-08-03T21:41:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 934,
+      "views": 950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I005pGj3TS9muEQCyK3Vpq8tcMuooQpiCEhhjWzi8LP82FNpR5gWjfnaXnr9isSQR85kGBkjWh6p6HOyoIpHqwHDpCva6gZfmuQKk8KKPfyjjX9GkRyI2Vkw9T6ge3UgcsHRm1fFNh65x73JKsverzczC9JxOrF0yF031QTX8N3V5akfvMleKoMgWvoFDpCxJpS3mP1IXpqMtWXXFezyn5yge8AYz9GjAPhAVfQCh45ukPmkCDF2Tl-cdeESSpIavoMVC2OiOUxFp4Td_G4bN3P0duIr2_vgp2BLNuZBLgRqWCKQT5lXLiOSeH0uD2qNWJEQReNEqGpO9Afe_wm6jA.jpg"
+          "url": "https://cdn4.telesco.pe/file/PYGWB-D326rbwCgEU3sNNXBgVIYT-VJ7l1zXLTiDk05z3oyrmVGlTiaB-eh7ml8kC8vC_t25pktNpUSuphB3VaMxNV3G-oJpOMPxhlGJbYnJwbkKDFyOGgB9UfO2MNiZWJatCG5YPOg0hBk3krve0fL-bcMoTgrI0D_9_rAiSxGpBKDo6c8x_SK0KHez4ZGbEsutu1bflKOrG7-4qNRzcmy0_mVpfZWBRH1VD9ZzO_9ABkHILtNa2uqjoJfkb9EVylNpGnimDTzz4Fl-dqIfn-kvVvmhFS7lTkvLxeZow8YKRvczesO9ASYhx1RfE39w2UbOWluz9RIAzOtotasIuw.jpg"
         }
       ]
     },
@@ -186,7 +156,7 @@
       "date": "2026-08-04T10:44:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 749,
+      "views": 773,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +175,7 @@
       "date": "2026-08-04T17:22:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 713,
+      "views": 739,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +187,7 @@
       "date": "2026-08-04T20:38:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
+      "views": 883,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +199,7 @@
       "date": "2026-08-05T07:24:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 675,
+      "views": 742,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-08-05T11:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 608,
+      "views": 689,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +236,7 @@
       "date": "2026-08-06T07:09:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 519,
+      "views": 678,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +258,7 @@
       "date": "2026-08-06T09:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 488,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,12 +276,42 @@
       "date": "2026-08-06T11:23:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 356,
+      "views": 661,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "موزیلا دوباره داره فایرفاکس رو بازطراحی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفایرفاکس شبانه ۱۵۵\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-06T18:48:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 494,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rm-XmRG1yhu0mlPUA8HibHEdYZCvrb9bmdsJdAmDDF74Vt8n24fhDePxBuPBRvwHN9Yt12ec_XTqhzzmez8mUKwHRYPi-IPboP2oC4Uh1VfFD8fJHQLzOjSKxH-LwjnvRI7ztRduDon4dmrMntat-ugJ6gPdSfuZxLKMOxqFH0BjaNu61jXK3fN41JsuclYQvbZY0PvsoSTNlyavWdMqLmYxgR6d9GObk2dRfo4XiE3B6hlm8PoYJDTub0RQd_M8kHGJsFGWNMWd2uCu9eMBQOfug4VZ05JiNLB4LXICaNN0d4Q1o1o4zd42mL5MRsTy0_kRXdhTPjKw_Nw1rDBM6w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "منطقا بازطراحی معنی «بازطراحی گرافیکی» رو می‌ده، اون چیزی که پنج نفر پرسیدن بازنویسی عه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-06T20:37:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 284,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1786027456
+  "last_updated": 1786062113
 }
