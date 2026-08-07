@@ -8,30 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "من این کانال رو فعلاً از پروفایل خودم برداشتم؛ حالا بنا به دلایلی و اینکه توی تابستون پروژه و کارآموزی رو باهم برداشتم (جمعاً ۴ واحد) و ۲۴۰ ساعت کارآموزی رو باید پر کنم که اونقدر زمان نمی‌کنم که فعالیت بکنم اینجا.\u003cbr/\u003e\u003cbr/\u003eکلا این رو می‌نویسم که درجریان باشید چرا فعالیتم کم شده. \u003cbr/\u003e\u003cbr/\u003eهرچند کانال شخصیمه و کلا پوینتش اینه که هرکاری می‌خوام بکنم ولی کلاً نوشتم که درجریان باشید :3\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-01T23:31:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "آموزشش رو توی \u003ca href=\"http://dev.to/\" target=\"_blank\" rel=\"noopener\"\u003edev.to\u003c/a\u003e نوشتم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dev.to/behdanisohrab/how-i-used-mergerfs-to-connect-a-nfs-to-my-local-disk-4m01\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dev.to/behdanisohrab/how-i-used-mergerfs-to-connect-a-nfs-to-my-local-disk-4m01\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدوست داشتید بخونید و لایک کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-02T12:16:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "با استفاده از مدل deepseek coder و یکمی ور رفتن با opencode قالب بلاگم رو هم بازطراحی کردم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blogfa.sohrabbehdani.ir/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blogfa.sohrabbehdani.ir/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو به نظرم الان بهتر شد.\u003cbr/\u003e\u003cbr/\u003eیک سری کارهایی که خودم حوصله نداشتم مثل رفع مشکل متن دوسویه و این‌ها رو دادم برام انجام داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-02T14:11:03Z",
       "edited": false,
@@ -66,7 +42,7 @@
       "date": "2026-08-03T17:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-08-03T21:41:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +96,7 @@
       "date": "2026-08-04T10:44:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 805,
+      "views": 810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +115,7 @@
       "date": "2026-08-04T17:22:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 762,
+      "views": 783,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +127,7 @@
       "date": "2026-08-04T20:38:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 917,
+      "views": 921,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +139,7 @@
       "date": "2026-08-05T07:24:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 779,
+      "views": 784,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +158,7 @@
       "date": "2026-08-05T11:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 742,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +176,7 @@
       "date": "2026-08-06T07:09:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 758,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +198,7 @@
       "date": "2026-08-06T09:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 784,
+      "views": 792,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +216,7 @@
       "date": "2026-08-06T11:23:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 791,
+      "views": 805,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +228,7 @@
       "date": "2026-08-06T18:48:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 718,
+      "views": 738,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +236,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rm-XmRG1yhu0mlPUA8HibHEdYZCvrb9bmdsJdAmDDF74Vt8n24fhDePxBuPBRvwHN9Yt12ec_XTqhzzmez8mUKwHRYPi-IPboP2oC4Uh1VfFD8fJHQLzOjSKxH-LwjnvRI7ztRduDon4dmrMntat-ugJ6gPdSfuZxLKMOxqFH0BjaNu61jXK3fN41JsuclYQvbZY0PvsoSTNlyavWdMqLmYxgR6d9GObk2dRfo4XiE3B6hlm8PoYJDTub0RQd_M8kHGJsFGWNMWd2uCu9eMBQOfug4VZ05JiNLB4LXICaNN0d4Q1o1o4zd42mL5MRsTy0_kRXdhTPjKw_Nw1rDBM6w.jpg"
+          "url": "https://cdn4.telesco.pe/file/Q2Rbh_2R_jKSbSI5UxfomDdln9nkNF---1A5uzc3MruXzkW71J5U15STPUR77prGVp2rElsq-kE1OgqfKki-z0-QgM0ADAkCAqpcBklH_mzWNTML-rlswVj8CejaNGODaqZlKMO1sLuj2izwKCi2kq1XXlwTnnaF_3NGcXPf8V1L9c2s3Ha5INkU8scY4NhzIlnwLLTysDxihyZSoGS53E04SJyoXypPsfQinbA3lUASGjrkGTdeEEV7a3xAHICafPdp9sStu5176taTJXlVfASuVJQZIh8wjXBkSTPGnzROHOTlxmxbynvpWwdRB9GpMZ84uDoBpizw0tomv4cwxQ.jpg"
         }
       ]
     },
@@ -270,7 +246,7 @@
       "date": "2026-08-06T20:37:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 607,
+      "views": 631,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +258,7 @@
       "date": "2026-08-07T09:42:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 463,
+      "views": 509,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,12 +270,48 @@
       "date": "2026-08-07T09:52:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
+      "views": 959,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "الان که هنوز نسبتاً اینترنت داریم توصیه می‌کنم zeal رو نصب کنید و داکیومنت‌های مورد نیازتون رو دریافت کنید تا به صورت محلی روی سیستمتون داشته باشیدشون.\u003cbr/\u003e\u003cbr/\u003eبه هرحال شرایط اینترنت چندان پایدار نبوده این چندوقت و نمیگم هم قراره به‌زودی قطع بشه ولی احتیاط شرط عقله.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -S zeal\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-07T18:32:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 99,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fV6tGvmnCIH-U0yXE7xALNz-XhfZf3z4ORrqQNTEGc9cpLE0rhl7JP2wt2bo-PgFsCp3J_lRWhgDiBIgxZE6Tl3CbHwa6a7irTW_WRwXfIHxszkDdzyCjTUunYB9LOxA4VKBH648_9zOqwJKcO_5Nil0uWKkgmqY-3v5DMqAOREWkPHKIGhICqU_eCrmcleia5pGd02rBYdpU_RVjt4Tsa-NSN4z1sBPc-9NFRSRUVjI9Rv6hULP9A48iKnCrWnUBXjP6FacgYZf1niWgEScJPE1cqoYJuUScJL_f6RSNOkkX_zB2F_AJAvDldZ5tCejLkVgH7CG-1vOxidMv8ztEg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برای مک او اس هم از dash استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://kapeli.com/dash\" target=\"_blank\" rel=\"noopener\"\u003ehttps://kapeli.com/dash\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-07T18:32:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 91,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TPNvzleUvM2w9yZvOgBnqegrv-B0EaEr9_X-db6J0Vn9AuASwlmDZukTzXMvBy_ZQ7vultDjwYWtDy3EeuKaBhbFvibXii9UR3ATx83BWYdP_Zs5A5uvs30Z6UxmJEaWdQnIZEec08BZ8HcxCbpoPxQkGxw8R4VwGQK_dSUVeT_q9Sbyzxw4C5I7u2JE4h0kyVHt8D2D51wMOp_qJ-W3Air__RtpGiN5d5jhsq58TlO7C3iJ-a_WfzUYXN8v19HoODpM966PoAvq02JlzdDCeDaIE7SQVs3j3_8UziO7CaM2r6A8U0ongxYYZNbPUNMF0XFCRYmQpqxapgC9WmsDsw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786124455
+  "last_updated": 1786128017
 }
