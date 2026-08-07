@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این بازی اسکیت سواری که با هوش مصنوعی ساخته شده واقعا جالبه اصلا انگار یه تیم بازی سازی ساختتش، ترکیب کتابخونه ThreeJs و هوش مصنوعی نتایج بسیار قشنگی می‌ده\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://genex.games/world/skate\" target=\"_blank\" rel=\"noopener\"\u003egenex.games/world/skate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد + پرامپت ها و اسکیل های هوش مصنوعی برای ساختش‌:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Rabneba/skate-threejs\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Rabneba/skate-threejs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-05T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HtvqNqbFBcMS7vkHlwd4IIa7l0CuSe6knCTml7PGUs0H472VrzKeZDMxW-K2wSPAMg00ANlpCNKIYuJ44Vcnj8X3MmT6G9ndiw-FKiKLXYqeJjha13jOdFEW-IJFjGpZknuY-Akqsb4zo8PbbHVH571wzZFt6DsZ-L58RBrgFy2phtF-bBAUokhGHm-9x38lmGBSV-CCXu54gB7ELUBWN-e4UVtQZRiIcN7SD0chzX-fds4mJFVHHaSbfhaDdk4vJPjx5XnyHia3EVjV6rexDEdE1fmoBCpmQ5iEWml48VszCfCgc3IWnjC-Ub-Ujqg2JcAXd-VKJTHWP2Vy7qygXA",
-          "width": 1670
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی توسعه نرم افزار اصلا گلوگاه اصلی زیاد بودن حجم کارای زمان‌بر نبود بیشتر مواقع اصلا مسیری که می‌رفتیم اشتباه بود\u003cbr/\u003e\u003cbr/\u003eحالا هوش مصنوعی اومده مشکل رو بدتر کرده کار های زمان‌بر رو خوب انجام می‌ده اما همیشه مسیر رو بد میره؛ ما قبل از هوش مصنوعی با کارای زمان بر اصلا مشکلی نداشتیم مشکل این بود یه راهی رو می‌رفتیم که اصلا درست نبود و بیشتر با مسیر مشکل داشتیم. بنابرین هوش مصنوعی مشکل هرکس رو تونسته باشه خوب حل کنه برای یه مهندس نرم‌افزار رو خوب حل نکرده هنوز.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-05T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "اینجا یه مجموعه کامپوننت زیبا همراه با پرامپت ساختشون وجود داره، برای یادگیری نحوه پرامپت نوشتن عالیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.arlan.me/vault\" target=\"_blank\" rel=\"noopener\"\u003ewww.arlan.me/vault\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-05T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +31,7 @@
       "date": "2026-08-05T19:51:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +49,7 @@
       "date": "2026-08-05T20:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +61,7 @@
       "date": "2026-08-05T20:30:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +79,7 @@
       "date": "2026-08-05T21:37:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 7690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +97,7 @@
       "date": "2026-08-06T09:57:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +109,7 @@
       "date": "2026-08-06T10:07:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +128,7 @@
       "date": "2026-08-06T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +146,7 @@
       "date": "2026-08-06T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +165,7 @@
       "date": "2026-08-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +184,7 @@
       "date": "2026-08-06T17:15:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +203,7 @@
       "date": "2026-08-06T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4870,
+      "views": 5080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +221,7 @@
       "date": "2026-08-06T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5160,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +240,7 @@
       "date": "2026-08-06T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +259,7 @@
       "date": "2026-08-06T19:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5060,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +277,7 @@
       "date": "2026-08-06T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +296,7 @@
       "date": "2026-08-07T09:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 3860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +308,44 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "برای ساخت یه پس‌زمینه رنگی متحرک لازم نیست ساعت‌ها درگیر طراحی و کدنویسی بشی.\u003cbr/\u003e\u003cbr/\u003eتوی Gradient Lab رنگ‌ها رو انتخاب می‌کنی و جهت ترکیب، میزان محوشدن، سرعت حرکت و روشنایی رو تغییر می‌دی. آخرش هم نتیجه رو به‌شکل عکس، ویدیو یا کد آماده برای سایت می‌گیری.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://backgrounds.supply/gradient-lab\" target=\"_blank\" rel=\"noopener\"\u003ebackgrounds.supply/gradient-lab\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Elizaium",
+      "date": "2026-08-07T11:43:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JiFTvMNtsDl9gzusjnbmevdAntPz0ffs5tFeIJlnCkR6axoI62Jnd_hJT6gaDBzzZY_QMxm1C_lsWJsHkMu_eGjX_8arwJsE6MBLLNBNxwHs_laYfe89HVbnN-X_yb4mSfeT2Pcwrz2q6Ph4e7G43fdEtXEPPnm3s1rXobHnN9cyRtCHXJPsJ501XzELy_d8-NDZPrteU8oDgN50GJWURXLkzVhhVVgszVu2LZR94VWgtbDVUdczADYMRevW69GAATDPtQcIIyW9d4Wphh0QfHknrP5Szn7BI8D4URyFxgRUksnVrntbrstjGqitgsi3EmKQetiOvBRNFmVRMUVgQQ",
+          "width": 1256
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خبری که دیروز منتشر شد هم عجیب بود\u003cbr/\u003e\u003cbr/\u003eشرکت امنیت سایبری VulnCheck یه بک‌دور توی بیش از 20 مدل از روترهای Zbtlink ساخت چین کشف کرده که امکان دسترسی هکرهای چینی رو فراهم می‌کنه. این بک‌دور با نام Endlessdoors با یه آدرس IP و دامنه خاص ارتباط برقرار می‌کنه و از اون طریق هکر می‌تونه دسترسی بگیره.\u003cbr/\u003e\u003cbr/\u003eاین روترها به‌صورت خودکار هر 35 ثانیه به یه دامنه ثبت‌شده توی چین وصل می‌شن. اگر کسی کنترل اون دامنه یا مسیر ارتباطی رو به دست بگیره، می‌تونه روتر رو کنترل کنه و از اونجا به دستگاه‌های داخل شبکه مثل لپ‌تاپ، موبایل یا سرورها دسترسی پیدا کنه.\u003cbr/\u003e\u003cbr/\u003eاین روترا در سراسر جهان به کار گرفته شدن و حداقل 100,000 تاشون فقط توی بریتانیا فروخته شدن!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-07T12:01:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 569,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AoadrCTeRwBcIP8FdMuubFU88uER6aX7YKQFsbMNS3T6JO9vUHQn2IeCuOl0AcQUj37tB1WJ2nw9LOlQ777-gMrL6wxpd3mwPddtilxMCVGXwBbRjkwlxF3p9n8paOHv7cRickevaZsrkjpXZ5LgsPzqzRbSBr8NtNTKjxa6LMmuw3b3pHOM6lHK4chyv1G2NaGSeRJoCR8GdkJ_y4ufwycUKOY4L7647uoDpHHHJPSa1JPtHz8CwR8Zsqf10dqSjAQ5h4cVFFT1olcz9aFjFQ27_sZknFXdrhK4uyBtCmG0hpTaqZ7nDHwr0C5vpdHFqEW4oxM_O_dPdZV5Y5eUnA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786101250
+  "last_updated": 1786104330
 }
