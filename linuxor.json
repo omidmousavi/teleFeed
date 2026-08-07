@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "توی این گرمای شدید پدر CPU گوشی در می‌آد ترموکس رو نصب کنید دستور uptime رو بزنید و مقدار load (عدد اول) رو تقسیم بر حاصل دستور nproc (تعداد هسته های پردازندتون) کنید درصد مصرف CPU تون بدست میاد\u003cbr/\u003e\u003cbr/\u003eبرای من \u003cbr/\u003e31.68/8=396%\u003cbr/\u003e\u003cbr/\u003eبود که بسیار بده باید زیر 70% باشه معمولا.\u003cbr/\u003e\u003cbr/\u003e (البته منظور 396% این نیست که CPU در حال کار کردن بیشتر از توانشه منظور اینه تعداد زیادی پردازه منتظرن نوبتشون برسه CPU بگیرن)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-05T19:51:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cbKBM89i9DM2SElm9jt0yTVz7reos07sjXeukVfzEsXA4djgZEilDlE710daqwoUXA6gRCdFa5q25Fxni_P02s-QbrgeCPV76SDNbnHYFNEnejlfS_sSfS4UATfUpqd4f0eoLYMBYwfDawWEgBwK2vzy6qUTYPFWhrKbjB6db-OrsmlgP7v08SYT48_6Vn76NAyIYx6rgd_m2mCyA68ddX6j8zi2rJYPwZV7u6MhVNgt1_qh8hPcoH3G8JBa6iZgn0tBdnwj2QsuLT8c7F7-v0dyfuEWmjOdIJtKMbYeJd6e5TN0VQjO2l0rppEQw1vUiZNKROgSUyUuajtZU8_QuQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ممد می‌گه اینستاگرام خوبه برای تولید محتوای برنامه نویسی؟ منم بهش گفتم آره ممد جان فقط یه مشکلی داره اکثر چیزایی که ما استفاده می‌کنیم انگلیسی هستن اونجا واست کامنت می‌ذارن : \u003cbr/\u003e\u003cbr/\u003e\u0026lt;فهمیدیم انگلیسی بلدی\u0026gt;\u003cbr/\u003e\u003cbr/\u003eحالا تو باید بهشون بفهمونی که نه نفهمیدی که من انگلیسی بلدم. اگه فارسی هم بگی رفیقای من می‌آن مسخرت می‌کن خیلی بیشعورن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-05T20:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-08-05T20:30:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7800,
+      "views": 7820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-08-05T21:37:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7860,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-08-06T09:57:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +72,7 @@
       "date": "2026-08-06T10:07:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-08-06T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aUWFK_oHtw5_80IoJOWpzbgbk102n0ZKhoy6lFq_TPtTYJJFPHt9fj1VnucAMcJqY3RYHrmQ1WIL1E-10_hMxjvXnR_Ss_Wd0Ij0ou9DfOxZAiOQRC2kSIpfL2tgZBWL6e6grr5R6FqgQpIU1xSK8iRBs4-6_oAd3kEmM9A_3uw833TSLBK9Xzcp-69oAD02Z45ev52jvrITa456p2c64tZ3MKRm12q9zhh2Drd7ihwzFurNMoowkCS9AkbxvdhFVWTQWgUHdGE1NReMxM-1hP0nVG7h0Sk6cfOd3jfqHlSAdTdhCWXSJZcpjSxFuoMxlkFEuwph0tfLzHhbVH06UQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/dRB3meaFXKS9xGZGfFYdJZtAJdxBHrxylhcdCeCsZnC5NKgIV0zpz27gZmrPHUNTQdbSvx0ruNW0f5HkJ--qas2tuo8rKS6JFxuAKchAQ2gPu7Dh_9i8AdCJNm64N7iEZaPnxLSTF03L6cbee1PvRidHH_Vh4TnzNyRSGSWLfQAeHOS9XyM7GXvTPj7ELPklRwZjSqJsmNizfFYlr1zZSx2oYul-jT4Rx8cA7SsnRlpEbv4u1GEDsNJXVdZYXn7Rhl6GgCEGaJHo4MXmxUQ_qsEINbVKab4NL2lvfaj0yTuiRf74TdWNKE-99rM1MsnZLwWr75YFIVTLSenzG_l90w.jpg"
         }
       ]
     },
@@ -127,7 +109,7 @@
       "date": "2026-08-06T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +117,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/byHCZBkOG-XfZij0K2vlp4Qa-1KldD67E0BB_iGdN43UW8xiQkopVA0D0HhTQrYJh6LeduELY_oFqRSVEy-jR9BOyOUUTpiz2aUC2PZAhh_W97_9zMtWjSEDub61Os1JuI-RjAQPn43oPtP7a5nUSpEzGLoa6nvYAWPveDBd_wcYMsidlIEko9_6okHWBEagx20OxM_cyecO5ltRXk2meqoZxzIRp8jcesv7ohZN0xTqHLxmOoAvgEdw2LEDaGc6ipNTv8etNWlz9KfLjMnS67ho0zIIDd5GjKVxr-j4BGlbSrB1p9IRFyiebz4bISURR_8-53xSxb5H-a05EF9Jcg",
+          "url": "https://cdn4.telesco.pe/file/lUxn_ZFkMcXpsTH112C9aszdyWZ9Tm7QPgBFTHmwOZFrRxBg1CMsKOcCp-yWEI6udY8msBTQpxwMAziDyhEwLf7QwLa6GnOm26obI5mkAVeS_nCQUzhoC5ys6UlXxWuht_PpQ6h7nV4kB1Ue0Tb0NKrb8QXSu-pjzlliXwaZFfkan2WRnAwjhGlx5DV2P8AWSqfxukP1MEN98bQkMf2sDxV0u2i_UvU-eEKMuvi8Hb-ilnHsGzsZ6OqXiAf-LEfVzpRllsguQHHKAnjbqZLtqhJKWekfyIRIcIf12lFSTFYxUGmd7NkHfdmnKqnP86vIXl6RLBrYV7W5bKEW02b6-g",
           "width": 1920
         }
       ]
@@ -146,7 +128,7 @@
       "date": "2026-08-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +147,7 @@
       "date": "2026-08-06T17:15:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +166,7 @@
       "date": "2026-08-06T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +184,7 @@
       "date": "2026-08-06T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +203,7 @@
       "date": "2026-08-06T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +222,7 @@
       "date": "2026-08-06T19:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +240,7 @@
       "date": "2026-08-06T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +259,7 @@
       "date": "2026-08-07T09:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 5590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +278,7 @@
       "date": "2026-08-07T11:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +297,7 @@
       "date": "2026-08-07T12:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4390,
+      "views": 4730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +315,7 @@
       "date": "2026-08-07T12:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3660,
+      "views": 4050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +326,25 @@
           "url": "https://cdn4.telesco.pe/file/Vzk-vp9UuW6-zWovqkt_bS20JCVcf9ZQRRL_OruC4v-HftPmIbt6U4weCtkdpBR8dzN7leJO0hypUWjdya894NdPcQTpM14uXcTkSoJD0yptLTWolqKj-cVdwTCjV9tW93_gqickHhwBb-RVXQjTm9zS1z_IHWrjFN4RVMnskYu5ZsS49lgqQlHOjJz2l0EkIMFlr5QFHvLggad1sqCNKZw1e7_uVTdsFCD2sMH8bjFFz_E4krm2e0ITtCDefuF1grZiAVOVC2mHz5-edQ7np6T9-OOTqTKRiDpSIki191SZv5OgSzf-2ykKzhwrPyQxqX3nRTm4OX7-VeXvsU6w6A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e 24 ساعت تست رایگان سرور ابری ویراک، حالا با اعتبار هدیه بیشتر! \u003cbr/\u003e\u003cbr/\u003eاگر قصد راه‌اندازی یا تمدید سرویس‌های ابری خود را دارید، الان بهترین زمان است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e تا پایان مردادماه:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 15% شارژ بیشتر هدیه روی اولین واریزی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 10% شارژ بیشتر هدیه روی تمام واریزی‌های بعدی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e   24 ساعت تست رایگان\u003cbr/\u003e\u003cbr/\u003eفرقی نمی‌کند اولین بار است که ویراک را انتخاب می‌کنید یا از قبل همراه ما بوده‌اید؛ با هر شارژ، اعتبار بیشتری دریافت می‌کنید و همان زیرساخت قدرتمند را با هزینه کمتر در اختیار خواهید داشت.\u003cbr/\u003e\u003cbr/\u003eبرای دریافت کد تست رایگان کلمه *«تست»* رو به آیدی زیر ارسال کنید.\u003cbr/\u003e\u003ca href=\"https://t.me/cloud_virak\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/cloud_virak\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e پس از دریافت کد تست رایگان وارد پنل VirakCloud شوید ، کد تخفیف خود را وارد نمایید و ابرک خود را بسازید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://B2n.ir/qy4432\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/qy4432\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2988E.png\u0026#39;)\"\u003e\u003cb\u003e☎️\u003c/b\u003e\u003c/i\u003e 02191555530",
+      "date": "2026-08-07T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 699,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fikLrTz3nsTs028mmFLlcVGmx2xLKzb6sPCCqWbswpV3z5LOxAY3ewxpom1hxzE2iPkTAE0s4X9FRjoIt3hLt0b9J-kaVRChf13I1q2wTmtrwz3OhoitsMp7IV0kGBLY2ZstFeQmQFm9cMly4VBL4442vFYJ9_Mt7fdOdcBM8a5oeASR1q2LeUllNk3V4wUS5J1oxRwV1faG-_SOf4Um37ulGzlHPVxSITEQX-_FvxHFUmtWXIYL0kHMsxatoewjZIaTnJ7oZ2APjDi-J_zqs_yf3gpUVDI4vSRJWcX-3tJOA1N0SNEhpp1ZYajjoRnxpwpnNFJ5uqLEpjjlOaFtgg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786117442
+  "last_updated": 1786120904
 }
