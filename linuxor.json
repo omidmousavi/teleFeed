@@ -8,66 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برای ساخت یه پس‌زمینه رنگی متحرک لازم نیست ساعت‌ها درگیر طراحی و کدنویسی بشی.\u003cbr/\u003e\u003cbr/\u003eتوی Gradient Lab رنگ‌ها رو انتخاب می‌کنی و جهت ترکیب، میزان محوشدن، سرعت حرکت و روشنایی رو تغییر می‌دی. آخرش هم نتیجه رو به‌شکل عکس، ویدیو یا کد آماده برای سایت می‌گیری.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://backgrounds.supply/gradient-lab\" target=\"_blank\" rel=\"noopener\"\u003ebackgrounds.supply/gradient-lab\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Elizaium",
-      "date": "2026-08-07T11:43:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XF1DoWCo2FREpjLYZjgtYXIWXWL_mlhsTyZ7z8Js7fLPsMhucbGhBi95Qe04DBdCEAWqKDv69A19l5_khdH_oHFB78oAbJ6JwsdC9QZE4Gmm_BgXxb7ulT3Pre1s2W02JzSxR20LsOXsPS67JYJZgpUy-xtkmXGbNDNBBkOi5aOxVMdom_Qp288l25-G57T4pCyZgBgNrV-8giFxcAQEj_8eRpMrt8BXoy_edzFyxcrVSTOhgJAkQ2rUu4nhmlUgSdnC007vA-t9jzOIE1o9uFx-_LWOJcoqhQ0lCRVLEqqG678QszCtbj_Ah7LnN53Oltj_fRk1kHxLcq4PVGKzvQ",
-          "width": 1256
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خبری که دیروز منتشر شد هم عجیب بود\u003cbr/\u003e\u003cbr/\u003eشرکت امنیت سایبری VulnCheck یه بک‌دور توی بیش از 20 مدل از روترهای Zbtlink ساخت چین کشف کرده که امکان دسترسی هکرهای چینی رو فراهم می‌کنه. این بک‌دور با نام Endlessdoors با یه آدرس IP و دامنه خاص ارتباط برقرار می‌کنه و از اون طریق هکر می‌تونه دسترسی بگیره.\u003cbr/\u003e\u003cbr/\u003eاین روترها به‌صورت خودکار هر 35 ثانیه به یه دامنه ثبت‌شده توی چین وصل می‌شن. اگر کسی کنترل اون دامنه یا مسیر ارتباطی رو به دست بگیره، می‌تونه روتر رو کنترل کنه و از اونجا به دستگاه‌های داخل شبکه مثل لپ‌تاپ، موبایل یا سرورها دسترسی پیدا کنه.\u003cbr/\u003e\u003cbr/\u003eاین روترا در سراسر جهان به کار گرفته شدن و حداقل 100,000 تاشون فقط توی بریتانیا فروخته شدن!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-07T12:01:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TTM3EUS84ePEjIPuMpYKwrV4kqpBgUPCDksOHYKjx3txlaa9b8Zg32pfvOY1IZVOhew0B4Bc6sSB0VsRIVc7V6AXy_GiXA8LNr8BLuEzPZEYhfGN3f7FQZprHZvT0z2KKa0youIEN7g7Z999bO6NHCBm6qYLIo6-f6ylMDYd_JtZJKnw0z5DlfmmteiNYBFXiOONXFwfJfkzmXXLaovSAZrWv0bm-c9A1mSfcDOfXHpBO814BECGx7moGeXY_cr7PlvMaffEliMu9TKUc94Dafv-sArtjwBEmqQVatUgGYFTV86HgY5max_0WHIr9K3omsvHhAlgbeVp8cZGUVQdRw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "متا هم کد ایجنت خودشو به اسم Muse داد بیرون\u003cbr/\u003eاز اینجا می‌تونید نصبش کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://developer.meta.com/ai/products/muse-code\" target=\"_blank\" rel=\"noopener\"\u003edeveloper.meta.com/ai/products/muse-code\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمن از متایی که قرار بود مارو ببره توی متاورس انتظار داشتم زود تر وارد این بازی بشه داداش تا الان خواب بودی!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-07T12:20:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KpsRDl-MTC7ZuULRQyWfc3REWaCuDm7wYpKWlir5p1xshD1L8tFn1e0J_cxQYYpd_k9of010Z0cHF4pv81WvIjD20NFCHjjhDrxDPtIMsqVLdKWqbKVnsT0J-iD0gcdH66m0IIQ8sKS6V0eIiKE83YhPNwzGNMSyUCSTD-8tRPcKaauTgSzt3osIA7ZyU6YoGUKEqWd5sJ1LvAsZnlG1zPiV6FjQJQ6YdIZxO2ASCojUIeU-yKjrwLSWagCQvekpVZt3uBfS3pOmllL9f-iughApANxR0IbW1rik6lWXj06Fiyw2ownP7k_3y4fUCHXguYlGrbuQmvSB3bfVVyaTng.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e 24 ساعت تست رایگان سرور ابری ویراک، حالا با اعتبار هدیه بیشتر! \u003cbr/\u003e\u003cbr/\u003eاگر قصد راه‌اندازی یا تمدید سرویس‌های ابری خود را دارید، الان بهترین زمان است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e تا پایان مردادماه:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 15% شارژ بیشتر هدیه روی اولین واریزی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 10% شارژ بیشتر هدیه روی تمام واریزی‌های بعدی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e   24 ساعت تست رایگان\u003cbr/\u003e\u003cbr/\u003eفرقی نمی‌کند اولین بار است که ویراک را انتخاب می‌کنید یا از قبل همراه ما بوده‌اید؛ با هر شارژ، اعتبار بیشتری دریافت می‌کنید و همان زیرساخت قدرتمند را با هزینه کمتر در اختیار خواهید داشت.\u003cbr/\u003e\u003cbr/\u003eبرای دریافت کد تست رایگان کلمه *«تست»* رو به آیدی زیر ارسال کنید.\u003cbr/\u003e\u003ca href=\"https://t.me/cloud_virak\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/cloud_virak\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e پس از دریافت کد تست رایگان وارد پنل VirakCloud شوید ، کد تخفیف خود را وارد نمایید و ابرک خود را بسازید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://B2n.ir/qy4432\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/qy4432\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2988E.png\u0026#39;)\"\u003e\u003cb\u003e☎️\u003c/b\u003e\u003c/i\u003e 02191555530",
       "date": "2026-08-07T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +30,7 @@
       "date": "2026-08-07T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +49,7 @@
       "date": "2026-08-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6330,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +67,7 @@
       "date": "2026-08-07T17:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +86,7 @@
       "date": "2026-08-07T17:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6750,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +105,7 @@
       "date": "2026-08-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +117,7 @@
       "date": "2026-08-07T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +136,7 @@
       "date": "2026-08-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 7230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +154,7 @@
       "date": "2026-08-07T19:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
+      "views": 7510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +172,7 @@
       "date": "2026-08-08T06:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +191,7 @@
       "date": "2026-08-08T09:16:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +210,7 @@
       "date": "2026-08-08T11:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +229,7 @@
       "date": "2026-08-08T11:32:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5550,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +241,7 @@
       "date": "2026-08-08T12:49:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4810,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +260,7 @@
       "date": "2026-08-08T13:34:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4160,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +272,7 @@
       "date": "2026-08-08T15:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +290,7 @@
       "date": "2026-08-08T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 234,
+      "views": 1970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -356,7 +301,57 @@
           "url": "https://cdn4.telesco.pe/file/ctH7IwsvuHHupJ5TXBkByGDQH8chSbXXdDkNkz0gYUHBiaacFucS7oKbgKQWhp5YeR0xY1EZCJqk1_qYBHWUuM-FLAihKR_t2QqiKPkUy1rmNv_oeYg6pPj-Fk8-5BmTrVBTFcff-02v9Iwi5x_xfwIAomD7kX4WOH9ZLbKyiZdDhXg5TnlhNuCYuo0725hSpJVC7NwlR7tDhTNpvQK9aw7mFU7HlMUF4cjSUXZ21if1LQgT-V9xIrUxB2_39I_x3SPV_-ZVixMfGvua_gVAURv8MW3JYiL9BpnO87ktEDA0dU5TZgxfJhZR4ePWe89QfyDlqGBow_XbwhbBg8qepQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این Kage یه نمونه جالب از ترکیب Three.js و AI Coding هستش؛ یه لندینگ‌پیج که هر بخشش با اسکرول، کاربر رو داخل یه دنیای 3D حرکت میده.\u003cbr/\u003e\u003cbr/\u003eکل پروژه با کد و Three.js کمتر از 1MB حجم داره و با تصاویر PNG باکیفیت هم حدود 3MB میشه.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه Skillهای استفاده‌شده برای ساختش هم Open Source شدن:\u003cbr/\u003e\u003cbr/\u003e• build-threejs-scroll-worlds\u003cbr/\u003e• falling-leaves\u003cbr/\u003e• pointer-trail-emitter\u003cbr/\u003e\u003cbr/\u003eدموی پروژه:\u003cbr/\u003e\u003ca href=\"http://mengto.github.io/kage\" target=\"_blank\" rel=\"noopener\"\u003emengto.github.io/kage\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکد لندینگش:\u003cbr/\u003e\u003ca href=\"http://github.com/MengTo/kage\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MengTo/kage\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاسکیل هاش:\u003cbr/\u003e\u003ca href=\"http://github.com/MengTo/skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MengTo/skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-08T17:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MPd0zdKuKzDlGKu0Jl6Evlw2avyTRu-QynSjipvh6l6Dl3SlAJ_9_c5wEibSJQ88bk9aHRkmcsP25wcdtdZyQB_hnxuMO2SWKTYj82jD4tSfZD3U-iYoqgcwhQfHf_7-po5LvBtBe6vejsGIkQymI63R3SM3-jYPUtIxbDMyKTbD3-BGvMwCSh_JudZESqY0kC6bpXwP3v9-M6Sx_6zuJMVkXANxQz8UFtdNdB54yJauyonjOxSVjaJjPoDvWSTsCosDMuUmyF0xB3sBlpH1Ej8y6eFtl1iA9HIU8C0HveCqytovT8ZGyLYonUltoMayEaIJ6vDEjovzW4kdEL1iaw",
+          "width": 2880
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من هر روز کلی پیام راجع به اینترنت 5G از اپراتورا می‌گیرم ولی توی ایران درباره اینترنت 5G حرف زدن خنده داره چون همچی فیلتره و باید فیلترشکن نصب کنی شما چه پراید داشته باشی چه بوگاتی توی جاده خاکی جفتشون یه سرعت می‌رن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-08T17:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه با Claude Code یا Cursor کدنویسی می‌کنی، این ریپو یه Skill جالب برای ساخت لندینگ‌پیج داره.\u003cbr/\u003e\u003cbr/\u003eبه‌جای اینکه فقط بگی یه لندینگ بساز، اول اطلاعات لازم رو ازت می‌گیره و بعد ساختار، conversion copy و سیستم بصری صفحه رو خودش در نظر می‌گیره.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونی design values مثل فونت، رنگ، spacing و motion رو خودت شخصی‌سازی کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/elayadesign/ai-design-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/elayadesign/ai-design-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-08T18:15:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 791,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/g1Y-dkwqqTw-FMOH2Io7EkVbPb0bAsBAx2kWP-QCI-4EO5jIAiEFIMCmlKobF6uozLxPTuyUcnZm4Cn83-KBox4X-rrmy_EFxBcsrrTkkcSQ-pwlAnAzP78OvzvQCAZx3LJlO8hjoVf0qyDoo0EJt5dirR0DsB6vxquQVA6pK3KRYbOkjvAIO2zoJXcjULOfyL4lfi5611qbWz_zMYhsKAS27EHTR2lvGe3iG5v8wo8ahrLCJ-FU0RhUFPiLv7FXERkDplxmINd8ollANsiPEh89mW4e_3S1Yu0iPqFnTcgLZrfwp1c0L-1tvU7EUd4VJ2dEXkG1UYT1HtsG34vrQA",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1786210345
+  "last_updated": 1786213328
 }
