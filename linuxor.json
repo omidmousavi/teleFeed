@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه نفر اینو فقط توی 8 ساعت وقت گذاشتن با هوش مصنوعی Opus 5 ساخته TIDEWRIGHT یه شبیه‌ساز سه‌بعدی ساخت قلعه شنی هستش که کاملاً روی GPU اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eنه از موتور بازی استفاده می‌کنه، نه کتابخونه، نه فایل Asset و نه حتی مرحله‌ی Build لازم داره.\u003cbr/\u003e\u003cbr/\u003eکل پروژه فقط با یه WebGL2 Context حدود 7000 خط JavaScript و GLSL و یه ساحل ساخته شده\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://winchxyz.github.io/tidewright\" target=\"_blank\" rel=\"noopener\"\u003ewinchxyz.github.io/tidewright\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/winchxyz/tidewright\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/winchxyz/tidewright\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-07T09:21:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CvwEWad8GR6z4Q6i65pUurzffkbgmITqmwU0TH3VBq7z9wifCZNKjUkJNBEgRkF06fqqoNdB2SHyJWiJ8hqwFIHl_TakAieH8716MaLGU7-NGHH1BZuN9U6nbIx2_G_XvifROUfkHzb6l1q-0FezUZKHvvroW3KvN-mPo-RmKItIyjLEU9FyIr7Kdag0nuiWFvdcknwP9hXTM0aSsBJZoG4gAKMirdN0ucwPeykqDsDJlOGmJUjuux3PImCu6KYfvhD3vzUHc_-haEvLMAZO3BuKm5sb-IUoh7NsV6-Wnf_eLC1Dy2meyDjVSl_12CcV_Nqpp8GRRJvr24IPS9e3OQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "برای ساخت یه پس‌زمینه رنگی متحرک لازم نیست ساعت‌ها درگیر طراحی و کدنویسی بشی.\u003cbr/\u003e\u003cbr/\u003eتوی Gradient Lab رنگ‌ها رو انتخاب می‌کنی و جهت ترکیب، میزان محوشدن، سرعت حرکت و روشنایی رو تغییر می‌دی. آخرش هم نتیجه رو به‌شکل عکس، ویدیو یا کد آماده برای سایت می‌گیری.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://backgrounds.supply/gradient-lab\" target=\"_blank\" rel=\"noopener\"\u003ebackgrounds.supply/gradient-lab\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Elizaium",
       "date": "2026-08-07T11:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-08-07T12:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
+      "views": 7350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +49,7 @@
       "date": "2026-08-07T12:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +67,7 @@
       "date": "2026-08-07T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +85,7 @@
       "date": "2026-08-07T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +104,7 @@
       "date": "2026-08-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +122,7 @@
       "date": "2026-08-07T17:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +141,7 @@
       "date": "2026-08-07T17:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +149,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hcv9kxKFaR67EEbzlk8tiHRE8sepcr_dBrCLBu5dLvHqvXvzK6aD8PYdtuvUJyhF3TjDj62xU45lRTFct4OA2nOhBBNj1vbVfaWFd43dyDWfGvAyPTUx7hpooJXa1x-imS6SmCUT2vXDTQGNO_fSuS8G37Pejl_JQyr7wDvKD8ysqggx2BvmCGmMrzupuQs5fyhY4YBQKWAFsBpzA6aLDDHpY5Y44mJSlkUh45oNhLS6KXmZ68JWtZknlqv5PpGXqin4wYRcuj3YMD5Fyj_OPxdB15c0EbWSgBVpYa6hlkZahUYKyveEV8Plj7dVSrgTCCtrNpfXdKxx6shVpN2Fig",
+          "url": "https://cdn4.telesco.pe/file/nXP5vYuy4vYoosMv2tqgwjZPkIO4ZNF2TllZx2B8VQ2xzAtIkm6Bm0Rz7s2pmNRBsd6s_W15TS-gFXtnSee4euq757iy_xo-mkmpYYAGRqmGyaSibKWWV0bMeqk4b_pQAF-WEa4ZEc4ovYpJrhEklxw853900AFP2cYpjHZL5ACMKvIt42bDpMsL8vrQTyHcQlHeBgqmkVDXenLTXiu_g76NEqOfSl2hGPltIpdIGdg1LBk-BLMJKUMDSS_F7AkGNHEwf7U8lmY1pYnCeAt-BzB8oOWpwAOvu9wS19fBnR6pBW8b73uZ7vOXQ5mAgV1pUCe0N7teGew9ZeVXYb8EnQ",
           "width": 1138
         }
       ]
@@ -179,7 +160,7 @@
       "date": "2026-08-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +172,7 @@
       "date": "2026-08-07T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +191,7 @@
       "date": "2026-08-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
+      "views": 7130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +209,7 @@
       "date": "2026-08-07T19:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +227,7 @@
       "date": "2026-08-08T06:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6640,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +246,7 @@
       "date": "2026-08-08T09:16:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +265,7 @@
       "date": "2026-08-08T11:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +284,7 @@
       "date": "2026-08-08T11:32:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +296,7 @@
       "date": "2026-08-08T12:49:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +315,7 @@
       "date": "2026-08-08T13:34:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
+      "views": 4160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -346,7 +327,7 @@
       "date": "2026-08-08T15:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2570,
+      "views": 2990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -357,7 +338,25 @@
           "url": "https://cdn4.telesco.pe/file/BE6IhxBsYjSvnK0WImt21Y7YaE0M6inWSdVLZQ5wQNfVBdjOw9I00q9bUsxALiPfXhSiIO21V8pXTmnMcnI4jk7-U6SpoL59o1kXMYsgWZHuF1uSVCatERLv8CtWjfMvVgDPIApFgCXSJZCLGaCHU0_ywcaMmp12tBlYBXehY_rwrrJJVhSC9jpU-1rruVvP5Qgg_JwtWUatZfFX2bLxY1nPVFmbG7tRSzvGrEoAv5bjrA2CjqVjWqEgpj92OG3fZbP-vi2M819UKcz2uYYGIC8-fjTEaGXO62GkTJKpa-PTAZMws0otvRN4QHu9PmJSEZJwd29nAV6wyIeszUvBWA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانت Gemini Pro\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA689.png\u0026#39;)\"\u003e\u003cb\u003e🦉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدسترسی به قدرتمندترین ابزارهای هوش مصنوعی با فعال‌سازی قانونی و تضمینی روی اکانت شخصی شما.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپکیج شامل:\u003c/b\u003e Gemini 3 | Google One (5TB) | Veo 3.1 | NoteBookLM | Nano Banana 2\u003cbr/\u003e\u003cbr/\u003eطرح دانشجویی ۱۲ ماهه + جیمیل\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت: 1,100,00 تومان\u003cbr/\u003e \u003cbr/\u003eطرح ۱۸ ماهه روی جیمیل شخصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت: 550,000 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e برای خرید و فعال‌سازی پیام دهید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9488.png\u0026#39;)\"\u003e\u003cb\u003e🔈\u003c/b\u003e\u003c/i\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/ZikoTech\" target=\"_blank\"\u003e@ZikoTech\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e دریافت مشاوره و خرید:\u003cbr/\u003e\u003ca href=\"https://t.me/ZikoTechAdmin\" target=\"_blank\"\u003e@ZikoTechAdmin\u003c/a\u003e",
+      "date": "2026-08-08T17:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 234,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ctH7IwsvuHHupJ5TXBkByGDQH8chSbXXdDkNkz0gYUHBiaacFucS7oKbgKQWhp5YeR0xY1EZCJqk1_qYBHWUuM-FLAihKR_t2QqiKPkUy1rmNv_oeYg6pPj-Fk8-5BmTrVBTFcff-02v9Iwi5x_xfwIAomD7kX4WOH9ZLbKyiZdDhXg5TnlhNuCYuo0725hSpJVC7NwlR7tDhTNpvQK9aw7mFU7HlMUF4cjSUXZ21if1LQgT-V9xIrUxB2_39I_x3SPV_-ZVixMfGvua_gVAURv8MW3JYiL9BpnO87ktEDA0dU5TZgxfJhZR4ePWe89QfyDlqGBow_XbwhbBg8qepQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786208422
+  "last_updated": 1786210345
 }
