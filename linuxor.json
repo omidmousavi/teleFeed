@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مدیرعامل Obsidian (جایگزین رایگان نوشن) یه مهارت Skill رو منتشر کرده که به ایجنت هوش مصنوعی اجازه می‌ده کل وُلت (Vault) شما رو براتون مدیریت کنه.\u003cbr/\u003e\u003cbr/\u003eاسمش obsidian-skills هستش.\u003cbr/\u003e\u003cbr/\u003eاونو روی Claude Code، Codex یا OpenCode نصب کنین، بعد ایجنتتون می‌تونه مستقیم نوت‌ها رو بخونه، بسازه، جستجو کنه و مرتب‌سازی کنه. علاوه بر این، بدون اینکه شما دست به چیزی بزنین، می‌تونه با فایل‌های Markdown، Bases و Canvas هم کار کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/kepano/obsidian-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/kepano/obsidian-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-06T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XWE2nbGqLySkADg1D3ZXmXqjqv4P42f3qOzTTd2yj4J20yWz-7CwwACzWahTqfMBBKSv8t-B_iRpJxEYXnhgMlEJEfeoeONjDpRubhjayMw0HLKHIWx2KiysVwmmTBMBD1FPIDbLeQW6HydwGEiHWFVHZNhG40uexbgRaXxtDMLmnnDLuGnb1KfjfMKyRHKYI7HbplwoRQtcjTJzAt8l-a_t31GCobRXXq6D0zHPjevWM67GFlLA6xGg7jWafJy9P5l9LcBdGdjnnrWHKQVKESlr8K038KqaI5AH9M6CkH6eil1XEnPBTbW6d7s6Wz0zURFEL2K8OmcC6k0AupnUaQ",
-          "width": 3320
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه اکستنشن خوب به اسم  postmate جایگزین بی دردسر postman \u003cbr/\u003e\u003cbr/\u003eتقریبا همه‌چی رو ساپورت می‌کنه GraphQL و WebSocket خیلی بی دردسره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://marketplace.visualstudio.com/items?itemName=PostMate-lab.postmate\" target=\"_blank\" rel=\"noopener\"\u003emarketplace.visualstudio.com/items?itemName=PostMate-lab.postmate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-06T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-08-06T19:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 6890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +49,7 @@
       "date": "2026-08-06T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +68,7 @@
       "date": "2026-08-07T09:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +87,7 @@
       "date": "2026-08-07T11:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +95,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JiFTvMNtsDl9gzusjnbmevdAntPz0ffs5tFeIJlnCkR6axoI62Jnd_hJT6gaDBzzZY_QMxm1C_lsWJsHkMu_eGjX_8arwJsE6MBLLNBNxwHs_laYfe89HVbnN-X_yb4mSfeT2Pcwrz2q6Ph4e7G43fdEtXEPPnm3s1rXobHnN9cyRtCHXJPsJ501XzELy_d8-NDZPrteU8oDgN50GJWURXLkzVhhVVgszVu2LZR94VWgtbDVUdczADYMRevW69GAATDPtQcIIyW9d4Wphh0QfHknrP5Szn7BI8D4URyFxgRUksnVrntbrstjGqitgsi3EmKQetiOvBRNFmVRMUVgQQ",
+          "url": "https://cdn4.telesco.pe/file/XF1DoWCo2FREpjLYZjgtYXIWXWL_mlhsTyZ7z8Js7fLPsMhucbGhBi95Qe04DBdCEAWqKDv69A19l5_khdH_oHFB78oAbJ6JwsdC9QZE4Gmm_BgXxb7ulT3Pre1s2W02JzSxR20LsOXsPS67JYJZgpUy-xtkmXGbNDNBBkOi5aOxVMdom_Qp288l25-G57T4pCyZgBgNrV-8giFxcAQEj_8eRpMrt8BXoy_edzFyxcrVSTOhgJAkQ2rUu4nhmlUgSdnC007vA-t9jzOIE1o9uFx-_LWOJcoqhQ0lCRVLEqqG678QszCtbj_Ah7LnN53Oltj_fRk1kHxLcq4PVGKzvQ",
           "width": 1256
         }
       ]
@@ -125,7 +106,7 @@
       "date": "2026-08-07T12:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +114,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AoadrCTeRwBcIP8FdMuubFU88uER6aX7YKQFsbMNS3T6JO9vUHQn2IeCuOl0AcQUj37tB1WJ2nw9LOlQ777-gMrL6wxpd3mwPddtilxMCVGXwBbRjkwlxF3p9n8paOHv7cRickevaZsrkjpXZ5LgsPzqzRbSBr8NtNTKjxa6LMmuw3b3pHOM6lHK4chyv1G2NaGSeRJoCR8GdkJ_y4ufwycUKOY4L7647uoDpHHHJPSa1JPtHz8CwR8Zsqf10dqSjAQ5h4cVFFT1olcz9aFjFQ27_sZknFXdrhK4uyBtCmG0hpTaqZ7nDHwr0C5vpdHFqEW4oxM_O_dPdZV5Y5eUnA.jpg"
+          "url": "https://cdn4.telesco.pe/file/TTM3EUS84ePEjIPuMpYKwrV4kqpBgUPCDksOHYKjx3txlaa9b8Zg32pfvOY1IZVOhew0B4Bc6sSB0VsRIVc7V6AXy_GiXA8LNr8BLuEzPZEYhfGN3f7FQZprHZvT0z2KKa0youIEN7g7Z999bO6NHCBm6qYLIo6-f6ylMDYd_JtZJKnw0z5DlfmmteiNYBFXiOONXFwfJfkzmXXLaovSAZrWv0bm-c9A1mSfcDOfXHpBO814BECGx7moGeXY_cr7PlvMaffEliMu9TKUc94Dafv-sArtjwBEmqQVatUgGYFTV86HgY5max_0WHIr9K3omsvHhAlgbeVp8cZGUVQdRw.jpg"
         }
       ]
     },
@@ -143,7 +124,7 @@
       "date": "2026-08-07T12:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6260,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +142,7 @@
       "date": "2026-08-07T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +160,7 @@
       "date": "2026-08-07T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 5630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +179,7 @@
       "date": "2026-08-07T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 5870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +197,7 @@
       "date": "2026-08-07T17:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +216,7 @@
       "date": "2026-08-07T17:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +235,7 @@
       "date": "2026-08-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +247,7 @@
       "date": "2026-08-07T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +266,7 @@
       "date": "2026-08-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +284,7 @@
       "date": "2026-08-07T19:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +302,7 @@
       "date": "2026-08-08T06:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +321,7 @@
       "date": "2026-08-08T09:16:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3570,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -359,7 +340,7 @@
       "date": "2026-08-08T11:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 693,
+      "views": 2240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -371,7 +352,19 @@
           "width": 1110
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "کسایی که هوش مصنوعی بلدن این نصیحتو از من داشته باشن پول باید توی زندگیتون \u0026#34;یکی\u0026#34; از توابع هیورستیکتون باشه نه آبجکتیو فانکشنتون.\u003cbr/\u003e\u003cbr/\u003eکسایی هم که هوش مصنوعی بلد نیستن برن از خود همین هوش مصنوعی بپرسن این جمله معنیش چی می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-08T11:32:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1786188180
+  "last_updated": 1786189869
 }
