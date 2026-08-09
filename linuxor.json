@@ -8,60 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانت Gemini Pro\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA689.png\u0026#39;)\"\u003e\u003cb\u003e🦉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدسترسی به قدرتمندترین ابزارهای هوش مصنوعی با فعال‌سازی قانونی و تضمینی روی اکانت شخصی شما.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپکیج شامل:\u003c/b\u003e Gemini 3 | Google One (5TB) | Veo 3.1 | NoteBookLM | Nano Banana 2\u003cbr/\u003e\u003cbr/\u003eطرح دانشجویی ۱۲ ماهه + جیمیل\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت: 1,100,00 تومان\u003cbr/\u003e \u003cbr/\u003eطرح ۱۸ ماهه روی جیمیل شخصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e قیمت: 550,000 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e برای خرید و فعال‌سازی پیام دهید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9488.png\u0026#39;)\"\u003e\u003cb\u003e🔈\u003c/b\u003e\u003c/i\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/ZikoTech\" target=\"_blank\"\u003e@ZikoTech\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e دریافت مشاوره و خرید:\u003cbr/\u003e\u003ca href=\"https://t.me/ZikoTechAdmin\" target=\"_blank\"\u003e@ZikoTechAdmin\u003c/a\u003e",
-      "date": "2026-08-08T17:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ctH7IwsvuHHupJ5TXBkByGDQH8chSbXXdDkNkz0gYUHBiaacFucS7oKbgKQWhp5YeR0xY1EZCJqk1_qYBHWUuM-FLAihKR_t2QqiKPkUy1rmNv_oeYg6pPj-Fk8-5BmTrVBTFcff-02v9Iwi5x_xfwIAomD7kX4WOH9ZLbKyiZdDhXg5TnlhNuCYuo0725hSpJVC7NwlR7tDhTNpvQK9aw7mFU7HlMUF4cjSUXZ21if1LQgT-V9xIrUxB2_39I_x3SPV_-ZVixMfGvua_gVAURv8MW3JYiL9BpnO87ktEDA0dU5TZgxfJhZR4ePWe89QfyDlqGBow_XbwhbBg8qepQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این Kage یه نمونه جالب از ترکیب Three.js و AI Coding هستش؛ یه لندینگ‌پیج که هر بخشش با اسکرول، کاربر رو داخل یه دنیای 3D حرکت میده.\u003cbr/\u003e\u003cbr/\u003eکل پروژه با کد و Three.js کمتر از 1MB حجم داره و با تصاویر PNG باکیفیت هم حدود 3MB میشه.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه Skillهای استفاده‌شده برای ساختش هم Open Source شدن:\u003cbr/\u003e\u003cbr/\u003e• build-threejs-scroll-worlds\u003cbr/\u003e• falling-leaves\u003cbr/\u003e• pointer-trail-emitter\u003cbr/\u003e\u003cbr/\u003eدموی پروژه:\u003cbr/\u003e\u003ca href=\"http://mengto.github.io/kage\" target=\"_blank\" rel=\"noopener\"\u003emengto.github.io/kage\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکد لندینگش:\u003cbr/\u003e\u003ca href=\"http://github.com/MengTo/kage\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MengTo/kage\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاسکیل هاش:\u003cbr/\u003e\u003ca href=\"http://github.com/MengTo/skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MengTo/skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T17:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MPd0zdKuKzDlGKu0Jl6Evlw2avyTRu-QynSjipvh6l6Dl3SlAJ_9_c5wEibSJQ88bk9aHRkmcsP25wcdtdZyQB_hnxuMO2SWKTYj82jD4tSfZD3U-iYoqgcwhQfHf_7-po5LvBtBe6vejsGIkQymI63R3SM3-jYPUtIxbDMyKTbD3-BGvMwCSh_JudZESqY0kC6bpXwP3v9-M6Sx_6zuJMVkXANxQz8UFtdNdB54yJauyonjOxSVjaJjPoDvWSTsCosDMuUmyF0xB3sBlpH1Ej8y6eFtl1iA9HIU8C0HveCqytovT8ZGyLYonUltoMayEaIJ6vDEjovzW4kdEL1iaw",
-          "width": 2880
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من هر روز کلی پیام راجع به اینترنت 5G از اپراتورا می‌گیرم ولی توی ایران درباره اینترنت 5G حرف زدن خنده داره چون همچی فیلتره و باید فیلترشکن نصب کنی شما چه پراید داشته باشی چه بوگاتی توی جاده خاکی جفتشون یه سرعت می‌رن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T17:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "اگه با Claude Code یا Cursor کدنویسی می‌کنی، این ریپو یه Skill جالب برای ساخت لندینگ‌پیج داره.\u003cbr/\u003e\u003cbr/\u003eبه‌جای اینکه فقط بگی یه لندینگ بساز، اول اطلاعات لازم رو ازت می‌گیره و بعد ساختار، conversion copy و سیستم بصری صفحه رو خودش در نظر می‌گیره.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونی design values مثل فونت، رنگ، spacing و motion رو خودت شخصی‌سازی کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/elayadesign/ai-design-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/elayadesign/ai-design-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-08T18:15:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 5930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +31,7 @@
       "date": "2026-08-08T18:38:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +49,7 @@
       "date": "2026-08-08T18:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +67,7 @@
       "date": "2026-08-08T19:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +85,7 @@
       "date": "2026-08-08T19:09:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 5910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +97,7 @@
       "date": "2026-08-08T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +115,7 @@
       "date": "2026-08-08T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +133,7 @@
       "date": "2026-08-08T19:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +152,7 @@
       "date": "2026-08-08T20:24:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6930,
+      "views": 7000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +171,7 @@
       "date": "2026-08-08T21:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +183,7 @@
       "date": "2026-08-09T09:30:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +202,7 @@
       "date": "2026-08-09T09:51:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +221,7 @@
       "date": "2026-08-09T10:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +240,7 @@
       "date": "2026-08-09T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3290,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +258,7 @@
       "date": "2026-08-09T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 3710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +277,7 @@
       "date": "2026-08-09T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2920,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +296,7 @@
       "date": "2026-08-09T13:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2490,
+      "views": 3300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -357,7 +308,62 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5438496463044752972\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتا حالا برای استفاده از API سرویس های GPT، Claude یا Grok با مشکل پرداخت ارزی، کارت خارجی یا قطعی اینترنت روبه‌رو شدید؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409048419211682843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبا WinkAPI دیگه لازم نیست درگیر این دردسرها بشید. نه‌تنها نیازی به پرداخت ارزی و کارت خارجی ندارید، بلکه با پرداخت ریالی میتونید تا دو برابر بیشتر از سایت‌های اصلی کردیت دریافت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفقط base_url را عوض کنید و با همان SDK و همان مدل‌های رسمی، از داخل ایران به APIهای هوش مصنوعی دسترسی داشته باشید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5251203410396458957\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیک کلید برای مدل‌های مختلف، بدون نیاز به VPN یا تغییر IP — حتی با اینترنت ملی. با داشبورد شفاف و پشتیبانی فارسی، همه‌چیز آماده ست تا شما روی ساختن محصولتون تمرکز کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5231012545799666522\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرای دریافت کردیت تست با پشتیبانی تلگرام در ارتباط باشید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447410659077661506\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://winkapi.net/\" target=\"_blank\" rel=\"noopener\"\u003ewinkapi.net\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/wink_supp\" target=\"_blank\"\u003e@wink_supp\u003c/a\u003e",
+      "date": "2026-08-09T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AHP8CFSAM3FmomqbmfXbxnd01bK3EADGu1pD2wQoTF7PnfOVu64Vx2azwTRVxf0Pe5G61aaqb_k3SPwgPIogE8dTOAiG1PVVODp7eOeByqqiYxprI30ZWlgIIUkDJcoYaNGARrGRGfGU1u-g9PLuL7zNwnBw_xvPGyaYGiJwIIPAIq3jSaKLFwoB_TMHg1btBlz_Sva-6vjFZrF8Gk-H8LLo0hiVnJs7O1coohVjkmBKjpAPt0C9k82JFyPlr82Fn7JWSB-bC0TQPf9vOIa7bKyDooXeAAxvX8U7j9sCgNtfv6nmEhlN24QK9q0KOPndIB9uWUoyAnauTbYSZO4IyQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این ابزارم جدیدا ترند شده 50 هزار ستاره گیتهاب گرفته، Strix یه Pentester مبتنی بر AI هستش.\u003cbr/\u003e\u003cbr/\u003eیعنی به‌جای اینکه خودت بشینی مرحله‌به‌مرحله یه اپلیکیشن رو تست امنیتی کنی، چندتا Agent هوش مصنوعی بهش میدی که سعی کنن مثل یه هکر واقعی با اپلیکیشن کار کنن، باگ پیدا کنن و بعد مهم‌تر از اون، بررسی کنن که آیا واقعاً قابل Exploit شدن هست یا نه\u003cbr/\u003e\u003cbr/\u003eنکته‌ی مهمش اینه که فقط نمیگه:  اینجا SQL Injection وجود داره.\u003cbr/\u003e\u003cbr/\u003eبلکه سعی می‌کنه واقعاً Exploit رو اجرا و Validate کنه و برای Finding، Proof-of-Concept و مراحل بازتولید ارائه بده. این یکی از تفاوت‌های اصلیش با خیلی از Static Scannerها هستش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/usestrix/strix\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/usestrix/strix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T14:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ib_gjgO6hI1Dqsc5B9QB2bU_L_J9Ix5st64j937GUsWHLXr11EmTAdU9glsE_e94l6kt9hNcO5fOKPpcBRs5P8okrecjWti294EYykNz9neV9s_yHhdwjfDCWUes2ARqRJeLDhd0dhgyYy_M_tlc0hythfP5y8nrt0Su69BYIiZnH7y4fVhnmh4PkZu4HVDaw8WQoZ9OxClcrN08TRDXqCz5MBzWGOJQYNTePJtbTd-tt1qcRs5qOaWGmPDq7WGS8egFHZVzSAZhHqZ3l3gmKBYBKmyRvB__bMBFIDHyvJnnRcOn4iYXABVeTJWdc-Y7X2UdXbzPzFv85eE7myCL9w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایتم کلی ایده جمع آوری کرده برای دیزاین (البته چون سایت جدیده تعدادش کمه ولی به مرور زیاد می‌شه):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.inspora.design/\" target=\"_blank\" rel=\"noopener\"\u003ewww.inspora.design\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e‌\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JmwBQk29ujtcB3MxeBX8SRi9fRaIJFQFEyAmWDPKUwyfW-UWbfcMY62uQDA_vcRIj6kYSrQP_Y_1h150ru2uja1QM7bn2a9FgBjlZbsjDODkF1-KZfrLu9QuVk3PUa2FbLNK8Cfc567-VQdRo-ixXmo8FqEedxQ1qQbVd8T5tV-ogjEOIuGJI4S8UnO_GpInPkUQt5OeT5Y9mPqXmnXubDSEsdcnBfRzzBedoDuH1sSx5FRKBHaLtfW8ysRmWU8p30sshWREOIRpTYJ1LUGBarz_CjQqkNQw6WvZygymB3IBKGjmzZ0Ux01cVx85OrGTS6epFv2TKeq55ZF2mZnI2w",
+          "width": 1080
+        }
+      ]
     }
   ],
-  "last_updated": 1786285463
+  "last_updated": 1786287546
 }
