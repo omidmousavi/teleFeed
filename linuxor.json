@@ -8,85 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003eفقط با یه کامپیوتر، هر سیستم‌عاملی رو اجرا کن!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه لازم نیست برای تست ویندوز یا لینوکس، سیستم اصلیت رو به هم بریزی.\u003cbr/\u003e\u003cbr/\u003eدر \u003cb\u003eدوره VMware Workstation\u003c/b\u003e یاد می‌گیری:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ساخت ماشین مجازی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نصب انواع سیستم‌عامل‌ها\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e راه‌اندازی شبکه‌های مجازی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.daneshjooyar.com/vmware-workstation/?utm_source=telegrampaid\u0026amp;amp;utm_medium=Linux\u0026amp;amp;utm_campaign=vmware\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای ثبت نام همین حالا اینجا کلیک کن\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eهمراه با:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e پشتیبانی تخصصی \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مدرک معتبر قابل ترجمه\u003c/b\u003e",
-      "date": "2026-08-08T19:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S0hOYQl8g8GTdIzFRSK4sDs9cTsc0JwDajPoO0aFZ8_S-IDlG4KFxMaQLNG5ms4FUsVtVqX9UFQKHqqqVEDiLRL85QMfs-yy1sdD5oJSDwSwgDLzz2Ica1y6oISZsJU_FSCKo-BSh9qTdyJNrv4P8YADwQSpIY5Ow5_jfNYp_arqj28hD6CtF3olBHIVlbbpTQI2qpYyWHAKeSv3I9UiGuf5RUOLi-z9hbqayt1FQW3r2G3gusIqsKKFvpkUIiEKjrcMnimZEp3hOGE7FI9Fyqq6eOhD4yqPrexyTlNgbNLTaWxCro901PiKyAug7z0_NVqL6F5lPhREzWsFPhtAhg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این یه پروژه اوپن سورسه برای ساخت یه ابزار مدیریت پروژه شبیه Linear هستین، Circle رو ببینین \u003cbr/\u003e\u003cbr/\u003eیه UI تمیز و مدرن که با Next.js، TypeScript، Tailwind CSS، shadcn/ui و Zustand ساخته شده و کلی ایده خوب برای ساخت اپ‌های پیچیده و data-heavy توش هست.\u003cbr/\u003e\u003cbr/\u003eاز مدیریت Issue و Project گرفته تا Status، Priority، Assignee و Label؛ همه‌چی با یه طراحی مینیمال و نزدیک به تجربه Linear پیاده‌سازی شده.\u003cbr/\u003e\u003cbr/\u003eبه نظرم بیشتر از اینکه یه محصول آماده باشه، یه ریفرنس خیلی خوب برای یادگیری و شروع یه Project Management SaaS خودتونه.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://github.com/ln-dev7/circle\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ln-dev7/circle\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T19:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iCykUK_N9hJpa_eNTR2kXG3auLIyJc4YB1Tx7WpP3W4NA4WwHsxPkgpl_WGY0WpadRCy1-JAn0p-q34VS7fYw5MxiCrXuoZb_Jc8FomwDhKgaFx46EtH6q6UrkIK14y7wAzc5ynx3IibV4gc4aMJ1P2mCcuiBAUrynMNYQ9f749ud_7cBWPyoBKbMKh5MY-bweAOpFQfr6j2VgR2f4O262ILFxhvOSv_fx8AkWZEUZI_g892X6Qk7PV3Vy7oXQDSBr0HKbMmDQjXLk9XyShuxANg6GXCHzLqYacKSiQytPyNcnAk8MmfatP_MOpuunIQX424KmGS_Or0n6newotl_A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینستاگرام و تیک‌تاک حتی رباتام معتاد کردن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T19:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/uj7t99VHiZgxTPE3MCIbSO-3DjiqtZspJLjumBm5-DZFeD96SSV3mr99PYghdVC18baScQ9786NlDVf9oDh139VxALfIPZI6H8WZrUpHhJkMc8dXhMfRWZ343tfaP_HCzC3koV1DU82w4K_oXF0RT2y6a5yvMKrJuczuPyZmOsrW0Oh_FO3w9XmVElPeoxnodgtVBO4Jl9CQfWwL3o6Ux3Lri48cDtCGwcEjqqE6CzVjhI9VS0mOQNCT5Mo05KPX5iOlA7o6uvzSov4cN_zPYhAug6Dcccj09Uf9Pv6uPwS9TV2odnZfxqJ2DIznXNm42-osbN7OA4fdSnA8XhsnRw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه آنتی گراویتی بخاطر تحریما براتون توی ایران کار نمی‌کنه یه روسی اومده براش یه اسکریپت پچ برای دور زدنش نوشته\u003cbr/\u003eدقت کنید اگر کار نکرد روش تغییر ریجن هم باید تست کنید (\u003ca href=\"https://t.me/Linuxor/4466\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین\u003c/a\u003e) همچنین با وی پی ان هم باید تست کنید این پچ فقط جلوی چک های داخلی آنتی گراویتی رو می‌گیره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/AvenCores/open-antigravity-patcher\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/AvenCores/open-antigravity-patcher\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T20:24:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JKohm-KCzUa_Tjz5Se5WQTnm5Sskb2bbQy2sy31peHhnDvWWmvEsXZDWPPeF9Bsplz4w2FeDlqfx4DyIuNUiZJJpqtoaxwsEPXR9TOpLufqPxp5LmUClVkb6XfTpBxO25GL4x1vghuYBwCCuxZL8FRQw0As2XpojzYxB4SpVeTrFEfN3cQBi2rxFh0oQLHEcyLuSBKeVcWzEM7TsdrKnUTbz_HnOXblet8N44La_X20MqVDjzMZ4VOndrdbTSN7k1wxQHZYMKv_aI6RnnMpQNUtaTfMQGphBbcsDs4MtfPVhoQe2FFdcSSMEmmrxSN_vQD4xq7F8Hm7V_3ggJVwkGg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من همیشه نظرم اینه از تکنولوژی و استارتاپ های خارج و غرب کپی کنید چون اونا جلوتر از ما هستن و کپی حلاله!  ولی بعضی مواقع یه سری چیزا متفاوته مثلا توی خارج ایران یه سایت موزیک داشته باشی معمولا از یوزرا پول اشتراک می‌گیری اما این سیستم توی ایران کار نمی‌کنه که هیچ برعکسم هست یعنی خواننده ها میان به سایت ها پول میدن تا اهنگشون منتشر بشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-08T21:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +24,7 @@
       "date": "2026-08-09T09:30:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +43,7 @@
       "date": "2026-08-09T09:51:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +62,7 @@
       "date": "2026-08-09T10:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 6000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +81,7 @@
       "date": "2026-08-09T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +99,7 @@
       "date": "2026-08-09T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +118,7 @@
       "date": "2026-08-09T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +137,7 @@
       "date": "2026-08-09T13:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4870,
+      "views": 5080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +156,7 @@
       "date": "2026-08-09T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4240,
+      "views": 4530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +174,7 @@
       "date": "2026-08-09T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 4430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +192,7 @@
       "date": "2026-08-09T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3960,
+      "views": 4280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +211,7 @@
       "date": "2026-08-09T15:15:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3940,
+      "views": 4310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +230,7 @@
       "date": "2026-08-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2950,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +248,7 @@
       "date": "2026-08-09T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2930,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,7 +267,7 @@
       "date": "2026-08-09T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2710,
+      "views": 3520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -359,7 +285,7 @@
       "date": "2026-08-09T17:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
+      "views": 3280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -370,7 +296,80 @@
           "url": "https://cdn4.telesco.pe/file/H__DnE7j3Uh_pshk2jl7Crfcy_sIliq_wZ9QPGgT31sTOjgQhdFpL6OY4q0zyHBWDWgMCmQSwHWsgdjjKHF1GgbKe8gXG74B0qVmTTryeAchu4vHlNDSlo5egzr3tq44xfe7GPFyLolwTcV_T33_04t5_LNJ36_ZvZAWanWBcETHHlFEsrw850t4Qo585XeXuMgIAbmjXoKsSirWUBYmvd_-GRMZXpHXzzpT6K3LlyojhtkwKwn_ZybGAEQHsMP7liiGvV9vSs_Z8ym9bQ7ygu77Ca9wSXmufNdAi1GIn2p8NVuM15bcVzGsM0gZTw7vkhG9H7nXAFWFcDBtAUc4DQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eفروش Gemini Pro فقط ۲۳۰ هزار تومن به مدت ۴۸ ساعت\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e- مدت اشتراک ۱۸ ماه\u003cbr/\u003e- فعال سازی روی اکانت شخصی شما\u003cbr/\u003e- امکان به اشتراک گذاری طرح با دیگران(family)\u003cbr/\u003e\u003cbr/\u003eتجربه کار با Gemini Pro، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در «اکانت‌آباد» تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای \u003cbr/\u003eبه‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-08-09T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2029,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/eto6490J9uqQ_EUl4DJRSSXFBsY17Q7F2OF2dkjrdv3813aRIPyFmCeWaf3eQ-cqmpJ9ygtMijTW3kwuijVG79hpSKmCvidSUfKd6PAwXp2cz_e4GUmwXkc60rv0TTjiB4Dtc9GM5ycp4mpZKuZzsYX5vDn7vvUgyg4X4-3evkBXUP-H6m1G46oM4OCODZHI3I-cZB0GHsUU5bZt9LtISkf8OBc68Fk1H1m-xWbrCpFBT5_xuqEGX7exCyP9dvCSsUVaj8Xn1jStmeVYm8EOSqkvynLoAMPpN8gwdix4VQMC1H-ZWO1Dhr8PgDWclpvVVC3okbgCTQy7uPIYEHmjhw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این ابزار با یه دستور، هر سایتی رو کلون می‌کنه اپلیکیشن کلونر JCodesMore به تازگی به 30 هزار ستاره رسیده:\u003cbr/\u003e\u003cbr/\u003e تمام Design Tokenها، رنگ‌ها، فونت‌ها، فاصله‌ها و مقادیر دقیق پیکسلی رو استخراج می‌کنه.قبل از اینکه حتی یه خط کد بنویسه، از تمام بخش‌های سایت اسکرین‌شات می‌گیره و ساختارشون رو مشخص می‌کنه. بازسازی سایت رو بین چندین ایجنت هوش مصنوعی تقسیم می‌کنه تا همه‌شون همزمان روی بخش‌های مختلف کار کنن. در نهایت یه کد تمیز با Next.js و Tailwind تحویل می‌ده؛ بدون اینکه چیزی اسکرپ شده یا خراب باشه.\u003cbr/\u003e\u003cbr/\u003eبا بیش از 10 ایجنت کدنویسی کار می‌کنه و بهترین نتیجه رو با Claude Code می‌ده. فقط URL سایت رو بهش می‌دی؛ در نهایت یه codebase واقعی و قابل استفاده تحویلت می‌ده که می‌تونی مستقیماً منتشرش کنی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/JCodesMore/ai-website-cloner-template\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/JCodesMore/ai-website-cloner-template\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MUm-e-gNdo4kuDQnn6d3Fd3f1oxk4SI_dkr6JF8Zoui73T-FbZ2jc-QMDJmYC9AlrPtJv-uK0WmhQsm6-glh7sXvUsQmI15jd9gCIAjml2z_8c72TgiTIhEEXbCO4OMftkaw5Hicwg2QfhTuuVy9fzIrKlHSdGNbCFWPcqgk-PZauNpIvbz5JXpqouJ09HbPZqHVJdq3GC3yORK3ZgqJFvvGQxxXSaCnEixgOyYCo7_mjqs_lIsrM7kh_qJXurYBSoj424_RSJYGDawGnhSxFspmpvb8X8qP985WNwR5zPhFCTGZM6eLhgQLmMJU9h9O_dw51IwtbqRwVWK7eZ1_pw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی یه شبکه کار بچه دار می‌شه :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UHNlFKyExlAr0RFdnz1bx1wMzd4ZFB_zcqpiiI7cgdX1uBI2tS2qIi8AaMRz7zW4SFUWLKL4M1x7vl3VYRrydxwHNVDFWwwrNcaTzHGIpZxk_WH7ekcTYBL5fCAYXFFDiZu3VKT3_BZrxc1PfjruqnzqaIFoh2CJGRNdpCQxo1MnD_sViBVKAGoggj3DJZQfFVSKxFgRwW4j6kb1L_wsZa1RDoezgjbnGiV_RQraNT0ysNefOzeLYpAi75_bJuhr1CNPZdgnzuFjmLBLNngfMH5FycSdShz7PUwkzfW4vaxSs3GUsiOGCyJEm4GgfgB21eDE77zP3vVSurR02YkyzQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این واقعا محشره، یه دولوپر به اسم slvDev تونسته یه مدل زبانی با 28.9 میلیون پارامتر رو روی ESP32-S3 اجرا کنه؛ چیپی که حدود $10 قیمت داره و معمولاً برای چیزهایی مثل سنسورها، وسایل هوشمند و IoT استفاده میشه. مدل بدون اینترنت و کاملاً روی خود چیپ، حدود 9.88 توکن در ثانیه تولید می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگه خواستین خودتون هم می‌تونید تستش کنید : \u003cbr/\u003e\u003ca href=\"http://github.com/slvDev/esp32-ai\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/slvDev/esp32-ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Cb2um-vTzks9VL9okNZvHxED-qFOQp7fawnYjDUochaZf3drXzQ-GAnXvF_nnb7Qvc-b5lfKjR67bSOB2zpjUFY3468PgjpPL-VFgVzRSV9YDgpliFxY-MigTivMPFsRxmBfdVmJ9wk490XQ_A8ku7ZEnLR43Pv9ps8z1iIlg5aVuzAyScjECM1uH7fpD5pk1uEhegOarYMHu6sMQp1IAG0CNJfBX-GeBfDP8Jh6aV_yJWT2PFEhfKNIM0AB3-gnU1t-NRy3AwPKCWVbffPO-fTKMacCcml7sCSIdaBJwduq-iNI7ZH5umUqaXdztqeWJ37F-MBwd__CQ_iYfmT_nQ",
+          "width": 1200
+        }
+      ]
     }
   ],
-  "last_updated": 1786299889
+  "last_updated": 1786302592
 }
