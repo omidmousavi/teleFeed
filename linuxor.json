@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "می‌دونیم SVG یه نوع فرمت عکس هستش که به‌جای ذخیره کردن پیکسل‌ها، شکل و اجزای تصویر رو با کد و مسیرهای ریاضی ذخیره می‌کنه؛ برای همین هرچقدر هم بزرگش کنی کیفیتش خراب نمی‌شه. مثلا لوگوها، آیکون‌ها و بعضی تصویرهای گرافیکی رو معمولا با SVG می‌سازن، \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین سایته یه ویرایشگر برای SVG هستش دقت کنید یکم ویرایش کردنش از عکس های عادی سخت تره چون خصوط مسیر های ریاضی هستن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://editor.method.ac/\" target=\"_blank\" rel=\"noopener\"\u003eeditor.method.ac\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگه نتونستید باهاش کار کنید می‌تونید به صورت عادی عکسو بسازید و بعدا تبدیلش کنید به SVG با ابزار های تبدیل کننده ولی بعضی مواقع خوب درنمیآد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T18:54:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XOrtkfF7Kehi_GLwBQFxJy1L7NseiOyEUYZYP67Mu5hTB1mK136z9fZ2j1LN0blVsIuJLc89kyVdhHV-vDKbG_LiUyFejqnTzZYR7AAfg3DPFezH_kuqDntUGetavnpWuvEO5j6s5BP0tOgz1YBX2eZImCeC6lcK8sv1QNc7yjSIuC09UqEF77dCWxgHIgXFv7k-8sYXEWGifabMF1OwDRKtdp_ECWRiHyJuHApO7gPgjPYzVn_wWFzJ-9dscvvczxk4areYI32pNwbcPC9GqSosozm5U7UDu7OBm9D4IZIDjqztvZKE1uMKRXxgXp8wwcrXaJRxTyiwgKYD5tNCDA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ایده برای تتو.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~  خزعلی",
-      "date": "2026-08-08T19:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iITw9M8QMI_DjyR41kIHCk1roscjW5HlcOc_iArJ9WQjnqY-nRQlIHJC-K_xetrHRiw6giFdGqb06xukuCHcum7zQeLpicegVHey0JohyR-IH5jFwlk5-EytCVSjUDuQnxanDXnYccK-AiPpHqeLZ1DRgoD2vRQu9vqQwgpPHszXf8FMkX166pU0x9dqyOSi6yfCbs-bg9Bt0JBwoynCoG6D6f5KFG3yiq5J-2mhGfJyP2R8EV0E_pLabrOhKuZQ4lCzJDxU_Aoe2PHPackxxZDfJfYGywTyZ7m-yxQeL0im-JuhZerjmcdGx3I7LKgTrRCT5KZQT6lqtEKD859q5A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این چت باتا مثل چت جی پی تی فکرشو کنید فقط درامدشون اشتراک فروختنه من زیاد ذهنیتم غربی نیست نمی‌دونم این مشکل داره یا نه ولی می‌تونن به راحتی مثل گوگل تبلیغات بسیار کاستومایز شده هم بزارن چون دیگه همچی رو دربارتون می‌دونن، هزینه این تبلیغات تا 1000 برابر بیشتر از تبلیغات عادیه چون چت جی پی تی دقیقا تارگت می‌تونه بگیره روی مخاطب خاص حتی قدرت شخصی سازیش شاید از سرچ گوگل هم بیشتر باشه.\u003cbr/\u003e\u003cbr/\u003eاگه روشن‌فکرا باهاش مخالفت نکنن حتی‌ممکنه اشتراک های پرهزینه مثل پرمیوم هم رایگان بدن به کاربرا چون گردش مالی تبلیغات خیلی بالاست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T19:09:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003eفقط با یه کامپیوتر، هر سیستم‌عاملی رو اجرا کن!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه لازم نیست برای تست ویندوز یا لینوکس، سیستم اصلیت رو به هم بریزی.\u003cbr/\u003e\u003cbr/\u003eدر \u003cb\u003eدوره VMware Workstation\u003c/b\u003e یاد می‌گیری:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ساخت ماشین مجازی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نصب انواع سیستم‌عامل‌ها\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e راه‌اندازی شبکه‌های مجازی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.daneshjooyar.com/vmware-workstation/?utm_source=telegrampaid\u0026amp;amp;utm_medium=Linux\u0026amp;amp;utm_campaign=vmware\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای ثبت نام همین حالا اینجا کلیک کن\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eهمراه با:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e پشتیبانی تخصصی \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مدرک معتبر قابل ترجمه\u003c/b\u003e",
       "date": "2026-08-08T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +30,7 @@
       "date": "2026-08-08T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +48,7 @@
       "date": "2026-08-08T19:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +67,7 @@
       "date": "2026-08-08T20:24:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +86,7 @@
       "date": "2026-08-08T21:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +98,7 @@
       "date": "2026-08-09T09:30:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +117,7 @@
       "date": "2026-08-09T09:51:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +136,7 @@
       "date": "2026-08-09T10:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +155,7 @@
       "date": "2026-08-09T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 4860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +173,7 @@
       "date": "2026-08-09T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +192,7 @@
       "date": "2026-08-09T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +211,7 @@
       "date": "2026-08-09T13:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4290,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +230,7 @@
       "date": "2026-08-09T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3330,
+      "views": 3890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +248,7 @@
       "date": "2026-08-09T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3180,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +266,7 @@
       "date": "2026-08-09T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
+      "views": 3620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +285,7 @@
       "date": "2026-08-09T15:15:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2530,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,7 +304,7 @@
       "date": "2026-08-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 254,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,7 +315,62 @@
           "url": "https://cdn4.telesco.pe/file/BLCHjJJmYKHSIIs_Wm3WI1FGh5SskBEyZv8VF0tdIsovDeRB0s-wQXJUfjb7HQUd2FMnZ8fJHFTHkP2shBq0IzU0kMrOg56A6EprGJkTkduaaJc6bvYU5MDycw2xveF4mZI9AODyu5HYaUzvuPQyL-4u5VCj4-P1FQtsvnw3BI9HtRJ82s5_9MrdEzg-0lXcQVXK_Y4LiE7rgk1NUqytUSsvGrigGULYWFTXNARaJST1bNYBCuFmRK4bq_6SXcc1qTvIvzjj_wB1S56lW_XpG0XvEtH4Nw276WFIvrJOTkEafzIX-ES_mdpGj6l1aLIOMtKkW6C_KwdMXeeKc_KomQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این یه لیست فوق‌العاده بزرگ از UI Blockها، کامپوننت‌ها و الگوهای طراحی هستش که برای تک‌تک‌شون یه پرامپت آماده برای AI هم داره. \u003cbr/\u003eهر چیزی رو خواستین پرامپتش رو کپی کنین و بدین به AI Coding Agentت، یا حتی مستقیم کدش رو بردار و شروع کن به ساختن.\u003cbr/\u003e\u003cbr/\u003eدیگه لازم نیست 20 دقیقه وقت بذاری و از صفر برای AI توضیح بدی دقیقاً چه UIای می‌خوای!\u003cbr/\u003e\u003cbr/\u003eبرای دولوپرها، دیزاینرها و هر کسی که با کمک AI داره UI می‌سازه، واقعاً عالیه :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://21st.dev/community/components\" target=\"_blank\" rel=\"noopener\"\u003e21st.dev/community/components\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/meNF5oxpvaLKEuCI2krSYbwLKW2LZLPUdksm5JmrKZxX3A-PGr6sqdbbU2EkcX55WmxW8haN76fXVZ3N4uTo00DJGmYbqErV9AWIUx3bgPlvhHih9KHmeG8Bf19XFBrPT7Rtmr8-gfrbvU_pMAbNjDTYmOSyLKt-rhLpJxb9wbJDioN54lCCgKlV6Ik0lCv5wgs6-tpAp_yOFFIndAhfxTpbY-Y1PXLcm7mn4mMREKVoZMU2FpTaIupotqkWRF1tPViioSlUneQdmlrIraaTaYLma0rXcNXMmuGpXHzzdcU6NRoQGep-xScImVt5hqxpU0CUbHu7jyYTDXy4qy4dew",
+          "width": 2814
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وای مدل جدید معرفی شده ببینید چقدر قدرتش بیشتر از مدل قبلیه!\u003cbr/\u003e\u003cbr/\u003eبزودی هوش مصنوعی دنیا رو تسخیر می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/p1L5BtogUSXd3yoi1ZYMDuaAdBu_zCyQT0APWNQZr3VAbHF7b9hVRf1vRGA8qjwGu7HihYshUTk7R9GLlIRUMBtc0n0j3egWJk_ThJ6iyJ0Ah7dXpLFFEqtzBoCtFHfcUUGMLFWkDk_dY9ein8XyJKITLqBa3N5sbJo_B6t-HSnOASg7ZorqFpUjx-dBddrD_Z35oyM-n_SWqX0hir9OxNrVntHPClQnIH4XKDs51udVxGkUhdDIUAnXxJcSRd7FHdlIyq3mWiGjhx7SQZn9tV_BqYfOVegiZGHyntFlZvrUSVd8YhBBpYS6m_w8I40bBBHO766Eetvx2IQJh9CDpA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "کلادفلر یه مرورگر جدید به اسم Kitesurf معرفی کرده؛ ولی نه برای ما آدم‌ها، برای AI Agentها. ایده اینه که به‌جای اجرای Chromium سنگین برای هر Agent، یه Browser سبک‌تر داشته باشیم که برای کارهایی مثل باز کردن سایت، استخراج HTML، Screenshot و تعامل با صفحات وب بهینه شده باشه. Cloudflare توی بنچمارک خودش تا حدود 7x مصرف Memory کمتر نسبت به Chromium گزارش کرده.\u003cbr/\u003e\u003cbr/\u003eمرورگر Kitesurf با Rust + WebAssembly ساخته شده و روی زیرساخت Cloudflare اجرا میشه. نکته جذابش اینه که لازم نیست Agentت رو از صفر تغییر بدی؛ از CDP پشتیبانی می‌کنه و می‌تونی با ابزارهایی مثل Playwright و Puppeteer بهش وصل بشی. البته فعلاً Beta هستش و برای بعضی قابلیت‌ها مثل WebGL، Video یا سایت‌هایی که به رفتارهای خاص Chromium وابسته‌ان، هنوز باید از Chromium استفاده کنی.\u003cbr/\u003e\u003cbr/\u003eبرای شروع مستندات و API رو هم اینجا ببین: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://developers.cloudflare.com/changelog/post/2026-08-06-kitesurf\" target=\"_blank\" rel=\"noopener\"\u003edevelopers.cloudflare.com/changelog/post/2026-08-06-kitesurf\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T17:15:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 726,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/H__DnE7j3Uh_pshk2jl7Crfcy_sIliq_wZ9QPGgT31sTOjgQhdFpL6OY4q0zyHBWDWgMCmQSwHWsgdjjKHF1GgbKe8gXG74B0qVmTTryeAchu4vHlNDSlo5egzr3tq44xfe7GPFyLolwTcV_T33_04t5_LNJ36_ZvZAWanWBcETHHlFEsrw850t4Qo585XeXuMgIAbmjXoKsSirWUBYmvd_-GRMZXpHXzzpT6K3LlyojhtkwKwn_ZybGAEQHsMP7liiGvV9vSs_Z8ym9bQ7ygu77Ca9wSXmufNdAi1GIn2p8NVuM15bcVzGsM0gZTw7vkhG9H7nXAFWFcDBtAUc4DQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786293119
+  "last_updated": 1786296117
 }
