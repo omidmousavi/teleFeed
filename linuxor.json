@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه سایت پیدا کردم که تقریبا هر مشکلی که به خاطر جا افتادن جزئیات توی طراحی کامپوننت‌های UI پیش میاد رو حل می‌کنه.\u003cbr/\u003e\u003cbr/\u003eبرای ساختن کارت‌ها، نویگیشن و فرم‌ها، چک‌لیست‌های دقیق و مرحله‌به‌مرحله میده، طوری که دیگه هیچ‌وقت جزئیات ریز و مهم رو از قلم نمی‌ندازی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://checklist.design/\" target=\"_blank\" rel=\"noopener\"\u003echecklist.design\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ rutu_3",
-      "date": "2026-08-08T06:05:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7550,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/e5hceX64kbiLm8NexgEWse43A8gW12hlriaT0WkMdbLIMDOJD7YlNiE6DtVcSDbD3ZHTVMnEe4WnNltKiKsMXfJ3aUKifkBQWev_Tb_zDStbWMTNrYT8c8AgHiRpcRjZFb5_Gg5i45hIgeq8IKkThkEOiosg3LJ3wtu5d5ra4eJIN1zCM1cVIfzVpNrze5wlMSwE1owwvYGPVaoRjdHRWqNuw0I24yW7RjPwlKM1hZi8QUMgIbXJ3mZJIZISmAdnMNcPr_0n5bO2Uc-XRs-eFtUomKqL16LtbXLNwoWeQCmlVGfSEGEjxTZ8erq6LLpNo1mT-E1BT7Oh78Zg-xc0tQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه کمپانی این ماسک هارو ساخته که توی مصاحبه های کاری آنلاین تقلب نکنید و چیزی از روی اسکرین نبینید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-08T09:16:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/V-TKWJeoT_6xj_hgh6JNV3FU6O16yLdj2STchIVgZ3km2CE8nFRzkB-svZ5mNWI1AsWt6o2TsVF17caU8HfM6MBxiX2AP5rZEiWLcgn6a4oc5Qdu1nrnJpHUDnQDicTgsRH1LbqfAZflqtUhJN6stSD9mPu-NNdR1MNS6u0ThQauXPiGDb3gGJxeU_c9a1OmYw27MVculiEucbBD6ZfjAOcHmBQOADel-zIf6TqmDRnLOB-_Gbpj80IrLjGchlA-8-y5YRO3qqw7dSc1UpEkA_ilsKaqfG6eQKeWE3EL2nPbTIjYAq-TulQHyPdH3wRIbw2vYua1BVTZmesJZp_v-g",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اکثر برنامه نویس های تازه کار به خصوص وایب‌کدر ها هنوز باگ های فاحش Race-Condition و IDOR رو توی برنامه هاشون دارن، این ویدیو سینا متخصص امنیت سایبری یه حمله واقعی به یه سایت بازی که قبلا با این دو باگ هک کرده رو توضیح داده\u003cbr/\u003e\u003cbr/\u003eتوی چند ماه اخیر فقط خود من چندین باگ مشابه و بحرانی از سایت های نسبتا بزرگ پیدا کردم ولی چون برنامه نویسم و دنبال امنیت نبودم پیگیرشون نشدم البته یه قانون نانوشته بین باگ بانتی کار ها هم هست که می‌گه تا وقتی خود شرکت یا سایت ازت نخواسته روی سایتش باگی پیدا نکنی وگرنه بجای جایزه باید منتظر شکایتش توی دادگاه باشی!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-08T11:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +31,7 @@
       "date": "2026-08-08T11:32:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +43,7 @@
       "date": "2026-08-08T12:49:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6710,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +62,7 @@
       "date": "2026-08-08T13:34:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +74,7 @@
       "date": "2026-08-08T15:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +92,7 @@
       "date": "2026-08-08T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4460,
+      "views": 4540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +110,7 @@
       "date": "2026-08-08T17:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +129,7 @@
       "date": "2026-08-08T17:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +141,7 @@
       "date": "2026-08-08T18:15:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +160,7 @@
       "date": "2026-08-08T18:38:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5140,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +178,7 @@
       "date": "2026-08-08T18:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +196,7 @@
       "date": "2026-08-08T19:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +214,7 @@
       "date": "2026-08-08T19:09:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +226,7 @@
       "date": "2026-08-08T19:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +244,7 @@
       "date": "2026-08-08T19:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 5750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +262,7 @@
       "date": "2026-08-08T19:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +281,7 @@
       "date": "2026-08-08T20:24:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 5820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,12 +300,50 @@
       "date": "2026-08-08T21:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "ابزار Liquid Metal یه کامپوننت React هست که دور دکمه‌ها، آیکن‌ها و برچسب‌ها حاشیه متحرکی شبیه فلز صیقلی می‌سازه.\u003cbr/\u003e\u003cbr/\u003eنور روی لبه‌ها حرکت می‌کنه و حتی می‌تونه بازتابش رو روی عناصر کناری نشون بده.\u003cbr/\u003e\u003cbr/\u003eرنگ و ظاهرش قابل تنظیمه و با تم روشن و تاریک هم کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://metal.jakubantalik.com/\" target=\"_blank\" rel=\"noopener\"\u003emetal.jakubantalik.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Elizaium",
+      "date": "2026-08-09T09:30:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/iKvNPKxwynh0cjNRvXqhwZqX1GiadQrehkP8bT8XKfUdF_CJoRsM6ur7JoPBke-6I4hdBFxsWaOtg35ziqaPjUxvJpvIg-_iYI88h5Pq7At0ulKeOHbABUFa3dNTwNaO_Z6d98-Gihk3qcnlN-8T6MBIBs2z3MxqlQYV_o8mU2r_ud3fFI0Id5PczVfJFXrza1tS0ZCSEsuAgWLcI34GQ1EeoThxMxvHKVPbMtFUJlj6Swl5U9eGv6P1k_3NXZlN-vWEY5yeFUMejQxdru1WuwivfSUrvrXEjYq2V5gmVyKj1B0AWURSgjt1aCTbIZYWor41e6RpwtkU731UlbmV4A",
+          "width": 1042
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "علی‌بابا بالاخره مدل Wan 2.2 Animate 14B رو روی Hugging Face منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eاین مدل کاملاً متن‌باز و رایگان هستش و می‌تونه از قابلیت Video-to-Video استفاده کنه؛ یعنی شما یه ویدیوی آماده بهش می‌دی و مدل می‌تونه همون حرکت‌ها و اجرای داخل ویدیو رو حفظ کنه، ولی ظاهر، شخصیت یا سبک تصویر رو تغییر بده.\u003cbr/\u003e\u003cbr/\u003eیکی از قابلیت‌های جذابش Motion Transfer یا انتقال حرکت هستش. یعنی مثلاً یه نفر توی یه ویدیو راه می‌ره، می‌رقصه یا یه حرکت خاص انجام می‌ده؛ شما می‌تونی ظاهر اون حرکت رو روی یه شخصیت یا تصویر دیگه منتقل کنی، بدون اینکه لازم باشه از اول اون انیمیشن رو بسازی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای تست آنلاین هم می‌تونین از این اسپیس استفاده کنین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/hugging-apps/wan2-2-animate-2-14b\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/hugging-apps/wan2-2-animate-2-14b\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-09T09:51:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 941,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/T9eWr9mkod9AMHgdgYW1P4pnnaIQnO_hWZYmGPlTkfGjhWOEuWFQVbrFel2lsDUTiZqF1jHg8s4qd30xZdM4BEL993_RVX3oxAYyjxiTMw4Cb6BWIcrsK_5s-siWpem68o3KV8WuEf_cO3kyJi6LVNcneKpssPK-KnMumNdM2sZIiSNulvvizU8ptVMifsOF74JUuLiUZ4loB4SSNXpMqfDBsGapUCPFhtAvLO2Qo2MaCllLFG4pezhk1eMDOA4CA0Mhn4MeUekAz0scep4kb2JF8Q8NS1qRIBsgwUdLcYuOd5NQpr6Vh_LOQCGzqO6ZwhG3XrqNHNXL-3rnhBaNHw",
+          "width": 1440
+        }
+      ]
     }
   ],
-  "last_updated": 1786266549
+  "last_updated": 1786269775
 }
