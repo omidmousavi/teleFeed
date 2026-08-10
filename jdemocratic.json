@@ -78,7 +78,7 @@
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/P3H3dSViDIbfqz46gMBoJg3_TnJGSlXiebhepFPouarhw12lFoXZXnQoQKkqVYGG9jzAZjnprDeOTfI1Gcs2jmxbgE3DaAZGAU9SC2bVPLND1G_tRqe9M5oI9p0bOWT-SB1W4buoQ3oOQAqzZ-pRb4yjrHWH-BBDYAYE_Ok97IlyGlfnQt0ZpWcB-wLYlju49zsaiNabl_IioyhIX4d7905KD5y-iHa3kSvdITWhEalglcvXZ0pN6LXwVVuCgt3_iBnwWm7-JtxIzaVrbsqDeerRFwC4ndwgUcpLUAgwqXZaX3sn3k_CJU_ZXM7PE7o5TBwqsHfCxcez_DoGoQ234w.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZLo6EVytQBJdT3mvirIrxs4o8wQsoGkMULprRYXrN4_2AYaTu2yRQvlNivsYhm_JjbSjAJkE1DyMRRerfwk4D3miOUSwxbgZCOtbpvDdrvb7TNNyyqm3AGWwwLfU-c66TcnEipKlt2X4YWCXIWYp0NnfRUeGGJxb67_-dmXJaIj9d3P9Eo4HolOdez9s4U0koVk0-XsVuZel0gVmXDr_Tz9OOaqItPJfLDxOT4v8D6SR7NrdcRUT93j4paxkQW9-ZYWrOT7UDQhItPQaTh2s-yJfOnDSCpdTcglODtX--iKk5HVqne2e0dChoZPm-EpHTgVGuNu23wmvTTgY1kMwjQ.jpg"
         },
         {
           "type": "photo",
@@ -165,7 +165,7 @@
       "date": "2026-08-08T11:26:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,5 +236,5 @@
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1786355710
+  "last_updated": 1786359477
 }
