@@ -8,102 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کلادفلر یه مرورگر جدید به اسم Kitesurf معرفی کرده؛ ولی نه برای ما آدم‌ها، برای AI Agentها. ایده اینه که به‌جای اجرای Chromium سنگین برای هر Agent، یه Browser سبک‌تر داشته باشیم که برای کارهایی مثل باز کردن سایت، استخراج HTML، Screenshot و تعامل با صفحات وب بهینه شده باشه. Cloudflare توی بنچمارک خودش تا حدود 7x مصرف Memory کمتر نسبت به Chromium گزارش کرده.\u003cbr/\u003e\u003cbr/\u003eمرورگر Kitesurf با Rust + WebAssembly ساخته شده و روی زیرساخت Cloudflare اجرا میشه. نکته جذابش اینه که لازم نیست Agentت رو از صفر تغییر بدی؛ از CDP پشتیبانی می‌کنه و می‌تونی با ابزارهایی مثل Playwright و Puppeteer بهش وصل بشی. البته فعلاً Beta هستش و برای بعضی قابلیت‌ها مثل WebGL، Video یا سایت‌هایی که به رفتارهای خاص Chromium وابسته‌ان، هنوز باید از Chromium استفاده کنی.\u003cbr/\u003e\u003cbr/\u003eبرای شروع مستندات و API رو هم اینجا ببین: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://developers.cloudflare.com/changelog/post/2026-08-06-kitesurf\" target=\"_blank\" rel=\"noopener\"\u003edevelopers.cloudflare.com/changelog/post/2026-08-06-kitesurf\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-09T17:15:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/H__DnE7j3Uh_pshk2jl7Crfcy_sIliq_wZ9QPGgT31sTOjgQhdFpL6OY4q0zyHBWDWgMCmQSwHWsgdjjKHF1GgbKe8gXG74B0qVmTTryeAchu4vHlNDSlo5egzr3tq44xfe7GPFyLolwTcV_T33_04t5_LNJ36_ZvZAWanWBcETHHlFEsrw850t4Qo585XeXuMgIAbmjXoKsSirWUBYmvd_-GRMZXpHXzzpT6K3LlyojhtkwKwn_ZybGAEQHsMP7liiGvV9vSs_Z8ym9bQ7ygu77Ca9wSXmufNdAi1GIn2p8NVuM15bcVzGsM0gZTw7vkhG9H7nXAFWFcDBtAUc4DQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eفروش Gemini Pro فقط ۲۳۰ هزار تومن به مدت ۴۸ ساعت\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e- مدت اشتراک ۱۸ ماه\u003cbr/\u003e- فعال سازی روی اکانت شخصی شما\u003cbr/\u003e- امکان به اشتراک گذاری طرح با دیگران(family)\u003cbr/\u003e\u003cbr/\u003eتجربه کار با Gemini Pro، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در «اکانت‌آباد» تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای \u003cbr/\u003eبه‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
-      "date": "2026-08-09T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eto6490J9uqQ_EUl4DJRSSXFBsY17Q7F2OF2dkjrdv3813aRIPyFmCeWaf3eQ-cqmpJ9ygtMijTW3kwuijVG79hpSKmCvidSUfKd6PAwXp2cz_e4GUmwXkc60rv0TTjiB4Dtc9GM5ycp4mpZKuZzsYX5vDn7vvUgyg4X4-3evkBXUP-H6m1G46oM4OCODZHI3I-cZB0GHsUU5bZt9LtISkf8OBc68Fk1H1m-xWbrCpFBT5_xuqEGX7exCyP9dvCSsUVaj8Xn1jStmeVYm8EOSqkvynLoAMPpN8gwdix4VQMC1H-ZWO1Dhr8PgDWclpvVVC3okbgCTQy7uPIYEHmjhw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این ابزار با یه دستور، هر سایتی رو کلون می‌کنه اپلیکیشن کلونر JCodesMore به تازگی به 30 هزار ستاره رسیده:\u003cbr/\u003e\u003cbr/\u003e تمام Design Tokenها، رنگ‌ها، فونت‌ها، فاصله‌ها و مقادیر دقیق پیکسلی رو استخراج می‌کنه.قبل از اینکه حتی یه خط کد بنویسه، از تمام بخش‌های سایت اسکرین‌شات می‌گیره و ساختارشون رو مشخص می‌کنه. بازسازی سایت رو بین چندین ایجنت هوش مصنوعی تقسیم می‌کنه تا همه‌شون همزمان روی بخش‌های مختلف کار کنن. در نهایت یه کد تمیز با Next.js و Tailwind تحویل می‌ده؛ بدون اینکه چیزی اسکرپ شده یا خراب باشه.\u003cbr/\u003e\u003cbr/\u003eبا بیش از 10 ایجنت کدنویسی کار می‌کنه و بهترین نتیجه رو با Claude Code می‌ده. فقط URL سایت رو بهش می‌دی؛ در نهایت یه codebase واقعی و قابل استفاده تحویلت می‌ده که می‌تونی مستقیماً منتشرش کنی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/JCodesMore/ai-website-cloner-template\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/JCodesMore/ai-website-cloner-template\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-09T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MUm-e-gNdo4kuDQnn6d3Fd3f1oxk4SI_dkr6JF8Zoui73T-FbZ2jc-QMDJmYC9AlrPtJv-uK0WmhQsm6-glh7sXvUsQmI15jd9gCIAjml2z_8c72TgiTIhEEXbCO4OMftkaw5Hicwg2QfhTuuVy9fzIrKlHSdGNbCFWPcqgk-PZauNpIvbz5JXpqouJ09HbPZqHVJdq3GC3yORK3ZgqJFvvGQxxXSaCnEixgOyYCo7_mjqs_lIsrM7kh_qJXurYBSoj424_RSJYGDawGnhSxFspmpvb8X8qP985WNwR5zPhFCTGZM6eLhgQLmMJU9h9O_dw51IwtbqRwVWK7eZ1_pw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی یه شبکه کار بچه دار می‌شه :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-09T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UHNlFKyExlAr0RFdnz1bx1wMzd4ZFB_zcqpiiI7cgdX1uBI2tS2qIi8AaMRz7zW4SFUWLKL4M1x7vl3VYRrydxwHNVDFWwwrNcaTzHGIpZxk_WH7ekcTYBL5fCAYXFFDiZu3VKT3_BZrxc1PfjruqnzqaIFoh2CJGRNdpCQxo1MnD_sViBVKAGoggj3DJZQfFVSKxFgRwW4j6kb1L_wsZa1RDoezgjbnGiV_RQraNT0ysNefOzeLYpAi75_bJuhr1CNPZdgnzuFjmLBLNngfMH5FycSdShz7PUwkzfW4vaxSs3GUsiOGCyJEm4GgfgB21eDE77zP3vVSurR02YkyzQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این واقعا محشره، یه دولوپر به اسم slvDev تونسته یه مدل زبانی با 28.9 میلیون پارامتر رو روی ESP32-S3 اجرا کنه؛ چیپی که حدود $10 قیمت داره و معمولاً برای چیزهایی مثل سنسورها، وسایل هوشمند و IoT استفاده میشه. مدل بدون اینترنت و کاملاً روی خود چیپ، حدود 9.88 توکن در ثانیه تولید می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگه خواستین خودتون هم می‌تونید تستش کنید : \u003cbr/\u003e\u003ca href=\"http://github.com/slvDev/esp32-ai\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/slvDev/esp32-ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-09T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Cb2um-vTzks9VL9okNZvHxED-qFOQp7fawnYjDUochaZf3drXzQ-GAnXvF_nnb7Qvc-b5lfKjR67bSOB2zpjUFY3468PgjpPL-VFgVzRSV9YDgpliFxY-MigTivMPFsRxmBfdVmJ9wk490XQ_A8ku7ZEnLR43Pv9ps8z1iIlg5aVuzAyScjECM1uH7fpD5pk1uEhegOarYMHu6sMQp1IAG0CNJfBX-GeBfDP8Jh6aV_yJWT2PFEhfKNIM0AB3-gnU1t-NRy3AwPKCWVbffPO-fTKMacCcml7sCSIdaBJwduq-iNI7ZH5umUqaXdztqeWJ37F-MBwd__CQ_iYfmT_nQ",
-          "width": 1200
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نسل جدید از این هیچ درکی نداره که ما می‌رفتیم سی‌دی خام می‌گرفتیم آتیشش می‌زدیم، بعدش سی‌دی خامه از خامی در می‌اومد و می‌پخت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-09T19:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +24,7 @@
       "date": "2026-08-10T06:38:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +43,7 @@
       "date": "2026-08-10T06:45:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +61,7 @@
       "date": "2026-08-10T07:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 6930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +79,7 @@
       "date": "2026-08-10T07:49:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +97,7 @@
       "date": "2026-08-10T10:46:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +109,7 @@
       "date": "2026-08-10T12:42:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4240,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +127,7 @@
       "date": "2026-08-10T12:42:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4550,
+      "views": 4930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +146,7 @@
       "date": "2026-08-10T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +164,7 @@
       "date": "2026-08-10T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +176,7 @@
       "date": "2026-08-10T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 3290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +194,7 @@
       "date": "2026-08-10T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2510,
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +212,7 @@
       "date": "2026-08-10T14:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +231,7 @@
       "date": "2026-08-10T15:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 2990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,12 +249,97 @@
       "date": "2026-08-10T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 2700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e خرید VPN با تحویل آنی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e سرعت بالا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e دارای 7 لوکیشن فعال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇪\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87AE.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇮\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇬\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e دارای IP ثابت \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e بدون محدودیت کاربر\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003eهمراه با تست رایگان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e تحویل آنی و خودکار از طریق ربات \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e قیمت ویژه هر گیگ فقط 3500 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A8.png\u0026#39;)\"\u003e\u003cb\u003e🧨\u003c/b\u003e\u003c/i\u003e ربات خرید:\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/OpGate_Bot\" target=\"_blank\"\u003e@OpGate_Bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال اطلاع‌رسانی:\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/OpGate\" target=\"_blank\"\u003e@OpGate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e اتصال مطمئن، سرعت واقعی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
+      "date": "2026-08-10T15:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BfsCgGBlDZ_m6wD7UocPgAZUC7B6uDPtBrAypw-vbMM82EUL-Psvxy42nq8clUuPOSpXAU0zxJbGd0EjNn9MTovs1ydZTvqU14My6XQcgi-E--QiAXnFpiDJ2TR-U59FVYHOIbl-af7mN-iu2WhLfi4C3AQMgOT34PAMShaWZJRJVAfwSVFpyk34FgX5sMlZlYHLD1-VG2ot1am4Bd0NfD4lf_XZykswNsuC6WMPkuO9WJkujClpo5yZ_0qgK3OvFmmBWpAiCloRONZNZKlA3ChSPzw1AUDbAE40tUBY4OCs--WwNoNd7EwQmMlDq6CtUNm21gY145nFg2dR6nrSwg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه از AI Coding Agentها برای نوشتن کد استفاده می‌کنید، یه مشکل جدید داریم: کد خیلی سریع‌تر از قبل تولید میشه، ولی Review کردنش همچنان زمان می‌بره. اینجاست که PR-Agent وارد میشه؛ یه ابزار Open Source برای AI Code Review که Pull Requestهای شما رو به‌صورت خودکار بررسی می‌کنه و کمک می‌کنه قبل از اینکه کد وارد Production بشه، مشکل‌های احتمالی زودتر دیده بشن.\u003cbr/\u003e\u003cbr/\u003eابزار PR-Agent می‌تونه تغییرات کد رو بررسی کنه، باگ‌های احتمالی و مشکلات امنیتی رو پیدا کنه، وضعیت تست‌ها رو بررسی کنه، برای بهتر شدن کد پیشنهاد بده، برای PR توضیح و Summary بسازه و حتی به سوالات شما درباره تغییرات پاسخ بده. جالب‌تر اینکه فقط به GitHub محدود نیست و با GitHub، GitLab، Bitbucket، Azure DevOps و Gitea کار می‌کنه و می‌تونید به‌صورت Self-hosted اجراش کنید و مدل AI مورد استفاده رو هم خودتون انتخاب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/The-PR-Agent/pr-agent\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/The-PR-Agent/pr-agent\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T15:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jtAKVvcvj4pbS2BOuPcIkV1nOKm0TRlLJ-2dXThyQkJgNQtG-DM30UpfgLcAVY6DrgzSfJnZCT7FhI-DSqMrSEEdG0uerHNengWVOyJGn2D9wBuWg6nR3mEpgsdLyF_WxK2d-ZOZeNYFGxq29PnKIWlqpw0n2dAUP6pftiMLK9yrwuwI8NUj8CfR8xnkH0pzO7ip0dG_A8wB6392RrDojIozn2qkSsPe3MoPpdB_py-XpO3vB7FZs82jg79lYF4zUuaSXqAtlfuqoMZDeB7s94oHRKzk4Nr52-NIbRIaQWk53tEvAMV128v1mWtZFPGNLnWvGfLdQm8N3CXyJ_KadQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعضی بانکای ایران به بهانه امن بودن برای لاگین باید ده تا اطلاعات مختلف بدی سه بار فقط برات کد پیامک می‌شه\u003cbr/\u003e\u003cbr/\u003eاین اسمش امنیت نیست هکرا اوسگول نیستن که دونه به دونه از دیوار دفاعی های شما رد بشن که، کافیه سشن رو بدزدن کار تمومه یعنی هزار لایه دفاعی هم داشته باشین از تو درست کد نزده باشین هیچ سودی نداره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T15:54:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این وبسایتم انصافا کامپوننت های زیبایی داره رایگانه و راحت می‌تونید کد هرکدومو خواستید کپی کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://reui.io/components\" target=\"_blank\" rel=\"noopener\"\u003ereui.io/components\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T16:04:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Txg3jf7cBxQfZ-m1iXPaORcFdwvtmzPxj1Apfoh7UEfgSG2a3LA99652vxHfn6hcXi4FX23fjdze57C8eoBfXyQhfyaMyaNKnt5T76NoiMwm1u86TKVMEdPg7d1cLMyUEphjsLeteypEv63FA9BKu6afoLnAkBv9qL7dhInXVPKdbYTkz9HB3Il8-GprQ-xh2nj_Ds3xmpcE8EGnWBfteIAs8eKlolL8rOTZ5TOmwFwMDqp5DNBtN3OmvIUsE4xjphDTY_voHrCp7EPg7pgsCR8VJO8nNFVk3oD99NNGNGgEuIxBCxrCT3rDcwjn4FiM8CSSCejVGSWqm4c8X1pnEw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "توضیح اصل جایگزینی لیسکوف با رسم شکل.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T16:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 751,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DFYmkjOGHtVJ9QJ_OZzCkWGtFOArKVDIxFz-5HL_yjr3xbsT7XEQjWGvOgK_CQJ9YDmscokJpqprOcoWPNUNk_VlWEMogvHta2-Vvrf37QXBk2liA4jG-VY-wGId2sfwb4yI_jRcdZGNpUPP5H4FrLhvRU2he2ugUWEl_CsHE3GzUSRkKQkTRbsCdlTr-Fk_-dWk0SQb9M3ye8q1D9Ihyc8tUO9A1oad-I6nZvY2NZJjAA7RK0zZkneyxkgFsabN2241Jw6tAOXqVj53NPp0BccHSZEmb9xf1swu9TGC_fXJGpeJ2Uj6VGJ71PRM9bXv8ObNS64QjvDdcOGi5v1DAQ",
+          "width": 634
+        }
+      ]
     }
   ],
-  "last_updated": 1786375735
+  "last_updated": 1786378971
 }
