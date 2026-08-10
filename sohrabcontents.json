@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاجرای بی‌دردسر نرم‌افزارهای جاوا و DOS\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر آخرین گزارش \u003ca href=\"https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین ماه در توزیع کی‌دی‌ای لینوکس\u003c/a\u003e، از ابزار جدیدی به نام Package Compatibility Helper رونمایی شده.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچطور کار میکنه؟\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e1. تشخیص هوشمند پسوند\u003c/b\u003e\u003cbr/\u003eهنگام اجرا پرونده‌هایی با پسوند \u0026#34;.jar\u0026#34; یا برنامه‌های متکی بر DOS، فراداده‌(metadata) پرونده رو بررسی می‌کنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003e2. اعلام نیاز به کاربر\u003c/b\u003e\u003cbr/\u003eیک پنجره راهنما به کاربر اطلاع میده که اجرای این برنامه به یک بسته یا شبیه‌ساز مشخص نیاز داره.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003e3. نصب راحت پیش‌نیاز\u003c/b\u003e\u003cbr/\u003eبا تأیید کاربر، نیازمندی به طور خودکار از Flathub دریافت و نصب شده و برنامه بلافاصله اجرا میشه.\u003c/blockquote\u003e\u003cbr/\u003eاین ویژگی تجربه کاربری بهتری ارائه میده و طوری طراحی شده که در آینده از پیش‌نیازهای بیشتری پشتیبانی کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاین ویژگی به میزکار پلاسما اضافه شده؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهنوز نه، این ابزار فعلا برای \u003ca href=\"https://linux.kde.org/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوزیع KDE Linux\u003c/a\u003e معرفی شده و با گذشتن از مراحل آزمایشی به میزکار هم اضافه خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-08-04T10:44:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 921,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oNgRjRdJHSz-hBl7M4dGZc-Fpny99Mu7lG4_oNjRur4Z-6xdURSQTJtSn5ph7GJiXvVVnoZHmi05ree1Zi6aAiEZJ12J_x9YwAbS9c-yDXcxFQggM7PdK8eGoP8vHnABLwrd6wdMm_atAhurQnPo-kpAmJ3kZWAYxl8QKaM8nnVDOx-pJBGgvqJEASm4tkjseNaJU76CzOAMvzckUUepBWfeGtP9zqCh3mYS_XY6gbT95t7wJMb1rrRarxQi3onPYv1KdQrIUfDWI5W_Y7i56FHFl2AUt8WWuAWLsmY_8mrRphX_u3yDxpEDGXIX_ATpIu2a_H6ny2VlXefWRgkl4Q",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "فروم پارچ هم اکنون به \u003ca href=\"https://t.me/parchlinux/1316\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدیسکورد\u003c/a\u003e پارچ متصل است و می‌توانید در هر دو پلتفرم فعالیت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eدر فروم پارچ با رعایت تاپیک می‌توانید درمورد هر نرم‌افزارآزادی سوال بپرسید، مانند دبیان، اوبونتو و......\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین برای بیلد بعدی پارچ و ابزارهای آن می‌توانید پیشنهادات خود را در این تاپیک بنویسید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/parch-gnu-linux/1129\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/parch-gnu-linux/1129\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eثبت‌نام در فروم با استفاده از گوگل و گیت‌هاب امکان پذیر است، با توجه به شرایط کشور توصیه می‌شود تا یک کلمه‌عبور دستی برای حساب خود تنظیم کنید تا در صورت قطعی اینترنت همچنان بتوانید در فروم پارچ فعالیت کنید.\u003cbr/\u003e\u003cbr/\u003eما سعی می‌کنیم تا با فعالیت مستمر اعضای پروژه در فروم پارچ، توسعه را به سمت جامعه نزدیک‌تر کنیم و ارتباط بین تیم و جامعه را بهبود ببخشیم.\u003cbr/\u003e\u003cbr/\u003eهمچنین IRC پارچ مجدداً در دسترس قرار می‌گیرد و به بخش گفتگو فروم و دیسکورد پارچ پل خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-08-04T17:22:23Z",
       "edited": false,
@@ -74,7 +55,7 @@
       "date": "2026-08-05T11:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 889,
+      "views": 894,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +73,7 @@
       "date": "2026-08-06T07:09:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +95,7 @@
       "date": "2026-08-06T09:12:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +113,7 @@
       "date": "2026-08-06T11:23:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +125,7 @@
       "date": "2026-08-06T18:48:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +143,7 @@
       "date": "2026-08-06T20:37:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 928,
+      "views": 935,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +155,7 @@
       "date": "2026-08-07T09:42:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 901,
+      "views": 908,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +167,7 @@
       "date": "2026-08-07T09:52:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1690,
+      "views": 1700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +179,7 @@
       "date": "2026-08-07T18:32:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +197,7 @@
       "date": "2026-08-07T18:32:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
+      "views": 998,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +215,7 @@
       "date": "2026-08-07T19:50:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1250,
+      "views": 1260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +233,7 @@
       "date": "2026-08-07T21:58:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +245,7 @@
       "date": "2026-08-08T12:36:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 738,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +257,7 @@
       "date": "2026-08-09T07:35:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +275,7 @@
       "date": "2026-08-09T18:49:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 547,
+      "views": 597,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +286,25 @@
           "url": "https://cdn4.telesco.pe/file/YRfy5wenvC1iyM6Onlh1bwaxJnKfL_vobrTxwW41WCL3sUi0qpcG3WWq6wn7RijZldjIREVcitrXxqMb7qW5uL7A0H9Q1QR_aYRGa4HB4e49w1YI5WtiNKmupJFEXHrQqd7CLVtFsMRzCgWIuz8rKKHD4m7odK6jj-LRZVBdHHiUi6h9ULoy-bF_vBTsHgo8yn_c3rb9fApIgY7hI5egwBC_ZDafKFoKaYFHz6jzwFPgqVzNU_gAcUzie73V3duVAeuAyjhhHb5Ve32L_wF-K9SyYS-kqnmduOH7cMz5hp63JiWWIuhqpRX3gaqxegSG07P-e8WXRyuxVtq-nlKVtg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پروژه‌ای در پارچ لینوکس در حال طراحیه که می‌تونه یکی از مهم‌ترین قابلیت‌های این توزیع بشه: یک لایه کامل دسترس‌پذیری برای افراد کم‌توان، که روی هر چهار محیط دسکتاپ پارچ (کی‌دی‌ای، گنوم، ایکس‌اف‌سی‌ای و ال‌ایکس‌کیوتی) یکسان کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهدف اینه که مثلاً یک کاربر نابینا بتونه بدون کمک گرفتن از هیچ فرد بینایی، از همون منوی بوت سیستم رو نصب کنه و صدای فارسی رو بشنوه.\u003cbr/\u003e\u003cbr/\u003e برای افراد کم‌توان دیگه، از کم‌بینایی گرفته تا ناتوانی شنیداری و حرکتی، هم پروفایل‌های مخصوص خودشون در نظر گرفته شده. بخش جالب‌تر ماجرا اینه که تشخیص گفتار و ورودی صوتی هم به‌طور کامل آفلاین و روی خود دستگاه انجام می‌شه، بدون اینکه هیچ صدا یا متنی به سرویس ابری فرستاده بشه.\u003cbr/\u003e\u003cbr/\u003eاین پروژه هنوز در مرحله پیش‌نویسه، و ما امیدوارم با تکمیل شدنش بتونیم به افراد بیشتری هم کمک کنیم.\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل رو توی بلاگ بخونید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/parch-accessibility/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/parch-accessibility/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-10T19:37:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 149,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jQVRjnRs5ICp2fdg2gaKlGTBzWtj5kgEz9BgXnKVvyfAoAPK8YKvBery_ieYHS2imROJULnhgg9tT27UfdaIRrSKEkBvL5ctgzjglKA70ua8o3eC31lPe6We9OD8SiUTXH_xjAPuyTsRIiL7IVOjn3FUdyGygE4iPbJKJOU3l6A8nEmGbeBQAGx08tEyvt7BHNrFBhfSVRgWr7h_0fD0iQax_gpwxFFdyzvZFF-JhRt1UwQbvATiVSgz-BNrlFZPcIaMDX4t_2Fp6cCsYg-bkPt3-F34gIPW4fHSQZDAv-9i0YcIAmPhX1SJ3XwfDPZZNOjTOT5a_dIyN8HQ3XngVA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786390118
+  "last_updated": 1786392515
 }
