@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ابزار Liquid Metal یه کامپوننت React هست که دور دکمه‌ها، آیکن‌ها و برچسب‌ها حاشیه متحرکی شبیه فلز صیقلی می‌سازه.\u003cbr/\u003e\u003cbr/\u003eنور روی لبه‌ها حرکت می‌کنه و حتی می‌تونه بازتابش رو روی عناصر کناری نشون بده.\u003cbr/\u003e\u003cbr/\u003eرنگ و ظاهرش قابل تنظیمه و با تم روشن و تاریک هم کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://metal.jakubantalik.com/\" target=\"_blank\" rel=\"noopener\"\u003emetal.jakubantalik.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Elizaium",
-      "date": "2026-08-09T09:30:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iKvNPKxwynh0cjNRvXqhwZqX1GiadQrehkP8bT8XKfUdF_CJoRsM6ur7JoPBke-6I4hdBFxsWaOtg35ziqaPjUxvJpvIg-_iYI88h5Pq7At0ulKeOHbABUFa3dNTwNaO_Z6d98-Gihk3qcnlN-8T6MBIBs2z3MxqlQYV_o8mU2r_ud3fFI0Id5PczVfJFXrza1tS0ZCSEsuAgWLcI34GQ1EeoThxMxvHKVPbMtFUJlj6Swl5U9eGv6P1k_3NXZlN-vWEY5yeFUMejQxdru1WuwivfSUrvrXEjYq2V5gmVyKj1B0AWURSgjt1aCTbIZYWor41e6RpwtkU731UlbmV4A",
-          "width": 1042
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "علی‌بابا بالاخره مدل Wan 2.2 Animate 14B رو روی Hugging Face منتشر کرد.\u003cbr/\u003e\u003cbr/\u003eاین مدل کاملاً متن‌باز و رایگان هستش و می‌تونه از قابلیت Video-to-Video استفاده کنه؛ یعنی شما یه ویدیوی آماده بهش می‌دی و مدل می‌تونه همون حرکت‌ها و اجرای داخل ویدیو رو حفظ کنه، ولی ظاهر، شخصیت یا سبک تصویر رو تغییر بده.\u003cbr/\u003e\u003cbr/\u003eیکی از قابلیت‌های جذابش Motion Transfer یا انتقال حرکت هستش. یعنی مثلاً یه نفر توی یه ویدیو راه می‌ره، می‌رقصه یا یه حرکت خاص انجام می‌ده؛ شما می‌تونی ظاهر اون حرکت رو روی یه شخصیت یا تصویر دیگه منتقل کنی، بدون اینکه لازم باشه از اول اون انیمیشن رو بسازی.\u003cbr/\u003e\u003cbr/\u003eبرای تست آنلاین هم می‌تونین از این اسپیس استفاده کنین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/hugging-apps/wan2-2-animate-2-14b\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/hugging-apps/wan2-2-animate-2-14b\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-09T09:51:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/T9eWr9mkod9AMHgdgYW1P4pnnaIQnO_hWZYmGPlTkfGjhWOEuWFQVbrFel2lsDUTiZqF1jHg8s4qd30xZdM4BEL993_RVX3oxAYyjxiTMw4Cb6BWIcrsK_5s-siWpem68o3KV8WuEf_cO3kyJi6LVNcneKpssPK-KnMumNdM2sZIiSNulvvizU8ptVMifsOF74JUuLiUZ4loB4SSNXpMqfDBsGapUCPFhtAvLO2Qo2MaCllLFG4pezhk1eMDOA4CA0Mhn4MeUekAz0scep4kb2JF8Q8NS1qRIBsgwUdLcYuOd5NQpr6Vh_LOQCGzqO6ZwhG3XrqNHNXL-3rnhBaNHw",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه شوخی توی آمریکا مد شده بود می‌رفتن توی فروشگاه ها عکس یه حیون رو با هوش مصنوعی می‌ساختن و خدمه فروشگاه هارو می‌ترسوندن؛ حالا به نفر واقعا یه خوک برده توی فروشگاه و خدمه باور نمی‌کنه می‌گه این AI هستش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-09T10:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +31,7 @@
       "date": "2026-08-09T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +49,7 @@
       "date": "2026-08-09T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +68,7 @@
       "date": "2026-08-09T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +87,7 @@
       "date": "2026-08-09T13:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5630,
+      "views": 5770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +106,7 @@
       "date": "2026-08-09T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +124,7 @@
       "date": "2026-08-09T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +142,7 @@
       "date": "2026-08-09T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 5200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +161,7 @@
       "date": "2026-08-09T15:15:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +180,7 @@
       "date": "2026-08-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4780,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +198,7 @@
       "date": "2026-08-09T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +217,7 @@
       "date": "2026-08-09T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +235,7 @@
       "date": "2026-08-09T17:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +253,7 @@
       "date": "2026-08-09T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4550,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +271,7 @@
       "date": "2026-08-09T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4890,
+      "views": 5320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +289,7 @@
       "date": "2026-08-09T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4850,
+      "views": 5460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +307,7 @@
       "date": "2026-08-09T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 5620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,12 +326,49 @@
       "date": "2026-08-09T19:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "همچین داک‌باری خواستید درست کنید (شبیه داک‌بار آپدیت جدید تلگرام) از این استفاده کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://jelly-docs.felipe.software/\" target=\"_blank\" rel=\"noopener\"\u003ejelly-docs.felipe.software\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T06:38:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 806,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/uX-ptGyI3KzfdsqIGeJeC0MWIWOGcjCu-Ltt-zoUUY9l_P2dnJglH5Uus3utXY8vYIxrlvfKOg6Nf4fchbEi96LPQ5T4gCYrcpGyZVXzk6YiACBaCJaXWp_9Djz2oa2y5SzaDtGk86H8sloWhfBg5aL2oJdU1MXEO8CD1Gi3lkdz7NNFywog5L9nUDsqm6Xs_icnRNHG_r795N1jPeUwsVvShPEiT6eiPXDaM-FRpALCDVZ6lFod_ipNQTcXaLCFQdeFo14DSMJiK-r85yJNB3TZ_XhYymht79FBLycS8PhwwcaEYEZHSYLWb0fuweDi03xNgnkOdc6cP9ot1OAavQ",
+          "width": 1142
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ماگ طرح کلاد، مخصوص اون همکارت که می‌گه Rust بهتر از C هستش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-10T06:45:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 426,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lwjKl86gTXTgr45eFId93rX6q5nkfFXYSspFV8t_zChKLfKlrgFFamUnXvTRJGemfaF3JOB8R_HtuMjDIbKO1HRV5qpRlwPgVzHA4I1y9p_7XWmfp0c05aBPVcaMjrZq8sEnb8wiOhSVqWs2dWRgsGBMM4_2qRcsHDjuj39PvjgDMlvT8uFh7fquv9G464of7z8cUFnKyfzDEps6rlVs5GgQ8xJ_PozqvQcfBViQHmiL_eF-tfYJXomSdQ0sFaWhAX9RHdDDcKq-8ly3Xo0WAUCrLkv1OGDYlORztFH1aHOepWq-LDnEeyqRGtEHDsjUH0NRyZw7VvILyhQo8uNRSg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786338141
+  "last_updated": 1786344559
 }
