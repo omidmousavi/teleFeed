@@ -203,7 +203,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pHtL5IgEIenGK4qsVbZDoaLb-fHgqiRfmq4vONbhrkyzwufFgmKaJFVawNJ6Nkrl17qXY2t6exdNpbfcJyOLx0yAkd-D6pJQLyWUtuHaZ5oFYJDcEJ1E88e8lVNY6hnLckCrehUqlv15SyjPtUF7tovEop1OMJ6h4NeKR_15oIb-GjM4YGgNYB-1gmEu4RGr3kP8EWN_-amE4IbpjHeYV8aWga-eC-TCPAfIePF9i7zxW2P5AhrjMZa3D7FKjmPstiuo17_KHex1yunfekS-q_is-RgCft8Q1Su2p5L0koM6Fsb1JKysue1dn-5Z549PPOq0bixu9rxSo8Qz5O0-qw.jpg"
+          "url": "https://cdn1.telesco.pe/file/jRMvLkpahczmGu22UI-xGtDsSVW3Pabw1IP2vaDyOoOZL1CS9M7fQsZUggbUDKIMEesSm5ic7hm_KrpMqU9UGMFyFRQFciskLoQc06Dtd0nc1uYswfGjF0jklGFA0WorncsHmcdKfvEUUL1PHbOoLaMryZYwhGTdMkEHJiQQ-QlsNBX4t16pQ9CDhk-trU1Jf477rD9E1NYlwBnXEpGDezfHw7nOhhxeeLdkYQXP2T1AW_ChQaqBpc0Ae_6uVjnMoQB_xhJRKQAamm8n-Bdf3OSOmNT4L0inczELeMeX2f3TEIFfv-6U1mpCxMknUpMVMMaO0nkHkgxPskKr3_9EFQ.jpg"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "date": "2026-08-12T12:18:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +237,7 @@
       "date": "2026-08-12T12:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,12 +259,24 @@
       "date": "2026-08-12T17:23:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 4,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "j.democraticc"
+    },
+    {
+      "id": 0,
+      "message": "رفقا اگه توی شهر شما هم افزایش قیمت بنزین داشتید فورا اطلاع بدین \u003cbr/\u003eاحتمال شروع اعتراضات خیلی بالاست\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jdemocratic\" target=\"_blank\"\u003e@jdemocratic\u003c/a\u003e",
+      "date": "2026-08-12T17:31:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1786555550
+  "last_updated": 1786558459
 }
