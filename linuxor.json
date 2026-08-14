@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینجا چند هزار تا المنت برای ui وب توش می‌تونین پیدا کنین به همراه کد بدون هیچ وابستگی خام HTML و CSS\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://uiverse.io/elements\" target=\"_blank\" rel=\"noopener\"\u003euiverse.io/elements\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-12T07:03:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/TMVGMOQoNU6_R-d5y2aS_rXtkwlmd4BBO0PRvVgg6rqMaVPcphghacqRp8S35JCy5WWFVD2B9VfOTVlr2jXr-s_y-iRishNhiNGNTENDAcBxmPVEaq9LOJWknPTap3yn_IT1DXgDPwOqAhqlV4a_Kxa1Z9u8k4GwNO7r7GFku1DjJEXM1ny9FHuU5BCTCcn8DRwBrA6M1lVbSNi5p99YThlTqAI3Y5uSrS4_BC4WQkG4le2YiyiyenOlPfGbOrVF6ZAMAiOjoRl9_Pijfih2CZfsKs65b6-ohjCuQzXIytT4Nv0GfWiKHD-1pF5Fd7a-kVlt10N2VdKlniOfjqIRoQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "تایمز : اکوسیستم استارتاپی هند، سومین اکوسیستم بزرگ جهان، با 700 هزار استارتاپ و 138 یونیکورن در حال رشد و شکوفایی هستش که سالانه 10 تا 15 درصد رشد می‌کنه و 2.4 میلیون شغل ایجاد کرده.\u003cbr/\u003e\u003cbr/\u003e+ هند مارو ببخش دست کم گرفتیمت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-12T07:38:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +24,7 @@
       "date": "2026-08-12T10:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +42,7 @@
       "date": "2026-08-12T10:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-08-12T10:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +78,7 @@
       "date": "2026-08-12T11:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "date": "2026-08-12T12:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +114,7 @@
       "date": "2026-08-12T12:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +132,7 @@
       "date": "2026-08-12T13:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WPttZi4ztiPoGz-z2uJJ_MdyzuQNCb7Enn8UHctw8Z88jicEVaTihu4sdFSfEODTaYmbxL0egmhfTbeIJ-Zy82Wb-NeVFxQUfcuP2ZaELSfCuaWr7o-pwC89U0e3l_RFnyEEGaC0SCCOcXkUh7stF4bC3yCc3QrPgaV1Suyv_Dqn_8q0IoecKAx3DOUbky-LFbIaZUodo5FarPBEoPXJTZ7JZ2d2eleNbw50Zuex4dNmGOd3vmmalEzC-PXSdUXm-UmfcuJqYMS7bqCafjSCtz00JypWvFcL6lzMoDmrGxNOnvAMHggNfdOwiyDdJ1X0H10Jnu3BZCAzlS7urLSHwQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/WsazAyL_Q3OlUjgqDijVO97cFJkoM0BvQL0YRN6cgXlb4E4wDq0AorfM9SBIdSJQeA2BlNOFrlUw-4HANc9D0Sdaj17pxB3so-u9ePvtuOEaFVOUOvwe7WS9cdbSRMoYa9b5AbnRTSo1FUwcuNYopLEb8r6bQIsBGfoBrtewbHMqTnaO-Jqa5uDQWacavcV6nt0FhRSRuJbGwsY-M_PxsPCPLxAjSoOYHz2UwJVE21QWSPp_dk8CYqjeUeiO7BEVpPAdMlfqjsxG6UTzSGLjVMnyKZGuYz0w6iMFvsW89LFwX7DXrOtUAkyfxWEsBcgwUsC6oesHIRid0gLh1FLpIA.jpg"
         }
       ]
     },
@@ -169,7 +150,7 @@
       "date": "2026-08-12T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +168,7 @@
       "date": "2026-08-12T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
+      "views": 5730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +186,7 @@
       "date": "2026-08-12T15:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +205,7 @@
       "date": "2026-08-12T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +223,7 @@
       "date": "2026-08-12T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5690,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +241,7 @@
       "date": "2026-08-12T17:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +260,7 @@
       "date": "2026-08-12T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4780,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +278,7 @@
       "date": "2026-08-12T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +296,7 @@
       "date": "2026-08-12T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +314,7 @@
       "date": "2026-08-12T19:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,12 +332,31 @@
       "date": "2026-08-14T10:51:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2910,
+      "views": 3890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "بلاخره DeepSeek Harness v0.1 منتشر شد.\u003cbr/\u003eمدل‌ها، ابزارها، اسکیل‌ها، UI و همه‌چیز به صورت پلاگین طراحی شده که بشه عوضشون کرد.\u003cbr/\u003e\u003cbr/\u003eنصب:\u003cbr/\u003enpx \u003ca href=\"https://t.me/deepseek\" target=\"_blank\"\u003e@deepseek\u003c/a\u003e-ai/dsh web\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ sefiddev",
+      "date": "2026-08-14T13:54:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/gmytyNg3jqeIUdd8bxzKqkj7ZhMms-gDb-MWuwSEPntL-OQHZcJowXLeya02aJlZxZdtmGz8gxRxECaQPn4FQIqgJR8AUOpKmAAxpYd8mb5kfG6ikPp3XaU3tOLygCX3AxltHWflZSTJkBCzjh5SRuPlL-COmPKRqRLMOhQpjdT92TDAWvU-FooM43LOEmLFGa16IYkA0YnNlN8xmbJ80MFePIOyHA_TZU0bFshdP0tBDqua2ZLkO0wogdHDJIvtCDMetqfK9Ixw4zF5Y2Sg1w9bVczwiBM48HwRESge-QOugc7sx5xr8VUcdT-_K91oiyM9ZBczO83NUXYmq0Lrag",
+          "width": 416
+        }
+      ]
     }
   ],
-  "last_updated": 1786711269
+  "last_updated": 1786716503
 }
