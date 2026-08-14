@@ -12,7 +12,7 @@
       "date": "2026-08-08T11:45:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14,
+      "views": 15,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-08T16:56:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14,
+      "views": 15,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +52,7 @@
       "date": "2026-08-09T09:15:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +64,7 @@
       "date": "2026-08-09T18:27:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 11,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +76,7 @@
       "date": "2026-08-10T17:33:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +94,7 @@
       "date": "2026-08-11T10:05:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,11 +126,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FCpr5uifXM5OMKJrY6_GS087571WVeu6vd7v8NpHZjqkuzeblwiiLrJXPjSPYvGCxMH7vY4oFrnZo9jTty4jAlL_yP0NtztQz0Ny-GDWpvt_0it-Jny6Vp1-PfnANt78cVyz55MXkpaUeEIWxG8oR2NFMO1UPEFMePtb9n7xkTyVsxBHhP_5aZWLV-j0pjDWrhDB5dk9ncqlNmSgj2LtgMv5MymE3LhlSipLHwzvpx8rOtp2A3qR_fKyaooGR0XR9TV2dKxl4IwJs0R66jnEyHP85qZJzajsDJ-NpbSbgDy-pq8tnlxOKc0O30xf0aDjG5kpwF-KY_csmLMnWb8Qtg"
+          "url": "https://cdn4.telesco.pe/file/J5K_ipEB6PpxhS0nUP4PbZbYiFpVK6smU9bbnkw-v5NinLD-nEDenTWSYrYdP_lNv7RwMEt5iN9y44XI7cEacxK310KQXIzAlDMGaFRi9MXjWyLKm2LWHK2z4A1Wy_jRYUSbfOAVl7ps5Kai411nesVDeUGrmL0BQtLCKvDObMYyRu4-VoNYRaFUPWU5tu_KF_w8iUgY5P9cI-dYIUoTCkSXOSHVs-BunFvP1DfEnHX-t9a-DxhXKlHtzGaIum_sU5WV6bIwbmEhZ0Ep_iqaDPkV5Wd6iuYXhwGUM8I4IFVpfcCDK20PEttx5rHkZMUnxQyoCFhTYxpMdNlqGVxOxA"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XPwChz8sr9gEX_-RYVlMHC3jROSF-3lMUXS5cdLUKMsmSazexmy1dVOTimYdC3Mz6CJfZVnaNpEM2yDig2dQImCRmZxKeouEERaMKAFjHwVDH2cu6UkHah-kidIXO9su2I0GA22yw2fVpxLKVBrkJ1vYNJ23NQb3y20xc5AX0rjXAmDXNG7SLCZCW-Ise_abR3N8rkqRU-pLRvWhap0JIuh3bRGfk5al5DqmLiFsE-sEVnv-sINX0WhczPRcQkMC5HnWIdRQ5vc2dSDR8tVGEcfzh46-JEtIrGxmV1K2VKNL_Z7vhuQAUrxbXeyyI9c_G6AAook5kuSVjHilVfu8lw"
+          "url": "https://cdn4.telesco.pe/file/DbEtRpBOPwyf_8XF2_JHPB67ivanmvCk_MdH_flzYWnebgDKMGhoIUzWc_rBd-2fCXnQQw5oj8Yua5QhEDNRZMfDXefyFocc-JPRPFugHJdwZpK0n9vPVAE4CQKBgv9pLGorASIYWq2DH3X0MfKuO5TWV4px4SynKz-HMjocJfX5zhbqWg9tbRnmNyCaeXs2s2HVGTsX78pZ0WnmFmgYc-Upc7IGfphKAFBWFOc_W76WYdg28iaM-beyt9FkbkggUXusbd6lT4nKaaOVbc_kxrNvRzFfmyW2-yWDjXh-w7Pn_rx9pCfQaZR8SfIeU1jyGQvRDNwFK46pkohVoXztuw"
         }
       ]
     },
@@ -277,5 +277,5 @@
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1786707419
+  "last_updated": 1786711287
 }
