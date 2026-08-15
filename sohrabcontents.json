@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پیش‌نمایشی از نسخه ۰.۵.۱ مدیر مخزن پارچ با قابلیت انتخاب کشور برای گرفتن مخازن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-11T18:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 905,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rAUKwi2lr6S_e6YOF0PLSPyqvbVtqorTz49rYfot5EOhrCYkP_b0VZFM6OPhQtnrlSwHFxpUmFFrbqAyrcSG-VUS5do4KYgEvWCHAtsxGZ9HEzxzmjfR7Cyf57jooBnLcnEZCCzFjQrVIktW_Gq_NemItJwpkKYBRrrfeq0Ei8IvycLYN5YjpVH-TXn2rhPRO8KN6vfpE0pjIYRNCprn6WhALpyzkY_Q2dTMqZ3NikdfkwmhvsXAg51Y-bZYqSALFJFe7vXziNUDwtF0pTmrBrOz1qsSOqn_QxZjj9CzTtnLD6_4hrQC1hgYRT7FWbaHmZFXiJ9_CWTDspI2X2ZviQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "دارم سعی می‌کنم اکثر ابزارهایی که از این به بعد می‌نویسم man page هم داشته باشن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-11T18:59:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 884,
+      "views": 887,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +42,7 @@
       "date": "2026-08-12T18:59:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 833,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-08-13T13:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VSdknJtDz5bvLA50WDH6F9ZPBJN3FUcYN9BBneLHtqQNyyV4H-BRmMOhWXOxeefe35UM3ekWs9_nbwzVo4NZWJGzi3JjwXmMIX-d9sc8WwdqS4Ay58pKc8Nnt1CnNHln4P1gj4mzypsGKKUXCm3Oa_6iB7QYX7Z_vdCNdd-MdhdO6Dbrk-VerI-Ej_D9nzGllYfoYKInPaPT308a7x4xyw75pMvgHIV1wy3PjxJ65AML851lTCuU1NbSW56bkgr-mATiEUfSRniKveoZkqOxGWQ0ypY1SKnVBFsc3le-SPeWBCKtz18E0weePQzVU8c54YSFOIUxEOJQRRYWjOoLig.jpg"
+          "url": "https://cdn4.telesco.pe/file/oZU1J4mXIr5jVBcVkZ2ClR1waSWk8nWId5yVS9D6gSAOxUwplASYv5Wz0kv_NTFWxRbBQIimbKFYWQpjfDGyoraMtektVU3R4QcutJRG8DyES2Y5-fWDePiLvvtX6D4UYPuncoz4sG1O7xzjlUNPyZRE4_WujK9kQZuUX36uW19pt_uiFicCHq-xf11LZcKrFH1OhW2xORS9KGNA0mK5opCDzoZ4qPzIS5hxZ-pjB8vLPJn0Ht_3MuD8dZ6axxz_l5QqW5EavGD-TWkBXEG-yVb-8RKOD6fKJKs53oSzYKUdMMSKtEHn_D9iRe8vJK7jyz9bhpsCEMbrfdIYFzz-Kg.jpg"
         }
       ]
     },
@@ -97,7 +78,7 @@
       "date": "2026-08-13T15:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 774,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "date": "2026-08-13T16:28:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 780,
+      "views": 786,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +108,7 @@
       "date": "2026-08-14T06:46:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 691,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +120,7 @@
       "date": "2026-08-14T08:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 540,
+      "views": 549,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +132,7 @@
       "date": "2026-08-14T12:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 568,
+      "views": 574,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +144,7 @@
       "date": "2026-08-14T14:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 608,
+      "views": 613,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +156,7 @@
       "date": "2026-08-14T14:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 621,
+      "views": 627,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +168,7 @@
       "date": "2026-08-14T16:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 599,
+      "views": 611,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +180,7 @@
       "date": "2026-08-14T18:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 621,
+      "views": 636,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +192,7 @@
       "date": "2026-08-14T18:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 581,
+      "views": 596,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +204,7 @@
       "date": "2026-08-15T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 315,
+      "views": 348,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +222,7 @@
       "date": "2026-08-15T09:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 275,
+      "views": 320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +244,7 @@
       "date": "2026-08-15T12:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180,
+      "views": 261,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +259,25 @@
           "url": "https://cdn4.telesco.pe/file/PjmYM1WIEtDJlyFQXy9STKXOM5INEAjg9Qp8pk9umbpZQuVZWbfYB8Pv-PcJfJBMZDmKffaWfOUJrDu13naNqIy8LXcn--d9u6YTDYpoPY6ogcmuHlKypxz1U7DaKuU65XFP90glPaExJM0L142rlGyDS4LWNPbvYpJ9FQ4TMvC5Dh7cmVXUg6Rkcdd0iw0Wx_zje-IVcYwhAoCvw1gwqOeK0Nk8Sy3C8NVty3HR8CIJfeVmsOc-SR2THgRuSlbd843roGODIZ9jNpR5ayHBZ8cLQdQev_iu8Qj3GeN623_D9Xf9AhWppLBWxoANP4l8OiSrKog4QFNdoZAVKyScfg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "اسکرین شات و آیکون هم به libfdroid اضافه شد.\u003cbr/\u003e\u003cbr/\u003eخودش رو تا شب یکم تمیزتر می‌کنم مستندات رو بهبود می‌دم و درنهایت هم می‌ذارم روی گیت‌هاب پارچ.\u003cbr/\u003e\u003cbr/\u003eولی دوتا نکته هست.\u003cbr/\u003e\u003cbr/\u003e۱- این یک PoC عه و تکمیل نیست؛ نمی‌دونم کار می‌کنه یا نه چون حجم اینترنت کافی ندارم که waydroid رو نصب کنم.\u003cbr/\u003e\u003cbr/\u003e۲- اگر مشکلی دیدید توی کد که می‌تونستید حل کنید لطفاً PR بفرستید؛ اگر هم نه یک issue باز کنید و بنویسید که کجا مشکل هست من بررسی و رفع کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-15T13:07:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 145,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SJLIWOOkYiENznp6vnbIynKJqVFfd68alcSr1C_MlHZ68HdpSroP3ssHlr6i2Hzf8mxKNbXpYRdXyJYzei0gowaruRuDwpzf75GkdCwZZHzFUdCM2Q70N6iDaiwYdOXexFLK3kcWEywoI8mbuv_MWOuMUnZzBg1sMOcjJ_MYiLw7LamnolpansbQiRLAL4WIZC40C3BGlAvSH7Dz92Mu6VmMYMOZ9GKdzK1yNOncHJRPJtEov-eIcXUzB_ELgAAJXeNR4lPUnbuZ0bL_2qazij19P4KjgkJ6l_WjfHkUjIB6aAKFo04BaEWqad_9qacbtyrb-LV7wOAukNya0hcrAw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786799169
+  "last_updated": 1786801813
 }
