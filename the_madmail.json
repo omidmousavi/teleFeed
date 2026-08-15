@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "یکی از پروژه‌هایی که این مدت روش کار می‌کردم پروژه‌ی \u003ca href=\"https://github.com/omidz4t/excalidraw-webxdc\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eexcalidraw-webxdc\u003c/a\u003e هست که برای اضافه شدن به اپلیکشن گالری دلتاچت فرستادمش [\u003ca href=\"https://codeberg.org/webxdc/xdcget/pulls/314\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eL\u003c/a\u003e] \u003cbr/\u003e\u003cbr/\u003eاپلیکشن‌های webxdc در پلتفرم‌های دلتاچت در محیط ایزوله‌ای اجرا می‌شن. به این معنی که هر وقت شما یه اپلیکشن رو باز می‌کنین این اپلیکشن نمی‌تونه به هیچ سرور بیرونی پیام بده. به طول کلی اپلیکشن‌های دلتاچت امن هستند. به این معنی که پیام فقط بین افراد داخل اون چت از طریق دلتاچت انتقال پیدا می‌کنه.\u003cbr/\u003e\u003cbr/\u003eارتباط در webxdcها به دو روش هست:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۱) ارتباط از طریق پیام‌های ایمیل \u003c/b\u003e\u003cbr/\u003eفرض کنین اپلیکشن بخواد یه داده‌ای رو ذخیره کنه یا برای شما بفرسته. اون داده در داخل یک ایمیل رمزنگاری‌شده در داخل اون اپلیکیشن از طریق اپلیکیشن با اکانت شما در اون چت ارسال می‌شه. و زمانی که دوباره اپلیکیشن رو باز می‌کنین اپلیکیشن می‌تونه اون اپدیت رو بخونه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۲) ارتباط به شکل مستقیم یا p2p \u003c/b\u003e\u003cbr/\u003eدر این روش اون core در داخل اپلیکیشن دلتاچت با استفاده از \u003ca href=\"https://www.iroh.computer/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eiroh\u003c/a\u003e تلاش می‌کنه که ارتباط مستقیمی بین افرادی که اپلیکیشن رو باز کردن بسازه. \u003cbr/\u003eبه این معنی که اول در شبکه محلی شما، بعد در شبکه اینترنت تلاش می‌کنه که یه ارتباط مستقیم بسازه، در صورتی که قابل انجام نباشه از سرویس iroh در داخل اون سروری که هستین برای انتقال بسته‌های ارتباط realtime استفاده می‌کنه. سرویس iroh هم از خیلی قبل‌تر در داخل باینری madmail موجود هست. فقط به صورت پیشفرض غیرفعال هست.\u003cbr/\u003e \u003cbr/\u003eمشخصا در این نوع ارتباط بسته به شرایط موجود در شبکه احتمالا ip شما برای فرد دیگری که این webxdc رو فرستاده مشخص هست. \u003cbr/\u003e\u003cbr/\u003eخوب همه اینا که گفتم یعنی چی؟\u003cbr/\u003eیعنی فرض کنین تو شرکت نشستین و ارتباط‌تون با سایت مثلا miro خیلی خوب نیست و نیاز به یه برنامه شبیه به miro دارین! کافیه این برنامه رو بفرستین داخل چت گروهیتون و همتون جوین بشین تا بتونین به صورت همزمان رو این برد کار کنین :) \u003cbr/\u003e\u003cbr/\u003eبهتره که تست کنین تا جادوی ارتباط همزمان و امن دلتاچت رو متوجه شین.\u003cbr/\u003e\u003cbr/\u003eیه سری ویژگی خاص جز دیدن cursor هم داره \u003cbr/\u003e- می‌تونین از هر بردی هر چیزی رو کپی کنین به برد خودتون.\u003cbr/\u003e- می‌تونین بردتون رو به صورت فایل اکسپورت بگیرین\u003cbr/\u003e- می‌تونین بردتون رو به صورت webxdc اکسپورت بگیرین \u003cbr/\u003e- می‌تونین عکس یا svg بذارین تو برداتون\u003cbr/\u003e- می‌تونین بکگراند رو عوض کنین برای همه\u003cbr/\u003e- می‌تونین بقیه رو فالو کنین یا بهشون درخواست فالو کردن شما رو بدین\u003cbr/\u003e\u003cbr/\u003eنسخه‌ی webxdc رو می‌تونید \u003ca href=\"https://github.com/omidz4t/excalidraw-webxdc/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاز اینجا دانلود کنید\u003c/a\u003e.",
-      "date": "2026-07-08T19:28:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "madmail",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ctxpUWIDlIdbsHmkJgPxHlelIXApzaNy1ZJOLTPjVA4gQWs_YQcex3kY4BXdgWPbULKWIQhLEmNCs9ilqKWe825B51KMnIYJfoV_OTmqJ5ZG81Gkqn05PqOKPszasidEs2hazOdEvBwIadzkzxWLAYHkwIu3tmP0iKW6pofMVA7cT6bgPRLJIARYAHbrhADZJt-4-xCdz9Lns_Dt2TEO158hq7rr4VS_8j7c0kH3MTFpyPiuOc9h0P1YuZMLTxm6NgXPZXTcIutiVE7JYMGI9UsvjAvz02yqErSKdx2Z1pAbcVN2g8iuoU0DLiXj6eu1eApAE6Ud8e0GzKUW0SkCUA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه از من بپرسین به نظر من دلتاچت اپلیکشنی نیست که فقط وقتی که اینترنتت قطع شد بدردت بخوره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتا حالا نیاز داشتی که مثلا یه صفحه‌ی tui ابزار هوش مصنوعیتو بخوای هم تو گوشی داشته باشی هم دسکتاپ؟\u003cbr/\u003e\u003cbr/\u003eیا مثلا تا حالا حس کردی که یه موقعی نیاز داری که با دوست یا همکارت همزمان یه سروری رو با هم لاگین کنین و با هم دیگه رو اون سرور کار کنین؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیا مثلا تا حالا شده که یه سروری داشته باشی و بخوای مثلا رو گوشی بهش ssh بزنی و کانفیگش کنی؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ابزار اینجا به کار تو میاد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاول از همه بهتره بدونیم که دقیقا چیکار می‌کنه!\u003cbr/\u003e\u003cbr/\u003eتو پست قبلی راجع به قابلیت ارتباط همزمان دلتاچت گفتم براتون. این ابزار مثل ابزار قبلیه، با استفاده از این قابلیت وقتی اجراش می‌کنین یه اپلیکیشن webxdc رو می‌اندازه تو چتی که بهش می‌دین. حالا با باز کردن اون اپلیکشن webxdc تو هر جایی می‌تونین به اون ترمینال دسترسی داشته باشین.\u003cbr/\u003e\u003cbr/\u003eفرض کنین می‌خواین با همکارتون با هم کار کنین رو یه چیزی ولی خوب نمیخواین از tmux استفاده کنین. \u003cbr/\u003eیکی از راهاش همین هست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز طرفی یه tui ساده داره که بهتون اجازه می‌ده که دسترسی‌های افراد رو مدیریت کنین یا حتی بگین چه دستوری اجرا بشه یا چه دستوری اجرا نشه! \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمه اینا! تو یه باینری static که رو هر سیستمی می‌تونه ران بشه!‌ \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eارتباط‌تون از طریق iroh و به شکل p2p و رمزنگاری شده هست. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/omidz4t/terminal-buddy-webxdc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/omidz4t/terminal-buddy-webxdc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e لطفا با ریسک خودتون ازش استفاده کنین. هدف این پست فقط به اشتراک‌گذاری قابلیت‌هاست که اپلیکشن دلتاچت به عنوان ابزار کاری روزمره می‌تونه براتون داشته باشه. نه فقط یه برنامه برای موقع قطعی اینترنت. کدها اوپن‌سورس هست و شما می‌تونین خودتون بیلدش بگیرین به سادگی. توصیه می‌شه که همیشه در مواجهه با ابزارایی که هوش مصنوعی زده کمی هوشیار باشین\u003c/b\u003e.",
       "date": "2026-07-11T18:44:42Z",
       "edited": false,
@@ -84,7 +66,7 @@
       "date": "2026-07-20T21:49:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 940,
+      "views": 944,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-07-20T21:52:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 809,
+      "views": 811,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-07-20T22:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 879,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +108,7 @@
       "date": "2026-07-22T18:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 931,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-07-25T00:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1750,
+      "views": 1780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-07-25T00:07:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-07-27T10:36:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 914,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +169,7 @@
       "date": "2026-07-29T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 794,
+      "views": 846,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-07-29T19:05:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819,
+      "views": 874,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "date": "2026-07-31T10:19:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 684,
+      "views": 747,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +205,7 @@
       "date": "2026-08-01T22:36:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 668,
+      "views": 741,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,12 +217,30 @@
       "date": "2026-08-01T22:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 566,
+      "views": 656,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "madmail"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5316870986451132410\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eابزاری که اینجا گفتم بزودی میاد ابزار \u003cb\u003eپورتال\u003c/b\u003e بود.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eپورتال دروازه‌ی تلگرام به دلتاچت هست.\u003cbr/\u003eاگه گیف و یا استیکری دارین که می‌خواین تو دلتاچت داشته باشین می‌تونین به بات \u003ca href=\"https://t.me/tgdeltabridgebot\" target=\"_blank\"\u003e@tgdeltabridgebot\u003c/a\u003e بفرستین و اون سمت تو دلتاچت تحویلش بگیرین.\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eالبته ناگفته نمونه قبل از این که کار کنه باید اول اکانت دلتاچت‌تون رو با اکانت تلگرام‌تون pair کنین.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eخیلی توصیه می‌کنم که با اکانت دلتاچت اصلی‌تون اینکار رو انجام ندین.\u003cbr/\u003eیا این که پورتال خودتون رو اجرا کنین.  \u003c/b\u003e\u003ca href=\"https://omidz4t.github.io/portal/fa/docs/self-host/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاینجا\u003c/b\u003e\u003c/a\u003e\u003cb\u003e کامل توضیح داده چطوری می‌تونین اینکارو بکنین\u003c/b\u003e.\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eاین تنها قابلیت پورتال نیست!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eپورتال رو می‌تونین به شکل پرسونا هم اجرا کنین.\u003cbr/\u003eیعنی می‌تونین توی بات با دستور /pair-bot  یه بات تلگرام رو به اکانت‌تون تو دلتاچت وصل کنین.\u003cbr/\u003eبه این شکل که حالا اگه کسی به بات تلگرام پیام بده شما همون پیام رو با پروفایل تلگرام همون طرف در دلتاچت دریافت میکنین. مثل یه روح \u003ctg-emoji emoji-id=\"5436242670366246319\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاین بات‌های پرسونا رو شما حتی می‌تونین تو گروه هم اضافشون کنین.\u003cbr/\u003eو همون گروه رو در دلتاچت براتون می‌سازه.\u003cbr/\u003eاینجا توضیح بیشتری داده:\u003cbr/\u003e\u003ca href=\"https://omidz4t.github.io/portal\" target=\"_blank\" rel=\"noopener\"\u003ehttps://omidz4t.github.io/portal\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینجا هم شیوه‌ی کار ابزار رو به شکل ساده با تصویر توضیح داده :\u003cbr/\u003e\u003ca href=\"https://omidz4t.github.io/portal/fa/show/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://omidz4t.github.io/portal/fa/show/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدر کد اصلی بات که در\u003ca href=\"https://github.com/omidz4t/portal\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e اینجا\u003c/a\u003e می‌تونین پیداش کنین دیتابیس رمزنگاری شده ذخیره می‌شه و چیزی از شما در سرور ذخیره نمی‌شه جز ارتباط اکانت تلگرام و اکانت دلتاچت‌تون، اما با این حال من توصیه می‌کنم که کد رو خودتون اجرا کنین روی سیستم خودتون و به بات پابلیک اعتماد نکنین. روی کاغذ اگه کسی دسترسی پیدا کنه به بات، می‌تونه پیام‌هایی که داره انتقال پیدا می‌کنه رو ببینه یا به بات‌هاتون دسترسی داشته باشه \u003ctg-emoji emoji-id=\"5301072507598550489\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eمثل همیشه منتظر باگ ها و نظرات‌تون هستم. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298BA.png\u0026#39;)\"\u003e\u003cb\u003e☺️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-15T17:43:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "madmail",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uGKvUPUtThgxEaCtJnPjnarS0XRmOAUygHKGseQiJ_3H3Ar-m8-HfAHOPsMpnOa-pIg8e73iMSN6yfUKgzXr33GMSg42Hnc662rmfQGv2S_7Xg4G7HotJukdhyPe7lswWTDAfyLaSaEsMhvyN_eUrVfffwEjbQTznm-XJPbk_2nEyUB_nzv5QgE3wvqW-qekBshFfbO-As3rdV7FONlQdSIkrG1ur_FgKCdQtVK6521OKWg0_KuCmfKuUss1VIdvYgUgwCNH3jMtYyi89j49xgtKDZCNVxtaoBoXS3cwHTVKkDzhMkn5jrltWAr0_a9hpTq9vJrRjHb7iLF-jOZ9aw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786815823
+  "last_updated": 1786817731
 }
