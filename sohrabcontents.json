@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک نفر روی سامسونگ A55 اومده restore ramdisk سیستم‌عامل IOS 18.7.9 رو اجرا کرده =)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه آرم هکینتاش سلام کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-09T07:35:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KnSmyPyRCVQXD62pceNT8s3NJ5IbHyd3ZpsYGcUDF8bQI_wgFtnTkEiyGMvJ89N1kwm3bXj_Q_PdvlGkv1TR_4lsSbfwJ1EYOpwfZkfU3vIuwxA2efwLlZbDPYYF3kJM70mvLV9d4TUBUJIBJt0jnRHi609Lj0xQ1j0eTnbCUXNooK_Qcs144vAMwM8UzoZuaxyzaN-X0eYC7O596b-tZ5GX0Ue_RcO97dfx5XSAIM9m_XkGMjnwXoxZ0ESoWWGHpPOurgAsKPANIeLRbATFJJ06nCTOmPY-BQ-hMFGSULSHomWTmp_H9wSETvmQMk6qjoTD2v_bSU_5gHFYsg-pSQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی از ابزارهایی که دارم روش کار می‌کنم.\u003cbr/\u003e\u003cbr/\u003eقبل از اینکه توی کامنت‌ها بنویسید؛ نه \u003cbr/\u003ecom.parchlinux.durantash\u003cbr/\u003eنیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-09T18:49:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KiZgc-tuZXSMvxXLdQ3XW3YR8vwFW7cv4G5Wy6xZz0AHRPG7b0Wykm4npXPEE-LkS4ukbGZZBzxQJC7UioNC17rNRMIcqhv_bpI_n86QLaS39ZW2dN6xHI01sRfsTBDhXW26PeyGN1gmAN3jn0Ex-ITp_R0blnolEZEE_rgwjBBRB2LKknpEWOF9IGHzfBPQvXFIG98fEaS07FXSRBLP6nq4RCt2iby3PZgNuaLJryOr-DcL09ecgnCqHi4b-Gy-LoLhAYl6PktETywMEfwgtbQiwaNlhkZkT-fWI_mIeybW1lHtr09tH8UZf4z5-OxRd1tLeSbCoh5a6nslL_sJ_w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "پروژه‌ای در پارچ لینوکس در حال طراحیه که می‌تونه یکی از مهم‌ترین قابلیت‌های این توزیع بشه: یک لایه کامل دسترس‌پذیری برای افراد کم‌توان، که روی هر چهار محیط دسکتاپ پارچ (کی‌دی‌ای، گنوم، ایکس‌اف‌سی‌ای و ال‌ایکس‌کیوتی) یکسان کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهدف اینه که مثلاً یک کاربر نابینا بتونه بدون کمک گرفتن از هیچ فرد بینایی، از همون منوی بوت سیستم رو نصب کنه و صدای فارسی رو بشنوه.\u003cbr/\u003e\u003cbr/\u003e برای افراد کم‌توان دیگه، از کم‌بینایی گرفته تا ناتوانی شنیداری و حرکتی، هم پروفایل‌های مخصوص خودشون در نظر گرفته شده. بخش جالب‌تر ماجرا اینه که تشخیص گفتار و ورودی صوتی هم به‌طور کامل آفلاین و روی خود دستگاه انجام می‌شه، بدون اینکه هیچ صدا یا متنی به سرویس ابری فرستاده بشه.\u003cbr/\u003e\u003cbr/\u003eاین پروژه هنوز در مرحله پیش‌نویسه، و ما امیدوارم با تکمیل شدنش بتونیم به افراد بیشتری هم کمک کنیم.\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل رو توی بلاگ بخونید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/parch-accessibility/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/parch-accessibility/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-08-10T19:37:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 913,
+      "views": 914,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-08-11T16:39:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +42,7 @@
       "date": "2026-08-11T18:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 892,
+      "views": 897,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +61,7 @@
       "date": "2026-08-11T18:59:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 873,
+      "views": 875,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +91,7 @@
       "date": "2026-08-12T18:59:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 821,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-08-13T13:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 784,
+      "views": 788,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +127,7 @@
       "date": "2026-08-13T15:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 758,
+      "views": 759,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +145,7 @@
       "date": "2026-08-13T16:28:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +157,7 @@
       "date": "2026-08-14T06:46:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 678,
+      "views": 681,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +169,7 @@
       "date": "2026-08-14T08:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 528,
+      "views": 530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +181,7 @@
       "date": "2026-08-14T12:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 548,
+      "views": 554,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +193,7 @@
       "date": "2026-08-14T14:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 589,
+      "views": 595,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +205,7 @@
       "date": "2026-08-14T14:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 594,
+      "views": 603,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +217,7 @@
       "date": "2026-08-14T16:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 553,
+      "views": 573,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +229,7 @@
       "date": "2026-08-14T18:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 571,
+      "views": 591,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +241,7 @@
       "date": "2026-08-14T18:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 518,
+      "views": 544,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +253,7 @@
       "date": "2026-08-15T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148,
+      "views": 207,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +264,29 @@
           "url": "https://cdn4.telesco.pe/file/e_z7932a8YurpV7xwY7FGhMyo7xxRjT3971dn2bWv2tJ1s_Te2S4KEvrgvydUmeo5Qx8FwrO_id2luIj8BtYvRn_70akuNF2N7LJoBPIsN15FPdqIoRn2FLnR4foN5kKQsUK-iaDn7ph5Pbw3RbhjeusdlEnu_qx9OqlPkaUmARTaCKJW7yNgOYo2C095dZqd_-u1F7YxkyTQczWr2gWDlUypq0z5WRD2Z9NegRd3uYUckzAT9hqokTLghNI5k0hRPyPhieyVQLJj7k00LbGPKtVbDlFu65ETZ1nzrlu3B7bqLlWPeJLAbcRrdkrobwKeiKz1Fbp89-ANoj4QQtUvA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "به‌عنوان بخشی از پارچ لینوکس موبایل و پروژهٔ آپادانا، در حال ساخت یک نمونهٔ اولیه برای یکپارچه‌کردن برنامه‌های اندرویدی با لینوکس هستیم.\u003cbr/\u003e\u003cbr/\u003eهدف این است که کاربر بتواند برنامه‌های آزاد اندرویدی را از اف‌دروید پیدا کند و مستقیم روی وِیدروید نصب کند؛ بدون دانلود دستی APK یا استفاده از ترمینال.\u003cbr/\u003e\u003cbr/\u003eبرای این کار \u003ccode\u003elibfdroid\u003c/code\u003e را می‌سازیم؛ یک کتابخانهٔ مستقل برای پردازش داده‌های اف‌دروید. روی آن هم افزونه‌ای برای KDE Discover ساخته می‌شود تا نصب برنامه‌ها از طریق وِیدروید انجام شود.\u003cbr/\u003e\u003cbr/\u003eکتابخانهٔ \u003ccode\u003elibfdroid\u003c/code\u003e مستقل است و در آینده می‌تواند در ابزارهای دیگری مثل GNOME Software هم استفاده شود.\u003cbr/\u003e\u003cbr/\u003eکد پروژه بعد از تکمیل در گیت‌هاب پارچ لینوکس منتشر خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-15T09:50:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 107,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/F6dHLfXyKvE-J6LeEt4tilhVWO4v1YgsN6_H3nbyyPjhwrBzqptTvXyebQWt2uAoXsSUAv69ikLtp5R1PEBMdUtcbtINJxlpMoci8K5Ju2df6YzjaRoqzsIs2uRr_kJ-kpmNTQKGSpZ2v519asME_G4CUMP2cTlq6RoZ9PDz_k-V8g3pyVXLekjl86t-OmYila6o0yoQo65nHTVW14ryu50xNhWrxyp8lN54nPOH3PQmJKceLARLsz5j6qdRupumfSvz7dJgbZ6K-fJmm1Vk39_XMLNnDMTcyizEmAm76_Pi3TrI64-8QbrMH3Ps9QhCZUxha0Y7sn_HW626j_pf9A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KdESc42YCmf1gbfQ86z-gVW9f9dhThk4XUkxvG_HDqKk-RP6pwX4iKj7ax_3fRHhk1a__uysRP0KM-1bBA-H-yf9efv9-wZCoHafRHjTieKTY18GjScbM-MwA4TB74EtyhBMJl4puLHqUsj5HXsPZBsruK16dnvMkmxniNwvzH1WsYbcmJXHVwF9P3u3ZFhY1wvO9UBrTvA84mImeCaZeeLWobw0XEaRJeUitisGiL8BnBs6gmQHXiPEne6qv6kuIXETk985szQU58jCMZDZewuuL_UZjOn6VsYAhcgulDqRj4eqajSoSM9z5WHJRLIGflVbJ42dHi3yFHeSo6w4vw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786787247
+  "last_updated": 1786788822
 }
