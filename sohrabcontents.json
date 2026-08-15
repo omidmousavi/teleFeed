@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پروژه‌ای در پارچ لینوکس در حال طراحیه که می‌تونه یکی از مهم‌ترین قابلیت‌های این توزیع بشه: یک لایه کامل دسترس‌پذیری برای افراد کم‌توان، که روی هر چهار محیط دسکتاپ پارچ (کی‌دی‌ای، گنوم، ایکس‌اف‌سی‌ای و ال‌ایکس‌کیوتی) یکسان کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهدف اینه که مثلاً یک کاربر نابینا بتونه بدون کمک گرفتن از هیچ فرد بینایی، از همون منوی بوت سیستم رو نصب کنه و صدای فارسی رو بشنوه.\u003cbr/\u003e\u003cbr/\u003e برای افراد کم‌توان دیگه، از کم‌بینایی گرفته تا ناتوانی شنیداری و حرکتی، هم پروفایل‌های مخصوص خودشون در نظر گرفته شده. بخش جالب‌تر ماجرا اینه که تشخیص گفتار و ورودی صوتی هم به‌طور کامل آفلاین و روی خود دستگاه انجام می‌شه، بدون اینکه هیچ صدا یا متنی به سرویس ابری فرستاده بشه.\u003cbr/\u003e\u003cbr/\u003eاین پروژه هنوز در مرحله پیش‌نویسه، و ما امیدوارم با تکمیل شدنش بتونیم به افراد بیشتری هم کمک کنیم.\u003cbr/\u003e\u003cbr/\u003eجزئیات کامل رو توی بلاگ بخونید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blog.parchlinux.com/fa/parch-accessibility/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blog.parchlinux.com/fa/parch-accessibility/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-10T19:37:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 917,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BXxYMqTCPTGXs7ePKfwyXZ-0o8xsmc4sL-ENBCRRuhh8tYMxZrd5XvxaGnfR9vFNpzaroq9RhMckvrpLS40fG8Gs90f7M3YoMxTYNq0ilUx7ZbJNX8hHbGSHlZK4ApJ4UlksP2kTCjULruY0ph7Irf7kgjDeKQVjbuQlnLVDNKdTIXknBT9V1YuRsKYfRw-mjLtn4z8AQKg3ydVoKwuzrUdlPHiyzW2Roa3Jy01PhpxLWgSoyaIvlXpRZKpGfaYeZk-WNakMMhmDTUNvu3lY7uvyBslzKifKd0re7IqBup5PG1uAYjyIbL6iIG1_1Hy5w_Oq4FgHkdzd-KbRuDwv5A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این یک کلاینت وی‌توری نوشته شده با گولنگ و با محیط TUI هستش که علیرضا توی گروه گویبان معرفی کرده بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Keivan-sf/Bushuray-tui\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/Keivan-sf/Bushuray-tui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه جذابیه :))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-11T16:39:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "پیش‌نمایشی از نسخه ۰.۵.۱ مدیر مخزن پارچ با قابلیت انتخاب کشور برای گرفتن مخازن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-11T18:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 899,
+      "views": 900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-08-11T18:59:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 880,
+      "views": 881,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-08-12T18:59:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 827,
+      "views": 828,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +79,7 @@
       "date": "2026-08-13T13:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 792,
+      "views": 793,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +97,7 @@
       "date": "2026-08-13T15:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 763,
+      "views": 765,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +115,7 @@
       "date": "2026-08-13T16:28:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 773,
+      "views": 775,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +127,7 @@
       "date": "2026-08-14T06:46:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 686,
+      "views": 688,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +139,7 @@
       "date": "2026-08-14T08:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 534,
+      "views": 536,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +151,7 @@
       "date": "2026-08-14T12:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 558,
+      "views": 560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +163,7 @@
       "date": "2026-08-14T14:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 599,
+      "views": 601,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +175,7 @@
       "date": "2026-08-14T14:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 610,
+      "views": 612,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +187,7 @@
       "date": "2026-08-14T16:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 581,
+      "views": 583,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +199,7 @@
       "date": "2026-08-14T18:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 602,
+      "views": 605,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +211,7 @@
       "date": "2026-08-14T18:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 558,
+      "views": 563,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +223,7 @@
       "date": "2026-08-15T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 260,
+      "views": 272,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +241,7 @@
       "date": "2026-08-15T09:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 194,
+      "views": 207,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +256,29 @@
           "url": "https://cdn4.telesco.pe/file/KdESc42YCmf1gbfQ86z-gVW9f9dhThk4XUkxvG_HDqKk-RP6pwX4iKj7ax_3fRHhk1a__uysRP0KM-1bBA-H-yf9efv9-wZCoHafRHjTieKTY18GjScbM-MwA4TB74EtyhBMJl4puLHqUsj5HXsPZBsruK16dnvMkmxniNwvzH1WsYbcmJXHVwF9P3u3ZFhY1wvO9UBrTvA84mImeCaZeeLWobw0XEaRJeUitisGiL8BnBs6gmQHXiPEne6qv6kuIXETk985szQU58jCMZDZewuuL_UZjOn6VsYAhcgulDqRj4eqajSoSM9z5WHJRLIGflVbJ42dHi3yFHeSo6w4vw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "به گنوم سافتور هم پورتش کردم.\u003cbr/\u003e\u003cbr/\u003eاز اونجایی که اول داشتم برای کی‌دی‌ای می‌نوشتم اکثر چیزها رو مجبور شدم توی libfdroid توی سی پلاس پلاس بنویسم؛ بعدش که اومدم با روش hourglass اون رو توی سی فرو کردم (گنوم سافتور با سی عه)، نتیجش این شد که گنوم سافتور به صورت رندوم زمینی راهی سمنان میشه و کرش می‌کنه :)))\u003cbr/\u003e\u003cbr/\u003eولی حداقل اپ‌ها رو لیست می‌کنه که این یک پوینت مثبته.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-15T12:17:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mWXFw_BQz38zWmrhXF48n8L6gyExcu_RVIpy3d5-bnKFukxfeuZExDwKi_jBIDWaMgbNn6iWBsQEk8HtIRu1ghbxb32FDqLit1vXtnMa8Otl62h6j5dyY3VCWgd14HOQ9vMKilCoRDF2Nh97HxIRZ6g_CvrduhDym9XhOWsyGcTfmxZOwvb54_pT6tcdibh3mJATUlVbbYG_sg2mUxrBwOGhQqi-aQe4rKzr3k0nPqA9zaCUGAKrlXBRP6SnQud8a4sGQJ0qGCrLPRIyQtsnI1m4sLFzxoKenKF0hGNKL_79wV25lIWOIYQOS-JyHB7EupX4DHm-MCLEXEnW2cF4Kw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PjmYM1WIEtDJlyFQXy9STKXOM5INEAjg9Qp8pk9umbpZQuVZWbfYB8Pv-PcJfJBMZDmKffaWfOUJrDu13naNqIy8LXcn--d9u6YTDYpoPY6ogcmuHlKypxz1U7DaKuU65XFP90glPaExJM0L142rlGyDS4LWNPbvYpJ9FQ4TMvC5Dh7cmVXUg6Rkcdd0iw0Wx_zje-IVcYwhAoCvw1gwqOeK0Nk8Sy3C8NVty3HR8CIJfeVmsOc-SR2THgRuSlbd843roGODIZ9jNpR5ayHBZ8cLQdQev_iu8Qj3GeN623_D9Xf9AhWppLBWxoANP4l8OiSrKog4QFNdoZAVKyScfg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786794139
+  "last_updated": 1786796324
 }
