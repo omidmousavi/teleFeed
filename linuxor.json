@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کسایی که توی ایران ویندوز دارن تقریبا همه‌چیشون کرکیه، ولی کرک خیلی وقتا سیستم رو نا‌امن می‌کنه و سیستمی که توش پر از اطلاعات شخصیه اصلا کرک گزینه خوبی نیست، اینجا لیستی از ابزار های اوپن سورس و رایگان ویندوز جمع آوری شده درسته کم وکاست داره ولی می‌تونه جایگزین خیلی از برنامه های پولی و کرکی باشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/0pandadev/awesome-windows\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/0pandadev/awesome-windows\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه حداقل بخاطر دانلود یه ویدیو ریکوردر نمی‌رید کرک نصب کنید هر چند خیلی از برنامه ها جایگزین اوپن سورس خوبی ندارن ولی دیگه سطح خطرو کمتر می‌کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-12T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tJ_wzacHtaz-Ulb-gpJr1qHt3bXJ8OsURsTgXIwXiIjstwmvr3cPS3KsL7zeh0uC6Cqc9MfVOWqgvWaKTK2leJYc0Fz-AAzCdxyNixlNDk55oVq7OF6HNZ9uIOR3YFsuJ6qR71Lx3AVMjpwYOiKFpC1sT_9Z751g-qjGDPZdotvkWcrXhKatvpuCYeM8Sbk1iTfmOjYouJoNXpPSJnaBZ0hEwahJFEIjGCh_7NmSWJrWTVZ1Y9UUFDj_iktvFrlOzREvEoADe1vQ-VXOxkoj3oHFdebyQdntXQns-YRf5JNAPPLNm29P4pGNnJNZmFjpHbnIwCyVTtRpDpDc0Ldz8A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه عامل هوش مصنوعی به اسم OpenClaw که قرار بود فقط برای رزرو کلاس باشگاه کمک کنه، وقتی کلاس پر بود، به‌جای اینکه فقط از روش‌های معمول استفاده کنه، رفت سراغ سیستم رزرو و یه ضعف امنیتی توی API پیدا کرد.\u003cbr/\u003e\u003cbr/\u003eبعد با دور زدن محدودیت‌ها:\u003cbr/\u003e\u003cbr/\u003eزودتر از زمان مجاز ثبت‌نام کرد.جای کاربر رو توی لیست انتظار جلو انداخت. حتی رزرو یه نفر دیگه رو حذف کرد تا کاربر خودش بتونه وارد کلاس بشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبعد از اینکه ازش خواستن تغییرات رو برگردونه، نتونست این کار رو انجام بده و خودش هم توضیح داد که از یک مسیر اشتباه برای رسیدن به هدف استفاده کرده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-12T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z1ygWDF1-uymJS867LqquLu3d7Tf5_A4ro-0Jx4EI5iiuf2gwVjIIGX1rsIlRQmaZxlw5deJOu4C0fTyQNuzA2JdH9vWzdBR20qFooJfVkntdK9v1NKCuy0kS0SVX4YOAEwEUqDbRGtjIaXuT2RauRSnTBvInFRxguR5dIhRE7vTUBODnEeE0OiGlGQtLEAZEVY_2ALF6SPfnrQgRDElAiqj87iq9uY9KlDIQ1HDCCG7YZHPfihlkVnjTsBb8VRFespMlYD2VvHPZcpuoud7Rs4mHwpT8ZcsaTrvZ7t9tkRQje_ljyEFk6xmB8KKK3NqYlhnRwgKYbcdmit2iT11XA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این ایده طراحی چاپ رسید وقتی مشتری پرداختی انجام داد خیلی قشنگه و توی فضای مجازی سرو صدا کرده.\u003cbr/\u003e\u003cbr/\u003eدقت کنید ایده طراحیه فعلا کدش دردسترس نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-12T17:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 6910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +31,7 @@
       "date": "2026-08-12T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +49,7 @@
       "date": "2026-08-12T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8029,
+      "views": 8080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +67,7 @@
       "date": "2026-08-12T19:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8109,
+      "views": 8160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +85,7 @@
       "date": "2026-08-14T10:51:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-08-14T13:54:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +116,7 @@
       "date": "2026-08-14T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +134,7 @@
       "date": "2026-08-14T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +153,7 @@
       "date": "2026-08-14T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +172,7 @@
       "date": "2026-08-14T17:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +191,7 @@
       "date": "2026-08-14T18:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6260,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +209,7 @@
       "date": "2026-08-14T18:48:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +221,7 @@
       "date": "2026-08-14T19:05:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +240,7 @@
       "date": "2026-08-15T11:13:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +258,7 @@
       "date": "2026-08-15T12:37:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +270,7 @@
       "date": "2026-08-15T14:30:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +288,7 @@
       "date": "2026-08-15T15:00:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5590,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +300,7 @@
       "date": "2026-08-15T21:07:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4100,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -347,7 +311,44 @@
           "url": "https://cdn4.telesco.pe/file/V5uNyJgsizjp9A1y5XlEqPx2EhoT3Hn2ZKGL_oi4n7hYpwbrXP5RR1x-Dl0OtqK2_0jGnovOV6Iw0stukHe8c6nuvHB4jthnHEa8-RuFhJvY1pos_6Kmv0QQQSYIWYkYNVGGgUkFNjPFPrPGCRQYd3KJLKVKAKLEvSbm_23WadXTozkbk4i-7mPPl6JwgwX8dJ21JPPh0pGxtp2u5fI0RPM2jjMmK3vvPUyrIEFwlG8V_4t1YIzJJOyXM5339YSFc9RbQoM4B9llu_XzyweJ-BJM8TGnl5x5wuWA96dwO0dBBVmAlf2BI5ia0xKvT9Mintzy9_aOERYuydFMY_zyCA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "می‌دونستین این گوشی که جدید اومده به اسم Honor Robot می‌تونه با دوربینش برقصه؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-16T07:32:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Gox6zmDiZT944DY_QZUQ6lvRlMLeAYOMQQK1ihy8x1bq3iE_xm91wPBeGsxRg4dc6PNdBTciVStAwZP7B8k0tGZ75-RRdQJefrZBQwe_ZR-Wz9M2symleDb5-mdDkXHnB-2vQD7tgOnvHarM3DrgMxSKpL47R7mw-QoJeWsczxIqKM9Zboqd-P5AuCvSywjy4PyzxlnGJwxZFFhH8vKVwH0bTcH9dNayh0AYjX-T_q9XuFU25UHtxG3KZ2wiRrHKHY1T6e8EQZPCAtbMxQy0TYw7lc_Mrjr0Cmo1bgF8tEL8k3RSRjR-tdDHvth-mearmU0ZRwlXTImiRsSUy4JGcw",
+          "width": 716
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این اسکیل به مدل های هوش مصنوعی یاد می‌ده انواع دیاگرام های مختلف به شکل HTML + SVG و با کیفیت تولید کنه نکته جالبش اینه می‌تونه با تم سایتی که بهش می‌دید تم دیاگرام هارو مچ کنه انگار نه انگار با هوش مصنوعی ساخته شده\u003cbr/\u003e\u003cbr/\u003eنمونه کار ها:\u003cbr/\u003e\u003ca href=\"http://cathrynlavery.github.io/diagram-design\" target=\"_blank\" rel=\"noopener\"\u003ecathrynlavery.github.io/diagram-design\u003c/a\u003e\u003cbr/\u003eخود اسکیل: \u003cbr/\u003e\u003ca href=\"http://github.com/cathrynlavery/diagram-design\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cathrynlavery/diagram-design\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-16T07:47:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 455,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/LfnSQT5pLCnHIw0yUYJFrAGYUgw-c296ZRJEV0Hw0Hk1dOY59iLq0AENB0IaxHHDESLp5NgMMHipGhFvcvVSi-qUgkrsk9jaXO6_TMvHFIaA0CqYI9HffU9fgM0pVRc6uhKGoKJqpFj5uL2kiP8qisNagvabS-wKuigICZHYLaWCC4H_QbpI3XteCzxe3NyMAP83FesFneo9-G5vUr36sbVSqodMaT6tfWZDmgHaj5tFRAMXNEekgsjIeFHWQJvZMpkQGE9XF4jTrUjLsWfGV-4S9DuyLwN9EhaQeT74EY4hp9P7VxJvfo2rabb5BNApG2px5flG598ZvBw_vJAegw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786864037
+  "last_updated": 1786866707
 }

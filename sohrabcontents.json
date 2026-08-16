@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "دارم سعی می‌کنم اکثر ابزارهایی که از این به بعد می‌نویسم man page هم داشته باشن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-11T18:59:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YwSsH5hMTWvIKKw9489cLm1tKrKVaxtgzPFszlrMt9BXgPxcbqQdTqU3c_wyiv6vDThDO8RA20y3Ai4tzewHFX06SnH6hiO8zbj6K4L9K0hPMJ2EqRJEX01VSYewN3YKJHvdG5b2ct6weC-MVUIcLL_zLIflFhmuer0ODBE7-GeJGNvv_vfy9pGtHyFy2Wdmf0gPLrgcheVkTVJKSx63t-T50TD9lgPUp78yZSg7lK1qTz44fL-mikiXhIG3KXbKdWiL0DWMjc1cLOgO-tbM8Q9blL6l5LZJarc0O6aBiKMB5ADgrEQ9AlyQQnB4VoklQZubEWUwGmLddPIiGLzqvg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ca href=\"http://t.me/imSinaCode\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسینا\u003c/a\u003e بهم پیشنهاد کرد که کامیت‌مسیج هایی که میزنم رو به صورت استاندارد Conventional بنویسم که خواناتر باشه.\u003cbr/\u003e\u003cbr/\u003eحالا این چی هستش؟\u003cbr/\u003e\u003cbr/\u003eیعنی بجای اینکه پیام کامیت رو هرجور که به ذهنمون رسید بنویسیم، با یه ساختار ثابت و قابل پیش‌بینی بنویسیمش:\u003cbr/\u003e\u003cbr/\u003eنوع(محدوده): توضیح کوتاه\u003cbr/\u003e\u003cbr/\u003eنوع مشخص میکنه این کامیت اصلاً چه‌کاری کرده. رایج‌ترین‌هاش اینان: feat برای قابلیت جدید، fix برای رفع باگ، docs برای مستندات، style برای تغییراتی که به منطق کد کاری ندارن، refactor برای بازنویسی بدون تغییر رفتار، test برای تست‌ها، و chore برای کارهای نگهداری.\u003cbr/\u003e\u003cbr/\u003eمحدوده اختیاریه و نشون میده تغییر مربوط به کدوم بخشه، مثلاً auth یا ui. مثال:\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003efix(auth): validate password length before submit\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eیا:\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003erefactor(installer): simplify driver detection logic\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eاگه توضیح بیشتری لازم باشه، بعد از خط اول یه خط خالی میذاریم و بدنه کامیت رو مینویسیم. برای breaking change هم یا بعد از نوع علامت تعجب میذاریم مثل feat!: یا توی فوتر مینویسیم BREAKING CHANGE.\u003cbr/\u003e\u003cbr/\u003eفایده‌ش اینه که تاریخچه پروژه خواناتر میشه و ابزارهایی مثل changelog‌سازها و semantic versioning هم مستقیم از همین ساختار استفاده میکنن.\u003cbr/\u003e\u003cbr/\u003eمن از این به بعد سعی میکنم همینجوری کامیت بزنم، پیشنهاد میکنم شما هم امتحانش کنید.\u003cbr/\u003e\u003cbr/\u003eاطلاعات بیشتر:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.conventionalcommits.org/en/v1.0.0/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.conventionalcommits.org/en/v1.0.0/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-11T19:06:08Z",
       "edited": false,
@@ -42,7 +24,7 @@
       "date": "2026-08-12T18:59:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 848,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-08-13T13:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 805,
+      "views": 806,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-08-13T15:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 778,
+      "views": 780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-08-13T16:28:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 794,
+      "views": 797,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +90,7 @@
       "date": "2026-08-14T06:46:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 704,
+      "views": 707,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-08-14T08:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 562,
+      "views": 565,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +114,7 @@
       "date": "2026-08-14T12:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 588,
+      "views": 594,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +126,7 @@
       "date": "2026-08-14T14:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 634,
+      "views": 640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-08-14T14:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 646,
+      "views": 653,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-08-14T16:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 638,
+      "views": 644,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +162,7 @@
       "date": "2026-08-14T18:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 665,
+      "views": 674,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +174,7 @@
       "date": "2026-08-14T18:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 628,
+      "views": 637,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-08-15T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 417,
+      "views": 431,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-08-15T09:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 406,
+      "views": 425,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +226,7 @@
       "date": "2026-08-15T12:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 430,
+      "views": 470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +248,7 @@
       "date": "2026-08-15T13:07:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 377,
+      "views": 437,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +259,25 @@
           "url": "https://cdn4.telesco.pe/file/SJLIWOOkYiENznp6vnbIynKJqVFfd68alcSr1C_MlHZ68HdpSroP3ssHlr6i2Hzf8mxKNbXpYRdXyJYzei0gowaruRuDwpzf75GkdCwZZHzFUdCM2Q70N6iDaiwYdOXexFLK3kcWEywoI8mbuv_MWOuMUnZzBg1sMOcjJ_MYiLw7LamnolpansbQiRLAL4WIZC40C3BGlAvSH7Dz92Mu6VmMYMOZ9GKdzK1yNOncHJRPJtEov-eIcXUzB_ELgAAJXeNR4lPUnbuZ0bL_2qazij19P4KjgkJ6l_WjfHkUjIB6aAKFo04BaEWqad_9qacbtyrb-LV7wOAukNya0hcrAw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "بالاخره یک به‌روزرسانی کاملاً بزرگ برای فروم پارچ انجام دادیم و یک پوستهٔ جدید با زبان طراحی پارچ براش ساختیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمی‌تونید لیست تغییرات رو از این تاپیک بخونید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/topic/1150\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/topic/1150\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eیک نکته! :)\u003cbr/\u003e\u003cbr/\u003eانجمن پارچ \u003cb\u003eتنها و تنها\u003c/b\u003e متعلق به پروژهٔ پارچ \u003cb\u003e\u003cu\u003eنیست\u003c/u\u003e\u003c/b\u003e.\u003cbr/\u003eشما می‌تونید با توجه به دسته‌بندی‌های موجود سوالاتتون رو درمورد همه نرم‌افزارهای آزاد موجود (آرچ لینوکس، دبیان، فدورا، مانجارو و.....) بپرسید.\u003cbr/\u003eیا حتی در دسته‌بندی کافه پارچ بحث خارج از موضوع داشته باشید :)\u003cbr/\u003e\u003cbr/\u003eما از حضور همه اقشار در انجمن پارچ حمایت می‌کنیم و به افراد فعال و پویا در انجمن به صورت خودکار دسترسی‌های بیشتری داده میشه.\u003cbr/\u003e\u003cbr/\u003eفروم قابلیت گفتگوی صوتی هم داره، که میشه در اتاق‌های صوتی هم گفت‌وگو کرد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه امید ساختن یک انجمن پویا و به دور از حاشیه برای نرم‌افزارآزاد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-16T07:14:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ueQv1EUIrBbNGuybIH7Gr0VBzX5hWwOyDsOHrqRKrAC0XnxtNR1HxPyWEEeyZNUUV4Am9ubQlcL3dbN7W7UOYJdv4c0Sad5NWHcOo52eBeZQv_dvxXMx9KYx8S1sd_3A1yTNIQOdactJL0YaKpzTZJWniyDonSUiDnfk_LVxe2KijcSJC5vqUoiWt2b9Ny6VL5SR-UP9CzD-u5DPfKnFfvJahnpev8ygZBCqg-GgZndRuVG5UszhFIzOkFrPcgf1yY0TLYHc2tv18OfuZqPE3g3a11QFPxyVW6R6xA_rzfC66WjAv55TmrFSgohisSyhxIhfgpzHdSwfqjBdYXJFBA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786864078
+  "last_updated": 1786866750
 }
