@@ -8,60 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یکی یه کتابخونه UI نوشته که همه المان ها با قلم رسم می‌شن و هیچ دو المان یکسانی شبیه به هم نمیشن و رندوم کشیده میشن تا شبیه به هم نشن، برای ساخت سایت های درسی خوبه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://wiredjs.com/\" target=\"_blank\" rel=\"noopener\"\u003ewiredjs.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-14T18:44:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T1o40GeDxjZk3ObiJ--yDtdPIXeHh6cPIxlnGX7Fqi3JFX1eFpR1DxeK-ijWOZnLYFV-WeiBRHP9I4cwoSfizR4QfCq2kl1vHgztPBMKd0dO-T7x0PWTC4PrvN1eUM4yAkcVa7pKDOzuiWV9FOH-oXfiwKSVW53IJxRGe3sfGSK5Zb7teZ2TktB7K1zxGeYgx1q1S7O8NZ4ZxIcZhtqSqt2-7GGvYiu6vLGvutxXCDuDtDu0QUy_jC_j5_7BB-jYvM90CO6VCIo7BojcaazwlRYBYctaB9XmRG0KcWkxM_QY0RXk-5f6FGz80AGaXzX4ZuFbkCfbRpJK5gT_OmYtMw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کد این :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://dqnamo.com/experiments/receipt-printer\" target=\"_blank\" rel=\"noopener\"\u003edqnamo.com/experiments/receipt-printer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-14T18:48:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این اسمش Autoskills هستش؛ یه پکیج CLI که به‌صورت خودکار پروژه‌ت رو اسکن می‌کنه و بر اساس تکنولوژی‌ها و استک پروژه‌ت تشخیص می‌ده چه Skillهایی برای AI Agent مناسب هستن.\u003cbr/\u003e\u003cbr/\u003eفایل‌های پروژه رو بررسی می‌کنه، تکنولوژی‌هایی که استفاده کردی رو تشخیص می‌ده، Skillهای مرتبط و از قبل انتخاب‌شده رو پیدا می‌کنه و اون‌ها رو برات نصب می‌کنه.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونی قبل از اینکه چیزی نصب بشه، با استفاده از --dry-run ببینی قراره چه Skillهایی نصب بشن.\u003cbr/\u003e\u003cbr/\u003eدیگه لازم نیست برای هر پروژه، خودت دستی بررسی کنی که چه Skillهایی باید راه‌اندازی و نصب بشن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://npmjs.com/package/autoskills\" target=\"_blank\" rel=\"noopener\"\u003enpmjs.com/package/autoskills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-14T19:05:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MLgLehFEB94ajCZ832VkWZUJ_87P6gC0BIP0K0xluQgRp5MLTVLmxJuqNoGVq62GliwM66fyhxpNEEICdbyFY4Fok9_OfEuOtkZscnbBZ4wCSHgAWtrtQAssYjYbCXbd9Kr79Nz_wndqgXOhT8wRLFp0eTZGMc0fmgJ9T9-lz46SJJNgAoWvalDs4yM9m4tNUhxwhVmEp1R5z0RQ0KheHwRsOr7IIjlIBZKqQP9osdziR0qWmCPEMGekzLDHdefSJoaiQUsKNNat8q5fHnXJ87LklTWhH6sHljeQTUmaK62PLuCAaWMVln6by-ez8Gas6iALS5LIDuWjpFrEvDji2w",
-          "width": 2456
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این پروژه اوپن سورس جدیدا سروصدای زیادی کرده در واقع خودش یه ابزار تولید ویدیو با AI به معنای یک مدل ویدیوساز نیست؛ بیشتر یه Skill برای Agentهای کدنویس مثل Claude Code و Codex هست که به Agent یاد می‌ده چطوری با استفاده از Remotion + React/TypeScript ویدیوهای تبلیغاتی/محصولی سینمایی بسازه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://vincentwei1021.github.io/video-shotcraft/library.html\" target=\"_blank\" rel=\"noopener\"\u003evincentwei1021.github.io/video-shotcraft/library.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین پست‌هارو از دل کوه و صخره ها براتون در می‌آرما قدرشو بدونید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-15T11:13:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +30,7 @@
       "date": "2026-08-15T12:37:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +42,7 @@
       "date": "2026-08-15T14:30:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7550,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +60,7 @@
       "date": "2026-08-15T15:00:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
+      "views": 7630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +72,7 @@
       "date": "2026-08-15T21:07:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7640,
+      "views": 7760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +90,7 @@
       "date": "2026-08-16T07:32:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +109,7 @@
       "date": "2026-08-16T07:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +127,7 @@
       "date": "2026-08-16T12:51:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +139,7 @@
       "date": "2026-08-16T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +157,7 @@
       "date": "2026-08-16T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +175,7 @@
       "date": "2026-08-16T16:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +193,7 @@
       "date": "2026-08-16T17:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
+      "views": 5460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +212,7 @@
       "date": "2026-08-16T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +230,7 @@
       "date": "2026-08-16T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4750,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +249,7 @@
       "date": "2026-08-16T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4740,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +261,7 @@
       "date": "2026-08-16T19:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
+      "views": 5160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +280,7 @@
       "date": "2026-08-17T08:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 297,
+      "views": 2370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +291,56 @@
           "url": "https://cdn4.telesco.pe/file/c9lmiy0vVILlP5WinMwwNBUjGpRFVeqtuPg3IiXFWnh1liiqq4CIamwcwCwRxUnuPb2V5fCEU_YeZJQWUO0pCLg4Ik6fYRtjCOG1A2lf0j2gJW6Kz0dSJbU4y__CWo012db436flGtlLhpS5LmgPX2aFFVfQBZXKggLAVvR0blwqaez03aqvBMqjxFZy6U7nRWqT2lxhU3r-bGriERjX2FzD4F7nIMyk10y05HkeprIQD_OdSpVw3OvuBPOQBlW_MK77OiaRJRwp3hW6OjbE6pM1l1YGyUEwX1yFbl6rqLRooeGg17Nf7B1rB6opowWj7zRAGzZKnOMMYiujj_uIpQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه برنامه‌ی رایگان و اوپن سورس برای بزرگ‌کردن و بهتر کردن کیفیت عکس با هوش مصنوعی\u003cbr/\u003e\u003cbr/\u003eدانلود برای ویندوز، مک و لینوکس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://upscayl.org/download\" target=\"_blank\" rel=\"noopener\"\u003eupscayl.org/download\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-17T08:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/P3fE0ErBfKWCkuUyX1t7ZS8hvtJh1YsHvRYhfvEuAdegSlluUSoTA9wsWY3hZzuvNW1RxFY1l4WB_YR_M89rnAljPYzOETXCUe7O6ZOOtKbPJCMqMXl4SMNZcEso0xJeg2jDqEyAbQZYzDqhf2-6d78J1VSitfdgHpIUOoeqOorZ5USeCLvRMbois6zAeW5hYyt9lQFpHJJVy7jiuiYBMSSa1CrqcL0-GpIS_l-rGbPXxXYr2nyv87pdbHUriXrjmCEu5r25L4YpYMPgVzRJj1m2nI8O9H1b7_uONTRTL1aA9MCAX3EjWtuKZqsCZXUA2x1VlXA_cp2kbRwF22jgJw",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بهترین ایده‌های استارتاپی اونایین که همه نتیجه‌شون رو می‌خوان، اما کمتر کسی حاضر می‌شه اجراشون کنه.\u003cbr/\u003e\u003cbr/\u003eبدترین ایده‌ها اونایین که همه دوست دارن بسازنشون، اما کسی لزوما دنبال نتیجه‌شون نیست.\u003cbr/\u003e\u003cbr/\u003eمثال اول: اتوماسیون‌های پزشکی\u003cbr/\u003eمثال دوم: یک پلتفرم مدیریت پروژه، شبکه اجتماعی یا چت‌بات دیگه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ FarokhNotes",
+      "date": "2026-08-17T08:59:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "هرچی کتابخونه استخراج اطلاعات از توی PDF دیدید بریزید دور اینو امتحان کنید رایگان و اوپن سورس، خوراک جمع اوری اطلاعات از PDF و دادنش به مدل های هوش مصنوعیه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://opendataloader.org/\" target=\"_blank\" rel=\"noopener\"\u003eopendataloader.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-17T09:09:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Y7zMftySfQIdtZMOJngpMiCtH5H8Vort5BoHuOxu5N-0mMnhtn__eV-309bNLKQ58u_YKO0e9dYyttkDcKEC_Pn0qo7KvzHXEd0WovrzIEGcANSap9pukF6xhNRHxbarPp331H-VNv6qLVbUA8CupE-pELgWpdAfUwJtNBjI0peESaUd91W0QRWWvy6VcfUDHJPF4kU-V89AtR8zU3tA0kC7EXCPcxQsr5qdm-9cYdFzDQ4if7FvfsO1TUvT0W_W4MIfdEmVPTpvH2-KNXqEmT9bHgAPjhNPwku8M-seWZ7qqEP2hz5NE9g4PVPxVw8i6DxMgQGMZxffTe8HWqxCWA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786955503
+  "last_updated": 1786959029
 }
