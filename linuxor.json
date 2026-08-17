@@ -8,60 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "تبلیغات همیشه یه چیز گرونی بوده، خیلی از مواقع می‌شه با ارائه خدمات یا محتوا این هزینه تبلیغات رو سرشکن کرد ولی صفر نمیشه کرد. مثلا بجای تبلیغ مستقیم می‌تونید یه سایت خدماتی بسازید که وقتی کاربر دنبال یه خدمت خاصی می‌گرده، از طریق گوگل وارد سایت شما بشه و ازش رایگان استفاده کنه؛ مثلا یه آموزشگاه زبان می‌تونه سایتی راه بندازه که توش دوره‌های مختلف، سطح‌بندی کلاس‌ها، ابزار های رایگان یادگیری زبان، هزینه‌ها و تجربه زبان‌آموزهای قبلی رو معرفی کنه تا افرادی که دنبال یادگیری زبان هستن از طریق جستجو وارد سایت بشن و برای ثبت‌نام اقدام کنن. این کار باعث می‌شه بخشی از هزینه‌ای که هر ماه برای تبلیغات پرداخت می‌کنید، تبدیل به یک دارایی دائمی بشه که در آینده هم براتون مشتری میاره، ولی همچنان برای رشد سریع‌تر و گرفتن سهم بیشتر از بازار، تبلیغات هم لازمه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-15T15:00:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "گفتم بزار ببینم توی گیتهاب ASP.‌NET (فریم‌ورک زبان سی شارپ) چه چیزی ازش ترند شده در کمال تعجب در یک ماه هیچ ریپازیتوری ترندی نداشته\u003cbr/\u003e\u003cbr/\u003eدقت کنید برای زبان های پایتون و جاوااسکریپت بازه یک ماه که هیچ بازه یک روزه هم کلی چیز ترند می‌شه این انگاری داره منسوخ می‌شه ASP.‌NET\u003cbr/\u003e\u003cbr/\u003eداداش ASP.‌NET چه بی صدا اومدی و چه بی صدا داری می‌ری :) البته دارم شوخی می‌کنم این دقیقا نشونه منسوخ شدن نیست ولی زنگ خطره چون جذابیتش برای کامیونیتی کاهش یافته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-15T21:07:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/d5FXZ-zTbe3jKjpfJROdmUAVEHgWbW6vRiGz-1x2I8mcOLpq5P3vCniQEtAc451xGfezfVo9Owm78mbugH5XGS3zMvo7myDwIbMooyor_zqp6robjtVzOovriFrIimRVbA6v1gLFxHVLIQtr2I2utFUCn_yP3gGlNkZyhKZUBz3Kq2-4mZoZjXXe-OVeMBaNVqr27mbQP8nVwjynhYsc1pv0VxspA9_F0Re46SajnTTa-DNMu3BylZwBqXNt50m7imzsWBxXftXxzVhaWoaoPfZgMUgOdkpJbze3ZF38F3S4PvRSeoKuHZ7-nqJajJbmgE9oq4x9vtgHJQHCZ_Bqaw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌دونستین این گوشی که جدید اومده به اسم Honor Robot می‌تونه با دوربینش برقصه؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-16T07:32:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tLVVIu53d6BeTMU1Y0bjZYhiCcBKSOEfBLJitfFFYLn3AwWB_SAOnWD-zUFwmpHdCH8dCMflAB-3Elp4mstQ2aaGPckjJHdE6ENcB70MWsV0nVmubM74OBMi5bnz9BMSMvdcmcDveVx5jtgj_ygDOyhF_bfvGyzNIkBw4eWE0INqd7jGm_dpdJGKTfOI9wPf5hxkQiXKAPnwoJGX4mPBskGfmGkNum7ketnQyWn4FaXP2nNVcU5uvC8QH_SIxEUD8rb32aZopGaT9Cwu-yTt6HWUFMtB5JXCKvFFqc_cxPbu4JNJCjVLa757_1iPi7ELYq-gDvNlX5x-wxdyplLoaw",
-          "width": 716
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این اسکیل به مدل های هوش مصنوعی یاد می‌ده انواع دیاگرام های مختلف به شکل HTML + SVG و با کیفیت تولید کنه نکته جالبش اینه می‌تونه با تم سایتی که بهش می‌دید تم دیاگرام هارو مچ کنه انگار نه انگار با هوش مصنوعی ساخته شده\u003cbr/\u003e\u003cbr/\u003eنمونه کار ها:\u003cbr/\u003e\u003ca href=\"http://cathrynlavery.github.io/diagram-design\" target=\"_blank\" rel=\"noopener\"\u003ecathrynlavery.github.io/diagram-design\u003c/a\u003e\u003cbr/\u003eخود اسکیل: \u003cbr/\u003e\u003ca href=\"http://github.com/cathrynlavery/diagram-design\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cathrynlavery/diagram-design\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-16T07:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +30,7 @@
       "date": "2026-08-16T12:51:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +42,7 @@
       "date": "2026-08-16T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +60,7 @@
       "date": "2026-08-16T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +78,7 @@
       "date": "2026-08-16T16:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +96,7 @@
       "date": "2026-08-16T17:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +115,7 @@
       "date": "2026-08-16T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +133,7 @@
       "date": "2026-08-16T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +141,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/BcC6WXQBEX_hjW-Kg7NRPlo0zxPPVm9SErJN1pJMZcmwId_6U06zH79P-y7QyyME-_n0tDxUD-RAAJsIFbNoFJf5KwQImKGmAqxJfAWP8C6x3lt8XpeTDTgMeX4Mk9J0K-RyTF7iGrsfVCN-x0J_IkR45AT-umjMBGkOJWeIcYgmhiCi87t81VRLArC33p0-IyKkDBd1VOqQN_zLVEczbsYc4Mda48_YubpNITX7vI51WcKeRij5eYXMRFwjf2veoWFuyWl2mD9LIZ5-CAn4AJUf545_IilcwnFcpd18hfT61A4bKbhmUsJ6C2ik0HAzw8U6Vjdvz-zow3DfcOd8mQ",
+          "url": "https://cdn4.telesco.pe/file/XjyGZSFO4oDXXMEOXc8ZR4W5bq56Rc9V8I-wFfdJjECASVK5KoGAEVpJ0XL1CAswvFxIy3z99a08A-4O3rBmVt1Rw3VgDGuTXfzEFJ3Q-2zrZNVPRRqScH7uDVG5qZKLqNyfyn8avU3liLCuQo1Po_v3Zz5SJJRfdPvOJFng3h_yCWK3-3cV0vdz-zMRTPoEwBJv0rGiKBuhtwGC0ILv42nyRknf_1ZttbzWwrs2dTic-EzHdViSOe_VWpM46vZW8c2YfPsvg-Y43JFxBsDISHjxLk_3mq19jx5TEnAJDldmmWyNpDcLU24ZBJmlQ5eYVkxwGVuRjqeXxMFclrlqwg",
           "width": 980
         }
       ]
@@ -201,7 +152,7 @@
       "date": "2026-08-16T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6250,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +164,7 @@
       "date": "2026-08-16T19:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +172,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VMLjWxGohUIUzvMo7mW2Ka8g-LuoTIWzbXYi1sQ_eFLCWtAd-00D-Xyw1OSYf7aqVsJkN3rC4Nnjj9RSeytNaaz1mSeWlbH_SUQJcjSDwfuCWXCZY8irOp4i2mJ4syZA-V-yAL_RK9PR1oEMAfUrHIRVSe4rBcRvXupDD26UDeNTBj0ZWb4lo_UVhzLzvYH6LzBceYHZZYOkmB2fnHHxXlbuvqT_0KdRRQDYUZevrU_KBKXO9ppf4rph2SmwjvlfURS484yQ3tjxRFgK_rcdMPZyMV9JGn8ibbILve9wVawXNBayoToPBwLYLzWtmKHaPDPcK1bV4_uYT5fxtRKD2A",
+          "url": "https://cdn4.telesco.pe/file/asV4Vrg-G1fmSO0KGSkuFjrdNhClHH6l7Tb0nm8k6LX26vr_A76uCZtjbjJTBrtIytg5KXT4-DpmwsyO8CnxHlBfEGhVbmprH_A2B2yDVKa7h2y4QRxPGegB93b68r6EnEqhJp8-iFi4Qxb8SUPX0ASW-PwX9jAsmNMdtTZIsRT9k227tCVhSQ2Y7W4cAiIiwv_DW-_B9vInxjXea5YRKJeP6Ac3DAv5sZZqPBL1bSLbDmbQHkS77tRomZlsi-Ei3JaOQMRhLt-H3NoSEbkU_ReU4LWI48vev68gavtZGE_n_OQhejbHZDYRUjMQ3eJtPz2lsL9qmQfPiEKuzcthnw",
           "width": 320
         }
       ]
@@ -232,7 +183,7 @@
       "date": "2026-08-17T08:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 5520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +201,7 @@
       "date": "2026-08-17T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +220,7 @@
       "date": "2026-08-17T08:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +232,7 @@
       "date": "2026-08-17T09:09:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +250,7 @@
       "date": "2026-08-17T10:11:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +268,7 @@
       "date": "2026-08-17T10:43:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4920,
+      "views": 5430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +280,56 @@
           "width": 864
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآفر ویژه اکمارس برای ابزارهای هوش مصنوعی\u003c/b\u003e\u003cbr/\u003eChatGPT Plus — \u003cb\u003e۱,۴۴۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003eGemini Pro — \u003cb\u003e۴۵۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003eCursor Pro — \u003cb\u003e۳,۴۰۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003eClaude Pro — \u003cb\u003e۴,۲۹۰,۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://accmars.com/product-category/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک خرید اکانت های هوش مصنوعی اکمارس\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e فعال‌سازی سریع | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e گارانتی و پشتیبانی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Accmars\" target=\"_blank\"\u003e@Accmars\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Accmars_support\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/Accmars_support\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://www.accmars.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.accmars.com\u003c/a\u003e",
+      "date": "2026-08-17T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/X-jLGZ73N2vexr_sMIiYe47SL23zSwsJU7irN7UCTxzPDpdjPhgO_vsRgmDesNb9YVnGmhsNDjt8JAmCaAgiy0_o61pkO1vTFPVap36uThAl_-Nf8rWUe0FlsZbCnJeC4p8OaMAkYxXj7g6kG9qdaWisgar_Q0zxijyHsK2zCaHr_aOlWIQ0odMUVe4U4uD4GAekzwKOE6tWTkoZ4AXg2XcgdVFqgrgCjWOU3CvqKcLvJc4NuNmI1LZv_xQwRY7P5Cog2cg5FzdPMl5zcO0ViP9Qz2beNe4uul2jqQKxeo_uWY86yF0YMZd4NwCsoUDL2gtU8lDxa9gTUoGBBopRZw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه توسعه دهنده با مدل Qwen3.8 27B و اجرای کاملاً لوکال روی دو تا کارت گرافیک دست‌دوم RTX 3090، یه بازی شوتر اول‌شخص (FPS) کامل و قابل‌بازی رو از صفر تا صد ساخته.\u003cbr/\u003e\u003cbr/\u003eاین فرآیند کلاً 687 مرحله ایجنتی طول کشیده و طی اون 87.9 میلیون توکن ورودی پردازش شده و 822 هزار توکن خروجی تولید شده؛ اونم با سرعت ثابت 60 توکن بر ثانیه. کل کار نزدیک 6 ساعت (5 ساعت و 11 دقیقه پردازش مدل + 58 دقیقه فراخوانی ابزارها) زمان برده و لوپ ایجنت حتی یک‌بار هم کرش نکرده یا قطع نشده.\u003cbr/\u003e\u003cbr/\u003eنتیجه کار هم یه بازی کامل با اسپاون دشمن‌ها، لگد اسلحه، سایه‌پردازی داینامیک و چرخه غروب آفتاب بوده؛ بدون اتصال به هیچ کلودی، بدون نیاز به API Key یا پرداخت اشتراک، و فقط با هزینه برق خونگی!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ callitVer1",
+      "date": "2026-08-17T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/emEDWEZOCI_8YUgvKQd7OA73BULDLaLF7KiX-KV2U01i_Ar3MCsZOerOQIP83TwoT1o_hyRLQLtm3BBmjdGAO3yXk3lVtK7ZPrCfrSOQa9XUGokznoGg3lvO0rxiydMtS6ljprKvaGTuhXOaanr9p_6WxciMmK8uBPW2bLa70gp7TB_yUUht2wuwbFWhesC6cSfTlao3b7jju36-thvvmMQCKAthjYChHrK6dJ-NJOq4Ey-HtamgnCUiQk91yw2zCVwmsek3uOtHEycw2RpGGIssYg6QNTo9npMVqCj9sSFFDIyC5ir-mFDd8etd5h-6L7rUqGenxQrHIX1j8iAc5Q",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پادکست Syntax با بررسی نظرسنجی از 1300 برنامه‌نویس، از ابعاد نگران‌کننده فرسودگی ناشی از کدنویسی با هوش مصنوعی پرده برداشته: 46٪ افراد نمی‌تونن به‌موقع پرامپت دادن رو متوقف کنن و 58٪ از این گروه با اختلال خواب، هجوم افکار شبانه و خستگی شدید مواجه شدن.\u003cbr/\u003e\u003cbr/\u003eریشه این مشکل به مکانیزم پاداش متغیر شبیه ماشین قمار برمی‌گرده. برخلاف کدنویسی سنتی که خستگی ذهن و دست به‌طور طبیعی جلوی ادامه کار رو می‌گرفت، ایجنت‌های هوش مصنوعی این حس رو ایجاد می‌کنن که همیشه فقط «یک پرامپت دیگه» تا نتیجه نهایی فاصله هست؛ در نتیجه مغز تا دیروقت در چرخه دوپامین پرامپتینگ باقی می‌مونه.\u003cbr/\u003e\u003cbr/\u003eاز طرف دیگه، فشار از نوشتن کد به ارزیابی کد منتقل شده. مدل می‌تونه صدها خط کد رو در چند ثانیه تولید کنه، اما فهمیدن، خطایابی و هماهنگ کردن اون با ساختار پروژه انرژی ذهنی زیادی می‌خواد. در نتیجه برنامه‌نویس به‌جای تمرکز عمیق و خلاقانه، مجبور می‌شه دائماً دیف‌های ناآشنا رو بررسی و تصمیم‌های سریع بگیره. پیامدش هم اینه که 59٪ احساس می‌کنن مهارت کدنویسی‌شون در حال ضعیف شدنه و 54٪ می‌گن لذت واقعی از برنامه‌نویسی رو از دست دادن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Mehdi Allahyari",
+      "date": "2026-08-17T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 729,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1786990969
+  "last_updated": 1786993565
 }
