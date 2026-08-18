@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این پروژه هم جدیدا خیلی سرو صدا کرده یه مدل زبانی خیلی خیلی کوچیکه مخصوصاً اگه هدفتون اینه که یه AI خیلی سبک برای Tool Calling / Agent داشته باشی که روی موبایل، لپ‌تاپ، Raspberry Pi، دستگاه‌های IoT و حتی سخت‌افزارهای ضعیف اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eدقت کنید needle الان نسبت به اوایلش، جلوتر رفته و Needle 2 شده. نسخه فعلی یه مدل حدود 45M پارامتریه که به‌صورت یک فایل حدود 14MB قابل اجراست و برای tool calling، device use و structured extraction ساخته شده.\u003cbr/\u003e \u003cbr/\u003eاستفادش هم با پایتون خیلی سادس فقط کافیه از اینجا بخونید دربارش روی همه زبان های برنامه نویسی می‌تونید تستش کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://docs.cactuscompute.com/latest/docs/quickstart\" target=\"_blank\" rel=\"noopener\"\u003edocs.cactuscompute.com/latest/docs/quickstart\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-16T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rlD4ewueptgHMvGs_vV13SoyDk7zO8WBW5eC4JS7QwgBk18Gd443M4UE2FgQY_RQ5VNYqWsJ-SY64dRr0quTHXShk7C8z278uQXGh5P7Ir1UJjCNXs2Qip7-AWNzEEogCQ_YCNPjLDtdyxiKxqO6HbgCYvm8Ur4tGhRo1csCivnGnKLxXbgJ51KVn8-_RbPg2PXxsDH7UxBB9rn3F3VGK3bfilVX3j4LQxovwIiQv-N9e9miqhjyLQuZP8CnMIEfbZjQ5lWn-fae2HHjdJ_OnPsm_Fyfxcjxxkfngk7zg7OdZVi7v0DdCbf4lIvxTFcatSObV0-6b-O-sOVm5N2n9A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خواستین سایت بسازین و تمش رو پولداری کنید (مثل والپیپر های مک) بیاید اینجا از این گرادیان (طیف) های رنگی رایگان استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://cssgradient.io/gradient-backgrounds\" target=\"_blank\" rel=\"noopener\"\u003ecssgradient.io/gradient-backgrounds\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-16T16:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-08-16T17:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-08-16T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +67,7 @@
       "date": "2026-08-16T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +86,7 @@
       "date": "2026-08-16T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6990,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "date": "2026-08-16T19:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +117,7 @@
       "date": "2026-08-17T08:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6450,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +135,7 @@
       "date": "2026-08-17T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 6640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "date": "2026-08-17T08:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6710,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +166,7 @@
       "date": "2026-08-17T09:09:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7000,
+      "views": 7050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +184,7 @@
       "date": "2026-08-17T10:11:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +202,7 @@
       "date": "2026-08-17T10:43:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
+      "views": 6960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/nSkKc5cLZhv-1YE6YnYh2dJW0B5iSAAynr4NK4gLzrCh8TXGFS9Zb2zN5C7gy4aqyDFZduD60HjyzhVu3g3ZMCWN4GTMd9_0W68cFdI2GxaZLyt8CKbC-r8JVnRi435EmP9Sria_B0YKgUf93yMT9jt48e4XGNo5NClkTYW5cJ86r1_w5v8BPn95rIzzsEIYzYQVx3yqIvTcKa2LlewgSFUYznzJRK4qCjwA_JcAvrpVF96yBNeCKTsli4T27A47tV4jOe7aGVcB6PYLghiwd8HNCXovp4sLbV2JymUXImsydCYvDs_RxBwnHX2bgbUXcpAK3wG9deGPCtSCaL1iEA",
+          "url": "https://cdn4.telesco.pe/file/h3s8UZ_rwzpCdito5WlWVLAEbyfiGmFFT-YtHkxCHAYx0G6v1vcg7iLEYxKH_fZM0iPyERfmvPr5gTCgWLjOfs4AIuHzKyTD5DrvWRxOEg43sJoVuvhjfsQaYHeVQwsLnh-Cf6AkcFlXgFgxXpoEgEnBm75trC-tRb9-WLGsYEl_rLS5gb6tQGu2tvvWaRTcxCDRQ3PnFry6TtUgYicD-mrrC6yegqTpSeqtbm9YxOgpYMFcj_40Zoh4pEErsUms_O4rW3mjv034dZVSHCHs7oqgD7GZtmmA6sH1YpsoVDrdEy_phZet4UuS9S1J4OkB8Fq-YxlSIdFAD5I4zOjt6w",
           "width": 864
         }
       ]
@@ -239,7 +221,7 @@
       "date": "2026-08-17T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +239,7 @@
       "date": "2026-08-17T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +258,7 @@
       "date": "2026-08-17T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 6930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +270,7 @@
       "date": "2026-08-17T19:55:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6280,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +282,7 @@
       "date": "2026-08-17T22:58:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +294,7 @@
       "date": "2026-08-18T09:45:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
+      "views": 2970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +306,25 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "همه منتظر مدل های قوی ترن ولی یه نفر با یه Agent Layer روی دیپ سیک 4 تونسته توی بنچمارک ها از Fable 5 جلو بزنه!\u003cbr/\u003e\u003cbr/\u003eبدون هیچ تغییری در وزن‌های مدل، فقط خطاهای موجود در فرآیند فکر کردن (Thinking Process) اصلاح شدن؛ تغییرات کوچک باعث جهش بزرگی در کیفیت استدلال شده.\u003cbr/\u003e\u003cbr/\u003eمشکل از کنترل زمان اجرا (Inference-Time Control) بوده.\u003cbr/\u003eمدل در واقع قدرتش رو به خاطر کنترل ضعیف هنگام اجرا هدر می‌داده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-18T10:31:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/N8EJ4iweLDK34YGkZeznA25222eK_Zl3zm7o1iRkBIsOV0Mrt8z0-zDTmbFxIsYVm8MHpN-Uf-jZxjV_0uJDiYZgKy4SzLQtdoabwuSeUeuxjU3dG3JmM9twb-dsBZ6QQqrqAr3P0ar5FhKzxBKhtbyO6eaX9KXw1-ECGZmvgJIR2Tlco-mIUwm0Mo5KXsElELyE6USEjCF7ZytgliA_JzGsR0sLV4rg9yImmTFoSAKvhQGkPvG6huqSYz4Gr4-45uOKU5K80_-SqzMEuW4qhHgwB6rVDKyxtr3nhhj52n40AQPk4O5xdxsXW48o8WxyWPjFE5UgFzj86NdWcJKUPQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787048257
+  "last_updated": 1787050406
 }
