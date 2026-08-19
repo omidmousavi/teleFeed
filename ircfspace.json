@@ -50,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MSvRcVR0Um3Ssatq13EKyeezfXHXbW6ALzFWVedkttqAhYdVINPFwaHPOh2__TvC-bADmrY88lu_2ft3vxK0z3gxKVy2gUPXIOLQkR6L837bVXlG7o3ONe2P0MHMNEJhHJKONQg1ayglpDYgUgK3BXnhPbv0pygJZE5iaWFJTVb9PNt-hUEOqw6UK7-xpbTKlPCK3KFYWVcvfbvlS3CFJjcY4LIZilIcU1W3tTY1q1GmF8s58Bt0xPKuWjZhvGEZarVdPOVLmUVsDn2IVH9nhf9pH2D6o3incH6AQbe3Z8VDYHrBctecAOmc9-RP-GKpAmTf5tQUI7VwBR3cnfXaSQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/I1YHUxdwUbJnyoEaLT47dVvlvTDPDgCapj4aCm0dWZYzwGQTJRmH5O-fQ74EOjIIaKkzoDh5WEyvs6si6rq6MwwtfJu8e_z2iJnpJF_2pb-mdq3thLjJAwam6CrFyDLVbALCJ8yEs6R_n8ZACXjCtMWuk-YBCoekp-vsfaw-d2PCvD2xLxL9paNg0LN7GT7liprAGQTEUv1y5Us6WWP11B48t4_lR456KYvJk3dqeMFVp2eA70z0ocrMMKmAbQgI_dAc9FYzB0dyKQeaLnsIx8vnB-FKsQJsTPrDUZlRqBrkKqnlWOrsa93usIhrJslFMjVc2MF9x27B__aznEf8IQ.jpg"
         }
       ]
     },
@@ -174,7 +174,7 @@
       "date": "2026-08-12T06:17:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,5 +326,5 @@
       "sender_name": "IRCF | اینترنت آزاد برای همه"
     }
   ],
-  "last_updated": 1787133434
+  "last_updated": 1787134826
 }
