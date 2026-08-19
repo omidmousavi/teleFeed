@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cblockquote\u003e\u003cb\u003eبلاگ پارچ هم اکنون بخشی از سایت پارچ است و به‌زودی ساب‌دامنه \u003c/b\u003e\u003ca href=\"http://blog.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003eblog.parchlinux.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e از دسترس خارج می‌شود.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eگاهی اوقات نیاز به یک برنامه ویندوزی داریم که روی wine به خوبی اجرا نمی‌شود و امکان دوال‌بوت ویندوز و یا نصب داکر برای استفاده از winboat را نداریم؛ چاره چیست؟\u003cbr/\u003e\u003cbr/\u003eدر این پست در بلاگ با نحوه نصب ویندوز ۱۰/۱۱ بر روی جعبه‌های گنوم (Gnome Boxes) آشنا می‌شویم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parchlinux.com/fa/blog/install-windows-11-gnome-boxes\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parchlinux.com/fa/blog/install-windows-11-gnome-boxes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-14T12:11:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "اومدم روی pi5 فری بی‌اس‌دی نصب کنم و دیدم انگار پروژه‌ای که مسئول اجرا کردن سیستم‌عامل‌های غیرلینوکسی مثل ویندوز و بی‌اس‌دی روی pi5 هستش متوقف شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/worproject/rpi5-uefi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/worproject/rpi5-uefi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو خب به گیرهای عجیبی خوردم که فعلاً وقت نمی‌کنم درستش کنم برای همین دارم پست‌مارکت رو با میزکار lomiri نصب می‌کنم که ببینم آیا لومیری هنوز ارزشش رو داره یا نه :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-14T14:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 839,
+      "views": 840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-08-14T14:33:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 810,
+      "views": 812,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-08-14T16:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-08-14T18:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-08-14T18:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 816,
+      "views": 818,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-08-15T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 745,
+      "views": 746,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-08-15T09:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 670,
+      "views": 678,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +112,7 @@
       "date": "2026-08-15T12:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +134,7 @@
       "date": "2026-08-15T13:07:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 930,
+      "views": 932,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +152,7 @@
       "date": "2026-08-16T07:14:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 835,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +170,7 @@
       "date": "2026-08-16T09:07:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +182,7 @@
       "date": "2026-08-16T18:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5220,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "date": "2026-08-16T18:45:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 901,
+      "views": 909,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +206,7 @@
       "date": "2026-08-18T13:27:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 466,
+      "views": 476,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +228,7 @@
       "date": "2026-08-18T19:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 497,
+      "views": 510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +236,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ACRrilGnFzI2VF_-WEw7nEMldsOV9KWMGkxemOAn9P1AyhkUMGHdCaBG_Ugqz0WDU4J3wpmq8jXUjHcRO60fh3XhcYhPbkItG-4_kybs4WyN5nISVKDChG8DbqNcDH8fokCl8k7XSZohsfwbqiZVooJdS0jvVFPf4YqF_LNgd_84sSb_R0a7WjAVDKQsMw5ECqrjg8JJd1Qtzh57G5TiG4Rnqi1ENsHTTR8jztxrAjPkRgxZNdfmXuPZ3i2xcez0aO6oFOinoWCuoUUtQ5FY97lzMS5sJDz8oTisG88iX0qp0dCt0Ox-jbqRtEK6-NgQubX_dmeATiCYrCI4jNiuIw.jpg"
+          "url": "https://cdn4.telesco.pe/file/NgEph6vwMsBSQtqzNvvibfjD9mb_xF3cIyXER3JBsCX5uVtwwKlT42rNpYq4bOdStRpQFBAkZqSkLN8kDdZKBZn-uhe32jsHucSC_xNz-e24Hb_dK5MjpJCmR9Wq03WTgv2z4yOLBBtVCsB7P6v9gf5oMj5BoInoroayv6cku8Z0KHAEU46XSUnf2U2xYRmNEOCSZWttgRYqVI_eLbIq3_p4FaFoj5lhz84thS0Fm3UX6qGku2MMx4_uUMergdxGIf0zDluDAgMHEhPKCAlxGpYW3fyA8zh5Z7KOtSvjEeXupZ4upmeyyLg6JCAVXcNaTEqh_Gu5HQb6uaKZq7SM8g.jpg"
         }
       ]
     },
@@ -258,7 +246,7 @@
       "date": "2026-08-19T07:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 288,
+      "views": 305,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +257,25 @@
           "url": "https://cdn4.telesco.pe/file/ibAI4EbnUOyKK-Z3SZE-JJSPAVTcSquTqjsr0D6dWL2TH6EPgpYm6gyiCwa9-i1XWhHXpz8DPr0uAQtbNnY53qEWH02IeH6aa6voT64KfuEGrWtt4HSnifIhvIoyzZ3KOS90gprR3mcJaPZOhqqY0QFeBdN13PkOkcfUc5hr3rYEJoZ8RZhVRG4VYESvVlL2MlsYzoFryRAtlo7iQphA-Xq_yIAfAktYkqhU0fhLklnBAKr60f2uSpGDMpYIgoYvT_se74h0KmpgQAe_BjUcsY1MOXqNc6deBUp-po1FbH0wsXxkaOvfIirP0wnSwT8SCa-8jbvEUnOB8lM5KgK7ig.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "حالا این بزرگوار چندان دستگاه‌های مطلوبی هم تولید نمی‌کرد :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبخصوص از نظر باتری.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eولی از هیچی بهتر بود\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-19T18:58:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WwjmvtcuOwgvTLAVUSu4kwNAgXh4BqHLDGNgHUgCzRw9u1oZvVwM2k5jxnlMvxPAxXUozC8a-BQWFWu1O9GnGF8Ot-Z_EYodBd591MXY1SaheKOxbBfzhWnXr02uiiCq30xHlsdzIhVK4gwUBdH4lqQsbtYQNUQELeNHx_ROceZsKztE3tuSKRlF_1i4wm7rIJfOUSivbe_7d4r_oyzQtyrhYKTV0c3KqDHSSbSLoZ_anOehKcsHV50YkF0iFxk9e7-KTdxTHe7lPV8eQ59OlZZ0FWPRwr1XFmt8gUrI5Djqy5nUQ2S6DbdbohKHIGR1h_IYFHKpET8bfLIP327ORQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787163572
+  "last_updated": 1787166044
 }

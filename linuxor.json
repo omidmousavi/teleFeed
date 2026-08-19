@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "رفیق انقدر نگو فلان چیزو یاد بگیرم جامو هوش مصنوعی می‌گیره؟ هوش مصنوعی هیچ غلطی نمیتونه کنه پاشو برو یاد بگیر، اگرم غلطی کنه خیلی کنده غلط کردنش :\u003cbr/\u003e\u003cbr/\u003e2017: معرفی Transformer\u003cbr/\u003e2018: معرفی GPT-1\u003cbr/\u003e2019: معرفی GPT-2\u003cbr/\u003e2020: معرفی GPT-3\u003cbr/\u003e2022: انتشار ChatGPT با GPT-3.5\u003cbr/\u003e2023: معرفی GPT-4\u003cbr/\u003e2024 به بعد: نسل‌های جدیدتر مدل‌های زبانی و چندوجهی\u003cbr/\u003e\u003cbr/\u003eحدودا 10 سال گذشته ...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-18T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "شاید خیلیا هنوز متوجه ابعاد این اتفاق نشده باشن، اما مدل Qwen 3.8 27B با ثبت امتیاز 52 در بنچمارک Artificial Analysis رسماً معادلات رو تغییر داد! \u003cbr/\u003e\u003cbr/\u003e​فقط به چارت نگاه کنید: این شاهکار Local و Open-Weight که مستقیم روی لپ‌تاپ خودتون نفس می‌کشه، حالا درست چسبیده به GPT-5.6 Luna و یک قدمی GLM-5.2 ایستاده و نفسش پشت گردن غول‌هایی مثل Kimi K3 حس می‌شه!\u003cbr/\u003e\u003cbr/\u003e​ما رسماً وارد دوره‌ای شدیم که برای دسترسی به هوش مصنوعی در سطح پرچمداران تجاری و انجام تسک‌های روزمره و تخصصی، نیازی به وابستگی به APIهای ابری و سرورهای سنگین نیست؛ آینده هوش مصنوعی روی سخت‌افزار شخصی خودمون رقم می‌خوره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ callitVer1",
-      "date": "2026-08-18T17:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/q_Cpz9QzzOMCCPBkbPCTttP2dx_LyFkAv8XZClJty4_a7v3V3-DADXwJl5QhTNKnvLR-OeUR4yrzmmz0GGAax2r160pKjDCJxLNw2V6fjcyEMyJhR8U7xuaj9h03nyilLjLq_QR24Gus0ZMDmvJDR_X2r32QDFIoxfjg1PoU5KDV1t5I5rCvRJPJ72zm_zWh1lCB8mYl5G-sdYaQuROMdR9UVD9T7dyVfrdDazQI1HPJV1hs6U3mmJN5KVMrCc2gEPZ3Zl0f3t623YaOcT_V9CWt9kFxgaf6TJGOg2kMbkS8UBkjwz74C1awwl92TT6KAOqtljFPnFW03VTANl3HvA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "پاول دورف گفته تلگرام برای ثبت دامنه اینترنتی .gram درخواست داده.\u003cbr/\u003e\u003cbr/\u003eاگر این درخواست توسط سازمان ICANN (نهاد مسئول مدیریت نام‌های دامنه اینترنتی) تایید بشه، حدود 1 میلیارد کاربر تلگرام می‌تونن دامنه سطح دوم اختصاصی خودشون رو داشته باشن.\u003cbr/\u003e\u003cbr/\u003eمثلا کاربری مثل ‌durov‌@ صاحب دامنه durov.gram میشه و کاربری مثل ‌monk‌@ صاحب monk.gram خواهد شد.\u003cbr/\u003e\u003cbr/\u003eکاربرا می‌تونن وب‌سایت‌های تعاملی خودشون رو که روی زیرساخت تلگرام میزبانی میشه راه‌اندازی کنن؛ فقط با نوشتن یک پرامپت ساده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-18T17:56:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"6046463815531369488\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C99.png\u0026#39;)\"\u003e\u003cb\u003e🌙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003cb\u003eساعت ۳ صبح استارز لازم داری؟ منتظر ادمین نمون.\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5953920838104258011\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e استارز تلگرام رو کاملاً اتوماتیک بخر و \u003cb\u003eزیر ۴۰ ثانیه تحویل بگیر.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل اتوماتیک \u003cb\u003eزیر ۴۰ ثانیه\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445353829304387411\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کارت‌به‌کارت با تأیید آنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5994546448425817915\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پرداخت با TON / Tonkeeper\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312312552976310830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA9.png\u0026#39;)\"\u003e\u003cb\u003e🟩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پرداخت با کریپتو(درگاه پرداخت مینی اپی)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبدون انتظار برای پاسخ ادمین.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبدون ارسال دستی رسید.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبدون پیگیری سفارش.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5953920838104258011\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e استارز • \u003ctg-emoji emoji-id=\"5418026180760604322\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پرمیوم • \u003ctg-emoji emoji-id=\"5224628072619216265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گیفت\u003cbr/\u003e\u003cb\u003eانتخاب کن. پرداخت کن. تحویل بگیر.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/NinjaProShopBot?start=ref_200754993\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای خرید فوری کلیک کن اینجا(تحویل آنی)\u003c/a\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/NinjaProShopBot?start=ref_200754993\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای خرید فوری کلیک کن اینجا(تحویل آنی)\u003c/a\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/NinjaProShopBot?start=ref_200754993\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای خرید فوری کلیک کن اینجا(تحویل آنی)\u003c/a\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-08-18T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-08-18T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vGwSNGnryCAu3cD3zq1YuD95IxHfg72NXolYZYo_qCVSCf4oKEcQeUBfwgFxKCQ39P7l2G-XkE20IIwgNtnYATqflJsGNn3dwQkHzLdb5zTnKEwmhoWfuk0u6Jvm9anEQ4_o75R699uCDTKZlwXPf04SobruID0rzp8J1RChryZT2e_LTeF4gEz55zcdYlKkCgeQKxhmrzeE2ID7W5vOC9jio0cR_sIN-4KDW5M4o0VvzYmZvbIL9cnSY0WipYsXlAmOTPPBQMQ02TR5qymIhyoPFUCDtWEU-QH99daNJ023GGSSBVfvEOm14pBRMyBec9pDHRO0ren--ObMm59cdg.jpg"
+          "url": "https://cdn4.telesco.pe/file/h5PHPMtpbtH9CLV6lLVxHkAU6HWz-0jAZgpp9fPyhkL2_wGPLU6jGkGf2RtpSFmWPbWLWWLZqJaKDuj_9i-x8QEiQo7CFAgsowag9VV1Vx_d8cOadqJyxHH4K4TXoxYaNblr_tLhP-1pY0j1WW17iXQk4O6LVbykUgjZfLvymIfeC8ByI_ZZ1l5eWRT5_lOd3dR_h04Y8LDLkIqcQvvaYlWYZFxJz5qkdYrgPNBW9K6sbmb6sPNH-Fyqt6_E8T2RTbYpveSN93D2sO_8OI0Nek-WXXph_kMyf0Q1DkgH3VAbTF0uQToyPj9cI6ko6n4lGuVIDhWghIGstjVshThy6Q.jpg"
         }
       ]
     },
@@ -90,7 +48,7 @@
       "date": "2026-08-18T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hcApgS3WZVXbL1R6QMIIgwqz8f5iPMbFWCNjrYmsgQ_TNgKrbNdqZfTd5jyGRi8n9qYjhR3gAwPlhJtpdlPDy3d_rV_HyWreC8y8MdaPWyo2CVCo1Gh2HIAlKBl5dLeYFrPCGKkCKcajAR-0aDZBzEwOCR6sF9-j2qk82TUEHCHJjeA3ICMDnLBJQPkMCg4qZWK4_lbr6GgOBimn7T0dXvg0Fy33-iw0zffnQ_NMgtsLR3q6vsg9F1bE2746FICSZ01ka4EmHzZkWEc8O7aXUU5gQ8fjY9LV7sXRuy6-G9pPFL3k7e_ZKiufQW7os3gUywjFryCurmhe0BZFneAjEA.jpg"
+          "url": "https://cdn4.telesco.pe/file/piFdQaTWkNfScLKbcqY83MbMQ5EvdGeYlfEucvWY3WfatlH9gtOdFCCIXKtPbTa49TaFy7RTMO3geUuc-wys1TyD6DG0UYf_HQYn1Eo7EmSzsmc-FqAI8hUnsxEwoSf13tvjDz95mcShSTXNL-wsDG9zhVWSrQ6YGj9HO9OTHmlymwqdG6UCfwWnsSs8GmQSUvOqopytKnXY9SlG3i3ZiUchuEfc9UtUVntenZcOBa25hJ_vunm-dsw5lbKgeFXQUem8Zrdc9nJByOiQk8JwTVp4n6N-LBrAUcBgZI1V5PbVT_r2KAPLwvC0bnP47QleEtufs3NST5QxlHDIYRrX8A.jpg"
         }
       ]
     },
@@ -108,7 +66,7 @@
       "date": "2026-08-18T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
+      "views": 8020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +74,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/OZ-ZkfwIFilAXHC9fwQDffQCeLz5vJZuLvbBP8_mCI5ymIlxgrvECU8l-rKoV0R0eD3JCNRcewXoP9Md4-WVy-xvz5ICs4jGCNSRif7z7Yymjj5FqAmRvTi21x-5GhawV2PhvHVnOiuHPzNLJwQ-q7_GEwoZwNuPUyXNRwnG7X43t-Dd-HlKoDXa_aoIG8XVX1PV-BmPqumpgRoLai8EDnu-VFDzblczin4M-T5101izhMiZa6YGuUSLx12536GHsmY1_PKA1TnlAHnUvVWRIWE6IiW889QLhbFq8ECF76WubaZ5mxjm6UI4WdUR-K5inKmbd0s7d79cwOUTuAeu6A",
+          "url": "https://cdn4.telesco.pe/file/NAhdHq1zBMB88iDsz4DPtxqe__wFjiFgYHFqC9_c0-_8XVRAvOj1jYK4fLGYuDhJm_YZLWoa2SZhvlUwXeXQvihshSqpjPiYD1_Vctya3NCuCpIPPik4NBXbcC5C42WAf_nL0vBtIjOT4q3CIwC6OmJmMITWhcucUu1-8c8DK0rU3HHu34yjAL-afYuch_2lhn6wBVwDGsiuAu_EhBBoFaRjuT-pBy8Es0R8D5Q-S_DV9IOGTbd4ssYu2UQwpH24W3PwqMVSfw6xCN17m9-4mg2C0FPo9b9bZpOEvEboNEwXgMH5ss0rnQBEcT91HfAqta9bWCoqdx4-x909_JAd0Q",
           "width": 1920
         }
       ]
@@ -127,7 +85,7 @@
       "date": "2026-08-19T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +97,7 @@
       "date": "2026-08-19T04:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +115,7 @@
       "date": "2026-08-19T05:07:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 7700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +133,7 @@
       "date": "2026-08-19T05:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7490,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +145,7 @@
       "date": "2026-08-19T10:46:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7230,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +157,7 @@
       "date": "2026-08-19T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 4860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +175,7 @@
       "date": "2026-08-19T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +193,7 @@
       "date": "2026-08-19T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 4400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +205,7 @@
       "date": "2026-08-19T15:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3990,
+      "views": 4330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +224,7 @@
       "date": "2026-08-19T16:29:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
+      "views": 3060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +242,7 @@
       "date": "2026-08-19T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2910,
+      "views": 3530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +261,7 @@
       "date": "2026-08-19T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
+      "views": 3360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +280,7 @@
       "date": "2026-08-19T17:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
+      "views": 3160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +292,56 @@
           "width": 3340
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003cb\u003e المپیک فناوری | ۱۴۰۵\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e سومین دوره رقابت‌های«المپیک فناوری» شروع شد!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتوی حوزه‌های هوش‌ مصنوعی مسابقه بده و جوایز نقدی به ارزش مجموعاً ۶۰۰ میلیون ببر!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003eپردازش داده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e پردازش متن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A6.png\u0026#39;)\"\u003e\u003cb\u003e♦️\u003c/b\u003e\u003c/i\u003e پردازش تصویر\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e تیم‌هاتون دوتایی‌ان، پس با یه رفیق همراه بیا یا توی گروه تیم‌سازی در صفحه رویداد، هم‌تیمی پیدا کن!\u003cbr/\u003e\u003cbr/\u003eثبت‌نام \u003cb\u003eرایگان\u003c/b\u003e:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://quera.org/r/cnngl\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003equera.org/r/cnngl\u003c/a\u003e",
+      "date": "2026-08-19T18:29:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "نمی‌دونم اینو دیدید یا نه Obtainium یه اپ اوپن سورس اندروید برای مدیریت و آپدیت کردن اپلیکیشن‌هاست؛ با این تفاوت که به‌جای اینکه منتظر Google Play یا یک مارکت خاص باشی، می‌تونه نسخه‌ی جدید اپ‌ها رو مستقیماً از منبع اصلیشون پیدا کنه و بهت اطلاع بده.\u003cbr/\u003e\u003cbr/\u003eکلی منبع ساپورت می‌کنه :  GitHub, GitLab, Codeberg,Forgejo, F-Droid, IzzyOnDroid, SourceHut, APKPure, Aptoide, Uptodown, APKCombo, itch.i‌o, Huawei AppGallery, RuStore, SourceForge, Jenkins,\u003cbr/\u003e\u003cbr/\u003eسورس کد و دانلود خود برنامه :\u003cbr/\u003e\u003ca href=\"http://obtainium.imranr.dev/\" target=\"_blank\" rel=\"noopener\"\u003eobtainium.imranr.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-19T18:44:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cX1iAynuKi69m0tNPd0g5H6cj59KMVKaxShJp9p5S7ihDBDq_rXiAImeoxLFISObaBS2YaRxU1IWrWC4KGoBqMiouAh9QwXSyR5KU8nRrKERFDUt2D_Z4QiXz9LQGSFfgukXVzH0lVqToJHhA8FfnTzWxbQfCmw1mfJZlk085aVxhlaC15Xfp63sumHA_ijb7r1TLrTbVhfWdxFVxCpmuVivgwoEk431mCuM3L5JguMaswjXmRIzAP2octQuHtv8ORZlB0S8nT7PNnG4zSSa3eeFvpibVUEB_jNiXOlOCv5A7FiSXWDFBrdg_Jq9BWLwXFTK2NwjaQ8vc-CIRvarGQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "طراحای رابط کاربری چه کارایی که نمی‌کنن این یه کتابخونه هستش که آیکون‌های SVG رو به شکل نرم و طبیعی به هم تبدیل می‌کنه. یعنی کاری می‌کنه که یک آیکون به جای اینکه ناگهانی عوض بشه، خودش رو به شکل انیمیشنی تبدیل کنه.\u003cbr/\u003e\u003cbr/\u003eاوپن سورس و رایگان :\u003cbr/\u003e\u003ca href=\"http://www.morphicons.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.morphicons.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-19T18:59:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 192,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VqhczW93VyF4Y0vNL8bceWDOrMZGirOlx4q7EDbWNQRvvHrrL0V57qi1Xn7MyZquEtI0dLGJcPPtVDnNKYVm5ccmGKVFrrWqkPoeOICVZ_7VQxzjCr0QnyPuimv06uVu7mueMZ_GIvOMm6azx0RmAQ7OjFmzP_9u2O1UVe0rKDv7r7hDf7wueAhD5w276btirYT_qXDS-j7Wvpq87Xv7tdCauTDdgqgxj8fOvrKaKFn1jnbXgcJ0_lFLurRMBAVGjQNcKTQFqMQ8uFAUCNiijHZAn7-OEOvYaGG9tpjeRa8vahA3-XVaYQQIkVq-TPJk3cCeUT6SFRrXAuxopBvwBw",
+          "width": 2604
+        }
+      ]
     }
   ],
-  "last_updated": 1787163533
+  "last_updated": 1787166002
 }
