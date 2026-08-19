@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "همه منتظر مدل های قوی ترن ولی یه نفر با یه Agent Layer روی دیپ سیک 4 تونسته توی بنچمارک ها از Fable 5 جلو بزنه!\u003cbr/\u003e\u003cbr/\u003eبدون هیچ تغییری در وزن‌های مدل، فقط خطاهای موجود در فرآیند فکر کردن (Thinking Process) اصلاح شدن؛ تغییرات کوچک باعث جهش بزرگی در کیفیت استدلال شده.\u003cbr/\u003e\u003cbr/\u003eمشکل از کنترل زمان اجرا (Inference-Time Control) بوده.\u003cbr/\u003eمدل در واقع قدرتش رو به خاطر کنترل ضعیف هنگام اجرا هدر می‌داده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-18T10:31:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Io80KiLJ5-g_oQlzdXuKeXekVYMQO6y-YtLt4jYDOyFW_6bvTFcS38G-z484jwJkj-Bg0LNV-BbjLAfyR3GmPDB2EdIn8o2SiE_alzZ-WnWucfkmBzpKrtIYlxHd6BVBoNW1oh6xBSAbvlmNEYakfQqQitB-rBf4onZJ0Qf7qdETQSLfrlHwa0xH0DkO3n7cVHvQOjKibLwgajjE3SAr4YjF3iKMGEEbf4ggGKSY9NqNmlBjuCbTDX9k-ksxi94wf6JdW_3ca9OKBnMpn6dcA06qQfLKYqJIszBqe48uxNcbFP1VJn1RMvDkzK7Sp8BpFc41bvxAzq1JbrC4w21pXA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه فکر می‌کنید هک شدن یعنی یه نفر نشسته و مستقیم داره فایروال و رمزنگاری سازمان رو می‌شکنه، خیلی وقت‌ها ماجرا اصلاً اینطوری شروع نمی‌شه.\u003cbr/\u003eقوی‌تر شدن ابزارهایی مثل EDR، NGFW و IPSec باعث شده عبور مستقیم برای مهاجم سخت‌تر بشه؛ برای همین معمولاً مهاجم میره سمت آدم‌هایی که خودشون دسترسی مجاز دارن.\u003cbr/\u003eاینجاست که مهندسی اجتماعی مهم میشه؛ یک خطای انسانی وقتی با یک ضعف فنی ترکیب بشه، می‌تونه نقطه شروع یک حمله جدی باشه.\u003cbr/\u003eتوی این وبینار بررسی می‌کنیم حملات سایبری واقعاً از کجا شروع می‌شن و چه نقاطی معمولاً از چشم تیم‌های امنیت دور می‌مونن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://cloudavid.com/join-webinar/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cloudavid.com/join-webinar/\u003c/a\u003e",
-      "date": "2026-08-18T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "اینم یه ادیتور تحت وب برای ساخت دیاگرام‌ها و صحنه‌های 3D معماری/سیستمی هستش. یعنی به جای اینکه فقط با شکل‌های 2 بعدی مثل \u003ca href=\"http://draw.io/\" target=\"_blank\" rel=\"noopener\"\u003edraw.io\u003c/a\u003e یا Visio دیاگرام بکشی، می‌تونی یک محیط سه‌بعدی بسازی و اجزا رو داخلش بچینی\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://icraft.design/app/editor\" target=\"_blank\" rel=\"noopener\"\u003eicraft.design/app/editor\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/gantFDT/icraft\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/gantFDT/icraft\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-18T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GiVkj7HKGny08SgHbRFWxd1zjtHE1EkXIZmqJmhDpGRmUpD9__Ixo9sMnj-kPXJ8IZAEDIRF0ORXPlUOsxJ2Dw01vN-T9p5GTWS6PlO587rTxXQQys12ffxBWqsYa8enivElvfPchtu0iWv3uboDsWnyepFgM1jU3esWPCcgoPQFTFi1Wa7jtS6NXQXLUxf-P5EoAlYg2qq9SVAOGZaeTO0jlwQBxY_WNJVWJBNfltsZaekcbqxWYR5WEZTVNi9kepC-rPEMtvg132jXA6glYJh0kM1T1LosRBYzJ0Sy4UU11CLYH55YwmFU2g0d3e81VNsqDfFtq1_IHsTblcWNmg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "چطوری از این دکمه های شیشه ای جذاب بسازیم؟ (اگه جذاب نیست براتون منتظر بمونید شرکت اپل این ایده رو سال 2028 کپی کنه اون موقع جذاب می‌شه...)\u003cbr/\u003e\u003cbr/\u003eخیلی راحته فقط دو مرحلس:\u003cbr/\u003eیک دکمه‌ی مایع (Liquid Button) بساز (کد هاش همه جا هست).\u003cbr/\u003eیک گرادیانت مش متحرک پشتش اضافه کن (کد های اینم همه جا هست).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-18T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vpEVqys2KDEwV0aiQFfLnwG_ZV9o0QoiJ1pqj45_iKfVz91EtCPhnbOd68Ll_GRPBLtD-gGV35wp6xd0Dsir5_lVAlhniC-ReyfAeLkX95QpT13SwHtod7C3kSNoWSmqAaELfmzzdp_0pPdCR7k6sXQ3DaoBujvLpxfSQITVBwj1KtJuobyrNI0qyKDm8BoaSMJ3cYSNMr9VICI-PECqXdxeUgD0aVeryll1pwCnWdsJDqD2fhhFKAqht7ZKKJS5zkm9XktgooiJEUt2LlcBV6evq2vf3z5a9VRvB3liV-wbucEWCuXR2GPsFICssZ9MbnBTSTBfRK1Eo6EAHDrE_A",
+          "url": "https://cdn4.telesco.pe/file/AtqIGcrAQKZb4D0jYbfnj7zrGFyA_fStVBQZEXhUcU3Kg7zUmmBIAB6cTGb1ghcbm3TC3_VzGDLp36-HxNn86i2VIeYDtI_Y5_QAqq4lArb3YOFh4TygZ3ayevl1ukWH5Wxel1wBLN7wkaoBbWgd4n3Ak5e1_2fbDzxusth5XM8Fi09XLyPmjjEjqtW3CpfYgk7-GCJ8gNVhvmHuBALV_LgndtFyXkUPEwwzL-FagASXoBDKrhuTvohoLQC5LVkTNBrRqdvRr3hX9xP3xmzAy-NLCq1V_6pJb3Gvo4A9ufjeaEpSL5wKg_4VUQrAwFxiWQ74Bvlse1pWSmBXN3OslA",
           "width": 960
         }
       ]
@@ -79,7 +31,7 @@
       "date": "2026-08-18T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/LZ95dhizm6GypgYXzBDYVJ_pVIE3UAoIVjArQPHuSe3pRamTBqqXikjQesTQ7mb7Sy63yeHzvDdZcjdlxgQ4hkpOR65uq5CNxiVVToHyff90HxoiOmD2_rdbxsh2UDiUuk5albX7SVlKMvyNlKSL2Yrsv3YJu-Ie8m05yTkdHrp9CdlJ3M_AB48gkFHxGZxAe8LusGEhmPK2_cPqjARSCfbVDBDOdIRx5SDcmSr4lufnI8juv67sAob1a9rAEUxovOKn53WiVlWsmm5DgVgEcarV49t8zZEhbasdncMTGjI1Yf8dLMd7NLWryqnfwaybstoMCs3SasInXgLGoB-qSA",
+          "url": "https://cdn4.telesco.pe/file/oFW0FrRY50bVC9LwAmbNeHAD6ar1wh3z7igSnHj-InOcJTJd7mtZ43yvfEsLMz4AiMEXTTIFWqMv70ERhqT5CeZ1B9sQUYjDY1Rse2B-QHGIAVjdghZXGKTsZenAwTsGCsgULnYCoGoCS4MRUSfbYDAdKFsQZG8bQjhK3JoiH2bC_EZqHiUrcd_xX5HcVAsfbtz0wZRiF9nacUh7oKMkC0aYHym7tBB19gVJp3H8iSQKOnQ_c-YwrS1alOrk8Yg8lfglHk5rxKoReusMIr3ybO5726mLda4ulCJ6Ricqgk_DaOVlfhSzW3x5TFb80k5_z9Na_sa6i2607Y_Cf6EP-w",
           "width": 2880
         }
       ]
@@ -98,7 +50,7 @@
       "date": "2026-08-18T16:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +62,7 @@
       "date": "2026-08-18T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +80,7 @@
       "date": "2026-08-18T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +99,7 @@
       "date": "2026-08-18T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +111,7 @@
       "date": "2026-08-18T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +129,7 @@
       "date": "2026-08-18T17:56:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 6450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +141,7 @@
       "date": "2026-08-18T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +159,7 @@
       "date": "2026-08-18T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +177,7 @@
       "date": "2026-08-18T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +195,7 @@
       "date": "2026-08-18T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +214,7 @@
       "date": "2026-08-19T04:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +226,7 @@
       "date": "2026-08-19T04:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +244,7 @@
       "date": "2026-08-19T05:07:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +262,7 @@
       "date": "2026-08-19T05:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,12 +274,60 @@
       "date": "2026-08-19T10:46:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 5810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eدسترسی به تمامی خدمات و قابلیت های تلگرام فقط با چند کلیک ساده !\u003cbr/\u003e\u003cbr/\u003eخرید انواع گیفت ها ، استارز ، پرمیوم و رمز ارز گرام (تون کوین) با کمترین قیمت ممکن\u003cbr/\u003e\u003cbr/\u003eبدون نگرانی تمامی خدمات به صورت کاملا قانونی و مستقیم بدون نیاز ورود به اکانت تلگرامی شما انجام میشوند\u003cbr/\u003e\u003cbr/\u003e*همچنین با خرید و دعوت دوستان خود به ربات مجموعه ، از جوایز ارزنده‌ای بهره‌مند خواهید شد.»\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eکانال اطلاع رسانی : \u003c/b\u003e\u003ca href=\"https://t.me/Troy_TelShop\" target=\"_blank\"\u003e\u003cb\u003e@Troy_TelShop\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eربات خرید محصولات : \u003c/b\u003e\u003ca href=\"https://t.me/TroyShop_Bot\" target=\"_blank\"\u003e\u003cb\u003e@TroyShop_Bot\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-19T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O9WK23d3KYP8fWRwaaQDhpKodB3b9ALxLRQ7F00eJbYeTbwddpkK6Ns3c3zoyvJsLl8zLm1Die0UCmRiSiP0G7u0226i_UhpNex9dQDux_aKNlbqpHT3XUcuMHKVxYlchiKiPX5UjoQiG0TYgDrHWRwNKW2hBtP4Wab80WuJgDLuo3aUJWfYK71QpFeKW20q4NgcV8M-CYr-rBeHzaidIqSU5yEUUp_khATUdhsAaSlpo20a4X1s9n_b9cZUvts8ilrKVc7riVaYVqIpChpvqERSlCg7mLLfIcZY7aaQFXRNhO_nAQz1u_kP3nBerfEMcJt4mNH0CGMmYGEQ34HcVQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینم جالبه، میاد و با توجه به شناسه و یا یوزرنیم کاربر سایتتون براش عکس پروفایل متفاوت درست می‌کنه (مثل گیتهاب) و تقریبا هیچ دو یوزری پروفایل یکسان ندارن! برای همه زبان های برنامه نویسی هم کار می‌کنه‌:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://jdenticon.com/\" target=\"_blank\" rel=\"noopener\"\u003ejdenticon.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-19T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/B0cErU82HHPBnJs04z-ZsgUlwnHsDjTfFgEsq7p3m8jFGID72bREp87FKwcWag8kzfnK1F_gk_yL6uCM5IzQUlpf9TOpdwv2R5H8DD_VUiM1G1BcdqMqHqBoa7TuGRhlBZP2BL0AvpY2hDohJZCPXL0TwWL2V76FUyrlgBxv_YZk1uRXcNFlUW-4dGNJak0_o3dUc-KE7qSu_-x5ODEb7XZqoJEHMpAQERbI7Xg4w3TSs2C7kApDgRCOHYLGOS0dX-ZZ-AIlBbUqT3qYvBjrGYtnDaOYrJbc5hwI9Y8TqpWauI835zuZLtb_MRVIkMvtI8ReiMkVESVfHZy9ppnSMg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تو ایران کاغذ بازی و ثبت نام های طولانی یه زمان اونقدر به سازمان های دولتی و غیر دولتی فشار آورده بود که تصمیم گرفتن یه سامانه مرکزی بسازن که فقط توی اون ثبت نام کنی و توی بقیه سایت ها دیگه ثبت نام نکنی و اون خودش اطلاعاتت رو هر موقع خواستی مثل OAuth بده به سایتی که می‌خوای! اما مشکل جایی شروع شد که همه سازمان ها خودشون برای خودشون یه سامانه مرکزی ساختن و عملا هزاران سامانه مرکزی داریم که باید توش ثبت نام کنیم مشکل که حل نشده هیچ یه لایه هم بهش اضافه شده!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-19T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1787148229
+  "last_updated": 1787151586
 }
