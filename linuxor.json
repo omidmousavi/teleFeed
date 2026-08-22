@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این json-render از Vercel یه ایده خیلی جذاب برای Generative UI داره: به جای اینکه AI کد دلخواه تولید کنه، بهش یه catalog از کامپوننت‌ها و actionهای مشخص میدی و AI با استفاده از همون‌ها UI رو به شکل JSON می‌سازه.\u003cbr/\u003e\u003cbr/\u003eیعنی کاربر می‌تونه بگه «یه داشبورد فروش بساز»، «نمودار رو حذف کن و جدول بذار» یا «یه فیلتر تاریخ اضافه کن» و AI رابط کاربری رو داینامیک تغییر بده؛ در حالی که خروجی همچنان قابل‌کنترل، قابل‌پیش‌بینی و امن‌تر باقی می‌مونه.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه این سیستم فقط برای UI استاتیک نیست؛ state، data binding، interaction، streaming و rendererهای مختلف مثل React، Vue، Svelte و حتی React Native رو هم پوشش میده. حتی میشه UI تولیدشده رو به کد React مستقل تبدیل کرد.\u003cbr/\u003e\u003cbr/\u003eبه نظرم این یکی از نمونه‌های خوب این ایده‌ست که آینده UIهای مبتنی بر AI شاید بیشتر شبیه این باشه: به جای اینکه AI فقط جواب بده، خودش interface مناسب برای جوابش رو هم بسازه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://json-render.dev/\" target=\"_blank\" rel=\"noopener\"\u003ejson-render.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-19T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/EB3NhnrkPgvo5cGVuXK7r4uz2L_8XUJ5a-wgNvGXr7X4bW7SmcjYyOAwGxnQsawGOmlN1JH8ohyuHPYc9x0Ipr-3_KLmUgtd04u5a81a8c5tsLqmHNZ9YDXDDhDWylB34mkJVOyI8p2KNv8fCHC4V2m-ZUDJOOT7GLQ_9fKLXh9OE7iK5t4Kuss2-hMhxJ-ZstGlYXBRxOw_uJthjaMZckUdVVSRkyfWgtl82Roq1rqpFh9LTGRnywEL2s5tg4jxq2j1G9zguf4uA7sl5GLX0fl4F3CnKWPUOot_eUlVj5M7RzvI75UnprqZrSedom7Vf0-Uz21p-pvgmyPr2Kt9Hg",
-          "width": 3796
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌دونستین جمنای می‌تونه یه PDF بگیره و براتون از روش یه وبسایت تعاملی زیبا بسازه؟ این ویدیو رو ببینید با ai studio گوگل انجام شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-19T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sC30y2yd8hmcLzwQiM85UDhyQJog2XhZrxP7FUhZ40YS6aJV0bsLEEoiBXx5UaHCgTbaRVzYR8RvmLg8Eviqj_N_PT1CYOjk0WWhLVs4XVeXizm3YoHZwT9KEu0vuH5PFjjs3Q7CiulgaFzOarOcZ5zNGgmV-EWJrzclKCRzieqlFK9Z5sConUBYLYjPBjRuJdpJXeZ_LpZuHY5yXTyNXEmCme4X8ul11p2fvKXV679_Pg77pqc4nB16EYhoysEyU5ziU6AsbPBssIXgJQnVDcHC7ZaXYP3pDza5i2cthlv_JYWNhFHmMjLL4d69Wx70iKkc3Dft7vBIChHVrjkgVQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این سایته هم جدیدا سرو صدا کرده یه ابزار ساخت مداره که با هوش مصنوعی ساخته شده توش می‌تونی یاد بگیری چطور مدار بسازی و شبیه‌سازی‌های واقعی رو کاملاً آنلاین اجرا کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://computer.craftingtable.com/sandbox\" target=\"_blank\" rel=\"noopener\"\u003ecomputer.craftingtable.com/sandbox\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-19T17:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
+      "views": 6880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +31,7 @@
       "date": "2026-08-19T18:44:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6980,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +49,7 @@
       "date": "2026-08-19T18:59:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +68,7 @@
       "date": "2026-08-19T19:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7680,
+      "views": 7700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +86,7 @@
       "date": "2026-08-20T10:16:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
+      "views": 7130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +104,7 @@
       "date": "2026-08-20T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
+      "views": 6640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +122,7 @@
       "date": "2026-08-20T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +130,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/asAGzBNy5ik9QpZmN2KwATh_Ah90J09RMKpZky4vvDTRRqsnNbOJ9AOZ5jzIn2Q-fAHyxU8l2z6WBg9ms1ZADRKrYtmcOYWPK9BjKHHE0ZmNRw_7XwLt0xdymndZlp01CROf93TX-jDuQ4q74ERDOThh2WNopreYbeZkHa2vJyaev6fDe4NYixKWnIC-uFu7YsYR2_y7bAtYVqsyzif3xVbNsODbedN6xnaPdauvIRtPlTyZl4NjTdsqlssKx-S9Sjc6haoSBTFyIsOjTlnOnFu8YFvepcJW2A1o6q9h44Tv--rcphFVg-wRF7V9Mpaa3u9M0nV3juYaznqr1wfr_w",
+          "url": "https://cdn4.telesco.pe/file/gxQmC_-UK1rWX3fJWAprEfm7-QCfH8z83TWBDpP_SVUg6j36SXye6LKblf9BemH4FSZ7yFggGKNM-DpElbo-9TgP9M_8Vpr_Xp_IQCXhnhX14GK2feiVxzAJkHh5S25j6llqDphtgh9bKf1QRmuLR-O6pnw9q5Yr4n0z9LeiRqSx-Ugfk8YCrWDtsbyh7qjOI4JKAf9IsdmGoulSI_12ax4bSFV9NRWg2c5YIPkeqRCPsiiGBKEXxTnyGt20ksts1eS7FUVSJKVccVjJ2-YESK6PELM68JGmeIJnseUGVRYp0FzDOjSPUY0ihYwn7Jxjx_bQcUGPeaxPox6adKwVcw",
           "width": 1440
         }
       ]
@@ -179,7 +141,7 @@
       "date": "2026-08-20T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +153,7 @@
       "date": "2026-08-20T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +161,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/OgZgE2yw37HaDvoKLQH7Ve_UZIhOc-6NHSyYcmgcd-DKQMqiOs4THcSpHfXCNnHQJ_N_O1xgALXdOIoOlm_4wrY_I3Q33coQXHSzDdWKNQswSlAeTyIMQw9loM6DXzC7B5QEo6pQyE9tT0LKMwLARKYsLqmNKXtKpivmBJ8uvalfr1m_YvnPbqCfyBt8Lha6rpAIr77th2MfMaKmDa97AjhfppP2UDBytun3ndtkP_ljWW-nPpVOkwnlAtGLPfO1PTqgvxVmwMKnfYWVk0NeRVoIw_KEzNEVNj3A9IL5pQqQAUVzKN98FmXYjAcoQTyONPADYP-ISwS3Y4Kb9V54ig",
+          "url": "https://cdn4.telesco.pe/file/pX0DqpMJ7ZLRYPenjuQEjRfwhNYqIr4BdLMVNceKzn0ZwbLSD9yuuBfDb21x4eq2t9neKgV332Gn6poCbib8g3rC27NB7uf3_O3JqmXXKVIcu9yvuEGSwjJF8ruAbmcmlqEWa7sr52BOEu-9DaU-s-BodTJKdciueTP1IgE1m63z12AZ9Di5kJdw5QKZhiTZkfhqvjxTjbyOLKIZ4suw6o-pymp-qJ52s8AUGCDZ4veOmljEeEbJfC7E3uGV1t9qAJ3vPxIyXP9GR4MnPBCbJtRIw5sJZC5K1JMl_g2wk1SqEKblwBBqgL6DTaXzARy2--48wQAefGjqiazQAF9cZA",
           "width": 1240
         }
       ]
@@ -210,7 +172,7 @@
       "date": "2026-08-20T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +190,7 @@
       "date": "2026-08-20T16:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 7500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +208,7 @@
       "date": "2026-08-20T17:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 7990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +226,7 @@
       "date": "2026-08-20T20:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +245,7 @@
       "date": "2026-08-20T20:56:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 8250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +257,7 @@
       "date": "2026-08-21T08:59:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +269,7 @@
       "date": "2026-08-21T09:36:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +287,7 @@
       "date": "2026-08-21T20:57:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +299,7 @@
       "date": "2026-08-22T12:11:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2830,
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +311,38 @@
           "width": 2880
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پاسخ به چندتا سوال ساده میتونه تو این روزای بحرانی سرمایه‌ خیلی‌ها رو نجات بده \u003cbr/\u003e\u003cbr/\u003eما در حال بررسی دغدغه‌های مردم درباره امنیت سرمایه توی شرایط بحرانی هستیم. تجربه و نگاه شما می‌تونه کمک کنه این مسئله بهتر فهمیده بشه و راه‌حل دقیق‌تری براش درست کنیم.\u003cbr/\u003e\u003cbr/\u003eاگه چند دقیقه زمان دارید، خیلی خوشحال میشیم، این پرسشنامه رو پر کنید.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://survey.porsline.ir/s/5V8Kw9zG?Source=linuxor\u0026amp;amp;Medium=Telegram\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرکردن نظرسنجی\u003c/b\u003e\u003c/a\u003e (لطفا اگر vpn دارید خاموش کنید)\u003cbr/\u003e\u003cbr/\u003eممنون که توی ساختن یه مسیر امن‌تر برای سرمایه همه هم‌وطنامون همراه ما میشید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-22T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 962,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "منتظر بازی های تنفگی توی کف تهران باشید، این یه هوش مصنوعیه که بهش یه عکس، متن یا تصویر 360 درجه می‌دی، اون برات یه محیط 3D واقعی و قابل حرکت می‌سازه.\u003cbr/\u003e\u003cbr/\u003eمثلا بهش بگی:\u003cbr/\u003e\u003cbr/\u003ea futuristic city at night with neon lights\u003cbr/\u003e\u003cbr/\u003eیا یه عکس از اتاقت بهش بدی، مدل Echo این شرکت تلاش می‌کنه اون رو تبدیل کنه به یه دنیای سه‌بعدی که بتونی داخلش حرکت کنی و از زاویه‌های مختلف ببینیش. طبق توضیح خود سایت، این دنیاها persistent هستن؛ یعنی صرفاً یه عکس 360 درجه تخت نیستن، بلکه یه فضای 3D پایدار برای حرکت دوربین تولید می‌شه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://spaitial.ai/\" target=\"_blank\" rel=\"noopener\"\u003espaitial.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-22T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FOJ5-tzKSntcA-mRM0UrdQHoi95OnzqJWREWlyo5XfgKeSjo9xWYPnL-ETb0xQBnDtCFNPmzjvMNkxFRcmyWRfua95vpvSHQn4LT9JduQF27Yf4gjFplX1xPabMx4vEFxaC0dGW_l4emuerrpY67-1LBS0WS49RXTV_Ki0bZQLqbmJG84RJgi3qiDzKb9ouLpbkW8NwmoMoxBYznUngxWblJaKSHYm035CnXRcRKJuY03HsEDJAMWU2AXulD5nM8Ri88DtCD_wVMzy1YRnFaNspi43I41FgiPDTXiae4DlRT60pxzWrLAvJFXDWrgVAlh9woATl4-T9rSS0I1YTpDw",
+          "width": 3420
+        }
+      ]
     }
   ],
-  "last_updated": 1787407915
+  "last_updated": 1787409876
 }
