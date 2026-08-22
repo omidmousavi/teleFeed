@@ -3,27 +3,9 @@
     "id": 0,
     "title": "j.democraticc",
     "username": "jdemocratic",
-    "photo_url": "https://cdn4.telesco.pe/file/qTaVedHIEFy2dKH8bXFttNYjp65mLW6y20Nr_Q_XFosWCBksDYxPGnWQMOKvurB-dovbT5pugnnJO-T8rwOd4ZB56TNC_UQRbttH_tC6n2qwFWhZUuJesKs8SubP4wohla5NWVmLK9DpEWQG82duqTgnXJvF48C5D3YAdUYP0eqKAuZ8j69v--1xwNSBmk9-5udhATI1gbJcVa1P_5BA2XbjXaFdib5GvV-qlV32ZsfQeH9lQ4Vl8UZpHL66r8OHJ3I-bwl4Y3yX1hUyUy8aEbIMDxoxz8nIuT-9UlzlXdzJtyeDPxTz7knOk3Nq82ULSSTXgaOvD_1vK-MYmZswcg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Cwx2Y_E4VL8SMe8djTZ5gmW_rOi3Fc5Sh2_XbqswQpQcU2-wslborBxFF8ENHYm5HJ_w4mTnvpfRkO0J0tQzl27f-b74okfZMHvhAeij_4emZZJeSRHSNP3FlvOiQLloep-BKg0NNqAIIuyQBWy7yGMs2QBh34XrFjOAeRQ7GjnBLqIthaE6h6o-JErVUOI_jqNnb25HPGgbUFjf81Vfgomn9bO91D7sfnDySFDAP3LCJtOCvr1cHxhRQStta8kPvIcRJDYDxq9XlFnkUaOYIoWXmY6ZRvUwNkmhcW7E0kiNpnCV0n1C1fRvvB9-z5c4CiZAXxbMSjKrJDhCdH-tOw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "هنگامی که از میرزا رضای کرمانی  پرسیدند به چه دلیل ناصر‌الدین شاه را کشتی پاسخ داد: \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدر کشورم این همه ظلم و جور و فساد می‌دیدم، با خودم گفتم اگر شاه خبر ندارد که وای به حال مملکتی که شاه آن ایشان باشد و اگر شاه خبر دارد پس باید ایران را از دست او رها کرد و من از این اقدام خرسندم\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jdemocratic\" target=\"_blank\"\u003e@jdemocratic\u003c/a\u003e",
-      "date": "2026-08-13T10:11:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "j.democraticc",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h8Yylf3AGK7jTBX7Y5Ah5CrD5iUw1FydWj_cAtUYQ6kQIBrBd1NNeLj-zewn5ntHra_1aKBuJq-zNvR-xhCYKDwt-x1TGhhnxZ67ExD9NdDLDzFTJpe4xUsNOCZJeyrUUJODXAYAlu7Oc1xsWw7IhQS9DicoCwYOSxYPVfpzSYIOFQfXirzUdkAAx7WUeHAK8-srVlCMMQij6vgm6XGXhVlhQtXc3cyGRzKKjwsd6lqgv0_GfFwkNIBIQ6SxiTmawMEnZLRt8rHoXOEwAUhvlBJB8NCcXbWzHwrngT5QKIiqxMH-GgNqANZP7b4cW0MrEF-c0aBr1cbk1obH4PEBwg.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "لغو اعدام در لبنان، پیروزی بزرگی برای حقوق بشر \u003cbr/\u003e\u003cbr/\u003eپارلمان لبنان روز سه‌شنبه 21 مرداد 1405 به لغو مجازات اعدام رای داد و آن را با حبس ابد همراه با کار اجباری مشدد جایگزین کرد\u003cbr/\u003e\u003cbr/\u003eپارلمان لبنان با لغو مجازات اعدام این کشور را به نخستین کشور عربی خاورمیانه تبدیل کرد که اعدام را برای همه جرایم کنار می‌گذارد\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jdemocratic\" target=\"_blank\"\u003e@jdemocratic\u003c/a\u003e",
@@ -273,7 +255,19 @@
           "url": "https://cdn4.telesco.pe/file/WXx5dEQ40Ctd7zCoh4Q_czjZB9d4Tim3rWeuXEmkNEXX1dzTuHNyKnJhceSqkAnEvLwWYVpdTmfEGMhHu2gAfwKmoRkkyEdFjpulwrogv-18WzCK12EH-FigqELG7HSUxC0OLO6S0LAQLH6o17wEA1Wa0eOvM1yTdRlGVpqDMr8Wfg9KDzG2lImCJkLQ8YdHyNjRCsWU5HAUvB1vfnRuYW9vdWVzHpEkzRlV42gXHVFWKzl9ilcUwfHbjtCwaUrQG-dNBaoWacaeI6sRQSNfPpD8jJr-s9CRKwg2WghZH0GZH5ydUGnYECDyPiGlT3YjcUH3VmwR5J2mW5wlrW9nZA"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "بیش از 600 زندانی سیاسی در زندان شیبان اهواز\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدر پی موج گسترده بازداشت‌ها و جنگ 40 روزه، بیش از 600 زندانی سیاسی و عقیدتی در زندان شیبان اهواز نگهداری می‌شوند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e185 نفر در بند 8\u003cbr/\u003e120 نفر در بند 5\u003cbr/\u003eو بیش از 310 نفر در قرنطینه این زندان محبوس هستند\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eشمار زندانیان زندان شیبان نیز به بیش از چهار هزار نفر رسیده، درحالی‌که ظرفیت آن حدود دو هزار نفر است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e بخش قابل‌توجهی از بازداشت‌شدگان جوانان 18 تا 25 ساله از شهرهای اهواز، شادگان، ایذه، بهبهان و مسجدسلیمان هستند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e بسیاری از این افراد به وکیل دسترسی ندارند و جلسات رسیدگی به پرونده‌هایشان داخل زندان از طریق ویدئوکنفرانس و در مواردی به‌صورت فله‌ای برگزار می‌شود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e شماری از پرونده‌ها در شعبه اول دادگاه انقلاب اهواز به ریاست احسان ادیبی‌مهر معروف به «قاضی مرگ» بررسی شده‌اند\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e اتهام‌های مطرح‌شده علیه بازداشت‌شدگان شامل «اقدام علیه امنیت ملی»، «جاسوسی برای اسرائیل و موساد»، «تبلیغ علیه نظام» و «عضویت یا ارتباط با گروه‌های مخالف نظام» است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e برای شماری از آنان احکام حبس 5 سال و یک روز تا 20 سال و یک روز صادر شده است\u003cbr/\u003e\u003cbr/\u003eصدای زندانیان و بازداشت شدگان اعتراضات باشیم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jdemocratic\" target=\"_blank\"\u003e@jdemocratic\u003c/a\u003e",
+      "date": "2026-08-22T13:52:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1787406594
+  "last_updated": 1787407933
 }
