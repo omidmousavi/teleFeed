@@ -8,103 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "داشت یادم می‌رفت این موضوع رو:))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eولی واقعاً اگر تلگرام اوپن‌سورس نبود کلاینتش الان این‌ها هم وجود نداشتن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبگذریم، پیشاپیش لیکویید گلس شدن ایتا و روبیکا و سروش پلاس و سایر بستگان رو تبریک و تسلیت عرض می‌کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-14T18:31:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 895,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "فروم پارچ با طراحی جدید پارچ به‌روز شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003eforum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای مشارکت در این پوسته جدید فروم پارچ می‌تونید مخزن زیر را فورک و سپس پچ‌های خود را به صورت Pull Request برای ما ارسال کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/parch-discourse-theme\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/parch-discourse-theme\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-15T09:05:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 833,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GlL8ksRJ0DDf-7jIh_vb1YGM4IWsPW2w6R-1FeX7ZjoiYQJ-vl5x9TJ9sHmdahXse1pMDHsEwkrUPfK7nO3fB1HPTac4fwENNC_gMFdPAuNU5ZQGSNxShHh_sH0c42hzN0s3YdqehzwbpAD16-7KwKuxLlnPaG35TrN9TT_wIlSJe0vV98owYVGRtPaHCBIieuxuRIy6W28bBUeIEe5kEjOs37JTH5Afce3HybZf3571RaiP9ZZYppop21-xaiL0tfGextZo_sLLThVagx1lvNh8eY5L8LIRezr3PPzWmBOm3v2z8N01wk9_Lt0xw9YzfKKkBnTJtRxTkDFGE5pUFw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به‌عنوان بخشی از پارچ لینوکس موبایل و پروژهٔ آپادانا، در حال ساخت یک نمونهٔ اولیه برای یکپارچه‌کردن برنامه‌های اندرویدی با لینوکس هستیم.\u003cbr/\u003e\u003cbr/\u003eهدف این است که کاربر بتواند برنامه‌های آزاد اندرویدی را از اف‌دروید پیدا کند و مستقیم روی وِیدروید نصب کند؛ بدون دانلود دستی APK یا استفاده از ترمینال.\u003cbr/\u003e\u003cbr/\u003eبرای این کار \u003ccode\u003elibfdroid\u003c/code\u003e را می‌سازیم؛ یک کتابخانهٔ مستقل برای پردازش داده‌های اف‌دروید. روی آن هم افزونه‌ای برای KDE Discover ساخته می‌شود تا نصب برنامه‌ها از طریق وِیدروید انجام شود.\u003cbr/\u003e\u003cbr/\u003eکتابخانهٔ \u003ccode\u003elibfdroid\u003c/code\u003e مستقل است و در آینده می‌تواند در ابزارهای دیگری مثل GNOME Software هم استفاده شود.\u003cbr/\u003e\u003cbr/\u003eکد پروژه بعد از تکمیل در گیت‌هاب پارچ لینوکس منتشر خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-15T09:50:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 864,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BIzwdWFk4XBrC6gMkyc306ISVXfnAB_0mylWisXJAaaJZn_IWPGDis5iG57oOUuzbM7GGv2UiW75tPd_8vHFDGidiUicoO4wYy8tMnxnTBc5ZWDsXE8aCZInf2WcKCy0-TPDH7aWu4d0JOnTye9rNRDafpRil0kc_Y1N709j_rM_gH9O-omjHP4x6AFnPM4O84VDr-azkyoASXLF7EdcHNi0FOwMdWzyR_YPPcWGGShHSqGu8Dn_dgjVyahC-ppgCgwy1uNZCFXRJhGtZDGDhGO2xzVWHZIB-jMZNH7s07h4_6UMIFlQVhFWOh6oZufQl0UKVp_oxfzeYYZKKRPkHg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qmuOTweigeYv0yjimk_L8j3kmkjDSD-IB8F0cUxDXxNHwEGiqSN9cbNK9LEfrBBSrUkPzKiWU4aXvtfHSwENRIfbg5ushwfxWc8OGHoum5iOEWxwxe-gcMltbenJ6b8K4ICwyXmMbq_Xf4EdlEe_RhOseJbSGPj7wmYP7WkGFfyGvwW6bqF61uITkdwX6wC4-e0L73Ot9txhJgbRuzbJ2tvC6NhIsso97ClqjLVaVz9F5v6O2CqRvygJ8bV_OhdAfr7gf7rNp_b99VI5k7TNmLF91S-rPinSxe_93UVjxWxBQx86m3_EsQuj_FbjfoY6UbFrWdUTYcOPrbX2rYoNHQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به گنوم سافتور هم پورتش کردم.\u003cbr/\u003e\u003cbr/\u003eاز اونجایی که اول داشتم برای کی‌دی‌ای می‌نوشتم اکثر چیزها رو مجبور شدم توی libfdroid توی سی پلاس پلاس بنویسم؛ بعدش که اومدم با روش hourglass اون رو توی سی فرو کردم (گنوم سافتور با سی عه)، نتیجش این شد که گنوم سافتور به صورت رندوم زمینی راهی سمنان میشه و کرش می‌کنه :)))\u003cbr/\u003e\u003cbr/\u003eولی حداقل اپ‌ها رو لیست می‌کنه که این یک پوینت مثبته.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-15T12:17:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sVWkbo5QNcb-RYX69p7fLOa0UgsykmizCRQiOMhpKeAVZ89__ZfQoguBSrr0rESqULuUWwDaeZpCbr7iTsG1FteigCkhCufjHZ_T26bhCNKW_2pXJ_qNYCqF0fy4z-XyY2hYCsE9adrVYmXVbzy5aXU-YRRlbDPqUa5vhdcCdrchM1ICzRu7pD72asYdrno2fbTLpjkb8Xw1SNmURSlyPWiTcgy1DErKFHO9fpaZK-qiTM67KPv8Wl5QoGS32ILRvWsPt_NzoslsbN4CZuw9Xv6MpeZU77Ne9VryH_bC0VSD8y8846rXuXOnKnlL1S_o9jZmXd_v3u4j9O4IMEwx6A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dk-URi-r98rqgHAK_8KFuT3K8YYS_wmibxdX7QiCNGaA71Yt2rmwXF1jwtX78WEbiw3IjLeM2Aen4Z9CqyCcpkhGN262YPOyybjhE8Rh_7Sa3RV_7w_CTmBr7Ekj3fYr4wXR0EFxaJOBi00KG6bF17B25mHwNjIdsob9fViOoPKRfrVsW2CKZopQrR6nGlNwTZSxB7qZvjX7JeWIm5fhXHkUGjYEtD5qaIqAU9InGBOnPqyFu6mTPY3PrDZJYNXc6Ps3OBzXFr0K1YOEOyo-5Ramc9_QSaDT0f2p47QO9Pz0gCc6vzytwQb0vqbVTMItyTvqayP9fDQ1kPaDLaPg5Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اسکرین شات و آیکون هم به libfdroid اضافه شد.\u003cbr/\u003e\u003cbr/\u003eخودش رو تا شب یکم تمیزتر می‌کنم مستندات رو بهبود می‌دم و درنهایت هم می‌ذارم روی گیت‌هاب پارچ.\u003cbr/\u003e\u003cbr/\u003eولی دوتا نکته هست.\u003cbr/\u003e\u003cbr/\u003e۱- این یک PoC عه و تکمیل نیست؛ نمی‌دونم کار می‌کنه یا نه چون حجم اینترنت کافی ندارم که waydroid رو نصب کنم.\u003cbr/\u003e\u003cbr/\u003e۲- اگر مشکلی دیدید توی کد که می‌تونستید حل کنید لطفاً PR بفرستید؛ اگر هم نه یک issue باز کنید و بنویسید که کجا مشکل هست من بررسی و رفع کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-15T13:07:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FF8qOBFdymzNetXbBKVN9VF9n0oqxg2Kcvf7f1WvWgk2odRzjEjE1NV6lPtMjaYjqf32jMMb832-qd_OgIWRz9gu-DzQ63d2ps-RKpomCLYVdUoNWoWMlRfgjmPgGk9u5CO45EOwi7F2XAAPF551v_LGpHrL--z15aR_W9IH5_kg0LLOBy0VLi9tZwwF_cUK2FP7hpmDo19hNjl-QZvIIrv0rcWhVwlR-Yc-Jrni8r2wbxuB2T8UXJJ8r2zwxPKta95A1GEZjQLHbu-WRTQcbzZvoPSpvyHp233rlfFLKxOpobpeaFZvjBtqL3_jf2Rsyy0LAoVxPNFcGekKgnJiKQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "بالاخره یک به‌روزرسانی کاملاً بزرگ برای فروم پارچ انجام دادیم و یک پوستهٔ جدید با زبان طراحی پارچ براش ساختیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمی‌تونید لیست تغییرات رو از این تاپیک بخونید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/topic/1150\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/topic/1150\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eیک نکته! :)\u003cbr/\u003e\u003cbr/\u003eانجمن پارچ \u003cb\u003eتنها و تنها\u003c/b\u003e متعلق به پروژهٔ پارچ \u003cb\u003e\u003cu\u003eنیست\u003c/u\u003e\u003c/b\u003e.\u003cbr/\u003eشما می‌تونید با توجه به دسته‌بندی‌های موجود سوالاتتون رو درمورد همه نرم‌افزارهای آزاد موجود (آرچ لینوکس، دبیان، فدورا، مانجارو و.....) بپرسید.\u003cbr/\u003eیا حتی در دسته‌بندی کافه پارچ بحث خارج از موضوع داشته باشید :)\u003cbr/\u003e\u003cbr/\u003eما از حضور همه اقشار در انجمن پارچ حمایت می‌کنیم و به افراد فعال و پویا در انجمن به صورت خودکار دسترسی‌های بیشتری داده میشه.\u003cbr/\u003e\u003cbr/\u003eفروم قابلیت گفتگوی صوتی هم داره، که میشه در اتاق‌های صوتی هم گفت‌وگو کرد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه امید ساختن یک انجمن پویا و به دور از حاشیه برای نرم‌افزارآزاد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-08-16T07:14:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +30,7 @@
       "date": "2026-08-16T09:07:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +42,7 @@
       "date": "2026-08-16T18:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9350,
+      "views": 9370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +66,7 @@
       "date": "2026-08-18T13:27:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 764,
+      "views": 772,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +88,7 @@
       "date": "2026-08-18T19:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 761,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +106,7 @@
       "date": "2026-08-19T07:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 661,
+      "views": 673,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +124,7 @@
       "date": "2026-08-19T18:58:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 830,
+      "views": 834,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +142,7 @@
       "date": "2026-08-20T15:51:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 783,
+      "views": 795,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +154,7 @@
       "date": "2026-08-20T21:57:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 651,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +172,7 @@
       "date": "2026-08-21T09:43:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 783,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,12 +184,62 @@
       "date": "2026-08-23T06:24:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 459,
+      "views": 497,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "من امروز کایرو ورژن ۰.۳.۲ رو رلیز کردم روی گیت‌هاب.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچه تغییراتی داره؟ \u003cbr/\u003e\u003cbr/\u003eروی نسخه ۲ من پنل ادمین رو اضافه کردم و حالا پارسا هم زحمت کشید و یک سری تغییرات داد مثلاً الان خودش می‌تونه برای دامنه یک سرتیفیکیت بگیره؛ همینطور زبان کانفیگ رو از json یه yaml منتقل کردیم برای راحتی بیشتر در استفاده از کایرو.\u003cbr/\u003e\u003cbr/\u003eروی پنل ادمین تغییرات زیادی صورت گرفته از نسخه ۰.۲ که اضافش کردم. پنل با ری‌اکت و vite نوشته شده و با bun کامپایل و در نهایت امبد میشه.\u003cbr/\u003e\u003cbr/\u003eشما الان امکان تعریف یوزر رو دارید؛ یوزر ها می‌تونن api-key خودشون رو داشته باشن و حتی دامنه درخواست بدن برای اضافه شدن به لیست دامنه‌ها مثل شکن و غیره.\u003cbr/\u003e\u003cbr/\u003eهمینطور ادمین می‌تونه نظارت کامل داشته باشه روی یوزرها و یوزرهایی که می‌سازه رو محدود کنه که چه تعداد درخواست در دقیقه مجاز هستن بزنن و یا چند آی‌پی می‌تونن اضافه کنن.\u003cbr/\u003e\u003cbr/\u003eهمینطور درکنار حالت قدیمی که بود؛ یک حالت جدید اضافه کردم به اسم دایرکت که این حالت کاربردش اینه که بجای اینکه آی‌پی vps رو برگردونه میاد و واسط میشه و همون ip که با \u003ca href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.1\u003c/a\u003e یا هر dns آپ‌استریمی که تنظیم کردید رو می‌گیره و به سمت شما می‌فرسته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-23T16:49:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 143,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SYHVFrgC2rnSOl7IyIjb9tgz3EkUJW77HIo2nsDmPSqp2z-iaPqpLGoMTYF9gky9fMn3395-toF0TVu3DF7DkYm4U_gA2OjJM9P5adSSZNcVghyktJPifiAiHdmbexBIjDxK9nrMoYkurGvpUWK07Ls84P0FH3ZSrsqS59AajZBEpMgUZAUTjl4pk1m_jvmBZnsqqctcXRO4NIBP4NbxyPCkYp2yJuOtVfvMhTi5IDgoi2gD1i51IyB7NHp6L5O-dXbNrmgRn5L0n39u-ADLTov79O6jjgMIj_kMH-Hte8bDM6l7Vq0x9GulZ_Z1NH-VahoFfY3gAxsBKtsoYPTtsw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DZR5Pt9S2Hp-WcZhQZogXZVKAYrJyqMUI1OnU5Gyiw7kCnJLRck1O-1NIWq78D9B-kq1uuFXaaVv7RbQPV6T0C8ndUCYtn6YAAET0y9yxeLHJPDyv-XWrgtt_0Wb9C-G6AynJR-qHudaPUzitpCCITh3KG89T3RG5VadNpDRh96sFhn0Bb5F-xxZ3tqgLa6qOofe_4_LqHQfmSpvGq0BWYBwjYjmC8MoAV4JtyBqKSpr6xiR8JErnx4V6TVTOGGF4nKoyUdzQ7NPcAzXaBBIMFN47Ll79VVeCAC71X8ivQ4Jqz5ndPGV5kEAmeaFabFrdo5CSkVGLxbWZc2g8ps4Ow.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/d0o53YL70Uu9DF5mVLGZdNcSe8AMjb5enLgFoXifobo15OcrnqKrSDxLlHXp8Q-LAK-Anld38uQwaOZRIAdNNlGV-520QX3nX_d2wbNdBNHGWhxyd574gS8hn9NGDH80wyrfwDcQfkBw7WBkihkk0hTYQltAZhKnDlcPBpbx0tmEQmwecfSPSBzFgfcHmiOxYbYwcFZu9mOO3Z2hzw1TLXjiQ2DnLXDvu2erbAXZmsh3zTzIg81KZX5SZp4glF7gp64vldTi28m1gPT6nqUrxyjy1HGYiRMJvXtIKfNH7ij9ZqQFLJvaD-ygxsEgAL67fs6nQn78KnaPHJqPVjTKqw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nKLc2HnQzaW5Zln_DImjoHgE1HUPHFEN97X5p7y4OM2oI_fO229ji-_SJipG_8Clvv5MdLgG7E_35IxULgenzYS1n9xGkgE4YRSobmr-zf3qoDJHJQvmdMOUTkR786d0EJAyBqVDbssZ2XcFZxylJMkVYGJA07wi1MTfHgXM_03qWDdRxVBZG3a9CicN0Lll-tlEZVnTrmv1PEMRZNddUlceT2gNIQOV15fEbG0OLEEJxnv_H0GJwR1M0HNoQKhF3oUdUpvDnHGXks_Q_JPrMNk8nh90qHFfR9M0fAHYwC60YBVtM5xf4sHwNMwCr3-l6so42yHOPClzZLhnLqRRcA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OLVDn2-pWAql8X8j1NU5ANRnCQzywtIhfYOt_8DtZF118-K92KHHtocBTa8ywJ8SfKXjIOniIE5pEWT0iK6Hs-zodqU_klNUw5dT02rJPqk-6sjGGXzF7AcjKT5BRkX5gXSMIdcZWemTxcdT-5WaQWsFtG7Z5KcB5N01kyHbnrlYIAXNATtfmRvTWUhe47Dv9cbXHbGjweZG9wPw2NEhVTlxVfSmXZ4ncSNqz8MJpXdat5o8rYVyTPHT8FktKEiVnDzMFLGKDejFj3Em-_F619-9kb4JBNJ9PZYkIBwYQLlJBbqsU-cOjXuBLD3zpFVQmooFD6D8J3glnsWGjlEeDg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kPdp3yejESQmo6HMQXNMp6vc2Q27BL60NkvXQdOHD3TFYtNcQ7Y43vS5AG-PnKSZslRvILhQEbQPPkw4TwQp_QhsGpRntc4v2rlfmhCMrwAwlOZBvnXZYJWv0p8ScvPmih9L600C1qC8su2dSjUSpHdAbNcxG6UwUrWWCsY0XpqvcUhjiqr5YMH2494YFvn8JF4bSMcOvT2d0v3lf6XsIPOEZLcKS1DnqmGucz68pkIr414cfhLPMjGa8FhgYdU9HJDhbvAtXkhobu0T9ijWsqE6JXzY-XWZu97ppI_9F2nkmtMf0SAIEVIgSb_3aR1sOSty83KshcHuQdUVJbeBpg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ادامه لیست تغییرات:\u003cbr/\u003e\u003cbr/\u003eحالا این حالت دایرکت چه تاثیری داره؟\u003cbr/\u003e\u003cbr/\u003eبرای بعضی سایت‌ها مثل یوتوب که هایجک میشن و \u003ca href=\"http://10.10.34.35/\" target=\"_blank\" rel=\"noopener\"\u003e10.10.34.35\u003c/a\u003e برمیگرده اینجا ایپی خودشون برمیگرده بخصوص در DoH این یکمی اهمیت بیشتری داره.\u003cbr/\u003e\u003cbr/\u003eدر آینده احتمالاً برای اینکه بشه راحت‌تر بعضی محدودیت‌ها رو دور زد بهش xray رو هم اضافه کنم.\u003cbr/\u003e\u003cbr/\u003eلینک مخزن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/kairo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/kairo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر استار بدید؛ مشارکت کنید یا دونیت کنید باعث دلگرمی هستش :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-23T16:51:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 134,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1787503762
+  "last_updated": 1787505188
 }
