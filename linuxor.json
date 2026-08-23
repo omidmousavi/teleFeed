@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینم یه منبع فوق‌العاده برای کساییه که عاشق ترکیب هنر، الگوریتم و تکنولوژی هستن \u003cbr/\u003e\u003cbr/\u003eاز الگوریتم‌های تعاملی و Generative Art گرفته تا ابزارهای ساخت SVG، تبدیل عکس به طراحی خطی، بهینه‌سازی مسیر قلم و کلی منبع برای Pen Plotter (دستگاهی که یه قلم واقعی رو روی کاغذ حرکت می‌ده و با کشیدن خط، طرح رو ایجاد می‌کنه) و Drawing Robot\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://drawingbots.com/algorithms\" target=\"_blank\" rel=\"noopener\"\u003edrawingbots.com/algorithms\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-22T18:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WvfXBiNjOZecPdPGeu0zw7qW57twNxcFf9gqKZsplzSQcO697WGmoecev4kq0dhWR32KR-qHfyq6FY8Y0ZgQts9zVjAhlTDx6WeqFO_Il4do18Li-ghezPVi7GEohePL-IjPH_uqupY1twFaiblqm0APn3C1FiQ_fubhasBNa0zS_jB9BYgOyXQzN9OSZ7W9MHbvvGqXb4nMt2owZ9YLi75P-95LdMv-6XXlXB_kTr6JTLsJZ5rCqMldpSeN1raFx_7azzBH0Tt2RzlMGMNYVv_AaG7yy71houJXw31Amsm2epVBvhAZP7CV6Pg4-fqKRyD8niKZD7OQjBhohpPeTA",
-          "width": 2546
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه مجموعه جذاب برای اضافه کردن micro-interaction های نرم و طبیعی به UI؛ از انیمیشن‌های فنری و bounce گرفته تا حرکت‌ها و transition های کوچیکی که باعث می‌شن رابط کاربری خیلی زنده‌تر و حرفه‌ای‌تر حس بشه.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که فقط با یک دستور ترمینالی می‌تونی چارت‌های خوشگل و interactive رو هم به اپت اضافه کنی؛ بدون اینکه از صفر بخوای همه‌چیز رو بسازی.\u003cbr/\u003e\u003cbr/\u003eدر واقع ایده پروژه اینه که یه سری interaction و animation آماده داشته باشی و هرکدوم رو خیلی سریع وارد پروژه‌ات کنی؛ چیزهایی که معمولا جزئی به نظر میان، ولی تاثیر زیادی روی حس و تجربه کاربر دارن.\u003cbr/\u003e\u003cbr/\u003eاین پروژه کاملا اوپن سورس و رایگانه :\u003cbr/\u003e\u003ca href=\"http://amicro.vercel.app/Anime\" target=\"_blank\" rel=\"noopener\"\u003eamicro.vercel.app/Anime\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-22T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/TtLT_ArjV1B8jS0hqtTQB9bgLxNIk9AxGokV58thyT3_LTyKgt8QZ2PjONx_RsMm3RU2EOKgPaEsHeu8tAbg_2_HakrK_Oki1PEU9jnYnSmSL3XX929TjDzYY5M1G9FrKTJsBb7B_UbMT1yqFbCr_wI1-f4j94FFUUYzBL9TyskAFdangeQ5ymjgkw4Fo24St1u16YL43fBTUvJPOpocZzZA2Aj0yCfrDnmZwH8Ia9OM6f6ZvktpwjdIbvcngKIUuH7gsNbkk9Jv5b0Pr0rPcu8scym42TZgxcKjsK52-Nb8tuG69kqBHBYrbC5QVPmmleAmg-LLPAxdJ_-kZH2vUA",
-          "width": 2536
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "در کمتر از 48 ساعت Ox Alpha تبدیل شده به یکی از بحث‌برانگیزترین مدل‌های ناشناس این روزها.\u003cbr/\u003e\u003cbr/\u003eمدلی که بدون معرفی سازنده روی OpenRouter ظاهر شده، کانتکست 1 میلیون توکنی، ورودی متن/تصویر/ویدئو و فعلاً دسترسی رایگان دارد؛ اما چیزی که بیشتر از مشخصاتش سر و صدا کرده، عملکرد آن در کدنویسی است.\u003cbr/\u003e\u003cbr/\u003eدر تست‌های اولیه، Ox Alpha حدود 80% گرفته؛ بالاتر از Fable 5 و GPT-5.6-sol. البته این اعداد هنوز آزمون رسمی و جامع نیستند و بخشی از تست‌ها نمونه‌های کوچکی دارند.\u003cbr/\u003e\u003cbr/\u003eاما داستان اصلی: این مدل مال کیه؟\u003cbr/\u003e\u003cbr/\u003eبخش بزرگی از حدس‌ها به \u003ca href=\"http://Z.ai/\" target=\"_blank\" rel=\"noopener\"\u003eZ.ai\u003c/a\u003e و خانواده GLM اشاره می‌کنند؛ از شباهت‌های توکنایزر و رفتار مدل گرفته تا برخی الگوهای خروجی. حتی بعضی‌ها آن را نسخه آزمایشی یک GLM جدید می‌دانند.\u003cbr/\u003e\u003cbr/\u003eدر طرف مقابل، عده‌ای می‌گویند Ox Alpha نمی‌تواند چینی باشد؛ چون ارائه‌ی حجم عظیمی از توکن رایگان برای یک هفته، با چیزی که معمولاً از اقتصاد مدل‌های چینی انتظار داریم، چندان جور درنمی‌آید. حتی فرضیه‌هایی درباره Microsoft MAI و چند آزمایشگاه دیگر هم مطرح شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ callitVer1",
       "date": "2026-08-22T21:05:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8610,
+      "views": 8670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +24,7 @@
       "date": "2026-08-22T22:33:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +36,7 @@
       "date": "2026-08-23T05:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 7330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +48,7 @@
       "date": "2026-08-23T07:45:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +60,7 @@
       "date": "2026-08-23T08:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +78,7 @@
       "date": "2026-08-23T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +96,7 @@
       "date": "2026-08-23T09:00:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +114,7 @@
       "date": "2026-08-23T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +133,7 @@
       "date": "2026-08-23T14:50:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +145,7 @@
       "date": "2026-08-23T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4140,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +163,7 @@
       "date": "2026-08-23T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
+      "views": 4390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +181,7 @@
       "date": "2026-08-23T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
+      "views": 4580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +200,7 @@
       "date": "2026-08-23T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3730,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +212,7 @@
       "date": "2026-08-23T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3310,
+      "views": 3830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +230,7 @@
       "date": "2026-08-23T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2170,
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +248,7 @@
       "date": "2026-08-23T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 3010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +266,7 @@
       "date": "2026-08-23T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 2700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +284,7 @@
       "date": "2026-08-23T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 97,
+      "views": 2290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +295,37 @@
           "url": "https://cdn4.telesco.pe/file/BRKT71aw7yNXMVvT1YKIXY-QgYbQ5q3I5atLbM_yGFIZHiNen565WwsixzsyR2OhjijC9Z1JMmxvlpDLhhSmpkIkVns4XPGP4Jq1Roh-S72oMwbiGNesHS7zgpauiYkmJXed-FZGPngzwrxu7ZKkrh__yJ8CQL9lyVPews4KyJ0H6x-OJVGbahwJOkGdxGsJ4iTkpjVUp7VxIgwy-Bdfek0yKtqHaQr9Yt0e7YnW8dPpK1JU1R09XB0STRmkuAqHIhtpyYYz6zG7TR-DFYy4NGUv64QJLHwHg7rEVFTEyl9FH_B-ZmZcePU70EeSH9iZs9u39ukIR-LMMfuT10aQ9A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه راننده تاکسی بشم 2:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ راکستار الکی داره میگه یه هکری اومده و GTA-VI نسخه کامپیوترو دزدیده و میخواد خودش زود تر نسخه کامپیوترو بده بیرون چون همیشه نسخه کامپیوتر دیر در میومد بیرون، از طرفی هم با پلی استیشن معامله کرده که الکی بگه نسخه کامپیوترو دو سال بعد از پلی استیشن میدم تا پلی استیشن ها فروش بره آخرش هم نسخه پلی استیشن رو میده بیرون هم کامپیوتر کی بدش از پول میاد بخداااا\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-23T19:21:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-23T19:39:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 602,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NsIowBP78HkTaIbszNaMNGYMfydYRdIlw4jY9Mb6GcwaJaUWu-uBnJ_6-fqQBl13wHyaFL1LWWbwNAJzRa_buunhcZJr4EQRejQ2c8sZW3XrhkpsTri4HTAOX9v27JUcrWc_OifWllMspxxPGWqCiz6AfP5sHTceaIMfEn5zbkeB5hvlOzvtRHF1WF46drE_HE6wwxjOiSv_WNaQb4VHjDmHhYoVR1PAngJMnx0IQLREkpLP0lzi9G1T0xEAd-bbXfajJt8fhQMOY5I5aI1RSIoiw2gUV-rJDkcTDzFD8a7w71vNxcnft5TcIzxx0HKl_PgT0CLbErWd6Bq8AEUbZw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787512511
+  "last_updated": 1787514165
 }
