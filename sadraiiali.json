@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دیگ حالی به ادم نمیمونه.\u003cbr/\u003eخلاصه میگم،  میخواستم nix رو یاد بگیرم که تصمیم گرفتم جوری که خوددم میفهمم تبدیل کنم داکیومنت های اینگلیسیشو و نتیجش شد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nixy.a15d.at/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nixy.a15d.at\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eتوی اینجام کدشو میتونین ببینین:\u003cbr/\u003e\u003ca href=\"https://github.com/sadraiiali/nixy\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sadraiiali/nixy\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمه چیز از \u003ca href=\"https://nixy.a15d.at/pages/how-nix-works\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e شروع میشه و به \u003ca href=\"https://nixy.a15d.at/pages/nix-manual\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e یا \u003ca href=\"https://nixy.a15d.at/pages/tour-of-nix?id=introduction%2Fnix\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e میکشه.\u003cbr/\u003e\u003cbr/\u003eو خود ابزار nixy هم زیرساخت خوبی هست برای پروژه‌های جدید.",
-      "date": "2026-08-01T23:49:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 432,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
-    {
-      "id": 0,
-      "message": "اگه دوست داشتین حمایت کنین دوستان \u003ca href=\"https://x.com/sadraiiali/status/2083705464928268539\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین پست توییتر\u003c/a\u003e یا \u003ca href=\"https://x.com/sadraiiali/status/2083851125187346785?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین یکی\u003c/a\u003e رو ممنون میشم که ریتوییت کنین. یا مثلا میتونین توی این \u003ca href=\"https://github.com/sadraiiali/nixy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک گیتهاب\u003c/a\u003e برام ستاره بزنین :) \u003cbr/\u003e\u003cbr/\u003eپ.ن : خیلیا اینو میس کردن ولی تور نیکس به طور کامل و با قابلیت فرمت و ادیتور موناکو و اجرا در مرورگر توی \u003ca href=\"https://nixy.a15d.at/pages/tour-of-nix?id=introduction%2Fnix\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین صفحه\u003c/a\u003e هست.",
-      "date": "2026-08-02T09:52:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 345,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
-    {
-      "id": 0,
       "message": "\u003ca href=\"https://t.me/VahidOnline/77712\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/VahidOnline/77712\u003c/a\u003e",
       "date": "2026-08-03T13:44:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 359,
+      "views": 360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-08-16T07:08:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 194,
+      "views": 203,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-08-16T07:39:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 272,
+      "views": 273,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +126,7 @@
       "date": "2026-08-19T09:44:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246,
+      "views": 248,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +144,7 @@
       "date": "2026-08-20T17:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136,
+      "views": 137,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +168,7 @@
       "date": "2026-08-21T12:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116,
+      "views": 118,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +180,7 @@
       "date": "2026-08-21T12:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115,
+      "views": 117,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,12 +198,42 @@
       "date": "2026-08-21T12:37:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 114,
+      "views": 116,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم اکانت اصلی خود سایبرلیک هست یا نه، ولی ممکنه واقعا اتفاق بیوفته! \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/CYBERLEEK6evx/status/2091457757111021759\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/CYBERLEEK6evx/status/2091457757111021759\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبیش از ۶ الی ۸ سال زمان\u003cbr/\u003eحدود ۱ تا ۱.۵ بیلیون دلار هزینه\u003cbr/\u003e۲ تا۳ هزار نفر ادم \u003cbr/\u003eو انتظار فروش چند بیلیون دلاری در سال اول ارائه\u003cbr/\u003e\u003cbr/\u003eممکنه همش یه شبه فنا بره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A2.png\u0026#39;)\"\u003e\u003cb\u003e😢\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-23T18:00:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://x.com/behradjaved_com/status/2091486040435437867?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک\u003c/a\u003e",
+      "date": "2026-08-23T18:15:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gFnwNw7J71v0mM2cUyzeIfGPrQw_ngsNLep9-vFMh-iWh9Ry-nuKEiR30AkNUXBGgCx0Z3-IbPSCvsf8uvYWh8SQcaIZLBha_FYXhL-5lr9t9Ii-EkGF25Vn_R_JFsUhMXK1nd9rdYobaLwEZBxNjdZUicJX_jVJUznOSRMQWGD4XiwSPr_BNd5YdDQrI3g7_8nOgkp9RNSwUWMUJoPXj8oZ3inwJNuDlK27nFop-E25ffPE0VbSGK-ES-P3ZugBetqObZu98yN0lsbGiWB5nWQ4wWHGwHNSk9rtKw-SLTWx_tblJrTjrqnCfiVKnKkXJ7-F4OjGD9KswExW9_t4cA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787506998
+  "last_updated": 1787508956
 }
