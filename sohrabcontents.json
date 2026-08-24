@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بالاخره یک به‌روزرسانی کاملاً بزرگ برای فروم پارچ انجام دادیم و یک پوستهٔ جدید با زبان طراحی پارچ براش ساختیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمی‌تونید لیست تغییرات رو از این تاپیک بخونید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/t/topic/1150\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com/t/topic/1150\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eیک نکته! :)\u003cbr/\u003e\u003cbr/\u003eانجمن پارچ \u003cb\u003eتنها و تنها\u003c/b\u003e متعلق به پروژهٔ پارچ \u003cb\u003e\u003cu\u003eنیست\u003c/u\u003e\u003c/b\u003e.\u003cbr/\u003eشما می‌تونید با توجه به دسته‌بندی‌های موجود سوالاتتون رو درمورد همه نرم‌افزارهای آزاد موجود (آرچ لینوکس، دبیان، فدورا، مانجارو و.....) بپرسید.\u003cbr/\u003eیا حتی در دسته‌بندی کافه پارچ بحث خارج از موضوع داشته باشید :)\u003cbr/\u003e\u003cbr/\u003eما از حضور همه اقشار در انجمن پارچ حمایت می‌کنیم و به افراد فعال و پویا در انجمن به صورت خودکار دسترسی‌های بیشتری داده میشه.\u003cbr/\u003e\u003cbr/\u003eفروم قابلیت گفتگوی صوتی هم داره، که میشه در اتاق‌های صوتی هم گفت‌وگو کرد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه امید ساختن یک انجمن پویا و به دور از حاشیه برای نرم‌افزارآزاد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://forum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-16T07:14:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b0yhHEJO0WgaC_AhOB2t9Em024hT2Cwucb_v1UiDz4NuRuaIUQxqgeLL7V_UskBn7_x_4r8zMMoR1uyqdf6UJakf14xyhi_NfL9zUjX6wsRA8MBncYPNL97RppI_ytarX7ZNg79NiNacXLKhl5fslCVUEI2xwQoxPF0vy6BZazxVQZWOGXXabSJBDg0Bj-nfEORJtrt8zsHz5bu2oEuKEr_8DDcfrjGOttGbhnwGgcEhRzuhZqbTdZ4mD3ZJ7boWEnKOuAsM4ypbltBhdsIghnT8tYdoQLaHVvskXFV_Z9X68c_D99VEOqkO5m7__IcuXtM--annnmAjb_3Dy3Z22A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اصولاً خوب نیست که بخواد آدم درمورد بدیهیات بنویسه :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eولی چون کاربرای زیادی از ویندوز به سمت گنو لینوکس میان، همیشه این سوال رو دارن که آنتی ویروسم کو؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچرا در گنو ما نیازی به آنتی ویروس نداریم!؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://blogfa.sohrabbehdani.ir/we-dont-need-antivirus/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://blogfa.sohrabbehdani.ir/we-dont-need-antivirus/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-16T09:07:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-08-16T18:28:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9640,
+      "views": 9650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-08-18T13:27:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 799,
+      "views": 807,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +70,7 @@
       "date": "2026-08-18T19:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 786,
+      "views": 795,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +88,7 @@
       "date": "2026-08-19T07:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 691,
+      "views": 703,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +106,7 @@
       "date": "2026-08-19T18:58:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 845,
+      "views": 879,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +124,7 @@
       "date": "2026-08-20T15:51:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 836,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +136,7 @@
       "date": "2026-08-20T21:57:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 677,
+      "views": 696,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "date": "2026-08-21T09:43:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 832,
+      "views": 853,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +166,7 @@
       "date": "2026-08-23T06:24:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 584,
+      "views": 598,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +178,7 @@
       "date": "2026-08-23T16:49:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 404,
+      "views": 447,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,12 +216,30 @@
       "date": "2026-08-23T16:51:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 406,
+      "views": 453,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "به زودی...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-24T14:54:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 118,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nVyBkUrVSZa6tZoXm1Q7JFdhPjAE8O4zO8HtjxrW8ET8HZY4x1VRtE8BhEQj_71EGKddKTMWX3SfYvRmfbOq5G8cr-ebP2bWeBokrWSXfhmRHpsjHAejeJQrqFB_FUB00rXlivF6fxRxPx2PifCM-dvGjohkpq5bqgfZeJpi4WhfPSL1xrsQsAtQKfEaU3WUJ_WLW6vjHX27_XqQxHke64jTbZ-mSBzydzl_4NFEL_WobIbSdMNwITBSptWAWWnetLMoBdbLM-gjOiDlGr3x6cjITjzKzXhn2qRR7BaHT7EwbKmeFqEfRc0UoVeQGY4Sd8QbcEt3OVg-0VoQEed7pQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787580663
+  "last_updated": 1787584087
 }
