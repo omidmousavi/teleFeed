@@ -8,68 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آقای austin_malerba یه پروژه جالب ساخته که یه المنت موجود توی صفحه رو به‌صورت زنده آینه می‌کنه و خروجی رو روی کنواس می‌ذاره؛ بدون اینکه لازم باشه DOM رو کلون کنین و سنگین کاری کنید. یعنی همون چیزی که روی صفحه رندر می‌شه، می‌تونه به شکل یه نسخه تصویری مستقل استفاده بشه\u003cbr/\u003e\u003cbr/\u003eکاربردهای جالبی داره؛ مثلاً می‌تونین ازش برای ساخت تصویر بازتابی، نمایش نسخه‌ی شناورِ یک عنصر هنگام جابه‌جایی، ایجاد رد حرکتی، ذره‌بین، پیش‌نمایش کوچک از محتوا، پس‌زمینه‌ی ویدیویی و کلی جلوه‌ی بصری دیگه استفاده کنین. حتی می‌شه نمایش این نسخه رو با کمی تأخیر انجام داد تا از حرکت عنصر، یه رد تصویری جذاب ساخته بشه.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://element-mirror-demo.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003eelement-mirror-demo.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/malerba118/element-mirror\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/malerba118/element-mirror\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hrr6NlvNjQIQW_tulPzUYHDXrPbTYRDhQy5pP0YM5wmXODYkVSMeTOweZP-VnJVqVVeRKeXBFdjVQO27Is2u1EjfpmNoGWDW_2q-YgqmOBkLib2nPU7kk73X5R150R9Sb3NA2nTymGZrymPlj7hwouUUJUoSxrkWcSd-X-OMVA6WeyGouW8tZihF5p9MQphf0Yj6F2U3mSOUQ6V4wPfSl2GLwidBO7ezuLnWdsJnDmI8WoDbTzofG8CFPaguVjy_RXbiXGhNRSwZDQtl3wODlPCLAaC1MHfmtaDaaAKKLe-L-p5FD8Cc8p6rg64-kSCIuAA458duNCcTFJE_ErrrdQ",
-          "width": 778
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی برای اینکه پول هوش مصنوعی ندی رفتی یه مدل چینی رو روی سیستم ذغالی و مشتعل شوندت بالا آوردی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T14:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/e2HAMpVCl6UwUxjmqH-eEVxAGqe8Py_tYrFPPSJ9Rbjyme6uX9fAPFfRC34PfjLJ_TBCBeC6zlSK-mCGdrMPzwAVp10tEtia42WrpKIlR9Y7qqoybHdQ-PKmFN_CasTzzrlzPjVqtcKZ0Udk6wdNxdCkR0vUHobU355T431qsWtzd26guwMXZbqsk7gMItqVmMK-dn_gCWuj5DXSJNDsjTPBaUE6uJL3Am6gJOP_a6e4FRCjkVwgi-7TzxR64PQhopDUpFI-Br2haKD9QvJN70z_6-c9KckM3Bk8-lRvSyaCzMs4ZblZ7MQkv0oEjEf26I0DRaycMaDvnPL-XGwcwA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینو ببینید چه راحت صورت یه نفرو ادیت می‌کنه؟ این در واقع یه کاستوم نود برای ComfyUI هستش خود ComfyUI یه محیط گرافیکی برای اجرای مدل‌های هوش مصنوعی تولید تصویر و ویدیو هستش. اگر بخوام خیلی ساده بگم، ComfyUI مثل یه کارگاهه که توش مدل‌های AI رو به هم وصل می‌کنی و بهشون می‌گی دقیقاً چه مراحلی رو برای ساخت تصویر یا ویدیو انجام بدن.\u003cbr/\u003e\u003cbr/\u003eاگه ComfyUI رو استفاده می‌کنید این کاستوم نود و ابزار هارم فراموش نکنید بهش اضافه کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Nekodificador/ComfyUI-NKD-Basic-Tools\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Nekodificador/ComfyUI-NKD-Basic-Tools\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T15:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VLxaIfaNWsbAEaezEOcRE2s3u1y2OaovLb6EYEKnVqZ-wJmmh-ZF05UB9Njt3SJPLfHNFyIA-xfgHQ4DrvRMc62rlX_7OYkHDhJIWFjU1hZZXJTxBp6me84-B77lYN8aPKQSplBCXtLPJqHnHFUPiXrkx4JmTAGFqnwtFcw8E4AVt73cQP4UiE1n-3TeewnEiEBz7pi9lye7mfxRd8_HfqgxJXj-k5U3bEqmlQ9xx6ELsfxXfJBwYZj5j-NMYCLaAKmQ4Z4Jb3D5pehy02gUUBponw26XPLnV6LxeCmN0iIQAaqWgP7tHyhqTcguZjQQ55YffJ9aEScuEsbXcnH8IQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اینم جدیدا توی اینستاگرام ترند شده (باید کامنت بزاری که برات بفرستنش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e)، توسط Enzo ساخته شده بجز این QRCode کلی انیمیشن جالب دیگه هم توی سایتش داره سایتش رو حتما یه چکی کنید یکی دیگه از افکت هاش برای وقتیه که توی بازی شطرنج کیش و مات می‌شین یه انیمیشن جالب داره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://reactiive.io/demos\" target=\"_blank\" rel=\"noopener\"\u003ereactiive.io/demos\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-24T15:50:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +31,7 @@
       "date": "2026-08-24T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vlLSPxsQzm6CmIDBzzGBX6sHWF6SaQ0SrjxCOoiIrdG0bWhfpusRzFfa15MZhJOAuf_q4RzQIQbpKsE1fegpZJZ0xv3ud8Y91eBBPMv12Ytlw9PNBp7mudeKh1zLWHWjT5nxxgCA_khEccbGqd6wQchVucTlP1mSG7okrRxuWnvaq4OolMa-nztr1CxWunT98MnvxE2NofMwWlySwCsfUnF_3DIxx6QCpAd2Fa-OClvSr8g4O8XoBq06zAGualwqeYfhqCY7SYgZRBqhwh7q3KPXWiFSSNGPumrg0eNpjuE960z59T1gfh2zl-U7E3h-NRZL0cZPG951T_-msgj6MQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/mL1R57wzQj-Bnpb4eQc1kzx48rd64dMhQnzFvhjEy-q7-FDmf3xT3Vc-UBPdmixcI1aSAhzQPfKAZsj8VK3o2vRpgY0pWEj07ETtWT7HnBTNa_yxrU9wOvuETcp3i-uRNOpT-NKQthZs15wiKff1M25XfaXd_eyjZQ-ZRf2GFqjeJZ9aIoeTlO4yv2lZBKFACUs7yNEQ1XWOMVUZkErPYPnQ3SYIhT3PmepUftqJtfhei-_N8XBZuhq95c5v1wSDroRIvE6vKyX0lCYAVtYhmpdoytNkz8f-UbuJABeImIG5HgZTMdiCEBEWAfjdSiAnHrRSD6mo9qQkV9U0VoWJQg.jpg"
         }
       ]
     },
@@ -106,7 +49,7 @@
       "date": "2026-08-24T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +57,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ir_n9NErF1x82ZbSkF7qcOuVjMDBkT1d6CnPRCpRkrtLTAsdXwpAULVenfaRlG5r2EJGzgfkWf74bdEOE13_umHRiNYI8VlcNfVYX4hQxjuo-d1e14M4pXJWJAvRDzsN29QTZckJOL_mqOynQoBT6Y8bTUgcIgrzN5XEtdbXPVIopoZHltvX26WP_59FYcVT2Eqz-_bVYOBlPJfu0DjLZvCSpoyQNfvJNYZC5Kc4M_5XBWDzl2h0Gv0DQRIB8tKVeqn2G9rtHLGFrvG2uO1qClY1G6PoocKZg_sk-i0mXQPtR_5r7XwwHRjfhJMUvuOvziekrgNC7Hj6pLLXKfTl-Q",
+          "url": "https://cdn4.telesco.pe/file/AqRAClNoSyRx4ZMcfbm20EoN3iWzWNRUDT1hNHOKYLPWX-9gttnKF5bN25uy7stNS4inTczA9aEUalb_5pD684gizb73O3AexrQxCmanWVD2X1esZVAZIZfCSzz4oLCVlzVr2352POgwgUNlYEAx38FS5rKLwbr-BWqvwlJ_TNpBmsxNE8SZSFt44Hwnyy7iIqTHpB1sOmDFjbjUQmsPYViMoSwh7jd6PAvhzWsN_Typ3q82s82Zc15Psk4yHh_cEKUpBbYG_s-kFBwbM2ywRJ3QnoprKYrqfisShncGg6M3nB8BD_Z3u67cwEHf7WUs_CbX5eEsA-ri5jW2TXebDw",
           "width": 1012
         }
       ]
@@ -125,7 +68,7 @@
       "date": "2026-08-24T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +76,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/eZOO5SuqjEp2MTYMyofNfopgph8W2hvqTGIB-hmYDAHsTlb3ioXmySUdSjQET3MOTOwIw-IqRqNF416--_A8tuzTtqVWUeTrASmEY3FyV27f4cvaX_IFPB8lSfjar5QCS6VcEcV0fMOwiFDtI9cNvOL-sBGRaDKzrWMfkYOi6GVMWxP8TissYzFyZX6o-saoJFsf5xnWos-S4KERXKWZG4TbUFgI_uqrSyHfMenEA6rZdBwadAv0soZk2Lyq3yLYUQpABjoG6S6r8xTF_XjgwdwUQneku869PEWdGeo1gpOdsyHJV4QmvH8oTT-ZyoWA8LkgY2CEojKVaEYls7kqwQ",
+          "url": "https://cdn4.telesco.pe/file/JZzq5b1uJ0FykQuP7xM6B5bx5HFDb6mlMadEkgE-bIGv0aIX9TgLsliZLUhyUBfUvwXMUhs4tUbHctrXZ24RnBCHBBE6-OD8DNjyxVG84hW7WOSZbaCxh_FT7JqpOx-cJeqxT75yI2vNJn_mgB8W3U3FGZXCEQatISNWUocvXkh_FDBFWhMkN3QvHrbsA42pZOeJflz39_ua6Wa7AuD8Dn25g0FpGWsRhvRSjyw_wj9JHTKDq89PzesmhftzxwZIPfZRSodtLTvZTOo7OO2oAgxNDk5IpwHRiglE1FZztGlKM0KpcAqOQxyoi5xVCq1AuKT5SaW5LzjXDwOqYG8AtQ",
           "width": 1440
         }
       ]
@@ -144,7 +87,7 @@
       "date": "2026-08-24T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +95,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QdKKRkRyUQlYhKG9SVVmU8hPgc9S4nZbH2csBnUCR7jAFrQ49FmmPrJz1SMCN-Iue5JgGi0zbqLfUk7M4010L2d4xFVfnUJYRQowmpXT425SH1NQLpbY8t1FxJ5JK4z7OaXKQTS7v_AME5m0vNizDP0TKxCI2gkioxKGccQknlS-7BVo41VZizBWNcrv22lWRaiUzY4ggpeq3yjkvYjo0_gMuGu4ybPlvllmeoixwehck3Snm30ZiLaEG-IDYJCjuWx06vRXb5ToIykRht2QjuZJYZkf4EUD7aKz8qZ8CzjOTtEBLs0pMq4oRX2l2QVP5k0adbkX3apK-LKon0V8ig.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ai2dvbbKIhLrc2wOHzqBFtjl0X3R02IyesHkNY1qEbjqyti3LOhH5kwa7x_1BuvlHVaUoERqtnAIdgVWW3vwB7xATOhU6pH5tSZZJF7vN_IWv8nn2w7LwPe_UoR0ss9xuSpLOtksuc2NtOjOerysSe59Olo2Hsp2zT4_e3gagoyfI-r77QdCJM0yyl7T3bi3vYo3OWpTyjpZ4MTA-DzKwpb1VXhTsGTHax3tf4cT5kxgvU7K6Eu2Bev5l9XxK9u7ky3uIU4OOQ__ZxpJZcasEb4zl5yJMhVeOep7fQKPlturr1T0q-G0ViQObvu7UuKqEKaX3vfm5RZ-3XfO68CscA.jpg"
         }
       ]
     },
@@ -162,7 +105,7 @@
       "date": "2026-08-24T17:43:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +124,7 @@
       "date": "2026-08-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +136,7 @@
       "date": "2026-08-24T19:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +154,7 @@
       "date": "2026-08-24T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +166,7 @@
       "date": "2026-08-24T20:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +184,7 @@
       "date": "2026-08-24T20:58:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +196,7 @@
       "date": "2026-08-25T06:05:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5350,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +208,7 @@
       "date": "2026-08-25T08:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4320,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +226,7 @@
       "date": "2026-08-25T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4440,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +245,7 @@
       "date": "2026-08-25T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4370,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +257,7 @@
       "date": "2026-08-25T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 4960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +276,7 @@
       "date": "2026-08-25T15:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 847,
+      "views": 2820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +288,63 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eفروش Gemini Pro فقط 380 هزار تومن به مدت ۴۸ ساعت\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e- مدت اشتراک ۱۸ ماه\u003cbr/\u003e- فعال سازی روی اکانت شخصی شما\u003cbr/\u003e- امکان به اشتراک گذاری طرح با دیگران(family)\u003cbr/\u003e\u003cbr/\u003eتجربه کار با Gemini Pro، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در «اکانت‌آباد» تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای  به‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-08-25T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 423,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fOT7oW6pEbXNk8cDBAix7tlkl8GYuhan9YBVLlepH0pKFDmbp99smVQEit-rjBB9cWFePLouVXprXNUggFWLh8j3kBiQw8Ulc5ldYtrCOU2ssvnLWkIPJX4OrZuWHArHCsRrTkF6F4zOFYBmw3kK6L6NLvJc16wJv8BdEz5v6zV1O0E-VfwCdBYVaVvFlkjWUEyRMoTva_N-bpo2dTrZ_-lPIRJEnYlMuUfgO9bstrqSKG_zcNwL9VJJmE5CqWqmG3RpBq2d_8MznKHZ6m31GHmkFYMpLCBWL1U-n-sGbuxRbAig0zhvRpOjLDN7cHgVChkxAkOACYhiK7cSSSVc6Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این مدل عالیه، فارسی هم ساپورت می‌کنه برای درآوردن اطلاعات ساختاریافته از داخل متن ساخته شده. \u003cbr/\u003eروی سی پی یو خودتون هم میتونید اجراش کنید کلا 287 میلیون پارامتر داره\u003cbr/\u003eقابلیت های entity recognition و sentiment analysis وJSON extraction رو هم داره\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین روی اسپیس هاگینگ فیس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/hugging-apps/gliner2-5-multi-extractor\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/hugging-apps/gliner2-5-multi-extractor\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-25T16:44:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/M-Erp0P7tB9qVa_o5ElE-fSU0wAwihOGoUyKItQ3F64-y9CM7fmXmD-ut67SCRN_D60UpS41z1yHigNsPmt9hr71vZxh6gNP0umV552rk7h8BD8v6LINjqK0JiBSUGEvMdyU37DT33hUgfwwK5EHiJwXnzeMu8xsL-S3VBUQXHAJJgpeEbyjRq1BaVjGsV4xG_2ODXF92Ja4u6SAMyrumR1LwpH2_hhGHh6_M2fEhXmyhe4srJGoxJ9Cd7xlKZXFRWViYHvb0mBAomItmaJtsG9oxtikt9YnGqazib6V3-EtgPKja40Mp0txyELTLD5k46TpfnujaUy4F48ATdrnJg",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نمیدونستم برای ساخت پلت های رنگی از الگوریتم ها برای درجه روشنایی استفاده می‌کنن فکر میکردم دستی میسازنشون؛ اینجا می‌تونید خودتون پلت دلخواهتون رو بسازید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://sds.sallee.design/palette-maker\" target=\"_blank\" rel=\"noopener\"\u003esds.sallee.design/palette-maker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-25T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 473,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bOmE_Z4qcX9wJPIvReh9gcQOzKbU4HwNjIvCSr7w4q29eClU191y9AnVNkTF3pIe-3S7i5Cj1RhNClAuTI6Nn0F53LphPPT7pfmCqxeBHSN9tnSXwpKrea-HyzJTKJFGxYHGmhZuiDUpnQSx6SD8mmukMuj_PeMyHPCtV7YYMGGT2azCFd4CnZPpzn-Mi5Pl_9JcFoTyFu7cIYNYTaD-Sp8AQ0A8RazVDYce9vJvka4_wvT1gXuE6Ook-4u3BGBsS-MHW7tapBCfiumm1-YGQfNKzDrJI6bEiD-hSYUTvsf8HM_dHK87M01qgbr5cM3AZeGsU8r1sgZiMxqoU-W0Kw",
+          "width": 2856
+        }
+      ]
     }
   ],
-  "last_updated": 1787673983
+  "last_updated": 1787677401
 }
