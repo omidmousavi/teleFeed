@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5850378311993134902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اشتراک Gemini Pro با قیمت ویژه!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456421831177175816\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید اشتراک Gemini Pro فقط با \u003cb\u003e219 هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5881732578276282078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل آنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5881732578276282078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع و بدون دردسر\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859637724612399613\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه دنبال یه ابزار قدرتمند برای هوش مصنوعی، تولید محتوا، تحقیق و کارهای روزمره هستی، Gemini Pro انتخاب خوبیه \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5879556580340410655\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/nexaccbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای خرید و دریافت اطلاعات بیشتر، همین الان اقدام کن ظرفیت محدود\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/nexaccbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/nexaccbot\u003c/a\u003e",
-      "date": "2026-08-24T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DeNQy_rn37XPkzs_eSHNJfGtP_GOKMxSQ19ufQSXnMoE0q7hG974JyKmnvqgOLrgb8f8fcJIcXLL1ws6G9QmAR-pyWO4f3Q9F2CqNXgVPqfZBx6X0BEnH60qNY67HRCn7TUlkpndOy9yqhVoySlbPXTpV3XL1Zo0OSTQqnhCAoR1qJ1ftWa3LItEIwAjkZDLSokx5uxDXo56d9vGBw-fWJHUnPE1860x1Hi9Sn-jQvtByCxY7s7sP3J1OVIE15VRcvqLibjdk8IC9jYAIZWBQSscJw3rgLMo7v4zf8E_Oew0LSW0Mf53ouNlSiHu3ptNeL-Pskj7hBgCfesIKsVcWA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "آقای austin_malerba یه پروژه جالب ساخته که یه المنت موجود توی صفحه رو به‌صورت زنده آینه می‌کنه و خروجی رو روی کنواس می‌ذاره؛ بدون اینکه لازم باشه DOM رو کلون کنین و سنگین کاری کنید. یعنی همون چیزی که روی صفحه رندر می‌شه، می‌تونه به شکل یه نسخه تصویری مستقل استفاده بشه\u003cbr/\u003e\u003cbr/\u003eکاربردهای جالبی داره؛ مثلاً می‌تونین ازش برای ساخت تصویر بازتابی، نمایش نسخه‌ی شناورِ یک عنصر هنگام جابه‌جایی، ایجاد رد حرکتی، ذره‌بین، پیش‌نمایش کوچک از محتوا، پس‌زمینه‌ی ویدیویی و کلی جلوه‌ی بصری دیگه استفاده کنین. حتی می‌شه نمایش این نسخه رو با کمی تأخیر انجام داد تا از حرکت عنصر، یه رد تصویری جذاب ساخته بشه.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://element-mirror-demo.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003eelement-mirror-demo.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/malerba118/element-mirror\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/malerba118/element-mirror\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-24T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-08-24T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "date": "2026-08-24T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +69,7 @@
       "date": "2026-08-24T15:50:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +77,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E3mHm9BeiL5bFe7bHlai5BwhAl0fOdyCguT0WFfIj4sLnutl_K60WXRnWh6K1XoLxWCxCMLD-5-yGlRkNo-a7Z6lZOZ6T1c-y0IHw7Ptjc-M3bagUgYjToZQ7de3_7kK4oeWp1xNDGnqnHqEuCZsTX8Ek3v4xV1Y9_Dyqa6dykaabeHHdyC1yype5nKsRLoRuEzNLWkzp2cURaXcU_QdIMOGmcUKJANGbSgdzQOrHvhVbu-UxP_-ydBQ1tRwhMqLHZN1NbFrzgwKIl2x3vIFz8NfzAISvTZPMF2PXMwpaTmsnZwUGa-wfA59HuPZ4OxEaOgOaZGTMrAhtM2jQlvTyQ",
+          "url": "https://cdn4.telesco.pe/file/G9Q02l4xUgBc_huB_QXAhZ1Xisy-WmZpbzf4noaNeEcFM00GSQlkxuuTjxvJMnmhd71xVqJ5VkzMXGtglJaaAmIlc9_U0nGZKImhgNUq32WXk537TXINrFfKpLxv33loCdfGbFBXJtNtNgUQzuCp1ra9ptJ1iW12eHaIMlSjbh1sg4_tcfcnNJDzKxh_hfPZAQPlq33rsYSbuvK5OG-tRnuDjfqdSM29f3_2OzvNSNI1IAdqTAfemBi6y3cbQNnjjXb-JSuhoi2rlvKE--xXWbq3bz6sLeAlEm9y7Ik0jcBs4eabN-NgKUa45MOgO4Kuq3vUBO9hqbW2GkAcQrlwBw",
           "width": 720
         }
       ]
@@ -106,7 +88,7 @@
       "date": "2026-08-24T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5350,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +106,7 @@
       "date": "2026-08-24T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +125,7 @@
       "date": "2026-08-24T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-08-24T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +162,7 @@
       "date": "2026-08-24T17:43:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-08-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +193,7 @@
       "date": "2026-08-24T19:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-08-24T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +223,7 @@
       "date": "2026-08-24T20:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +241,7 @@
       "date": "2026-08-24T20:58:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "date": "2026-08-25T06:05:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-08-25T08:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
+      "views": 4320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-08-25T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4100,
+      "views": 4440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +302,7 @@
       "date": "2026-08-25T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4000,
+      "views": 4370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +314,7 @@
       "date": "2026-08-25T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +326,26 @@
           "width": 1336
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه مهندس تو آنتروپیک میگه 90% از مهندس‌های ما داشتن Self-Improving Loop می‌ساختن، و امروز به سمت Agentic Graph منتقل شدیم... و دیگه به پرامپت‌های سنتی متکی نیستیم.\u003cbr/\u003e\u003cbr/\u003eتوی 10 دقیقه، کل ورک‌فلوش رو داخل Claude Code فاش می‌کنه. ویدیو رو ببینید ارزش دیدن داره\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ mahdihomeyli",
+      "date": "2026-08-25T15:58:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 847,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/u53PGDOEQ8wXlZ9pIXyL2jgyztCKi2BFv9Hj-0Cmr8uNkLyhB-d1hwwQ-2-gyyG2cJmStoyBK9Vhxq6Fld78H2DK1F025ricR-S4U3HDQfQ3EsKWxt7D2GpWoPgokHYtvcyRRydOgBx2TN9X39VLb3dz8KMxxePE1R9DFdptaKglrn15BVZ8XWBfhfmUfCJ3CcuVMaXhbJOXY-s8w6hTI_p6peY4R1LiUd0EPMgoxgMrSDdaP_uwWQO0GgcN60474M6GDow1I_liQBSiWodYnThhQnLCtHat4TXpm9HSpk9TFy-D7TMSibZvWpV1F0tIfO4yZJJ0bijSIgjYnaXYUA",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1787670710
+  "last_updated": 1787673983
 }
