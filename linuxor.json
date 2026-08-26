@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "وات؟ یه برنامه‌نویس متوجه شده وقتی سایت AliExpress رو باز می‌کنه، صدای گوشی روی هدفون بلوتوثش قطع می‌شه؛ حتی با اینکه هیچ ویدیو یا موسیقی‌ای توی صفحه پخش نمی‌شده.\u003cbr/\u003e\u003cbr/\u003eبعد از بررسی، دیده شده سایت از یه ترفند صدای مخفی با WebAudio استفاده می‌کنه. سایت یه موج صوتی تولید می‌کنه ولی صدای اون رو روی صفر می‌ذاره، یعنی کاربر چیزی نمی‌شنوه. با این حال مرورگر هنوز اون صدا رو پردازش می‌کنه و نتیجه پردازش می‌تونه برای ساختن یه جور اثر انگشت از مرورگر و دستگاه استفاده بشه.\u003cbr/\u003e\u003cbr/\u003eاین اثر انگشت احتمالا در کنار اطلاعات دیگه مثل:\u003cbr/\u003e\u003cbr/\u003eاندازه صفحه\u003cbr/\u003eحافظه دستگاه\u003cbr/\u003eپلاگین‌های مرورگر\u003cbr/\u003eاطلاعات WebGL\u003cbr/\u003eحرکت موس\u003cbr/\u003e\u003cbr/\u003eاستفاده می‌شه تا کاربر یا دستگاهش قابل شناسایی و ردیابی بشه.\u003cbr/\u003e\u003cbr/\u003eنکته عجیب این بوده که همین پردازش صوتی ظاهرا باعث شده کامپیوتر فکر کنه هنوز داره صدا پخش می‌کنه و در نتیجه هدفون چنداتصالی اون برنامه‌نویس نتونه درست به صدای گوشی برگرده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T20:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lFWYZPKlwQJylLsCrksnovjjXWM3DjJL293UI8MboSWiuNV2yd8HdORzfziSk232Pt1JovNnYlRqcuhxYf-b2jU573bFrZwV5h0TbF7587eyIGPSnh-g9uOCAFr0fv2I905HEpnwFAHMDLpVCfGnr9JWItXQfS7a3oEHiKlACmpPCPeTehcmtX7DFvMpfwhfjjIr3FMaj6JUy2yRz6m6G54L2GoF1rYPw5rvmn-ld-4_drroknUbMGkFPosTN2KR5DkSnnO5NcyNRJl8JYpKv41dRJBe4yr-ENUWqkUNkIlt4iQilWZjuTE8cyRidI2w1YBC66_EYQ1N5aQrnk8YDg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بیت کوین به تومان سقف تاریخی جدید زد قیمت 16 میلیارد تومن !\u003cbr/\u003e\u003cbr/\u003eیعنی اگه با تومن در بد ترین و گران ترین نقطه بیت کوین می‌خریدید به دلیل بی ارزشی تومن الان سود کرده بودید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T20:58:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "ساختار مغز رو یه جورایی می‌شه به سیستم عامل و اپلیکیشین تشبیه کرد در واقع خود مای واقعی اون اپلیکیشنه هستیم و محدود؛ اگه تراپی رفته باشید یا دربارش بدونید اینا یه روش درمانی دارن به اسم CBT میان یه هوک درست میکنن برای اینکه بفهمن وقتی فلان event اتفاق میفته، چه callbackای اجرا میشه و بعد شروع به حل مشکل اون کالبک میکنن!\u003cbr/\u003e\u003cbr/\u003eالبته یه تفاوت مهم داره اینه که سیستم عامل تعمیرش آسونه ولی مغز سخت تر چون با خود مغز باید خودش رو تعمیر کنیم به این metacognition یا فراشناخت هم میگن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-25T06:05:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرورهای گرافیکی قدرتمند برای اجرای نسل جدید LLMهای متن‌باز\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاستقرار و اجرای مدل‌های زبانی نسل جدید، مستلزم زیرساخت‌ GPU با توان پردازشی، ظرفیت حافظه و پهنای باند مناسب است.\u003cbr/\u003eسرورهای مجهز به GPUهای NVIDIA از \u003cb\u003eنسل‌های Ampere و Hopper\u003c/b\u003e، اجرای سریع و پایدار مدل‌های سنگین هوش مصنوعی را ممکن می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eکارت‌های گرافیکی قابل ارائه:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e NVIDIA A100\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e NVIDIA H100\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e NVIDIA H200\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمناسب برای:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003eساخت و آموزش مدل‌های هوش مصنوعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اجرای مدل‌های زبانی متن‌باز سنگین\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پروژه‌های یادگیری عمیق، بینایی ماشین \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e ۱۵٪ تخفیف برای پلن‌های بلندمدت\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای دریافت مشاوره و انتخاب GPU مناسب پروژه‌تان، درخواست خود را ثبت نمائید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://zaya.io/d2wls\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zaya.io/d2wls\u003c/a\u003e",
       "date": "2026-08-25T08:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-08-25T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +49,7 @@
       "date": "2026-08-25T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +61,7 @@
       "date": "2026-08-25T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6450,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +80,7 @@
       "date": "2026-08-25T15:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +99,7 @@
       "date": "2026-08-25T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +117,7 @@
       "date": "2026-08-25T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +136,7 @@
       "date": "2026-08-25T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +155,7 @@
       "date": "2026-08-25T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 5520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +174,7 @@
       "date": "2026-08-25T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +192,7 @@
       "date": "2026-08-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +210,7 @@
       "date": "2026-08-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +229,7 @@
       "date": "2026-08-25T19:42:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 6860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +248,7 @@
       "date": "2026-08-25T20:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +260,7 @@
       "date": "2026-08-26T08:24:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 5290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +278,7 @@
       "date": "2026-08-26T09:09:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +290,7 @@
       "date": "2026-08-26T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 2610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,7 +301,55 @@
           "url": "https://cdn4.telesco.pe/file/ci_jz05nWO02Uk6W2uYvvx8HazJzdSG5ngMbHqJ9CXbJu7UKyoujVPOwaHcBk3ehe0SVuJvcxaUPDhSmYf6Wje_tHo4ojk7g7sHgjdbsBdx6PyLPBMMZCTl2QNKzsk2_wfjnhkH5vQCsOqlrwqLWUSWrTkJ6Lzlcg991-pF5VVPWMWTA43sc4EWdGnpAjFKFGno3qjMMUUgSfJihDoj2SHs2TbCm3r5sW1ZL8egcWaqRT_23u-EyTjqsv7vP30jMKR7cOx_7wqr2XaX-Xo1WcXjJh70t40uFwwzq-T6r1yD95HHRikh3Bcs7OaPF9ibJlzRQkPQdi_yAvhGIOFUk_g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی با شعار هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/barnamenevisi/free-resources\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/barnamenevisi/free-resources\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-26T12:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/a602jhftkPVvRwaUWUM0_Too5xM4sL7GLr3am51mK5UtM0_Byh1lW_80hXjf3ejJwXW4EME3WRNUtoA1TeSR7jhIRmzDJ4oQtRKSx32VQo5NAkKy5Mw_nV1k5iCarKGZxIMimFhzHEDUwYk94mpHiaqUUC4EwuZUfLwb78WsBcbItm3fK_ShfJbhomL2eXNSTsVyiifFX1B8iy4_koZk7T3gnLP3fadDrijE1YGqIwfAU3EC_KxMzX2iXQh7YmgJ7bLHX-5pUe1jzt-b1-UlRNWuIupfvVLGNhb1uT7OxZHwgAW8_NMKwXPEyPbatOqPv-OYU4nS7pe24Kog1KYw9g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گزارشی از شرکت امنیت سایبری تایوانی TeamT5 میگه گروه‌های هکری وابسته به دولت چین بعد از استفاده از DeepSeek و چند مدل هوش مصنوعی متن‌باز دیگه، تعداد حمله‌های سایبری خودشون رو بیشتر از 2 برابر کردن.\u003cbr/\u003e\u003cbr/\u003eدلیل محبوبیت DeepSeek بین این گروه‌ها اینه که توانایی فنی بالایی داره،‌ امکان شخصی‌سازی زیادی داره، هزینه استفاده ازش پایینه و مهم تر از همه محدودیت‌های امنیتی کمتری نسبت به بعضی مدل‌های غربی داره.\u003cbr/\u003e\u003cbr/\u003eاین هکرا مستقیم به هوش مصنوعی نمی‌گن برو فلان جا رو هک کن در عوض ازش برای مواردی مثل پیدا کردن هدف‌های مناسب، بررسی آسیب‌پذیری‌های سیستم‌ها، نوشتن  ابزارهای حمله و خودکار کردن بخش‌هایی از عملیات هک استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-26T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/khN23_7p2TDL2RtL3OB6SY5tPu85OEBUA8ZtLfzU88PVRhBDZYGtiv9N-KYLjguV8CKuGcQna6dvKkGvasfrqXHGdeL20yxE_T07llKcLfsPcPbTNm7OJM_KYAcf9m_NOk-PDFAhIQyRrFMSA2s_Dq229OZyJL4mVQLn9uXj8l1nPxw_mR3qZrAvLa3OBQ9pB-e5Pg7OmwJu4lUX7ae2iHOEB9nbYYgVKfy5bI6kpEqog813_WJe-_ulGuHODwS7A1h4V_sGpTudyiooWJykm89dMRor3kciu9bP40gdEqmqLPfwbNDOoJ2HEJ_wkCDi-ZdCT0ARhd0Wtm0kHN2sTQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گوگل بین یه دو راهی گیر کرده اینکه موقع سرچ اون Ai Overview رو ایا حرفه ای و قوی تر کنه یا نکنه؟ اگه حرفه ای تر بشه کاربر دیگه روی سایتا کلیک نمیکنه و همونجا جوابشو می‌‌گیره اینطوری کاربر خیلی راضی می‌شه ولی سایتا ناراضی چون بازدیدشون میاد پایین؛ اگه سایتا هم ناراضی بشن محتوا تولید نمیکنن خود گوگل ناراضی می‌شه. \u003cbr/\u003e\u003cbr/\u003eاز یه طرفی اگه حرفه ایش نکنه پلتفرم های هوش مصنوعی دیگه جاشو می‌گیرن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-26T13:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1787747357
+  "last_updated": 1787751233
 }
