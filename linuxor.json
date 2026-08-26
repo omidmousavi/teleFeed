@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این پروژه هم جالبه برای خودکار و هوشمند کردن فرایند پیدا کردن کار و آماده کردن درخواست استخدام با AI هستش.\u003cbr/\u003e\u003cbr/\u003eاطلاعات رزومه، سابقه، مهارت‌ها و هدفت رو می‌گیره\u003cbr/\u003eسایت‌های کاریابی رو می‌گرده و شغل‌های مناسب رو پیدا می‌کنه\u003cbr/\u003eموقعیت‌ها رو بر اساس میزان مناسب بودن برای تو رتبه‌بندی می‌کنه\u003cbr/\u003eحتی می‌تونه برای مصاحبه آماده‌ت کنه و سوال‌های احتمالی و تمرین مصاحبه برات بسازه\u003cbr/\u003e\u003cbr/\u003eهسته‌ی اصلیش برای کار با Claude Code طراحی شده، ولی خود پروژه اشاره کرده که بخش‌هایی از ساختارش رو می‌شه با Agentهای دیگه هم تطبیق داد. برای اجرا هم Python، Bun و برای ساخت PDF رزومه و کاورلتر، LaTeX لازم داره.\u003cbr/\u003e\u003cbr/\u003eهمچین چیزی توی ایران با این اوضاع کار به شدت لازمه هرکی باید یه نسخه برای خودش درست کنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/MadsLorentzen/ai-job-search\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MadsLorentzen/ai-job-search\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-24T19:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QyEcwLPR7Zi49ByHnAtQQms5pcBlMu47S-k4tOX9dYK48ENIiN41VssYF7mkDnxnS3MX_00i6HgfIVvEgIAkY0-SSg6LwbU9kQiokZLqiXSyjZwBDqxbzxbLvYGNZl2-f9zDazwmrIf-6hWu6xA-lUvs43vWtzZj6NGVJAw0cyj5Tr9gMZ-VCJoNIE3r65Z3tpPtF_lGUfUS5TtM--mGiyqErs6Kq3hQUBxZ4qndMtBSKeX1ybX2zvBVzlUTQZ6DPuj_kfxpyrclZm6Z8g2au2FTJ68MZr5Lqe0QA-x1AWoy4GXdTN5e8eCv24zeJE6D-woT8wvC4IXUbFcWm1bQDQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این سایت های قدیمی دانشگاهی، بانکی و... که سال ها ظاهر زشتی دارن و بهشون میخندیم شاید واقعا بهتره که آپدیت نشن شاید این خنده ما از روی تکنولوژی زدگیه :)\u003cbr/\u003e\u003cbr/\u003eچون ظاهر فعلیشون داره کارو راه میندازه دیگه چه نیازی به اپدیتش هست؟ از طرفی آپدیت کردنش نیاز به آموزش به هزاران کارمند داره از اون بدتر اینو می‌دونستید که روی ویندوز هفت و ایکسپی نمیشه سایت های ری اکت جدید رو باز کرد؟ چون کروم تا یه ورژنی ساپورت میشه روشون و ری اکت و بقیه فریم ورک های فرانت دارن از ویژگی های جدید مرورگر ها استفاده میکنن و اپدیت سایت ها باعث میشه کلی هزینه تعویض سیستم های کارمند های اون سایت بشه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-24T19:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-08-24T20:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-08-24T20:58:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 7730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-08-25T06:05:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-08-25T08:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 6140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-08-25T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-08-25T08:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-08-25T09:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +123,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gVZ2kbrAhQVg3prgj6IDSbUwH6e9tI5rmR94shk0YvMCM9lgNY2wAClUCXIlEM1QKd-aTaWURV560ozArR4-0g2dEuI1H3pcMxEXv6nBA4uQPby719WSHsNqfzYk6ZDGXNQ9gxi4dObcsZELGLVGMGVdUC1CslRxe2nsAgjeDPz1gErMoTMYOsEHl6s1x7S3zf5jHcY3QBmmfJsYdaMjaRfexsFRDghe0DxD3UQFyzSQyyLcJYxwY7zdsa2_LZQoD6rLzSc4WK-lNeBdeSwtUEfIlYkOIYj_pJoV-waMlN1M0t9lduL3aD3TPaQVRhdC9lPyelYBogTp7fn5zAkSpg",
+          "url": "https://cdn4.telesco.pe/file/E8CwCL4zciXJiuHv0TNmbPVHlphDLe6FGhdg0DUO8Yc8hQeqYp2ZAsqP7e29yk1fqnxTnDGuLhdxwaPh2j5CHarZEkGfjsLt9ShCIU7ncjWsYpXNQHp8SJoZgVYg-zFRE9Mq-kPYqMEMP4pqoHswHNURVR78vQGwHe1czvkWoW-caDfQkH7Hh7E6zpdcU_uT9h6QYc33OF2DfXcK7gDQOyuvSemKPDAUwCOwBVGSCtBuFdr5Yv6bi_E4Tz1h0JYKIkBrXtiIUR3BQwQ3A8lOrr2aZ0OsT9nvVEgXSqMMZpoJ65OktTCgyX5ulDZ5RSV_pMAG_QpzmTT6YG7lj52PVw",
           "width": 1336
         }
       ]
@@ -152,7 +134,7 @@
       "date": "2026-08-25T15:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +153,7 @@
       "date": "2026-08-25T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +171,7 @@
       "date": "2026-08-25T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4860,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +190,7 @@
       "date": "2026-08-25T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4850,
+      "views": 5070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +209,7 @@
       "date": "2026-08-25T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "date": "2026-08-25T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-08-25T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-08-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-08-25T19:42:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +302,7 @@
       "date": "2026-08-25T20:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 5360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +314,7 @@
       "date": "2026-08-26T08:24:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 602,
+      "views": 2680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,10 +322,22 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uLNh4cRCxoG0dQuCvwi3BGc_akFFmRiudFg3XkGrXiFL9QvaHd-rzjkruozqUWZ9MSBDo5eJ6y1IrK2A38gMO24lJ7jorjzSWB_DJY-cWoeC405bb7vWAS8QN_zsxOPKLxMPIbCAHVwH-LiRL3-jDShvb66eOPenZO-JaQq7uzLuOGNwXCtLD4cq_Jqi9ttD4D3Ir8yPT7gIxIf-3qjoNClUzOidtxjxM3AKuoXBGZkepJzoQpIDuWaSyImvIS3rEnX7UZt8Bj-U6H9uq0XtGCddiNNlFP5NeQRJlQeKMHq8MlfIXbRg0jGbQuF8CiwBhdKyt19JJh9oHXCLdk9Bqw.jpg"
+          "url": "https://cdn4.telesco.pe/file/MG-db78WD_xQTdy5seDIOpF3vKOJk-BacLZLCmRv3bh9LrYStctL4OZq-GpjIIBYT2VVlQElEzgzIksZqEQeHGmCby-_x2NjHb3ECg9L9bVWiRrkDjF8ttfgJvzn0NQoYrDgAW1AavuxbUpU-sQ_kNxiGvqbIH5rkXR7ejKfz1F_7oc0WJhWefppO7Udd1WuKfwfHjLhDGTZiA7FkHlPm9YSycn6T_BuyoEm2CIsDgDL51qdVPl7oURESMCyS79l86sj5H0NwND-crIOpelLYk9nht3xpwgb2dlyf44PWhHMo83ROdGJRWYQ-z7X2Pyy3PFN0DWOn6Fo7qfDTt-3Bw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "توی کافه کد زدن مخصوص فرانت کاراست برن با ورسل ور برن وگرنه کسی که داره با C برای کرنل مثلا EEVDF Scheduler می‌نویسه بخواد بره توی کافه بشیه قهوه کوفتش می‌شه باید توی زیر زمینی انباریی جایی همچین کدایی زد :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-26T09:09:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1787733047
+  "last_updated": 1787736641
 }
