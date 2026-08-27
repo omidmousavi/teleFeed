@@ -8,83 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "حالا این بزرگوار چندان دستگاه‌های مطلوبی هم تولید نمی‌کرد :)))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبخصوص از نظر باتری.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eولی از هیچی بهتر بود\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-19T18:58:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NdpnyXTpF9oidtS_lccLCCF-LEqvF_qbfULxFGmUB5_zncSbzjBw5SBfqywoAyWYNFDJ8cX-q5bypUsNLBTr4AfrY52ZWzT2k30PfY_Tcm1whqjP-yHpSVFuZvpD0im2wrE9MYojiQl4b84QIQZb3zHls_V8zRPReabEjBVaB-pS9NP70-Ic-NjF8eVREPhTNMcb-j0A0P9Om4217TjM6OG4SBY6CXO4BWYOj-IB7pQpibl2xMMftMPYjhVHX-CWef4jTH6Mv2fykx8zV_Sg7ZnJpX2Gqmycbi8owl0FVX5eDjFYReT-dSSxRyIv1lW5Y4TB9IQZblAPjigWEDx14Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی Rust یه ویژگی داریم به اسم \u003ccode\u003eWorkspace\u003c/code\u003e که اگه می‌خواید پروژه‌تون تمیزتر و قابل مدیریت‌تر بشه، خیلی به کارتون میاد.\u003cbr/\u003e\u003cbr/\u003eحالا چی هستش؟\u003cbr/\u003e\u003cbr/\u003eفرض کنیم یه پروژه‌ی نسبتاً بزرگ داریم. طبیعتاً نمی‌خوایم همه‌چی رو بریزیم توی یه crate و بعد از یه مدت با یه عالمه کد درهم و وابسته طرف باشیم.\u003cbr/\u003eمی‌تونیم پروژه رو به چند crate مختلف تقسیم کنیم؛ مثلاً یه crate برای هسته‌ی اصلی برنامه، یکی برای CLI، یکی برای GUI و یکی هم برای کارهای مربوط به شبکه.\u003cbr/\u003e\u003cbr/\u003eورک‌اسپیس‌ها به ما اجازه می‌دن تا چند crate مرتبط رو داخل یه پروژه و مخزن واحد مدیریت کنیم. هر crate همچنان پروژه‌ی خودش رو داره و \u003ccode\u003eCargo.toml\u003c/code\u003e خودش رو نگه می‌داره، ولی Cargo همه‌ی اون‌ها رو به عنوان بخش‌های مختلف یک Workspace می‌شناسه.\u003cbr/\u003e\u003cbr/\u003eمثلاً ساختار پروژه می‌تونه این شکلی باشه:\u003cbr/\u003e\u003cpre\u003emy-project/\u003cbr/\u003e├── Cargo.toml\u003cbr/\u003e├── core/\u003cbr/\u003e├── cli/\u003cbr/\u003e├── gui/\u003cbr/\u003e└── network/\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eحالا مزیتش چیه؟\u003cbr/\u003e\u003cbr/\u003eبه جای اینکه یه پروژه‌ی بزرگ و شلوغ داشته باشیم، هر بخش مسئولیت خودش رو داره. \u003ccode\u003ecore\u003c/code\u003e فقط منطق اصلی رو مدیریت می‌کنه، \u003ccode\u003enetwork\u003c/code\u003e فقط بخش شبکه رو، \u003ccode\u003egui\u003c/code\u003e رابط گرافیکی رو و همین‌طور ادامه پیدا می‌کنه.\u003cbr/\u003eاز طرف دیگه Cargo می‌تونه کل این crateها رو با هم مدیریت کنه؛ مثلاً پروژه رو یکجا build یا test کنیم، یا فقط یکی از crateها رو build کنیم.\u003cbr/\u003e\u003cbr/\u003eحتی dependency management و \u003ccode\u003eCargo.lock\u003c/code\u003e هم در سطح Workspace مدیریت میشه و خروجی buildها هم می‌تونن بین crateهای مختلف به اشتراک گذاشته بشن.\u003cbr/\u003eنکته‌ی مهم اینه که Workspace باعث نمیشه crateها تبدیل به یک crate بزرگ بشن. هر crate همچنان مستقل باقی می‌مونه و فقط زیر یک ساختار مدیریتی مشترک قرار می‌گیره.\u003cbr/\u003e\u003cbr/\u003eپس اگه پروژه‌ی Rust شما داره بزرگ میشه و چند بخش مختلف داره، Workspace یکی از بهترین راه‌ها برای مرتب و modular نگه داشتنشه.\u003cbr/\u003e\u003cbr/\u003eدرموردش توی هندبوک راست بیشتر بخونید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html\" target=\"_blank\" rel=\"noopener\"\u003ehttps://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-20T15:51:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "مدیرمخزن پارچ 0.5.2 منتشر شد!\u003cbr/\u003e\u003cbr/\u003eآخرین نسخه از خانواده 0.5.x با تمرکز روی پایداری، بهبود رابط گرافیکی و امکانات جدید.\u003cbr/\u003e\u003cbr/\u003eدر این نسخه جست‌وجو و فیلتر مخازن، مرتب‌سازی بر اساس قابلیت اطمینان، فعال و غیرفعال کردن گروهی مخازن، بروزرسانی خودکار قابل تنظیم، میانبرهای صفحه‌کلید و اعلان‌های غیرمزاحم به رابط گرافیکی اضافه شده است.\u003cbr/\u003e\u003cbr/\u003eدر خط فرمان هم امکاناتی مثل پشتیبان‌گیری از فهرست مخازن، همگام‌سازی، نمایش تغییرات، تست سرعت مخازن، خروجی گرفتن و تکمیل خودکار دستورات اضافه شده‌اند.\u003cbr/\u003e\u003cbr/\u003eهسته برنامه نیز با تست سرعت معماری‌محور، چرخش خودکار پشتیبان‌ها، بررسی SHA256 و رفع چند مشکل مربوط به همزمانی و پایداری بهبود پیدا کرده است.\u003cbr/\u003e\u003cbr/\u003e۵۸ تست با موفقیت می‌گذرند و با این نسخه، خانواده 0.5.x به پایان می‌رسد.\u003cbr/\u003e\u003cbr/\u003eنسخه بعدی: 0.6.x \u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-20T21:57:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CoFSly-7I7pfSTD9D2gxHSQ8m-F2uGqc7IcUrwQDcpE1R0PO8ls3b8oAKPHh4Sl1f-kCWKAEc_y8gWVkHjURh7C16B-UtcBvKEfCTbMz5xzBQeHgjAzs1-Tct1-7rxgOLFDpc-6RfBkhJ8lvquJF-pADNMElo2p8gFpUNDpNWaCic5QFXmGK5slZT6D6OD7j38Xm1_4qw9mun-JG1y1P162uN8gHK_CyQpbiUbKlVDZr0hmcrLNQGICkmW_BXaudEJSoCHRocwPNTeY3D7OdxO_6nCtc2T__m-SFJVSQJMkHPweeMSdxvFLzjPIgF1GyMpZa7SZlxctF3UaaTuRqfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شما هم با شبکه سامانتل پکت‌لاس بالایی رو تجربه می‌کنید؟\u003cbr/\u003e\u003cbr/\u003eمثلا در هنگام دریافت و نصب یک سری بسته‌ها ارورهای این چنینی رو ببینید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eOpenSSL SSL_read: OpenSSL/3.6.2: error:0A000119:SSL routines::decryption failed or bad record mac, errno 0\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-21T09:43:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "خب من همچنان دارم روی این پروژه کار می‌کنم، الان به یک بحث جالبی که برخورد کردم اینه که چرا بعضی DoH ها سایت‌هایی مثل یوتوب رو باز می‌کنن و این نمی‌کنه؟\u003cbr/\u003e\u003cbr/\u003eفعلا به DNS Record Type 65 مظنون شدم دارم یک سری چیز تستی پیاده‌سازی می‌کنم، خواهیم دید چه خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-23T06:24:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "من امروز کایرو ورژن ۰.۳.۲ رو رلیز کردم روی گیت‌هاب.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچه تغییراتی داره؟ \u003cbr/\u003e\u003cbr/\u003eروی نسخه ۲ من پنل ادمین رو اضافه کردم و حالا پارسا هم زحمت کشید و یک سری تغییرات داد مثلاً الان خودش می‌تونه برای دامنه یک سرتیفیکیت بگیره؛ همینطور زبان کانفیگ رو از json یه yaml منتقل کردیم برای راحتی بیشتر در استفاده از کایرو.\u003cbr/\u003e\u003cbr/\u003eروی پنل ادمین تغییرات زیادی صورت گرفته از نسخه ۰.۲ که اضافش کردم. پنل با ری‌اکت و vite نوشته شده و با bun کامپایل و در نهایت امبد میشه.\u003cbr/\u003e\u003cbr/\u003eشما الان امکان تعریف یوزر رو دارید؛ یوزر ها می‌تونن api-key خودشون رو داشته باشن و حتی دامنه درخواست بدن برای اضافه شدن به لیست دامنه‌ها مثل شکن و غیره.\u003cbr/\u003e\u003cbr/\u003eهمینطور ادمین می‌تونه نظارت کامل داشته باشه روی یوزرها و یوزرهایی که می‌سازه رو محدود کنه که چه تعداد درخواست در دقیقه مجاز هستن بزنن و یا چند آی‌پی می‌تونن اضافه کنن.\u003cbr/\u003e\u003cbr/\u003eهمینطور درکنار حالت قدیمی که بود؛ یک حالت جدید اضافه کردم به اسم دایرکت که این حالت کاربردش اینه که بجای اینکه آی‌پی vps رو برگردونه میاد و واسط میشه و همون ip که با \u003ca href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.1\u003c/a\u003e یا هر dns آپ‌استریمی که تنظیم کردید رو می‌گیره و به سمت شما می‌فرسته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-23T16:49:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 725,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,27 +20,27 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ELFDlPxmXrxKEr0HqN-3nDkiAm3nuwntPsxvHH3XwO8h2q00yg5yZi9L_SshV5tNdRqPj1Go-4NpRTMdlS8OlJ_tYFHOzfWmCc02zN4Nl9nCOdv4UTSPBW0X7KJWLtXUxjym4S_6bKhYpKfCjFs9KXP2iYj9ljsZ_NKv92RFDDBdhYnC1Sgk2mCmIuLY0aw48uLnaPFxD4lm_Zeo3xUbs7qbrvNL-iDXyOiPU4OWOeVrVHIvptmdkXN_j23P7tLN0MBWguZhxC77frPhgc2qt2aNIyqrsYJ1ar1bwTQzSRGR5AVBfoo6T6RAOTPTdFadnanJoeV3CyUS7SOz2HBGHA.jpg"
+          "url": "https://cdn4.telesco.pe/file/pzp5lTd5PISyERyVIUXhytIVMkbT2Rxew3pVfmIOL6MrvIvUA9IZ9Ro6NCLGm7O139O9M8gWozS2SV-vYgK0Etef5QOiaWq9GYnSB5dRy2FShYF5E5NriILrNOkv1mali7eEyMCU3qHOuiaRSDO7ro9Za6in6CyGMxTQwwWB8Vd0Mzknvmg2BbJiTjQw9o_jIoe14Ga5XzR8iuDFOYzO701ur05mbK7LHFYEVWkIjw60xIZjGEEhXRed1QlUyvJjAouuSUWb2SjJXUsBBCEIKImRb2kRvuIoN1xfyOo5zHSXNMDxikHwzZwCeBy8WXO_x5ahRXtTCdPaBo3zUZbWkQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WvB_0KVGXmJu8pi81fBhxr7m8Mn5vKZJv-3vnqBNGQwcCHkpoq0uG6FlgGEo88gKWaWMHJm7xgqdhQ6dZInZmm3AETrAZgJwX12E7lz3ypaRADgHDInsJA0kETRrzhYzEATU0Q9DEYcMfj3fQ-BfQKQ3SqcprzKxFv-3c5iMW0wD1-npA2ZB2FmkkhoGmMdZbo9KfCz-3dcgl4PGbAxG8oSpaKHN2PyI1MiGHW8G5PtqPyRzPkx4MBwvqxORYoEIAzSWutbtqmcT6jtKQ-Itsz2URgZwgBv_oV2qCjp-BEY2y2ciGBBDRRTVc5jwxdGt45BgZ1ewojuLss7_dfL_Vw.jpg"
+          "url": "https://cdn4.telesco.pe/file/nHhfoABYvywzK7hwJ2yLTWUTsUE9vh2zZMYlOI9DYu-faZrnpHIAxEGlNYc3CoitdgsP6a6APfcz1v-vYOY9M67uAQi02UwGDFYkN398H5kCaOGzHpwn52WxYiIHWtyVqz4rfxS22WSIIWwV8PJuM94oHm_Czp-PIe2R1l84hb9CpQ9uf9g7xARw4W-Jamk2JtS1Af4-E-nkahCRIdb3l2v3Q4Mor9eE1RcoGZ3ptoaD1eR7QD_jLKOO6Muxdy2-7hxg3yOSBWouLnsNwApL4Io-lzzs6OqsX4KgoZTDaCeQKjlyHBPbvO7VO9sHziVn2xmjBEKFXX-HlbuXS5P9bQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gJ5Xt93s6t8z045q-xxEA01EjYN3FnRYF6kkjGSoKoy2JugRAw0pblPadgr6FE31gnau8_pP8RAygdg9Eb9QdOHe494RVy5BWGncOJCyF5jr7KRkm6fGvxpaL_2nwVPknrb3A8UrNxL4H6eELgQxr_2qJwQxko65KE_Z3v8jFmHbNEx1Faeulnd1tACytHOER3taleSKn7TvLbRILWccCcQ3EXA373oARYgfroBKpeu_X59iSp1f_j39fg_IvO_dtvGeMIog_O-ZWpHPEimn8eZFFR6RLN-uountAcLd1ozFg_HpK1wXHDuKC8BvtVm_it0XB_4R0_7LtTjL6b18mA.jpg"
+          "url": "https://cdn4.telesco.pe/file/ECVMXWyu5ms1BLVQMQtopCgoC2BVz5ryWw5R1J5judJ645l7EORL3AqIVrvjzA9SZ5j2gHd535y5NUGI7RBupiFyQ3riBFhRZWH5zEEiTAc_Sn2T6huG6ltFBGd1AzGTyjrR3teqK0uJzTuOyVgtQ9eD5p81lZvKaB_xYbRADoitdCIPFjvHitKP4FL_NOm3vBUwNJtmxRj2h-nbGApt-oCpkFRxXpgO7P08xDq07NihWQOz3fdxn5pI1BuyvG1aocPHQyn8-NHxSefTp-RozTMzTP3lMJntJ8cMgphLVfs8adYrdz0FDp4ZQuH7l2PxI9mqkWo11ltmdZzwB7PIug.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/inYJBvJE-i0vxGW7Jj5w9oXb-qz2HSgevJQRiSZ66Jnjnq0ixd3PG_z4U0PRHi72ZbEZKJ2w3vDsD-hJUuaPQA0mH5nswpGoFJxCi32P2tUZ17k5RqkIxF6iD75V_g0ebBBa1iaemCfJMzIJdFcTcziQqlxHIrqEiKliD5u8iCrhaLb7EFkXomjGpUlkdu2l4HQTZcBy5kd9HmDDl-7-GQ-l1eR11v6-HBZTraRG4VpWGRklwaaOQecq0NtGH9YvyjT4R8juMcsZkFlobFWVAOqE0hzxeOkw0L3QenSWZiIWF8OMJfdMAQW2woqNn0oo4_bFCwN9bi2AeIbnp94oMA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Zsp9WJZXyorjSK0wMOfS9_49dnOfNOZrdVwmBf0Ft44g7fNJ1UqJBFRc8rk3PyWWOTUHI92TsBQ-wBU3CMEkfg-2LDATad8dSV-QFlprE57vgJacAlOKxLgHXEk7rpkSuzOIZ6Q8hUe_nbrxWIIQWEguVP0VPexEDjilahLODlsaql6bY8jwZTou7Cht-P0NOKhON6Dx17ni8b2903mcSI_Q85vpbyEWfNgwxhdcxsE2nrj3lnJ682Wr5AO6Nwz4X7D-M7IZQ68lhuGzBujeXx8pLUWdyI0wyZAGUo-iSRs9dnCYaFHnFbfZLZ6CzfSOvdBXe85AvGMtMuqj_cLPBg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IImB782kzOXpjXrvDifQFFd5P-MpOKLPRT75SgPBbElXJgpM31z-QlLZbat9Rt5Rr7JtBSguqON3o1Hkn3HelLFe9CxJ6LF8h1Atfzg-qapC-RJiBpsT5IX1pMjNvthHCir9gIRUe5KuGZY6Gnbh7BJazSL0XPK--9Tps17OcuYT-6DIHjP2NoyqdtIQwM9Q4BSMskoIANgDa73YxGucHKwrDaVr2lESZ-pwb1iYRSlufs6OAayViPYVM9IrJ2oEotNZ0Ht1JyPSmp1BfnfInAOGTP01LR4WOHJ6cZemX2ssh7dG6e7I1so0yqk0IUIAmfMNB8nAnXuc5qhXhZLfFQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/CFrc6YMfZi0kymQ_MgM7fAKALmR1Tp4_uppNrj8JRSPHrCCBGz8TaBeSpQLZRngwatx22gygL5ulspHE0aW3CSK83HNvQlSGWxfySbF6R4IWX-5xhv_QIS94-e-SFUcaNSWorShLeMDNOB4lrHMCvZjz6tNMjX6u-Z6DmkLqnLTDK349tuLjdaFP085Th0lAOrdd8u3fxNnMfS_Kyu5Rczgv9n6xjzrV7WXtdhWeor1m3RjMmjigjShFZDsjEqxrI9xlhEPNcN9QtkyPV30tols8v3Kg2DyJOb-0Dj6If7w_59hiuLpU22ketmykhUJrJyoVA6EQB_ztco10QQxgDA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vr69cCcW3hwNQM7ah61IlAalnBY63k0IGcLuKlwpzPU2LsmIkKAc0mg6CHI4Fy45G3vA07CRCXFMz-lvbcoALmTHQz2ZEc51Rs7nsqjPTHICddeR-2ye6YcxN7oYxsMF0x4QY4TjzD0pzOyGMwvUfcxp4EjmAmyJ06C2HG6zKWym4mCTYU3-mxjUZC52J18A99Ed7jwsVXgTnyBFPxcytucuMtVtu5GsvW_bV197Q8YAKhXftjdU-C3pty9hAYQBDS-U-1F-ksUVD0T1hwEyQeGnf45ga5gGbhUXQsy6LjIipjBM82cuQ2guKZ6xtYhOKxmHHPxrFqJ0K-7hqUWbTA.jpg"
+          "url": "https://cdn4.telesco.pe/file/IKGfRbtcttSV2BTfDALPAydJ3XEDL0i8rXg3Lz65J8fiTfGdZSeqnWkRrdg4tShYYAwGChbvgypwKSg2TerwuqpisWiAVAN-KPqazEHTp-H2J12Nia8g3q8WxebIYigT9nDWQmd2kNEVFNTaaxjf7rKIc0OllUWlVEmGbbKdwtsycRNs8jttDWy74DVo0XlUvQUEZ0pnDBJVIqzm_vJ17-mUONGaYc5us8cYZBRuzwvFk352UQ2xbE1BJwbjDRHVLzkNkNNdPv_Rwo1TqRX8Zg-zwOyPKyTf2qOsGtse1I_tGdbisWEYchEsrnbzl6sYh-o8bJDOH2siuaoDJ7vNQQ.jpg"
         }
       ]
     },
@@ -122,7 +50,7 @@
       "date": "2026-08-23T16:51:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 746,
+      "views": 763,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +62,7 @@
       "date": "2026-08-24T14:54:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 745,
+      "views": 764,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +70,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/c1dfgz6v4zjKQdapQcDLuA6E_Lk-dI99K37tMXebUk1FtgWQhPPtmfMCei7kE3JaWcUEfGenQC_-RwBJ66i19viJRhfNztrBb-QDGa2569I9uMkDcgEqS37MSS7yLBT9_uQtfi2vqDDFok9QMX48UtBuRlqsOeE9BJIWsS4hN2SPYbL6sRPTK2OCuG_Htn54cGYhvDWPkuYzYC-Ysrj3XdfMqTKH4iPmZKHN_HK7vox3qPbsRbi08mkJMeC1VUusXb_fAaHYLT44RiXR2AO-_loICSZc8xDfqfxEF91ezBGdDbas89wYy3VgbSpHOk9OwQox2pjusCvBuX0nv_9JGw.jpg"
+          "url": "https://cdn4.telesco.pe/file/XS00ZaQtFWrTSr38aeN7ZJoKbiWKRNn2PgWySQ3qyzQdfnIlgid2CAQm0GFB5lJMru83aOX4iktaaaOEcL_LLrPEVwiI7CMmZIE3KpykhPAHuYo-VWhIUdLJLSqMIayDhRa71RmJXs5aaQKAzYflDoQ-etEkWEy7pwnhXACv7Xx5G_kxIhlioKVpkCLNGJmh7bOkMzxAm2fmxiEfoDNEYKHviBIDF-w57-i-dNuNh3izFnPBGrravTMTpkhMrq1u-WUsLnfTQi_gStLKINMi4Ab3QI1RdrUIi7cjFDreuODqGwE0lTtRW60v43gxeXU0CtjHZCAEgOl-dWpohnKpGA.jpg"
         }
       ]
     },
@@ -152,7 +80,7 @@
       "date": "2026-08-24T19:28:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 735,
+      "views": 763,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +92,7 @@
       "date": "2026-08-24T19:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +104,7 @@
       "date": "2026-08-24T19:37:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 857,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +122,7 @@
       "date": "2026-08-25T12:23:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 752,
+      "views": 808,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +134,7 @@
       "date": "2026-08-26T09:03:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 551,
+      "views": 660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +146,7 @@
       "date": "2026-08-26T09:49:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 463,
+      "views": 578,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fKaUR01j7oRRbeUcayFE3wJWsc-aw5IothpwbeFQnSYnYGCPPNqPtBHq77PbUauGBpDqaVCPmu8M-3KWaqJ8Vo8REx_xVickHL7zbt2su8cWeDpcNtJo4b8KKbIiYO8cG5Y61_r1WtIAy5iP3gICm8skdXMrQEtpkCotEArs8W_hjU_htMZIKA-aiyPpt4LHpMfYMKujASgv66SzDLPrEQxo9SngmOQKjz78xrD2C-T5KYolZliYI_J81o908oUpN9PA_tHdpvO7Ptj6ECuXYUEVjBSkSOxkzMcp6x8Bub7lDUx0MhGRjDC9KqtmXni7e2gA_FH4GYjEbtUD4IALfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/dE8pH-rgOD2u2zUCXDFwvAga_p-ose9_KK_NMehp4h6PNaa-1cIX6hiRKc4HdzimjohZXAOh_VPOZVYnumRg0uYFomzUtjayOhnYmsebLqLtGtp85UCLTArchm6LgPv7reGbXgYI23i73_vwvHjrs6Kd_S6zJh1vo85ki7iZy2TU3peLvXk0rigueeiHtCuSS66bAD6gUjZ4UNBKskO6NWrdw3e7rY3nXtK0rRJAlFQRqPpzJlunhcOch1QBuurKWYU49D62kXYF9zrRhB7J06ZlGf-yK4yiqdh3KJKEPk3D4FtCukQLXbCm0NGWeqZH1AWNC_YQQBouFX4yDCkRXA.jpg"
         }
       ]
     },
@@ -236,12 +164,62 @@
       "date": "2026-08-26T15:03:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 394,
+      "views": 594,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "خب انگار انویدیا هاگینگ فیس رو خرید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتمام شد.\u003cbr/\u003eمبارک خیلی‌ها \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eالبته هنوز قطعی نشده ولی خب به احتمال ۸۰ درصد همان تمام شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-27T13:42:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 402,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکی‌دی‌ای برای زمان‌تون برنامه‌ها داره!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبررسی ۶ برنامه مربوط به زمان از کی‌دی‌ای:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9592.png\u0026#39;)\"\u003e\u003cb\u003e🕒\u003c/b\u003e\u003c/i\u003e \u003cb\u003eKClock\u003c/b\u003e\u003cbr/\u003eساعت. نیازی به توضیح بیشتر نداره :)\u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e مشاهده زمان چند شهر مختلف، تنظیم هشدار، زمان‌سنج (شمارش معکوس) و ثانیه‌شمار.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB2.png\u0026#39;)\"\u003e\u003cb\u003e⏲\u003c/b\u003e\u003c/i\u003e \u003cb\u003eKTimer\u003c/b\u003e\u003cbr/\u003eدستور رو پس از مدتی اجرا میکنه.\u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e مثلاً خاموش کردن دستگاه پس از ۳۰ دقیقه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eKAlarm\u003c/b\u003e\u003cbr/\u003eسامانه بسیار قدرتمند اجرای دستورات در زمان‌های مشخص.\u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e یادآوری‌های متنوع مثل نمایش پیام متنی، پخش صدا، فرستادن رایانامه یا اجرای یک دستور خاص. با زمان‌بندی‌های پیچیده مثل یادآوری هر دوشنبه اول ماه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e \u003cb\u003eKTimeTracker\u003c/b\u003e\u003cbr/\u003eابزار ثبت و مدیریت زمان صرف شده برای هر کار. \u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e ردیابی زمان صرف‌شده روی پروژه‌های مختلف، پیگیری ساعت‌های قابل‌صورتحساب برای مشتری‌های مختلف، گزارش‌گیری روزانه یا ماهانه زمان صرف‌شده روی هر کار.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D85.png\u0026#39;)\"\u003e\u003cb\u003e🍅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eFrancis\u003c/b\u003e\u003cbr/\u003eتکنیک پومودورو با هدف افزایش تمرکز و بهره‌وری.\u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e مثلاً ۲۵ دقیقه برای کار و سپس ۵ دقیقه برای استراحت زمان میگیره و همین چرخه رو تکرار می‌کنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB5.png\u0026#39;)\"\u003e\u003cb\u003e🍵\u003c/b\u003e\u003c/i\u003e \u003cb\u003eKTeaTime\u003c/b\u003e\u003cbr/\u003eکمک به نسوختن غذا.\u003cbr/\u003e\u003cb\u003eوظیفه:\u003c/b\u003e نوع چای‌تون رو از فهرست انتخاب کنید تا پس از گذشت زمان لازم هشدار بده.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23App\"\u003e#App\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@KDEFarsi\u003c/a\u003e",
+      "date": "2026-08-27T16:27:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 124,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/l64JW-aTLjZNvG7nF-cHnQYVwVf33kDvXofBU8B69zutr6C1pkz39GnGXhH0bcqfTLXJAxeTHzbEO1RR82zDd7ekLxq4fDERMRi6aWvZw5ccWZSa6yYru9R5LlLbIxRMOEJ-EfiPrhlLBRX20QYYfDdi8oD36uTpSF4y2HB56Ec2_8Ub-Ctw2cJfTFm184fH1PkaJ25Y6n36Ab5N4y8ddFwEAb-0d-v684xkLRvuqaOTOTK-r590ePeL2ipwRT3Om_nqYyuXqRZU0AmAP4q1kxPiQCs7Ikfv5BSZX7gwtOB18TWTMwcGTPh5Z5iWsksXB8zR3X5c2upQtGk1mk-F4A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cPa2JYNDoHqbsmYVhEbaNCAGJUQq6QXdZl4MGLoH4fEBkSwsq_ccxKTi927Jy56llyRxt7zw2ZkqYIyy54kRIpemtXbzYuV6kRtKaLNYpGoJBEaF4QgnMOQl7DRUjMr-3l4ncEjmvJSreCw4wLTltVaZLNmXqHud01P30sM8ADq7_w00PqdlfdcZi1tFBRGqPCnW5Oo3XY6GhbaLqMs7XRVUucf9FweYKDaX8XR3-3TYN3-QBKDVcIPZt0Sqtu1HqTOSxwB6V2DPon9p3MasJuisAP9ha6BVoKWOz1tmRW_wF4TACEkzrGfKBCiMeIenNja9sZtbTlYo2FRR49hwtA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IQzEWpJqWm6K2bLsvG0n5G3XOsRg1N3D7NFjSkLL6VthmGEta_vTMvBaPRDybRTx3aHu8XbwKCrPH7JtutHLJa7Tjk3-NQHcrNagy5Gby3HKF_0AM_tbWxZAFM5HfYMjD3TmKnRT3hCPFlsFIxsNTkxDtjhF71yilCGANJbmTfPMHvC_z7SOwb_fFoE0K0Vj72zs_gyv2S8tPIfqD124I21aRErGHl88MGnuD0kOwjIKrqSAELQZau3_tkBgbG6VTWYWUXc7O0pVGpevAaCguPxFQbPUbEljBm1GvvQu1xmvcMLj5tY-bI54LbIsl7V2LPDkEdgKbD1yKQNJEWNT7w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OOp1i3YZxDkACCfADysO7NzCrhkALbhBbTccGPp573_96j6uSS5ALFrfR3MnTBQAhF4wP7QCBPdmF_yQKQgGWy5ZJ-jj8C6yBTAeByEmCIrSNE4a3IPYa34dTGYMOdpGNccMgxM1Zli6ZZkJro9KFbYG4MJeiS2WU1OigRtuY0YzsoMO3cPowBbTF4KGvjyYGcoOWp-nKNWBiCRdjI7GaxJug_XEYrS-DHDgtZc5gQyv6wZxFumytWJqeK9JRVvvjpVSQlnExkAddf_JHFahr4mvQNNdOjikDQggEZK8JsJQi6yKD1Tpk7d5pbypBu_xAi-GwgsqlOTXGvh39UNh0w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ya05D7Raxup1x1SYSQuRIoWJU6nqY2ubkbeHE9_3aNk3uIEy1ZrBoVR_SMoCUmjYNgKrQz36_qyKaHXo5a35p86bdMsK0_6UbwusTfubPlEzpxqhRq4PefGUuwFLgcVyiq-o3DX2e5Shn6l6je1m5fGKzjt0fBE05ei-3iX3yTkhyTzHBQonmHYE8Y1NGXN-hnav3m5VFcu0KYhHK5BVnRlwBipun3KhwHcpwFUKyJ1ZC5BMxn9RKySA4Lh6RwER_1Sk4t7vkApkMq87v-G4rv8vI3DLGMMM_u4Jh9AbJOWF_VfQT48FCJZ99BVCoCr--a3n6Ch7Y-h-e9bli-eiPw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UupIGn_fRpRhlvop3W8htAOWHgspDMdiztlTEkiNnoth1UpgAqUgRMTfCL5LAWWsvmeEC7n3-i9nROmCar7lc9bXvn7vIgnyNtuzl84bHtnA4Xcf_9hI0HYmrb-1aJJGrOESRlPfvB_yKFLNVgNVtCEh1RipnF2fkX72lGeQyNyYtGEBQgB7lnn8VseIsE8n6IUO3UyPCTMxLoV8MEu9iQ9dL5o1drh7aP4UlF2D0nbIHxqHu75ZLjFw5y5fUl55S69S1hfzaRwoAN7AVt7XeurTfWV7neSpH-NAoAu8_CVRDS4YzxVZPSsxTDlwWm72W5kqdENZdrB5GOB1K1rGUQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787809499
+  "last_updated": 1787850331
 }

@@ -3,232 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/a9qOH0cAKuvT2dwkthaFGx-qYZ62Jh6RkS2frVdYf46OSSqWUn90vKs5Q5hAukXgAO3bQi138S4mJMPVT1Hvn7ZKwsqnlscXlBSx2sVNroQo8gskZsac76JAlL48aBeS7M30NSqtozfQwQIZWBAap4HQf5Hjb8S0fPIBoktt7igpqieZMnUAwcdvCE8oZEw3oxj1T0wfl2a-xRFF3xMnCz8yjWp2wUcNN-a_FRu7IXGdqLJTyy2pyKpjrNH6EOyyrtkgnXXP2gtQg90Zp8PE63RD02-UwJXCdJhQ6sL04ALSpZa6lBhSk8LA9NaSSN4KUiX7LZvDG5K6JmidwKPE5Q.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/ITo4-nqrYa_syf2IcH8RlXaXu80ds_20NT3GUcSKuqBG1tyYu21Wo-uHNeMAPBDqHUuqfuKM4MXp-WQoQzp1hOPB_AB8_EcbqhArWPyjacGDzJRyMcCPUD4WroQAp8Aqmu8TrIpThBoAFTLX3k9apzBeETQcOPzsZ_7SRzuL_c70ecs7ASsf7-Ca67HDV1LW8cXZemoxfRHzjHz2PxvmZmSVk75YuutO6PZIebl-wK0UkK3aF3gXMY50edKUTeNvzk8ahGsB3-IpD_plt3CF3xbCO9qeOipzVg4nceujBxn7qNN4uv9n2lt-OKmpxhoc-XyUxZ8UBluVnCfdbYWyZA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "گیم انجین Godot یکی از متفاوت‌ترین موتورهای بازی‌سازی امروزی هستش، چون برخلاف خیلی از موتورهای معروف مثل Unity و Unreal بیشتر روی سادگی، سبک بودن و رایگان و متن باز بودن تمرکز داره، اگه خواستید بازی باهاش بسازید حتما اینجارو یه نگاهی بندازید کلی منابع رایگان براش جمع کردن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/godotengine/awesome-godot\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/godotengine/awesome-godot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T08:24:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MG-db78WD_xQTdy5seDIOpF3vKOJk-BacLZLCmRv3bh9LrYStctL4OZq-GpjIIBYT2VVlQElEzgzIksZqEQeHGmCby-_x2NjHb3ECg9L9bVWiRrkDjF8ttfgJvzn0NQoYrDgAW1AavuxbUpU-sQ_kNxiGvqbIH5rkXR7ejKfz1F_7oc0WJhWefppO7Udd1WuKfwfHjLhDGTZiA7FkHlPm9YSycn6T_BuyoEm2CIsDgDL51qdVPl7oURESMCyS79l86sj5H0NwND-crIOpelLYk9nht3xpwgb2dlyf44PWhHMo83ROdGJRWYQ-z7X2Pyy3PFN0DWOn6Fo7qfDTt-3Bw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی کافه کد زدن مخصوص فرانت کاراست برن با ورسل ور برن وگرنه کسی که داره با C برای کرنل مثلا EEVDF Scheduler می‌نویسه بخواد بره توی کافه بشیه قهوه کوفتش می‌شه باید توی زیر زمینی انباریی جایی همچین کدایی زد :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T09:09:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e ۵۰۰ دوره آموزشی مکتب‌خونه رایگان شد!\u003cbr/\u003e\u003cbr/\u003eاگه برنامه‌نویسی، به دنیای هوش مصنوعی علاقه داری یا می‌خوای مهارت‌های فنی‌ات رو تقویت کنی، بین این دوره‌ها انتخاب‌های زیادی داری:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F908D.png\u0026#39;)\"\u003e\u003cb\u003e🐍\u003c/b\u003e\u003c/i\u003e پایتون، توسعه وب و طراحی سایت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e هوش مصنوعی، یادگیری ماشین و علم داده\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥️\u003c/b\u003e\u003c/i\u003e کامپیوتر، لینوکس، شبکه و امنیت\u003cbr/\u003e\u003cbr/\u003eدوره «یادگیری ماشین با پایتون» با تدریس جادی هم بین آموزش‌های رایگان این طرحه.\u003cbr/\u003e\u003cbr/\u003eفقط تا ۸ شهریور فرصت داری؛ از طریق لینک زیر آموزش دلخواهت رو انتخاب کنی و با وارد کردن کد IRANMAHER، با تخفیف ۱۰۰٪ ثبت‌نامش کنی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک دوره‌ها:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e﻿\u003c/b\u003e\u003ca href=\"https://mktb.me/b83q/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://mktb.me/b83q/\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-08-26T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ci_jz05nWO02Uk6W2uYvvx8HazJzdSG5ngMbHqJ9CXbJu7UKyoujVPOwaHcBk3ehe0SVuJvcxaUPDhSmYf6Wje_tHo4ojk7g7sHgjdbsBdx6PyLPBMMZCTl2QNKzsk2_wfjnhkH5vQCsOqlrwqLWUSWrTkJ6Lzlcg991-pF5VVPWMWTA43sc4EWdGnpAjFKFGno3qjMMUUgSfJihDoj2SHs2TbCm3r5sW1ZL8egcWaqRT_23u-EyTjqsv7vP30jMKR7cOx_7wqr2XaX-Xo1WcXjJh70t40uFwwzq-T6r1yD95HHRikh3Bcs7OaPF9ibJlzRQkPQdi_yAvhGIOFUk_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی با شعار هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/barnamenevisi/free-resources\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/barnamenevisi/free-resources\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T12:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/a602jhftkPVvRwaUWUM0_Too5xM4sL7GLr3am51mK5UtM0_Byh1lW_80hXjf3ejJwXW4EME3WRNUtoA1TeSR7jhIRmzDJ4oQtRKSx32VQo5NAkKy5Mw_nV1k5iCarKGZxIMimFhzHEDUwYk94mpHiaqUUC4EwuZUfLwb78WsBcbItm3fK_ShfJbhomL2eXNSTsVyiifFX1B8iy4_koZk7T3gnLP3fadDrijE1YGqIwfAU3EC_KxMzX2iXQh7YmgJ7bLHX-5pUe1jzt-b1-UlRNWuIupfvVLGNhb1uT7OxZHwgAW8_NMKwXPEyPbatOqPv-OYU4nS7pe24Kog1KYw9g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "گزارشی از شرکت امنیت سایبری تایوانی TeamT5 میگه گروه‌های هکری وابسته به دولت چین بعد از استفاده از DeepSeek و چند مدل هوش مصنوعی متن‌باز دیگه، تعداد حمله‌های سایبری خودشون رو بیشتر از 2 برابر کردن.\u003cbr/\u003e\u003cbr/\u003eدلیل محبوبیت DeepSeek بین این گروه‌ها اینه که توانایی فنی بالایی داره،‌ امکان شخصی‌سازی زیادی داره، هزینه استفاده ازش پایینه و مهم تر از همه محدودیت‌های امنیتی کمتری نسبت به بعضی مدل‌های غربی داره.\u003cbr/\u003e\u003cbr/\u003eاین هکرا مستقیم به هوش مصنوعی نمی‌گن برو فلان جا رو هک کن در عوض ازش برای مواردی مثل پیدا کردن هدف‌های مناسب، بررسی آسیب‌پذیری‌های سیستم‌ها، نوشتن  ابزارهای حمله و خودکار کردن بخش‌هایی از عملیات هک استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/khN23_7p2TDL2RtL3OB6SY5tPu85OEBUA8ZtLfzU88PVRhBDZYGtiv9N-KYLjguV8CKuGcQna6dvKkGvasfrqXHGdeL20yxE_T07llKcLfsPcPbTNm7OJM_KYAcf9m_NOk-PDFAhIQyRrFMSA2s_Dq229OZyJL4mVQLn9uXj8l1nPxw_mR3qZrAvLa3OBQ9pB-e5Pg7OmwJu4lUX7ae2iHOEB9nbYYgVKfy5bI6kpEqog813_WJe-_ulGuHODwS7A1h4V_sGpTudyiooWJykm89dMRor3kciu9bP40gdEqmqLPfwbNDOoJ2HEJ_wkCDi-ZdCT0ARhd0Wtm0kHN2sTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "گوگل بین یه دو راهی گیر کرده اینکه موقع سرچ اون Ai Overview رو ایا حرفه ای و قوی تر کنه یا نکنه؟ اگه حرفه ای تر بشه کاربر دیگه روی سایتا کلیک نمیکنه و همونجا جوابشو می‌‌گیره اینطوری کاربر خیلی راضی می‌شه ولی سایتا ناراضی چون بازدیدشون میاد پایین؛ اگه سایتا هم ناراضی بشن محتوا تولید نمیکنن خود گوگل ناراضی می‌شه. \u003cbr/\u003e\u003cbr/\u003eاز یه طرفی اگه حرفه ایش نکنه پلتفرم های هوش مصنوعی دیگه جاشو می‌گیرن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T13:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6147654280112248427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e UNIQUE TCI\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269267069372469947\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کانفیگ پرسرعت، فقط ۵,۰۰۰ تومان / گیگ\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5402406965252989103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود تا 500 Mbps\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247036660759160453\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90B0.png\u0026#39;)\"\u003e\u003cb\u003e🐰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آپلود تا 300 Mbps\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224450179368767019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مولتی‌لوکیشن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5434076031164103400\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آمریکا  •  \u003ctg-emoji emoji-id=\"5431695798943363996\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آلمان  •  \u003ctg-emoji emoji-id=\"5434067424049639550\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرانسه  •  \u003ctg-emoji emoji-id=\"5431529734032865031\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترکیه\u003cbr/\u003e\u003cbr/\u003e━━━━━━━━━━━━━━\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e IP ثابت + ساب اختصاصی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بدون محدودیت آزاردهنده سرعت\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مناسب Gaming \u003ctg-emoji emoji-id=\"5350803719170564382\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e و سرویس‌های Google\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سازگار با Gemini و سرویس‌های هوش مصنوعی \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مصرف اینترنت نیم‌بها\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رفع مشکلات اتصال و سرویس‌ها\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5278467510604160626\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10GB فقط 60,000 تومان\u003cbr/\u003e\u003cbr/\u003e━━━━━━━━━━━━━━\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5418339915236664725\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Unique TCI — سریع، پایدار، اقتصادی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5384502732654653912\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UniqueTCIBot?start=welcome\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@UniqueTCIBot\u003c/a\u003e",
-      "date": "2026-08-26T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kkMuY9P129DWs1q3c1i6zhC3TotUAxesS3qQ_271v1Qfzfb3EApaTjrwqNFVEuYSX0r50v5WsMAoIX5785CWonPC5ZFyoQI1ZNPZ89UP3lUZRguKmSMudn1chq2Se-RFN4G_LULNodTpEEzGnLPHj2Aj4ZdDDDTss45nEzQ2xbt1hjlV9nR9gqQgi8XQkDZNL8P8moEF6qaqljw6MtaX-wTTi1-G1uRqPXnLqisCJs-Q9MiXlUmwISp4Wg8IIm0w4WiMDN-jHTp-lZIHgizPu-YFdDTlRETR19V43Bo25OHkfA-FbIZd47Uy5TCizmfQ169wxDRypRinJ6xu_e968A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی جدیدا Claude Code رو با پایتون خالص دوباره ساخته و هزینه اجرای اون رو 230 برابر ارزون‌تر کرده. اسمش هست ClawCodex، این یه پورت کامل از صفرِ حلقه‌ی Agent مربوط به Claude Code هست.\u003cbr/\u003e\u003cbr/\u003eاین پروژه پیشوند درخواست‌های شما (request prefix) رو به صورت کاملاً ثابت از نظر بایت نگه می‌داره، به همین خاطر کش پرامپت DeepSeek می‌تونه کل سیستم شما + ابزارها + تاریخچه گفتگو رو در هر مرحله پوشش بده.\u003cbr/\u003e\u003cbr/\u003eوقتی ورودی از کش خونده بشه، هزینه حدوداً میشه 0.0435 دلار برای هر 1 میلیون توکن در حالی که همین 1 میلیون توکن روی Claude Fable 5 حدود 10 دلار هزینه داره.\u003cbr/\u003e\u003cbr/\u003eپس هرچی بیشتر کدنویسی کنید و حجم گفتگو و تاریخچه بیشتر بشه، سود کش بیشتر خودش رو نشون میده. پشتیبانی از 25 ارائه‌دهنده مدل زبانی مثل Claude، GPT، DeepSeek، GLM و مدل‌های لوکال با Ollama :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/agentforce314/clawcodex\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/agentforce314/clawcodex\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T8ECB96NetzLh7ShrHFTMKZk8nu_G-jI9Q0Tc653sA7MUX3VJJ3Yznd2p9asXpcxYmZPjGrc76YmQL7kXrGTLHL2oHc9iG0Qe3-Z5ddCxyfPMtoupgPHQB6Y52ak7K1S4230qM_nl6OQfZXGBLm60qB53NDazB81-Gq7PkniuIYoigBM-XOxNkHI8LwiufihTv7EH313O3iWKWhCoZFTBuB8kye41uB0SN7M6LMpMbEI7Ow9ru9b8hvaAreZvPYUcsXst3U6xBBD3Gj91AvJUjfSRorFAdN7wr0bpZe0abkv5FY33C5O1qTeXv1TD8WuENg7MwQgZnTzRmFfgCu1pA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هوش مصنوعی دیگه داره همه سوراخ هارو باز می‌کنه، مایکروسافت یه مدل هوش مصنوعی برای شیمی کوانتومی ساخته که حالا داخل CP2K (یه نرم‌افزار برای شبیه‌سازی رفتار اتم‌ها، مولکول‌ها و مواد در مقیاس کوانتومی) قرار گرفته و می‌تونه روش مطالعه مواد جدید رو تغییر بده.\u003cbr/\u003e\u003cbr/\u003eاین مدل که Skala نام داره، با یادگیری از داده‌های دقیق شیمیایی می‌تونه رفتار الکترون‌ها و انرژی مولکول‌ها رو سریع‌تر و دقیق‌تر پیش‌بینی کنه؛ یعنی محقق‌ها قبل از ساخت واقعی یک ماده، می‌تونن در کامپیوتر بررسی کنن که آن ماده چه ویژگی‌هایی خواهد داشت\u003cbr/\u003e\u003cbr/\u003eاگه نتیجه خوبی بده بجای سال‌ها آزمون‌وخطای توی آزمایشگاه باهاش می‌شه با سرعت بالا توی صنعت ها پیشرفت های خوبی کرد مثلا : \u003cbr/\u003e\u003cbr/\u003eطراحی باتری‌های بهتر با ظرفیت بالاتر و شارژ سریع‌تر\u003cbr/\u003eکشف سریع‌تر داروهای جدید با بررسی میلیون‌ها ترکیب شیمیایی\u003cbr/\u003eساخت مواد جدید برای تراشه‌های قوی‌تر و کم‌مصرف‌تر\u003cbr/\u003eتوسعه فناوری‌های انرژی پاک مثل سلول‌های خورشیدی و کاتالیزورهای بهتر\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mKK8lpuHn7MDgggG5WjlmrH9ZAEK8LnIb4KeuXVcn0lYuvCta8hXhv_syCOxeT1-2f84j8oxkYfFIq-Kj53VZ075aKZTUhiHKQmuLPeJkcPImtgBvkbj21WJwNbIRmzDkfk_XVt_m6hrnM_lx_GCYxT2471lsC5Y7VxLQq8x0BSlspeeyc7KxEHtGxoaUi_FQeu3YyWLcxaS7C58E4RsAq401ISe_stBYaFL5U_hQ0zJu79BDhUCE-zGL7UQUGHjnZpOYz_iwp3QfET-3Lrq_Ur5PjG6ey5k0ybzui5EvbZ5vBHMsIQbW83ig6b2HJvvPSPj7JmS4_eCADj5uqQHLw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به نظر من اینکه AI میاد خودش پلن بلند و طومار می‌چینه و شروع می‌کنه به انجام دادنش زیاد ایده قشنگی نیست باید یه وب تعاملی کوچیک اول بسازه بعد به صورت چهار گزینه ای یا هرچیزی از یوزر سوال کنه اقا چی می‌خوای برات درست کنم؟ بعد بر اساس اون سوال جوابا شروع به کار کنه چون مشکل اصلی اینه که یوزر های آینده و جدید هوش مصنوعی که عموما هم بچه ها هستن دیگه علم کافی برای تحلیل ندارن که و تجربه ای هم نخواهند داشت هرچی بزاری جلوشون قبول می‌کنن :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T15:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e 24 ساعت تست رایگان سرور ابری ویراک، حالا با اعتبار هدیه بیشتر! \u003cbr/\u003e\u003cbr/\u003eاگر قصد راه‌اندازی یا تمدید سرویس‌های ابری خود را دارید، الان بهترین زمان است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e تا پایان مردادماه:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 15% شارژ بیشتر هدیه روی اولین واریزی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 10% شارژ بیشتر هدیه روی تمام واریزی‌های بعدی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e   24 ساعت تست رایگان\u003cbr/\u003e\u003cbr/\u003eفرقی نمی‌کند اولین بار است که ویراک را انتخاب می‌کنید یا از قبل همراه ما بوده‌اید؛ با هر شارژ، اعتبار بیشتری دریافت می‌کنید و همان زیرساخت قدرتمند را با هزینه کمتر در اختیار خواهید داشت.\u003cbr/\u003e\u003cbr/\u003eبرای دریافت کد تست رایگان کلمه *«تست»* رو به آیدی زیر ارسال کنید.\u003cbr/\u003e\u003ca href=\"https://t.me/cloud_virak\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/cloud_virak\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e پس از دریافت کد تست رایگان وارد پنل VirakCloud شوید ، کد تخفیف خود را وارد نمایید و ابرک خود را بسازید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://B2n.ir/qy4432\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/qy4432\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2988E.png\u0026#39;)\"\u003e\u003cb\u003e☎️\u003c/b\u003e\u003c/i\u003e 02191555530",
-      "date": "2026-08-26T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mhsWzWtu6AlMBU68HtvbnubJKK9DvzlycOs7oCzUDoQx0clANX4nrMnppWOjw6YASdGScmbsVWQzOVA7KtSYhJnu2L9kWEcD_c-GwR9B-j-9LcSbFGeRZye3Hr1sn1ivHNtSkKoX8pL1-yG2bsuCxMWu0rky0ttHvyjJOFBzAc1QhW5wW87EhmDcpSiK5OKtJtqrPNQiSrjwVyP3l7b-JIWgBaiKIcjwHv6WVVur60cqzU33LWg9UddsOOuhAZS6ABzh_ceHSi4oKlSo8sPH34xOo99JPwUNg_f_Nx2pc7NHO7s8iurpoHd53sdmo__mZy7nXTW9uVIvfj7X1SCFlQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سیستم های لینوکسی مثل ویندوز آنتی ویروس خاصی ندارن نه اینکه ویروسی نشن بلکه کمتر در معرض خطر هستن، یه آنتی ویرس ClamAV هستش که اونم ترمینالیه و کار کردن باهاش سخته یه نفر اومده براش یه رابط کاربری ساخته که بتونید روی لینوکس شخصیتون اجراش کنید\u003cbr/\u003e\u003cbr/\u003eباهاش می‌تونی فایل، پوشه یا کل سیستم رو اسکن کنی بدون ترمینال.\u003cbr/\u003eامکان قرنطینه کردن فایل‌های آلوده، حذف تهدیدها، آپدیت دیتابیس ویروس‌ها و زمان‌بندی اسکن‌ها رو داره.\u003cbr/\u003eموتور اصلی همچنان خود ClamAV هست؛ این GUI فقط یک ظاهر ساده‌تر برای کنترلش هست.\u003cbr/\u003eبرای کاربرهای لینوکس که فایل زیاد با ویندوز رد و بدل می‌کنن (مثلا فلش، فایل دانلودی یا فایل‌های ارسالی برای دیگران) کاربردی‌تره، چون خیلی از تهدیدهایی که پیدا می‌کنه مربوط به فایل‌های ویندوزی هستن :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/linx-systems/clamui\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/linx-systems/clamui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S10b9GGCISq81AsrUy15fWvCbrhqhyx3fOktoLuAY23vme0UhdTsN60Uk5hDyosHf-DgIDzCnZ20cUI6fgPR0LvJbXPH9vHfJ_K4YpDh4WNOdDrZkTEkxz6YRZrJeeLYhELeKH8p3x5SnzvPkylPbvGu1CqdUwgvzcMpkA4fRh0LqjDg4wCQNECBIkHkYd7V2YOGxJz-P3RTLjjxEo0uT89-axgrRVFMn2T4vsRjpgxqaCfUHOwaQm-1lM9npVX2N6GgR2q4T1aAJB3A2LL3FPpi2iQzjBnEeTLzs0Zje5S0w0LlscMLTuLvzwVJG06oY3floPywG3RO49uySGGK9A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بیل گیتس هشدار داده که هوش مصنوعی می‌تونه به از دست دادن گسترده مشاغل و ایجاد سلاح‌های بیوتروریسم منجر بشه و تهدیدی جدی برای بشریت به شمار بیاد. او از رهبران فناوری به دلیل عدم رسیدگی کافی به این خطرات انتقاد کرد و بر پتانسیل هوش مصنوعی برای استفاده در ساخت بمب، سلاح‌های بیولوژیکی و ویروس‌های کامپیوتری تاکید کرد. گیتس بر نیاز به برنامه‌ای برای مدیریت گذار به دوران مبتنی بر هوش مصنوعی تاکید کرد که به اعتقاد او یکی از پرآشوب‌ترین دوران‌ها در تاریخ بشر خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ENXZCkn87hH9fQ5e5KF5ySOQcEpQpQo2qWWQD2GgMvy0JnJUkChrPV6T0GQXPoJiHnudQJPmZFtVTFigXf27fIEIGCUvZsoPRgEQfU4vt4xHyaSq_nIkjE4laMHexMvPSOFk3TuPoUKJ6AXsF0Gvzl0SknYHMZkjrsiH6Maju_mpFBWLiHyDMt_b94PMqkucBxZEVMXI-N8__tih2N7Va1AHyRW90VOWX-xqJDXy6_PVlAyq8M8Wd88mQE9Y-ewSEP6K7rYMwdONYEhD3RQt5xWlG-BzmlbrYH9i1uv0lfj3Xhsx_S6b0hfSRyEJ-AWP7uvZsq6P0c7QQZaDjEmY-g.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "رایتل بسته نامحدود رو اضافه کرده، احتمالا بقیه اپراتورا هم اضافش کنن.\u003cbr/\u003e\u003cbr/\u003eالبته سقف مصرف منصفانه 80 گیگابایت داره و اینکه هر ماه فقط یک بار میتونید فعالش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-26T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
+      "views": 7380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C--NEGiIuo7Zd0-c4w4F-VnDIijvD9GLd4k5wSG6uJmrwfwEy-pmHTUMeY2CNaMvmadA5-AsrapplNcjup79PXhE_QpnWNMgmc8oXXEgGjm1BaUB2c-YI_-ARaVvbjlptQXGeDbhq63XbeDYdcdW-PDDO3c1ASD6oYfeYV-i9jO-rgpbKnRShmbesjvAeN6Oa3Xw_OmRlNjJ_pnHdUzshkwReN7Oki35HLQZEP_0lWURCRSCEvxlrqFUYVjGjzvzRFBRmXj59a2ucGVQNP-VISZuXTG_89deTjgwgOfCyVgq5-XmpCPcay59IHlw3ORVbV9Qrv-i6dFsjKlWgRF6Ug.jpg"
+          "url": "https://cdn4.telesco.pe/file/W-4kveosilRJgS8BoA5tsGvuJLsSQkQPa_2fjgMexB2ddWa_iyvcXWvuiry0MWE8CUIDHlSA0WrxVObew0m5AzSW6CjQEmmdVMInEdKepLboFceY-nSVW-Oe95udLgolL6BwzDVILdXfC5cuwspM07Q9DvYy3jkfdWRzr8Z1Wz3-_Q9rnvwJlEgYWa08JK4R-E50Soukuqjm9rKGIxYFF7MXEjz6iLax1xKm8QlWOH4TRBzGsOsXf3dQfu_9i20D5BfkkNN_4Ym07wB4C8LPpd_dNtZv3JCqyJPN7wuI991fde4wkxbLcqSX8PAvVG9s2NQpPzgCpiDIgF706vLSJA.jpg"
         }
       ]
     },
@@ -246,7 +30,7 @@
       "date": "2026-08-26T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +42,7 @@
       "date": "2026-08-26T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +61,7 @@
       "date": "2026-08-26T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +79,7 @@
       "date": "2026-08-26T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +97,7 @@
       "date": "2026-08-26T20:08:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4890,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,12 +115,243 @@
       "date": "2026-08-26T22:12:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "فریم‌ورک اپن سورس HyperFrames امکانی فراهم کرده تا کدهای HTML، استایل‌های CSS، فایل‌های مدیا و انیمیشن‌های دقیق (Seekable) مستقیماً به ویدیوهای قطعی MP4 تبدیل شوند. این ابزار هم به صورت لوکال با CLI و هم توسط ایجنت‌های کدنویسی هوش مصنوعی به عنوان موتور رندر ویدیو قابل استفاده است.\u003cbr/\u003e\u003cbr/\u003eتولید خودکار ویدیو توسط ایجنت‌ها تا پیش از این معمولاً به فریم‌ورک‌های سنگین مبتنی بر React وابسته بود، اما در HyperFrames هر صحنه با ویژگی‌های ساده زمان‌بندی مثل data-start و data-duration مشخص شده و با کتابخانه‌هایی مثل GSAP انیمیت می‌شود. موتور رندر با استفاده از Headless Chrome و FFmpeg خروجی روان تحویل می‌دهد، بدون اینکه به مراحل پیچیده کامپایل یا Build نیازی باشد.\u003cbr/\u003e\u003cbr/\u003eمن لینک یک بلاگ را به Claude code دادم و کل ویدیو را با استفاده از همین HyperFrames به همراه صدا و caption درست کرد. کیفیت انیمیشن‌ها و خروجی آن را ببینید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/heygen-com/hyperframes\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/heygen-com/hyperframes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MehdiAllahyari",
+      "date": "2026-08-27T08:50:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/XLOpNlo1Pt20tHK70mnj3Ytg83dzylTpr2Bj2Eb3lsqXttS8f-XmY4t-N56F0_gvEB3GoAvDtvlU105Z2FVrTF3w7lPbRoQYle5VN1h0gAn_JVLBGplRM0GzFzFy-nZpbpwjhxZDRY5ky8Xq6X94HP0lRpT5qUg_a5KRa4Q2dpiye9sn8spUn-r3fUfu_Xuvzqs-nLoGkpX754zL9Uo49kKMXIZJXU9_nSgcDynSxm4T-BSwlxvXzKqNXHXq1O5Rl_6_a4XcFaIpUcYC_PRgimc8j_bc0bEJrB60OsAEIZg5SFwZXwsR3AlAxWcFog3wSkmCM3v_WJR2buKUomMsTA",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6296367896398399651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبه api نامحدود کلاد نیاز داری؟\u003cbr/\u003eیا قوی ترین مدل رو برای کد نویسی میخوای؟\u003cbr/\u003e\u003cbr/\u003eاینجا جفتشو داریم با کم‌ترین قیمت ارائه میدیم.\u003cbr/\u003e\u003cb\u003e۹۹٪ ارزون تر از api اصلی با sinox api!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبدون دردسر بلاک شدن اکانت و در دسترس حتی با IP ایران!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4918203446202467778\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9299.png\u0026#39;)\"\u003e\u003cb\u003e💙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Sinoxapi\" target=\"_blank\"\u003e@Sinoxapi\u003c/a\u003e \u003cbr/\u003e\u003ctg-emoji emoji-id=\"4906943755644306322\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Sinoxapi.com/\" target=\"_blank\" rel=\"noopener\"\u003eSinoxapi.com\u003c/a\u003e\u003cbr/\u003eتوکن مدل‌ها اینجا نامحدوده\u003ctg-emoji emoji-id=\"4906970517585527443\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-27T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WVeLx1ssN_gmqOCI7a8xOvSG4mDmEs-pli2-wuUMogEaydPMq9o8UsqaykulvdSh-6oWKbnAd12zPE24mLb6mTGjOvrSsP2O4jcqHGJBkAM1T86aEIvpROnY_J9MWbgram_bdSVguRoOeZhekFX6Rilgs8EgYrWJhN8NhdAdQ5hyR5uOCn5wcq8dX91NGG61ZVxCQtWCWMg3i0XEJgAGZtg2YDpFfix2umnL2CaM5LYC59Py-hmBQo8nJuSRbHZdIVQZ5Wmm-vkPVUYTS3F5S3qpYONrDQG7PDyiMZDplzgTlPhbImpVPw1KeFlg1V7_1oN2vZPNGP5cWCsuYKg2kg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ساخت ویدیو با AI داره به سمت کنترل کامل صحنه می‌ره LTX-2.5 BBox Control با استفاده از IC LoRA منتشر شده و اجازه می‌ده خودت مشخص کنی هر سوژه کجای صحنه باشه.\u003cbr/\u003e\u003cbr/\u003eفقط کادر هر آبجکت رو مشخص می‌کنی، میگی داخلش چی قرار بگیره، و مدل ویدیو رو بر اساس همون چیدمان تولید می‌کنه.\u003cbr/\u003e\u003cbr/\u003eیعنی کنترل بیشتر روی موقعیت، حرکت و ترکیب‌بندی صحنه‌ها بدون نیاز به پرامپت‌های پیچیده‌تر.\u003cbr/\u003e\u003cbr/\u003eدمو و اطلاعات بیشتر توی این اسپیس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/yuvraj108c/ltx25-bbox-control-demo\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/yuvraj108c/ltx25-bbox-control-demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T12:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/GkgN3TbxFGxWhc_WQQm4CuQYa3OCLScn2-455UDei33cVP2VWlmv1RvMnsYHtQkpFCkhJEdTzYHp3FBbUi4sAsULBjRolBSe7KojqldJ3CJ2F5zPj21nH_Y10Pnn2JB4XV4jgng5TCNTTRNBdjtJ6iW3E3d9q2SZR5VGjAkRoFh3Q8kJidwbIclG2jeKj2oUScZd16A561IZ3W2X8-s0xJ9sRHAN_f36cKSL30-ljzFW32mbjzyqS5eObySYzMK6923_gxb7GYhpX7_ZiEO2u5EVYyqTe0OJYH9OpE8BgLYVACwRahWOTsa7yjZivxSYvlNTGR_lrWI3ChwEA7wnag",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خداحافظی با GPS؟ \u003cbr/\u003e\u003cbr/\u003eدانشمندان ژاپنی سیستم ناوبری جدیدی به نام MuWNS ساختن که به جای ماهواره از میون‌های پرتو کیهانی استفاده می‌کنه. این فناوری می‌تونه در جاهایی مثل زیر زمین، داخل ساختمان‌ها و زیر آب که GPS از کار می‌افته، موقعیت‌یابی کنه.\u003cbr/\u003eآینده ربات‌های نجات و خودروهای خودران شاید به ذرات فضایی وصل بشه.\u003cbr/\u003e\u003cbr/\u003eالبته این فناوری هنوز جایگزین آماده GPS نیست؛ برای استفاده روزمره باید دقتش بهتر بشه و به حدود 1 متر برسونه. مشکل اصلی فعلی هم هماهنگی دقیق زمان بین حسگرهاست\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fvOzMaGb2irG9Sg7DJHI3oSIdL5ktTbvX1i5HIZ57I4LCgzR8k8KmIkupG-3ty6N0SjrIU9fJrwP7UrBQXlLmxMChv8KAJhgIUZeFD0NVb_-NguJtDRpMcxIuk6ZPrMXS2n20LKtsO4XEWoAJ3w5bmh2uzMJC1eyNlNJP261XyJSmdzewdXF6bJgrOoxU7R-uNT6QyGYrWDakJk_mO8CRpmU0YjzmN9FDtas9HSds4IM_HoZc17-ZOvB1i6MX2S5vO50CTs8T10B0KTPoA3rMkeb_qj7dptMdks1ZmREoTz3hdBV3NUxB0LdXMi6VdIVlYq2AJxf1O1EdIJtEZsYbw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این یکی از معروف‌ترین گندهای تاریخ اپل بود و بهش حتی لقب \u0026#34;Apple Maps fiasco\u0026#34; یا \u0026#34;Mapocalypse\u0026#34; دادن. داستان مربوط به سال 2012 و انتشار iOS 6 بود.\u003cbr/\u003e\u003cbr/\u003eقبلش روی آیفون، اپلیکیشن Maps در واقع از دیتای Google استفاده می‌کرد. ولی اپل و گوگل کم‌کم تبدیل به رقیب مستقیم شده بودن (مخصوصاً به خاطر اندروید)، و اپل تصمیم گرفت وابستگی به گوگل رو قطع کنه و نقشه‌ی خودش رو بسازه.\u003cbr/\u003e\u003cbr/\u003eمشکل اینجا بود که اپل این جایگزینی رو وقتی انجام داد که سرویس خودش هنوز آماده‌ی رقابت با گوگل مپس نبود. با انتشار iOS 6 در سپتامبر 2012، گوگل مپس حذف شد و Apple Maps اومد، ولی کلی مشکل داشت.\u003cbr/\u003e\u003cbr/\u003eشهرها و مکان‌ها اشتباه بودن؛ بعضی خیابون‌ها وجود نداشتن یا جای اشتباه نمایش داده می‌شدن.\u003cbr/\u003eبعضی مکان‌های معروف گم شده بودن یا اسم اشتباه داشتن.\u003cbr/\u003eحالت سه‌بعدی Flyover بعضی ساختمان‌ها و پل‌ها رو مثل یه نقاشی سورئال خراب نمایش می‌داد؛ پل‌ها خم می‌شدن، ساختمان‌ها له می‌شدن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T13:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DQVrWRg6hMWEgF50E8mcgPxwmoxGYILFUEub9ZysHfqfg-NvQhYHOKmE7WfNke55Rr7rJb2TH_N5C8ajD1PKvgnKD3xKiHO5rHSMvAGYr7r3Y1EjzytFaRqLoMJgJYXV2PUFNVbKK_pu_TJ46o525RaQWt0qpQOHNxO39P2Yq86m5nsxwDFf9Xiys2UfwZd78VMOZ3E2bCYyDmlW6V4MXixMiM4-IZKFfaFA2DnMajU9gMsZB8gLt9_4oUXgMhsAhUGcoS3s4N2hpMjCLinHxa5OrO6UiSVZny45yVRkYFyqM76YsSQdMxxTxQLYJCb7dmsCd_qV9O_7hKZ8_4KP3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه لاشی بازی‌ای که توییتر و اینستاگرام انجام میدن اینه که سال ها زحمت کشیدی 100k مثلا فالور جمع کردی بعد یه تبلیغی چیزی میگیری که یه درامدی بشه اما تبلیغ رو به کاربرا حتی فالور های خودت هم نشون نمیدن مثلا 1000 تا ویو میخوره کلا؛ علتش هم اینه این پلتفرما الگوریتمشون یکمی بی رحمانس و اگه چیز جالبی نزارید حتی ممکنه به همه فالور های خودتون هم نشونش ندن ولی بر عکس چیز جالبی بزارید حتی به کسایی که فالوتون نکردن هم نشونش میده.\u003cbr/\u003e\u003cbr/\u003eالبته راه حلش اینه که تبلیغ رو با محتوا قاطی کنی که کاربرا بپسندنش ولی دیگه یه جورایی مثل تلگرام اختیار کامل فالور هاتونو ندارین.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T13:35:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5850378311993134902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اشتراک Gemini Pro با قیمت ویژه!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456421831177175816\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید اشتراک Gemini Pro فقط با \u003cb\u003e222 هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5881732578276282078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل آنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5881732578276282078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع و بدون دردسر\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859637724612399613\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه دنبال یه ابزار قدرتمند برای هوش مصنوعی، تولید محتوا، تحقیق و کارهای روزمره هستی، Gemini Pro انتخاب خوبیه \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852967451423150154\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/nexaccbot?start\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای خرید و دریافت اطلاعات بیشتر، همین الان اقدام کن ظرفیت محدود\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/nexaccbot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/nexaccbot\u003c/a\u003e",
+      "date": "2026-08-27T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CQ7w2wiZUOv22oSjq2s6soHAdqSex-ONECqRquOZ_vwqvqN16rw_AOxeXpoQiMujB76GQDdqE2A7UmtYeDfKQ8oJioE1SL9oydDOSM9Edv6qoHX5s8wwy3NSXmMPGekENoE7H6bcIQ3Ef2EL7ajarg5IfLzM79_1S7wXlPFkrUEvO_cGAxgEOofXycPcJ4xAMCQWi5LQ7JPeXHDGKEAhp40rjE8JU91KIuD5z1KEFNlhggvjMV5dBBY0-iraa2AcMvg_sU-SLIZbQG5AZFl_UX6V7uBwOc01XpwWdMm0rn6T-zLKFodrcdl79W7eLMP5GANw_syN2xjwZVzRifIfSA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این لودینگ ها هم جدیدن و خلاقانه خوبیش اینه که SVG هستن و توی سایت و اپلیکیشن و هرجایی می‌تونید ازش استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://circleloaders.dominikakissi.com/\" target=\"_blank\" rel=\"noopener\"\u003ecircleloaders.dominikakissi.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oYBcaxtwFatDyxC7ACImRtTWLgbngNPRKMjR5g6vChVqCTCk19O3GqpaD7YVlRIRqrcAGoQ-ARial_06h3bFdIY6eiGxBV2k0KSmWrtlfmJ4m8ZfQ5q3m15IMSnsE3lEsKtLJtaS77KX51tGtDKnazJ_9DlLKVfA-DpeeN5mIGQxi4WNh8MhLk8s3qZow_5xa9AWSsYYF2gjJAQAoLnuYT6Ul7fplrW0AkUeFXpL6ojbkz5H3an4mybOiJIu3rgzhWCWPXsawpErJnpyn4D6HIixnzSrHgYEATOsJTlYVxFGLGJl2nUj_tyTE5TkvlynLD9OZzJCevg1mK0LQfHyaQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان این توییت یه تلس به احتمال زیاد خود خانوم سمیرا HR هستش اون 304 نفری که لایکش کردن به زودی ریجکت می‌شن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبرعکس این چیزی که خانوم سمیرا گفتن توی مصاحبه هاتون همیشه مستقیم بگید که دارید برای پول کار می‌کنید (خود شرکت اینو بهتر از شما می‌دونه) نیاید الکی فاز دانشمند و دانشجو ... بر دارید بگید من بخاطر علاقه بسیار زیادم کار می‌کنم شرکتا دنبال دانشمند نمی‌گردن دنبال یکین تضمینی بهش پول بدن و کاری انجام بده و اینکه شرکت دانشگاه نیست برای یادگیری برید برای انجام تسک ها و وظایف هستش.\u003cbr/\u003e\u003cbr/\u003eولی یکم هم زیرک باشید درباره پول حرف زدن یکم وایب منفی داره و همه گارد دارن در مقابلش بهتره جوری صحبت کنید که انگار پول محرک اصلیتون نیست چون اگه بفهمن فقط برای پول اومدید احتمالا این برداشتو کنن که به خاطر دو قرون بیشتر ولشون می‌کنید پس یکم محتاطانه درباره پول حرف بزنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O18sOZwWT3Ca_KPsXKWaQhypVtmdNnuCL3Ztbz7Ja7yjPsCXLjlALONfwvQH7QzQv9DrBzhIee48BMOYTdkJCFQpiXXc43tKQsHfR0A9H5_oGHc-ChwdjQatVsB-i2g9ukfins1ytxCElDbVzlwRQbio6f2406dXVBkwN_bbw27e3nxvzqz22FZY9p4hQbNpuoUVnl8Q1V07rM1PbUvmBuamBN-fZSqAlIf82YrqHafcJZNIl7C_BWfcGWr9hxo8dOfnkJ_GPq47XJhjoAOwEdqfJN7Q9uAhPKZwCiAHUzDSL50Ho9T3aj4Wac3syDHL1VpLWvfvdB0lSXSoS37jPw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شرکت Nvidia در حال خرید Hugging Face با ارزشی حدود 13 میلیارد دلار هستش. این معامله هنوز به‌صورت رسمی نهایی نشده، ولی گزارش‌ها میگن مذاکرات جدی شده.\u003cbr/\u003e\u003cbr/\u003eهاگینگ فیس یه پلتفرم بزرگ برای هوش مصنوعی متن‌باز هستش که میلیون‌ها مدل، دیتاست و ابزار AI رو در اختیار توسعه‌دهنده‌ها قرار میده. خریدش به Nvidia کمک می‌کنه حضور خودش رو در دنیای نرم‌افزار و مدل‌های AI قوی‌تر کنه، نه فقط در بخش چیپ‌های هوش مصنوعی.\u003cbr/\u003e\u003cbr/\u003eدلیل اصلی علاقه Nvidia هم موارد زیر اعلام شده :\u003cbr/\u003e\u003cbr/\u003eکنترل بیشتر روی اکوسیستم مدل‌های AI متن‌باز\u003cbr/\u003eوصل کردن توسعه‌دهنده‌ها بیشتر به سخت‌افزار و سرویس‌های Nvidia\u003cbr/\u003eرقابت بهتر با شرکت‌هایی مثل OpenAI، Anthropic و شرکت‌هایی که دارن چیپ‌های اختصاصی خودشون رو می‌سازن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxo\" target=\"_blank\"\u003e@Linuxo\u003c/a\u003e",
+      "date": "2026-08-27T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UwKjzSAOjUnKtFueDfyj8nt9cUUY9ffQMZJ8cuocjlxnQJTKmiP3PEVCtSpwARtLPC_wO_R6Cvoxi8Z3txBEOI0qwEUg0rydbJ-tvR5nSCtZKFd-YdXL_cMrVZwtT2gp5q98FXZvRnQl57szYVxk1AXUi_0ZSrDv0NxixQgB8YeG1AnRHp_atjCvbPNqY-qdq672s_I2k9DWPic63qdd2WW5xM3MT0O0V3U9x7rsBUpi39ojoQlYJGK93Krp2nBhJlaF8ovd1sXYxiUhHEndXL5d_HWGhzdf86kbgZJalQ52DYo4HZOqryyfSvjsJ1fUCYbvTx6YQap6xswpLOW73Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e 24 ساعت تست رایگان سرور ابری ویراک، حالا با اعتبار هدیه بیشتر! \u003cbr/\u003e\u003cbr/\u003eاگر قصد راه‌اندازی یا تمدید سرویس‌های ابری خود را دارید، الان بهترین زمان است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e تا پایان مردادماه:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 15% شارژ بیشتر هدیه روی اولین واریزی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e 10% شارژ بیشتر هدیه روی تمام واریزی‌های بعدی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e   24 ساعت تست رایگان\u003cbr/\u003e\u003cbr/\u003eفرقی نمی‌کند اولین بار است که ویراک را انتخاب می‌کنید یا از قبل همراه ما بوده‌اید؛ با هر شارژ، اعتبار بیشتری دریافت می‌کنید و همان زیرساخت قدرتمند را با هزینه کمتر در اختیار خواهید داشت.\u003cbr/\u003e\u003cbr/\u003eبرای دریافت کد تست رایگان کلمه *«تست»* رو به آیدی زیر ارسال کنید.\u003cbr/\u003e\u003ca href=\"https://t.me/cloud_virak\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/cloud_virak\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e پس از دریافت کد تست رایگان وارد پنل VirakCloud شوید ، کد تخفیف خود را وارد نمایید و ابرک خود را بسازید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://B2n.ir/qy4432\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/qy4432\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2988E.png\u0026#39;)\"\u003e\u003cb\u003e☎️\u003c/b\u003e\u003c/i\u003e 02191555530",
+      "date": "2026-08-27T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 436,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JWesw7sBs6tU9EQkaQwZK95mDahJBQxxjSSOssGlsFeAPYtVkBN2zdeRZLf6V5tBrngWOc5o8aE-EgDCOCj1CTn-L4gB7G0RnXf5gRXql0pxTC0W15P6h9YuXL7tI5uaiuKkLSuGSHzE3kQiDcWIUMTSpR_m94hza6qGLrPt_TljTT8voPe5JiqXLcIW2f343mtsiBFsTb3-IPplpl9-T1ixMCAgorn4jALjUYNr67-QsQCZBPZKeBiA5OdS1zT5CwBn-kG0l0narGXdaexJiOyiyVM-KM3wb8WBjhHCa1ULXbW9N3NG8ZOXxsAxUPUd2oUEQccBdyHb2a3Ehe_hSA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "امشب به‌جای یک ساعت چرخیدن تو اینستا و تیک تاک، این سخنرانی Demis Hassabis در دانشگاه Cambridge رو ببینید.\u003cbr/\u003e\u003cbr/\u003eمدیرعامل و هم‌بنیان‌گذار Google DeepMind و برنده نوبل شیمی، در این جلسه درباره چیزی صحبت می‌کنه که احتمالاً بخش مهمی از آینده AI خواهد بود: هوش مصنوعی فقط برای Chatbot و تولید محتوا نیست.\u003cbr/\u003e\u003cbr/\u003eبحث اصلی اینه که AI چطور می‌تونه سرعت «کشف علمی» رو چند برابر کنه. از AlphaFold و پیش‌بینی ساختار پروتئین‌ها گرفته تا: کشف دارو با AIو Digital Biology و مدل‌های جهان و درک دنیای فیزیکی و مسیر رسیدن به AGI و آینده علم در کنار AI و البته ریسک‌ها و ایمنی هوش مصنوعی یک مثال خیلی جالبش هم کشف داروئه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtube.com/watch?v=hHooQmmzG4k\" target=\"_blank\" rel=\"noopener\"\u003eyoutube.com/watch?v=hHooQmmzG4k\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ codecloude",
+      "date": "2026-08-27T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Zf2JQE_olHXT1kf5OAQ1fsedUS9P2H6aLopTXmGO7b1MKJ8sf3t2MoJdvLkFQlQFjBtu8DNFYx8zOvcHC38zB1Ar754JPATM-CE-XisQ9Kot12S6UOCDtNoT2TzJFA9MVdk4qV1jREbs_5LwaIz3NlwSK2dwhJuX_NCV_jyufdf9A5RXxcKDS73WuhQWn_PlasD5UIwuEfP9UV0Xrc2L7sx6AaK3yAszQLGPOlWP628RpOgVXHLBzU7qVeIHiP7MJpnCQd-Tzcj5PQNkR7tEqhmNbEp7Ia1oFIWoIw-MNKex1jz_VUitVsW47Bd4pTqQN1DE29NbVYJYf4x-omw_QQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه کول پد یا چیزی برای گذاشتن زیر لپ تاپتون ندارید از جای شونه تخم مرغ استفاده کنید!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-27T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 695,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fi3JVc9Z4Fd8J4FcqWZT5ED3o1SxEAPgfLf8KKZo-WqpCmepPyCBiOx55FOHYKg_9U-M8aQDAiZmUf1ifV1lsKIt-tekzFOgdurcd5NDITKXaM7I_XY9CaDz81UXotrLC6GwC62Uf7i6HQv-23IiBlWXpC4cUX6xwrP9nZbs5jVdWxEz0JqFLEJfYVfUkbG7KP-VEiyg4fB0gl8_rC6d7--u_3FPn5sElog2X52RRiL4BytqgP8eopgoHiiAQgPLfZDPPXFFtpiWx52vGxTm_Fl3nwPFleCVGJIOEzKrEBbEBlVpKGQApSOcSKuVXJR7s9eBN7rpuGEMBUkndLrEmA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787809456
+  "last_updated": 1787850290
 }
