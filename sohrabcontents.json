@@ -3,108 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/ItZguMVxRwJvYbDwVk9PhhFujI9YFAemdVl95H-7yepBw6XsZ0UE1tamYghBj10K_lCAVigahFyVwtsdY0IOaMJXA01LaRBvglKfv8NskOgRHbO_LuN5Boeyi-YNiBa2lyuytBeor2taMuzHnX9ILZC_RzJ0S3mvUp3EBjdZ0zfjBFbBgzIJSzJHoLDl1QJhiTPbL3JUGG8V2XEDpXjpDCw52gYoMtcJEABe6SBR_OxGLDjlqb9GbF8a8ImZfSyj8YyXzF9HPIHjOlVz-3vVLTZpm1FRsdi76AVnl_NOTEu3RMjifU0DpH0IxZC6aAeE32orgl1LM6AzwhA8hkofoA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/LJdH6XkjDnDLq2kMUP-qHACqHGxFGnC44IPwObTGUwsOKRJihwvKSOLkqbJGCmb5TDRwRnTGjtpNefF-yTWBPKmj09swN-XP0-nL-wxEmJQJ3zKmNCqYHXU2yJlLqhV1YLZuIR9nnUoIf6mK4fouGPC3o1bP4WT-8CL34An54kufhIux5TVJ8N2Twnyq7ln8L985jUdhwaoGxoOTONmaknxKX4QhpPHVNeopFWZhKqvP1N-L7U_tpA7JXT6nmGOR-sPdpQI4mKtt0BoxoLOCqyzBExc-a6rR5XOqSBDDs7sJrSQM25NV2kga8q1cAqtcQvJUV6O8neDhwSmXjCemPQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "من امروز کایرو ورژن ۰.۳.۲ رو رلیز کردم روی گیت‌هاب.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچه تغییراتی داره؟ \u003cbr/\u003e\u003cbr/\u003eروی نسخه ۲ من پنل ادمین رو اضافه کردم و حالا پارسا هم زحمت کشید و یک سری تغییرات داد مثلاً الان خودش می‌تونه برای دامنه یک سرتیفیکیت بگیره؛ همینطور زبان کانفیگ رو از json یه yaml منتقل کردیم برای راحتی بیشتر در استفاده از کایرو.\u003cbr/\u003e\u003cbr/\u003eروی پنل ادمین تغییرات زیادی صورت گرفته از نسخه ۰.۲ که اضافش کردم. پنل با ری‌اکت و vite نوشته شده و با bun کامپایل و در نهایت امبد میشه.\u003cbr/\u003e\u003cbr/\u003eشما الان امکان تعریف یوزر رو دارید؛ یوزر ها می‌تونن api-key خودشون رو داشته باشن و حتی دامنه درخواست بدن برای اضافه شدن به لیست دامنه‌ها مثل شکن و غیره.\u003cbr/\u003e\u003cbr/\u003eهمینطور ادمین می‌تونه نظارت کامل داشته باشه روی یوزرها و یوزرهایی که می‌سازه رو محدود کنه که چه تعداد درخواست در دقیقه مجاز هستن بزنن و یا چند آی‌پی می‌تونن اضافه کنن.\u003cbr/\u003e\u003cbr/\u003eهمینطور درکنار حالت قدیمی که بود؛ یک حالت جدید اضافه کردم به اسم دایرکت که این حالت کاربردش اینه که بجای اینکه آی‌پی vps رو برگردونه میاد و واسط میشه و همون ip که با \u003ca href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.1\u003c/a\u003e یا هر dns آپ‌استریمی که تنظیم کردید رو می‌گیره و به سمت شما می‌فرسته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-23T16:49:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 954,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pzp5lTd5PISyERyVIUXhytIVMkbT2Rxew3pVfmIOL6MrvIvUA9IZ9Ro6NCLGm7O139O9M8gWozS2SV-vYgK0Etef5QOiaWq9GYnSB5dRy2FShYF5E5NriILrNOkv1mali7eEyMCU3qHOuiaRSDO7ro9Za6in6CyGMxTQwwWB8Vd0Mzknvmg2BbJiTjQw9o_jIoe14Ga5XzR8iuDFOYzO701ur05mbK7LHFYEVWkIjw60xIZjGEEhXRed1QlUyvJjAouuSUWb2SjJXUsBBCEIKImRb2kRvuIoN1xfyOo5zHSXNMDxikHwzZwCeBy8WXO_x5ahRXtTCdPaBo3zUZbWkQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nHhfoABYvywzK7hwJ2yLTWUTsUE9vh2zZMYlOI9DYu-faZrnpHIAxEGlNYc3CoitdgsP6a6APfcz1v-vYOY9M67uAQi02UwGDFYkN398H5kCaOGzHpwn52WxYiIHWtyVqz4rfxS22WSIIWwV8PJuM94oHm_Czp-PIe2R1l84hb9CpQ9uf9g7xARw4W-Jamk2JtS1Af4-E-nkahCRIdb3l2v3Q4Mor9eE1RcoGZ3ptoaD1eR7QD_jLKOO6Muxdy2-7hxg3yOSBWouLnsNwApL4Io-lzzs6OqsX4KgoZTDaCeQKjlyHBPbvO7VO9sHziVn2xmjBEKFXX-HlbuXS5P9bQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ECVMXWyu5ms1BLVQMQtopCgoC2BVz5ryWw5R1J5judJ645l7EORL3AqIVrvjzA9SZ5j2gHd535y5NUGI7RBupiFyQ3riBFhRZWH5zEEiTAc_Sn2T6huG6ltFBGd1AzGTyjrR3teqK0uJzTuOyVgtQ9eD5p81lZvKaB_xYbRADoitdCIPFjvHitKP4FL_NOm3vBUwNJtmxRj2h-nbGApt-oCpkFRxXpgO7P08xDq07NihWQOz3fdxn5pI1BuyvG1aocPHQyn8-NHxSefTp-RozTMzTP3lMJntJ8cMgphLVfs8adYrdz0FDp4ZQuH7l2PxI9mqkWo11ltmdZzwB7PIug.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zsp9WJZXyorjSK0wMOfS9_49dnOfNOZrdVwmBf0Ft44g7fNJ1UqJBFRc8rk3PyWWOTUHI92TsBQ-wBU3CMEkfg-2LDATad8dSV-QFlprE57vgJacAlOKxLgHXEk7rpkSuzOIZ6Q8hUe_nbrxWIIQWEguVP0VPexEDjilahLODlsaql6bY8jwZTou7Cht-P0NOKhON6Dx17ni8b2903mcSI_Q85vpbyEWfNgwxhdcxsE2nrj3lnJ682Wr5AO6Nwz4X7D-M7IZQ68lhuGzBujeXx8pLUWdyI0wyZAGUo-iSRs9dnCYaFHnFbfZLZ6CzfSOvdBXe85AvGMtMuqj_cLPBg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CFrc6YMfZi0kymQ_MgM7fAKALmR1Tp4_uppNrj8JRSPHrCCBGz8TaBeSpQLZRngwatx22gygL5ulspHE0aW3CSK83HNvQlSGWxfySbF6R4IWX-5xhv_QIS94-e-SFUcaNSWorShLeMDNOB4lrHMCvZjz6tNMjX6u-Z6DmkLqnLTDK349tuLjdaFP085Th0lAOrdd8u3fxNnMfS_Kyu5Rczgv9n6xjzrV7WXtdhWeor1m3RjMmjigjShFZDsjEqxrI9xlhEPNcN9QtkyPV30tols8v3Kg2DyJOb-0Dj6If7w_59hiuLpU22ketmykhUJrJyoVA6EQB_ztco10QQxgDA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IKGfRbtcttSV2BTfDALPAydJ3XEDL0i8rXg3Lz65J8fiTfGdZSeqnWkRrdg4tShYYAwGChbvgypwKSg2TerwuqpisWiAVAN-KPqazEHTp-H2J12Nia8g3q8WxebIYigT9nDWQmd2kNEVFNTaaxjf7rKIc0OllUWlVEmGbbKdwtsycRNs8jttDWy74DVo0XlUvQUEZ0pnDBJVIqzm_vJ17-mUONGaYc5us8cYZBRuzwvFk352UQ2xbE1BJwbjDRHVLzkNkNNdPv_Rwo1TqRX8Zg-zwOyPKyTf2qOsGtse1I_tGdbisWEYchEsrnbzl6sYh-o8bJDOH2siuaoDJ7vNQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ادامه لیست تغییرات:\u003cbr/\u003e\u003cbr/\u003eحالا این حالت دایرکت چه تاثیری داره؟\u003cbr/\u003e\u003cbr/\u003eبرای بعضی سایت‌ها مثل یوتوب که هایجک میشن و \u003ca href=\"http://10.10.34.35/\" target=\"_blank\" rel=\"noopener\"\u003e10.10.34.35\u003c/a\u003e برمیگرده اینجا ایپی خودشون برمیگرده بخصوص در DoH این یکمی اهمیت بیشتری داره.\u003cbr/\u003e\u003cbr/\u003eدر آینده احتمالاً برای اینکه بشه راحت‌تر بعضی محدودیت‌ها رو دور زد بهش xray رو هم اضافه کنم.\u003cbr/\u003e\u003cbr/\u003eلینک مخزن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/behdanisohrab/kairo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/behdanisohrab/kairo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر استار بدید؛ مشارکت کنید یا دونیت کنید باعث دلگرمی هستش :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-23T16:51:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 804,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "به زودی...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-24T14:54:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 806,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XS00ZaQtFWrTSr38aeN7ZJoKbiWKRNn2PgWySQ3qyzQdfnIlgid2CAQm0GFB5lJMru83aOX4iktaaaOEcL_LLrPEVwiI7CMmZIE3KpykhPAHuYo-VWhIUdLJLSqMIayDhRa71RmJXs5aaQKAzYflDoQ-etEkWEy7pwnhXACv7Xx5G_kxIhlioKVpkCLNGJmh7bOkMzxAm2fmxiEfoDNEYKHviBIDF-w57-i-dNuNh3izFnPBGrravTMTpkhMrq1u-WUsLnfTQi_gStLKINMi4Ab3QI1RdrUIi7cjFDreuODqGwE0lTtRW60v43gxeXU0CtjHZCAEgOl-dWpohnKpGA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امثال زومیت و این‌ها بجای اینکه از پروژه پارچ بنویسن که تنها توزیع لینوکسی خانگی فعال ایرانی هستش (بله توزیع دیگه‌ای هم داریم مثل توزیع‌های اقای سیلانی که برای امنیت و این‌هان) میان و از مزخرفات وایب‌کد شده ناپایدار DHH می‌نویسن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.zoomit.ir/os/465318-omarchy-linux-introduction-installation-guide/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.zoomit.ir/os/465318-omarchy-linux-introduction-installation-guide/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-24T19:28:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "البته حس می‌کنم از اون ۸ ملیون دلار فاند بنیاد اولیگارشی اومارچی یک مقداریش هم دادن به زومیت و امثالهم تا روی موج سواری کنن، از قدیم گفتن میمون هرچی زشت‌تر اداش بیشتر، این سوگیری‌های احمقانه پلتفرم‌های ایرانی که فاز بی‌طرفی و خردمندی گرفتن رو فراموش نمی‌کنیم چه سایت‌های انتشار نرم‌افزار چه سایت‌های خبری این چنینی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-24T19:32:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 832,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
     {
       "id": 0,
       "message": "شما قطعا سیستم عامل امپراتور مهندس سیلانی رو نصب کنید تجربه بهتری برای برنامه نویسی بهتون میده تا هایپرلند وایب‌کد شده DHH.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبه هرحال مهندس سیلانی رو من خیلی وقته میشناسم، امپراتور او اس ایشون هم جزو پروژه‌هایی بوده که همون اوایلش نصب کردم و خوشم اومد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://emperor-os.ir/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://emperor-os.ir/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-24T19:37:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 976,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GeNpvZ33Rz_gWxCsMd6jHU6bZ33uFTBrMjo6jAnCuUvC-VucvxLtKGY3j03l4vvyUtk8zwAGaEwUDIpYcDNwn4LRbzGyryhXplrOyW0jTWdjbAAbNpnnXrFc4419vbRbFw7ojJ7oy15W6arVqf6w9FO7aik9y_1Lkhz3C-HU5oBYhqlkbtPk5w8mp__HVWYHu4y9F8t8yPnEy4mGhVTplwH1sr22fOTUkU_FXI-40V5vTC9xWxccLLWW_Twsk15cvK-Xl66CkPqt_rkL01YSBhSEwu2-9LBhI_f4mZBwVYHzjuAD_EmezfEmVUVXN4UlgbaMPiI92AJQgwnWYDUAKw.jpg"
+          "url": "https://cdn4.telesco.pe/file/urdwOZKlBs99-tGfT6t-jKLE-kOS6RDEIR-BfKmws2YYXx5rcM4Xe9yIBpuHVD8Srxfh9fNtLeXw16YKifSQEWJ8C9q-J_zhIPvP0r85HuZqNlQRN0G0Ymc0LGwm-Za7GFPuJy5gZNkTp9dxxTqPX55Jhp1bdxbbnLbp3XbCb6Xse0qjFx0ceAqaAHrUuNdy__gulPYKg8ZJ18KN81A0VTF2A4LfJ8hQKiwHWJQJx1UMgKGIYhk2YfY1KCtVTxKF2yH2QVYriTerZq0_Z6kw0VkPxpZPjvFnk9eXkadttmXkQzglkVZoSKU8GmTVsewdY6vBi0P0MhNLD0fZm8thBA.jpg"
         }
       ]
     },
@@ -122,7 +30,7 @@
       "date": "2026-08-25T12:23:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 865,
+      "views": 911,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +42,7 @@
       "date": "2026-08-26T09:03:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737,
+      "views": 774,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +54,7 @@
       "date": "2026-08-26T09:49:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 645,
+      "views": 674,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +72,7 @@
       "date": "2026-08-26T15:03:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 684,
+      "views": 714,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +84,7 @@
       "date": "2026-08-27T13:42:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 602,
+      "views": 655,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +96,7 @@
       "date": "2026-08-27T16:27:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 504,
+      "views": 576,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,27 +104,27 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/l64JW-aTLjZNvG7nF-cHnQYVwVf33kDvXofBU8B69zutr6C1pkz39GnGXhH0bcqfTLXJAxeTHzbEO1RR82zDd7ekLxq4fDERMRi6aWvZw5ccWZSa6yYru9R5LlLbIxRMOEJ-EfiPrhlLBRX20QYYfDdi8oD36uTpSF4y2HB56Ec2_8Ub-Ctw2cJfTFm184fH1PkaJ25Y6n36Ab5N4y8ddFwEAb-0d-v684xkLRvuqaOTOTK-r590ePeL2ipwRT3Om_nqYyuXqRZU0AmAP4q1kxPiQCs7Ikfv5BSZX7gwtOB18TWTMwcGTPh5Z5iWsksXB8zR3X5c2upQtGk1mk-F4A.jpg"
+          "url": "https://cdn4.telesco.pe/file/qq0XCjZYFBCRkPmVJ3odG537UBUWd-uAjZ-HdPoWMS-UyW_6P0vDzMMKK6Vk-0DI1hZouBaXvscLwg4-6KaCwzRmikuFQpO0Xig-lBQ5WP1GI0TPsroUh9CBPuCtCAc5JSmE48N797PS7iw3zA3SDJ0M8Eafv649sTC4c-hBFuAPRjHWh6y2hlKI6YP-whRZFOLwlf_RKP5rN3kNm3-XMmuL-xnNGxwFyprHHslpvKPa1lGJO5ZFXSgsRRBojXk3sRn4Qa0sYQ-Io9Bw9etNO9-LNZYGbPOcm7OTSfAmHap1cNi7yJIEu2nwcYUP3UBr9eNQxjSfRHLZ7-Xgmi2I9Q.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cPa2JYNDoHqbsmYVhEbaNCAGJUQq6QXdZl4MGLoH4fEBkSwsq_ccxKTi927Jy56llyRxt7zw2ZkqYIyy54kRIpemtXbzYuV6kRtKaLNYpGoJBEaF4QgnMOQl7DRUjMr-3l4ncEjmvJSreCw4wLTltVaZLNmXqHud01P30sM8ADq7_w00PqdlfdcZi1tFBRGqPCnW5Oo3XY6GhbaLqMs7XRVUucf9FweYKDaX8XR3-3TYN3-QBKDVcIPZt0Sqtu1HqTOSxwB6V2DPon9p3MasJuisAP9ha6BVoKWOz1tmRW_wF4TACEkzrGfKBCiMeIenNja9sZtbTlYo2FRR49hwtA.jpg"
+          "url": "https://cdn4.telesco.pe/file/akY_j_AUeeRKZuUmsDqKCtavfS0SPtRCd7ooE9Q8TREc00ag0PUZwi48AkWsQSIYDBGPK15LygW2H8c1rhvmmwHhTDlpwRwjaj5VI1jAXXKF_YO0EI0XinVmVxfiyo1KC4LC0Xyci_Btk5k2LlOEdj_WSqLYDROwggmqlVEmL1GYKbg8txbRJK7fMrvYXriNIEFb-YFn_bT2zXBQQ8NvgPAs8NKQlqKSxhgoeHJMCvySmrtxLN6DdpReA7rUZPU4-7H3GKBGXm-wmuel03pAJb-t2wYIZgtW1Ik598vLQjvOpjZo3DcGkZ5czViF7kEvD8ggQUsa7mbn9_tMee8PtQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IQzEWpJqWm6K2bLsvG0n5G3XOsRg1N3D7NFjSkLL6VthmGEta_vTMvBaPRDybRTx3aHu8XbwKCrPH7JtutHLJa7Tjk3-NQHcrNagy5Gby3HKF_0AM_tbWxZAFM5HfYMjD3TmKnRT3hCPFlsFIxsNTkxDtjhF71yilCGANJbmTfPMHvC_z7SOwb_fFoE0K0Vj72zs_gyv2S8tPIfqD124I21aRErGHl88MGnuD0kOwjIKrqSAELQZau3_tkBgbG6VTWYWUXc7O0pVGpevAaCguPxFQbPUbEljBm1GvvQu1xmvcMLj5tY-bI54LbIsl7V2LPDkEdgKbD1yKQNJEWNT7w.jpg"
+          "url": "https://cdn4.telesco.pe/file/OBVjaFeQkNXPoUEtgUqQ3tVEsR_kEZgefdB71gTklDv21j7neoQT1s6J2-c1oV_WIxtl9y-jENrcRglRBEFBAWqH_SiQlxOPmQYwSmnEt_gepJdOWb1uasjTAt_ORfVFBkQjecRyg6Nj_ZIl-Rudp_pC-6Hw1r18ftUJsuWU2AHxtsJoPlvsEPbrink7LDEdlZvUQkwZfUdUWfvb2AelW9o6ZctX7NxSyIqhxJxn9_03wuLXRb0muVX7VFIXkMjSS2ArYMz-hXTOmP_of9_eiOkan1JwriAAOQU1iIIMbVj6mFz9qE0p0zbTVQ0aItzYhXqXg6LS4LHpFoaRZXTuoA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OOp1i3YZxDkACCfADysO7NzCrhkALbhBbTccGPp573_96j6uSS5ALFrfR3MnTBQAhF4wP7QCBPdmF_yQKQgGWy5ZJ-jj8C6yBTAeByEmCIrSNE4a3IPYa34dTGYMOdpGNccMgxM1Zli6ZZkJro9KFbYG4MJeiS2WU1OigRtuY0YzsoMO3cPowBbTF4KGvjyYGcoOWp-nKNWBiCRdjI7GaxJug_XEYrS-DHDgtZc5gQyv6wZxFumytWJqeK9JRVvvjpVSQlnExkAddf_JHFahr4mvQNNdOjikDQggEZK8JsJQi6yKD1Tpk7d5pbypBu_xAi-GwgsqlOTXGvh39UNh0w.jpg"
+          "url": "https://cdn4.telesco.pe/file/SGMmf2GVFsfvy7pGVSqUhuSzgHNPgU1gOhgW_oN5ZyBsCBfoBCA0swVcyMBTupe4QH8BBbjev4KYroH8nvGFCOS9IFkkx7EBEk-zNGNZaW_exXngULcJHJAk7s74nEfCCJO9a4KdtcHRMKTtpSC0KvaN_b0j_GOVVIUz_eDsXBFrKTayyIeNfLF5iKNhOqXNAT63WJyYvI8fUBKJgR1-i-HLK5fgcq-60SmRFYYcXtgxclllR1ttbQgCcM1yP856vCTNFH9G96i5uegh7NYFfTIW9nIwbeJWdsMgtx1mBsdOP8HYGxUeowFDECvwr-m1x_C1tczCgCDuGkES7cj6oA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ya05D7Raxup1x1SYSQuRIoWJU6nqY2ubkbeHE9_3aNk3uIEy1ZrBoVR_SMoCUmjYNgKrQz36_qyKaHXo5a35p86bdMsK0_6UbwusTfubPlEzpxqhRq4PefGUuwFLgcVyiq-o3DX2e5Shn6l6je1m5fGKzjt0fBE05ei-3iX3yTkhyTzHBQonmHYE8Y1NGXN-hnav3m5VFcu0KYhHK5BVnRlwBipun3KhwHcpwFUKyJ1ZC5BMxn9RKySA4Lh6RwER_1Sk4t7vkApkMq87v-G4rv8vI3DLGMMM_u4Jh9AbJOWF_VfQT48FCJZ99BVCoCr--a3n6Ch7Y-h-e9bli-eiPw.jpg"
+          "url": "https://cdn4.telesco.pe/file/qjZHJiQfezrVMoI3-xHAOqCKY4iK-vVAEk83jLDnqPwGy4i5ip4tMmYyv_eM6jYLsyDsWwxVbAJQrJee7awTuKgDUva33vvjDMbdmqaKOyuASYouAOOYlf-tfXviJCsrLdkzZ3fNTBvTK1Ry7cCynW_I0qyssih4Cju6aMgYEoVry9OO7u1aaweELgVASaRDz9AWGGVF8SCtDQbXpO3WbYqOI6Itcjdyp1XFZzKFxQv2DALhNcn8fDA8G9Hf_YUT7zPoQZLHPP_rTAf4A_Gl1Qx_mWRGbhcafBwTLkm5zQUrB0RaBiIMweetPOdm8PxnTrXnzhapAz5QyMsKi9n1RQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UupIGn_fRpRhlvop3W8htAOWHgspDMdiztlTEkiNnoth1UpgAqUgRMTfCL5LAWWsvmeEC7n3-i9nROmCar7lc9bXvn7vIgnyNtuzl84bHtnA4Xcf_9hI0HYmrb-1aJJGrOESRlPfvB_yKFLNVgNVtCEh1RipnF2fkX72lGeQyNyYtGEBQgB7lnn8VseIsE8n6IUO3UyPCTMxLoV8MEu9iQ9dL5o1drh7aP4UlF2D0nbIHxqHu75ZLjFw5y5fUl55S69S1hfzaRwoAN7AVt7XeurTfWV7neSpH-NAoAu8_CVRDS4YzxVZPSsxTDlwWm72W5kqdENZdrB5GOB1K1rGUQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/bLI1i-X-4R4bXaD_4VJvnCc2r4z8ReiBvWc1sCpniTPMZ835_mieOBWczhftk_fbcolMDyne_RkMDXVwMfWYMRO0RllEi-dV5vtRWsrqf5TDby2FXgwL53bsuCzIE6YNShmhZ4JNi3fSmOvaycyBJVpc3BBp5WtPj0oGy66TDUi54BjI3WQO2_zXdEzuHVTr-D0gw1iR4ZeD9Kng-fG620Z6jxs-OSctenlS2bIVOTMe63SA_AcnozsKSa4aO_Qtpa3aaQQYLxCZcLSNdMBAhFZ3jmLdK9XA0C05ia68atZaHjb8jsoxGvnSJk0jQy4hQpBaeJWpyohQeDPb2wixNA.jpg"
         }
       ]
     },
@@ -226,7 +134,7 @@
       "date": "2026-08-27T18:53:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 549,
+      "views": 636,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +146,7 @@
       "date": "2026-08-27T23:07:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 470,
+      "views": 606,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hq-l597jPFqkjkwzTfkF1PrADG3RWy6vd0SPaZgcQw0ir-luJBRtp2p041PoG8uXl_DHoic1D1_aKfHX3w2bIWNpNfocwoDm1Dt8bQr__GuLv-atbBQn6Pvs1Jn6JBg7QRtxBdw2uPzJnu3dCk9dnmz7nJXHgcRzpl9iaijfxQdeaW8cdBgTKFnxqnVGS1h4NP_-gmFSmyLFc4eUmKXT7cCjywWGYAwhdx8fZRL0XV758B5N2oD2O50usRXYzIx-uAUpgf9eLn0Z6zRUA9k-vtOYKrwOAwLIBMZ9SD2Xqdv6wjjbFYpr0v_qLfhYFXeWPVlZb1ocC9NkkupL0T0DRQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/NL1al15JuqWlBMUFxf3VpkYXVTSB0fCraOoAqSQYg6x1AksLXwZCW4S4jjN5qeXae1Jp5Gc1BN6GUGeqar20hRlQDhuKbsChKHkCVtcb-5a0pQw1n_itux6InJRL1gliIeJvTQcf_DbTrN5flRYmgE5Ll3Ol2HxZO6lKyCSV2XdibgQnK_J8P_goNJDuPd0M8VBSL4PGjoDLRaD4X5psHHPKdv7AyeyuXZcUAkzBCL6tXyF2ddzl4ZqPCdZUSFuV7qL4bm0A2xbMUyA1EpCSPMtYXwcbI7vLOoqtYaTVOzgrXVCSPtRqepnR0duDHwodlOSulcZr28iEbitHrz3G3w.jpg"
         }
       ]
     },
@@ -256,7 +164,7 @@
       "date": "2026-08-28T10:33:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 194,
+      "views": 455,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +175,80 @@
           "url": "https://cdn4.telesco.pe/file/pijOyart9Zzw7mKrhzsEQ0Xc_ABjPUrnO8IKEJiqsOquHSNrguknXDmBdqMxdscNR06LaGsjVcMwHnQvixB4LxBZuEO1aO1srq2_gebl967h5iZrISmoZngxiHNlT8QZf-IYPZ4LsZhsYz55QGNNI6CwmmZeMNs-nne5lIe6Sh_02V7JqOQR4D8_-RUlUk3r3gS725tQdz9XADDiL040qsGjSCOd1qT_0w7DKFEWqLmtBtcLW7hVR37Cne9DuLPwijQUfH2lL2a6Y1OdSwneLX0J92MUFZcVSys0jxRHzU-l4bydq0KfmrbNBCgTXvhvBEvwWZ95bdPIJOEWBpoibg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "با سلام خدمت همه کاربران پارچ\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که به پایان پیاده‌سازی مسیر پارچ در ۲۰۲۶ نزدیک می‌شیم؛ ما طبق هرساله یک نظرسنجی ایجاد کردیم که طبق نظر جامعه مسیر راه سال ۲۰۲۷ (۱۴۰۵-۱۴۰۶) را نیز بسازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهدف ما در سال ۲۰۲۷ به سرانجام رساندن پروژه آپادانا (پارچ ایموتبل) و پروژه دماوند (پارچ موبایل) خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSfRs0yB_uNtmWL3Nvj8JfBryLoilolhLyVuJ8mRMTC7uF8Zsg/viewform?usp=preview\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشرکت در نظرسنجی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-28T14:26:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 418,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "داشتم یک ویدیو می‌گرفتم که پیاده سازی دستور پینگ به صورت خیلی ساده توی سی بود که این وسط متاسفانه اینترنت تصمیم گرفت که اینترنت نباشه و کلا آپلود ویدیو با خطا مواجه شد یک حجم خوبی از اینترنت من هم تلف شد. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز اونجایی هم که توش تپق زیاد زده بودم، انشاالله بعداً یک ویدیوی بهتر ضبط کنم ولی در کل حرکت‌های باحالی زده بودیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-28T15:34:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 455,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "دارم یک skill برای اوپن‌کد، آنتی‌گراویتی و یا هر agentای که قبولش کنه می‌سازم که باهاش بشه برخی از اعمال رو در پارچ با agentها انجام داد.\u003cbr/\u003e\u003cbr/\u003eو این خروجی نسخه اولیه است.\u003cbr/\u003e\u003cbr/\u003eهدفم اینه که با مدل‌های آفلاین مثل Qwen یا DeepSeek هم قابل استفاده باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-28T17:07:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 393,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LcmQEXqbvMkl4DgO2A_ZmM4zrMxT9wheElTSo02QYw5dcOFacSBnIDeEgZjGmL0hMy9yyuu3LxnrRrI25bMuXkPGr5fjU4PG4sZuKlpPHxmcWePaPgWvao4kPEXE-4i9RBrx627nNiiTCSe63tigJReaTBdybyKdpOrd88JO74ZOckZywE0Kj7echDfdOPXzz9LK17yGWJUaG_JtKBGJ-wrwlabCXQGUqxan7t42syoT6sGtT4ajN6CaQVYSSnmO-FlN6KZruyWftkFO_ozlI8hHuvghwCKEKmhe_f1cm6brd6XdC_Vs_dXBUi5ZEM6Mih8qQh5pf5EakQxqEItS-A",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پارچ درایور منیجر ۱.۱.۰ عرضه شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه امکان پشتیبان‌گیری از درایورها اضافه شده و همچنین شناسایی گرافیک‌های دوگانه و سایر سخت‌افزارها بهبود پیدا کرده.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از مهراد و آروین عزیز بابت توسعه و بهبود درایور منیجر پارچ\u003cbr/\u003e\u003cbr/\u003eبه‌روزرسانی با:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-28T17:32:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 335,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tm_oIgYnfvhmWNcF0MRVwvT2nEwy3hJpMfZJI28e8u8GkWhFdwOcgHgtUSdU9_Pu45Bxlh2BjOkFcZk4XcW46ca1eMQT1M3--6RiyGrCcDu16cvN-V4lvZ_QxFwImY2ZEFuEK5qGsfnNcG3KwlUeOWwV2hhXf2LJJ5lJ7aOevN6PEgBvnS8AvyQ7ru0xU0viSnQOxiL1WDqbQq7vIpT2DDcanBZE_DE_ff5gL6U56nbMjJU-AIycGmreEhlKhu2r-Xqr7nsrcIyjpZ0lcSU3C4XV2S68KpGiKarestRXkdfsMhP5W8VK0D-yrQ2Gd1d4MnOvgXrJIDYW5Vac4I6feA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خب من یک برنامه کوچیک توی سی نوشتم که این‌ها رو محاسبه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/systuner\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/systuner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاحتمالاً ازش توی یکی از پروژه‌های پارچ هم استفاده بشه؛ تست کنید و نظرتون رو درموردش بگید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبکاپ از سیستم فراموش نشه =)\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-08-28T17:59:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 352,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1787923993
+  "last_updated": 1787959097
 }
