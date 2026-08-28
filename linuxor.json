@@ -3,102 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/ITo4-nqrYa_syf2IcH8RlXaXu80ds_20NT3GUcSKuqBG1tyYu21Wo-uHNeMAPBDqHUuqfuKM4MXp-WQoQzp1hOPB_AB8_EcbqhArWPyjacGDzJRyMcCPUD4WroQAp8Aqmu8TrIpThBoAFTLX3k9apzBeETQcOPzsZ_7SRzuL_c70ecs7ASsf7-Ca67HDV1LW8cXZemoxfRHzjHz2PxvmZmSVk75YuutO6PZIebl-wK0UkK3aF3gXMY50edKUTeNvzk8ahGsB3-IpD_plt3CF3xbCO9qeOipzVg4nceujBxn7qNN4uv9n2lt-OKmpxhoc-XyUxZ8UBluVnCfdbYWyZA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/o-kAAZxBEe1yqM2JOHyJRwUdOPLZLxEnwpk64kTMFxLKfkvwlcXPoI_q9EM_oOeLadQqJ2EHOQdJ9Pq_n7H2COF1nZuXXox7fPrf-2Ll-YkYEt3uxkP_VikDdoURyUNsdsiQLsfTqGcbd_N7qR7DM-XtzxdUpzcdJdd14Bs05Ey1nYwMSxl3S3e9PTmqXOc63R17c44pmxTn5sYK4C9oyaOn7WRlSftGD83xNEKiHPozRN_eOQwr5qgU_EKw101N8Akf7z5VQranAtkOsBLrimdnQ5WzwEGgMAoPDTHrKn6yz4l7LEtyodJypjp-Y4JKP818gCs6SF5K3FYq3FOYEQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "انسان ها یه پیچی دارن سفتش کنن به سمت علم میرن شلش کنن به سمت پول (هم پول و هم علم نداریم اگه حس میکنید پیچتون روی هم پوله هم علم یعنی سرعتتون خیلی کمه)\u003cbr/\u003e\u003cbr/\u003eمثلا تو که سال ها درس خوندی و دو هزار تو جیبت نیست باید پیچو کم کم شل کنی یا برعکس سال ها توی بازار دلالی کردی و دیگه خدای خرید و فروشی توی یه بازار ولی نمیتونی چیز جدیدی خلق کنی تو هم باید پیچیو سفت کنی فنی تر بشی\u003cbr/\u003e\u003cbr/\u003eهدف زندگی اینه که بتونیم این پیچ رو مدام جوری تغییر بدیم که پیشرفت خودمونو ماکسیماز کنیم یعنی مثلا چهار روز دنبال علم باشیم دو روز بریم تو بازار یه روز هم اصلا بریم سراغ یه چیز دور مثلا درباره علوم انسانی بخونیم. کل حرف من خلاصش میشه تعادل بین انباشت دانش و تبدیل دانش به ارزش اقتصادی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-26T22:12:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "فریم‌ورک اپن سورس HyperFrames امکانی فراهم کرده تا کدهای HTML، استایل‌های CSS، فایل‌های مدیا و انیمیشن‌های دقیق (Seekable) مستقیماً به ویدیوهای قطعی MP4 تبدیل شوند. این ابزار هم به صورت لوکال با CLI و هم توسط ایجنت‌های کدنویسی هوش مصنوعی به عنوان موتور رندر ویدیو قابل استفاده است.\u003cbr/\u003e\u003cbr/\u003eتولید خودکار ویدیو توسط ایجنت‌ها تا پیش از این معمولاً به فریم‌ورک‌های سنگین مبتنی بر React وابسته بود، اما در HyperFrames هر صحنه با ویژگی‌های ساده زمان‌بندی مثل data-start و data-duration مشخص شده و با کتابخانه‌هایی مثل GSAP انیمیت می‌شود. موتور رندر با استفاده از Headless Chrome و FFmpeg خروجی روان تحویل می‌دهد، بدون اینکه به مراحل پیچیده کامپایل یا Build نیازی باشد.\u003cbr/\u003e\u003cbr/\u003eمن لینک یک بلاگ را به Claude code دادم و کل ویدیو را با استفاده از همین HyperFrames به همراه صدا و caption درست کرد. کیفیت انیمیشن‌ها و خروجی آن را ببینید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/heygen-com/hyperframes\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/heygen-com/hyperframes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ MehdiAllahyari",
-      "date": "2026-08-27T08:50:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XLOpNlo1Pt20tHK70mnj3Ytg83dzylTpr2Bj2Eb3lsqXttS8f-XmY4t-N56F0_gvEB3GoAvDtvlU105Z2FVrTF3w7lPbRoQYle5VN1h0gAn_JVLBGplRM0GzFzFy-nZpbpwjhxZDRY5ky8Xq6X94HP0lRpT5qUg_a5KRa4Q2dpiye9sn8spUn-r3fUfu_Xuvzqs-nLoGkpX754zL9Uo49kKMXIZJXU9_nSgcDynSxm4T-BSwlxvXzKqNXHXq1O5Rl_6_a4XcFaIpUcYC_PRgimc8j_bc0bEJrB60OsAEIZg5SFwZXwsR3AlAxWcFog3wSkmCM3v_WJR2buKUomMsTA",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6296367896398399651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبه api نامحدود کلاد نیاز داری؟\u003cbr/\u003eیا قوی ترین مدل رو برای کد نویسی میخوای؟\u003cbr/\u003e\u003cbr/\u003eاینجا جفتشو داریم با کم‌ترین قیمت ارائه میدیم.\u003cbr/\u003e\u003cb\u003e۹۹٪ ارزون تر از api اصلی با sinox api!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبدون دردسر بلاک شدن اکانت و در دسترس حتی با IP ایران!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4918203446202467778\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9299.png\u0026#39;)\"\u003e\u003cb\u003e💙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Sinoxapi\" target=\"_blank\"\u003e@Sinoxapi\u003c/a\u003e \u003cbr/\u003e\u003ctg-emoji emoji-id=\"4906943755644306322\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Sinoxapi.com/\" target=\"_blank\" rel=\"noopener\"\u003eSinoxapi.com\u003c/a\u003e\u003cbr/\u003eتوکن مدل‌ها اینجا نامحدوده\u003ctg-emoji emoji-id=\"4906970517585527443\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-27T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WVeLx1ssN_gmqOCI7a8xOvSG4mDmEs-pli2-wuUMogEaydPMq9o8UsqaykulvdSh-6oWKbnAd12zPE24mLb6mTGjOvrSsP2O4jcqHGJBkAM1T86aEIvpROnY_J9MWbgram_bdSVguRoOeZhekFX6Rilgs8EgYrWJhN8NhdAdQ5hyR5uOCn5wcq8dX91NGG61ZVxCQtWCWMg3i0XEJgAGZtg2YDpFfix2umnL2CaM5LYC59Py-hmBQo8nJuSRbHZdIVQZ5Wmm-vkPVUYTS3F5S3qpYONrDQG7PDyiMZDplzgTlPhbImpVPw1KeFlg1V7_1oN2vZPNGP5cWCsuYKg2kg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ساخت ویدیو با AI داره به سمت کنترل کامل صحنه می‌ره LTX-2.5 BBox Control با استفاده از IC LoRA منتشر شده و اجازه می‌ده خودت مشخص کنی هر سوژه کجای صحنه باشه.\u003cbr/\u003e\u003cbr/\u003eفقط کادر هر آبجکت رو مشخص می‌کنی، میگی داخلش چی قرار بگیره، و مدل ویدیو رو بر اساس همون چیدمان تولید می‌کنه.\u003cbr/\u003e\u003cbr/\u003eیعنی کنترل بیشتر روی موقعیت، حرکت و ترکیب‌بندی صحنه‌ها بدون نیاز به پرامپت‌های پیچیده‌تر.\u003cbr/\u003e\u003cbr/\u003eدمو و اطلاعات بیشتر توی این اسپیس:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/yuvraj108c/ltx25-bbox-control-demo\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/yuvraj108c/ltx25-bbox-control-demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-27T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/GkgN3TbxFGxWhc_WQQm4CuQYa3OCLScn2-455UDei33cVP2VWlmv1RvMnsYHtQkpFCkhJEdTzYHp3FBbUi4sAsULBjRolBSe7KojqldJ3CJ2F5zPj21nH_Y10Pnn2JB4XV4jgng5TCNTTRNBdjtJ6iW3E3d9q2SZR5VGjAkRoFh3Q8kJidwbIclG2jeKj2oUScZd16A561IZ3W2X8-s0xJ9sRHAN_f36cKSL30-ljzFW32mbjzyqS5eObySYzMK6923_gxb7GYhpX7_ZiEO2u5EVYyqTe0OJYH9OpE8BgLYVACwRahWOTsa7yjZivxSYvlNTGR_lrWI3ChwEA7wnag",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خداحافظی با GPS؟ \u003cbr/\u003e\u003cbr/\u003eدانشمندان ژاپنی سیستم ناوبری جدیدی به نام MuWNS ساختن که به جای ماهواره از میون‌های پرتو کیهانی استفاده می‌کنه. این فناوری می‌تونه در جاهایی مثل زیر زمین، داخل ساختمان‌ها و زیر آب که GPS از کار می‌افته، موقعیت‌یابی کنه.\u003cbr/\u003eآینده ربات‌های نجات و خودروهای خودران شاید به ذرات فضایی وصل بشه.\u003cbr/\u003e\u003cbr/\u003eالبته این فناوری هنوز جایگزین آماده GPS نیست؛ برای استفاده روزمره باید دقتش بهتر بشه و به حدود 1 متر برسونه. مشکل اصلی فعلی هم هماهنگی دقیق زمان بین حسگرهاست\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-27T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fvOzMaGb2irG9Sg7DJHI3oSIdL5ktTbvX1i5HIZ57I4LCgzR8k8KmIkupG-3ty6N0SjrIU9fJrwP7UrBQXlLmxMChv8KAJhgIUZeFD0NVb_-NguJtDRpMcxIuk6ZPrMXS2n20LKtsO4XEWoAJ3w5bmh2uzMJC1eyNlNJP261XyJSmdzewdXF6bJgrOoxU7R-uNT6QyGYrWDakJk_mO8CRpmU0YjzmN9FDtas9HSds4IM_HoZc17-ZOvB1i6MX2S5vO50CTs8T10B0KTPoA3rMkeb_qj7dptMdks1ZmREoTz3hdBV3NUxB0LdXMi6VdIVlYq2AJxf1O1EdIJtEZsYbw.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "این یکی از معروف‌ترین گندهای تاریخ اپل بود و بهش حتی لقب \u0026#34;Apple Maps fiasco\u0026#34; یا \u0026#34;Mapocalypse\u0026#34; دادن. داستان مربوط به سال 2012 و انتشار iOS 6 بود.\u003cbr/\u003e\u003cbr/\u003eقبلش روی آیفون، اپلیکیشن Maps در واقع از دیتای Google استفاده می‌کرد. ولی اپل و گوگل کم‌کم تبدیل به رقیب مستقیم شده بودن (مخصوصاً به خاطر اندروید)، و اپل تصمیم گرفت وابستگی به گوگل رو قطع کنه و نقشه‌ی خودش رو بسازه.\u003cbr/\u003e\u003cbr/\u003eمشکل اینجا بود که اپل این جایگزینی رو وقتی انجام داد که سرویس خودش هنوز آماده‌ی رقابت با گوگل مپس نبود. با انتشار iOS 6 در سپتامبر 2012، گوگل مپس حذف شد و Apple Maps اومد، ولی کلی مشکل داشت.\u003cbr/\u003e\u003cbr/\u003eشهرها و مکان‌ها اشتباه بودن؛ بعضی خیابون‌ها وجود نداشتن یا جای اشتباه نمایش داده می‌شدن.\u003cbr/\u003eبعضی مکان‌های معروف گم شده بودن یا اسم اشتباه داشتن.\u003cbr/\u003eحالت سه‌بعدی Flyover بعضی ساختمان‌ها و پل‌ها رو مثل یه نقاشی سورئال خراب نمایش می‌داد؛ پل‌ها خم می‌شدن، ساختمان‌ها له می‌شدن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-27T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5830,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DQVrWRg6hMWEgF50E8mcgPxwmoxGYILFUEub9ZysHfqfg-NvQhYHOKmE7WfNke55Rr7rJb2TH_N5C8ajD1PKvgnKD3xKiHO5rHSMvAGYr7r3Y1EjzytFaRqLoMJgJYXV2PUFNVbKK_pu_TJ46o525RaQWt0qpQOHNxO39P2Yq86m5nsxwDFf9Xiys2UfwZd78VMOZ3E2bCYyDmlW6V4MXixMiM4-IZKFfaFA2DnMajU9gMsZB8gLt9_4oUXgMhsAhUGcoS3s4N2hpMjCLinHxa5OrO6UiSVZny45yVRkYFyqM76YsSQdMxxTxQLYJCb7dmsCd_qV9O_7hKZ8_4KP3g.jpg"
+          "url": "https://cdn4.telesco.pe/file/eMyXy-jlEvsZUjQu1G5xy8Czt8w5x6LTHCQ6kdnbwZNujQtxAXznAE094phEl4P4Tz3AjnfYq8nnvt66FivthELHV1hIjkojPBQBgS7EMLDEanUcetH9XD8wMo9hM6zJGdUigfxX8K5WMb5koroy3DEA2wlZ-RW0cTdumwyjA81ej3Wz18KjtoOdQXJoVYGDf_Zv3Rmp37HsSL3BPql0m2ludTQWpae-DaxiDd90i2SvMdgAKB22ut0fAPSxBbkYtCLqjR7VO3X5tP1W0cw03f0Al-42TYV_sGpeX2VCQsjmPvZIin4AmndjVTjWLe2fobLUMSsS4rY_M9IQ2xqhAg.jpg"
         }
       ]
     },
@@ -116,7 +30,7 @@
       "date": "2026-08-27T13:35:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +42,7 @@
       "date": "2026-08-27T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 6450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +60,7 @@
       "date": "2026-08-27T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +79,7 @@
       "date": "2026-08-27T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +97,7 @@
       "date": "2026-08-27T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +115,7 @@
       "date": "2026-08-27T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +133,7 @@
       "date": "2026-08-27T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +151,7 @@
       "date": "2026-08-27T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4990,
+      "views": 6080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +169,7 @@
       "date": "2026-08-27T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5020,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +187,7 @@
       "date": "2026-08-27T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4520,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +205,7 @@
       "date": "2026-08-27T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 6500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +224,7 @@
       "date": "2026-08-27T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 6980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +243,7 @@
       "date": "2026-08-27T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4280,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,12 +262,97 @@
       "date": "2026-08-27T21:03:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3100,
+      "views": 6500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "می‌دونستید تلفظ world-wide-web از www سریع تر و کوتاه تره؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-28T05:53:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه جمنای پرو لازم دارید و نمیتونید به کسی اعتماد کنید برای خرید \u003ca href=\"https://t.me/Amiarami\" target=\"_blank\"\u003e@Amiarami\u003c/a\u003e میتونید از اینجا تهیه کنید مورد تایید هست که من از ایشون تهیه کردم برای آنتی گراویتی و ساخت ویدیو عالیه قیمتشون هم خیلی پایینه",
+      "date": "2026-08-28T10:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/J_5QHzuI0qpyqAdA60eRCAM2AFEXQfzeEkwcWW11ZF1rD8PDqQw5kfAsItVzmS1Up9y3BjnuycUdy0w1aPhfXu5lCNdp1rCBd89Wl1gkRi0AO3qOkRh1vTTA1r-IcW7WRUWyt7S0DwugciB1u7IsSnElMoOIfQ7qHjzOYCnW4jI1I40Lr0eRazvYVzH4yVtjwMMpYSNgqPuVEZZ0GmNDXcI-9iN1e1MiU6fsWsl2UfroUTcrNSt6dlrKk_2rpxPS8eIRBO0Ux5qup_7sZLUfCbEVgAfZMBYaAKkNvgj9iwrUTGXLuf3kULBrqKC3I2cK9-FeM9KON_7eQ-tUwGcJ0Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شرکت‌های Perplexity AI و NVIDIA یه ابزار هوش مصنوعی محلی به نام Portable Computer معرفی کردن که به‌جای اینکه همه اطلاعات رو به سرورهای ابری بفرسته، بیشتر پردازش‌ها رو روی کامپیوتر خود کاربر انجام می‌ده.\u003cbr/\u003e\u003cbr/\u003eهدف اصلی این همکاری، حفظ حریم خصوصی و کنترل بیشتر روی داده‌ها هستش. یعنی فایل‌ها، کدها و اطلاعات حساس کاربر می‌تونن روی دستگاه خودش باقی بمونن و فقط اگر لازم باشه، با اجازه کاربر بخشی از کار به مدل‌های ابری ارسال می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین ابزار روی سخت‌افزارهای قدرتمند NVIDIA مثل DGX Spark و سیستم‌های دارای GPUهای RTX اجرا می‌شه و می‌تونه کارهایی مثل:\u003cbr/\u003e\u003cbr/\u003eتحلیل فایل‌ها و اسناد\u003cbr/\u003eجستجو داخل اطلاعات شخصی\u003cbr/\u003eاجرای وظایف چندمرحله‌ای\u003cbr/\u003eاتصال به سرویس‌هایی مثل Google Drive، Gmail، Slack و GitHub\u003cbr/\u003e\u003cbr/\u003eرو به‌صورت محلی انجام بده‌: \u003cbr/\u003e\u003ca href=\"http://perplexity.ai/hub/products/portable-computer\" target=\"_blank\" rel=\"noopener\"\u003eperplexity.ai/hub/products/portable-computer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-28T10:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mZK0MY5kyr9cnAOgmaU4v61VQhpaRhI0yxs7OI0ffQdk8mPltWrhupXrfhxBGVfoF_3kj31NJ3b-TMnLItw4PFrmEpVIrp7wOABR6Ak4HNkKHjrI3YeBRqMk0LK9pxOnme3D1_ZBu5J6CVIKKW2LOl9Hk-BVZqYrYW4PY2IcWzuUBr3LM1Yg_Ig__BvY78zUdeb8jPRTbuNUxyqXRhCwXNmsnsNXhPqxIFDSBJCdqpHQUTrMZCVcUh8jt4dA_lNc0LC9KM1kn4eHLqlijTMPWZ2Pp6ZiW8uRZGnHY9_aaBJrElosFSr_LK0oZl8bjRTCLPvxqltedZOeoZ4ZMu5h-w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این 3.5 ساعت ویدیو که توسط Andrej Karpathy معروف ساخته شده رو همین هفته ببینید.\u003cbr/\u003eشاید فکر‌ کنید که شما هیچوقت نمیخواید یک LLM از اول بسازین یا چیزی رو fine-tune کنید\u003cbr/\u003eبازم‌ ببینیدش چون فهمیدن جزییات LLM ها میتونه ایده‌های جدید و قوی بهتون بده!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtube.com/watch?v=7xTGNNLPyMI\" target=\"_blank\" rel=\"noopener\"\u003eyoutube.com/watch?v=7xTGNNLPyMI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ImanOracle",
+      "date": "2026-08-28T10:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ovilYhQwugQgajIW0lA-ZfLqXSalPQKW4LpmvwrcEJzu6R1CBCnE0-b4AagdrfdAgwc0FvVBF7LhrqYfDw068Uc1xKDBcQcZWta6_Qp3ZG-gk-lOIeqmK0Jg212nUsmMyQIvQqu-YXOxMkRr1ywmwDZjIiO7p1rDYusrT7KMwxbjgTHV4lwkiEkQlTBL2B-RS1_ArpHh0GR2dKGGTNQRzRwSlxuVuqR_6YvdlO48gXpDk9bEtYLlEgljdN3u3kfQcXP7pTze2byqH9Yvk68fIqjHF2Xak8haUhKOmkCMlC8K5lkCVYlJ3UxIAXWmjIj3Mc11pmbJE5WVYxempCMfFw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دو تا شرکت Hugging Face و Pollen Robotics پیش‌فروش یه ربات بامزه شبیه اردک به اسم Microduck رو شروع کردن. \u003cbr/\u003e\u003cbr/\u003eقیمت این ربات ۳۹۹ دلاره و قراره قبل از کریسمس به دست خریدارها برسه. این ربات دوپای ۲۵ سانتی‌متری، در واقع یه پلتفرم آموزشی اوپن‌سورس برای برنامه‌نویس‌های تازه‌کار و حرفه‌ایه. \u003cbr/\u003e\u003cbr/\u003eشما می‌تونید با استفاده از شبیه‌سازی و کدهایی به زبون Python و JavaScript، مهارت‌های حرکتی جدیدی به این ربات کوچیک آموزش بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ behradjaved_com",
+      "date": "2026-08-28T11:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/gcsJ-vueNzBYXzjKO_I6J5ffyHQRO1KG2x9IVF5K3xivwqyVNnbeVvWlvJny8rGBNHq7GBkWds6IIKuBg4OPEsSuAImfUuAQWOBmFMCzS-rbS48tQhalx6uEZfwsqBmm9hjPaBa1bLbF_STJGVTpbxybOunrxg9syoTnTrOU9-gcj-5E73MaUlQ8AxfJIZeW4sOdWvdCuBNlbXXSZDZmwOJ1x5hCxgbDNh5rhpl4iLmhpQjv7TxktZq3mFkWwzDyBvCOcsKSWz0zLkcIXIochk9geJVRwaIjVWHYF0lGtgoNRholTfqD95BgirQN8f1Lan0HXyOtJNEP4_sVHT88Ng",
+          "width": 1620
+        }
+      ]
     }
   ],
-  "last_updated": 1787880852
+  "last_updated": 1787923950
 }
