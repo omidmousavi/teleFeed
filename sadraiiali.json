@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه تو این دو هفته که از پابلیش شدنش گذشته نگاهی به انداختین و مشکلی دیدین یا چیزی خواستین بهم بگین",
-      "date": "2026-08-17T08:55:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 302,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
-    {
-      "id": 0,
-      "message": "چه چیزایی میسازن ملت \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://circuitdigest.com/wiki/litewing\" target=\"_blank\" rel=\"noopener\"\u003ehttps://circuitdigest.com/wiki/litewing\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاومده esp32 یه ریزپرنده ساخته که ۱۰ سانت در ۱۰ سانت هست :))\u003cbr/\u003eکلا ۴۵ گرم هست بدون باتری هاش.\u003cbr/\u003eو میتونه تا ۲۵ گرم رو بلند کنه :))\u003cbr/\u003eمثکه با باتری معمولی ۸ تا ۱۰ دقیقه هم پرواز میکنه (۸۰۰ میلی آمپر) \u003cbr/\u003eبعد به وایفای وصل میشه اندروید اپ داره برای کنترلش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BB8.png\u0026#39;)\"\u003e\u003cb\u003e🛸\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/esmYcBHqBK8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e یه ویدیو ازش هست توضیح میده \u003cbr/\u003eاگه قطعه هاشو جدا جدا بخری اوکی کنه میشه حدود ۱۲ دلار خودشون چیز کنن مثلا یهچیزی حدود ۳۰ تا ۵۰ میشه ‌ [\u003ca href=\"https://www.tindie.com/products/semicon_lab/litewing-esp32-based-programmable-drone/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e1\u003c/a\u003e \u003ca href=\"https://www.elecrow.com/litewing-esp32-based-programmable-drone.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e2\u003c/a\u003e \u003ca href=\"https://quartzcomponents.com/products/litewing-esp32-based-programmable-drone-with-battery-ready-to-fly\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e3\u003c/a\u003e \u003ca href=\"https://quartzcomponents.com/collections/litewing\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e4\u003c/a\u003e \u003ca href=\"https://robu.in/product/circuit-digest-litewing-drone-development-board/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e5\u003c/a\u003e]",
-      "date": "2026-08-19T09:44:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oMBvVh4my5_hDN37DERGlughrrSPpQEsaiPHbj6O6vz_OP805mGC-wl7AsS7kBaS_AMcuoeRIGVCXg29pzoKVWr1B-7qnrHWPkg8uqTkpUgbdSBeJyoXJRCp_12kR6CXXz40LxWtw7FHz2-FShQ_N6f1hoeu2kLz9XaxW_zxihl83OFcDr98y29n46yZ-dVqU2CYnZMGILBt81KaX4hQ1V7uuuIW5EYD-FhUfSCsP0WhMwd3U7t6JHzS2xpdhkxvdcSi6q-oisYSFe35TEFt4fyMgvkopZXMh1vrh1pTVJEdyqoMbV-EMMMJl25F7mAinPZ6LRo4K-HAJySNbAXE4g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "کار جدید\u003cbr/\u003eنوش جون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A5.png\u0026#39;)\"\u003e\u003cb\u003e♥️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eمنتشر بفرمایید\u003cbr/\u003e\u003ca href=\"https://t.me/radiohiich\" target=\"_blank\"\u003e@radiohiich\u003c/a\u003e",
       "date": "2026-08-20T17:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 223,
+      "views": 224,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-08-20T18:09:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 197,
+      "views": 198,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +36,7 @@
       "date": "2026-08-21T12:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 225,
+      "views": 231,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-08-21T12:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 222,
+      "views": 228,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LOEbLJmyDgS55rWOfr__51QO_9Y34PH6mIQIxOqhJN4modymdVJJQYkS-FUMQLihH3jJXBqjyzUZAH-j5OWR8opuJD0xZJ1KWIArukQxJx4Yzg07cyQakKrgGlEdTfW61L6KYPI2u3-WlhaVLhk-4C9DOsVWxU8hRkL12XYgHuUMozv-F4YGJCMpuCNnEiYIqOhqa45hpQpr_bbYGB81oieorw-t9V82YY-pS3NZE-rgKRZph25q0f7nauKDgOFt0Dr9qzgvZa1bbrckEaNn20qu4sQxmgaZ2uq1R-sHc5pymSBEHPXgc5Gks2eTNJuwXfi9v5ytUFizDZqbIyN1vg.jpg"
+          "url": "https://cdn4.telesco.pe/file/J8WxCFKWDOgM9yR50zGBt1hIxHr2zgkCbyN7UmSXFd37lTJkbVFE3BZpGjLwb9huWInhFSPd5izFo1KsmLqStgnxNbSNbmXsNsnzbI2JurkPiqFIZIwStXTHqfUGr02uYZBoA4554KaT1ymUF6uUFKqztglJU5HqWndSr-Wm6-IIpzP_0ychRrkxIlKDO2CmOdCxMjq8ABjUW6-oBMqQc8rh718VwN-n5ZIeAjdAYcTJx_b3ZHXMCEPV530ZRDRof_4jh85q_ekT1AVHVab-esNC84xOEjTspxWo52_ldKvBqtIFoTcwGtiZbGm__KMxuYOGASFI1ovViGMQYfXomg.jpg"
         }
       ]
     },
@@ -96,7 +66,7 @@
       "date": "2026-08-21T12:37:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 195,
+      "views": 209,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-08-23T18:00:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 178,
+      "views": 185,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-08-23T18:15:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167,
+      "views": 168,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dZwAF6AhMWgi2gaql06Rc5LBRJc50kH9oLOHKk8_GieK2R3EVo7muSUO60owjARD-WqV6fWPlhTdu5i60G0EiDV29U_9TdD1gqmp9HcGuIgR7Hg3sUBT97_3bGoIhNzO00Nifu1X2wgUoMYxHGRsMJq3240H1hpe3gw-Ssou5bdGjJceAfQkfb5pjNbEjTP6YTRklbdxqQrr__uYvH_8fPWVgRN0W3e4XSbD63U-BY4SNLZbcDnDVijzuHvJyhgtIXo0sWN_m6hNfCF5i_T5YOmVf2Pki7R3PCcM0bu8obQSEuLPMFVj24bgaglruRQDZiM8BE6CD4gFvhbhtJgv6A.jpg"
+          "url": "https://cdn4.telesco.pe/file/bMov4AFSUvk5Kr5gaaH_KxFAiVM5ij3g9kV0hMyXOL0UyW1pC5OB7zp4xPtgP6dL3mSUuBs9dZzyO8y5sXjPXwrd08GZpaJuXmBomhajuOifjb6G2UZPQadKXvs2ZW2JQUGLEZhjV4Ns9T-ng13iHHodpKoc53gnlEjIZQcRwLfiKN0JIxhRHODcBSTeZ6EMmXNGuiEeJ2T33xEhWNu4b26x_MUP1fHyQzUyWueY8Ie5QnX9aQiTwDvRdODaitJuVgtUelS8HfKh8cr9on_iStA3aP4I7RgwJCma_Py45Yk5ddEL97ywnMrFVgvyVmuF9Jvx9UtKQg7Zhn2FMXcVsA.jpg"
         }
       ]
     },
@@ -138,7 +108,7 @@
       "date": "2026-08-24T08:53:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 222,
+      "views": 226,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +120,7 @@
       "date": "2026-08-24T09:00:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 191,
+      "views": 196,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sMzZvpTkpVYrr6XtnHhbfr72Hu7m0_sv5rAvUoWXKcIpFfZAaRKACCGg5XnHTQSQU-c1qbvs_ZOi3Y1MIID1ERRvh5JzCPfBbeGEMI4yKOP13nWFAdUocdIXg_4JkNF-PAYby3op3oe1NnvuLn6Xx0p2wWJ3nnqOBSt5VD1bgfwM6XkbEK-QbL4p72-dbXxYy4sAoEoNjE0Qw7r6fsVK8s0b0VWBUe2IXrTgK78uxXAOgeQFwZE0UsCjAP5j7eDAwNfUcxwUc56tpMfz7nueu60TO6x1H6AAD-zQzHRguVffYuUsHxcOMDLlcdahB1HUsQwC56kxwn88d5nfYXn8lw.jpg"
+          "url": "https://cdn4.telesco.pe/file/BG52m7HGSJJmTWrAj7IyhMd4ugvsTaQLcAeSvLn26GENy5Kz64euEd3b5ar62e6nxp1AALbo1B3Y71GJf7Kd70V8xpn76PHKbmVV18JU1brQrrDEzP6rCRebpFwBsCpNkjJ1CC23v0Qu1zPwDKMAVCEVwW7fdiq8o7AhVTwLeUdZ8_sYK8Ml_8x_ysZEphdNXiBorsHx-djx55GqFd1Co2R_CIXIgzns2YajkemlCxZB1kXiaKVJOjGJJjZPfJgs-0V6sgOcLBnxM7oFT5GwviwfbPfMc1Ypf73EBTOCXlUSAikMFLku_QdhRTZRlAHB4CaecJuDm9vhtbPgcPlELw.jpg"
         }
       ]
     },
@@ -168,7 +138,7 @@
       "date": "2026-08-26T08:56:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 135,
+      "views": 142,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +150,7 @@
       "date": "2026-08-27T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112,
+      "views": 115,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +162,7 @@
       "date": "2026-08-27T19:56:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 114,
+      "views": 119,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +174,7 @@
       "date": "2026-08-28T08:05:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 117,
+      "views": 127,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,10 +182,22 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vb5gWYNqXYU_uNkSg-YGZbiUh1dtvVK-J5tK3vvnagkD4fKaR5i2qscOGVBcXOSpDaqNrZa5tvu1jQM3pQEu-IGmAGTIs__zQQEUyYC5tRUa54EYth9Dqt8qCC7cDmXdd-3JzVx5VQVnMpbTLg8jR_fds0qkqivaXBLlhTPGc8yFZNLYrFQhedWJEFVtsNEggfBrFlMeAER1V8DwXuR-sr3yitE_pUyptXphzeRmGm7igb0s3BlClfmVOQOYs8wT6jwxQStoVU7W2-xQTN9sZ5zIUbhi2ZQbx0bnFeeFq90WkJt03V6omG_XSndjp1nJ1g06duytSQeg5E2L6xwKwA.jpg"
+          "url": "https://cdn4.telesco.pe/file/ApyTExOkTjotthr8ioGqCMTnee5tCxdGD4Rp2gAzaC1HriFJs_hhRzfFgQQMAryWkgSyb1nHrke03CWHE5s6Ff1ZwGP5hoj8Pi1nsaiVaetg9PVI2H_4G2LL-QHzrEIa8i1lLiJ5Z_MkpkdVYRcPTfcpcDAfyt-QqhZ3ACVoTSForSW2xudFDZRQD3_jdFwy7Su74jsH9-oiRaXdC2hWxLzE4A1gmeUDq1bkXo6Tm_geojZazbrVuh_ig0zgTaB2daFzP1P_ipZ_d4csc40cKKodp4HVHKtSUQ21maF-VbprmyMYy-JSMPDuTNwQxy0vGveeuWVF-PaMoH6Kbev5Zw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://khiar.net/@sadraiiali/117178413497108998\" target=\"_blank\" rel=\"noopener\"\u003ehttps://khiar.net/@sadraiiali/117178413497108998\u003c/a\u003e",
+      "date": "2026-08-29T12:45:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 65,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
     }
   ],
-  "last_updated": 1788002120
+  "last_updated": 1788018177
 }
