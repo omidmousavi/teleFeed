@@ -8,155 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دو تا شرکت Hugging Face و Pollen Robotics پیش‌فروش یه ربات بامزه شبیه اردک به اسم Microduck رو شروع کردن. \u003cbr/\u003e\u003cbr/\u003eقیمت این ربات ۳۹۹ دلاره و قراره قبل از کریسمس به دست خریدارها برسه. این ربات دوپای ۲۵ سانتی‌متری، در واقع یه پلتفرم آموزشی اوپن‌سورس برای برنامه‌نویس‌های تازه‌کار و حرفه‌ایه. \u003cbr/\u003e\u003cbr/\u003eشما می‌تونید با استفاده از شبیه‌سازی و کدهایی به زبون Python و JavaScript، مهارت‌های حرکتی جدیدی به این ربات کوچیک آموزش بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ behradjaved_com",
-      "date": "2026-08-28T11:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/uJtMWHj_ddDxSNoLKXKEW-KAC3GC8GQHhJage-ZCFvTj_J6GV5qcuGWFOS39LVBr2Nb2nN6dSMa3KO8B_dZhDrmQgxVF7jwvrYcYZtadqbD8rIyXqdD7lMsLsiRyB9KzFd1XaIQA9JkvPxGl9TlGYqWEdd7tqB8ONa41xP2sgtk1-vJqkv-dEQKY5DDe1LbJeCsKDj95v4VLPqZCe1zkKz2q6qYoZwcyHUN2rIalrXEXEyzGITW0Fw6fbUczVx2e6pE8EcEmW1tyNgW5RcoJX_ksK9qgMpXD7lLxlvgmGHyxaFILND8G4SZUpUMRfgjnW9cdlOPQZRXPCGzgU8yv5g",
-          "width": 1620
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آیا یادگیری زبان انگلیسی برای برنامه نویسی لازمه؟\u003cbr/\u003e\u003cbr/\u003eمن که خودم نه کلاس زبانی توی عمرم رفتم نه کسی بود که بهم انگلیسی یاد بده خودم خود آموز شروع کردم یادمه حدود ده سال پیش یه سایتی بود برنامه نویسی یاد میداد اسمش سولولرن بود از اونجا شروع کردم و با گوگل ترنسلیت کم کم ترجمش کردم و یاد گرفتم الانم دارم کم کم خودمو به سطح C1 نزدیک میکنم چون دیگه کتاب و فیلم تخصصی هم میبینم؛ ولی در کل نیاز اجباری نیست ولی دیگه دنیا توافق کرده که علم زبانش انگلیسی باشه پس بهتره دیگه مخالفتی باهاش نکنید اما اگرم بلد نیستید چیزی الان ازتون کم نمیشه با هوش مصنوعی ها ترجمه کنید کم کم خود انگلیسی هم باهاش یاد میگیرید. بعدش دیگه راحت میتونید از منابع بسیار غنی گسترده انگلیسی استفاده کنید و کلی به یادگیریتون شتاب میده. الان نمیدونم سولولرن در چه حالیه ولی حس میکنم W3schools بهتر باشه اون زمان این معروف نبود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-28T19:58:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این ویدیو که میگه بعضی وبسایتا رمز عبور رو حرف به حرف چک میکنن اشتباهه؛ توی کل تاریخ کامپیوتر یک بار این فاجعه رخ داد اگه یادتون باشه وایفای هایی که WPS داشتن هک میشدن اونم بخاطر این بود سیستم اول 4 حرف اول پین رو چک میکرد بعد 3 حرف بعدی که در مجموع با 11 هزار حدس در چند ثانیه قابل هک بودن و دیگه این اشتباه توی تاریخ تکرار نشد سایتای امروزی ده ها ساله که پسورد هارو به صورت هش ذخیره میکنن و اصلا امکان مقایسه حرف به حرف وجود نداره چون دسترسی اصلا به پسورد ندارن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-29T08:07:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AKJqkkBMH-meloPp-SM9dcfJy5yEn-HW8Uen6TTfCTP5FPZfgM0is0mZ23bMN7u57oZHijO_YgmMXSyyvw7eNpNt3qef8TLaXE8tiLNcwR1pOGZ_y7CId_w1cF6j6ovMOZ3j1tTgKf7xHDNGeGnZqXDNMQNednjz-0SLAhgmUTmHY6rdDMlVRghCQPj_8KKFDGyO2b8CK7ODXV4ctS6RY5Qul5wtlhfF5Ml4UO1Kk_2LCmfegAq0up44CoSdS_QT9_XXfaRGVhUy8oWuJaHzdwgIHiGWpSPB_QOsksnvbu6yJMEdZIm96tBH4aMwAB_JFeScxX2xkLM32c04ud_ktg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل مینی مکس h3 ویدیوها رو سریع‌تر از چیزی که بتونی تماشاشون کنی تولید می‌کنه برای همین یه شخص خلاق اومده توی لایو استریم یه ویدیوی نامحدود شبیه به کانال تلویزیونی توی توییچ ساخته و کلی مخاطب گرفته!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-29T08:39:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/v80qaEvXbozQTtHQF_rUSBLajtS5e8D7gJbZkzWo62Msmy1Eqf9y42tR3Elq9hDTUzmJHccfAnpSVbPOJMdragx_nCEsZ0TD727dDdd3vXw_2bSXs5NkzY3LRQL-zxJ3zFgiQAI0YYLAjmEZXBBpSvcEWQ-XZxWE1Uy4j6FrQmCRoq7R-2fGmAkQ6LlIhm9CGJRzvpXwN5Z-lB0YMXoal7HvjgZJg6yiFNQ6EQXm_mRFa1jzQe-2XdwyVSDfCA1xeHJ8tH63O-VKRVPYjpF3NWcwwJZtkg9ZUhyDMp4JsVhH8JduFl6JLC2q0DwX-5V-UXBC3OTn5vZUAt6XlPDf7g",
-          "width": 2272
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "با استفاده از لینک زیر می تونید کاملا رایگان با هوش مصنوعی مینی مکس ویدیو بسازید بدون نیاز به لاگین :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://fal.ai/tools/minimax-h3-max\" target=\"_blank\" rel=\"noopener\"\u003efal.ai/tools/minimax-h3-max\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ai_ba_reza",
-      "date": "2026-08-29T09:01:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dmHu4n5j8PLxiKApRHO16XjvyNAfR2TaE4CxhpkdaQ4cSYEdM8j7s133Xr9PA8FpSA48OAEKUaIU-Z_fEzUoAdnSc-ougitqDqjZeML1Kk5VALmj5UJ4dCPqPSDTNIwfTnGQmeJj8cYRKVH_qCvcjfd2-DSEAqDskhy2LV_aS28M7d2Sl4pHey28d5Q2rtLwmvDPTLWVVAjN2-V8QaHC1WGZIrdnxeB4_igpg-llVUX3MrFvUNG3whHgUkTfAoFWHH_AfB7wvi7PVpqQhYPhn5foO83cY6b1OSWv68NPtXaX1az6h2GIelxhUNDzd4ru4cDTmkVHF-bUDH0agSMKVw",
-          "width": 1852
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003eسرو\u003c/b\u003eیس ویژه ترکیبی نامحدود•بدون محدودیت کاربر(درست شنیدی،محدودیت کاربر نداریم)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215486050046062421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eتعرفه\u003c/b\u003e \u003cb\u003eو لیست کشورها در تصویر بالا\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6188045471118790922\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبا بیش از 40لوکیشن در سراسر جهان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5857001499455921843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938E.png\u0026#39;)\"\u003e\u003cb\u003e📎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eثابت،مختص فعالیت های حساس\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5834723177674056690\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eسقف دانلود/آپلود نامحدود\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5258258882022612173\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB2.png\u0026#39;)\"\u003e\u003cb\u003e⏲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبروزرسانی مداوم و تضمین اتصال ِباکیفیت \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5212936673423274058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7AC.png\u0026#39;)\"\u003e\u003cb\u003e🧬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبدون افت کیفیت تا سقف 50کاربر همزمان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6048463895901769909\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F979D.png\u0026#39;)\"\u003e\u003cb\u003e🗝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eتانلینگ هوشمند و مقاوم در شدیدترین محدودیت های منطقه ای\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958699241137505132\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eهمین حالا از ربات سرویس تست بگیر و خریدتو نهایی کن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215229232476596064\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/TROYVIPBOT\" target=\"_blank\"\u003e@TROYVIPBOT\u003c/a\u003e\u003ctg-emoji emoji-id=\"5213358684024877471\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-29T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ReWhEju3o5pHqcBMSAbe07L0zLx32c32k-iReT0Y7D3oUcVdTopwye9s_gBveUQ4MRDIvTGihncRVrBY2XxlQxda3Pow_5cugZA0miqaQ0IPDLGAMO8l2itntVLt5BGtMdIX7I-oG6KL8GyTQmexIZKUg8OixHIBqYam67twmuiZYYaHO0PTYDrVFgcI4FSSolf-6LnI2vCAVeQQ-PTUrT3gdTXw87Xhm9Z8IMkyJqxLNFCKgxPAj-AEDjFhmg-IerWbaffI_go1FhhNCC6TDotptQu-LHEOyHtiY5I7kyqKbjyT6zNhl48maVWRQkI3Y1oWivgwl2I35dbBiWQAdw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر به‌تازگی یه پروژه‌ به اسم ABYSSAL رو به‌صورت متن‌باز منتشر کرده. این یه تجربه‌ی کاملاً رویه‌ای (Procedural) از اقیانوس و آب‌وهوای شدید و طوفانیه که مستقیماً داخل مرورگر اجرا می‌شه. موج‌ها، ابرهای حجمی، بارون، رعدوبرق، هاریکین، گرداب‌های آبی، موج‌های سرکش (Rogue Waves) و سونامی‌ها همگی به‌صورت Real-time با استفاده از Three.js، WebGL2 و GLSL تولید می‌شن.\u003cbr/\u003e\u003cbr/\u003eاز نظر عملکرد هم دمو به‌صورت خودکار با توجه به قدرت GPU دستگاه، سطح کیفیت مناسب رو انتخاب می‌کنه. اگه تصویر براتون کمی تار یا نرم بود، می‌تونید از بخش تنظیمات کیفیت رو بالاتر ببرید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://token-gremlin.github.io/natural-disasters\" target=\"_blank\" rel=\"noopener\"\u003etoken-gremlin.github.io/natural-disasters\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Token-Gremlin/natural-disasters\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Token-Gremlin/natural-disasters\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-29T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ozM5sjsyX2U6co3dWJkytxhPMDGO9fTZLY81YG7dPJfruQWR3K4NhVdcX99-GWVqEamHgNgPGfN6ZINZKeqLqxPaHadXM0kkDxYA3jnuqh4mdaFV57WyzuiAerF0v9wI_vzgp8MdqJ120-6DA90PGKIQrK-tc5b0rmYFgCjiG8zpy1qY-ldc-qEJJ_1HBuv-YtX2aOb0oDu1xonG04k_qTeqh3MBGCVTo5f0KJQMSz2CdGX-kfd7JhOWtF-w8mfuTDqMWSNOj1B6kUeOSt7kD3-dNPcGYYf-sn2kUmCD2hiWU4Y0zbs3DA5DCyoBjWpx6zeDhyd-XOv07WP2iQjBWw",
-          "width": 1562
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه سایت با بیش از 10 هزار پرامپت برای تولید تصویر پیدا کردم \u003cbr/\u003e\u003cbr/\u003eبرای Nano Banana، GPT Image 2 و مدل‌های دیگه.\u003cbr/\u003e\u003cbr/\u003eدسته‌بندی‌شده بر اساس سبک، عکاسی، برندینگ و بیشتر.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://meigen.ai/\" target=\"_blank\" rel=\"noopener\"\u003emeigen.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ai_ba_reza",
-      "date": "2026-08-29T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/l7If-PlnGKVca8Dpi2Zhf1H4qVPXaxcnOdbv9TeWAX6TyylOP8cqvNahc9kW4drpTptkl0CTwdDnUejJANx6bqxCXXmVvycGheMSUEr53GIYJhk95eCtnHwKJGHYLvQ3EL5J3ddSOLuk0IN-3QLRpHwwFH4_taK-Q9KrnwYQc9d3NdN4u_IBEZ_R6-vxP6vVwCgYnz0AjhGrJGVPQecz6jsNJ799Vk4Dv90kMszP6Km-kmKyU9uLCjM7rHi7VvBwRFvnA6-aF4b3GhddmKFdN2Og7uCE1ytuKMaYatx-DONq0YOm75I2HXjO6oVhZaiJXTct-L-XOnkzHFEweOZy0g",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این کامپوننت پک هم قشنگه تازه اومده کلا 500 تا ستاره داره ولی خیلی خوبه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://rareui.com/components\" target=\"_blank\" rel=\"noopener\"\u003erareui.com/components\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-29T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9050,
+      "views": 9320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +30,7 @@
       "date": "2026-08-29T13:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9700,
+      "views": 10000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +42,7 @@
       "date": "2026-08-29T15:56:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9040,
+      "views": 9400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +54,7 @@
       "date": "2026-08-29T21:08:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
+      "views": 9260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +66,7 @@
       "date": "2026-08-29T21:24:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8720,
+      "views": 9100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +78,7 @@
       "date": "2026-08-30T22:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 8340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +96,7 @@
       "date": "2026-08-31T08:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +114,7 @@
       "date": "2026-08-31T08:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +133,7 @@
       "date": "2026-08-31T08:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 6500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +145,7 @@
       "date": "2026-08-31T09:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +164,7 @@
       "date": "2026-08-31T09:53:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +182,7 @@
       "date": "2026-08-31T10:34:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +193,141 @@
           "url": "https://cdn4.telesco.pe/file/GliiDXn1P4NiqfE7iQkj5di4O78-CTU-8S5k9cy9mfEzaixp02NXuwV4YiQhOAswCf3LMwNULBCi1l9E9e1OViW-m_QxHRyET1lRoQq283PcbA9H3ZACeDjhGMX36NZQmcNoPm6ozKyARXY8kEMISH_O2pLF5b5wKvP_gyckBuYyoBGFkc3B02zlOPx-Ia4I92lwCLhG7f_UvmQRj2CqfjhcDBFcCZK8NJmL2i49teFc3LLkKEmhQYlNFRvkptGz95nV8xWXxZpcdx27ldqHVVlTrq0m0q3UBMDicjoWH4R4QKjY62sHZhrJL6bxbTeffgumn7kmpBYwecjmBKK4Yg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "موقع استفاده از هوش مصنوعی به \u003cb\u003eمحدودیت\u003c/b\u003e میخوری ؟ \u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e راه حل تهیه اشتراک هوش مصنوعیه \u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاشتراک های هوش مصنوعی رو به صورت اختصاصی روی ایمیل خودت قانونی تهیه کن ! اونم با یک دهم قیمت\u003c/b\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eهنوزم شک داری \u003ctg-emoji emoji-id=\"4956348030010786816\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003cbr/\u003eرضایت مشتری هارو از \u003ca href=\"https://t.me/dazai_gpt/168\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا\u003c/a\u003e ببین\u003cbr/\u003e———\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5773793517482546530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9486.png\u0026#39;)\"\u003e\u003cb\u003e🔆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eChatGPT  \u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eGemini  \u003ctg-emoji emoji-id=\"5364226346669065610\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eCursor  \u003ctg-emoji emoji-id=\"5208665212483310136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eClaude  \u003ctg-emoji emoji-id=\"6237935772574423837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003ePerplexity\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409048419211682843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eشروع قیمت از 299 هزارتومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5949680288043897258\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اشتراک چت‌جی‌پی‌تی اختصاصی روی ایمیل شما فقط 1850\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5461117441612462242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e خرید مستقیم از ربات :\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ChatGPT_StoreBOT\" target=\"_blank\"\u003e\u003cb\u003e@ChatGPT_StoreBOT\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-08-31T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه دنبال ساختن یه AI Agent برای کارهای علمی و تحقیقاتی هستید، این پروژه رو حتماً ببینید: یه مجموعه از 163+ مهارت تخصصی که به Agentها کمک می‌کنه کارهای علمی رو فقط با تولید چند خط کد انجام ندن، بلکه بر اساس workflowهای تخصصی جلو برن.\u003cbr/\u003e\u003cbr/\u003eاز Bioinformatics، Genomics و Single-cell گرفته تا Drug Discovery، Protein Engineering، Molecular Dynamics، Medical Imaging، Machine Learning، تحلیل داده و Scientific Writing. حتی برای کار با دیتابیس‌های علمی مثل PubChem، UniProt، ChEMBL و ClinicalTrials.go‌v هم Skillهای آماده داره.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که این‌ها خودشون مدل AI نیستن؛ در واقع یه لایه تخصصی روی Agentهایی مثل Claude Code، Codex، Cursor و ابزارهای مشابه قرار میدن. یعنی Agent می‌تونه بسته به کاری که ازش می‌خواید، Skill مرتبط رو پیدا کنه و از دستورالعمل‌ها و workflowهای تخصصی اون استفاده کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/K-Dense-AI/scientific-agent-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/K-Dense-AI/scientific-agent-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RT0rX6TjsVJ0YXTJSBmXh5FVxQaR_IXzDKgxB4VTw5GKU9ssEk0F5tuKs5JxZ94f91FWcYzIavv0IjS7txZFTrkLkLCbGWeXuBvIddcXoBPptgy-2raO0g--czBI-wKrT7O6yqbZdvVvc2DBVZgu21bB1MLUjOkGHY5fI5K5F5yYJqSFsJ3BJa2w5zdR9ygjyWzukhpefVN9Ltigs4OdtcAxA_dcdhcpmXUJrJ4nT2nsTjRJbayqfvDL8Yac4MoM8zvKIGfg4KA_R0T61LcIH0ZDngpz_JV-fnaQ2aNnnkMOILmGprwP6hyMZZRl-v2TjUBJMfVhMdvBBxeSUEew4w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایده خلاقانه طراحی دستگیره کشیدنی (با صدا ببینید)\u003cbr/\u003e\u003cbr/\u003eنکته: این فقط ایده هستش کدش در دسترس نیست فعلا، کدش موجود شد قرار داده می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/L9Sx_3msuDbR8qyIc_Ha69UBLRJ0RfgcDghWeWayYLXJLUOoqinRhggj7Uks5FOa03ea51d4CpX2jzenLhQ48BZGlSDPQ0YCvPfS_W-k71uqqvLhFWfDIMf2WUG8M2sJa7wIkLUfH5jReSZtx0FVXsJ8tk9POy6gNA1sUJfimOh11x_WgVIhKUeoZb-4KrY7Wk-tF-u7fUW9NqscYU38ab1ih3w0MEUjqDioaEJSWKftc9G9OXj_yoYXRADjWg5_sedvR9VPIgGPqznjjRb8VepjgsXWxmOdYBJVzoVb9CYOC7Ap0p30VqyfSQZcDbL-O3OO3oGT00ow5DM_7FbAew",
+          "width": 1206
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برنده هوش مصنوعی می‌دونید چه شرکتیه؟ اون شرکتیه که بتونه برنامه نویسی رو حذف کنه و در نهایت یه چیز جایگزین بده که دقیقا قدرت برنامه نویسی رو داشته باشه  (این ورکفلو های محدود و مسخره منظورم نیست) یعنی فقط کار های تکراری و طاقت فرسا توی برنامه نویسی حذف شده باشن مثل میوه پوست کنده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T17:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاینجا یاد می‌گیری مدل‌های هوش مصنوعیت رو دیپلوی کنی!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA9.png\u0026#39;)\"\u003e\u003cb\u003e🚩\u003c/b\u003e\u003c/i\u003e بوت‌کمپ \u0026#34;MLOps\u0026#34; کوئرا \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e دوره فشرده \u003cb\u003eمناسب ورود به بازار کار\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F8FAB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍🏫\u003c/b\u003e\u003c/i\u003e آموزش توسط اساتید مطرح این حوزه \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e منتورینگ اختصاصی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e کار تیمی و شبکه‌سازی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e تمرین و پروژه هدفمند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e مدرک معتبر\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e ظرفیت محدود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB1.png\u0026#39;)\"\u003e\u003cb\u003e🌱\u003c/b\u003e\u003c/i\u003e پرداخت با اقساط بلندمدت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/pkdlj\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/pkdlj\u003c/a\u003e",
+      "date": "2026-08-31T18:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lw796H2bR7-3NrYW12ImVBk8PCOosCIFBz7Jgijyg8SuEUX2Y9W0SwHUgu0_TWYq18-sjFEJUKxeDqPOWsQE2ydfRLRkgr_iqOMcO0d947Wcj7jPdvdmDyxlaF2KrN2ivojOcianICvqtgT2fQkC0Rv8L6LHljMnNmSiIjgbsRZ4lhEtchBOKKrxQYaeqyYRnLAeMu6jNmqSuTXfwb7WuR5PaIXv-1LvVpL-mGq-BkikfolCFYpWJkMg1G_b00jhtmtyUvc4e8xIRJuD3oEAvIn6i25Y6qVB5xx0kBECxXUPynKDIpE6DfvL2zz1piHljcgxctqueR2MP4LnxDbfqQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این LTX Ripple یه روش جدید برای ادیت ویدیو با استفاده از IC LoRA هستش؛ یه ایده ساده ولی جالب داره: فقط فریم اول ویدیو رو ادیت کن و Ripple همون تغییرات رو در کل ویدیو پخش می‌کنه. \u003cbr/\u003e\u003cbr/\u003eیعنی می‌تونی ظاهر کاراکتر، لباس، آب‌وهوا، نور، بک‌گراند یا حتی آبجکت‌های داخل صحنه رو فقط روی فریم اول تغییر بدی و مدل تلاش می‌کنه اون ادیت رو با حرکت سوژه، حرکت دوربین و تغییر زاویه دید در ادامه ویدیو هماهنگ نگه داره.\u003cbr/\u003e\u003cbr/\u003e بر پایه LTX-2.5 ساخته شده و هدفش اینه که بدون نیاز به ادیت فریم‌به‌فریم، تغییرات تمیز و سریع رو روی کل ویدیو اعمال کنه. یه جورایی به جای اینکه کل ویدیو رو دستی ادیت کنی، فقط نتیجه‌ای که می‌خوای رو به مدل نشون میدی و میگی: «حالا همینو برای بقیه ویدیو هم ادامه بده.» \u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/WepeNerd/ltx-ripple-demo\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/WepeNerd/ltx-ripple-demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vBc2oJrkG8Oxg2R1-kDKQV1swiUQjh_4q8LwNIBcFK6TGZqmXytI6X2Myree-MW7NUr5Y8p5dN5M3XfgV9Q-55Hn4iLicH7mrCGg_xjTamCg4i_uiSXZ2zqTbcYFwRKajpC5SGPMF7cJDuRzgln1eIqALosvjtxYyOs-Z6LygH7-r7PXKLpGm5wgKFm9OBY9ALMQFumMKML8unPMAmaOPG5U85GyIoay4iISiHgnwDsow2giQxe0N-PIxfJRiv_L2sl22F3097v8yPMU4n0UbHqibHYywN-mPuHNh8wwmGMzs-YrYKPBAHBhY0I_3S-7S81Idv7mkXqU88F4nk0DbQ",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "انتظار این بود که چون چین ارزون تولید می‌کنه مدل هاش بی کیفیت باشن اما مدل V4 Flash  دیپ سیک که توی 21 آگوست منتشر شد، با مدل Gemini 3.7 Flash گوگل که توی 13 آگوست عرضه شد، رقابت می‌کنه.\u003cbr/\u003e\u003cbr/\u003eمدل دیپ سیک با قیمت 0.22 دلار به ازای هر میلیون توکن ورودی و 0.66 دلار به ازای هر میلیون توکن خروجی، برای درک تصویر، از جمله نمودارها و اسناد طراحی شده.\u003cbr/\u003e\u003cbr/\u003eمدل Gemini 3.7 Flash گوگل هم با 0.75 دلار و  3.75 دلار به ازای هر میلیون توکن صورت‌حساب میشه.\u003cbr/\u003e\u003cbr/\u003eهر دو مدل برای اینکه میزان اثربخشی‌شون توی کاربردهای دنیای واقعی مشخص بشه، روی کارهایی مثل خوندن نمودار، بررسی فاکتور و تشخیص حادثه آزمایش شدن و دیپ سیک با کیفیت یکسان 5 برابر قیمت کمتری داشت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YONmCB5RWMEtvZrfuKNjwSyxIpmdJQy8dcPTCazuZwLybYPDUYh7gVS5o0CYpTa4h8Z0v-FMUCMwox0_HBa2FdhPfjCIZaMPXnZ2ZTd7f3dgHoVikK5Q247O074f64HvQnhVvb45Iz_20TK0wTqUFgxWjH6MVI-7XQT2qtU2uBdLnDKcfpIHoqRjVctHqxMQouu31OLfVeFpxx4UPwtr5-QA1AqU__DNjhyJo7cPETsUFlYxXx5yVociV9c4HjC4jgK-kHFfoeaxh6Xpk4jEZu0BlxxcVDKqbpAuzgBW2kSq6nt4XBqqjFOFWgj-8fVNQmQQNFfBhcHkjWuUyhbQrQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این فوق العادس چینیا یه پروژه آموزشی شروع کردن برای ساخت LLM کوچیک 64 میلیون پارامتری از صفر توی توی دو ساعت؛ \u003cbr/\u003e\u003cbr/\u003eهدفش اینه که به‌جای اینکه فقط با Transformers و LoRA و مدل‌های آماده کار کنی، خودت ساختار و کل مسیر آموزش یه مدل زبانی رو ببینی و اجرا کنی. این خیلی خوبه برای پروژه های دانشجویی و حتی یادگیری شخصی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنکته تا الان 50 هزار ستاره گیتهاب گرفته، زبان اصلیش چینیه ولی ترجمه انگلیسی هم داره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/jingyaogong/minimind\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jingyaogong/minimind\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-08-31T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/C6CTXkX0jS1FD7JU942ygRWF-UCRBsQ2VSo3agPalhoJmXY6eB2EpnoR7g_F1b0OQGo5oc9Sd3i45_b6qPvJkywCFXlgI_FvDn5jKZRloT3m1bV9RQUwBtoYvVQ3dswjGvMBVjRi3qNcZjCGx-G4F6r0gEoYD58Tam3QGWLbJfpYkW2Adf8OtG6-96leiy5uRtQSh4ri8Ekq2H-5UfIbGIQRLak5fCCZ-a53FqSK4rp8AGiBC_DO7pvt9PBN1HhGnQiWbr52T4rJUsvT2brkHqnKEP2CdHOGLehLp08wD8-cOd-MYiIg83xD4zzNbCH0LIxhfV8STEtVfkr20vgRsg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788186916
+  "last_updated": 1788208118
 }

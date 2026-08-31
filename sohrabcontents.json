@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چند وقتی بود وقتی فایلی با mtp کپی می‌کردم یا مشغول انجام یک حرکت سنگین بودم سیستمم کند و هرازگاهی هم فریز می‌شد.\u003cbr/\u003e\u003cbr/\u003eامشب نشستم و شروع به دیباگ کردم و به این نتیجه رسیدم که مشکل از یک برنامه خاص نبود، از تنظیمات من برای کرنل لینوکس و شیوه‌ای بود که dirty pages رو مدیریت می‌کرد.\u003cbr/\u003e\u003cbr/\u003eکرنل وقتی روی دیسک می‌نویسه؛ داده رو اول توی RAM نگه می‌داره و بلافاصله به برنامه می‌گه نوشتن تموم شد، چون هنوز چیزی واقعاً روی SSD نرفته. تا اینجا خوبه و برای کارایی طراحی شده. مشکل از جایی شروع می‌شه که این داده انباشته‌شده توی RAM به یه حدی می‌رسه که کرنل مجبور می‌شه همه‌ش رو یهو flush کنه روی دیسک. همین یه burst سنگین I/O می‌سازه، صف SSD پر می‌شه و کل سیستم برای چند ثانیه انگار هنگ می‌کنه.\u003cbr/\u003e\u003cbr/\u003eراه‌حلش این بود که چندتا پارامتر vm توی sysctl رو تنظیم کنم تا writeback زودتر و پیوسته شروع بشه، به‌جای اینکه یهو و سنگین اتفاق بیفته:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003evm.dirty_background_bytes = 67108864\u003cbr/\u003evm.dirty_bytes = 268435456\u003cbr/\u003evm.dirty_expire_centisecs = 3000\u003cbr/\u003evm.dirty_writeback_centisecs = 500\u003cbr/\u003evm.swappiness = 10\u003cbr/\u003evm.vfs_cache_pressure = 50\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eاینجا به‌جای ratio از bytes استفاده کردم، چون ratio به حجم RAM سیستم وابسته‌ست و روی سیستم‌های پرحافظه می‌تونه چند گیگابایت داده انباشته کنه قبل از اینکه writeback شروع بشه. با bytes این آستانه ثابت و قابل پیش‌بینی می‌مونه. پایین آوردن swappiness هم باعث می‌شه کرنل دیرتر بره سراغ swap، که اون هم خودش یه منبع جداگانه از فشار نوشتن روی SSD بود.\u003cbr/\u003e\u003cbr/\u003eیه سوال که خیلیا می‌پرسن اینه که این writeback مکررتر به عمر SSD آسیب نمی‌زنه؟ جواب نه هست. حجم کل داده‌ای که می‌نویسی تغییر نمی‌کنه، فقط پخش می‌شه توی زمان. اتفاقاً اون burstهای بزرگ خودشون فشار زیادی روی garbage collection داخل SSD می‌ذارن و write amplification واقعی رو بالا می‌برن. نوشتن پیوسته و کوچیک‌تر برای controller SSD بار خیلی سبک‌تریه.\u003cbr/\u003e\u003cbr/\u003eو الان بعد از یک ربع استفاده دیگه اون فریزهای ناگهانی و یا کندی رو کمتر تجربه می‌کنم :))\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-27T18:53:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "لیبره آفیس 26.8 منتشر شد\u003cbr/\u003e\u003cbr/\u003eبنیاد مستندات (TDF) انتشار لیبره آفیس نسخه 26.8 با ویژگی‌های جدید و تعداد زیادی رفع اشکال را اعلام کرد. لیبره آفیس برای ویندوز (پردازنده های اینتل و آرم)، macOS (پردازنده‌های اپل سیلیکون و اینتل) و لینوکس (اینتل در قالب DEB و RPM) عرضه می‌شود که شما می‌توانید متناسب با رایانه خودتان آن را از آدرس دانلود همیشگی لیبره آفیس دریافت و نصب کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.libreoffice.org/download/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.libreoffice.org/download/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای دیدن ویژگی‌های جدید لیبره آفیس 26.8 که از شماره‌گذاری جدید مبتنی بر سال و ماه میلادی استفاده می‌کند، به آدرس زیر مراجعه کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://wiki.documentfoundation.org/ReleaseNotes/26.8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://wiki.documentfoundation.org/ReleaseNotes/26.8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه نیز علاوه بر رفع اشکالات متعدد، بهبودهایی در زمینه خط و زبان فارسی نیز انجام شده است که در \u003ca href=\"https://blog.documentfoundation.org/blog/2026/08/26/libreoffice-26-8/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپست وبلاگی بنیاد مستندات\u003c/a\u003e و نیز \u003ca href=\"https://wiki.documentfoundation.org/ReleaseNotes/26.8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیادداست‌های انتشار نسخه 26.8\u003c/a\u003e قابل دیدن است. یکی از مهم‌ترین این بهبودها، تشخیص خودکار جهت متن راست به چپ و از جمله متن فارسی است. برای استفاده از خروجی بهبود یافته، می‌توانید نسخه 26.8 را دانلود و نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/libreoffice_ir\" target=\"_blank\"\u003e@libreoffice_ir\u003c/a\u003e",
-      "date": "2026-08-27T23:07:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 721,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oGv0zOq3geZlPXe8TJUHS7R76q967LSUf1cI5lQjTSfiA3aQnR97jsqePrODTrFYhmvcM3UWb495ZgtxXC2m95YhkcdjQ7IAcnP3u7X1cXi3lHCGvl36aYMFwscG4Ygmj3ta2ee3YdyCgJXmGJR9ozxg6BEjrVMsvgOwpvggGY7OmJ75k3tKgagepCm7m7_ZSdb4f2D-XaZ7aKOH5NlOnnu3Fq3QBuMzI3vlfxYL8m19RKXXtGsExXAa2EfqbETV-1s0CUxFCtGDl82vBQBBt25BmFmfexLqAHYIOTrAv2BR1GCjNZVLW8L0DTkkiJB_PFJJJLjdpEVUKD-n8hu-IA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نسخه ۰.۵.۳ میرورمن (مدیرمخازن پارچ) منتشر شد! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه با کش محلی وضعیت میرورها و پشتیبانی از ETag، دیگر نیازی به دانلود مجدد داده در هر اجرا ندارد و در صورت قطعی اینترنت به‌طور خودکار از داده‌های ذخیره‌شده استفاده می‌کند. تست سرعت نیز با صف پردازش موازی جایگزین شده و سرورهای کند دیگر باعث توقف بررسی سایر سرورها نمی‌شوند.\u003cbr/\u003e\u003cbr/\u003eدر خط فرمان، دستورات \u003ccode\u003esync\u003c/code\u003e و \u003ccode\u003ebackup\u003c/code\u003e اکنون از طریق D-Bus Helper بدون نیاز به روت اجرا می‌شوند. امکان انتخاب همزمان چند کشور و man page برای CLI نیز اضافه شده است.\u003cbr/\u003e\u003cbr/\u003eنصب یا به‌روزرسانی:\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu mirrorman\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-08-28T10:33:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 620,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-08-28T14:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 612,
+      "views": 623,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-08-28T15:34:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 695,
+      "views": 705,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-08-28T17:07:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +62,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tqqia6iKpQLlL-yHUGPgaia1_LTsdVdpYf-2ZbnKjAqACgxi5bxKyvGL15uNDvzjaX35ortlXxZ24AglJ4e0KckrTbs6GBbwFSyZSkc8o9rNQxiTxKxkvEzKYKO-wEu3JFrI8ewdgHjLlquwFurIDQBVpjjIbnAMSCqGi_KAMcdRb0-n5uzQc040UhpCRVfJyZOaxLRoi0ROAYXOB8MKqSRcW7j3erFu_aNyoEI0rTYNkR27KAyoZVms9WpysiwADobCvqQRUtEjRUOT8uUc5-hkYC_IrvH4tV4MTn2v02ezg4WeZdAvmF052fRzOpH0lEianQTzCP6uqBTS6PeIkw",
+          "url": "https://cdn4.telesco.pe/file/RHdblxXsQqDtsRUcFeIwgoyniIZRB2-XlcfZy-tqjWyrdS4BE-L04VAVbbqauFeJRoCjNQM5uOIvjoXCp8oO0zxRbB-_ghNUvQwAspuBcNuU760bL7q9046bHOaOTv3LJdfEenHdvUZfAwXCRySzJisWrLoTE2NZyYnPJop9cO77FU_GG1WSkAhTU1LR8qJHBOvzB4cGM2K8JiYfAyo89zdz60vNLvqE-cb8oVcxJpbKvYbveG_wOQ3xorLqcipKJwCLvpW39jNtR8mW3XZePJAUFE23NCJfQUV97F2TG95thIFW-bS6dvJXCyaNSEa5qHZ2bz2k7AOkrXSim3oRgg",
           "width": 1920
         }
       ]
@@ -103,7 +73,7 @@
       "date": "2026-08-28T17:32:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +81,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/odamdTk1X9JH7iXxoK53hrp-mb5v6oUkhiZPHIPNhuiGHtSVzN9nTvRSboRU6hFZwcqXSIZmDgJhnLN_ummH0PwMCTWqz7B2ToQ7oG1rAPeT8FHmQLSyMeMqNmnlSZqiGypYCugUolrDHpi0pghHLiKnZe20Mde8qDOSwelSGcFTDORn-NusgloGZlxluBncHa1azC4PxNLE4jRPuY7pktMH2KYrDazd0IJ2C95FHTgADVRtFrnS7knl1j6WAefIAgTef7rO-1YMsoavB5zT5zxNv_v0Nz167e9EjXFRfN4HJlsxkpzD4_-nyNzUXcWKqlEgLh4UKWHPceFtAg5QIA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Rp2VHj7WZri1pp4wdcMqSOPfZPeYIG893HbaBxslnb66B23bAUWwjRiVtv2An9kvSc4OinLEhbOmkjDf3FyCO-hwNNbxvfqkn6taJhEw54A5KZ1ydlo3EXWvZ04DXPu0y3TbVOyTBGAJqRtVmrMAZPRQ32vY0Tu-iSB7BYz4Ly2bZOo5ezDp25LpQL13iC0jJCddW3Vh2KlgbMVo_6CMkBKnUWGvyTn7bkhNjJ_JMTmOa1yIFG2Otw5D7xGjwYzy-GBG7CgnzW08YTsrxnuFClZO6zSG4M0s8oc5eqS02WDediStijO_9SfW_j-y8G125oFbhDgdYOHrdj13oHElvg.jpg"
         }
       ]
     },
@@ -121,7 +91,7 @@
       "date": "2026-08-28T17:59:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 914,
+      "views": 932,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +103,7 @@
       "date": "2026-08-29T10:40:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 815,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +121,7 @@
       "date": "2026-08-29T20:58:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1870,
+      "views": 1920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +133,7 @@
       "date": "2026-08-30T09:28:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 686,
+      "views": 719,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +145,7 @@
       "date": "2026-08-30T09:52:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 609,
+      "views": 646,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +163,7 @@
       "date": "2026-08-30T10:01:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 559,
+      "views": 601,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +181,7 @@
       "date": "2026-08-30T10:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575,
+      "views": 615,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +199,7 @@
       "date": "2026-08-30T10:03:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 627,
+      "views": 668,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-08-30T10:11:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 670,
+      "views": 723,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +230,7 @@
       "date": "2026-08-30T10:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 682,
+      "views": 752,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +248,7 @@
       "date": "2026-08-30T13:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 724,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +260,7 @@
       "date": "2026-08-31T04:33:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 412,
+      "views": 557,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,12 +278,50 @@
       "date": "2026-08-31T14:04:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170,
+      "views": 473,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"?q=%23%D9%81%D9%84%D8%B3%D9%81%D9%87_%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C\"\u003e#فلسفه_طراحی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمانطور که قبلاً گفته بودیم لوگوی پارچ ترکیبی از سرو زرتشت (بته جقه) و لوگوی آرچ هستش، ولی آیا میدونستید که انیمیشن بوت شدن پارچ هنگامی که لوگو تکمیل میشه نشانه از رشد کردن اون درخت سرو هستش؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-31T15:52:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/K_3CzLgF4h7mcCqFqXXZy4Hi-p88Ug20G2sUuI_K1oKHyGtYQO9PtHgJHFf7Zkc3Q-lanau8Mefq-glHzGTOiHMDQr_WLfcAZG_nSxLZ0plSWLTmH4LxDDxqcUa868U8P_F-TzD4uo04aWv2U4JVuVdldxtH7PXaWVMkMIhz_KqKAouEuAh8eIczN6w1gQuLbRQTwrINfinLMozI6OXuSMLRItVP0fEGpauMVxsVVFUYJ7gfUdhBmzyWyPDfy92q-1M8LHEzzqSoaLDyQokYsBbIwwGMbZCeaIyNdixyH1q_MprORSIXkJGvINrnEXjez8FZKZZLGfS8IzIoNYwpaw",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پیش‌نمایشی از پارچ ایموتبل که در آینده زیربنای پروژه آپادانا خواهد بود.\u003cbr/\u003e\u003cbr/\u003eبه زودی نسخه اولیه جهت تست عموم منتشر می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-08-31T18:34:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 194,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rbQQyP2DSWkqy_ZoG4YxuOOpBHziXqe-U3QVTo0pDxnRgcgiUnoaSXN5qr8a1uy6tDdXf2Xx0h0oZoEwoaYkUOyQEl9rks7hVFWXFc8riyWgDO04RLR8m6r4gzAgT3hhse8qJyYdYuDKOXPLbBMcA64aQ7JFs4yylHVc7e-RrWCWssx8KPRSp-kbUPkVnDhKVbhuAN4aN0CqH9zHyQBXDrp9nZnM6eehb4BLZPdTn8CIm9mZvGVAc3KOOplOymeOYvmslksygR9KJ9CpkMrBPblxjJn3JL88nKvgjq-HC3ODTUB17bD6bAJyigTjNuOv46SbtFPJQzvVpgI4selC3w",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1788186955
+  "last_updated": 1788208160
 }
