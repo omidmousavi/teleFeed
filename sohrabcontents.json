@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نسخه ۰.۵.۳ میرورمن (مدیرمخازن پارچ) منتشر شد! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه با کش محلی وضعیت میرورها و پشتیبانی از ETag، دیگر نیازی به دانلود مجدد داده در هر اجرا ندارد و در صورت قطعی اینترنت به‌طور خودکار از داده‌های ذخیره‌شده استفاده می‌کند. تست سرعت نیز با صف پردازش موازی جایگزین شده و سرورهای کند دیگر باعث توقف بررسی سایر سرورها نمی‌شوند.\u003cbr/\u003e\u003cbr/\u003eدر خط فرمان، دستورات \u003ccode\u003esync\u003c/code\u003e و \u003ccode\u003ebackup\u003c/code\u003e اکنون از طریق D-Bus Helper بدون نیاز به روت اجرا می‌شوند. امکان انتخاب همزمان چند کشور و man page برای CLI نیز اضافه شده است.\u003cbr/\u003e\u003cbr/\u003eنصب یا به‌روزرسانی:\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu mirrorman\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-28T10:33:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 626,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fr7mXx6rcwMN-79-_GQwtxyqkWwK3GL0Uek97bOl5IpE6bwHiuoO60W91ihq4iIUmcTqqpzeqCVVtxYIaCtdGrCYwWSpVXRCT5rxFLVf9M0e9ytlCcus2acPsNH22Z8i6jx8zRRTNHyOgqsmU9LD3laZr4CCzee1vYHSw2PPuyEm719PCEMm1uCg7DWkGLeFpysf3Wzz1FCMo2xs0FcBcvlUNBNDGm_PeLaKmjncGZ27MwuKVmvR3yAH5zyNJsQP9uaAGsgiSA8KDNP0Rx4CfasFsF04d7GTSWOAvqXxGnreA2ZewEEJwMXCSGLaXm6f9rLXC_Aj18S8sJ7McifNvg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "با سلام خدمت همه کاربران پارچ\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که به پایان پیاده‌سازی مسیر پارچ در ۲۰۲۶ نزدیک می‌شیم؛ ما طبق هرساله یک نظرسنجی ایجاد کردیم که طبق نظر جامعه مسیر راه سال ۲۰۲۷ (۱۴۰۵-۱۴۰۶) را نیز بسازیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهدف ما در سال ۲۰۲۷ به سرانجام رساندن پروژه آپادانا (پارچ ایموتبل) و پروژه دماوند (پارچ موبایل) خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSfRs0yB_uNtmWL3Nvj8JfBryLoilolhLyVuJ8mRMTC7uF8Zsg/viewform?usp=preview\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشرکت در نظرسنجی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-28T14:26:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 624,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "داشتم یک ویدیو می‌گرفتم که پیاده سازی دستور پینگ به صورت خیلی ساده توی سی بود که این وسط متاسفانه اینترنت تصمیم گرفت که اینترنت نباشه و کلا آپلود ویدیو با خطا مواجه شد یک حجم خوبی از اینترنت من هم تلف شد. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز اونجایی هم که توش تپق زیاد زده بودم، انشاالله بعداً یک ویدیوی بهتر ضبط کنم ولی در کل حرکت‌های باحالی زده بودیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-28T15:34:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 713,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-08-28T17:07:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 752,
+      "views": 759,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +43,7 @@
       "date": "2026-08-28T17:32:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 812,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +61,7 @@
       "date": "2026-08-28T17:59:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 940,
+      "views": 966,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +73,7 @@
       "date": "2026-08-29T10:40:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +91,7 @@
       "date": "2026-08-29T20:58:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
+      "views": 1940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +103,7 @@
       "date": "2026-08-30T09:28:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 724,
+      "views": 744,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +115,7 @@
       "date": "2026-08-30T09:52:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 653,
+      "views": 666,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +133,7 @@
       "date": "2026-08-30T10:01:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 607,
+      "views": 617,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +151,7 @@
       "date": "2026-08-30T10:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 619,
+      "views": 630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +169,7 @@
       "date": "2026-08-30T10:03:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 673,
+      "views": 683,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +188,7 @@
       "date": "2026-08-30T10:11:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +200,7 @@
       "date": "2026-08-30T10:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 762,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-08-30T13:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +230,7 @@
       "date": "2026-08-31T04:33:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 579,
+      "views": 623,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +238,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W8uvmHlc8ZsNApYl6z0QzBBAhUiCX0n0cFEcNqkhcLPeIF1kRu4pVYUhd9-jG99sZShR9v7Wnx768G5tk3lY6p6OgOFlTugFjHaTNa-gvNJUyswBg6K2FTVIbcrhZk7AvGCTa6b-ONhimDeMpTyKwhFNoP5yAFKp9bbN_10Wgg81AypCGlkcIDRLR2rFP1RcejboPDUknSsyPro86w6CWT-fZpejJhaF_BunxI1wvhFNuJ9wN9FwFJx6iuK2xap0TB9A-LVyF-9qLm9w69g8BYyr7kr50o2czu8JfBz8878HEXTiTqnICI91Y1OgXN538oSqVKW4D_oQywPlbdUZ5A.jpg"
+          "url": "https://cdn4.telesco.pe/file/dqt1eCMNKPMHH6y0TQFtVyY70E8XiF4WnxMLqpuIw2hRKpH42nDm9NnWWwH_9cgEJpd32fMl6z028LLTVRjDaNU2r1SP4rnynl1XNC9IY0KaZu3Q3G0eKKTpPUQdRO4LMlESHiHsmu6T3QgIDheqdoYTYFJ9D9QMUmL3d6jgf_IgU0qpL9egRwwTUBhCa-O5ZqOHU7HmusZHsHn5ZhLIudTdehaEKT2STnzvrzeIFZ6dMZRgDT0xDOEkI5SRWCCZjsqTy7l1pv2255K1gR4PI-N2YDdtXy6QwSI0PMKTB0gMruLoEnDnpUPAgd6zeMhNq5uC_tAx6PbstoO0z6n4Xw.jpg"
         }
       ]
     },
@@ -278,7 +248,7 @@
       "date": "2026-08-31T14:04:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 509,
+      "views": 582,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +260,7 @@
       "date": "2026-08-31T15:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 354,
+      "views": 434,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +279,7 @@
       "date": "2026-08-31T18:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 255,
+      "views": 374,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +291,31 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "کرنل 7.2.2 در مخزن آرچ لینوکس منتشر شد!\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که این یک به‌روزسانی ماژور بوده است؛ کاربران توزیع پارچ اگر قصد به‌روزرسانی دارند و از کارت‌های شبکه broadcom استفاده می‌کنن؛ تا زمان سازگار شدن درایور broadcom-wl-dkms منتظر بمانند.\u003cbr/\u003e\u003cbr/\u003eاگر هم از این کارت شبکه استفاده نمی‌کنید و یا در سیستم شما وجود ندارد، این بسته را حذف کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Rds broadcom-wl-dkms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-01T06:05:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 242,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "وبسایت پروژه آپادانا مجدداً در دسترس قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apadanalinux.ir/fa/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apadanalinux.ir/fa/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ApadanaLinux\" target=\"_blank\"\u003e@ApadanaLinux\u003c/a\u003e",
+      "date": "2026-09-01T07:26:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 178,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1788234555
+  "last_updated": 1788253251
 }
