@@ -8,90 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "داشتم یک ویدیو می‌گرفتم که پیاده سازی دستور پینگ به صورت خیلی ساده توی سی بود که این وسط متاسفانه اینترنت تصمیم گرفت که اینترنت نباشه و کلا آپلود ویدیو با خطا مواجه شد یک حجم خوبی از اینترنت من هم تلف شد. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز اونجایی هم که توش تپق زیاد زده بودم، انشاالله بعداً یک ویدیوی بهتر ضبط کنم ولی در کل حرکت‌های باحالی زده بودیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-28T15:34:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 713,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "دارم یک skill برای اوپن‌کد، آنتی‌گراویتی و یا هر agentای که قبولش کنه می‌سازم که باهاش بشه برخی از اعمال رو در پارچ با agentها انجام داد.\u003cbr/\u003e\u003cbr/\u003eو این خروجی نسخه اولیه است.\u003cbr/\u003e\u003cbr/\u003eهدفم اینه که با مدل‌های آفلاین مثل Qwen یا DeepSeek هم قابل استفاده باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-28T17:07:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 759,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RHdblxXsQqDtsRUcFeIwgoyniIZRB2-XlcfZy-tqjWyrdS4BE-L04VAVbbqauFeJRoCjNQM5uOIvjoXCp8oO0zxRbB-_ghNUvQwAspuBcNuU760bL7q9046bHOaOTv3LJdfEenHdvUZfAwXCRySzJisWrLoTE2NZyYnPJop9cO77FU_GG1WSkAhTU1LR8qJHBOvzB4cGM2K8JiYfAyo89zdz60vNLvqE-cb8oVcxJpbKvYbveG_wOQ3xorLqcipKJwCLvpW39jNtR8mW3XZePJAUFE23NCJfQUV97F2TG95thIFW-bS6dvJXCyaNSEa5qHZ2bz2k7AOkrXSim3oRgg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "پارچ درایور منیجر ۱.۱.۰ عرضه شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه امکان پشتیبان‌گیری از درایورها اضافه شده و همچنین شناسایی گرافیک‌های دوگانه و سایر سخت‌افزارها بهبود پیدا کرده.\u003cbr/\u003e\u003cbr/\u003eبا تشکر از مهراد و آروین عزیز بابت توسعه و بهبود درایور منیجر پارچ\u003cbr/\u003e\u003cbr/\u003eبه‌روزرسانی با:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-28T17:32:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 812,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Rp2VHj7WZri1pp4wdcMqSOPfZPeYIG893HbaBxslnb66B23bAUWwjRiVtv2An9kvSc4OinLEhbOmkjDf3FyCO-hwNNbxvfqkn6taJhEw54A5KZ1ydlo3EXWvZ04DXPu0y3TbVOyTBGAJqRtVmrMAZPRQ32vY0Tu-iSB7BYz4Ly2bZOo5ezDp25LpQL13iC0jJCddW3Vh2KlgbMVo_6CMkBKnUWGvyTn7bkhNjJ_JMTmOa1yIFG2Otw5D7xGjwYzy-GBG7CgnzW08YTsrxnuFClZO6zSG4M0s8oc5eqS02WDediStijO_9SfW_j-y8G125oFbhDgdYOHrdj13oHElvg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خب من یک برنامه کوچیک توی سی نوشتم که این‌ها رو محاسبه کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/systuner\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/systuner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاحتمالاً ازش توی یکی از پروژه‌های پارچ هم استفاده بشه؛ تست کنید و نظرتون رو درموردش بگید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبکاپ از سیستم فراموش نشه =)\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-08-28T17:59:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 966,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "به‌زودی و در سری رلیز بعدی پارچ هایپرلند مجدداً در دسترس عموم قرار می‌گیرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبا تشکر از پرویز برای نگهداری و توسعه این نسخه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e",
-      "date": "2026-08-29T10:40:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 826,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Djpw3glJrk0iq3MhoF3equTMZjmP2oCTAlY04VTI-sBJ65qSiAK_Ui5VeZI706XTlVdums1K7lw03ksBJ4zFnbBjinx2_h0tdjsl2ZabWmMWeOMGKk0mK7jbagQgqvr29Za3p9L6dBvAW-1VVvLE_ZGggFlRgoh9tRqsHT6VTS4j9OvU_PS6I33cNQLtpLb545ceiIphLcKYw-qk64GWT3-4XrZ6vmJRrbF6p4v6rziynHdTQljbQUAjHhyhBcbjR1VeODQx19rUsdrwgAGdTXwdwMOMrIwatXUipBRTwtWOZ9m-qSCPCrZGGsE2yEqPXweaoFPU0uxfppqnstCuJg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خب مجوز G انگار لغو شده و سر این موضوع تافل و دولینگو مارو کنسل کردن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eیک مجوز دیگه هم هست تحت عنوان D-1 که اگر این رو لغو کنن شما باید بجای جیمیل از چاپارمیل استفاده کنید متاسفانه =)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://ofac.treasury.gov/recent-actions/20140207_33\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ofac.treasury.gov/recent-actions/20140207_33\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-08-29T20:58:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1940,
+      "views": 1960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +24,7 @@
       "date": "2026-08-30T09:28:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 744,
+      "views": 764,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +36,7 @@
       "date": "2026-08-30T09:52:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 666,
+      "views": 687,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YOKXndRiYe4UUm337KfHXIunlNv-2fFiJWs1c9rYeZC82k8P1awWk-JZwBafgUTdgacWLaC8lGWNyClRTawxbpjwUPypV7qCo8iK5ecI1WXxUntypzXQvDQcwFDuSL8ZXRtmssn9bk-MLLouA2op6TgY3UF5wUVrpZox6kreW58Z_fjQsovrqS7Tesh9W0fsnBFWKf3oDidn18q4xnLLXBtNlyaAOTua6kZ22EBP8ObCKvP9U8Hz5rIR8KD9BNG42X53wD4t5y3uAM0x6SmlxR6LzNLVVoGXYHzKhPRYAvdY1zA2mWSVEYHqR8YNIRdmyG8PpDTUOl36jGIP38GcLA.jpg"
+          "url": "https://cdn4.telesco.pe/file/tmcFNr7Xc5iLL5jPkuO9et8cFIwHYG2VaW4mmNqqTAsHqOtPfs7yZWcQMZ4C07pBZui2oSu-cy0UeKCBAaIe2wGYMZxw2iUZFowjF4x90QEyfjdECN_loAxeTPHD095L3bAz6lJpllh9CBLQXVL6146x8Hnfd06kOfj2nPhRzprhXnhsGi7DUeLfHuIvkAVmLo8rLVNcECNC_-O6pUuW6KJPhVRLUVG0NS-jfdM6VX32lPUN7f2IV2q_D99LEYByubXAi05ek8hs6cEmHUe3vuhWM2fVHjHa6pDnL0LdSEuluShp9_Wv6w_Dzo56hwbffPfQfnLcew1hC01UZhjN3Q.jpg"
         }
       ]
     },
@@ -133,7 +54,7 @@
       "date": "2026-08-30T10:01:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 617,
+      "views": 646,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bQx5Z9cLk5NZe84Hicw5z8be5ilxtnPC9ZhVdbC9MoJ1D4z-R_JZK7FJ7pqKCC3n7y2oOQ5tpYUzHewNx1eZFoi4UJCzyGvmFURq2VX7jME1YmVYRK4soPgo-nnzlvCw-QNgS73Kax4kAC1OYnJV4vO33eqy6SG3DtAXJ5JQ5h3ET9gOdwUqzNNi006Kvs88cpPGjzAn_MbU2R0NGq17H1EvSaAfLqfscaXfX6oRailKMtPHjXEbeePaAi55JTrA5VTOPr09QS32xldzrctuD1sATV5LqJMk4uec-Ymmvz82T1nuvr-lckGRCOp62IeS83Z-N00nLuTgUKMcfVmM0w.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZEOKiQRkGXW27AJqmHWQXCh8IiLk0QBrPAN6ba3vjhpx9s2-tFV46GQz4fgzEw85kckZ8I27KrnTXzxkIcDhPkkAl7SSHhUaKJPaYq8EEyY-hEL43pafNAsQqAfPjkk8SfaIAvv7IUr4DRqlILJVMx_U6um7XPSB9D40pIeD4eeYLmymOpyg8xPe3iov3wqk1QL9EKIa49zVcHGVYulh9zJdQ2G4qde4HBil0g9AkwRVk-LTQqCz4vjSX-pxEYx36o66-gr_fGeRpbFilgxU-QZWJfhlm4VUB0tLiuoxZ1oiSsuN1MhHG4AaAXVAIHcPyG4g1YBToLmq11lY0kF02g.jpg"
         }
       ]
     },
@@ -151,7 +72,7 @@
       "date": "2026-08-30T10:03:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 630,
+      "views": 645,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zu85cKp1HyLGowj8EpAdmn3iVE_zN1GdGFbz1Rnp5OIypq0qE26qUC1v-3job0HcdChzxFvMzdP9sqOCNVvs_YcMfK_WwcKIoxFTCf9YMkWnTNh23J-hVzkV2Qry7O53t6Nfdrfy4iH_qVfn5zR6vX3l2zChxSsSnyBMWY4x_xLgvO_KlbKWVENH-jF2ycnaLgS2m_p2Dl7CoA7DMw1iXzcZvPPVFnFAuPQDKerLmwcxllyGEHILX1TOpcqGnxzINEUmIACPhFH6bBLN5puvcF56a-JB9sQUbnNAVcmNX7YILV7DXQuI_OY5VCkB5UEtpN41oLYx2R5NeHSiB56V_g.jpg"
+          "url": "https://cdn4.telesco.pe/file/moxipcGmPKKhzEXB1JME4O8tRWnsUaJqZDkSFc09DYCr5m97DrSxofHr7lHLh9eDfHrdCCc1yQFVGEwJbwU2qb-AIUxjN3JmLiniEKStLpyTMPdhea3mwvMIGWrnkw2fMz0V3kSUULsbdMJYKAwzbnDr-STkW2i4-FWbno62oVgoip-0T_VqahAOjeQHXWppaPie6DsLjQMrCw3vcv4oYD2yNK6mwMNNfqQerKqN2gQqdNrAFDB7ekBnE1kyLCJDflsH1oDgbVrUYIQWjvOPf1-_GDZYuj3s-N2oC6aYjzRXgdSQYBDaN7AKp0fHzVjHjjBpDBFtvOyPliOGMlz95Q.jpg"
         }
       ]
     },
@@ -169,7 +90,7 @@
       "date": "2026-08-30T10:03:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 683,
+      "views": 702,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +98,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cAiozWOKbhTJjvcCJV07TobdAZA7qUZKlfXosrNUzr9jkQi5JLMMcwsEBznc4t85rF1jBVuVek4sQ8oC6412eQpaFb9AEPYWQ5ybfLSUvVxqTYWwdFXza3xrTIuhXVsKEYQu4tr4kKnB7OBKKm1xGHXhiVyQx5pUszq9gx6BjP-bQosey-CyAgeR24kouEfUDtcz1UbPCTm-ZbAbsa-OSSw_OC6Vub959EVFL4afoi2ed_VRfa4d4Do2VwDnAEhxnp516vp7cSnQUx3BWF6FqhEnTP7Q4Nar7yAHKP4DInB3aJwv5oysN1QUbFbgRd_UG3B2BldV6eKPy1wHwi-tTQ",
+          "url": "https://cdn4.telesco.pe/file/Zx4S6RX-rpaFHDEOdGtB7VL98ySnMLe5ecCP-7xVXMwAyk-TkoMUKQiKs_IQ5IjgBzT6jTWtMullxCpsJu16RF4QCFLxaN-bbjDktE15joIoieVQY8SDqH91EsMz5ihbHc4jjrf3KyOErPR3X4eflhcu0J0mr4q33qrEYOhS_xhwD1GaTGbkz6SrmnsjWECwOhl9PA4Xm7Xg1ErwnzqT_Eq1IU8HpbE2Zcj_O2fmzx5DfWAJgji7KwSHSzaOr3GlrZY4Fk5Xs33ltoQMhrIZxJfPXIIu-2OjqKwDVou9uxg_C9OFpyCU3pWuwxS66NhXWBaW675SQFWTGt8o6SdIng",
           "width": 720
         }
       ]
@@ -188,7 +109,7 @@
       "date": "2026-08-30T10:11:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 748,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +121,7 @@
       "date": "2026-08-30T10:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 803,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +129,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CtjeneJ2BRJeyA1d89Tlq-RRLSQ_QsMOQEqhVp94uRDnAPIJ2SD9oqx-CfGGtavV3SA2H-9bvsuANkimvONssJEbcyp7XHax_awQsDvYDFkq4w8g6hsWHWqZGfJfhk71uikzp2qncDn6k4BqjM8nICmkfvxEuGd_ibrfLEqDaZBrgwBXNzIUmsux0pdU8MrFeS4hGP-YPxxY8pJpmqfjoQh04Ba5k_h-I_T8U4Vbc_WSVBpNzODG0LUdc-8kkSE3qP-rZtBt0nt-VNQ1dPBtHvBiBIH3Jx61Aro7KmJx7IyQ-ybJ3Mkyiy4Cu_nmbbP7Rdq3ePwIiNN9IrvseDow7A.jpg"
+          "url": "https://cdn4.telesco.pe/file/NN9M0ZcpGjfClHr-Do8RTpfboyu3ksHj_x8gwIsUo1M3HzhiTTyb6bDBv3-oI5Nw-mKJPjiSxaJM5GH7_G2fNKZ6LZSxgQgIvoo_vOyJ3nM5GuqTO4xjCq8jz-nhQ_O-9E9CZGJNzdsVyQ7NizecD3d9LyRyMCXZRKTN8TYPNtBOXcuZkr81OcBKRwAw3WTLpgDFMr_WXjktveJPTPnShGZDHv_ydjs5Qs_56SdPGn5bbnqV2h6izChMidJ2byajwms-E3koHUOVxcYjnFvbyz6UNq9npsugZ6I5r5utW5cmKOTcCzj8Iiynsd_YxY2YZclA6mkTDc1o_MnH3hecow.jpg"
         }
       ]
     },
@@ -218,7 +139,7 @@
       "date": "2026-08-30T13:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 766,
+      "views": 792,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +151,7 @@
       "date": "2026-08-31T04:33:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 623,
+      "views": 667,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +169,7 @@
       "date": "2026-08-31T14:04:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 582,
+      "views": 641,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +181,7 @@
       "date": "2026-08-31T15:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 434,
+      "views": 508,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +200,7 @@
       "date": "2026-08-31T18:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 374,
+      "views": 483,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +219,7 @@
       "date": "2026-09-01T06:05:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 242,
+      "views": 425,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,12 +231,90 @@
       "date": "2026-09-01T07:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 178,
+      "views": 403,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "من در توییتر و لینکدین درمورد آپادانا نوشتم.\u003cbr/\u003e\u003cbr/\u003eخوشحال میشم که اگر با لایک؛ ریتوییت و یا ارسال پست‌های کانال پارچ به دوستاتون یا گروه‌های فنی که درش عضوید ازمون حمایت کنید.\u003cbr/\u003e\u003cbr/\u003eپست در لینکدین:\u003cbr/\u003e\u003ca href=\"https://lnkd.in/p/gZg-zRfb\" target=\"_blank\" rel=\"noopener\"\u003ehttps://lnkd.in/p/gZg-zRfb\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپست در توییتر:\u003cbr/\u003e\u003ca href=\"https://x.com/SBehdani/status/2094700458002563219\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/SBehdani/status/2094700458002563219\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-01T10:09:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 389,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/sohrabcontents\"\u003e\u003cspan dir=\"auto\"\u003esohrab::stdout\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eمن در توییتر و لینکدین درمورد آپادانا نوشتم.  خوشحال میشم که اگر با لایک؛ ریتوییت و یا ارسال پست‌های کانال پارچ به دوستاتون یا گروه‌های فنی که درش عضوید ازمون حمایت کنید.  پست در لینکدین: https://lnkd.in/p/gZg-zRfb  پست در توییتر: https://x.com/SBehdani/s…\u003c/span\u003e»",
+      "date": "2026-09-01T10:09:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "ابزار جدیدی به توزیع پارچ اضافه شد!\u003cbr/\u003e\u003cbr/\u003eابزار pacu مخفف pacman utils یک ابزار همه جانبه هستش برای مدیریت pacman که توسط تیم پارچ نوشته شده.\u003cbr/\u003e\u003cbr/\u003eبا این ابزار می‌تونید کارهایی از قبیل hold کردن بسته‌ها، ویرایش مخازن به شیوه درست و همچنین انجام یک سری کارها بدون نوشتن کامند طولانی رو انجام بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرخی از قابلیت‌های این ابزار از مدیربسته‌های apt و dnf الهام گرفته شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/pacman-utils\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/pacman-utils\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-01T11:37:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 248,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cmrXekcmRTghLd2BO-ljHrHyRCk0-XSfZ_dWx9R7zkybAJ19qjJSTXZVhMtv1SUCHs1pZWce_zpFfmYcwUs_qrCwAmOrRXITUezsNMkX-OOefAKwTRspX0GYNsyTrwhbwFIvQtm6HUe61pgmrflVq2yknNZFzDcqOqcGIgb9OxDn5zI0c5LDl3zT8wa1DhPof0aZQ2rvzWLNnthfDRrPLqZG3oqR4H_u0sLYWgr7U-7G2FEqQRIkyJw_rsfeNBOdEi80t4n_CdgLAYEPVkvIJNoO8LJuCQWcn3zHJPifR6YSDVCVq4zvE4TnvSFafMZr-StJERlDRNlPG5ErOjfWPA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مثلا با \u003cbr/\u003e\u003cpre\u003esudo pacu autoremove\u003c/pre\u003e\u003cbr/\u003eمیشه کل بسته‌های یتیم رو دید و حذف کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-01T11:40:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 292,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RuEuVxRZknz8oc8kWyTxnfRc0EwVZEjt0gqgAUI86zPUbygZTsw55lvRLJiJGI4A6o3O9O5bNbCWYQTk68cr6u21fKbM1LIAiyiQOn3KbKsNfHF9Zq5oKyFc5C8pWJra8pbdKTXZXeSPONqWwgXc8tkIyujQhBRGZCfIvegUQ73txgHr4Mnc9nvMlBn47UqUmic-kGfj4MuvLB_izmC23X9sfYPYoi-eq6gveZxPGn503s_LI_ZWI2Um9kKWQPPKi1-_uUb08CBWDkRF47TERxzl2y6edNwwYpd_OX9Ck4EOgRR8vkwdO9_4kl8X47fhfI09dZi9pmRo5TEMP0N3Dg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اخبار هم دیگه از دست نمی‌دید یهویی سیستمتون بترکه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-01T11:42:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/R2QFUHcFMZfnC8aPCNn_9vCLhRTQt-DOXApzB8WarbLXyZpLSGyjF1uOfkWQBpFQDRKbwmhVsJpdJ68shfkgC7QUMg3S6wcZ8pzOR3Y-l5tzQsktWRqJSWgJVh9Te8Cbtryi-dikePAeqxewwpkvbQqesDQoWVg4vuHfRoOIpbiq2U9rvMtJJItOSKpdlj2zVCBHzKhg1MssuEIGVWQRSn3CQtzUgBVtIn8t6FmbiPkjTNeFlLZ9BfxC4j4peadhhfji44FxMDv5aVQyf0gNt4WhDhzZr6LKvV3K4GY8fEn6LDaPCrHp59K6w1Yp3zXG7IPUhZg2uKS4Ug7Hpzc17g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788253251
+  "last_updated": 1788271229
 }
