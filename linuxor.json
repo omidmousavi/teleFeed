@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این LTX Ripple یه روش جدید برای ادیت ویدیو با استفاده از IC LoRA هستش؛ یه ایده ساده ولی جالب داره: فقط فریم اول ویدیو رو ادیت کن و Ripple همون تغییرات رو در کل ویدیو پخش می‌کنه. \u003cbr/\u003e\u003cbr/\u003eیعنی می‌تونی ظاهر کاراکتر، لباس، آب‌وهوا، نور، بک‌گراند یا حتی آبجکت‌های داخل صحنه رو فقط روی فریم اول تغییر بدی و مدل تلاش می‌کنه اون ادیت رو با حرکت سوژه، حرکت دوربین و تغییر زاویه دید در ادامه ویدیو هماهنگ نگه داره.\u003cbr/\u003e\u003cbr/\u003e بر پایه LTX-2.5 ساخته شده و هدفش اینه که بدون نیاز به ادیت فریم‌به‌فریم، تغییرات تمیز و سریع رو روی کل ویدیو اعمال کنه. یه جورایی به جای اینکه کل ویدیو رو دستی ادیت کنی، فقط نتیجه‌ای که می‌خوای رو به مدل نشون میدی و میگی: «حالا همینو برای بقیه ویدیو هم ادامه بده.» \u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/WepeNerd/ltx-ripple-demo\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/WepeNerd/ltx-ripple-demo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-08-31T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qz-7ZO0XqqgORiR2rgw1jFiiamGxgDRs1RpgxfVDBZHtUQWvQH-rCTwc__3Ig6F7esNmqxEELn8cPT7oUgRYRPv8w3jKtTfUTdTQsMddCDnn9BV8K4LhfxU1sPjDUyEzu4SF2YaDtDawHOt6YSVm5N0o5dz14jXLqPy3I3twPYHsU5JYDMB7Vf2Bj6c9HQYmqlmkW1JxGkVSDMlBMcXhGT2pVIJnzNtgguQ6FzbDQQ0miWbA9j8e185J2rbxqM6lep7hV22CTjXLQacesA5ySaw78Ze9KDamJvIKPB1CD7PAKnNm9zSzCniGJBjaXWi3q_teMgfhooUvrm5UBhgseQ",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "انتظار این بود که چون چین ارزون تولید می‌کنه مدل هاش بی کیفیت باشن اما مدل V4 Flash  دیپ سیک که توی 21 آگوست منتشر شد، با مدل Gemini 3.7 Flash گوگل که توی 13 آگوست عرضه شد، رقابت می‌کنه.\u003cbr/\u003e\u003cbr/\u003eمدل دیپ سیک با قیمت 0.22 دلار به ازای هر میلیون توکن ورودی و 0.66 دلار به ازای هر میلیون توکن خروجی، برای درک تصویر، از جمله نمودارها و اسناد طراحی شده.\u003cbr/\u003e\u003cbr/\u003eمدل Gemini 3.7 Flash گوگل هم با 0.75 دلار و  3.75 دلار به ازای هر میلیون توکن صورت‌حساب میشه.\u003cbr/\u003e\u003cbr/\u003eهر دو مدل برای اینکه میزان اثربخشی‌شون توی کاربردهای دنیای واقعی مشخص بشه، روی کارهایی مثل خوندن نمودار، بررسی فاکتور و تشخیص حادثه آزمایش شدن و دیپ سیک با کیفیت یکسان 5 برابر قیمت کمتری داشت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-08-31T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8540,
+      "views": 8640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -39,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/REQ-PYf9JEWMlNCVqNKBSdtQaF0RMrmIVVWR4sEjspfcyA0HlDTyOutFR0fPLZ03iK99JZSTwQ-aicFHe8hrruLP8T8h32eMbGrAUncy0eKNeWALJyCojR1LQH1PgIHohcixyWvqS5PP3qsaDGLXRV1xI_OLVuZIKuN9ZUWgeStDZErxee6n_6GuBjO3wyPWCFqbM6dztdGGr9U1mbcY8pu12WoR6jHe3WDovsUgy6aUt7w1enFpMEI_4-5EAsW0cle4PYBYbZcx67ekVOuYKENEQbpKIXkyZKIyWs119_9jtV02-3SX-LI0LqRIkIc68fgZfOmo_9ewtSavY4JYeA.jpg"
+          "url": "https://cdn4.telesco.pe/file/BmnOf2me5IhXVwGK9lGy2GOnJWk8r7WV12H8lQ5A83YXrkN1sfawkZY8z13dKaABUKG3b-mCLzlVqYREXKsc4-DsI1fjmFgspkyjfjHf9Sc4UIMsCD7ORqsuyB_0gR_arM8yfA5cZz2qtYM1P1VsOVlUJVWDJb1dMRoSC-YZqFpqnJhNCVM584IfZeW_g_IXenKp4jQcIQk_4TjGmUGu5DXcDGe8WJ0CCjIYCcyDgz0cQ9h6hUsWt3k_mO-ulrn0jFc009MzDlX_uqbnm2SfSUAXMeW899r9q1s3buDsOU4Q3pZn-ZJ8hULfQGpeZkdrvvYQPqd8UkH2Zn3gJUuoaw.jpg"
         }
       ]
     },
@@ -49,7 +30,7 @@
       "date": "2026-08-31T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9400,
+      "views": 9480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SlmYjjtaBjsBBmqPSnjQMRxKyZd5VvQgBqnSxBXGvcBXoZJHOHXY6RGlwqRvOP9DLvXa0umx05PECVa2YLziLW8XfF_1US4JX2ing90o5pt10m_VyLQYorUQExbL8KUzoZ318Fq5YvNXUvvYEMdn05t24aTrfgWS-bZLVzjjMdmmIE3R0iyPbQQgMiwkC5xbCfn5e-2r8Z7h4BGnGoHFn7y5phz4wVS5RblvHJamgX43FFMHNLkXp9rlkuu9UU4R2O8iddv2bDfAuz9q2St4fYSOGXityrKSFxrq1-5PY4BkzW6SR1IW8MwPb3FWox-tUJWzyDSHqhuGqwURkc1j4g.jpg"
+          "url": "https://cdn4.telesco.pe/file/DiYT8YLJYmDkNQ5BY0ZVaVagTilZ5uQQF27Ay9QtimgDbXa7gjFoywcmyg1mUM2C8BCuJz9LWzgF_S281KvDOQqFxx5lviRFYdcWnQDNMw49c4DloZJn-M4t3DR8BJuARBGzbnC0pY3KiNmbfvynnPKLFwS9-5aFAgIiI4PlYITJacyF48S8DnuDLpIqT7dy_aRS1oXzgTHhGUprx4MZVRL_2zIhkRy1oepmhb0YSD-J6OuHbT10xAYxIprPT-BpbvporsucKglAEkn9HsEfPFBCdxArVA2JYso294E-AuUuUWJjY1yqouMmX9I669U5GDUS99IJFhKivVQdQGgguQ.jpg"
         }
       ]
     },
@@ -67,7 +48,7 @@
       "date": "2026-08-31T21:24:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9030,
+      "views": 9170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-09-01T08:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8260,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +79,7 @@
       "date": "2026-09-01T10:57:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
+      "views": 8020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +91,7 @@
       "date": "2026-09-01T17:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +109,7 @@
       "date": "2026-09-01T17:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +127,7 @@
       "date": "2026-09-01T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +135,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/omg1tbBg0H7CeTYkOYHEP8-dSSTx-TWTEgSnOGXOTRSfcUJUVzBQpT5RXUkcxZDJpGZeiV88HJbgILr995OSgllk-kJgiyzbW1pYkKBrPvyjUqGW01hjTg5k3LwkV7mfAUhN2itKD-pxu2I87SnOb3opi3VDXf_hRcb93x5aaRSEMVYBWdJTNZgO0OA3sQtQc9IIPITvDzX_xotXczRzs7ZhqGDfEMT5S2Xv5YE9F_lAnhhmwd9Ln1ANO7DxLiSuZmrce8nMGfjawy-fi2-1Lp24kbDKgWwrFkbvXXE3KvXKqgBRb3YI8PDIfHJEFqrhT_pfNMkLp15UHX8vwIM2bw",
+          "url": "https://cdn4.telesco.pe/file/iU10yGZ9hDJMzXyeYfk3MO9IRhh9QSjVmdu1zwPwnkIc1htBXrzedX9PMIQv7cRSzPtJ3hN2YX-pLiKt4gzpfLibu2X05lqDWcmz_o6mW2hs7iWiVCEELW1qeNqggs1CPojyvq2jAo7uHdqZIXzEt4U7soYqSCYPTNi0zQMELx7EDRsJlSwJPDR1utDRSgLoYB3MKqTthrNBsnVtbHJ9KhJCjI56SK17A_CNHKtUXQNbnQ56MV7aex9MhiBVXxZ5tB9J0_XC89JFAE1J72_TYH_n1dB4kwMF5aOZYRY-GEOuvcSg5P3lydhgjAtYYANV0vwW965aa_K8hrvKRkgVEQ",
           "width": 3340
         }
       ]
@@ -165,7 +146,7 @@
       "date": "2026-09-01T18:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XmwiIYa6rZMZOJCxLk6yheLnKlEu4bFLsZJCVUtBGS0FE1vYVr4yoDrAZdDq2rhWg_C3955PqtFQSnrjxNIceAQpXpF-x_u8eKx7hLUdMypshuQMUs-HylQYBijBX9DUpCfmSMBFgSKZ1vRjF8BQPy5hSP2eoZswncSnjPFMFmvXzhbd8UBQIjUAnlWPVhhgRd8ZjFO1bLisjRLaKAY8zJk1akhnouUdJK6ruvEtDqBIuRvCknpBHLneq8ka3eYQLSAzpBbQbUDiW0LSVasfxqO_0EhithfAk6PxcAN_dJTAm_rdPR2w6YsAHf6lwxwaY_vJ8P8p6kro97qfpN0cqw.jpg"
+          "url": "https://cdn4.telesco.pe/file/XS6sU_lQalESbCrmmzUv-QSHPvpkRG-nAOSC4nIjqvlIyfoZj2Hr2cUtEyzlmNwGn57DPUXQIlBZvAh8DasJrWCfvfSKNJkfQOm4zA3liIpXqvc8dq7UDHX9LO1ZlG3zXYuAltv4ICXK6uJY9wcOC5Krb8Wn0KjU7N3MPQrHERky1DNP3TTBEDjYZIUUmPVIcuhBeMskJ6YhD5yV4cPhg-J2iXz1zbtOkJMQVjZzn3-V0PElQ_spOh5d2rnkyOa1W77Mj1OZvCnsAMEqlyi-raU2_FFUfw3nBm56XBMbhzVArWwe5XlEP2FfcSLYEbfdLiLRoBHPYL3xpAWkvlgB5w.jpg"
         }
       ]
     },
@@ -183,7 +164,7 @@
       "date": "2026-09-01T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +172,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GuIAIGOrhyLr0FkAKOslKva6q358-kl3i_YednOsnSbmwBKyrntu4NB5c5Aq9fIJbNWp3olNN-BQMfhyHxda-jEIAOAxhBktoCFppwYfrvTmpWo6p6hNfG_WCoxivpgpOHcirhBsJjV172lvndRK9lkuDYRH6WxUuRWEoogEMWrAF2lQyKMzU4EtNMPco7thd0ukWkZbZ_MDHBER7_g8lP-_GiKoyL_cVYRaE0EfaZLdVsja7dEPWtlCIikR3fZYAigyz6hPRKdVexoBj0PNCYyaF7WJaQdkz5Y-0KmyocqAOZVKz3KEoVm8WHZpOdqflbPM-h6GSE_3lPhai2LP_w.jpg"
+          "url": "https://cdn4.telesco.pe/file/dOJCQ-pFpwX-jI9cXc0Lrtsqrj_D_zVnjECgXXb-nWNhTDgCiUZtSYkRk92ztkeeq6r7i9qe6yy94d-hJmAA8doE0-15v4Mj7Obcw3SKUUwtF_vQuPBrCrEzfFGrD4PaBSyRUN9E17fRGZyKrB6u8-3U3PGZzlPkrsXSAp11JFZ7GwxyYTmrJnorSmUpmhT8YYO9uf_3gY-1lHmHPhusZ6YKzFFYRqrPrbiJdOQMItGxEpKiSKueLct2FKq0KMjjQM-FaxqrwzsWVX3LJxLSJDJkPjWY5h2ZSoYmrQpy_8M9hoxfnE5Qqn6p8LOj63E6OcLUCDXsdDhQZtfUAWsqPQ.jpg"
         }
       ]
     },
@@ -201,7 +182,7 @@
       "date": "2026-09-01T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +190,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nd-N_poXjfOmpzwmtOcjBJ2JYVBuDdJsNA8Dc1E3s9UOOwvWPYZyZrvCPtOHWUkxrRMZ_ypu-8J_1jLhFRuVo18-VukFAeJxpq0cdy56b0xcUHW3ESyxesLt7YBwU-qrhdKc2jBu28FCUla_pg750giobyC-RfA2DE8TtrFeq5tJqSCns6KaH0mtmw4BvLK0swqmGgDp0cUshWClewGk4tZsKg6tihS7t6yAulqmwroNFFEF3ZMr72EMRTdgHYRZDllFHGglCmtk3Y8z6SS5DYKq4jUSze5Ps-vIuq_mcUCUlkDfY2bdD0osv8D0Jgt_2IFu5a6bIKRet43E4eA-Tg.jpg"
+          "url": "https://cdn4.telesco.pe/file/lBuVIvUae1T2ymk4cURaS7VDMJuF8Z6GSuwici4pmcXNsnn06aNVwQPfwkNifRqKXKV7rRFHzcoN2acUNJ8ywXJfsS-bDb4f4W4bcKcqHki8NztBtXVjowkM7DO4DDRGM5wWCsJgMERpZ3bC1aEnF_5diwHev6cVM7_C6-MsjOe2bYFCeWzFBZrQ8U-Oi1-TDas1hM_i3nljA73GqTuoaSNqxywlQfxsJP509mqyjzadugIiJIfEkZOD-_Kj46JjOJ-gcUelWociowc0lCrGNjuEm_sCXN1I7Vu6GbYlDRJqxCMYFEMRESzda6UFw6AvNxZUe99PPpLAlYV_N9yStg.jpg"
         }
       ]
     },
@@ -219,7 +200,7 @@
       "date": "2026-09-01T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 7230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +208,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CM3G_AI68xgAQG6-7WhDpPe_698I1NrJ6cE_5OAhp-TRFsTPOhglkgkWsOFY-_h-3NroNrkWDwXd9CucQHdkMawvtA4iFZIkyIrLbX7cnOnnHFB0axBbN15M18ZMsSvSLv13gX6FAwdUq2R3A-CoC2RgyavVOrhvYxQBsZJFE6f6SNDiAd9zgEBbPV43_UfXbUK1sQFYzhs9bYo6oB2wFLtZ4enigJUQ45ssQQ01_BH78WIvLw1L-MTUDlMUlA9hSEfA7Dhy-4yxxsIBbp4I4Q7ARDK2f3Hh6h0IPV8pj0Vj3XBRBXX2cbZ3iME977Hq_HlDDX9Y_xms8KYmQjqGjw",
+          "url": "https://cdn4.telesco.pe/file/C91HXumXURKjfn0SgkeTslHiJLArSN9SZgU8XnUdyCnqZWNHtatUOuBnafMN9fWMx5FIYf7rh6yRIbYih3wP-nZ9a6Hn9k4oLf_b9kJyiHbSswFVZgqxhDtbtPUQnahqmb2z8OojsqhQtILm51WbWIS3TRKKnj4Jgy2uH8vjvPhivUW4cTi7acw4_0ME1k4XOnXNVPMQXOdQEDkcTBMUVFIkfAhs6J1tk4ckW3nXl4SFb404dFtzuGV4e-y0Jkj07ulji3nv9JTScjnZCprPny4BjpQlWqbpgFyrW9OUvuSUMkp36hcdaGBRzgpUcdzQDlSEqdRfm90kLPVMe76h-A",
           "width": 1888
         }
       ]
@@ -238,7 +219,7 @@
       "date": "2026-09-01T22:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 7760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +237,7 @@
       "date": "2026-09-01T23:59:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 7240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +249,7 @@
       "date": "2026-09-02T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2740,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +271,7 @@
       "date": "2026-09-02T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2420,
+      "views": 5070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +289,7 @@
       "date": "2026-09-02T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
+      "views": 5070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +308,7 @@
       "date": "2026-09-02T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 5060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +319,19 @@
           "url": "https://cdn4.telesco.pe/file/b0_RPLcHZzBHEXUdfyVYDMgYMbIhQi6QjnKdpYW70nynqPuIfVkWn_PWLolEKY93Y8-YaBDmTyOkQLZW-5Islrvb99qRk9xU7qraqSheZSfNpNtisZLekDM2jXyTjRacmJrxHC8nR_AygrR4_y-2sK-XVz5V24_mre3czbBv_8DxBmI5ue514Z-l-Kjzhj-_MIfxGXv6IyuLc6_3NKBuNyLD5wibPtG8rz6bGRfGthr6IEoMivk222rjG22ZA6akFOtFTBFcIjSciJNK_XNZFHc-iPkEaxOCqQce7rPNG4WhHNYFoJaXDi1dIdK17MCa_G8_q2ugnCRbX0RoiArPyQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "امروز الکامپ بودم انصافا اینو جمش کنید بره با دلار 220 تومنی چیزی از اقتصاد دیجیتال مونده مگه... یه سالن بزرگ از صد ها استارتاپ اونجا بود باور کنید اگه درآمد همشون رو جمع بزنید اندازه اون شخصی که توی اینستاگرام داره دادو بیداد میکنه کره بادوم زمینی میفروشه کمتره!\u003cbr/\u003e\u003cbr/\u003eمردم زمانی به سمت تکنولوژی و دیجیتال میرن که حداقل یه زندگی پایداری داشته باشن و پول توی جیبیشون بی ارزش نشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-02T18:38:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1788370441
+  "last_updated": 1788380220
 }
