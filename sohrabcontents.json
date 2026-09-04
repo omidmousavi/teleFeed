@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کرنل 7.2.2 در مخزن آرچ لینوکس منتشر شد!\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که این یک به‌روزسانی ماژور بوده است؛ کاربران توزیع پارچ اگر قصد به‌روزرسانی دارند و از کارت‌های شبکه broadcom استفاده می‌کنن؛ تا زمان سازگار شدن درایور broadcom-wl-dkms منتظر بمانند.\u003cbr/\u003e\u003cbr/\u003eاگر هم از این کارت شبکه استفاده نمی‌کنید و یا در سیستم شما وجود ندارد، این بسته را حذف کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Rds broadcom-wl-dkms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-01T06:05:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 687,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "وبسایت پروژه آپادانا مجدداً در دسترس قرار گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apadanalinux.ir/fa/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apadanalinux.ir/fa/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ApadanaLinux\" target=\"_blank\"\u003e@ApadanaLinux\u003c/a\u003e",
-      "date": "2026-09-01T07:26:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 664,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "من در توییتر و لینکدین درمورد آپادانا نوشتم.\u003cbr/\u003e\u003cbr/\u003eخوشحال میشم که اگر با لایک؛ ریتوییت و یا ارسال پست‌های کانال پارچ به دوستاتون یا گروه‌های فنی که درش عضوید ازمون حمایت کنید.\u003cbr/\u003e\u003cbr/\u003eپست در لینکدین:\u003cbr/\u003e\u003ca href=\"https://lnkd.in/p/gZg-zRfb\" target=\"_blank\" rel=\"noopener\"\u003ehttps://lnkd.in/p/gZg-zRfb\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپست در توییتر:\u003cbr/\u003e\u003ca href=\"https://x.com/SBehdani/status/2094700458002563219\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/SBehdani/status/2094700458002563219\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-01T10:09:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 826,
+      "views": 867,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-09-01T11:37:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 677,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +54,7 @@
       "date": "2026-09-01T11:40:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +72,7 @@
       "date": "2026-09-01T11:42:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-09-01T14:38:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 886,
+      "views": 956,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-09-01T16:41:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 842,
+      "views": 881,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "date": "2026-09-02T09:08:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 802,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +138,7 @@
       "date": "2026-09-02T19:42:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 885,
+      "views": 899,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vlNNEyLo9oc0OR39Oumyaw59Hy0F8ts_hkvew0pX5UQhtjwQqPHMS2AMjVMV0HdCf_E2Onl2pQds6-BSjQ6wOUDDZCaGd2ufqiNn4rt-GycxnRKERTCRuqXf3m-8ZGUKFqWxOdPyv976pUb3k_E2C7Wy8-NKMts0iNWDUlW2AtVJum56UNhtJj_SNJbgyRVZNHv8yq2Xrb0AqS3wY5uVKwrroiVgHedy3YklS08E27S5sH5JoraMzfu35Fgzar9e8K-hKUvKANEvdf8c4nFGTr0XY7KMgAb3PJ4HrMVAAGJW81Sv05na7mqT2Z9EUaA7q4N4mUWDMy_Qv280brzXHw.jpg"
+          "url": "https://cdn4.telesco.pe/file/oXl4hypyYPVg2hmX5iIXLsdfPcU4J666nfZIl5_ZtGhSoHei_ZvXNQ1mwcxEQGszr-_y0s1run3tnCFuo-IrtwIuS1T08leUHh4fbSXLQzNmMuqUSexmMl97n1alBUnD-Y-NHAJ9FPknSg9KpSsxW8mEbdfBnkBoLtGhfm9uLatp-7yv-LVwTHc-yAFA8ewiUH5Rl0UnbSJdDzCXtW5rUmIIysEZGvutuu6xwHaLM7I7rHtJNxCcflJM0oLdnFBi6zROpuP39q7t3Ts4vYyyCkrm15moNc1cemLpRUZmcKHDEoaGNxsr9s5sA1mQy2fGKztdjAJ53dKVrKAWDJ5sIA.jpg"
         }
       ]
     },
@@ -180,7 +156,7 @@
       "date": "2026-09-03T09:46:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 822,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +174,7 @@
       "date": "2026-09-03T10:47:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 859,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +193,7 @@
       "date": "2026-09-03T17:45:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 741,
+      "views": 771,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +205,7 @@
       "date": "2026-09-03T21:09:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 665,
+      "views": 714,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +217,7 @@
       "date": "2026-09-04T08:33:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 522,
+      "views": 608,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +235,7 @@
       "date": "2026-09-04T08:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 426,
+      "views": 513,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +247,7 @@
       "date": "2026-09-04T09:39:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 506,
+      "views": 613,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +259,7 @@
       "date": "2026-09-04T14:08:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 442,
+      "views": 599,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +277,7 @@
       "date": "2026-09-04T17:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143,
+      "views": 460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +288,38 @@
           "url": "https://cdn4.telesco.pe/file/u4OQdPm1xgie1-f0-y1SXULAngDgNuDKLhphC2rG0-o5y2ERe-PiRd1j-ntFa4u3CCj3blhYBDzq1VzOZT4zLdooZg7o_OAljhJBN6NnAqSd5lFnO9dNLmZPt1LmAcA1aaWfCWVutyR1LO1UGseEER6IbjTKFWxDkHKt-BfCXg1-x5q1SlP6k536PXTAyGVVagxItjK1z0TGK9W7qGG91GPDNkI3f1FrvnLtUGHS4O4u7i3VHlZq-a9p_ioYoIohxkkhHug21eftT37N8DIzao8hPBgozomEQ6tl4EMZVXNeDDsfXP_d42DWO04KlKtGmGR2P9-x_O3FQqIgzQcpQw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پارچ استور با بک‌اند mock.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-04T17:37:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/g1Udrr_TA3DluXsnXfMeZMtkJLTHDkr1yZG1fzkA752Lb4TmBmMIseuqEBsSsGFRGb44vik6tynS1gVxmQgzv6SzRvZO1iYMlLjisE3r_qfJcaJ6muutSXWqzd-HmhRX_GUYbKxaAYn4Xu6o82ryVeGJ1hzA4R4kA9klaJ6eeYIGNI10YG4KBhN7AfO2xyCBWAkZmORxZxm9m44tKQASRxM9bA4qfveqDySYIzTsYi-O_q8qoWpbnKfAQgKoDedc-EBMrX-CxfQgc08v1HwmwHG3c6iz3yX14DSlWcFW13s85iKTL8HZnbtSri-UddxyinfsC10mmllD6V6285vguQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خب رفتیم برای اضافه کردن اولین بک‌اند.\u003cbr/\u003e\u003cbr/\u003eفلت‌پک \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-04T18:12:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 305,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1788542206
+  "last_updated": 1788551078
 }
