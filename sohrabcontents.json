@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ca href=\"?q=%23%D9%81%D9%84%D8%B3%D9%81%D9%87_%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C\"\u003e#فلسفه_طراحی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمانطور که قبلاً گفته بودیم لوگوی پارچ ترکیبی از سرو زرتشت (بته جقه) و لوگوی آرچ هستش، ولی آیا میدونستید که انیمیشن بوت شدن پارچ هنگامی که لوگو تکمیل میشه نشانه از رشد کردن اون درخت سرو هستش؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-31T15:52:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 681,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/if0UdtIWA7EOzo_RoPXOkhzh9CuX2ZYxce6fCjw_Aa9DZw5vxGNe5kP0A_dJgRYWoRmHV2M0ldEfVuoLFrnMjymXwZgC22nM0olxMyUpqGYxuTWtModB90A1Ckf8epj9kuWBqGECMviooLs1FyVXa2q_Zx_65crVAbLQxzIoLx1sSEDFuHNC37WDeGdGR8qn4_yZk_e-6r2zLLRcBN5pz7dPFaLsKy1TBzCBsdwqMpQht-dMqWCiBbmUKwNWd2Q9ap6XU9AwKP4xxecnSS_JSjJcW6H6dnueeSnHsR08ZX5IR4vHdCNLAO7QAAUeeYies6Npk46OAwjWLYfXXePORw",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "پیش‌نمایشی از پارچ ایموتبل که در آینده زیربنای پروژه آپادانا خواهد بود.\u003cbr/\u003e\u003cbr/\u003eبه زودی نسخه اولیه جهت تست عموم منتشر می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-08-31T18:34:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 682,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Lfjl7JnqH4muFgFOhCCzUjxGSNxdbhIMv4vTrkf8PcApze3HMOzUt43iDXdZpLYEUyQIbd2NZWAavdBbLPEd34DwscL3s2Unx-RiRsMLbH6hqM_bxq1LCUePkovoXsJRd1jaYtr8SN5TgS4y5cDCPHCWhwaDGvunLinRr6CGHR8DxbUpiVTL01Gjl48H9-PqKTA9FLPEt-JHB_t6997g2azOf9Kp6nv45UWZrCi_B2B03XpzZoxqRHxLiIdZo5JKiVbG3N1woYmwEkYyWpki4ESWhmSMone05ICpQebIdXueVwui6kRoFgGn5krgxj9VSCuYnS8eGi6BgNCeNbW4kg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "کرنل 7.2.2 در مخزن آرچ لینوکس منتشر شد!\u003cbr/\u003e\u003cbr/\u003eاز آنجایی که این یک به‌روزسانی ماژور بوده است؛ کاربران توزیع پارچ اگر قصد به‌روزرسانی دارند و از کارت‌های شبکه broadcom استفاده می‌کنن؛ تا زمان سازگار شدن درایور broadcom-wl-dkms منتظر بمانند.\u003cbr/\u003e\u003cbr/\u003eاگر هم از این کارت شبکه استفاده نمی‌کنید و یا در سیستم شما وجود ندارد، این بسته را حذف کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Rds broadcom-wl-dkms\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-09-01T06:05:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 665,
+      "views": 687,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +24,7 @@
       "date": "2026-09-01T07:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 643,
+      "views": 664,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +36,7 @@
       "date": "2026-09-01T10:09:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 778,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +60,7 @@
       "date": "2026-09-01T11:37:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 651,
+      "views": 677,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +78,7 @@
       "date": "2026-09-01T11:40:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 735,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +96,7 @@
       "date": "2026-09-01T11:42:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 748,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +114,7 @@
       "date": "2026-09-01T14:38:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 844,
+      "views": 886,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +122,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dowp3EPAkP7z2v4o6hJmDAAO_vIyS5ln3PbH0v-UbeSa0oxPvA7Y2jLoL3c88P-c259HbNvWxDORBlBs1zcYyWEhqYOCvF5FVF101Dfj9JnbKD7_aQ7q8BTPb2PIa2Y0pN7pp9eQ2fx1KfML6MqMYPCmxriW1lki3g3qtXnZafvnR-cr_Junn33bqClkveu1vPdtnYiUibhs2nUFVKazC0Ey2KhZVrwk01mY8SMzvo1Z1bYOtrVtLw08mlQN5GkITx00WThiw9rKIfLiql_PkML00bRD_mwsW_uZbhh8fd7JUJ2nJKB8gNdcddbWBRE0FKJaCv1bQ20bOwsqQyQhFg.jpg"
+          "url": "https://cdn4.telesco.pe/file/r8-o2wS-qKLVdAj2AuojusOI3WEhAev2fwPXPAR7E6yumM6fHKqMXSFSjNwtnGdIVIb1MLfh6dDtBf5wh6ZaG0oBfyRi_GsV7Mki3uKbkflTVB2rTY__82JkU6TmM7zbsIoiXom9BfvJcA0T2IfcETounnvzLVc0VHGMEa880HSQ3GQiD0m68hG_HCKeBYwzAI2YbG7gPEDxHsKfGr0tK4QW6EMd6dekMYyRYnekxybBo1iEHFTdA1L3qqrBQtTqVFFjO2ApT3vfOlugiEz6JD0cbt-ej3-00ruJzyuFPIcC3n8z9qBbEB4psshLiuNff6A06xElQvI0FdBv0hJiVg.jpg"
         }
       ]
     },
@@ -170,7 +132,7 @@
       "date": "2026-09-01T16:41:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 829,
+      "views": 842,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +144,7 @@
       "date": "2026-09-02T09:08:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 773,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +162,7 @@
       "date": "2026-09-02T19:42:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 871,
+      "views": 885,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +180,7 @@
       "date": "2026-09-03T09:46:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 822,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +198,7 @@
       "date": "2026-09-03T10:47:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 805,
+      "views": 831,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +217,7 @@
       "date": "2026-09-03T17:45:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 681,
+      "views": 741,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +229,7 @@
       "date": "2026-09-03T21:09:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 587,
+      "views": 665,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +241,7 @@
       "date": "2026-09-04T08:33:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 336,
+      "views": 522,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +259,7 @@
       "date": "2026-09-04T08:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 257,
+      "views": 426,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,12 +271,48 @@
       "date": "2026-09-04T09:39:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 245,
+      "views": 506,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "خب انگار RSA-260 هم شکست :)))\u003cbr/\u003eالبته جای چندان نگرانی نیست؛ RSA-260 یه کلید RSA مدرن نیست، بلکه یه عدد چالش قدیمیه که برای تست فاکتورگیری ساخته شده بود.\u003cbr/\u003eدر واقع چیزی که شکسته شده خود RSA نیست؛ یه نمونه‌ی مشخص و نسبتاً کوچیک از RSA فاکتورگیری شده.\u003cbr/\u003eRSA بر این اساس کار می‌کنه که:\u003cbr/\u003eN = p × q\u003cbr/\u003eضرب دو عدد اول بزرگ راحته، ولی برعکسش، یعنی پیدا کردن p و q فقط با داشتن N، خیلی سخته.\u003cbr/\u003eحالا توی RSA-260 بالاخره تونستن همین کار رو انجام بدن و دو عامل اولش رو پیدا کنن. در نتیجه، اگه کلیدی از همین عدد استفاده می‌کرد، دیگه امنیتی نداشت.\u003cbr/\u003eولی RSA-2048 یه داستان کاملاً متفاوته. RSA-260 حدود ۸۶۲ بیت طول داره، در حالی که RSA-2048 دو هزار و ۴۸ بیت طول داره. با بزرگ‌تر شدن عدد، هزینه‌ی فاکتورگیری به‌شدت زیاد می‌شه.\u003cbr/\u003eپس این خبر به این معنی نیست که فردا صبح همه‌ی RSA-2048ها رو می‌تونیم بشکنیم :))\u003cbr/\u003eاتفاقاً بخش جالب ماجرا اینه که ببینیم دقیقاً چطور تونستن RSA-260 رو فاکتور بگیرن و چقدر منابع محاسباتی براش مصرف شده.\u003cbr/\u003eاگه یه پیشرفت جدی توی الگوریتم‌های فاکتورگیری پشت این قضیه باشه، اون‌وقت داستان خیلی جذاب‌تر می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-04T14:08:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 442,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TjUShTsET4mzgEidis3LmUsd4uejKelhSyn3pUH_4NDSMFP3u6u_F4vlzPJmqsMXYo5ud0yY6ZoVNqnO0k_-8_wgFdF6CLyKwNxFwoQHneOT5QATxnGioLd2iFnnO-mApue029XRovgakAaVUn7x7WzJuNroDzq_Fy_BBlImjwawmDKS0VjzePTJMrCRsLLtTjl2RzxPKrJCGy5FkEqTwkmFsMzVR-t79CjQ81UIAYqslxRXOfBTKzw8Q8BFQVYcwP-198k4vdS_wqLZ7oLJEfnc90OTn-9kL8qqAzMBoXDJKiMGWtDXvIfbEzGJ3ZQnm7KaFgJfzwLB2kFuvzPSPQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خلاقیت «گاو مارو ندیدین» رامک از گروه صباایده بیشتره، این چیه آخه.\u003cbr/\u003e\u003cbr/\u003eتبلیغ اپارات موزیک هستش دوستان :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-04T17:05:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 143,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/u4OQdPm1xgie1-f0-y1SXULAngDgNuDKLhphC2rG0-o5y2ERe-PiRd1j-ntFa4u3CCj3blhYBDzq1VzOZT4zLdooZg7o_OAljhJBN6NnAqSd5lFnO9dNLmZPt1LmAcA1aaWfCWVutyR1LO1UGseEER6IbjTKFWxDkHKt-BfCXg1-x5q1SlP6k536PXTAyGVVagxItjK1z0TGK9W7qGG91GPDNkI3f1FrvnLtUGHS4O4u7i3VHlZq-a9p_ioYoIohxkkhHug21eftT37N8DIzao8hPBgozomEQ6tl4EMZVXNeDDsfXP_d42DWO04KlKtGmGR2P9-x_O3FQqIgzQcpQw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788530007
+  "last_updated": 1788542206
 }
