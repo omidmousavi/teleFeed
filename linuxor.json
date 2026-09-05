@@ -8,72 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کسایی که با وب (ری اکت نیتیو) برای گوشی های اندروید و IOS برنامه می‌نویسن اینو از دست ندن,,, احتمالاً با این مشکل برخوردید که کاربر یه عملیات سنگین مثل آپلود، اکسپورت یا پردازش تعداد زیادی فایل رو شروع می‌کنه، ولی با رفتن اپ به بکگراند ممکنه کار متوقف بشه. این کتابخونه دقیقاً برای همین سناریو ساخته شده.\u003cbr/\u003e\u003cbr/\u003eاین کتابخونه برای iOS 26+ از BGContinuedProcessingTask و برای Android از WorkManager و Foreground Service استفاده می‌کنه تا کارهای طولانی‌ای که کاربر شروع کرده، تا جای ممکن بعد از خروج از اپ هم ادامه پیدا کنن.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که فقط task رو اجرا نمی‌کنه؛ progress هم به سیستم‌عامل گزارش میشه. روی iOS می‌تونه از Live Activity استفاده کنه و روی Android هم ongoing notification داشته باشه؛ حتی امکان cancel کردن task هم وجود داره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/mahdidavoodi7/react-native-continued-task\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mahdidavoodi7/react-native-continued-task\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-02T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aupUjbbRzpoLvzb54qXmlJ0_RxhGqpebPTQtsmfFtBApwuXd44ci7i49Q8RW-n31dwi0dSPo_jppfPueYn5BL8vCNbRCQEnSrwdUIY8hqToMbSzbGlLNxCZ8pLL_GsBz2zlJeOX3UNJYcXnvw9UbK5lJgUwjULZgfak1x0zZc2YH9aRAzfH6qN_7Ck8XzorqnFIg18aRVa7adpd0yKwBp4XKnau2BGHs3vp4mmUUgTZZ1J5FO1YMLWQL5flpmIgkrNUsPP1oXYL857dwT1u4EuZnYa3nXWUZ1VNvS3UrC5t1ATBtI_aeMggB1GGg0PSI8dfwuvehQ5KL95XOb-ROxQ",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هر کسب و کاری داشته باشید بالاخره جمع‌آوری اطلاعات scrape و خزش crawl رو از وب باید یاد بگیرید این دوستمون توی این ویدیوی 1 ساعته بهتون با یه کتابخونه هوش مصنوعی crawl4ai یاد می‌ده چطوری اطلاعات رو به صورت تمیز جمع آوری کنید حتی می‌تونید یه بخش خاص از یه سایتی رو که دسترسی بهش سخته رو با هوش مصنوعی به راحتی در بیارید\u003cbr/\u003e\u003cbr/\u003eریپو تا الان 80 هزار ستاره گرفته:\u003cbr/\u003e\u003ca href=\"http://github.com/unclecode/crawl4ai\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/unclecode/crawl4ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eویدیوی یوتیوب:\u003cbr/\u003e\u003ca href=\"http://youtube.com/watch?v=xo3qK6Hg9AA\" target=\"_blank\" rel=\"noopener\"\u003eyoutube.com/watch?v=xo3qK6Hg9AA\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-02T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/X3Pjh7avGgORfGABZ_fX1XwdTMJX1JOpGLbxJ0ZFyFcWwDSDpY-AyDSOuw3VFa-aw0jt7TrZqF6jrwYqCFnxlCzLZWBo9033KELzb09P8hJ6ApF-p1pw8mN7lBFiQvpv8rHbGy66oRt0vw3aWMyQDXFSlFexqKErP6mSMDEIrWbfMb95vi-4_lKFvSZas3Lbq96inzdHwQ_Z7g5VKOfzbCMYBaYIT-16flVRbRv9oSh1Ac1V9wrqsnKzD-xNX6pOFjm69VSKjNjiSHBEiQeC8vngmdUWeH16YN1JF3iFWr_1pyBI1DTKfWeS2_8RT9LrqrJ28TppM4cAStKFBQ2wNw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امروز الکامپ بودم انصافا اینو جمش کنید بره با دلار 220 تومنی چیزی از اقتصاد دیجیتال مونده مگه... یه سالن بزرگ از صد ها استارتاپ اونجا بود باور کنید اگه درآمد همشون رو جمع بزنید اندازه اون شخصی که توی اینستاگرام داره دادو بیداد میکنه کره بادوم زمینی میفروشه کمتره!\u003cbr/\u003e\u003cbr/\u003eمردم زمانی به سمت تکنولوژی و دیجیتال میرن که حداقل یه زندگی پایداری داشته باشن و پول توی جیبیشون بی ارزش نشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-02T18:38:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "انشالله که زندگی همتون مثل فرایند نصب DirectX باشه هر چقدر گیر کرده باشه یهویی بعدش با سرعت نور پر شه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-03T19:26:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "هرجای سایتتون نوشتید \u003cbr/\u003eLoading...\u003cbr/\u003eتبدیلش کنید به\u003cbr/\u003eThinking...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتبریک میگم با صفر ریال هزینه سایت شما الان یه سایت هوشمند و پر پایه هوش مصنوعیه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-03T19:32:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
+      "views": 9850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +24,7 @@
       "date": "2026-09-04T11:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +43,7 @@
       "date": "2026-09-04T11:39:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +61,7 @@
       "date": "2026-09-04T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +79,7 @@
       "date": "2026-09-04T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6440,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +97,7 @@
       "date": "2026-09-04T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +109,7 @@
       "date": "2026-09-04T15:34:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +128,7 @@
       "date": "2026-09-04T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +146,7 @@
       "date": "2026-09-04T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bQpQtTHNLBWamM-HvZJYesKJXS3n6C10oZH7waKajhO3Uk4Vwt1AKDgRg-5BPksWtPSClzTRqr2rlzkehcGYLMozLl3UXnl_NhNvbazCIxHu7fbwhxRgFTpHUAKy0Bc_OaWWO2ZnWWq9tjdP6WhVB5cn3sjhzMEbf-uMD1wKYxINGaNakqHKfrfWWgIdnVAxelqgXzSwOQYsS31HYiVHWngV-J9Y2WvNI4Z5RsCYi0xeFI1epQ8BTn-_gEM6f1u7ToA5ehRysjwXahzly2GLnDWhisZO85__nJf2KPBPv6my-l0E8wIxzeKYzGPbyyjxhjbndCCvzst35XEvj26jsQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/EHMQC2V3b9D3dD7f90zNxidxP4yf6N-BHfEYmYhhyZVrbcRb3q4a5QsyUyzTITTAsjlRU5EUqgWGi6uN768r6edJLHWAeS9RfXueLb5gB1KCZbuxIjq1wvdBbgWVRlw8zbA6VjRRWJ3JDErVR6tbMZlrPH6U1UetQ2jwVScpSltJ1h8Jnbhy8Y4yEuDl9wtvoa4nI16fvyi7EjbHKg3DAFdi19mazRPMUWcJu8cvFBCYD4VeR1zkRAtWmV-i4Jjmvi9iiF_Bk21hTTuz8YIyJVPpCdI4510kPzyNyXCMZJHGqA8J3WgA1kTgjzfZM3yhuAgQfDgUnG6K3pFjIc4iIg.jpg"
         }
       ]
     },
@@ -225,7 +164,7 @@
       "date": "2026-09-04T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +176,7 @@
       "date": "2026-09-04T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7500,
+      "views": 7730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +184,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/GPn4oVCzW1AfkULeccgaqpXzWUzfr2FYlWLbJvmq-JCf8Tg0qq1bd_ZeNqmphaRyHzjLCrZDz4qUHzLeCWE9THCD9CpHJa9ATnlvlDak3reC3o4YOeAyCS-wE8mGirMfCzE3KRzO1tUsIWpDZ6Dte5EJvezVFng8xwacC75FHxsgSX6cP-wdnQcUXsjFczFOf9EoFzj_Z7zT35vXJZzpzT_Y9WIUdMlzIEwjqaCt5KXQ1dzoxTW3yLsRCsOvUQLK6YQNWJoAzLCKpQLLQ74W1NAMd4C9HiCzvS19y-ZBbHHg4sXWiH1b6Q8-cvd66sAXkz08PILPL2gZs44rW0YZsA",
+          "url": "https://cdn4.telesco.pe/file/pzWymHutBen0kfD_JoYvkeNL-YgvoGMdVI-WzQZRhAIqzAOrS7X3L2Tiig_4RvBbPMcrfbJ7LdHTSnv9zdvoLc7IDxpQFhVgSUPIrvZZdNErPALsZIlx2DqUFQrt5Oo_iqkYWm0fnW1g0A6kPJQx6-FJ21Yf4WAFXIlTuaXcavtODkCnkVzNKyE1g1JaLvecnyZJwkZ1iMQT-1eUYDLV9QRF8vocOMw_XnBmEar5XdVoQnonesYEgdhTlyT7MI2YgACHQ69Q1ep5n9Q1vz3ZiLB3KgBdWT0fCymycqqF_kMgOf-YNgZGHth_9Z-ZdaQ-MoIY4n1kh59GMsLAcRFQ9w",
           "width": 1920
         }
       ]
@@ -256,7 +195,7 @@
       "date": "2026-09-04T22:30:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +207,7 @@
       "date": "2026-09-05T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3440,
+      "views": 4760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +225,7 @@
       "date": "2026-09-05T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3330,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +243,7 @@
       "date": "2026-09-05T14:55:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 4530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +261,7 @@
       "date": "2026-09-05T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2420,
+      "views": 4260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +272,69 @@
           "url": "https://cdn4.telesco.pe/file/A6N3gGm_q_2_AZgHKw7vhAkKX8189P1viuo9Pbot4aBaObAs1mNzHWbboqVqtf4jWZI9Et2RxILRK-bzRisRF8PCPYYQYeOWnbYbaaf7DTBh1tgA58gUjgquVa19Gi5aF6aElF3wavWWt3GPekenYTsJlsy8EJjHn_ZJHqw6l_z8KAFmT-397kXeH2r-FQOjI1FgD1SrCun9tVFJGZ0TqJJyRxtvZ4CQ4_oIqAkMnx62QC9J_Fl85w44EVvi7DUIq6u7MgD1h9iHgaRL8GhaBy5UaBMn5JVHkLvmUe-GnFizjxrDOY2bLo9_allfeZjCU-8tvy02xCPcpwrjfjCJZg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5427168083074628963\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اشتراک‌های محبوب هوش مصنوعی و ابزارهای کاربردی رو با قیمت ویژه از پریم استور تهیه کن!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاشتراک جمنای پرو فقط با ۲۹۹ هزار تومان!\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5364199932620194408\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاشتراک نوشن بزینس فقط با ۴۰۰ هزارتومان!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مناسب برای تحقیق، تولید محتوا، برنامه‌نویسی، مدیریت پروژه و استفاده روزمره\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5231200819986047254\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی به امکانات حرفه‌ای و قابلیت‌های پیشرفته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438496463044752972\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eکد تخفیف ویژه ۱۰٪ روی همه محصولات برای مدت محدود:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eOFF10\u003c/code\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بدون نیاز به دریافت اطلاعات حساب\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید و ثبت سفارش از طریق ربات:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296455228776790085\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e",
+      "date": "2026-09-05T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه پروژه خیلی جالب برای ساخت AI Agentهای موبایلی، با Android و iOS واقعاً کار می‌کنه؛ صفحه رو می‌تونه ببینه، روی UI کلیک کنه، اسکرول کنه، تایپ کنه و حتی کارهای چندمرحله‌ای رو خودش برنامه‌ریزی و اجرا کنه.\u003cbr/\u003e\u003cbr/\u003eمثلاً بهش می‌گی:\u003cbr/\u003eبرو توی Settings و Dark Mode رو روشن کن یا مخاطب John رو پیدا کن و براش ایمیل بفرست\u003cbr/\u003e\u003cbr/\u003eکاربردهاش هم خیلی زیاده:\u003cbr/\u003e• اتوماسیون کارهای تکراری موبایل\u003cbr/\u003e• تست و QA اپلیکیشن‌ها\u003cbr/\u003e• استخراج دیتا از اپ‌های موبایل\u003cbr/\u003e• اجرای workflow روی چند دستگاه\u003cbr/\u003e• ساخت AI Agentهایی که واقعاً با اپ‌ها کار می‌کنن\u003cbr/\u003e\u003cbr/\u003eاز OpenAI و Gemini گرفته تا Claude و DeepSeek هم پشتیبانی می‌کنه: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/droidrun/mobilerun\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/droidrun/mobilerun\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-05T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ez_LiTZ3gyhcn5zf0W3UJuhSY_BFvr_QONcyJbS4Tm41WmpSSP9AVaCJsteE6wvHayrptFspQsMdOUbXuPy8M_8WlpHZve23ddlgENVfedFsb1EUa_c_Ji4Hp73juw3oswUyxqGd0aJGrp-FGpfqxLWQOMC70gN9S6Gnn_jRzH7KaHZm1J4VdFoBfC-48idBoisc2VlcyQl8Q6MREHEBz3s6dUyVb3aoBhHyRjmo5PHbwlzOqjedwB7Sj8YMt-a2MIpOV5QQKS1r_7iHHsLQ-padKOUckCuHDHudP6GWXHIez166c9VwTN8LWXNS6fdNAh6SqVqPMSBOjSQv5xSWBQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایت صحنه‌های فیلم‌هایی که توی اون خیابون‌ها فیلم‌برداری شدن رو بهت نشون می‌ده حتی ایرانم توش چند تا فیلم هست.\u003cbr/\u003e\u003cbr/\u003eروی هر پینی که خواستی کلیک کن؛ می‌بینی چه فیلمی اونجا فیلم‌برداری شده.\u003cbr/\u003e\u003cbr/\u003eاسم هر فیلمی رو که خواستی سرچ کن؛ همه‌ی جاهایی که اون فیلم توشون فیلم‌برداری شده رو می‌بینی.\u003cbr/\u003e\u003cbr/\u003eقلعه‌های Game of Thrones توی کرواسی.\u003cbr/\u003eخیابون‌های Breaking Bad توی آلبوکرکی.\u003cbr/\u003eتپه‌های Lord of the Rings توی نیوزیلند.\u003cbr/\u003eاون چاهی که توی The Dark Knight Rises می‌بینیم، توی Mehrangarh Fort شهر جودپور هند قرار داره.\u003cbr/\u003eفواره‌ی Woman in Red از فیلم The Matrix توی سیدنی:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://moviescenemap.com/\" target=\"_blank\" rel=\"noopener\"\u003emoviescenemap.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-05T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/veVG4kAr_QVBu1Dcsbjl9tLcRIDnr7sEVemjkwDVeNQOyl2cj99YjFJqAIODYPm91wg4HixATmjZrN-5Sq69f0YjIbhd4pIXwA3Z23XANrmUU2n7sgocDAzIyqRmFSR0JJPHf6PIbk_JHgTsDbAB7wNTY5sXnpbwArOfl9rz5gammj0tz08FaC7JqQK08CUTHvSq8RkRsk-Uh8U2nPAODfoX8A-6A4czgib_wcbFDc8v--8JQXDor_YXvwSIPTcB-v2QNqrREh2jXwWoNeMm7_PFj0lpdlo2cOiKhDbAj-sICPUwZ-noPwGM99Tgt8I4mbeHFLFRMOrXMi_SN3laOQ",
+          "width": 1820
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "قدیما می‌رفتی یه کامپوننتی یه قالبی، لوگویی چیزی دانلود کنی یا کدو بهت می‌داد یا فایلش رو اما جدیدا یه دکمه Copy Prompt گذاشتن که هوش مصنوعی خودت زحمتش رو بکشه بسازتش! اقا این چه مسخره بازی‌ایه ما هوش مصنوعیمون ضعیفه نمیتونه اونطوری که توی سایت گذاشتی بسازه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-05T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1788625401
+  "last_updated": 1788632863
 }
