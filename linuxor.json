@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این ویدیوی یوتیوب سرعت دیتابیس پستگرس و مای اسکیوال مقایسه می‌کنه رو ببینید!‌ پستگرس توی بنجمارک ها بهتر عمل کرد البته به این معنی نیست که مای اسکیوال چیز بدیه چون تونست 10 هزار ریکوست برثانیه پردازش انجام بده یعنی حدودا ده برابر ریکوست هایی که به سمت سایت توییتر میره و این برای یه سایت معمولی که شما می‌خواید بالا بیارید خیلیه! \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtu.be/R7jBtnrUmYI?si=A_p0RregN_kYwurO\" target=\"_blank\" rel=\"noopener\"\u003eyoutu.be/R7jBtnrUmYI?si=A_p0RregN_kYwurO\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-05T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QUol5D63I8X7iARx9o15mnkSoX66o6zb93gfzvPK9VzVtxSgRDrtRIWlJH0OjpItOAqfuYP8ZO0a8uF02OS1Usaox5YQjx35pu2PQjXVxSOpBnNi4s9uPP_JhEDov32-4geoI5jV7O7Zef2ZavhBsGLJ5xUiDLCzUeMSG7Nd3cYzKctRiZbL3fJiRaQ5TejI4XJg3Xxeio1svSr2Rw_leFI8fTaqj9Ci3XE59l-5vxa1Dqf5DzXaE2GXLnvVT9e8eEczUJxLDy1r1mtdMWC3XVUMhsqZfRLEInRsy8dIQUhVTsCLP7l25P2AeUKAfP9Vq24uhkYnBcRKKqINWoTkSg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شاید منظورش The Django بوده!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-05T14:55:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ep-JnjXW_lg2KAySR-x-DKodJj1swUTF4Yla-5wM6Dmoq3P4WM_CnxKqHa0-xlHj1_JYl4YebxUVYGXleRISbZCagtGqlk6cDn7lHnLcUWhw_SfJ55Qs1v-gsrpLU1fcA_uykSMd2nrmgojW-t5TXHxm6I7wM408DO5O9RWLsWWt4uuiB-0Z2PRxjJJVWk01UHhXfRx_rbl4dtUvaGKIVfmmwJEZjS8zTcZlD7eNhq-WlxJCW3BfrVw3QEnjRVERQClkb35W_bwzOpO5VU4thh0qabtUnT7zho2sf-WwiuIRKFuYVNfYvIdkg6QTNjUQ0eoOxsxjja5XSeGQA3ZALw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه پروژه جالب پیدا کردم برای ترکیب هوش مصنوعی و ترید کریپتو که با استفاده از Gemini و داده‌های اجتماعی LunarCrush، وضعیت بازار و sentiment مربوط به ارزهای مختلف رو تحلیل می‌کنه و در نهایت سیگنال‌هایی مثل BUY / SELL / HOLD تولید می‌کنه. (البته احتیاط کنید چون قیمت یه ارز رو فقط احساسات تشکیل نمیده و عامل های دیگه هم هست همچنین این پروژه تفریحیه)\u003cbr/\u003e\u003cbr/\u003eدموی آنلاین :\u003cbr/\u003e\u003ca href=\"http://ai-trading-agent-gemini.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003eai-trading-agent-gemini.vercel.app\u003c/a\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/danilobatson/ai-trading-agent-gemini\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/danilobatson/ai-trading-agent-gemini\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-05T15:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V9R708FCIXmOPUMwEqWwmFH52iTBq_6Lp2GkHr4QyEa-B8d3k-FM81IZIxuRMUcU1lIZHV6np9NDpdSDCClmT9JXcyn08ZWF7tnQXZ1PyxoDU_1bNxIXz7_7YUWMy0ar525pKSBDgvuip5aV9YZt-fSg6I_S-Y8pZk67BTJyL9azkxDCPq_3waac_fFNqvKJY8esIPr-RldWicfBcf2Y9LJWUGtF2ltAMp_lgU8iDNO9u454vp6s5RBKRcQPYTKUh5Cu5E91lycOxZHQg5XCNpYcXnVBSBhRz5h2oAsh9INmyD6Z4nqP1YHY81XROAtLe03f1VJ586xQ2Bqn7JYoMQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5427168083074628963\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اشتراک‌های محبوب هوش مصنوعی و ابزارهای کاربردی رو با قیمت ویژه از پریم استور تهیه کن!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاشتراک جمنای پرو فقط با ۲۹۹ هزار تومان!\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5364199932620194408\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاشتراک نوشن بزینس فقط با ۴۰۰ هزارتومان!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مناسب برای تحقیق، تولید محتوا، برنامه‌نویسی، مدیریت پروژه و استفاده روزمره\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5231200819986047254\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی به امکانات حرفه‌ای و قابلیت‌های پیشرفته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438496463044752972\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eکد تخفیف ویژه ۱۰٪ روی همه محصولات برای مدت محدود:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eOFF10\u003c/code\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بدون نیاز به دریافت اطلاعات حساب\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید و ثبت سفارش از طریق ربات:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296455228776790085\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e",
-      "date": "2026-09-05T16:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "یه پروژه خیلی جالب برای ساخت AI Agentهای موبایلی، با Android و iOS واقعاً کار می‌کنه؛ صفحه رو می‌تونه ببینه، روی UI کلیک کنه، اسکرول کنه، تایپ کنه و حتی کارهای چندمرحله‌ای رو خودش برنامه‌ریزی و اجرا کنه.\u003cbr/\u003e\u003cbr/\u003eمثلاً بهش می‌گی:\u003cbr/\u003eبرو توی Settings و Dark Mode رو روشن کن یا مخاطب John رو پیدا کن و براش ایمیل بفرست\u003cbr/\u003e\u003cbr/\u003eکاربردهاش هم خیلی زیاده:\u003cbr/\u003e• اتوماسیون کارهای تکراری موبایل\u003cbr/\u003e• تست و QA اپلیکیشن‌ها\u003cbr/\u003e• استخراج دیتا از اپ‌های موبایل\u003cbr/\u003e• اجرای workflow روی چند دستگاه\u003cbr/\u003e• ساخت AI Agentهایی که واقعاً با اپ‌ها کار می‌کنن\u003cbr/\u003e\u003cbr/\u003eاز OpenAI و Gemini گرفته تا Claude و DeepSeek هم پشتیبانی می‌کنه: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/droidrun/mobilerun\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/droidrun/mobilerun\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +31,7 @@
       "date": "2026-09-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8330,
+      "views": 8510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +50,7 @@
       "date": "2026-09-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 8370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +62,7 @@
       "date": "2026-09-05T19:41:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 8470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +74,7 @@
       "date": "2026-09-05T19:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8450,
+      "views": 8690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +82,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IWd9taTAUsrU6kOoeV4IgeHSdm3CwAjzhpVXTfFXCH4dd1LrLi7KRHrY7QyP2usFMuRZcv9wHdA1qS2fTxcROS9N4vDcAVAkdJ5oSavJ-i48KWvPkrOPQ-9qQ6xU_cSaLHCrBeBvXPIvbkMSwJBGaI58ExPGVfXQAHFNN2MyrOTXbLM1mcBgQ_2tGY5Fn-5M4eW3V7OQ0XL_-ckG4MtDm_6KByiCEZCBoRAh5C8BYytAnLv-Q3O_RZCUZjZMXA-NS8HyO2nfmhmEo0I8yMRLEBSdF3Jmnd3RKP_33PWJe5A0HLgzmZ2jcRBrJoPp9qRwFXS9IaYkFZOfuWMmMvRR1A",
+          "url": "https://cdn4.telesco.pe/file/eYblvXvVToe5pjC3UAyuD8VV5QPmxpOn8H348Dfp447yiseX7rL4t1J3fQVel2OpZkwQX3khZzpyNQFpbMX_BsjEPZzR4sil9b9dF-6E4-MQM1wB7I7cyd-EP7WxZ9bIqHZ4bJZzw1lZ8G0aN0d5caUX3xAKKKtSwqKMZeEjq32QY1w63pUaCbp3RID3VsWNxucDlaSgKU29OH4b42vMcMGFtkkxnANE4ghIaaD10yXI7SdERIjz0ZId06qX2a-gEkkNNTr1HhgvEciDPQcmTlepDt2PudruuPtX4G4zE0ruUTbhozgVL2nket33c9wqXfZvUVjcwaacF46mukAQVw",
           "width": 836
         }
       ]
@@ -159,7 +93,7 @@
       "date": "2026-09-05T20:51:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8350,
+      "views": 8560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +105,7 @@
       "date": "2026-09-05T21:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 9390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +123,7 @@
       "date": "2026-09-06T09:23:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7580,
+      "views": 8039,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +135,7 @@
       "date": "2026-09-06T11:01:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +154,7 @@
       "date": "2026-09-06T11:53:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +166,7 @@
       "date": "2026-09-06T15:37:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4740,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +184,7 @@
       "date": "2026-09-06T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +202,7 @@
       "date": "2026-09-06T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3740,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +221,7 @@
       "date": "2026-09-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +240,7 @@
       "date": "2026-09-06T17:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2730,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +252,7 @@
       "date": "2026-09-06T17:51:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 4250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +264,79 @@
           "width": 1670
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6192907764939889234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید اقساطی و مطمئن اشتراک و اکانت‌های محبوب با بهترین قیمت در ساب‌مارت!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397681122542893003\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eChatGPT\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eGemini\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5208665212483310136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eClaude\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5789911984283586269\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتلگرام پریمیوم 3 ماهه\u003cbr/\u003eبا خرید اقساطی \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eفقط قسطی \u003cu\u003e900\u003c/u\u003e هزار تومان\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206361550939506453\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاسپاتیفای پریمیوم 6 ماهه\u003cbr/\u003eبا خرید اقساطی \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eفقط قسطی \u003cu\u003e965\u003c/u\u003e هزار تومان\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکی‌لینگ، کنوا، دولینگو و کلی سرویس دیگه...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6325485730260852916\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eامکان پرداخت 4 قسطه با اسنپ‌پی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برای دیدن لیست کامل سرویس‌ها و اطلاعات بیشتر به ما بپیوندید \u003ctg-emoji emoji-id=\"5172653165836763657\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR\" target=\"_blank\"\u003e\u003cb\u003e@SubMartIR\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMart_support\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپشتیبانی و خرید\u003c/b\u003e\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5337080053119336309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR/107?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eرضایت مشتریان\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-06T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/rAbhLIXtJ0r5GTGcHrQTTcJhoYe4wmVa--CG7hDL6KT4E6daCBpRHVjDHNyXe9XDolp3FUzkK3d3VJKcAKsH2M9-GjkxPGZA2w9m31RwKcSF7FkoESp7iVAcBRPQeMYJJRtM4E2_6bbZ4J1OBSJcsKZMA4ufPQFqEp2Q0_ITBKRKiJP9-0BxfZ6iYW1daLEKNMTz_v_QgHDnG1O2XdqXdp975ua79jiswkizYM9-nAHEhGOwjwGUxpahNBtVww42XtzAxwv_KSbWV0RQVzuFROA0hzx1dioF89X8HF8oGyJE39KhFZqyZjLi9MSW7wn8TKcFeSlbBrcp31U3Sfwv8Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینم جدیدا سر و صدا کرده، 120 هزار ستاره گیتهاب گرفته، اگه از کدنویسی با ایجنت های هوش مصنوعی استفاده می‌کنی، احتمالاً این مشکل رو زیاد دیدی یه task ساده می‌دی، ایجنت آخرش یه معماری فضایی، چندتا dependency و کلی کد اضافه تحویلت می‌ده Ponytail برای مقابله با همین قضیه ساخته شده. یه Skill/Rule برای ایجنت هاست که بهش یاد می‌ده قبل از نوشتن کد بپرسه: واقعاً لازم هست؟ چیزی توی پروژه از قبل این کارو نمی‌کنه؟ خود زبان یا پلتفرم راه ساده‌تری نداره؟\u003cbr/\u003e\u003cbr/\u003eفلسفه‌ش خیلی ساده‌ست اول YAGNI، بعد reuse، بعد standard library، بعد native API، بعد dependency موجود و در نهایت کمترین کد ممکن. یعنی به‌جای اینکه Agent سریع بره سراغ ساختن abstraction جدید، اول دنبال ساده‌ترین راه موجود می‌گرده. خلاصه یه جور Senior Developer غرغرو می‌ذاره بالای سر Agent که هر چند دقیقه یه بار می‌پرسه: داداش، چرا این‌همه کد نوشتی؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/DietrichGebert/ponytail\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/DietrichGebert/ponytail\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T18:44:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/StFHAKapkoXbWCqQyzYjS04cBaoDFMXQpXWOIrzLAWchzf1unZJ6SYXzyv1cqeXkvlpKzr54mN0JBg5RXp1CgJ6yLXwvKAAkqo8wj4jE0e8RpMqCW9XdD4CZMTLXMUlyAx8YSYu02QGRGyaQx5bt5uf-3IV9P0SBPuynek0HmaXMSpbgSn9_oksaHzFcRdG84vaclI6pQTqzPyxGtohioFPMvimqWfNIDp8qf4yo76vHkikYiGzbVuEp9_V4bKIJuGMAFL5OXRpebv_O-q94cUDL4qT1Ysm2PNH1r0I4mvrH7oNb5UiB7ZyhuDechEM07TnUASrongjtWUvJzUdQsA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه یه گوشی اندرویدی قدیمی داری که گوشه افتاده، شاید بتونی دوباره ازش یه کامپیوتر لینوکسی بسازی!\u003cbr/\u003e\u003cbr/\u003eاین پروژه با استفاده از Termux و Termux:X11 یه محیط لینوکس کامل‌ رو روی اندروید راه می‌اندازه؛ بدون اینکه لازم باشه اندروید رو پاک کنی یا روت کنی. حتی می‌تونی دسکتاپ هایی مثل XFCE، LXQt، MATE و KDE رو اجرا کنی.\u003cbr/\u003e\u003cbr/\u003eروی گوشی‌های Snapdragon، پشتیبانی از GPU و چیزهایی مثل Turnip/Zink هم می‌تونه تجربه‌ی گرافیکی خیلی بهتری بده. حتی امکان اجرای بعضی برنامه‌های Windows با Wine/Box64 هم وجود داره.\u003cbr/\u003e\u003cbr/\u003eدر واقع می‌تونی یه گوشی قدیمی رو تبدیل کنی به یه Linux PC جیبی، سرور کوچیک، محیط برنامه‌نویسی یا حتی یه سیستم برای Home Assistant\u003cbr/\u003e\u003cbr/\u003eویدیوی یوتیوب به زبان هینگلیش (انگلیسی هندی):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtu.be/tYm2rQpkOcg?si=pd2S_5FECcFyYdpE\" target=\"_blank\" rel=\"noopener\"\u003eyoutu.be/tYm2rQpkOcg?si=pd2S_5FECcFyYdpE\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاسکریپت های لازم :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/mayukh4/linux-android\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mayukh4/linux-android\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T18:59:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TMoGM23c4Mw7P6GZX_5yzn3_8sTfO4X27jbzx7j7fUgOQ9rHkq3LeLwX6ClJ2-PZRrUSQs-vzoNUjYQORw0LhZXA4gzEUB_Siezi2MdhhkIILWv6OUoVN_I9K5JpTFNqx9havWvq6fUiodRwUyp0_S0aU0Oex6ADnyttcBXpVB9hUhVtBhe9ro_LDIaVwepN5927GEK4n5QLknsam_TwlHpfmwAD-QQFwhpn0MhCmPBdNvg2JiqJ61lW3y8-KT5pGeokzWBP_Tff8s3FCm5SMiPXlEZoB7x17UspFGbf1M0zJb9vJpirIaEKJ3ZYDFXGrmdYMMVyYnK1qqgbBJHrmw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایته هم جالبه باهاش می‌شه توی مرورگر و بدون نصب هیچ چیزی جی تی ای vice city بازی کرد کلی از خاطراتم زنده شد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://quenq.com/apps/vc-web\" target=\"_blank\" rel=\"noopener\"\u003equenq.com/apps/vc-web\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T19:14:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/koBF_ttvhqalDURScPYc1_bu3w2knsTiOf88MYwwuTvJObTZkPslghQQobvSj8DObWfSdMkppBF2zDy2Xur42Hgnyrk07HmbI6nrjyJ9sINx66qVDzxggsl6s7GOzLPyHlP4EA6k6bbG4JqT80NdQqT00dyPBYAr70z4HI6iaKKcmxok9h77YiRipCwkDM0TlhJwU-GpbioAuZTwSkUWNDs_C0QLAdha_RY-QrW8RMKoW8TW3O_Fi_xyRQ224TyTzj4jOjrWZZJghprDW2Sw6Sah2Q-EfC8rufhV3W4bc0S6UildtSpJaZexpig8vSK8umpjcQL9b6-3IuEG__Xe4Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788717918
+  "last_updated": 1788726864
 }
