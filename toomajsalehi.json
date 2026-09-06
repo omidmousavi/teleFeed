@@ -134,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/m1ZKpIJQqDtkYJIKOJ1y_boCdKoOAWu0KlbcbaTFEowlgpsz14KqtupUbbojszEFAD5Ke7SOWg4_x5VJRONucjDUP5Bu8hqkg87uyXZ2PbMggH8ygK9yHnG534xZCCDjfOXMj4VWLuEDzWsrSk3TdTtCVdSyPdPz_wmDOkZCwDwnITj4ShfCzPE2z69gUUOlIBW5Zb7CdJz-15cLcgh2I-FU3F0G08ZoxkSOkhFaknat6PL6vOPE3YZoEqr07e0wQtEbVgw_tTajFhlQ7H6fkaQtUX7Xarw1tOvLIH7DxdykUYfrzjIMxXh3VjadnHVNEsF-7pWudYFOZYZyfVjIDg.jpg"
+          "url": "https://cdn4.telesco.pe/file/mUkPnWTge9UtW07MG7ZlBNfVlT3tThm3R_88pNvGour6UC4owUQzFK3H9wMmjgyyA8whEihfEHkfKT-WlXsvOzIcb-xaCJ1DhOpEaSKAkHdyELNRra1dfe8LZDxKKS5pRgprp9S2VRB7xyZKaJoxa7CBmTfVMrouF5Oe0_cQedpF-Hzm0ZVCom5_FqHFjeQx_-NADq8cdG6yMYxkylRO7nK_QuA-BTHbK1gaRj160dzXnxlQC6HdZqktoBdjIS17u0lvuXBruWP6HCwS43QW2jnLXyVIytOgUCfeV-IdMA1wlwtaJouLypRBKa21cbsUkO-9GL4Drjg1slyFQqTJXQ.jpg"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "date": "2026-06-28T08:37:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +186,7 @@
       "date": "2026-06-28T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +206,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tT-P1Ydxp6etv2uCsG1ogIu1sIq_EDbPspbu2jHureoJdxDt9ixEdfzYVYelSD6t4o7pYZZN-0ePLD9PjNXgLX7U9HGUV3tGceEkr5Zmn2uh89-xY7al-uqpJzi-LdH40ptTKSeHTz1Ttn5s4gXUDsyI3Bb-7HOANbp8C5sdNN8r8XUUMtbHE2GfBtuRaRDqtQrboo_Njk0BdZzrVpgdMH8IhALSjemSu_9VlswEVfpyvUr9GQcBChhEBZfEYIEdBUwMvwRiuUrNOyn8DuOtvhRfErPti0aqvChq4GxPwOreTn8oKkrfy_9hcWa9BQlRhBg83fYD4MtNWBcDj0xaCw.jpg"
+          "url": "https://cdn4.telesco.pe/file/qJyID08HMAfEHp7T0IEn8Cs8EfspMQxj_jnna_RkS73Nvvvk7oRU9ht41If1I9sRbSympq0qAT-XTwelDssTkc_J37zUPLXJjWj47Me9dQMM6bXgWhLp-jBnjEDF8HPndZAFBy13WaI_N5we-riq0VkH9Ifn6rELpaFBDNhcdkhsXglhaL_nt8dE8I9wmsqS50Ln79FjGLFGabEGrI0EDiVX1LNqCTD6l-k8G-qDf4CyQ7UYcDhetVLqCQC6njcp3tZ6igCQMyaERl7CeQKczlyAxfYtG9GporWeVE8oZHZ3hJQsNqTi-A0gs9dfZDP9nji6zabLQtTSAwIDHj3Dog.jpg"
         }
       ]
     },
@@ -229,5 +229,5 @@
       ]
     }
   ],
-  "last_updated": 1788726872
+  "last_updated": 1788734015
 }

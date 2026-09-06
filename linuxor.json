@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه پروژه خیلی جالب برای ساخت AI Agentهای موبایلی، با Android و iOS واقعاً کار می‌کنه؛ صفحه رو می‌تونه ببینه، روی UI کلیک کنه، اسکرول کنه، تایپ کنه و حتی کارهای چندمرحله‌ای رو خودش برنامه‌ریزی و اجرا کنه.\u003cbr/\u003e\u003cbr/\u003eمثلاً بهش می‌گی:\u003cbr/\u003eبرو توی Settings و Dark Mode رو روشن کن یا مخاطب John رو پیدا کن و براش ایمیل بفرست\u003cbr/\u003e\u003cbr/\u003eکاربردهاش هم خیلی زیاده:\u003cbr/\u003e• اتوماسیون کارهای تکراری موبایل\u003cbr/\u003e• تست و QA اپلیکیشن‌ها\u003cbr/\u003e• استخراج دیتا از اپ‌های موبایل\u003cbr/\u003e• اجرای workflow روی چند دستگاه\u003cbr/\u003e• ساخت AI Agentهایی که واقعاً با اپ‌ها کار می‌کنن\u003cbr/\u003e\u003cbr/\u003eاز OpenAI و Gemini گرفته تا Claude و DeepSeek هم پشتیبانی می‌کنه: \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/droidrun/mobilerun\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/droidrun/mobilerun\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-05T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vgJQTVDwPPbK59T1o9BRUoxQ1Rre4hT-4PjMxliCqSdClXoXw5gK3Zx7FxC0XCfW-eueJj2U0y1gVnbSiJE9mp6mPqvdBVE3NY6syA8j3KVxlFCXIGNiq6dnwziQPxtQ4tnBCc3os2Sk_4lelST5FS3dnzxGjf9shZ-IA7UC0HXDy3ALao4qfxHqKJFfEtwFuDILAfjm-TYcjl7SAsuw6ncXiwKlqzJYfDEkUXyQgGeOly1faWXC6-I0aG2qNvAMxcnX0xsvCCrb__K1UQapTgh2RJhulcZag8_lwvCtmXWWusHjO9TD-tSGjTPCEu9kWX8c5gOALart8ntPHvhIlw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این سایت صحنه‌های فیلم‌هایی که توی اون خیابون‌ها فیلم‌برداری شدن رو بهت نشون می‌ده حتی ایرانم توش چند تا فیلم هست.\u003cbr/\u003e\u003cbr/\u003eروی هر پینی که خواستی کلیک کن؛ می‌بینی چه فیلمی اونجا فیلم‌برداری شده.\u003cbr/\u003e\u003cbr/\u003eاسم هر فیلمی رو که خواستی سرچ کن؛ همه‌ی جاهایی که اون فیلم توشون فیلم‌برداری شده رو می‌بینی.\u003cbr/\u003e\u003cbr/\u003eقلعه‌های Game of Thrones توی کرواسی.\u003cbr/\u003eخیابون‌های Breaking Bad توی آلبوکرکی.\u003cbr/\u003eتپه‌های Lord of the Rings توی نیوزیلند.\u003cbr/\u003eاون چاهی که توی The Dark Knight Rises می‌بینیم، توی Mehrangarh Fort شهر جودپور هند قرار داره.\u003cbr/\u003eفواره‌ی Woman in Red از فیلم The Matrix توی سیدنی:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://moviescenemap.com/\" target=\"_blank\" rel=\"noopener\"\u003emoviescenemap.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8510,
+      "views": 8620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-09-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8370,
+      "views": 8480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +43,7 @@
       "date": "2026-09-05T19:41:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8470,
+      "views": 8600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +55,7 @@
       "date": "2026-09-05T19:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 8820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +74,7 @@
       "date": "2026-09-05T20:51:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
+      "views": 8710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +86,7 @@
       "date": "2026-09-05T21:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
+      "views": 9560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +94,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qfBCwci5s0l7ARhrZwbCaa1XrK8U30ci_OtFv49Xjoc5xm2FxWCSSAG4dKtTHo9XkgYEmFEalaRmr_xdZJOYpPcEEw5Q3vbiiE2_gprf8roSfSv8c5-X5rMxzJNCHgYSPEXv-y1Hzj09YQdZgr3ppTjLAX_RNhQnqfEkKW3NSuIpBRLVMd_xFhywDkpxsS1OQ1uPIRWgPStqBZj15gsACvTuZO3x0EfWeYJxGfWAUqjyTizoz2LEZmaPZQguQAkiiOuzQti5Au6aJlkDii4YvP2pUEOaWDcQhj4YYHpnIPKk3S0GpWEJs2kUSfJLMO5L_lPuqn3N13JHmlHfu4E1bg.jpg"
+          "url": "https://cdn4.telesco.pe/file/eauM1KINVSHAA_RKdGvtvP1z0_bO6Rzn0QyjCwev0XXPKDUaLmKHwXgfUYMut8ZPetjz3566gwwGJu70Pnaav9y_j1-gXerzriMpoanCEVjKnHgNtbFkSTiGUd4cCaDQ_2CzSeabPDmBla8W-r4WgSFjRT_0V4CBEsC5pNXZtTYvMkdlbYsnXuQD35VGixOJacrBLYtsGW2mHfZQoJ06KOGsmQzC3d1P4Nl210RNzJTZx-BU9N7TbAEwO5oupE33ExkD2eJP8BE1njJLMKfNRwq1GbvlExww6ysI9MkfYQbI7YZCEQ3cLCk_J-Y0-6l8grcd6EX8b54M0RUo3y4SdA.jpg"
         }
       ]
     },
@@ -123,7 +104,7 @@
       "date": "2026-09-06T09:23:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 8280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +116,7 @@
       "date": "2026-09-06T11:01:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7870,
+      "views": 8109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +135,7 @@
       "date": "2026-09-06T11:53:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7230,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +147,7 @@
       "date": "2026-09-06T15:37:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +165,7 @@
       "date": "2026-09-06T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
+      "views": 5660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +183,7 @@
       "date": "2026-09-06T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +202,7 @@
       "date": "2026-09-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4910,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +221,7 @@
       "date": "2026-09-06T17:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +233,7 @@
       "date": "2026-09-06T17:51:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4250,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +252,7 @@
       "date": "2026-09-06T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3730,
+      "views": 4580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +270,7 @@
       "date": "2026-09-06T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +288,7 @@
       "date": "2026-09-06T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3370,
+      "views": 4730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +306,7 @@
       "date": "2026-09-06T19:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
+      "views": 4640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +317,19 @@
           "url": "https://cdn4.telesco.pe/file/koBF_ttvhqalDURScPYc1_bu3w2knsTiOf88MYwwuTvJObTZkPslghQQobvSj8DObWfSdMkppBF2zDy2Xur42Hgnyrk07HmbI6nrjyJ9sINx66qVDzxggsl6s7GOzLPyHlP4EA6k6bbG4JqT80NdQqT00dyPBYAr70z4HI6iaKKcmxok9h77YiRipCwkDM0TlhJwU-GpbioAuZTwSkUWNDs_C0QLAdha_RY-QrW8RMKoW8TW3O_Fi_xyRQ224TyTzj4jOjrWZZJghprDW2Sw6Sah2Q-EfC8rufhV3W4bc0S6UildtSpJaZexpig8vSK8umpjcQL9b6-3IuEG__Xe4Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه راننده تاکسی بشم 5:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ تو اگه از اولین روز ها هم مقدار زیادی بیت کوین داشتی حتی کل 21 میلیون بیت کوین الان هیچی بیت کوین نداشتی چون هرباری که بالا میرفت احتمالا نصف سرمایت رو میفروختی (بهترین استراتژی توی موقعیت حساس همینه : نصف رو نگه داری و نصف رو بفروشی) چون نمیدونستی تا کی قراره بره بالا، حجم کل سرمایت به صورت نمایی exponential کاهش پیدا میکرد چون توی هر مرحله نصفش رو میفروختی، احتمالا ریاضیت اونقدری قوی هست که بفهمی تابع نمایی چقدر سریع به سمت صفر میل پیدا میکنه و داراییت بعد مدت کوتاهی صفر میشد پس هی نگو اگه اون موقع بیت کوین داشتم چی میشد. بخداااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T21:11:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1788726864
+  "last_updated": 1788734008
 }
