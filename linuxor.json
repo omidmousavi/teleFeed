@@ -8,60 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این در واقع یه مجموعه Skill برای Coding Agentها هستش که Matt Pocock ساخته. اگر با چیزهایی مثل Claude Code، Codex، Cursor یا Agentهای برنامه‌نویسی کار می‌کنی، موضوعش خیلی به‌دردبخوره.\u003cbr/\u003e\u003cbr/\u003eفرض کن به Agent می‌گی: فلان قابلیت رو به پروژه اضافه کن. Agent ممکنه مستقیم بره سراغ کدنویسی و بعد از 30 دقیقه یه چیزی تحویلت بده که technically کار می‌کنه، ولی اصلاً چیزی نباشه که واقعاً می‌خواستی. Matt اومده یه سری دستورالعمل و workflow آماده نوشته که به Agent می‌گه:\u003cbr/\u003e\u003cbr/\u003eقبل از کدنویسی دقیقاً بفهم مسئله چیه\u003cbr/\u003eسوال‌های درست از کاربر بپرس\u003cbr/\u003eاول تست بنویس\u003cbr/\u003eمرحله‌به‌مرحله پیاده‌سازی کن\u003cbr/\u003eموقع Debug کردن حدس نزن و منظم جلو برو\u003cbr/\u003eمعماری پروژه رو بررسی کن\u003cbr/\u003eکار بزرگ رو به Ticketهای کوچیک‌تر تقسیم کن\u003cbr/\u003eقبل از commit کد رو Review کن\u003cbr/\u003eاصطلاحات و Domain پروژه رو مستند نگه دار\u003cbr/\u003e\u003cbr/\u003eدر اصل هوش جدیدی به مدل اضافه نمی‌کنه؛ بیشتر داره نحوه کار کردن Agent رو منظم می‌کنه. خود ریپو هم دقیقاً روی همین ایده تأکید داره: Skillها فایل‌های کوچیک و قابل تغییر هستن که می‌تونی متناسب با پروژه خودت دستکاریشون کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/mattpocock/skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mattpocock/skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NzucMINMidJeUft4KiDAKcmgpLVdRblpnayR6I2ftTH7N6X7VoJwGZwbCpr0Bu6XJ9r6QHrmCRcjsV1YIArj6SWU--ZefFf-vp37sxWTDg1PGCEzdbyle-PLRTGsTUHidPncVFDRmKXT4LrbjOFMyNod_ZzhH22dUqZ4N2FPPapbrtuwiEAT3o731W2GKsMGzjIgDbWZ5Q-99RuxYgVaRds1aTozjlAkh5WpqvAnoLe_l8aWaANv8DqeT0Sr-h2DGsYKhzFiOBiB1cCm05R-bjmexfIQ0zW9O1m2wIhkQ6rsnEeY_YvXu5l3r5G4waQcAo1efD4YCCd85m5GrlDK8A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینکه میگن هوش مصنوعی می‌تونه افسار گسیخته بشه و بر علیه انسان ها در بیاد ایده خنده داریه ول نمی‌شه ردش هم کرد.\u003cbr/\u003e\u003cbr/\u003eشرکتا تمام سعیشون رو می‌کنن که داده های خراب مثل فحش ها، خرابکاری ها، کارهای بد و... رو از فرایند یادگیری مدل فیلتر کنن اما مشکل جایی شروع میشه که یک قطعه پازل رو حذف کنی خود مدل میتونه حدودی با بقیه دیتا هایی که داره کشفش کنه حتی مدل می‌تونه از الگوهایی که یاد گرفته، ترکیب جدیدی بسازه که تابحال ندیدتشون! پس این ایده افسار گسیختگی ممکنه یه روزی به وجود بیاد البته بازم راه حل های زیادی برای کنترلش هست ولی یه روزنه کوچیک هم ممکنه کارو خراب کنه اگه مدل دسترسی و permission به دنیای واقعی داشته باشه و قدرت پردازش زیادی هم داشته باشه ممکنه واقعا افسار گسیخته عمل کنه. بخاطر همینه اکثر ایجنت ها توی اپدیت های جدیدشون دسترسی مستقیم اجرای فرمان هارو ندارن بجاش از API های مصنوعی و کنترل شده استفاده می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "اگه دنبال یه جایگزین Local برای ElevenLabs هستید، VoiceStudio رو ببینید یه استودیوی کامل AI برای صداست که می‌تونه روی سخت‌افزار خودتون اجرا بشه؛ بدون اکانت، API Key، اشتراک یا پرداخت به‌ازای مصرف در workflow لوکال.\u003cbr/\u003eقابلیت Voice Cloning با یه نمونه صدای کوتاه، صدای گوینده رو Clone کنید. حتی 3 ثانیه نمونه هم قابل استفاده‌ست، ولی 5 تا 15 ثانیه معمولاً نتیجه بهتری میده.\u003cbr/\u003e\u003cbr/\u003eبا قابلیت Text-to-Speec متن رو با موتورهای مختلف TTS به صدای طبیعی تبدیل کنید.\u003cbr/\u003e\u003cbr/\u003eبا Voice Design حتی لازم نیست نمونه صدا داشته باشید؛ می‌تونید سن، لهجه، pitch، سبک و نوع بیان صدا رو توصیف کنید و صدا بسازید.\u003cbr/\u003eبا Video Dubbing ویدیو رو Transcribe می‌کنه، ترجمه می‌کنه، speakerها رو تشخیص میده، دوباره با صدای مناسب تولید می‌کنه و خروجی ویدیو میده.\u003cbr/\u003eبا Voice Isolation صدای گوینده رو از موسیقی و background جدا می‌کنه.\u003cbr/\u003eبا Speaker Diarization تشخیص میده هر بخش از فایل صوتی رو کدوم speaker گفته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/debpalash/VoiceStudio\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/debpalash/VoiceStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T15:34:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qTEI5NLfD2FFXt-wfHpqL0t4KzL822fXrmsIUD_EHq-KzkUs_OJGPMm7riJUwxjnanWrj4FdQGBHEheGywTZCL_hNLQJsobevn3dkKZeiEN4IkUVdW37pQ9sgiQIUUg8tt8K1r5B2DI8hLmyfafTAF7Ukw6d9lMPrFm3jQsOqjHKtcKI7AzxzvVujy42IbtVb_Qft0XFzIosZRT0c-klOTu9SyJCJdkUi69PBKpIFKw096LBOyKTvU9P7DJWbK0yM00Sfsy0kHHH8Jjf622bBKEvEzyUrKamaE566E1byawMPcUO1eahiMC3hBIMVfDJC5ITdD-F9lDxwtPQAgwFNg",
-          "width": 960
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e آخرین مهلت ثبت‌نام در شـانـزدهمیـــن دوره «کارآموزی همراه اول»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e کارآموزی همراه اول یک دوره ۴ ماهه رایگان، با هدف افزایش \u003ca href=\"?q=%23%D8%AA%D8%AC%D8%B1%D8%A8%D9%87\"\u003e#تجربه\u003c/a\u003e و \u003ca href=\"?q=%23%D9%85%D9%87%D8%A7%D8%B1%D8%AA\"\u003e#مهارت\u003c/a\u003e دانشجویان و فارغ‌التحصیلان جویای کار است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e اگر اهل استراتژی‌های رشد، قیف فروش، بازاریابی دیجیتال و ایده‌پردازی برای کمپین‌های بزرگ هستید، این فرصت ویژه را در بزرگ‌ترین اپراتور کشور از دست ندهید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e ۲۴ موقعیت شغلی تخصصی در گروه «بازاریابی و کسب‌وکار» منتظر ایده‌های خلاقانه شماست!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e مزایای دوره کارآموزی:  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e فرصت استخدام در گروه همراه اول  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e پرداخت حقوق + بیمه در طول دوره کارآموزی  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F85.png\u0026#39;)\"\u003e\u003cb\u003e🏅\u003c/b\u003e\u003c/i\u003e منتورینگ اختصاصی و کسب تجربه در معتبرترین شرکت‌های حوزه ICT  \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e   ظرفیت محدود (پیش از تکمیل موقعیت‌ها ثبت‌نام کنید!)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e برای «ثبت‌نام رایگان» و مشاهده موقعیت‌های گروه بازاریابی روی لینک زیر بزنید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://l.hamrah.academy/eo2\" target=\"_blank\" rel=\"noopener\"\u003ehttps://l.hamrah.academy/eo2\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/hamrah_academy\" target=\"_blank\"\u003e@hamrah_academy\u003c/a\u003e | آکادمی همراه اول",
       "date": "2026-09-04T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +30,7 @@
       "date": "2026-09-04T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7720,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +48,7 @@
       "date": "2026-09-04T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +60,7 @@
       "date": "2026-09-04T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
+      "views": 8550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +79,7 @@
       "date": "2026-09-04T22:30:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8070,
+      "views": 8370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +91,7 @@
       "date": "2026-09-05T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +109,7 @@
       "date": "2026-09-05T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +127,7 @@
       "date": "2026-09-05T14:55:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6110,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +145,7 @@
       "date": "2026-09-05T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +163,7 @@
       "date": "2026-09-05T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +175,7 @@
       "date": "2026-09-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +194,7 @@
       "date": "2026-09-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7190,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +213,7 @@
       "date": "2026-09-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +225,7 @@
       "date": "2026-09-05T19:41:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 7770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +237,7 @@
       "date": "2026-09-05T19:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
+      "views": 7850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +256,7 @@
       "date": "2026-09-05T20:51:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 7660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +268,7 @@
       "date": "2026-09-05T21:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 8170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +279,50 @@
           "url": "https://cdn4.telesco.pe/file/qfBCwci5s0l7ARhrZwbCaa1XrK8U30ci_OtFv49Xjoc5xm2FxWCSSAG4dKtTHo9XkgYEmFEalaRmr_xdZJOYpPcEEw5Q3vbiiE2_gprf8roSfSv8c5-X5rMxzJNCHgYSPEXv-y1Hzj09YQdZgr3ppTjLAX_RNhQnqfEkKW3NSuIpBRLVMd_xFhywDkpxsS1OQ1uPIRWgPStqBZj15gsACvTuZO3x0EfWeYJxGfWAUqjyTizoz2LEZmaPZQguQAkiiOuzQti5Au6aJlkDii4YvP2pUEOaWDcQhj4YYHpnIPKk3S0GpWEJs2kUSfJLMO5L_lPuqn3N13JHmlHfu4E1bg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه سری از دوستان بابت این حرفم اومدن ناسزا گفتن، من از این به بعد سعی میکنم اگه چیزی بخوام بگم منظورمو واضح تر بگم دیگه جای خالی رو نزارم بر عهده شما (امتحان که نیست اینجا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003eمنظور من این نبود که تبلیغات تلگرام زیاد بشه و باعث اذیتی شما بشه، من منظورم این بود پاول دورف تلگرام رو به سمت یوتیوب شدن ببره یعنی تبلیغات شخصی سازی شده و حرفه ای، اینطوری اتفاقا شما تبلیغ کمتری و مرتبط تری می‌بینید و هم درآمد تلگرام هم میره بالا هم تبلیغ کننده ها چون تبلیغ دقیقا روی تارگت خودش انجام میشه و هزینش هم خیلی بالا تره و در نتیجه تولید کننده های محتوا، پول بیشتری میگیرن و محتوای دست اول و بهتری (مثل یوتیوب) تولید میکنن؛ اینطوری شما وارد تلگرام میشید کلی محتوای خوب و تازه می‌بینید چون تولید کننده هم دیگه خیالش راحته درآمدش رو داره. کسی فکر نمیکنم الان از یوتیوب ناراضی باشه چون در کنار تبلیغاتش واقعا محتوای دست اولی تولید میشه توش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T09:23:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه نفر با ChatGPT 6 Pro توی 30 دقیقه یه کلون از Google Maps ساخته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://chatgpt.com/share/6a9d0fc0-d2c4-83eb-b003-e1243b9018bb\" target=\"_blank\" rel=\"noopener\"\u003echatgpt.com/share/6a9d0fc0-d2c4-83eb-b003-e1243b9018bb\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T11:01:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/kAMIr0Ex9D0PILk7xEq2RX8ve-e2KQ7wp1KCW0ex-cvsaTBtT4Hpc1Ez97RERWaSTjlVAHdogtT3w2zCSiPUnYUE0kVpSiSKLJuxPiWQnC4bOBDvKAvHkJ9VIHyfgp3KgYNsp7FfxJKt0e2DZoFwd_UmkfHVZL4VrBB0ROSR2dVEm2m6aDjkPIqGAMLnILdD10w_tzW4IfXDV9JWA80A_7wapeuHOy73JIFrr1t2kYZlRHlCqfvpPgOAgLKAXacsOLZfmuNW1eCkzWK0VWTDLvf6XXSap9KqAb5E1TZ4sqwAJnkkG8WZvbo4lrG3pK7myl8xzWO3Dy9mYVfe5d7dAA",
+          "width": 1210
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "عارف : ممنوعیت فعالیت دستگاه های دولتی در شبکه های اجتماعی خارجی رفع شد.\u003cbr/\u003e\u003cbr/\u003e+ دستگاه های دولتی: آخیش از زندان آزاد شدیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T11:53:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1788685378
+  "last_updated": 1788699548
 }
