@@ -8,90 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "گوگل یه مدل خیلی خوب برای پیش‌بینی سری‌های زمانی ساخته به اسم TimesFM یه جورایی میشه گفت Foundation Model برای اعداد و زمان؛ به‌جای متن، الگوهای داده‌های زمانی رو یاد می‌گیره و آینده رو پیش‌بینی میکنه.\u003cbr/\u003e\u003cbr/\u003eبا TimesFM 3.0 حالا:\u003cbr/\u003eپیش‌بینی Univariate و Multivariate\u003cbr/\u003eپشتیبانی از Covariates\u003cbr/\u003eبدون نیاز به آموزش مدل برای هر Task\u003cbr/\u003eعملکرد خیلی قوی روی بنچمارک‌های اصلی Forecasting\u003cbr/\u003e\u003cbr/\u003eکاربردهاش هم زیاده:\u003cbr/\u003eپیش‌بینی فروش و تقاضا\u003cbr/\u003eمدیریت موجودی و زنجیره تأمین\u003cbr/\u003eمصرف انرژی\u003cbr/\u003eداده‌های سنسورها و صنعت\u003cbr/\u003eتحلیل و Forecast داده‌های مالی\u003cbr/\u003eمانیتورینگ و پیش‌بینی متریک‌ها\u003cbr/\u003e\u003cbr/\u003eیعنی به‌جای اینکه برای هر دیتاست از صفر یه مدل Forecasting بسازی، می‌تونی از یه مدل Foundation آماده شروع کنی.\u003cbr/\u003e\u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"http://github.com/google-research/timesfm\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/google-research/timesfm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EHMQC2V3b9D3dD7f90zNxidxP4yf6N-BHfEYmYhhyZVrbcRb3q4a5QsyUyzTITTAsjlRU5EUqgWGi6uN768r6edJLHWAeS9RfXueLb5gB1KCZbuxIjq1wvdBbgWVRlw8zbA6VjRRWJ3JDErVR6tbMZlrPH6U1UetQ2jwVScpSltJ1h8Jnbhy8Y4yEuDl9wtvoa4nI16fvyi7EjbHKg3DAFdi19mazRPMUWcJu8cvFBCYD4VeR1zkRAtWmV-i4Jjmvi9iiF_Bk21hTTuz8YIyJVPpCdI4510kPzyNyXCMZJHGqA8J3WgA1kTgjzfZM3yhuAgQfDgUnG6K3pFjIc4iIg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من اگه از مهندسی کار خوبی پیدا نکنم ایده 10 جوجه رو پیاده میکنم ایده اینطوریه که 10 تا جوجه می‌خرید با تولید مثل و تکثیر حرفه ای طی دو سه سال میشه به درامدی حدود 10k دلار یا بیشتر رسید، ایدش خیلی قدیمی  و امتحان‌پس‌داده و سال ها تکرار شده و همیشه هم جواب داده فرمول ها رو روش نگهداری هم کاملا ثابت و مکتوبه و توی اینترنت هست.\u003cbr/\u003e\u003cbr/\u003eجالب اینجاست این ایده ممکنه در شاًن بعضیا نباشه و ترجیحشون مهندسی و کارای کارمندی باشه ولی این ایده درامدش قابل توسعه و پسیو هستش یعنی میتونی تقریبا بخوابی و پول دربیاری ولی مهندسی هرچقدر هم کت شلوار قشنگ تنتون باشه همچنان حمالیه و به اندازه کاری که کردی بهت حقوق میدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "یکی از کاربردهای AI Agentها اینه که دیگه فقط بهت جواب ندن؛ برن خودشون کار رو انجام بدن مثلاً وارد LinkedIn بشن، سرچ کنن، اطلاعات جمع کنن، فرم پر کنن یا یه workflow کامل رو انجام بدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ابزار یه Browser مخصوص Agentها که می‌تونه از Session و Loginهای مرورگرت استفاده کنه و Agent رو بذاره پشت فرمون:\u003cbr/\u003e\u003cbr/\u003eنسخه مک (نسخه ویندوز و لینوکس هم بزودی اضافه می‌شه):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/citrolabs/ego-lite\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/citrolabs/ego-lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/pzWymHutBen0kfD_JoYvkeNL-YgvoGMdVI-WzQZRhAIqzAOrS7X3L2Tiig_4RvBbPMcrfbJ7LdHTSnv9zdvoLc7IDxpQFhVgSUPIrvZZdNErPALsZIlx2DqUFQrt5Oo_iqkYWm0fnW1g0A6kPJQx6-FJ21Yf4WAFXIlTuaXcavtODkCnkVzNKyE1g1JaLvecnyZJwkZ1iMQT-1eUYDLV9QRF8vocOMw_XnBmEar5XdVoQnonesYEgdhTlyT7MI2YgACHQ69Q1ep5n9Q1vz3ZiLB3KgBdWT0fCymycqqF_kMgOf-YNgZGHth_9Z-ZdaQ-MoIY4n1kh59GMsLAcRFQ9w",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من حس میکنم تا چند سال آینده بخشی از شبکه های اجتماعی معروف فعلی جایگزین می‌شن و رقبای احتمالی جاشون رو می‌گیرن\u003cbr/\u003e\u003cbr/\u003eحالا چرا؟‌ چون تعداد محتوا های آشغال هوش مصنوعی توی شبکه های اجتماعی فعلی می‌ره بالا و غلظت مطالب مفید میاد پایین اگه نتونن با این محتوا ها مقابله کنن و حذفشون کنن کاربرا به مرور پلتفرمو ترک می‌کنن، حالا برنده بازی کیه؟ شرکتیه که پلتفرمی بسازه دربرابر محتوای هوش مصنوعی مقاوم باشه و به شدت کاربرا جذبش می‌شن و به مرور ممکنه جایگاه شبکه های اجتماعی فعلی رو به خطر بندازه. البته حذف ناگهانی نیست حذف به مروره مثل کنار گذاشتن فیسبوک به مرور بخاطر فید ضعیفش (و دلایل دیگه).\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-04T22:30:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5375373393119975845\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجشنواره \u003ctg-emoji emoji-id=\"5382132232829804982\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/37E283A3.png\u0026#39;)\"\u003e\u003cb\u003e7️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروزه تروی آغاز شد\u003cbr/\u003eبا کد تخفیف \u003ctg-emoji emoji-id=\"5393480373944459905\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/30E283A3.png\u0026#39;)\"\u003e\u003cb\u003e0️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5381879959335738545\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرصدی رو تمامی سرویسها\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4958699241137505132\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eکد تخفیف\u003c/b\u003e:\u003ccode\u003eTROYOFF\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5882206313169035691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eسرویس ویژه ترکیبی نامحدود•بدون محدودیت کاربر(درست شنیدی،محدودیت کاربر نداریم)\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5215486050046062421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eویژگی ها و لیست کشورها در تصویر بالا\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6188045471118790922\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبا بیش از 40لوکیشن در سراسر جهان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5215677360774324968\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eسقف دانلود/آپلود نامحدود\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5258258882022612173\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB2.png\u0026#39;)\"\u003e\u003cb\u003e⏲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبروزرسانی مداوم و تضمین اتصال ِباکیفیت \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5212936673423274058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7AC.png\u0026#39;)\"\u003e\u003cb\u003e🧬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبدون افت کیفیت تا سقف 50کاربر همزمان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6048463895901769909\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F979D.png\u0026#39;)\"\u003e\u003cb\u003e🗝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eتانلینگ هوشمند و مقاوم در شدیدترین محدودیت های منطقه ای\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958699241137505132\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eهمین حالا از ربات سرویس تست بگیر و خریدتو نهایی کن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215229232476596064\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/TROYVIPBOT\" target=\"_blank\"\u003e@TROYVIPBOT\u003c/a\u003e\u003ctg-emoji emoji-id=\"5213358684024877471\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-09-05T14:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DHv_VNS2OoVjP13Dy6PTBK8Eh0Qjt0GQSBEB4lZouYWWj0qjkwPvGETAkHJ4aP26KgMdGPGzfjLazseCRms5HSyx2hLq-nKrcViT4_ijl-H-BC6tJ77VM2RjEEGq2yyVWKEGksMhuguvA202dItOaFxOiEFal-w20LNH8N46Ix8gdeJmtSmvR_PwOBUBRSCgaIJ4TAGVVAV3BHiDAwM3Olax3K3lXPr5xOKRYlyN3C5kE6JFgf864EnMlAZtZxQInHRLy_8sslvIIKfpJltYpJ0Urdi95TlFXSQs8LEte3L9WRhV2qdqyI2oIXhwKaA9DMeiBrYsbZCguciHdK7q3g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این ویدیوی یوتیوب سرعت دیتابیس پستگرس و مای اسکیوال مقایسه می‌کنه رو ببینید!‌ پستگرس توی بنجمارک ها بهتر عمل کرد البته به این معنی نیست که مای اسکیوال چیز بدیه چون تونست 10 هزار ریکوست برثانیه پردازش انجام بده یعنی حدودا ده برابر ریکوست هایی که به سمت سایت توییتر میره و این برای یه سایت معمولی که شما می‌خواید بالا بیارید خیلیه! \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtu.be/R7jBtnrUmYI?si=A_p0RregN_kYwurO\" target=\"_blank\" rel=\"noopener\"\u003eyoutu.be/R7jBtnrUmYI?si=A_p0RregN_kYwurO\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-05T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +30,7 @@
       "date": "2026-09-05T14:55:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +48,7 @@
       "date": "2026-09-05T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6830,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +66,7 @@
       "date": "2026-09-05T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +78,7 @@
       "date": "2026-09-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 7350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +86,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ez_LiTZ3gyhcn5zf0W3UJuhSY_BFvr_QONcyJbS4Tm41WmpSSP9AVaCJsteE6wvHayrptFspQsMdOUbXuPy8M_8WlpHZve23ddlgENVfedFsb1EUa_c_Ji4Hp73juw3oswUyxqGd0aJGrp-FGpfqxLWQOMC70gN9S6Gnn_jRzH7KaHZm1J4VdFoBfC-48idBoisc2VlcyQl8Q6MREHEBz3s6dUyVb3aoBhHyRjmo5PHbwlzOqjedwB7Sj8YMt-a2MIpOV5QQKS1r_7iHHsLQ-padKOUckCuHDHudP6GWXHIez166c9VwTN8LWXNS6fdNAh6SqVqPMSBOjSQv5xSWBQ",
+          "url": "https://cdn4.telesco.pe/file/vgJQTVDwPPbK59T1o9BRUoxQ1Rre4hT-4PjMxliCqSdClXoXw5gK3Zx7FxC0XCfW-eueJj2U0y1gVnbSiJE9mp6mPqvdBVE3NY6syA8j3KVxlFCXIGNiq6dnwziQPxtQ4tnBCc3os2Sk_4lelST5FS3dnzxGjf9shZ-IA7UC0HXDy3ALao4qfxHqKJFfEtwFuDILAfjm-TYcjl7SAsuw6ncXiwKlqzJYfDEkUXyQgGeOly1faWXC6-I0aG2qNvAMxcnX0xsvCCrb__K1UQapTgh2RJhulcZag8_lwvCtmXWWusHjO9TD-tSGjTPCEu9kWX8c5gOALart8ntPHvhIlw",
           "width": 1280
         }
       ]
@@ -176,7 +97,7 @@
       "date": "2026-09-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +105,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/veVG4kAr_QVBu1Dcsbjl9tLcRIDnr7sEVemjkwDVeNQOyl2cj99YjFJqAIODYPm91wg4HixATmjZrN-5Sq69f0YjIbhd4pIXwA3Z23XANrmUU2n7sgocDAzIyqRmFSR0JJPHf6PIbk_JHgTsDbAB7wNTY5sXnpbwArOfl9rz5gammj0tz08FaC7JqQK08CUTHvSq8RkRsk-Uh8U2nPAODfoX8A-6A4czgib_wcbFDc8v--8JQXDor_YXvwSIPTcB-v2QNqrREh2jXwWoNeMm7_PFj0lpdlo2cOiKhDbAj-sICPUwZ-noPwGM99Tgt8I4mbeHFLFRMOrXMi_SN3laOQ",
+          "url": "https://cdn4.telesco.pe/file/tHWb2rzSRysLOJMp5d9CEQa3S9o_42Q3YpbdYVNfJi69NL8EX1GKnYBbBChmagKI6DSY7su0t5EUMelhCzv81WYYui2zPo-4BcxPxBEWw3oGO0tleNJVoQrxVmZTRQ_5YA00ntxfCPMizelmxOYOQL4O3cVZbQqB3i5Wo4cMiIfH06NSVmC6Amv4uvRA2tpGHiG6JUGYuLuIulMVKPm9wVy1KCcNeVgliWieKDV53ijRCumq2wS4BucrRERZERGh3I_fKwNnw3HJ8thIitJNgCeJBe77d4XOBx4aZ07PKEcDQPLlQZWdd0wTvgyo5J7cvEgmgBufoD6IObZcDe7dWA",
           "width": 1820
         }
       ]
@@ -195,7 +116,7 @@
       "date": "2026-09-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7950,
+      "views": 8189,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +128,7 @@
       "date": "2026-09-05T19:41:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 8270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +140,7 @@
       "date": "2026-09-05T19:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 8450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +159,7 @@
       "date": "2026-09-05T20:51:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +171,7 @@
       "date": "2026-09-05T21:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8740,
+      "views": 9140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +189,7 @@
       "date": "2026-09-06T09:23:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +201,7 @@
       "date": "2026-09-06T11:01:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 7280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +220,7 @@
       "date": "2026-09-06T11:53:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +232,7 @@
       "date": "2026-09-06T15:37:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +243,94 @@
           "url": "https://cdn4.telesco.pe/file/fOZddt8qHeXlaX2eNGflYFBXLB-y9z4FOTunqEDSq4srBxjAmKNdw2MAPyqMoLXUQAnDIBdnKFzCmULv2TR8kCmwEFaXWGdz8fuQjV4QCE5o-9RB4aUpjwy9pt8U1LDmw7zD7aKTWuaIsxIEhC_pb-bq8JMQztdoszuzp9q7mLbOIEFP9OjL4e95_prVduN57e57h_ICZRxjmqrZJg07iJEYS-XZr7WVbvVuHxL91wVvxeAPXj6xSGjLH1fGlJEBZ8yR7OPSZtH28jnoRbXcInxU3ACUhmpbbifFK7wtZc7JheC2f5T7a3zT4GWx6fzD0gQER-Xa8IzqNkajj8eZUA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5215557810359639942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآخرین فرصت ثبت‌نام در المپیک فناوری ۲۰۲۶ | مسیر پردازش داده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321153068845245772\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  مسابقه پردازش داده یک رقابت \u003cb\u003eبین‌المللی\u003c/b\u003e و \u003cb\u003eرایگانه\u003c/b\u003e، جایی که می‌تونی مهارت‌هات رو در کنار شرکت‌کننده‌هایی از سراسر دنیا محک بزنی و برای کسب \u003cb\u003e۲۰۰ میلیون تومان جایزه نقدی\u003c/b\u003e رقابت کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5343998927605615404\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با ثبت‌نام در مسابقه، \u003cb\u003e۱ ساعت آموزش تخصصی رایگان\u003c/b\u003e شامل بررسی و حل تمرین‌های دوره‌های قبلی المپیک فناوری هم در اختیارت قرار می‌گیره تا با آمادگی بیشتری وارد رقابت بشی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه مقدماتی آنلاین همین آخر هفته برگزار می‌شه؛ فرصت ثبت‌نام رو از دست نده!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6043992250831082249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ثبت‌نام رایگان:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5292122921035133343\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AB9.png\u0026#39;)\"\u003e\u003cb\u003e🚹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://quera.org/r/mmnni\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/mmnni\u003c/a\u003e",
+      "date": "2026-09-06T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MO7Vz48yVq7HyNgGTFcu-Ac7Folhj3uqGUdBD0I4sKxlTHlmB_sq-g6lmeeMsSI0OzBEw5Bh-fUJ6DVRXUr3be4Ps2zemVJuyMWnBhdiZKgQaXUN99WSyCsQAqLwWHsd5Ruln-O_4wZad7eQo48CbAQqfgeyk-JHg_FDgwAM9Kk1baLhzQxOnwMnheBhzRjb2Su85PWOClUMpU7WvXuY9aEjXDROY3OZIVVGdYDJpKqL5_6_ZKTkmtJygIMnvzUzXWfssf1cvmJ0cWqN58s7doS7k0CoH6-gYaFiEv5q_kkn5KdJMD_rlFAv4m8GTUyASBb7DSOhX6mrZAedNo7uqw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر یه محیط محاسبات عددی و شبیه‌سازی شبیه MATLAB/Simulink با چت جی پی ورژن 6 ساخته که مستقیم داخل مرورگر اجرا میشه.\u003cbr/\u003e\u003cbr/\u003eدیاگرام بلوکی، شبیه‌سازی، PID، حل معادلات دیفرانسیل، ماتریس، FFT، رسم نمودار و حتی اسکریپت‌نویسی به سبک MATLAB رو داره.\u003cbr/\u003e\u003cbr/\u003eکلش با HTML، CSS، JavaScript و WGSL ساخته شده؛ بدون بک‌اند و بدون فریم‌ورک‌های سنگین.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://wieslawsoltes.github.io/AxiomStudio\" target=\"_blank\" rel=\"noopener\"\u003ewieslawsoltes.github.io/AxiomStudio\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/wieslawsoltes/AxiomStudio\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/wieslawsoltes/AxiomStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T16:44:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/XM6jU6_6LUNrnz8Jtiu3s3lnvZkKqmUrlFNy0V_3NSXfj-ilAIr1F6ucbuv7TfvKrGVGdu1-ieNvzr0cKNt-ex_2NA7ky-6Lj4kPHZ-S57Fgwya64GsM9s3USNt-UTxqQhsszp5BcbE1hXB8tODuruUiIR8anHvw4k0hlS15qVxnjvGlD8UvcyPlOkH2jGMwcS5vSk4_lkxbdDY6FDktt6xBktEo20BmSPHDsLjUL5bh72ICMWMTpu-whrGFWhqMXABp9cyyfs6OYRGX18fXEqC3BsrBD5mucUm33sCdYxM2q5xqy4R0jz1RPB4Tom1ZbZnwnLcb4N4p4GqKVx6xqA",
+          "width": 1288
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینم ایده جالبیه برای کسایی که وب کار می‌کنن (با هر فریم ورکی یا حتی html خام) می‌آد و کنار پنل بقل براتون 2700 تا ایکون اضافه می‌کنه و روشون کلیک کنید مستقیم کدش به به پروژه اضافه میشه دیگه دردسر سرچ کردن توی اینترنت برای پیدا کردن ایکون رو ندارید کنار دستتونه :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://marketplace.visualstudio.com/items?itemName=DevChauhan.reicon\" target=\"_blank\" rel=\"noopener\"\u003emarketplace.visualstudio.com/items?itemName=DevChauhan.reicon\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qYMTrxoKeFyVRahsJ9LHhgx3AXN_quGiSDSg5Jxo5eIIbZqmZPYj3qlBftdT6mZsYcfMx6mzLR6PFMKtsvcYbG1Ql6bpfDo_T3qJYUqPRc8MWPY8J2zoVlzbjgbz1coClqHGW4VEW7AT00RBIcDFzI9trYT-RXNgFhZxDGU-vqDCuguujC5YifXZ9M8yDdwCzNnEfqeDtORgOjjasi6B4f4-t9dWjAp6MWCDPpqrMLy6F4yElosQmhRGQI_NbsYVoEdSOuoCrCJGOLlY-69adZd1Y4zuM7U8HuLusyWWZ_GftucKbtcvvQ_c-ndOcwIMKy1xSgDP-BD7d98ofrdjxg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعضیارو می‌بینم هی دنبال اینن رزومه باید چه شکلی باشه و هی دارن مو به مو رزومشون رو تغییر می‌دن ولی غافل از اینکه کلا وضعیت کار توی ایران شخمی شده یعنی مشکل رزومه شما نیست نیازی نیست روش خیلی حساس باشید اگه واقعا نیرو لازم باشه خیلی مواقع اصلا رزومتون رو موشکافانه نگاه نمیکنن یه نگاه کلی می‌ندازن بقیش رو دعوتتون میکنن مصاحبه اونجا ازتون می‌پرسن... \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T17:14:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "ویدیویی دست به دست می‌شه که جی پی تی 6 آسترا، مونالیزا رو با فوتوشاپ کشیده!\u003cbr/\u003e\u003cbr/\u003eالبته نظر کاربرا اینه آسترا خودش مونالیزا رو نکشیده. در واقع اول با براش یه چیز شبیه به مونالیزا کشیده، بعد بهش گفته شده از ابزار Pattern Stamp استفاده کنه تا basically تیکه‌هایی از تصویر مرجع رو کپی کنه و روی یه لایه‌ی دیگه پیست کنه.\u003cbr/\u003e\u003cbr/\u003eحتی اون براش‌کشیدن‌های اولیه هم اصلاً ضروری نبوده و فقط برای این بوده که تصویر یه جوری به نظر بیاد که انگار واقعاً با دست کشیده شده. ولی به نظر میاد هنوز به اون مرحله نرسیده که بتونه واقعا خودش بکشتش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-06T17:51:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oz9RlgvBNSLU2geoaTreRDsK-FoquiCxvk9kKDkU5BgEISsbi_NntxTT8iZ-1rkwzl8A9Sawb4Qi-OzWv2J0MRB8kwXPUvd70XsS89aY10hC5_R6TUr3OC2LZ1EVyOhLADF88p69W-JRZohVpsp73bCH1JRMQ6vnRTh6FbnFdbgBXl3rtboFqcHf4AJmOdVufP3O3CDXblKmlG_bl6ym8p5SHctBBJ6mBpO-jv62ZV4OA9DJPseAnUPynyCpI2SIHI79qfCVr2HJfyOq5UvJ7yVN1sjYvhV7QKLMFSaYQ0y7PpyDPMnrecfdjyKRtLe66AvUy_46rX7V4IX7hdriZQ",
+          "width": 1670
+        }
+      ]
     }
   ],
-  "last_updated": 1788710393
+  "last_updated": 1788717918
 }

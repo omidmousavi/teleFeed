@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "توی دنیای سیستم‌عامل‌ها و کامپایلرها ما مفهومی داریم به اسم خودمیزبان (self-hosted).\u003cbr/\u003e\u003cbr/\u003eخب این یعنی چی؟\u003cbr/\u003e\u003cbr/\u003eبه سیستم‌عاملی که بتونه با همون tool chainها روی خودش بیلد بشه میگن خودمیزبان، مثلاً ویندوز روی یک سیستم‌عامل ویندوزی بیلد بشه.\u003cbr/\u003e\u003cbr/\u003eبه بیان ساده‌تر مثلاً من یک سیستم‌عامل کاستوم می‌نویسم و بعد از اضافه کردن کامپایلر و این‌ها خودش رو روی خودش توسعه میدم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر کامپایلرها این به چه معناست؟ یعنی کامپایلر اون زبان توی همون زبان نوشته شده باشه، مثلاً کامپایلر زبان سی توی سی نوشته شده یا کامپایلر راست توی راست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Self-hosting_(compilers)\" target=\"_blank\" rel=\"noopener\"\u003ehttps://en.wikipedia.org/wiki/Self-hosting_(compilers)\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-03T17:45:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 836,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "احتمالا این رو هم بذارم توی برنامم و با خودم کنار بیام که توی همین شرایطی که هستم یک دوره pf برای شروع ضبط کنم چون برای خودمم جالبه، خب به هرحال آدم که نباید همه چیز رو بلد باشه، با همین کتاب و اوپن بی‌اس‌دی میریم جلو :) \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو انگار قابلیت چت یوتوب هم برای من فعال شد، نمی‌دونم به چه دردی می‌خوره ولی خب این هم یک راه ارتباطی ایه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://youtube.com/sharing/invite/Uq9s2GtVIiSgXssq\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtube.com/sharing/invite/Uq9s2GtVIiSgXssq\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-03T21:09:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 787,
+      "views": 793,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-09-04T08:33:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 719,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +42,7 @@
       "date": "2026-09-04T08:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 593,
+      "views": 599,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-09-04T09:39:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 717,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-09-04T14:08:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 748,
+      "views": 762,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "date": "2026-09-04T17:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 679,
+      "views": 686,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lasRXNHjwiS-waFXs39gXE0SxFT7ILbhpwnTA4n-tSlo5nQyUGCJYirSm-iZjCiryyrMXaucnnU4nMrZeK1AZ2e_NBb1_z66n0qI-9knOSSekoCrQ2ihdvqnsAzL-2OURFrp-cO7pFWNMuDo9sm7X0bK7ll46IsHOTfcJetWfNvyV4A5Kkk2-XGC-vGg8m110QrCG4MgADS5V4NwDh_XUlSRPj06s3r-BCSLeyvaJXMhtrHByx12pVcHc3u4yVlRGOteBjB88yDT_llVMrsIiAksVxTOZIIKOP33iIk0c17zhMTe15ukXjXYYmR3mUgoTw-JeErnnqT2gHJmqv3Ltw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Bp5dBz2Vj22oNCtHlAdRC9YYyreGUIr621UHpy7bR7MuTryfG_i4f8byF_jSGeK4GyCvZv8dZGpnGBGkHLpUSbSniXkGeoHd-gocRzHzN2ZX-ZjPimtayIOef8j_9JNfxsxKD92zMuxmxkx4_rXbLg_AIMh2SKV0iXAABEt9VERLkTuH7olqK_5ZrVIt1_BFulllNiUkaBe3tUSgVXTPtAKRzYLh3GtsfqYDgk6RgI-vyHtY4Vpnt3zWfoalkYnzLTtOnn6b9nCBE60ZS4-oUpLMGwNMSxG3YZDHqf6j7TFHMUE_6OwoAtEkb5uX-fHzyYMuv-LX98f7qee7mnCT5g.jpg"
         }
       ]
     },
@@ -114,7 +102,7 @@
       "date": "2026-09-04T17:37:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 687,
+      "views": 709,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +110,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Wp9kmE8rVKfBOHP3qho5F9j17n5fgF1JNphKKsd-R1Uz5B2AThSWVn6T8s2pnL9bpB034XSvJvifEz5o3sJ_HxgcErWKuacA4U3n5TjXIBhO7ouvsu7_8m2j86B9Kr1pg7J2irIs6uMV41sI5xdWIZWKf8jAiHM6CJOaJcyFHLP_O5zCPFQ7UknVpe87Iw6HE-foZ0GKaAxywMPOSesseI6dIhTtuiNo6qVTRHPY3MhUC3wDBNdpMYjdTYnP8toIQb1uRAiTZ6W37yp60i8BVvn47Qp8QJC66pJX_0HnvJYXOsOFkZS9PX0DDSjBe6_NUj1kYsUBvXE3ZnozkF855w",
+          "url": "https://cdn4.telesco.pe/file/rIWqmMOC7G7Q8BzD7MP5tvBD54Jnk26dVGXa7hpSUWtjvwRE0wbYGsr7MB1_dNWG-37XA6m8oQhGLHcj5nGq691-DVh7tXTyHygeVs6Mu1pKTl9jz6JCeT3ehVgtCuwwD18uqpnP8COC402bh5bGUm2uwI4fbgx3goBClaUbRMQspT6xI66_C2ZkJd_GcoTmxtYC_sAOCLaxOZ4ZJaxE6JDPUZnm6jfMXaQyVT-27ptjXdsFMozyaNjiZhfI28cQeu6T_i2Dq4N1-QRQUrj-jMFNi4Y2yLGN6PmI-oNpH-uLQFXlV33PTvTTZW3PdQ2BbpDYuzuR9PjQSZnyYKO1zQ",
           "width": 1920
         }
       ]
@@ -133,7 +121,7 @@
       "date": "2026-09-04T18:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 635,
+      "views": 663,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +133,7 @@
       "date": "2026-09-04T21:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 529,
+      "views": 552,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +152,7 @@
       "date": "2026-09-04T22:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 455,
+      "views": 485,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "date": "2026-09-05T09:01:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 376,
+      "views": 447,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +212,7 @@
       "date": "2026-09-05T10:32:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 438,
+      "views": 527,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "date": "2026-09-05T10:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 353,
+      "views": 451,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +241,19 @@
           "url": "https://cdn4.telesco.pe/file/HNeKg-DT8y16ItMJX2xmGLYvReTbbGmzrHAYAyzubno9CmtJpw0rnuaSkqSiX_HPZdoN8_XVh1mA1I2jmwo4DWABE9cWTfrKb30XUGyY_LwaXaTEXYNORRD1EsIMLchFj5gyZKDnLUeWrQAXYYS7CJapxUcAiHB-CEC0VZ6ycTq3AlbTAgClam97Wn8vTfxFjb1qY83JTV3LxG_jbqk_TdLsInWF3UO9Z5T3SwmaSAJlcPOVWC0grh90nUUGpi3Vrb5uDU94CI-QifYpGov9qEXECPBD3EAWCzo4tYwPTxMjvQbA_SlHaBDjscKngnf75VCwrhqt7g7CZLMiESLqDg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "در نتیجه ابطال گواهی‌های اینترنتی (ssl certificateها) با عرض تبریک خدمت همه نسخه ملی (رانتیش) هم راه افتاد و الان همه سایت‌های دولتی و بانکی دارن میرن روش :))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو شک نکنید به زودی بازار مرورگر ملی دوباره گرم میشه و از اونجایی که این بیلبیلکی که هوا شده توی Trusted Root ها نیست شما برای استفاده از خدمات بانکی یا دولتی باید درکنار پیامرسان‌های ایرانی، مرورگر ایرانی هم نصب کنید.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-06T16:24:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 418,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1788710434
+  "last_updated": 1788717961
 }
