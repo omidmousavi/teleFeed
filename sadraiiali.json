@@ -3,28 +3,16 @@
     "id": 0,
     "title": "AliReza SadraiiRad",
     "username": "sadraiiali",
-    "photo_url": "https://cdn4.telesco.pe/file/cBWK5cfGLIpHQ9OYcfpWgC74vGCF6CWEBVKvPhm7E15HWOqaHrPbyHbFDWHXu_rtLarDm6Xe1NjeO5jAMhh1B7_1wHMx_gbeNFQImAtVgifGn_cFLDmKcTPqSMUJWMBZxUyXN0Q0fJt4ek65kFbkvzCUIjafJzoCM_MVUerwo_V4EVASGRDf9KbnNO7UAV92nlqgrFifpSGIEbvMVxFs14FJ7CY5uZUzTpaYpTfrT_lUwEodWPGehBH6NcFVhxdxXuBOeEdeQAHI4C9M7X6pAPCEeygwuUT4NZROVoFRW4ypoODqnlYwUtDwYfwMtbX4hMOJPvRWQGYwlMZ7ZqrqBQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/WCP-QQRK8MWU9TMVEq-rlQAuwqZrJlM3a2CebAlxaSaf3iUTCFpM4f-ZiRjWuiumiRCpbqQdJnQfGr_8sACpgjKm5hpHDQgjL81cYWyhvJtPTwRZF-Zf6HR3RgKhF6j13nnr-pf1j-syWvfNBa5cAH0tnBwn6n8Kdn-0mi3zaf_fqmlTvPaxDGC_CznRXKt87FpUWY-dzl_5IwJ-clO1cJ8_TeSKC9kQmIBNrqaecu9fbiR86-I-WdrTQbB_S3Tlm7UsFg56T__309zd56ELc8kM0RkLT34qowjHsfX2KdfLfunR-E_C_aNbjuF8c0Y2G_ztZeHM59opNBXLcTJVQA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003eWhy open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/KodeMunkie/sm750hdmifb\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eArticle\u003c/a\u003e, \u003ca href=\"https://news.ycombinator.com/item?id=49501611\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eComments\u003c/a\u003e",
-      "date": "2026-08-30T19:39:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 183,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
     {
       "id": 0,
       "message": "خوب مهندس الکترونیک که نداشتیم.\u003cbr/\u003eیعنی دیزاینر علاقمند هم نداریم؟‌ :))\u003cbr/\u003e\u003cbr/\u003eهدف UI عه گوشی هست.\u003cbr/\u003eو کلا پروژه‌های فان دیگ.",
       "date": "2026-08-31T12:32:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 169,
+      "views": 170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-08-31T13:17:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 177,
+      "views": 179,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-08-31T15:30:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167,
+      "views": 169,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-09-02T15:33:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 154,
+      "views": 160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-09-03T15:31:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119,
+      "views": 120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "date": "2026-09-03T19:05:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 129,
+      "views": 132,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,11 +80,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/LHzbz8jJKkFj2h69xmH8CzXwCDKhNJ8xydHfEGPb6x_HcFTVX-SZjoQ4modlgclGMrvKl3ncfZlqWhIkFYN-EF6n4G3hXJK4j5-D1wRokmFHt9oVhRtK3lB5mos692VytW4Ss3kvLNBn2wXL_YtA8qzeDdHMMzaYdcMfdG0aUvCs_XpW_sI_4gw6Fmgn8mBH4K0cP7V9nE94i2OGvOPe5Mrsnulpl6spOt5JL0gi7iywW3-YgGBLdezcDoXCaEF-9UcgSOvX44tkH3rBs0lSDmB6R0fD8JUSCMVau6xHeo38giMj6LQFTpOFGoeEoNRNgLssMal6wO2cMfjH9XSpoQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/WVCJpwwdR4BHwUTB1i22504HK1axk19sq3cDCUEURXk3quQYUY5D2VxqML7bPBBacqwsSEh5wf980zhsrTvhdsMTJyd31uGOt8qJUNOYk6Il9N-U4H6JzAGZD8OYL7gOmJTjFQsZxcW2hRS9Qeq2Wr2GzB5u0ETAH6475_phV6sINR0DFW71lWkODm5B3EXRmFijwbnWDOeBFhe2ozpWGPfWVdEfQFO7dQKdmQfJJYHRZbjJRBVYQHGUf6xMa9YzqBb22RInuQVNQHJ4_fi8JeRpRFoMJbDbaPDBFf5mEmkwhraVmgc-6wMV0Ub0uBMsKbR9fO5Qx4QIXDkdRfBaRw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JOaI5VsuoVi3A0qXLTURhvF4cWS6vL4DTrQSYAmUS_Um8xqr-neTQCRFcsbm0pxR-ag8rl--fAZs1-QOSsCSGZ6FkAQ22eqBScQFG7rtXtBx08Ws1R4r8Po48UbBjDxXIXQc99lugJpD93S8rIs231fe0CpGgdcBFM0-BZL4fO7COHrl1ZUoZWsYVQ8dpgyIgrFi9aPWkLOL_SepUB5UMRLY5msJ6a9W7Rl9kQAoTk7eXgN-RU_PF7XqcUcUyRC5HvOkSnHRA8vFkllMGDZea-AvvnZ8xZRedDLK5t7VqYKXgHI0GooSbsUkY2ks9Efq109nhTccxYG05zmDLM07Lw.jpg"
+          "url": "https://cdn4.telesco.pe/file/NlGF1AeeccERgtSpocZOzzs2kg5EfmYUSacarWk_VbigWBDtIAII-NWVtTZ9XOZFKC6QLwpsKHQoMFtheYtFFcXT9KYMrztu-JLVTVM0ibjGxxh9aJZiGecj2hKME4VUDQJuqN_TGpQURLbuagKMkSLfpBcy0F1j8pts0O698DxgHDv0jcPVj_Lc_026OD7Vcnl6vfN61ovdLurmeeRdlP02xX3iEH53-A7StAXp2m8TwfGvFTMJbbpoECs2rgmdXpCOwkVWBdnCUaju0QEhsVVri6ngy6cZUQeoiy4lHVhETumNOSpPJh0QxcZyCauRE4vmqX4GYk2KsIGQdoh2VQ.jpg"
         }
       ]
     },
@@ -106,7 +94,7 @@
       "date": "2026-09-03T19:05:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132,
+      "views": 138,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +106,7 @@
       "date": "2026-09-04T06:18:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 135,
+      "views": 141,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +118,7 @@
       "date": "2026-09-04T11:21:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 129,
+      "views": 131,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +130,7 @@
       "date": "2026-09-04T15:32:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137,
+      "views": 140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +142,7 @@
       "date": "2026-09-04T22:28:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116,
+      "views": 119,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +154,7 @@
       "date": "2026-09-04T22:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124,
+      "views": 127,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +166,7 @@
       "date": "2026-09-06T09:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 96,
+      "views": 110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,12 +178,24 @@
       "date": "2026-09-06T09:18:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82,
+      "views": 99,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "چقدرررر عجیب بود !!\u003cbr/\u003e\u003ca href=\"https://whiteout.plgb.chatgpt.site/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://whiteout.plgb.chatgpt.site/\u003c/a\u003e",
+      "date": "2026-09-07T07:58:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 54,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AliReza SadraiiRad"
     }
   ],
-  "last_updated": 1788757485
+  "last_updated": 1788777248
 }
