@@ -3,34 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/P8n1eDmvK9gJgc4IjbAjx9X5Opgc8VkWH7gjsKkhk9Pmg3kO9t2MIDZhNgFRs-QtDKAvxzfT-UfKbqfUTz4fRNTG42heMR0LbOdrdsSp-8qk38DJcY46hamLzIPp9pdK5CNUSePANESrKE86FnTPHd4AwV-px2W6nOOAPdB_N8n8HAAQqLitNtKgc1XIAa6jjHNe1YDf8zQwxXNpRFFQkdwPuHOQHPE2HfroOq-wUsiwVYevwj2Xzq9aRPak7uAib73KShBG92RkQX1uabbbizH-aVOq0geGtUuUHfaW_37hlz0QQQFTWp9RDux66wncFIm1XD-TMMGEgBotzmm11A.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/gr2_gtb-Zmv-EuOatBSpEVP2kIBsTuPq7qjoYRNgabwDQIL807tQSgpO277s6NfWajS71FLIhIIGRA6yxidOgskobHeAelEMN7pDn6DCovHByNRvalHjLnhDhMThZs73Ccscgx3FvEnbvcoZ6-gwJ0iwPRnjtxkLnN9cCYeVXgp5WypW9p9BQJDNv5pmO6pPa-KzaeAN8fSL_Go0xSljR2oFYjQ1oUKpbF9PEogtrEBqNA-4tMTyuaOq8iKoXT94oN6kMuN76331JvX2lwqef8YgtCjlzYok2ixG4cCWdMM0LcWcNIPJn5ilZSj7rDXO4DOdnM7U_jUM_q80QA-Oug.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "خب انگار RSA-260 هم شکست :)))\u003cbr/\u003eالبته جای چندان نگرانی نیست؛ RSA-260 یه کلید RSA مدرن نیست، بلکه یه عدد چالش قدیمیه که برای تست فاکتورگیری ساخته شده بود.\u003cbr/\u003eدر واقع چیزی که شکسته شده خود RSA نیست؛ یه نمونه‌ی مشخص و نسبتاً کوچیک از RSA فاکتورگیری شده.\u003cbr/\u003eRSA بر این اساس کار می‌کنه که:\u003cbr/\u003eN = p × q\u003cbr/\u003eضرب دو عدد اول بزرگ راحته، ولی برعکسش، یعنی پیدا کردن p و q فقط با داشتن N، خیلی سخته.\u003cbr/\u003eحالا توی RSA-260 بالاخره تونستن همین کار رو انجام بدن و دو عامل اولش رو پیدا کنن. در نتیجه، اگه کلیدی از همین عدد استفاده می‌کرد، دیگه امنیتی نداشت.\u003cbr/\u003eولی RSA-2048 یه داستان کاملاً متفاوته. RSA-260 حدود ۸۶۲ بیت طول داره، در حالی که RSA-2048 دو هزار و ۴۸ بیت طول داره. با بزرگ‌تر شدن عدد، هزینه‌ی فاکتورگیری به‌شدت زیاد می‌شه.\u003cbr/\u003eپس این خبر به این معنی نیست که فردا صبح همه‌ی RSA-2048ها رو می‌تونیم بشکنیم :))\u003cbr/\u003eاتفاقاً بخش جالب ماجرا اینه که ببینیم دقیقاً چطور تونستن RSA-260 رو فاکتور بگیرن و چقدر منابع محاسباتی براش مصرف شده.\u003cbr/\u003eاگه یه پیشرفت جدی توی الگوریتم‌های فاکتورگیری پشت این قضیه باشه، اون‌وقت داستان خیلی جذاب‌تر می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-04T14:08:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dzx51FFfuG47PscEh859QDLBtBJ4E5vuCQAfnn1260XpXqGrbVOchXWWqsfpH73FHjJw2lJ9mTZhboaZ9ORfCE7b4Rdjvra3LA7miDchtYBY_hkpTJfnr9MFhc0WerYYjVWwxmAAwDjG9DlkYHnLQ9xSY0XQvWzlR9hkcr1dHRU_kpnCVl-wj3c38Zagkoei3DtwhV45F-CNAeB-lZGD0uyCi65-rfG1ACCrcv3zSz-dapX_ZhBG1qo0xbLCfP79V7CsFIdw5LpJioeIiSf8DLZJrLQtiC2lz1LN9XhQAsK60CnfzRPsgLSGORbdHfpFbnZdtLNgznIqc1t0KBUkaA.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "خلاقیت «گاو مارو ندیدین» رامک از گروه صباایده بیشتره، این چیه آخه.\u003cbr/\u003e\u003cbr/\u003eتبلیغ اپارات موزیک هستش دوستان :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-04T17:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 726,
+      "views": 731,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Bp5dBz2Vj22oNCtHlAdRC9YYyreGUIr621UHpy7bR7MuTryfG_i4f8byF_jSGeK4GyCvZv8dZGpnGBGkHLpUSbSniXkGeoHd-gocRzHzN2ZX-ZjPimtayIOef8j_9JNfxsxKD92zMuxmxkx4_rXbLg_AIMh2SKV0iXAABEt9VERLkTuH7olqK_5ZrVIt1_BFulllNiUkaBe3tUSgVXTPtAKRzYLh3GtsfqYDgk6RgI-vyHtY4Vpnt3zWfoalkYnzLTtOnn6b9nCBE60ZS4-oUpLMGwNMSxG3YZDHqf6j7TFHMUE_6OwoAtEkb5uX-fHzyYMuv-LX98f7qee7mnCT5g.jpg"
+          "url": "https://cdn4.telesco.pe/file/f5atl67QCYePsddVC0WayWxgYRsM_sed0PJZufLqJkgIrPTLvxZk2vI4F37I2LaTYIwRWPx56amCsIfQT9pcH0GI1QuhK1l9YBwFoae_IeTiws1epPKt-mJZSYCAz9tArpS1Yq3CiDwbULbYmCW1MQaQAOi4oHKhtqld0YKUzBb4u7IDtHQSv42hM9P6uhVGiyLsBpKun9O75YFxaeCbtMHoRrdNkCv5GoXUjQ8Fv9_a4VYt89Xhol7tyyhUKPDu1wlDCNs0LKTJfF0Pvd709brEpUm8y0sAX6TFvgVsfy029RLTF1aB60hdZSZ_ktISY3ssujWWeuWbWuVZ2DAZWQ.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-09-04T17:37:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 760,
+      "views": 765,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rIWqmMOC7G7Q8BzD7MP5tvBD54Jnk26dVGXa7hpSUWtjvwRE0wbYGsr7MB1_dNWG-37XA6m8oQhGLHcj5nGq691-DVh7tXTyHygeVs6Mu1pKTl9jz6JCeT3ehVgtCuwwD18uqpnP8COC402bh5bGUm2uwI4fbgx3goBClaUbRMQspT6xI66_C2ZkJd_GcoTmxtYC_sAOCLaxOZ4ZJaxE6JDPUZnm6jfMXaQyVT-27ptjXdsFMozyaNjiZhfI28cQeu6T_i2Dq4N1-QRQUrj-jMFNi4Y2yLGN6PmI-oNpH-uLQFXlV33PTvTTZW3PdQ2BbpDYuzuR9PjQSZnyYKO1zQ",
+          "url": "https://cdn4.telesco.pe/file/EjzBIYDm7T_4cgrdYHzRlOZ3ei49on6yn-OqkdPaF79bjs1gVG6sjvfdDcGOi0F5XDaMIMW0rIjS-cOa9rejlZ2pJ6p-N3mp0m33vQ0nX1NvoOV_ToW8ApBzXKJbJ6MiFxlmcyjha7M0iDZ4xfyh1D2UoxKPUiAD3fj8kjaqNerfcKKrqrNOIcqWrF_EGCvYJz_Xhm_Opgolx6_8uLMMqUjx3f8LKgeJhx2CDugI2s3c4fscBKEYA3GFG96v-5T1bruD4hj1QfZN2upg2bWBVmMWOvndvIgjr5VRx28mIS1g_K74n3nHD229JK919dLMau2-K3aUb6qhubHCevwZLA",
           "width": 1920
         }
       ]
@@ -67,7 +49,7 @@
       "date": "2026-09-04T18:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 735,
+      "views": 743,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-09-04T21:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 640,
+      "views": 648,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "date": "2026-09-04T22:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 554,
+      "views": 563,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +122,7 @@
       "date": "2026-09-05T09:01:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 579,
+      "views": 590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +140,7 @@
       "date": "2026-09-05T10:32:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 687,
+      "views": 699,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +158,7 @@
       "date": "2026-09-05T10:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 616,
+      "views": 625,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +176,7 @@
       "date": "2026-09-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +188,7 @@
       "date": "2026-09-07T05:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 559,
+      "views": 601,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "date": "2026-09-07T10:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 481,
+      "views": 541,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +219,7 @@
       "date": "2026-09-07T12:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 376,
+      "views": 460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,12 +237,24 @@
       "date": "2026-09-07T13:23:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 277,
+      "views": 403,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "در این صفحه از وبسایت آپادانا سعی کردیم که به سوالاتی که درمورد این پروژه پرسیده می‌شد پاسخ بدیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apadanalinux.ir/fa/faq/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apadanalinux.ir/fa/faq/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخواندن این صفحه از وبسایت آپادانا خالی از لطف نیست و به شما کمک بیشتری می‌کند تا با پروژه آپادانا و تفاوت‌های آن با پروژه آپ‌استریمش یعنی پرشین آرچ آشنا بشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ApadanaLinux\" target=\"_blank\"\u003e@ApadanaLinux\u003c/a\u003e",
+      "date": "2026-09-07T19:03:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 191,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1788797571
+  "last_updated": 1788811433
 }
