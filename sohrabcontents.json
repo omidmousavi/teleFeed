@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کاربراتور (با K) که نسخه پورت شده از کاربراتور دانیال بهزادی به کتابخونه‌های کی‌دی‌ای و بهینه سازی شده برای کی‌دی‌ای هستش الان خیلی پایدار شده و به خوبی هم وصل میشه :))\u003cbr/\u003e\u003cbr/\u003eبا تنظیمات یکسان این زودتر از اون یکی وصل میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-04T08:33:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 732,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lyncCuLUu0-of7g9zyHRVXsUHNeUZYH_Met7zmGLTi1cH6G3vcGnT-8miXs57Vi7L6wD8TR_IuYBwsUMqcN-qmDE3Y5wS4xB6R5QPztnmbrdGRHAuxbgCdEWjbQlpFTCQCBWEnfrp9I1MJ6kQf8nXsNlsZd6O0oc0wmrAr2R-2CF7pMmTB62Y089DQs61tXo7cEg7VrchWwcDqJ_gFAswB98sxLN3-uAhG-RnpPdgZAePl0ZFZvo6bVc-TM2ytvcFfHfbdBYZmU60jiY3EduWwQ3nikzquTMFDWNGYJ2-e2Lvnw5nfv0zkpkL7bXJWUeVfbv3hJOV5fbSdpCGndVOg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مخزن فلت‌پک پارچ هم اکنون در دسترس است.\u003cbr/\u003e\u003cbr/\u003eاین مخزن یک نسخه پروکسی شده از فلت‌هاب بالادستی است که در اینترنت ایران به سختی قابل دسترس است.\u003cbr/\u003e\u003cbr/\u003eنحوه استفاده:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003eflatpak remote-add --if-not-exists flathub https://flathub.parchlinux.com/repo/flathub.flatpakrepo\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eسپس لینک مخزن را به مخزن پارچ تغییر بدید:\u003cbr/\u003e\u003cpre\u003esudo flatpak remote-modify flathub --url=https://flathub.parchlinux.com/repo/\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eامتحان کنید و بازخورد خود را با ما درمیان و این پست را با دوستان خود به اشتراک بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-04T08:52:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 606,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://x.com/SBehdani/status/2095807761158123979\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/SBehdani/status/2095807761158123979\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپست مربوطه در توییتر.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-04T09:39:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "خب انگار RSA-260 هم شکست :)))\u003cbr/\u003eالبته جای چندان نگرانی نیست؛ RSA-260 یه کلید RSA مدرن نیست، بلکه یه عدد چالش قدیمیه که برای تست فاکتورگیری ساخته شده بود.\u003cbr/\u003eدر واقع چیزی که شکسته شده خود RSA نیست؛ یه نمونه‌ی مشخص و نسبتاً کوچیک از RSA فاکتورگیری شده.\u003cbr/\u003eRSA بر این اساس کار می‌کنه که:\u003cbr/\u003eN = p × q\u003cbr/\u003eضرب دو عدد اول بزرگ راحته، ولی برعکسش، یعنی پیدا کردن p و q فقط با داشتن N، خیلی سخته.\u003cbr/\u003eحالا توی RSA-260 بالاخره تونستن همین کار رو انجام بدن و دو عامل اولش رو پیدا کنن. در نتیجه، اگه کلیدی از همین عدد استفاده می‌کرد، دیگه امنیتی نداشت.\u003cbr/\u003eولی RSA-2048 یه داستان کاملاً متفاوته. RSA-260 حدود ۸۶۲ بیت طول داره، در حالی که RSA-2048 دو هزار و ۴۸ بیت طول داره. با بزرگ‌تر شدن عدد، هزینه‌ی فاکتورگیری به‌شدت زیاد می‌شه.\u003cbr/\u003eپس این خبر به این معنی نیست که فردا صبح همه‌ی RSA-2048ها رو می‌تونیم بشکنیم :))\u003cbr/\u003eاتفاقاً بخش جالب ماجرا اینه که ببینیم دقیقاً چطور تونستن RSA-260 رو فاکتور بگیرن و چقدر منابع محاسباتی براش مصرف شده.\u003cbr/\u003eاگه یه پیشرفت جدی توی الگوریتم‌های فاکتورگیری پشت این قضیه باشه، اون‌وقت داستان خیلی جذاب‌تر می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-04T14:08:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 781,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GnuAVwR_YJK-Z-nOUHJpF4XDx7ikWRzLnKT5iRqjF-JXXCPkAmtBnIAlM38sRQR15HlG7IoRsJlqmw1on5394ejSOMCzcoDNrYajaS6ItHVMD-avzy_DoLG4ysp8aBKLGx5k-kBroyuVivQz0qe1vTZAbNdTHRhgHaUX1FXWNzIDcv_2qH9SoNM6Tj7zUq5JMtFXVp9363APjOjG9vdyj6NQn0fsV70QzYrvpjoq6d5x1lf0qJYmFLdM1z_nimkAkNXkNUXkkdogLlArqoHI8py-zK2S-xYj3yYA4uuhKrbY9Bryyi_4mcVcHNcvhFgssiOXfNOSMyi0CjXZKqT8zw.jpg"
+          "url": "https://cdn4.telesco.pe/file/dzx51FFfuG47PscEh859QDLBtBJ4E5vuCQAfnn1260XpXqGrbVOchXWWqsfpH73FHjJw2lJ9mTZhboaZ9ORfCE7b4Rdjvra3LA7miDchtYBY_hkpTJfnr9MFhc0WerYYjVWwxmAAwDjG9DlkYHnLQ9xSY0XQvWzlR9hkcr1dHRU_kpnCVl-wj3c38Zagkoei3DtwhV45F-CNAeB-lZGD0uyCi65-rfG1ACCrcv3zSz-dapX_ZhBG1qo0xbLCfP79V7CsFIdw5LpJioeIiSf8DLZJrLQtiC2lz1LN9XhQAsK60CnfzRPsgLSGORbdHfpFbnZdtLNgznIqc1t0KBUkaA.jpg"
         }
       ]
     },
@@ -72,7 +30,7 @@
       "date": "2026-09-04T17:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 708,
+      "views": 726,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +48,7 @@
       "date": "2026-09-04T17:37:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739,
+      "views": 760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +67,7 @@
       "date": "2026-09-04T18:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 700,
+      "views": 735,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +79,7 @@
       "date": "2026-09-04T21:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 598,
+      "views": 640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +98,7 @@
       "date": "2026-09-04T22:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 520,
+      "views": 554,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +140,7 @@
       "date": "2026-09-05T09:01:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 521,
+      "views": 579,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +158,7 @@
       "date": "2026-09-05T10:32:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 623,
+      "views": 687,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +176,7 @@
       "date": "2026-09-05T10:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 554,
+      "views": 616,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +194,7 @@
       "date": "2026-09-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 848,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,6 +206,55 @@
       "date": "2026-09-07T05:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
+      "views": 559,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "یک فورک از os installer گرفتم و این به صورت رسمی نصب کننده پارچ ایموتبل خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-07T10:43:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 481,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/In48xIKw8hMd8kJgTWaEbMak9-ChGHsllsz9_nhHwyUURKS2rejKw45XHAOi74GjD3iRpD2qCUP9AyZLPViqSyeWasn2Yru_0eMcZEjOy6LW2W-1su1CoP5SmQQMRFAM7Y6WUScpFt6AR4uut_3VJaPYWBTobVJtR7r7CzgJpaBv72Rk8ZhfabmnlphoQL3wCB6iEcL20maD2vw1-D-kKsdYt0Aqvc6hlnvlilgEIG-xIJWXr2_ZTqlo6LFp_WmHJzhAI1REWVbEIdsDR13r-KoqMbih9wpiSV0tNTC2PeoaCbCgWecEJqeDj_fLjX_Yliply_UxmKyzANJf1vJOew",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من بعد از سالی به یک چیز از مانجارو نیاز پیدا می‌کنم.\u003cbr/\u003e\u003cbr/\u003eواکنش صادقانه دوآپس مانجارو:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-07T12:35:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 376,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IF5Lldjj0FYu9grejDkkt9CnxdWekT2zHEA30MGpvHGjJnBmUwyAB8l1ypBtaX9okDhgExeMV5W3J_Lu8HVRERJN_F9KDigsBCZwgqMzwRRb8Ti_NJdR-HDg0p2Sy_WbC-VKxeMjagLFCJGh3VHs_Jtj0fu-ROR3dpOx1j7oArlB23v6AgQKnMo5FRGPPCuwszEjEpNHP0Nsg3YwZD3YOunTjYtd70X2tIAFO6dbuvguY_Fq2yQNmQbicf9T_S1F3TyCa6QM8l5_KhMO1LSixgmqSHul61ctQUGSUWTqxHJ479yU6y2Kv9QRhwUT8N7N9tHbAVfSOv5gSpJL-H8Xtg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من این رو تازه دیدم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.phoronix.com/news/Linus-Torvalds-Debug-AI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Linus-Torvalds-Debug-AI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتوروالدز با هوش مصنوعی سر یک چیزی درگیر بوده و تهش هم هوش مصنوعی رو مجبور به انجامش کرده :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-07T13:23:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
       "views": 277,
       "forwards": 0,
       "replies": 0,
@@ -255,5 +262,5 @@
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1788777241
+  "last_updated": 1788797571
 }
