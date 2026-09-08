@@ -8,80 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه نفر یه محیط محاسبات عددی و شبیه‌سازی شبیه MATLAB/Simulink با چت جی پی ورژن 6 ساخته که مستقیم داخل مرورگر اجرا میشه.\u003cbr/\u003e\u003cbr/\u003eدیاگرام بلوکی، شبیه‌سازی، PID، حل معادلات دیفرانسیل، ماتریس، FFT، رسم نمودار و حتی اسکریپت‌نویسی به سبک MATLAB رو داره.\u003cbr/\u003e\u003cbr/\u003eکلش با HTML، CSS، JavaScript و WGSL ساخته شده؛ بدون بک‌اند و بدون فریم‌ورک‌های سنگین.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://wieslawsoltes.github.io/AxiomStudio\" target=\"_blank\" rel=\"noopener\"\u003ewieslawsoltes.github.io/AxiomStudio\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/wieslawsoltes/AxiomStudio\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/wieslawsoltes/AxiomStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-06T16:44:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/q72dXd6i6NUXU8IEGI374YSjMiy5Eu0OpyAilG_zwkwePdB4Z_b2BtNdSM_kuCNClFFiZ5EmnLYiBlMPGrzvjf7Qby1S-wk2KI9KKlCGMN-cLssRhT4KdHrg2AaSruaDD5gFho9OL8NKn6lLba2LiFmVXIdh18wuZ_omaZ6HqD5TNpQplNqUH1bYf3_ljcb802xuJ7E_vNmkZIuIDO_5x9tokkY1OLpHPD_txjDz6otwKgTYgvkeR9rrhobekOw5h81IA9dM34s0xaKTBVyBwVgDmxaBzvnpTtsDeXebanu0qBxK-xDBiL0e-qOiegRADLzkWm2YHR-GLWAqc5lIaQ",
-          "width": 1288
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینم ایده جالبیه برای کسایی که وب کار می‌کنن (با هر فریم ورکی یا حتی html خام) می‌آد و کنار پنل بقل براتون 2700 تا ایکون اضافه می‌کنه و روشون کلیک کنید مستقیم کدش به به پروژه اضافه میشه دیگه دردسر سرچ کردن توی اینترنت برای پیدا کردن ایکون رو ندارید کنار دستتونه :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://marketplace.visualstudio.com/items?itemName=DevChauhan.reicon\" target=\"_blank\" rel=\"noopener\"\u003emarketplace.visualstudio.com/items?itemName=DevChauhan.reicon\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-06T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dXRvu77anwMBwVoaek1ZB6M4dksV6B3faie_RIeHzg6mA4mTOUgaok6u_-emeD1CBidtdAeTmC5pTQyyFjtHFqqWG3IwCSqC6hLhSilW6kVN1-nHQmrpQB3ZNPdneEkxEZbNi7cyu1JUR6Yro2hy3jojm7CF_5EfN2-8Y1E48Ssn4U7nc-aQiiB54VGa0PCg2aOIc0fNG11qg7iO3SNZ-ns-BUgmIrkOWQgq3dc71wvzwZTuNNOWfeGYpRMCMP1u237yxRvs7x4aUSn95j0Lt3vHzGGcvDCpFJZ5iKX2TM8yTBmhnN4JnaE6DjZ5Gi5A2Tl3BsabRCWAMb29YnpMZg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بعضیارو می‌بینم هی دنبال اینن رزومه باید چه شکلی باشه و هی دارن مو به مو رزومشون رو تغییر می‌دن ولی غافل از اینکه کلا وضعیت کار توی ایران شخمی شده یعنی مشکل رزومه شما نیست نیازی نیست روش خیلی حساس باشید اگه واقعا نیرو لازم باشه خیلی مواقع اصلا رزومتون رو موشکافانه نگاه نمیکنن یه نگاه کلی می‌ندازن بقیش رو دعوتتون میکنن مصاحبه اونجا ازتون می‌پرسن... \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-06T17:14:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "ویدیویی دست به دست می‌شه که جی پی تی 6 آسترا، مونالیزا رو با فوتوشاپ کشیده!\u003cbr/\u003e\u003cbr/\u003eالبته نظر کاربرا اینه آسترا خودش مونالیزا رو نکشیده. در واقع اول با براش یه چیز شبیه به مونالیزا کشیده، بعد بهش گفته شده از ابزار Pattern Stamp استفاده کنه تا basically تیکه‌هایی از تصویر مرجع رو کپی کنه و روی یه لایه‌ی دیگه پیست کنه.\u003cbr/\u003e\u003cbr/\u003eحتی اون براش‌کشیدن‌های اولیه هم اصلاً ضروری نبوده و فقط برای این بوده که تصویر یه جوری به نظر بیاد که انگار واقعاً با دست کشیده شده. ولی به نظر میاد هنوز به اون مرحله نرسیده که بتونه واقعا خودش بکشتش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-06T17:51:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/V3RWzycRZ6rZTHJnJ90R0VygKXmdhS5dMLVlQBiF9QDnFLSlQD5mlY7JN4w9cd1wsQjH32r5jwcfkuzjE4oAYTJvJhKYOnKCFaPi4bdoumB1kX-fx5YI9QsrD0EBGYpXlDPzMYvJq-aVVJeDYnnZRvM0voz6E_ZIYFvbmR5W9-1jlArvMzZahhMPQJhMxLzrCFZRQKZYnCSZnqiQawppk0d8IvnGH5rMiVdpzyW80dOyE7WlfRqKzNDGL47GCM60ZY1nU1MylHXi-_ZL7fSNI1dvxGhskEPmTEBtnbAVfA85dvmfI-409x2rIrBeYD6lYj8p3G9MRNX_2LPcWGAxvw",
-          "width": 1670
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"6192907764939889234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید اقساطی و مطمئن اشتراک و اکانت‌های محبوب با بهترین قیمت در ساب‌مارت!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397681122542893003\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eChatGPT\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eGemini\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5208665212483310136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eClaude\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5789911984283586269\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتلگرام پریمیوم 3 ماهه\u003cbr/\u003eبا خرید اقساطی \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eفقط قسطی \u003cu\u003e900\u003c/u\u003e هزار تومان\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206361550939506453\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاسپاتیفای پریمیوم 6 ماهه\u003cbr/\u003eبا خرید اقساطی \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eفقط قسطی \u003cu\u003e965\u003c/u\u003e هزار تومان\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکی‌لینگ، کنوا، دولینگو و کلی سرویس دیگه...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6325485730260852916\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eامکان پرداخت 4 قسطه با اسنپ‌پی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برای دیدن لیست کامل سرویس‌ها و اطلاعات بیشتر به ما بپیوندید \u003ctg-emoji emoji-id=\"5172653165836763657\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR\" target=\"_blank\"\u003e\u003cb\u003e@SubMartIR\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMart_support\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپشتیبانی و خرید\u003c/b\u003e\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5337080053119336309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR/107?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eرضایت مشتریان\u003c/b\u003e\u003c/a\u003e",
       "date": "2026-09-06T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +30,7 @@
       "date": "2026-09-06T18:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 7660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +48,7 @@
       "date": "2026-09-06T18:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8460,
+      "views": 8670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +66,7 @@
       "date": "2026-09-06T19:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9330,
+      "views": 9590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +84,7 @@
       "date": "2026-09-06T21:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8870,
+      "views": 9130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +96,7 @@
       "date": "2026-09-07T01:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8380,
+      "views": 8680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +108,7 @@
       "date": "2026-09-07T08:31:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
+      "views": 8220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +127,7 @@
       "date": "2026-09-07T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6640,
+      "views": 7210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +145,7 @@
       "date": "2026-09-07T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +164,7 @@
       "date": "2026-09-07T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 7210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +176,7 @@
       "date": "2026-09-07T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +194,7 @@
       "date": "2026-09-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +212,7 @@
       "date": "2026-09-07T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 7000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +231,7 @@
       "date": "2026-09-07T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +249,7 @@
       "date": "2026-09-07T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,16 +263,70 @@
     },
     {
       "id": 0,
-      "message": "امروز تولدم بود به نظرتون توی کانال امروز چند نفر دیگه تولدشونه؟ جواب سادس : \u0026#34;دقیقا معلوم نیست\u0026#34; تولد چند نفر باشه ممکنه هیچی ممکنه 5 نفر ممکنه 10 نفر.\u003cbr/\u003e\u003cbr/\u003eبیاید با توزیع دوجمله ای با تقریب پواسون محاسبه کنیم، با توجه به اینکه 30k نفر توی کانالن به احتمال 95 درصد حداقل 68 نفر امروز تولدشونه. برای اینکه درک جمله ساده تر بشه اون 95 درصد رو به 100 درصد نزدیک میکنم (خود صد نمیشه) جواب میشه به احتمال 99.99% حداقل 51 نفر تولدشونه.\u003cbr/\u003e\u003cbr/\u003eبه زبون ساده یعنی به احتمال خیلی خیلی بالا امروز از حداقل 51 نفر از اعضای کانال تولدشونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "message": "امروز تولدم بود به نظرتون توی کانال امروز چند نفر دیگه تولدشونه؟ جواب سادس : \u0026#34;دقیقا معلوم نیست\u0026#34; تولد چند نفر باشه ممکنه هیچی ممکنه 5 نفر ممکنه 10 نفر.\u003cbr/\u003e\u003cbr/\u003eبیاید با توزیع دوجمله ای با تقریب پواسون محاسبه کنیم، با توجه به اینکه 30k نفر توی کانالن به احتمال 95 درصد حداقل 68 نفر امروز تولدشونه. برای اینکه درک جمله ساده تر بشه اون 95 درصد رو به 100 درصد نزدیک میکنم (خود صد نمیشه) جواب میشه به احتمال 99.99% حداقل 51 نفر تولدشونه.\u003cbr/\u003e\u003cbr/\u003eبه زبون ساده یعنی به احتمال خیلی خیلی بالا امروز حداقل 51 نفر از اعضای کانال تولدشونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-08T09:36:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
+      "views": 5500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "من درباره هیچ صنعتی انقدر محکم و مصمم نیستم که هوش مصنوعی بتونه جاشو بگیره ولی صنعت بازی های آنلاین رو به راحتی میتونه خراب کنه\u003cbr/\u003e\u003cbr/\u003eهوش مصنوعی های امروزی میتونن به صورت زنده تصویر رو پردازش کنن و سرعتشون هم واقعا زیاده و بجای کاربر بازی کنن و نکته ترسناک اینه این چیت نیست که سیستم های آنتی چیت بتونن جلوشو بگیرن ! چیت ها معمولا از محدودیت بین فرانت و بکند استفاده میکنن اما هوش مصنوعی دقیقا میتونه بیاد خودش بازی کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-08T10:11:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "خیلی از دوستان گفتن همچین چیزی غیر ممکنه که 51 نفر امروز توی کانال تولدشون باشه نهایتا امروز 2 الی 3 نفر تولدشونه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه با ریاضیات نمیشه که مخالفت کرد اگه بخوایم همینطوری ممدی حرف بزنیم من میگم امروز فقط تولد منه؛ البته توی ایران همچین تستی کاری نداری دیتابیس ثبت احوال که چند بار هک شده برید ازش یه برش 30k تایی رندوم بزنید نتیجه رو با ریاضیات مقایسه کنید تا بهش ایمان بیارید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-08T10:20:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه محیط توسعه (IDE) تحت وب، به سبک Visual Studio و قابل اجرا، که فقط با HTML، CSS و JavaScript ساخته شده؛ با یه موتور اختصاصی برای رندر کردن کد با WebGPU، قابلیت ویرایش واقعی کد، ابزارهای مدیریت پروژه و امکان اجرای ورک‌فلوهای JavaScript. این پروژه توی مدت 46 دقیقه با استفاده از GPT 6 Pro ساخته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://wieslawsoltes.github.io/ForgeStudio\" target=\"_blank\" rel=\"noopener\"\u003ewieslawsoltes.github.io/ForgeStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/wieslawsoltes/ForgeStudio\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/wieslawsoltes/ForgeStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-08T12:06:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CMabCgKj1E_2CZnEB8F2PcCNaELbl4zodBcOEIShA3oi3o0U2Xez9bzUJipLzLHT6BVamOnLr_wkGE1QA1o-4SAxarjXBtZo5qgD4RAd3CRoJFldqPmxtx0pYtPYxrTkUAY5vx6UMbn66KjLXAKI4Yv9yjA4Ftz9FRzOBaqQad4zhGPK-lsZ3kIKKHQSMZytQsjjUaYoAjItYU8ckazHvUqQMUzQeh8ztW24GeZ8uGLWXTI1O74JUUXKZhdP-2Vdlfbx6pkgoemEkIAZJl30uBkRW5CbuI170urXVv-204r8u7HYZAy8xU5ZRDJGkAr0IpboLf_8ceZzlFlPhh4yeA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکی رو توی اینستاگرام دیدم توی ویدیو می‌گفت یه سایت پیدا کردم توش کلی مدل رایگان و هوش مصنوعی رایگانه برای اینکه ادرسش رو برات بفرستم کلمه هوش رو کامنت کن خلاصه چندین هزار نفر کلمه هوش رو فرستاده بودن این برداشته بود آدرس سایت هاگینگ فیس رو براشون فرستاده بود\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eالبته دروغ هم نگفته واقعا راست می‌گه توش پر هوش مصنوعیه! منم یه سایت پیدا کردم توش پره توییته اسم سایته توییتره\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-08T12:20:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1788861294
+  "last_updated": 1788875959
 }
