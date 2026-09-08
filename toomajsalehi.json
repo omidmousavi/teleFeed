@@ -152,7 +152,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DAkYkluUaBjXnRofNx4xzzfYWS7mkEvvbjTVHemNcaqMka5gdB3mgVcrGvNSvrknUIAHsE3EWW5O3v-yyJNtb-Jc6Z_0hoDxXU4IZ3pBBPn8rOIV_kOlfnB5COZhDJlZx-lysUCJuTKGT5-bflF2xYlpx_hnxYCZC5xXQr_zZvBGyAWYBn_wStIFYltbdJqbzQUU2A5mFcJjtpSGvaq6iqXDI27GEiS4WojYhfb9kLsgP-4WGfJWAhnPzHnm2NoLnJzQ5RuBs-j2FDea00fMTYUq4-nzHcnhcdPAqKZ-pQTrZFiC00TUUA9oI3JlbyrhzkxfjWbHosbCoH82TM7Xig.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZmulL4utm95C0SUkJXu51qK_LOfxlal8nNpvfXBeMif9qBCzqnB8N6NUr1HpcypuMeNN9dKFPOEXLQIXNSp5r_9wEso6dNft1CAcLE1LRyIdGA4TR_hl5liJxmKKkfM9YeaN-Kg8PKAoYvT7_w6uMIVjiSEP9qo0jNFcjK8Spj9q4ukByweqE9Pe6pYYOZ3qJl6HbFzksRo4N0TFGetm6tV3vPJLLLG0BJcukuBd_iYoPWLXEBTftAgkeibAxKgs4VnGx4jEecGBBu62KZOWtw06mFQazkobb53M95cxyqIpGUZbdW-PNKM0m-eis_n92OFyMPPkA2StQhuaEb6EsA.jpg"
         }
       ]
     },
@@ -186,7 +186,7 @@
       "date": "2026-06-28T15:03:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +198,7 @@
       "date": "2026-07-02T15:21:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,5 +229,5 @@
       ]
     }
   ],
-  "last_updated": 1788828512
+  "last_updated": 1788845232
 }
