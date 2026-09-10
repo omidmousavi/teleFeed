@@ -3,52 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/l6cpTJbi52nnRPg6xMHyNgvCEwbqyxuqSQJyFZpinpJarFfqXhOqXpzu8gNtZaoGgM4RrJ9xHoty3EaSLUOfLT9bux_6utw4f3-Z9WBcRZx4IO_QDrhDNoKbTgTCx-ury1lY388geivuimQyMKsHAVOTC5kZHVNQybYqqxe6ranXT6xy36-TXX68Hqrjrnz3IdDJOJo5gDj4aL7F5Aq6jLzscpodZ5mm_sD9z66h96wXCBX2etS6vXcQybeNGIevINLg7g9pnmfk_v00-Qv0Xl-LiV0-XDyG9n73UBcuaoavkHWFe4NxD4whgFJlAzzWN-bBpGbR3w9eUyOPYEt8-A.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/hwId_K8-_I8If0DSvSoDptOx2mBz6SczQJmYbaTc7im7mYb8r9NO6rsSrsnKfMkDqZLXITRc2R8XsQoUlwYkerpMOtJUQUq6586xBCv5K9C2FweadKdyVvzXZBD09s4cKf_qA-7H9qt7_Vv_8JPTr-w2ymawlwCK47Fgm4f4Q-a1b33eGjzs2PMaqNDeOF29kplWb6LwtvTVXhFhtJspCI39Bh59a86RzJyw-ti2UgcNZPubWXpQ_a7mFDtSpJX4BkSYLPPZsiGKkKxbj6N__gqyfeDIgn7DFcyNMBhNj4-qkFs4D98MT-8LFY0tk6BFtbRO1b44k_xYiAYE4wf2gg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "خب از دیشب تا الان که نسخه ۰.۱ آلفا اومده؛ الان پیاده‌سازی اولیه از tray icon هم انجام دادم.\u003cbr/\u003e\u003cbr/\u003e(دوستان گنومی میگن الان منسوخ شده)\u003cbr/\u003e\u003cbr/\u003eهمینطور دارم روی نوتیفیکیشن‌هم کار می‌کنم و مستندات api‌های پلاگینش هم تدوین می‌کنم که اگر یک زمانی کسی خواست مشارکت کنه و پلاگین مخصوص خودش رو بنویسه راحت باشه.\u003cbr/\u003e\u003cbr/\u003eغول مرحله آخر همون alpm عه که بایند راستش مستندات خاصی نداره یا باید paru رو بخونی؛ یا از پیاده‌سازیش توی c دربیاری که چیکار کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-05T10:32:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 899,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GxahFHssy1G4q8mfytpjP4il6UgUzXOAKYphNK0arTDHQdkTCAVekakAQ8oVqnnhQ41sTcF_wyPPNQKf__WlLqPkdPL0ji2PV6hKMwo8EZNQCJODD8SJvBZZ0Kk0kTbvv_I3yK1X0u1HmEuHaJtznQd_CE3yBPlRZFEQkUTBETuW4pCCHW8KEvsuz09ARUeizwbJpXdOXFxR2xZFJdjEhBvFYIrjtlYBib7H9ylHC8u7kx-2E9WiBdpoihrfBupkCOyU_gaDx4RdmekIRhTNZHGYohkM_2DKnvFUXHpWfpSUkC-g_5HWM1KqCCmwTAzkl6lysJ3hLiKZF8Rdl4MAXg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eیک فروشگاه نرم‌افزاری برای Parch Linux \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین Pastor برای Parch Linux ساخته شده تا نصب و مدیریت پکیج‌ها را از طریق یک رابط گرافیکی ساده‌تر کند؛ یعنی کارهایی که با pacman انجام میدهید، از داخل یک محیط گرافیکی انجام میشود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/pastor\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/pastor\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/RepoFA\" target=\"_blank\"\u003e@RepoFA\u003c/a\u003e",
-      "date": "2026-09-05T10:33:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 882,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nQpIjGfpjg1LXzD-6_JmLMIqebqYhLZmWSquW_59z5MiZXOCwllEQKhqRxjsptMC9WiMli2X5cFzL8onr8A1Rfd1EdQccjeVFnWUhajUmk3sfemNGxU8C9GHdYGBoVbOXJs6_ICgqL3O1YwzO4L-kNWLkrjjq169p-ELW6vp574jQcnaQORmgk8LpaC9ny3glOyKmCzVLPYcyVzr5GjFs1wZtpt_PUaZXALXT5ZkK7zU5rCdf9rpWA_Ihm8Thz30z5vIik7yeg54Yga9zx6bIKYQJp1BbEsJEdZrChdHZQLRBDUTy8LIc_TC1eIPlOFT_1H0AaxgygkYBvVpCEv9BA.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "در نتیجه ابطال گواهی‌های اینترنتی (ssl certificateها) با عرض تبریک خدمت همه نسخه ملی (رانتیش) هم راه افتاد و الان همه سایت‌های دولتی و بانکی دارن میرن روش :))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو شک نکنید به زودی بازار مرورگر ملی دوباره گرم میشه و از اونجایی که این بیلبیلکی که هوا شده توی Trusted Root ها نیست شما برای استفاده از خدمات بانکی یا دولتی باید درکنار پیامرسان‌های ایرانی، مرورگر ایرانی هم نصب کنید.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-09-07T05:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 863,
+      "views": 925,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +36,7 @@
       "date": "2026-09-07T10:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
+      "views": 818,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +55,7 @@
       "date": "2026-09-07T12:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 766,
+      "views": 787,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +73,7 @@
       "date": "2026-09-07T13:23:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 763,
+      "views": 790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +85,7 @@
       "date": "2026-09-07T19:03:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 695,
+      "views": 758,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-09-08T05:42:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685,
+      "views": 710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-09-08T06:31:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 675,
+      "views": 696,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +121,7 @@
       "date": "2026-09-08T07:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 640,
+      "views": 655,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +140,7 @@
       "date": "2026-09-08T11:21:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 832,
+      "views": 872,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +152,7 @@
       "date": "2026-09-08T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 596,
+      "views": 620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +160,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nCq5u9dwLcVm5XgirlN57EupjcA-v4zh5Z34FhhlDHEcJFvbFlVJcxifCge9uXrmJHSjN5y0gbiqN5xW96D1atHDD0NBpiwCnGG3p7bvYUQtBeDxy5F_Qc6nNQCAms3vnABqx7vYpA0GLcfrCXIYMOyL0u2QrZOp2HCyaR9Osv9OV0DM8zNCR8FMbEiEWrBr37HXGcZPagVAMI63aQRk3hZ6BJytSJc8X6DZ1lyOUz2FqHjhcMFGwsiozLJ--bZ-gMF-7sbVs8gHUWreirZkRDPa20887XbXRhcHZHsOt4hvHzu-sZCCCvDWrpY8cTqxy_CX_iAV0g7EwTOzwWePkg.jpg"
+          "url": "https://cdn4.telesco.pe/file/SRMRWbWuRHvY-BQvdIhkWNH2RHycZlJ-etKv-orjU1NGvq5auM1haK3HsngobhRatHHpR3VLDBfcmuKj5PGGk2qLDMYWimg9DD9bKjyT5UaJdqCnrfT3yyn5wtGboIDvcTP7yQcCg7KV1ZiY31jff4Vhg0nMveCWtHfIwEt8FuoSvPeM5kCPyppq1pJ8Cg0AKAnbXDsQ-xYWKWurpzedKGYf2oGqnPsqS8118eRynWWeyQ1y15JlrL4BNfAlInppHENT7_lrjjGZbhcf9ZJZCpg_OIvj3hZuma2PjZpmKZjktpSWVDo9UiZSeN6uILJeMrK6nY6NHPrBkByej6Ymkw.jpg"
         }
       ]
     },
@@ -206,7 +170,7 @@
       "date": "2026-09-09T12:53:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 624,
+      "views": 679,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +188,7 @@
       "date": "2026-09-09T14:13:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 573,
+      "views": 651,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +200,7 @@
       "date": "2026-09-10T16:56:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 182,
+      "views": 406,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +227,43 @@
           "url": "https://cdn4.telesco.pe/file/ulN8BjX_Nv-fOgq1HL1NP8a4yk4Q9wUM4w6k_ex3t1AzqPkAOcEQmnNM0_SSksGq4S2nzqTJanKhHNm9lAMoWJn9o0ZrnJIGZLbWOkZ5h5eexPOtvvnAFM4M06AoRNfgI_cWL6No20eXtfla4nj-PmSRsQu54xGlS2w2Re4T6TDjoVghKeURzyKx1RiAJo4XfrY92DGI6S2s7uXYMvwxQqIJ_fspBLktMYMPa-xuZ4ddsFA37NhtVRdHu4UTLmd1h41TyzB0x-ox2WeR2uwkUrWvUpaZZbgoiWbaUBDaJ5r2bHQndhqjDRabidd0GsuGTcAD-I5p_Mgk1OrowCPEkw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B4.png\u0026#39;)\"\u003e\u003cb\u003e🥴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-10T19:39:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Jibn13rFWOEJjWEk0ABW2yaYvVwQni8sqXwDObwbH9GyVB5gS9m2va0m9_hfKUD2Kqgu4ZU4FosHKVMeSDLV_kJgyyZ04oc2qilpeRtN71JZEz4WOfHDBRrHRptba53GcaTuG3uh81ubc4Ao0QSjuI5BzrFwmnOosu_dc9SKt81WWq4QI7DB6F_9DKTgxSn5OZ6sJ5ZIweId9riSvI16FboUD6H-jLVMtmfAkwUJf-gR6S1Nq65wQmQrSUTbp0hiH3rVnKKsBIkkR1k5Sw-Im0pTjnEk-77T27w4QyDOfeEWpyQvXfn92F15LV4J_rFurjxFf0fAw746B7jbmikwFw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یک بزرگواری (دلقکی) با خودش فکر کرده که خب ایده خوبیه که مثلاً برای مصرف سهمیه دلقک‌بازی روزانه‌اش بره و اکانت گوگل پرویز رو رمزشو باز کنه و کانال یوتوبش رو حذف کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحقیقتاً این حجم از حماقت یک انسان باعث تأسفه که حالا بابت هر مساله‌ای دست به این کارها می‌زنه :)\u003cbr/\u003e\u003cbr/\u003eو قطعا هم تهش درمیاریم که کار کی بوده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-10T19:47:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 366,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/S6kY4-vdQtHn4sbUmXb2QSnIvyqfCFVXmDYfewxdNxYJfS4WFIlCwd4AUAt77XoVSmIqdgJNvV4tl81Bj7AYSgM478FONU8T1xivCZOcwLULewNUfkYURbKf5CJoCUnwAh03zF5uzRjZyZhddH_t4irj-b3PHHdBanTBySWlzOkfw4wjjsKbPsDJe2RC7QzUrRBcgzUFs0zFApkL5k5qv1td2MpKdXdjmsWYKtHg8F6ksqCaRxFXxQbL2Tvdt4Bj9-VnFraj2YRAwwfYjZ6ARjJrHYGvZnCnT6muX6piPmdQexEmui5Q0JSyKytMv5bS0dKuSkPTm6JjXrPV8Lz5bw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789065472
+  "last_updated": 1789075153
 }
