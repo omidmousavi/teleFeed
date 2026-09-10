@@ -8,71 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پیش‌نمایشی از نسخه آلفا پارچ استور\u003cbr/\u003e\u003cbr/\u003eدرحال حاضر تنها ماژول فلت‌پک تکمیل شده و این نسخه برای تست عموم فردا در مخزن Void پارچ قرار می‌گیرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-04T22:14:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VQAnzuuPOv0lbVISOIVbCyY24lxHPxB2cKomVN1tNmp-hymUYUinjybeXalJqGVzCq8M592ZQIZT7qCQmXyKkbuPfpflvxVAJsTHlTE8OTh6UrHIEthj2uoDSxHQ5Aew6BMAmoXyp572-VO9ZdiXGrYekUL1woFnSe3jIXet86ja9A1K-9WmDxe1OG6o3x4vcrp1JBFYfAGkO9pNIJRg929OucE1NQK2mV8Al9wuh8RbDl83LmAR_o0UoxI-UQSRuyeNXgmO-kPlkNIJbj0Sudv-pxV_2CW8lMDEjh0JpWsMT4OiOhJmffa6Zl7oF2nPzt_KwKLJ1JYKRyjqXgVO0g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HgO6iDlOADQiYuKowzUjSsPrXKvSz-3vt-c10547rvwuYw3ymqZaAe1s3lx5seN9cJvlM3sPrMciuugiqBokGrnMsXt4uhZ4D8VHRpgZdEcfcnl-49kh_ly51ilC0Ic9KKmNvTSZgEPYFQ04bzSg0kaTxAuWLa8g_Up7DzbsprPqQvaV7MilvIJHx5ycKxakd3qdrQWU8-qaIkGqNAtvoSk55Lqu-v-Gt4He8iI1sAD0ifAfCDeIhw3JJ9yn2WIuA_bSjTfeIx2JtFvhAbPTgbwlOBNeHb5tKMho5mmEWvPbJnfhyn83JWWPzFEX-D-yyzniWEUJiXbyBmCVl9KWQQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YpN7afP3RWqtFCwwkBu-ty9qjEOL1cZ7psj5RLc7Na28rpdjatEGFcwyUS_09Q3cT0p0dPIz7sfq4sCUnpFRDRQVcTQ-VFVG50oHyiwrfuhe4c8UvEzOnqvn7SoSI_AHvyXEKmVH0_Xe4fvR0AbiVxmF9gosG6YO4XFAKhyluMgbdvTSdTtoCqwHhv0yId56IIgH2LZSkk0AzXW81tKgW85FWSm7vyYGHYO6tbolFoQsucJxw044opog0ptsEq4C7y65dM7kIDwNTtVNNKOglybOaFYee2ERsDBylj5dRMgsiOXPVqQeAPc6lA000e7UnM9ifEMwgE2P_fTorevwog.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/J07aYgdON9XvK8C2DdfuTqJcV6kbj06zYLvbIRnlNWx8Y03T2G3Nl1THMdUxxGhAtq9D-pMgFkvSsMqbNHFypeMi7-LHdplcfZvmo0Ug2rxoUy2TIq3MArF2Y-7csTt9pnrrNKWkpHezhlcYCAI_3xvNbdkscMBVgNeKNwuTtUGFAJCLz44HktswoxaVQM-kJ1NExDJsUOGuaf6zMI4Ohqe2umUOjGPUh4UURN2hOe3dwRF9Li31ui37A9uSRxup1IYAMCBFAWMcl3M9ovkP3Nt7EwD4SCWCG9GDvB7pcwjJppksXqg4_9gqI3gkr09cOzYlUdDWSDgwi2JVTP7YmQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zv92WuB31iSB7r_3MkkSMtQB2YCZJ9wPbmyXu4LONNLSKkOdhbQ2wg6P8Hyls3lb-An8zNO2dw1ialVxXWKGHsiVVI1vX6ZIaJweXedX6eS9PO8uJXT2v1CTZD7R4thJA1lHfMYjfg9cuWloSDUJrUj0rhQRNrnpwPFkgdwlE-rOfvh9X3lkLBqVHEDUZ7rFpmExzX0edNNmJ9CpYE-7C31bwIbA8lPC5prQ0ecpvgOAcoRx9gLEUJ7hKJBrJlJp3s6PeNaqyxD246eHNUEKIzh_bgGMoR39D9L5u_pSTHaqKbLwEibBXy44rXvSMwJ2BvhG8jqiOEm943V5-lRNXg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/anuLjyyahF5b5PLczZRmZsdYIK9ycVSUfl5Pj52wBhyH-TnJPOdp6R0aK-w8v--lvukEuKSg5GMnIW4GFJfd_xC2dCj9BcQKJZW4NSlsw05fRSF-qWIgf16viEwcod6i1CdfiLoQYzOIH5pRlnHg_M89aWQLlKn7VWRTZ50EsNiYxtIPyNc-k8b2FAk4ziG_3FMsh4zo-EubWtojUYy311lw2lEu8RG7H5bLWvT7SYvUL8vOnnzL4EHrR70IZu7jM8X-fJ_KmkudFiDwZcBRg_u2n-HhrvZYmyfj2kt1LGY-_0CHfp9QVStu6zJCrc3KRB-zD-vwSjCsff8zelqrCQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/I8rg17v6hFMgi6Vi97GSB8TOzuTpuVTNj5r25zJBxbEqUGKfvJ0GGZnBtGsY3w3ifEdP3I64gFnvmw7ebmvwW__LXRf0zyE56RcGyG68jjDV5WUQV9reVUPBP-Oor2Fy-ODKRY592BTRCS-oHn6HZxzrEbhu78TXRmMQd9PWV0hpmQR_0Klq0azKr7wg0HdZO-LTOeIXmLDjkQ3BBJtV-FseGgvUeiDq_cDUokQJdrZZ8hxwiMNYffSnd7EYHRSyDs4T3ei2ZqkX69i2KDuCmTOE3LWo6A2KiQBof3Mz0Mkelc-LPBFGOdW12DtRAPy1mdVDfjAHdMfprRzqkFXl1g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "نسخه ۰.۱ پارچ‌استور (Parch Store) برای تست در مخزن void قرار گرفت.\u003cbr/\u003e\u003cbr/\u003eدر این نسخه، موارد زیر از اهمیت ویژه‌ای برخوردارند:\u003cbr/\u003e۱. صحت کارکرد برنامه  \u003cbr/\u003e۲. پایداری کامل  \u003cbr/\u003e۳- مشکلات طراحی (ui/ux)\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر تنها پشتیبانی از Flatpak در برنامه فعال است و پشتیبانی از ALPM نیز در نسخه‌های آتی اضافه خواهد شد.\u003cbr/\u003e\u003cbr/\u003eلطفاً هرگونه مشکل، باگ یا پیشنهاد خود را از طریق یکی از کانال‌های زیر گزارش دهید:\u003cbr/\u003e\u003cbr/\u003e- بخش Issues در گیت‌هاب پروژه:\u003cbr/\u003e\u003ca href=\"https://github.com/parchlinux/pastor/issues\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/parchlinux/pastor/issues\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- ایمیل:\u003cbr/\u003e contact@parchlinux.com\u003cbr/\u003e\u003cbr/\u003e- فروم پارچ: \u003cbr/\u003e\u003ca href=\"http://forum.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003eforum.parchlinux.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنحوه فعال‌سازی مخزن void نیز در این آدرس توضیح داده شده است:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parchlinux.com/en/repo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parchlinux.com/en/repo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S void/pastor\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eاز همکاری و بازخوردهای شما سپاسگزاریم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-05T09:01:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/S9Nu4ysAk_JeE0ahnLdf3nopnvboQY3LRzWcbRpHJX-arPRD81FqesxUo4j_BskLlyYD0Bzcp0fQn5nacfEfJxAEaG2guq6Bt5NBJ3LcHqAMJREIlXbllDDq5FFw1AOBybyBz3QcQXWDE3vIxgb7DCW1aXFHOfqzzUVHZB_EVgSNJcXyvpJ7EI8f9dpu6qFj2KWxQXo_HLJWqgehIPfRYyZG42D1yy5eQ31m_tXd6S0Pbf6SykAPka96hyZL7nPcF4irG1zUmQb5V-RPOAz47hZPhrZlqlP3rO4hESJF9Sn5fU1CTH7wm0qbnFBbgEuQTTHUACYKd_kOEWDUCKbEpg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خب از دیشب تا الان که نسخه ۰.۱ آلفا اومده؛ الان پیاده‌سازی اولیه از tray icon هم انجام دادم.\u003cbr/\u003e\u003cbr/\u003e(دوستان گنومی میگن الان منسوخ شده)\u003cbr/\u003e\u003cbr/\u003eهمینطور دارم روی نوتیفیکیشن‌هم کار می‌کنم و مستندات api‌های پلاگینش هم تدوین می‌کنم که اگر یک زمانی کسی خواست مشارکت کنه و پلاگین مخصوص خودش رو بنویسه راحت باشه.\u003cbr/\u003e\u003cbr/\u003eغول مرحله آخر همون alpm عه که بایند راستش مستندات خاصی نداره یا باید paru رو بخونی؛ یا از پیاده‌سازیش توی c دربیاری که چیکار کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-05T10:32:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 895,
+      "views": 899,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +30,7 @@
       "date": "2026-09-05T10:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 867,
+      "views": 882,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +48,7 @@
       "date": "2026-09-06T16:24:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +60,7 @@
       "date": "2026-09-07T05:46:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 808,
+      "views": 863,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +72,7 @@
       "date": "2026-09-07T10:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 783,
+      "views": 795,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +91,7 @@
       "date": "2026-09-07T12:35:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 759,
+      "views": 766,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +109,7 @@
       "date": "2026-09-07T13:23:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
+      "views": 763,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +121,7 @@
       "date": "2026-09-07T19:03:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 690,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +133,7 @@
       "date": "2026-09-08T05:42:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 676,
+      "views": 685,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +145,7 @@
       "date": "2026-09-08T06:31:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 669,
+      "views": 675,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +157,7 @@
       "date": "2026-09-08T07:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 638,
+      "views": 640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +176,7 @@
       "date": "2026-09-08T11:21:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 832,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +188,7 @@
       "date": "2026-09-08T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 583,
+      "views": 596,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +206,7 @@
       "date": "2026-09-09T12:53:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 588,
+      "views": 624,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,12 +224,46 @@
       "date": "2026-09-09T14:13:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 517,
+      "views": 573,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eپیش نمایش آلفای پارچ هایپرلند\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eپارچ هایپرلند فقط یک ویرایش از پارچ با مدیر پنجره ی هایپرلند نیست و اهدافی پشتش داره , هدف اصلی پارچ هایپرلند اینه که \u0026#34;رایسینگ\u0026#34; , شخصی سازی , نگهداری و کار کردن با هایپرلند رو راحت تر بکنه\u003cbr/\u003e\u003cbr/\u003eدرحال حاضر پارچ هایپرلند از Noctalia به عنوان شل استفاده میکنه , Noctalia امکانات شخصی سازی بسیار زیادی داره و میتونید تقریبا هرجوری که بخواید شخصی سازیش بکنید , یا حتی میتونید ناکتالیا رو حذف کنید و کانفیگ کوییکشل مدنظرتون رو نصب بکنید و لذت ببرید!\u003cbr/\u003e\u003cbr/\u003e یکی از اهداف پارچ هایپرلند ابزاری برای مدیریت , نصب و استفاده راحت از کانفیگ های مختلف کوییک شله که هدف پارچ هایپرلند در ۲۰۲۷ سرانجام رساندن این پروژه است\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین پارچ هایپرلند یه overview برای مدیریت ورک اسپیس ها و یک چیت شیت برای keybind ها داره :) \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبه زودی نسخه ی RC اماده میشه , اگر علاقه دارید که پیش از انتشار نسخه ی پایدار , پارچ هایپرلند رو تست بکنید و بازخورد خودتون رو با ما به اشتراک بزارید , به \u003ca href=\"https://t.me/AlfredaFard\" target=\"_blank\"\u003e@AlfredaFard\u003c/a\u003e پیام بدید\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-10T16:56:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 182,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QdHiglpEaE7-NQZt71iYzio5A4qRi7WjxVrAoEQ1E5HFrZNSWHQACGfDoF1HLFp-Ba3K7GhsI0pB2TK4c6cXua4FfVwfPV6_hsYwHt0xUGHRZHKNNywu8TmlzNnGAevInQ0-LP0SmUafi8-hZQnQ2f0TOpZtstzR9yEYq0RyVZ3nqSjl1QVG9B1uNLN2l3r1qBc97_Sjv0QIzUz3J1zn-B1yrPJScrwpfX6ZOyQ7sUh5B7FyYTXE_OFQsCEGe3ROhvkwCB4TByCZaID3Yjhcyf1rfkf578huSM_UDdiXqZXp0nHEj0lIUU3nOSAfHPuY98dHtqKWFyPSTALA_hBFew.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BIjW_mSNPSnn4XQCR_6QB7rQIIU2sR5QBUfJgDXCizeaDAVJp99CHGSApw_wsF0GqMib0LdoUY2wJoyEvfnLzfwYHQ25rbOt5rdZw1LTzlTLn_-xlOoPOTn0zvwAFbfxALvpCCMiq14l7Qrr-l9HeivnQkr8TGa_zvOmb1Fkr6dpZYB1iFKdsAjPH_BKa2249szWwhbWBqsyNXmpDerr12cgfoRCym3grqPhkO2ESlq_o1luXPTyzC35wVC22eViVci4lF1914_sQxrOIRMqWSiEEbwF43WzffwnRJOPL_6QQhKqfXSHscZ7mpYZMRtASAUebxHupf1vCv_jOmuTCQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z83xA_lcAxcfgfD5NIl_MO5uIZp5GLt8jlbtZQvGR1oI-Mv3wGQMRsCiJXUfFNW_3uGJkMlJONo_daWqqHSdxvSeVVvTd2rldAqaojPHOfnk-lbB-rqqExF9vhSDQELbdnGXxGsWqgBenZL_JqaQsPlXwCWL3H9mqxW1GWbLjauj5yOJg7NL5XV-KlWODLpDNKjsorN_ithPqjrD2h63hE_lId8xb5W4uVDjpgt0o0m52_lE5dlnMnoUCqLeSTIdWsE7lN4HgJuZaK_bzoNwzn6MrBNkoi0e48T9v_RC5kY00dYLPAe0_Ae_b9yQsxup-HW62VcqthleldaNFZDa3w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bLaMk5EyG3LPxsZdCyGc7wvvSExliD2nW2j2ZWjovWZB9K6ZmZAgMN6_O-mcj-btIy3aBgb0nwZToPWbNNWbRa_kIGIkWk6AsHf4M-Ae-9smUr_q0JH6SjXm_5V8PJhpBHuhN35smXeIX6YF_R5esmDbqb_G2h4nGOgZxbMFgo5-ZFqpTgt_IJcyOpwQm_j_Y7Ig7OkRSQRTEbbAGP52UFhKqUHAZqtrBQRFOTjpqEjEW9QrpBfqMHWlhMQ0zKymADgulTfdpM1DjnzgPSRPva1nsVC4HXrAD0kZecpmJnBXDuFoD5bXwgldgbA3mSnkTBo5o5rwhnMJHMhlCf9QzQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ulN8BjX_Nv-fOgq1HL1NP8a4yk4Q9wUM4w6k_ex3t1AzqPkAOcEQmnNM0_SSksGq4S2nzqTJanKhHNm9lAMoWJn9o0ZrnJIGZLbWOkZ5h5eexPOtvvnAFM4M06AoRNfgI_cWL6No20eXtfla4nj-PmSRsQu54xGlS2w2Re4T6TDjoVghKeURzyKx1RiAJo4XfrY92DGI6S2s7uXYMvwxQqIJ_fspBLktMYMPa-xuZ4ddsFA37NhtVRdHu4UTLmd1h41TyzB0x-ox2WeR2uwkUrWvUpaZZbgoiWbaUBDaJ5r2bHQndhqjDRabidd0GsuGTcAD-I5p_Mgk1OrowCPEkw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789054162
+  "last_updated": 1789065472
 }
