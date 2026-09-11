@@ -8,121 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه پروژه جالب دیدم به اسم i-have-adhd که برای AI coding agentهایی ساخته شده که ADHD دارن؛ برای اینه که AI موقع کدنویسی کمتر حاشیه بره و بیشتر روی کاری که باید انجام بشه تمرکز کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eایده‌ش خیلی ساده‌ست: به‌جای جواب‌های طولانی و پر از توضیحات اضافی، AI باید اول بگه قدم بعدی چیه، کارهای چندمرحله‌ای رو مرتب کنه، وضعیت فعلی رو مشخص نگه داره و آخرش هم فقط یه اقدام مشخص برای ادامه بده.\u003cbr/\u003e\u003cbr/\u003eبرای ابزارهایی مثل Claude Code، Codex، Cursor، GitHub Copilot، Gemini CLI و چند coding agent دیگه قابل استفاده‌ست. در واقع بیشتر از اینکه یه ابزار جدید باشه، یه سری دستورالعمله که رفتار AI رو موقع کار کردن تغییر می‌ده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ayghri/i-have-adhd\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ayghri/i-have-adhd\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-09T18:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YgiIJZ77zABcesGhknJjkv_xiuBzI99ZOhSZygt0ohyfe3suUFnECdIiLQ29khAm-09k88JtZ7tKQxjZxW5iHtQsSw5OHT23Gt6WFwA1po4ElG8J_4vk_oip3RaJYuUOZpeRJgV21Rxh1tL9xEh1sLK6g8J0o87y8QJJo4PUbQbAc_RWzjQoHaIKAyl2CZMuJDpEaWgOh-tZ-3heNR3gPofSjztZSzt_Qo_S6zE004MRJBKS22-F1qwt_Z9Fw7_04hFnlQNCX-A1bD1fka_x1TVbbvbh-R2jZfcjRjxQSLO9oYJvzbpoFr6vBGBPIktl53aQv2EcGf5O3mYbecSsIA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مردم دارن با GPT-Image 2.5 انیمیشن های استاپ موشن (عکس های چسبیده به هم) می‌سازن\u003cbr/\u003e\u003cbr/\u003eتوی ورژن 2.5 توی استفاده از reference photo می‌تونه ویژگی‌های سوژه، نور، texture و جزئیات distinctive رو بهتر حفظ کنه. مثلاً فرض کن یه محصول داریم، یک عکس واقعی از محصول می‌دیم و بعد می‌گیم:\u003cbr/\u003e\u003cbr/\u003eهمین محصول رو بذار روی یک میز چوبی در یک استودیوی لوکس، نور صبح، پس‌زمینه مینیمال، photography تبلیغاتی.\u003cbr/\u003e\u003cbr/\u003eبعد:\u003cbr/\u003e\u003cbr/\u003eحالا همین محصول رو در یک فضای outdoor نشون بده.\u003cbr/\u003e\u003cbr/\u003eبعد:\u003cbr/\u003e\u003cbr/\u003eهمین محصول رو برای تبلیغ Instagram در یک composition عمودی قرار بده.\u003cbr/\u003e\u003cbr/\u003eمثل بقیه مدل ها گیج نمی‌زنه عکس اصلی رو تغییر بده و محصول تغییر نمی‌کنه همون محصول می‌مونه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-09T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ehgECnY1UopLeIeRKIInwXgS_sHxrrvgnQS3f_blfB23M9vlAVHG8kIL8mashWyeWodFhGDIitM4gVIZJ6dqWwraCzdUGCcd0IeWvIkwfYkUM61Vdb07TVZfkctuXzOAtWuyJd2_zoiRA4T6sLEDAASX7rU-ovBHpRXpmRorTIEkRa6GqVOa7Bb7kMxPjQ_DjUyMER6eMXkBX8GDtI13iloldcKLrD2QYHsIJciupLV87PczSniCLzoB4tR3KDH_u60vSrF-PUiSaOBsi3HDlKUvmUTS4koTW13Ag8l_8LXtocsriej4GrIzrw61S_8mK2hwYpkTg8J25dsZucpcmg",
-          "width": 1024
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توییت سم التمن مدیر عامل اوپن ای آی سال 2016:\u003cbr/\u003e\u003cbr/\u003e«کنجکاوم بدونم تا سال 2026 چند نفر عاشق یه چت‌بات هوش مصنوعی شده باشن.»\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-09T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QQ7SfjWIKr7kmVPk-MopfqkjrYB75ZFksc794VTiqoC035eE9ZjueM7TqDs-j0qOWKMR9iq72EIxYCcnDim-Nn4OeysIBn0J978XXuNA4YkwwGY5A1JQXT7bYFaaWagNQZBDbDtLPQ5ugRxE_7AhTb0xc5TOf0mj2FEvcNKEpGNx-Oo8UjIzA7nhHJJhV4Ht8okLTjChn3IkcKBOZPN08yjYOH2UqOJQ2XHCV56N5kwqmqtBK4Ml6I2KaRXHBvsAAixQFyrjK1ynaENknC917z1FifoDOmkIlFtZxoG1PTVCb185ObyyMoYGX2io9sb7c4vS8azdhg1UITgRuyiGmg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اقا کاری ندارم این گوشی جدید اپل رو چقدرشو سامسونگ ساخته ولی انصافا موقع باز و بسته شدن ببینید چه ترنزیشن جالبی اپل انداخته روش، شیشه ای میشه.\u003cbr/\u003e\u003cbr/\u003eاپل اینجا یه کلکی زده، تصویر موقع باز شدن باید جا بمونه ولی یه مشکلی داره اینه که اگه عادی جا بمونه و تار نشه کادر دورش که محیط هستش خالی میمونه و زشت میشه برای همین اپل تارش میکنه که  اون حاشیه هاش که محیط هستن توی چشم نباشن و اینطوری یه ترنزیشن فوق العاده طبیعی ازش در اورده\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-10T10:47:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/bJ5OVR0Ap0igS-QqXBDdX45Bzzr9C7ZcjiNcMR3k1dNKeU-6O3rfnD8i5UV5PM_pe-DM7Gyp9Ne6Tn5XoJECdWs7G00oKAOK97kReWyJi5iZFJRy2DD1at3Kd_TBk3I5ZtFHxJRf8WPW4JhllLM1B7u3vd8aSjQdBCHNHJOQcJhpScyMs15cAyy0bFTx_Yif_uHCvnKxXaTOVdlRGXOmSgH0qRBMZkLzCCwLUojZUERqvl5ewXMxzUrPy8B_TeTcRK1saDmVUEZEVijGL7f_80HiyGdFDj7XvzXGxYJjyz7B6zbP-4eNm8VxYY-3ijpvn10O7EiJIR_VmwjLcpJjKQ",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانت SuperGrok\u003c/b\u003e \u003cb\u003eپیش‌ساخته ۱۰\u003c/b\u003e \u003cb\u003eروزه کاملاً اختصاصی\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e فول گارانتی\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمدل Grok4.5 و Grok 4.6\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e این آفر فقط برای کاربرانی که در Linuxor عضو هستند فعال است!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e فقط \u003cb\u003e۱.۰۰۰.۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ariobox_bot?start=promo_103_1025\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرای خرید کلیک کنید\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-10T14:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OB8BTTiehhDR05x8Ce5Qtc1eeJBYRnj-da4MVuoBKOVGf8ysKlCRN_TYFPa7xEbN2k6N1KCD1pOhXuT2_NHHKT8HYM92PckV6WCCUgCTyPXwrmR_a17ZNNQd3yNDSnlocGOTPpQrSPdshYOBHK3n-ijx-fNTQjLD4mFjog-o3L7TS-jm6gMZH1LARNpXybXipdVDR3Hp15ro7VZkmGIrVAzIrcE89leBoEVLgcVucA7ZqvWRk1Yg-ka6M-KJmGRYt0AYY1rD11qwLE-q5ejqdRbUj-OlcLZ1Kq1TuKhNYvfCLeVMLdUqJnYuByc_uH-ViIYLN0r8JuRIALTqPvSbQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه همیشه برات جالب بوده بدونی الان روی زمین چه خبره؟ پروژه‌ی Open Source به اسم God’s Eye View هستش که یه نمای 3D از زمین که کلی دیتای عمومی رو توی یه رابط واحد جمع می‌کنه. \u003cbr/\u003e\u003cbr/\u003eاز هواپیماهای در حال پرواز و کشتی‌ها گرفته تا ماهواره‌ها، زلزله‌ها، پرتاب‌های فضایی، ترافیک و حتی بعضی دوربین‌های عمومی؛ همه‌چی به شکل Layer روی کره‌ی زمین نمایش داده میشه و می‌تونی روی آبجکت‌ها زوم کنی و اطلاعاتشون رو ببینی.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه پروژه فقط یه نقشه‌ی قشنگ نیست؛ قابلیت‌هایی مثل Tracking، نمایش مسیر حرکت، HUDهای تاکتیکال، حالت‌های تصویری مثل FLIR/NVG و حتی تعامل با AI و Voice Control هم داره. یعنی یه چیزی بین Google Earth، داشبورد OSINT و اتاق فرمان فیلم‌های جاسوسی \u003cbr/\u003e\u003cbr/\u003eپروژه Open Source و MIT License هستش و می‌تونی خودت اجراش کنی و حتی توسعه‌ش بدی. البته همه‌ی داده‌ها لزوماً Live یا دقیق نیستن و بعضی Feedها مدل‌شده یا تخمینی هستن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/bilawalsidhu/gods-eye-view\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/bilawalsidhu/gods-eye-view\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-10T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mFmET4F1ZKXoActE6EnhZqC1s4FhW2PJNP4LdIgXJae4j_EFKM889OzKwNToWqxzz6vJWQRx-l-G_78few91hsVNsqDQUuGHPrkILWAPY1plGPN_749_LEyWjZ_jHzko-RmjLsDtpzPzkxUisUymUCF_nwAbyuuBkPa-714wWMCQo7zmGpOwmPLGRNaCt8MlQf9NPrHd15q4s-AxqHxbZTnzAgnpE2PIIwIhK6aCd8tT_WfEsWVEhy0W5Idee48qRsHOX5wmFbQGYTW_I9TUXKNf2bD2lTu8EvIZ4BovLvJWU0AwnkjCgZV6JLd-N9HF4dRiUcncD3VT2NcglsrWyA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "آقا این چه هوش مصنوعی ایه ساختن که جای شبکه کارارو بگیره؟ پدر کابل هارو داره در میاره از جلو تر بگیر چرا از سیمش میگیری\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-10T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +31,7 @@
       "date": "2026-09-10T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 6440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +50,7 @@
       "date": "2026-09-10T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +68,7 @@
       "date": "2026-09-10T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +86,7 @@
       "date": "2026-09-10T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +104,7 @@
       "date": "2026-09-10T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +123,7 @@
       "date": "2026-09-10T17:33:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5500,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +142,7 @@
       "date": "2026-09-10T17:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +154,7 @@
       "date": "2026-09-10T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4640,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +172,7 @@
       "date": "2026-09-10T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +190,7 @@
       "date": "2026-09-10T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 6870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +202,7 @@
       "date": "2026-09-10T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,12 +221,122 @@
       "date": "2026-09-10T19:20:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 7660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این واقعا جالب بود به GPT-6-Astra گفتن یه ربات بساز که با دست روبیک حل کنه، نتیجه رو ببنید:\u003cbr/\u003e\u003cbr/\u003eتست‌ آنلاین‌:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://dex-rubik-cube.yanjieze.com/\" target=\"_blank\" rel=\"noopener\"\u003edex-rubik-cube.yanjieze.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T08:22:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/o-BagEnHuh7MG8Tlc9vRrFw2Yt0X2CF6lgAzqvdcOVadpX-cynabKVRl7IlYvPuz2nOpqV32Z-xN5WrekE--MTolWqCyW3ef8kiRJKsWnqexz9YS_BB5XU60ujiEa_xD_n1gc0mYJip3mlFTUpxSIwrhjdxKPVhOAIf2zZjY934_YyVkQe8SrgyHW5Byb5Nvt0HVR_H5rm4QrY1_PwhF0cjDGLcZFdVnb_BOJP_trM3u_1ddzhAVa3V-OpyInyzfWYOejm1qhDWPKr8mJVEWCFe9VTM4k9Nlbg7Gsr4GaHBJNKL-IwZl1xW_ZF9qEfPbClnliqt5L1qPmArSeg2ncw",
+          "width": 3348
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این هوش مصنوعی رو نبینید ظاهرش جذابه ولی یکم بهش عمیق تر نگاه کنین توی ساختارش از یه بخش هایی از علوم پایه استفاده می‌کنه که همه ازش متنفریم ماتریس، حساب دیفرانسیل، جبر خطی، نظریه اطلاعات و... اصلا نمیدونم این هوش مصنوعی به این جذابی چرا باید از اون بخش هایی از علوم پایه استفاده کنه که همه ازش متنفریم\u003cbr/\u003e\u003cbr/\u003eیه سری یادمه با استاد هندسم توی دوران دبیرستان بحثم شد چرا باید برای ضرب یه ماتریس ستون یکیش رو در سطر یکی دیگه ضرب کنیم بعد آخر جمع کنیم؟ چه منطقی پشتشه اصلا؟ اون بنده خدا هم نمی‌دونست می‌گفت قانونه دیگه قرارداد شده!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T08:59:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T09:56:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O07NuySYLNUKdcyjL1JReXyG7kl4E7sh0iY9p78n-lZm5IOZEIm13h9-ggAqZpLyZ7Nnh1077gO4-ddk5LYtc7NspGfdcyCT0YCVsT42JBJuJESYSdSOmxZK6tmXHeZB-sb42k0v0sDiTAM9biGBjyVy9GG9pvKmxK3conjTTNm5QtN443b6uBDc_SAny_iyTHe8Rv4MqTHWDDJsUvLTT9S2U0pPBgzsiR-Ssy7vuEh4UF7aeAlUc2tj3eEXjraywCGobJjZNyltkDYnf8TxEIAitBMCsHdRx4LUaRh4Sv3nbbB1GlJQRL4WEEmtwrp0q3rkOUrt9QWdjMH5ByRWYQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من واقعا از رسانه کلا متنفرم؛ یه خانومی جدیدا از دانشگاه فردوسی مشهد بلند شده رفته توی مراسم رونمایی اپل به عنوان پرزنتر حالا کل رسانه ها هر روز دارن تعریف و تمجیدشو میکنن دستشم واقعا درد نکنه کار بزرگی کرده من نمیگم کار کوچیکیه.\u003cbr/\u003e\u003cbr/\u003eولی چرا شایان اویس قرن چند ماه پیش مدال آباکوس رو که یکی از بزرگ ترین و معتبر ترین جایزه ها توی حوزه ریاضیات کامپیوتره رو برد و یه مسئله 40 ساله رو حل کرد کسی آنچنان ازش تعریف نکرد؟ مگه اونم ایرانی نبود هم وطن شما نیست؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T10:17:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یکی از رسانه ها بهم گفتش که بخاطر کار سیاسی شایان بعضی مردم با شایان مخالفن بخاطر این مطرح نشد.\u003cbr/\u003e\u003cbr/\u003eمن حقیقتا نمیدونم طرف چیکار کرده؛ در کل فقط بخش علمیش رو دنبال کردم دیدم اون موقع کار واقعا بزرگی کرد و حمایت نشد و این پست رو دلسوزانه برای حمایت کارش نوشتم.\u003cbr/\u003e\u003cbr/\u003eخلاصه این پست اصلا منظور سیاسی، تفرقه افکنی و... نداشتم و قصد حمایت از کار مفید شایان بود نه تمام صحبت های دیگش. همچنین زن ستیزی این چیزام منظورم نبوده خلاصه یه شعرو وری نوشتم دیگه هرکسی یه ایرادی داره ازش میگیره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T11:02:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این سایته هم ایده باحالی داره یه جور شهر دیجیتال/بیلبورد آنلاین هستش که توش می‌تونی یه قطعه زمین یا همون Plot بخری، براش یه ساختمان/صفحه درست کنی و پول بدی لینک سایت یا برند خودت رو روی اون قرار بدی.\u003cbr/\u003e\u003cbr/\u003eالبته نرید پول مول بدیدا بعد بیاید بگید تبلیغاتش بازدهی نداشت، چون بیزنسی نگاهش می‌کنم چیز شعرو وریه فقط ایدش چون باحاله دارم معرفیش می‌کنم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://claimavenue.com/\" target=\"_blank\" rel=\"noopener\"\u003eclaimavenue.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T11:13:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WGARB5m7G6rt2Ic3tNGb9Oi-TPeGeBl9MAzDABiPATcoxdQOsqY8cRJ29T4vr9nCkZoZJT_JLfKkW87I6sb7ALKvPi1l6rWKsrPca39rTn-4h-3AkEBtyb2C3QYh8Vvx-ifPFsmjrnhujfUZ2Dnsz1uS621iRaQNsJRIXO3frt8v6rmp_Y3tjZ2eiBljAvuvZiO-IwbZm69MW56No-8acafrkwatMFC9ucHjUpsI-60IdyHOhzHoVzg0KoONX-WqnGD9pbQQ1ZDt4HpDtH608IfBeTYx2tKlKr9zUDcaDZvV86PtBx3jZ_u-k7jQajuLtfCHnIdwXZgtq3NUi05DTg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینی که می‌بینید لونه گنجشک نیست همون قضیه ناویر–استوکس هستش که اوپن ای آی ادعا کرده اثباتش کرده : این یه سیال که در ابتدا کاملاً ساکن هست، تحت شرایط خاصی می‌تونه به یک تکینگی (Singularity) برسه؛ یعنی سرعت سیال در مدت زمان محدودی، بدون هیچ حد بالایی افزایش پیدا کنه و عملاً به سمت بی‌نهایت بره.\u003cbr/\u003e\u003cbr/\u003eاز 130 میلیارد توکن استفاده کرده که هزینه ای حدود 10 تا 20 میلیون دلار براش آب خورده جالب اینجاست جایزه اثبات این قضیه فقط 1 میلیون دلاره که اوپن ای آی گفته قصد دریافتش رو نداره\u003cbr/\u003e\u003cbr/\u003eاینایی که می‌گن وای هوش مصنوعی جای هممون رو گرفت فکر کنم نمی‌دونن 10 میلیون دلار یعنی چی! ولی برام جالبه بقیه قضایای اثبات شده بشری تا کنون که خیلیاشون هم چیزای سنگینی بودن، فکرشو کنید مثلا انیشتین یا ریمان یا ... مغزشون به اندازه 100 میلیارد توکن می‌سوزونده بابت هر چیزی که اثبات می‌کردن؟؟؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-11T11:31:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tXl3xmK-Ugq0wx1hhXIY8pDJNGy0bwiYKpcAqchAjW6-XuSVFJxDKCvjmHUnzqQcFCJW1d_WOXfG_dBXKPgnAwiRMCqpTv__L309McGnpEgrM6o7WL4yFbs9inu3txXTg_-ItUqitT9WyU9hdo4CKy1hhMbJoVfZ6xwAVNtmxaCDu7C8lSrhrbN5PqOks8e0LJ7Jnr3Gi6GVjLulbs5_gzhCqmKZ7MQOwVtj9MyXTNjo8xXdjpRTR-tJLErrcWk52-yYxrABIfzjWn-iSk6EjGrBMfuOQG7aCGzepwfMJ7GmdKSR66POdmz9Cv7dtLZ3ilMNmboow87i3EWvUAIfow",
+          "width": 864
+        }
+      ]
     }
   ],
-  "last_updated": 1789107246
+  "last_updated": 1789126595
 }
