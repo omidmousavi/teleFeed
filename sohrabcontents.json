@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "من این رو تازه دیدم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.phoronix.com/news/Linus-Torvalds-Debug-AI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.phoronix.com/news/Linus-Torvalds-Debug-AI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتوروالدز با هوش مصنوعی سر یک چیزی درگیر بوده و تهش هم هوش مصنوعی رو مجبور به انجامش کرده :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-07T13:23:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "در این صفحه از وبسایت آپادانا سعی کردیم که به سوالاتی که درمورد این پروژه پرسیده می‌شد پاسخ بدیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apadanalinux.ir/fa/faq/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apadanalinux.ir/fa/faq/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخواندن این صفحه از وبسایت آپادانا خالی از لطف نیست و به شما کمک بیشتری می‌کند تا با پروژه آپادانا و تفاوت‌های آن با پروژه آپ‌استریمش یعنی پرشین آرچ آشنا بشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ApadanaLinux\" target=\"_blank\"\u003e@ApadanaLinux\u003c/a\u003e",
-      "date": "2026-09-07T19:03:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 813,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "تلگرام دسکتاپ رو به ۷.۲.۷ آپدیت کردم و scalingاش خراب شد :)))\u003cbr/\u003e\u003cbr/\u003eدقیقاً نمی‌دونم دارن چیکار می‌کنن با خودشون ولی از وقتی اون claude به عنوان کانتربیوتر به ریپوی تلگرام دسکتاپ اضافه شد تلگرام دسکتاپ یک اپدیت خوش ندید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-08T05:42:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 738,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-09-08T06:31:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 742,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-09-08T07:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 751,
+      "views": 780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +55,7 @@
       "date": "2026-09-08T11:21:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 922,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +67,7 @@
       "date": "2026-09-08T20:11:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 651,
+      "views": 654,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +85,7 @@
       "date": "2026-09-09T12:53:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 749,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +103,7 @@
       "date": "2026-09-09T14:13:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +115,7 @@
       "date": "2026-09-10T16:56:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 596,
+      "views": 613,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,23 +123,23 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QdHiglpEaE7-NQZt71iYzio5A4qRi7WjxVrAoEQ1E5HFrZNSWHQACGfDoF1HLFp-Ba3K7GhsI0pB2TK4c6cXua4FfVwfPV6_hsYwHt0xUGHRZHKNNywu8TmlzNnGAevInQ0-LP0SmUafi8-hZQnQ2f0TOpZtstzR9yEYq0RyVZ3nqSjl1QVG9B1uNLN2l3r1qBc97_Sjv0QIzUz3J1zn-B1yrPJScrwpfX6ZOyQ7sUh5B7FyYTXE_OFQsCEGe3ROhvkwCB4TByCZaID3Yjhcyf1rfkf578huSM_UDdiXqZXp0nHEj0lIUU3nOSAfHPuY98dHtqKWFyPSTALA_hBFew.jpg"
+          "url": "https://cdn4.telesco.pe/file/E1D9uvDeupG0lWM33OjGBIhub7UmoI-68ZvNNZ3VHryd5tN_8vaptJ-Jqo2Nl99viccIS8xvmHpoiNCdChVBuUtbqt2h6UxDttv2L-i6EyFdwAwvp71Y16-TdbdrYMVIB9BvPcHqNsfjyXCaqzy0bIFLv7npLsMnm6BiCebMejbss8RZytjiMyPM_dSfV_OADj-JpmKal1Mcc6GFrZOF2djZuflLDvGH8gJy2z86mOAMiLpNS9W1jDB-sidzvsnMOF2PZ0rQZgoAVu8_8TyPHZWrqveUIBe5htxrWxFvv9vTAVyxpDFjk-78FtmwIYprzUREKUWV6QrsQWtFWCeAyw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BIjW_mSNPSnn4XQCR_6QB7rQIIU2sR5QBUfJgDXCizeaDAVJp99CHGSApw_wsF0GqMib0LdoUY2wJoyEvfnLzfwYHQ25rbOt5rdZw1LTzlTLn_-xlOoPOTn0zvwAFbfxALvpCCMiq14l7Qrr-l9HeivnQkr8TGa_zvOmb1Fkr6dpZYB1iFKdsAjPH_BKa2249szWwhbWBqsyNXmpDerr12cgfoRCym3grqPhkO2ESlq_o1luXPTyzC35wVC22eViVci4lF1914_sQxrOIRMqWSiEEbwF43WzffwnRJOPL_6QQhKqfXSHscZ7mpYZMRtASAUebxHupf1vCv_jOmuTCQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/StYSOlhR71iaP39lwF9EJpBanc4wX3AayGVBxE--XzhF8cfRpWhC4-kVzNclO0_Km9KDi_ZintAcCx7K52BO0QUdW0og--ACtO69CHdr3-NQbbrb4PE5oTBZIwT7TWoFBtWNAfsMH76ysAF2Uv30EZ7Tmnr0SA9Oz2xALrhR3CXEcY4mLWSkLblTwBqFmFrTesZmik2dt5D95dVDNe319sXciGyIzLdWtDOg1GPBvv_febNAggfDPkJUk91teSLbZr2uw_2PCCJ1fwUAaWkH4BAIlN_qM-9_MxfcZPyIkDiXCGxz9u8J7C2jw5GSRghs_JWyDLVSkCIql5DyfQDaAA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z83xA_lcAxcfgfD5NIl_MO5uIZp5GLt8jlbtZQvGR1oI-Mv3wGQMRsCiJXUfFNW_3uGJkMlJONo_daWqqHSdxvSeVVvTd2rldAqaojPHOfnk-lbB-rqqExF9vhSDQELbdnGXxGsWqgBenZL_JqaQsPlXwCWL3H9mqxW1GWbLjauj5yOJg7NL5XV-KlWODLpDNKjsorN_ithPqjrD2h63hE_lId8xb5W4uVDjpgt0o0m52_lE5dlnMnoUCqLeSTIdWsE7lN4HgJuZaK_bzoNwzn6MrBNkoi0e48T9v_RC5kY00dYLPAe0_Ae_b9yQsxup-HW62VcqthleldaNFZDa3w.jpg"
+          "url": "https://cdn4.telesco.pe/file/DfGaGiYu1qiT2OzZq5MgEzL7uqP_8gPVVg71lV3SIZBbW8aERvvG0WOLEGGJ_6JPIJYo_7haC-_PssWoyMkWj_0kjKDGgoNvszJ0YPAN__IKaRFRuzt2ovwtDyLcCg2-dRJdoIlEjAgnbq9urOABjroN9vNTVUTeXZ_o97SGcl_FodoX0Db4_8kPUO2N-R-1csaYm32T3xLJYfXtaPxvLAHhle18I05Kp7FbAVZB1hKjWuf2lxEfdAZGnAy797WzKdilNYJf9mYeJfOPIu1Z39MSV0QUza-33UnJuWUbwXQO6Cv59pEAQFj91peFjCy_xk5wENzq75Yji1ZXkupaoA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bLaMk5EyG3LPxsZdCyGc7wvvSExliD2nW2j2ZWjovWZB9K6ZmZAgMN6_O-mcj-btIy3aBgb0nwZToPWbNNWbRa_kIGIkWk6AsHf4M-Ae-9smUr_q0JH6SjXm_5V8PJhpBHuhN35smXeIX6YF_R5esmDbqb_G2h4nGOgZxbMFgo5-ZFqpTgt_IJcyOpwQm_j_Y7Ig7OkRSQRTEbbAGP52UFhKqUHAZqtrBQRFOTjpqEjEW9QrpBfqMHWlhMQ0zKymADgulTfdpM1DjnzgPSRPva1nsVC4HXrAD0kZecpmJnBXDuFoD5bXwgldgbA3mSnkTBo5o5rwhnMJHMhlCf9QzQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/slqDQLfZV6QGUUF9_76bx3JQio1ApaVEgxnPWcqhWFlBIuNFHTZpvkTQbm5Ct28UM_OBKJV2X5YD96jIOrzl7_P3Pi43oEhKHa-iQ_rTX5brpVjXHbicLBBnbuMCUYJKpEXQCWZdtFjw1a5QhN5pAc_6xGW-TuDv82m7pY08SOImcc4RknI8W0R4LzLdcLMMLcm3anMEEZvLHsByXIfHkJZMc4YqeslCNUS-Xtpf68eNKAS9n2Uf_fbJiiZ0N0RaW2bQXKfp0qLTe73osfL5FXFovKwPOJVDUmxoHvmDQ6urQuY6HySvV-seOKvAFhY9Cq-dBvMYgWBqTZXPd4EBMQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ulN8BjX_Nv-fOgq1HL1NP8a4yk4Q9wUM4w6k_ex3t1AzqPkAOcEQmnNM0_SSksGq4S2nzqTJanKhHNm9lAMoWJn9o0ZrnJIGZLbWOkZ5h5eexPOtvvnAFM4M06AoRNfgI_cWL6No20eXtfla4nj-PmSRsQu54xGlS2w2Re4T6TDjoVghKeURzyKx1RiAJo4XfrY92DGI6S2s7uXYMvwxQqIJ_fspBLktMYMPa-xuZ4ddsFA37NhtVRdHu4UTLmd1h41TyzB0x-ox2WeR2uwkUrWvUpaZZbgoiWbaUBDaJ5r2bHQndhqjDRabidd0GsuGTcAD-I5p_Mgk1OrowCPEkw.jpg"
+          "url": "https://cdn4.telesco.pe/file/QgUOJpGsvI_aR4ORdjAxSCa2emu-NFDmpif2pJcO-YlG15NIoncjroF7R1x6fQpEqiDfHfA8z6ddFlG2JOrj7xMY2o4I1uO41uysUZN_T9YxO0hSV9Qcf6pMTo8Z3y2ueZ4BGEOx94kx8rbxvsv9lNYB22bDW8R0i00bx5w-RydJZgBq1ZqaAMUxKPqtc2X9hFCdMutABxwJ8r5nEuVoZmSq_ZmpqaSeeLNT2nTX285MxLV0S9GESU2lbpWNjFpB2sp5qFJUXHbR70uFDDxUgYP6BPgBfs6HioyIExswEaj2lA4PCAN4x_AiJAFnCHF5zm4uu_b-gwjDZKxoVdhHdA.jpg"
         }
       ]
     },
@@ -173,7 +149,7 @@
       "date": "2026-09-10T19:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 680,
+      "views": 703,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +167,7 @@
       "date": "2026-09-10T19:47:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 754,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +185,7 @@
       "date": "2026-09-11T10:17:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 404,
+      "views": 485,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +197,7 @@
       "date": "2026-09-11T10:24:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 392,
+      "views": 481,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +215,7 @@
       "date": "2026-09-11T10:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 376,
+      "views": 467,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,12 +227,36 @@
       "date": "2026-09-11T10:47:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 340,
+      "views": 456,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "خب بدون هیچ بحث خاصی، من برام این سوال پیش اومده که اون کاری که بدرد همه می‌خوره چیه؟\u003cbr/\u003e\u003cbr/\u003eتوی کامنت‌ها بگید؛ و خیالتون راحت‌باشه اگر کسی خواست ترول کنه یا تخریب خودم باهاش برخورد می‌کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-11T16:23:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 280,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eنیکولو\u003c/b\u003e ونراندی (نیکو)، از توسعه‌دهندگان شناخته‌شده‌ی جامعه‌ی کی‌دی‌ای، به‌تازگی از پروژه‌ای جاه‌طلبانه به نام Plasma Studio رونمایی کرده است. این ابزار تلاشی برای پایان دادن به پراکندگی ورک‌فلوهای چندرسانه‌ای در لینوکس است؛ جایی که کاربر دیگر مجبور نباشد برای تدوین ویدیو به Kdenlive، برای طراحی برداری به Inkscape، برای ویرایش تصاویر خام به Darktable و برای اصلاح صدا به Audacity سوییچ کند، بلکه تمام این فرآیندها را درون یک محیط منسجم، با رابط کاربری و میانبرهای کاملاً هماهنگ مدیریت کند.\u003cbr/\u003e\u003cbr/\u003eمعماری این برنامه بر پایه کتابخانه‌ای ماژولار به نام libstudio شکل گرفته که کاملاً با QML و استانداردهای کی‌دی‌ای پیاده‌سازی شده است. در پلاسما استودیو همه‌چیز در قالب گره‌ها یا «نودها» تعریف می‌شود و کاربر می‌تواند به سه شیوه به ویرایش بپردازد: نمای گرافی نودها مشابه نرم‌افزارهای پیشرفته کامپوزیتینگ، نمای بصری تعاملی همراه با تایم‌لاین، و یک زبانه کد که در آن می‌توان مستقیماً کدهای QML را دستکاری کرد و نتیجه را به‌صورت آنی روی پیش‌نمایش دید. جالب اینجاست که فایل پروژه دقیقاً یک فایل استاندارد QML است؛ بنابراین خروجی طراحی‌ها یا انیمیشن‌ها را می‌توان به‌راحتی در سایر اپلیکیشن‌های کی‌دی‌ای و پلاسما نیز فراخوانی کرد.\u003cbr/\u003e\u003cbr/\u003eاز بعد کارایی، پردازش‌ها در پس‌زمینه با تکیه بر FFmpeg و شتاب‌دهنده کامل سخت‌افزاری انجام می‌شوند، به‌طوری که امکان ویرایش روان ویدیوهای پرحجم حتی روی گرافیک‌های مجتمع اینتل فراهم شده است. این ابزار مجموعه‌ای متنوع از ابزارهای اصلاح رنگ با اسکوپ‌های زنده، ویرایشگر مسیرهای برداری، خط‌کش‌ها و سیستم انیمیشن پیشرفته با تایم‌لاین کی‌فریم، ادیتور صوت مجهز به طیف‌نگار، تولید خودکار زیرنویس با هوش مصنوعی و پیاده‌سازی صحنه‌های سه‌بعدی سبک بر بستر Qt Quick 3D را پوشش می‌دهد.\u003cbr/\u003e\u003cbr/\u003eپروژه در حال حاضر در فاز آلفای اولیه قرار دارد و برخی قابلیت‌ها مانند ساختار دقیق لاین‌های تایم‌لاین یا ایزوله‌سازی امنیتی کدهای QML همچنان در دست تکمیل و بازنگری هستند. با این حال، استفاده خلاقانه از پتانسیل‌های Qt و چارچوب‌های پلاسما در این پروژه، افق بسیار جذابی را برای آینده نرم‌افزارهای چندرسانه‌ای در دنیای متن‌باز ترسیم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتماشای ویدیوی معرفی کامل:\u003cbr/\u003e\u003ca href=\"https://www.google.com/search?q=https://youtu.be/fFAO3b0AeZ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://youtu.be/fFAO3b0AeZ0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
+      "date": "2026-09-11T16:32:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 228,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1789140675
+  "last_updated": 1789152216
 }
