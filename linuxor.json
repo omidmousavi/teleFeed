@@ -8,66 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یک نقشه تعاملی و رایگان از تمام استارتاپ‌های YC (یکی از معروف‌ترین و معتبرترین شتاب‌دهنده‌ها و سرمایه‌گذارهای استارتاپی دنیا) که طی 20 سال گذشته راه‌اندازی شدن؛ بیش از 6100 شرکت، بیش از 8300 بنیان‌گذار و 150 مافیای تکنولوژی اسم این ابزار YC Globe هستش.\u003cbr/\u003e\u003cbr/\u003eاین نقشه تمام شرکت‌هایی رو نشون میده که YC از تابستون 2005 تا امروز روی اون‌ها سرمایه‌گذاری کرده؛ حتی اولین دوره‌ی YC که فقط 8 استارتاپ توش بودن و یکی از اون‌ها Reddit بود.\u003cbr/\u003e\u003cbr/\u003eروی هر نقطه از نقشه کلیک کنی، اطلاعات اون شرکت رو می‌بینی؛ مثل دوره‌ای که وارد YC شده، حوزه فعالیت، بنیان‌گذاران و اطلاعات دیگه.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونی کل نقشه رو بر اساس این موارد فیلتر کنی:\u003cbr/\u003e\u003cbr/\u003eدوره‌ی YC\u003cbr/\u003eحوزه فعالیت\u003cbr/\u003eمنطقه‌ای که دفتر مرکزی شرکت توش قرار داره\u003cbr/\u003eوضعیت شرکت: فعال، غیرفعال یا خریداری‌شده\u003cbr/\u003eدانشگاه بنیان‌گذارها؛ بیش از 4900 دانشگاه\u003cbr/\u003eجایی که بنیان‌گذارها قبل از ورود به YC توش کار می‌کردن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://dashboard.vclense.ch/ycglobe\" target=\"_blank\" rel=\"noopener\"\u003edashboard.vclense.ch/ycglobe\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-11T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/pkukjlKcnDojyVQcj8vejuARIuqTVAYkZAu0mn38V6NdNOLhAZDiMKsfVTuKqMJhqrhpV5NMYThvZ9EFhGZvQuKFo130AY0WR06HCiNeNxTNFA1ZRyD1T987QXYrovWaYzfaaZRcXyptx4mI9MeBpGzF8j9Zq8bD1-MVkBXoP38ApHrn7C7nmQEuYGYu6PV6wUPI0QaoDmW61Xy3teFOwljYgE-SyKexm8QRzuU1hI8TM016ij_zqJcwRZQ45QtH8SsBo8LeRj5JEKWAdsOLod75psxAOHrXbhASg27PNyIdK1f6QJloq0nnVplmQNnU0jTk4pCqs8mb0PMUb5SHsA",
-          "width": 1230
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این cline مدلای خوبی داره. لینک زیر رو باز کنید و برید قسمت free:\u003cbr/\u003e\u003ca href=\"http://api.cline.bot/api/v1/ai/cline/recommended-models\" target=\"_blank\" rel=\"noopener\"\u003eapi.cline.bot/api/v1/ai/cline/recommended-models\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاونجا مدلایی که هستش قسمت id رو کپی کنید مثلا من دیپسیک رو زدم :\u003cbr/\u003e\u003cbr/\u003enpx useclaudeproxy@3.9.0 --provider cline --model deepseek/deepseek-v4-flash\u003cbr/\u003e\u003cbr/\u003eسایت اتومات براتون باز میشه تا اکانتتونو تایید کنید بعد تمام!\u003cbr/\u003eطبق مشخصاتی که لاگ میندازه میتونید هرجایی خواستید مثل کلادکد استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ maanimis",
-      "date": "2026-09-11T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TYTAhRVknnndO_DTmUGIjezbLMo0zXfbcvqdQu5J-FyyYVPLhFsnPDg_Krfr2XdOAHGcJLDTe43BhLCRWKHK8uBqNy2gIb_wFdazpGbXf48f77Sr4O3KUqnP4DPwP8T98wMSYkU2k94v76HyLHpt4KawURuzTlklz4KEOiMKxdK1QYNlfhSOrP4RKgQUmQ-CJY4wlEorOLIt5wRnOXSjw98P-G0qdYsOmzjmSo1fh5uE5CpwhAOkqUHG3C8uvI5VNBwv1Wk0aTVS7x2gvTEV8PreT7JvaR5LrQEy2Rxc91P4kbkzik0gFFfllJu4gn65g5cxSTu6XsxurmyLDljfMg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی وب به اینا میگن خرده‌نان یا Breadcrumb\u003cbr/\u003e\u003cbr/\u003eداستانش اسمش هم جالبه : اسمش از داستان هانسل و گرتل اومده. توی داستان، برای اینکه مسیر برگشتشون رو پیدا کنن، پشت سرشون خرده‌نان می‌ریختن؛ Breadcrumb هم تقریبا همین کار رو می‌کنه؛ یعنی مسیر کاربر توی سایت رو نشون می‌ده تا کاربر بدونه از کجا اومده و بتونه راحت به صفحات قبلی برگرده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-11T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZNLVqZEC_1B0HvA77W-hXyWWLs6eoviHMJZmIhedIFxF0WxuDz_5lKi5S_TS-ALbr9SHBewyE_zikRnuR-sYSBZZaPYOTTPwL3hYjppLwQnEFA0EvYwrrKMY7qjVGpBr30gzWMFT9-yUSdkGQaalAhRUYaBjw6wDQmYuRABes-7H2nVB-itTEcupEh6JSaOiJQqBMu4r5iuIxDeYIv7Zpy5b1DY9WB0g1E5HQG_AMf6ZJUt_pGRtI9VV9QNSG-39pyvEV4G4uWZ4TjfoYLy59Dn2S27gIISSvr4xU-xUQleTPazpOv43itumqPn6MXbdRzXc0bXg_iyjMnLCz_7eYQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e سرورهای اختصاصی و سریع: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87A7.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇧\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇪\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e پینگ پایین، مناسب گیم، اینستاگرام، یوتیوب و ترید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e تست یکروزه رایگان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۵۰٪ تخفیف ویژه:\u003c/b\u003e\u003cbr/\u003eکد تخفیف: \u003ccode\u003eLINUXOR\u003c/code\u003e\u003cbr/\u003eهمین الان برای خرید و تست بیا بات \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/walterbyte_bot\" target=\"_blank\"\u003e\u003cb\u003e@walterbyte_bot\u003c/b\u003e\u003c/a\u003e",
       "date": "2026-09-11T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +30,7 @@
       "date": "2026-09-11T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +49,7 @@
       "date": "2026-09-11T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7780,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +68,7 @@
       "date": "2026-09-11T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8060,
+      "views": 8300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +76,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/i6SF0SDsG9E8hbWy4nJ6rGjCd63Lx-4OgLLs6JCnktBhI-b4C5GYE0S7lrgIBujQnP59gGWxTT63vyLLdWHNIMoggoNbYMJ_93ZTVboGPbXnCfZlskVu1te9g-GsFEsr-iuj_cQEKB1MpYPRnE9giOcZ-Ni1XLJh-A2z8v2Djk-XZ4zTghWnJMFeQx2DU23RXvH5TJ7VLA8wM3ipzAQcbk2o1_2ocOjP23knoE3HsAMbCTJQC2UgYs8xtxrwTnnUUEItr__rgbMQfpxHyVPmYj97qOoe28bbZot3SxueB8TIXDHNHWvMOLX4UHwADNJrVQ6y6_UeUR_IxMHH3z0U8Q",
+          "url": "https://cdn4.telesco.pe/file/TIHUXPOymDDV2LyeTSLTs4xwknkp-BNKa2Uu9HhSJmJFzvM54K0C8QSKPGm6Ifh5mvCte84jZytuksulVn0Qr4-56SZR6wJiDVpdzkSEEOORNFLKcD9kqCaOpt8iP9Q6FJXTJaE11_umO34VzuWC6iRuOwrcVw-lZzB5FQ_2yjEkD31PPimfUBwfM8dE9useaTff_gKf7u-GQEmDYfQeTJNisxQ80F5VnlYPMYk7cOly-xCePZ8vdOvpaFCr0qXc8SGYAjs57GveUHRCssezSHogjPVcmqwl6pL_YX2A6GXUEwheagvxazQeV3ZN1cT0a6riZotL69Mf9XVLGyLO7A",
           "width": 1850
         }
       ]
@@ -142,7 +87,7 @@
       "date": "2026-09-11T21:32:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +99,7 @@
       "date": "2026-09-12T07:53:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +117,7 @@
       "date": "2026-09-12T14:31:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +135,7 @@
       "date": "2026-09-12T14:45:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5040,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +153,7 @@
       "date": "2026-09-12T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4840,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +172,7 @@
       "date": "2026-09-12T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +191,7 @@
       "date": "2026-09-12T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3920,
+      "views": 4730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +209,7 @@
       "date": "2026-09-12T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3940,
+      "views": 4820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +227,7 @@
       "date": "2026-09-12T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
+      "views": 4870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +246,7 @@
       "date": "2026-09-12T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +264,7 @@
       "date": "2026-09-12T17:25:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3430,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +283,7 @@
       "date": "2026-09-12T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1580,
+      "views": 3760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -356,7 +301,7 @@
       "date": "2026-09-12T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 854,
+      "views": 3900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -368,7 +313,55 @@
           "width": 608
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یادگیری رباتیک یه مشکل بزرگ داده ای داره؛ چون برای یاد دادن هر مهارت جدید معمولاً باید داده‌های بیشتری جمع‌آوری بشه که هزینه‌بره. RoboTok برای حل این مشکل از ویدیوهای موجود روی اینترنت استفاده میکنه و اون‌ها رو مثل یه کتابخونه‌ی قابل جست‌وجو از حرکات و رفتارهای دست انسان در نظر می‌گیره.\u003cbr/\u003e\u003cbr/\u003eبه‌جای مقایسه‌ی ویدیوها بر اساس ظاهر یا کپشن، مسیر سه‌بعدی حرکت دست رو استخراج میکنه و ویدیوهایی رو پیدا میکنه که حرکت مشابهی دارن. این روش باعث میشه تفاوت‌هایی مثل دوربین، محیط، افراد مختلف و پوشیده‌شدن دست‌ها کمتر روی نتیجه تأثیر بذارن.\u003cbr/\u003e\u003cbr/\u003eایده‌ی اصلی اینه که ویدیوهای اینترنتی میتونن از یه منبع صرفاً آموزشی، به یه دیتابیس قابل جست‌وجو برای آموزش مهارت‌های رباتیک تبدیل بشن؛ یعنی لازم نیست برای هر مهارت، همه‌ی داده‌ها رو از صفر با ربات ضبط کنیم.\u003cbr/\u003e\u003cbr/\u003eکد ها و مقاله :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/papers/2609.03199\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/papers/2609.03199\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-12T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cqKEQe_S4m9GteQ3O8Ww6mu003cBVfb2nlbHtoDLJHZYUki8x9KyQysklDvwYbWKpJWJ_uDNzCH0aoFmNKz-hXmRjieKG-NFmJvooZRi4JjhkbSvLv5tMu2Z-Tt5pdzExanZs651YpGR-hfWot8DR_9xatdaaVe-IcsrBSnkULnFboF5oQEpkOCaMqOp4-M5Jw3-B_3sshHyS8jg6uXrFQ8JwdG0R2uSJT1pRgCnW-rZDanTOJAB5dmFU7XNuW6HJWKAR84Z5FfLJ6fUmqifNvEsrmyORTuy0OXDaPydLTCqEpT6HfKoo-MRGfKQWrf0C-Mm9KW5AHAp4XKSDaTshQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینو نمی‌دونم دیدید یا نه، کلی چیز رایگان برای برنامه نویس ها و توسعه دهنده ها جمع کرده توشون بگردید چیزای خوبی پیدا می‌کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://free-for.dev/\" target=\"_blank\" rel=\"noopener\"\u003efree-for.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-12T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/V8AIgaqN8onYhF2Lk8lFPZi7j1UFwaVd1DCLibjT8lIdY3ecV5mTGy9-0g768BN1IWSaowcBoOmJmEStneG3AAFOyKXZoHehOX1IwNeuqTH021FsX9uc2Nb9_orDk_VlI2qP5d2ye33Ph7PdJAWk6va2JaHXZ4-2zI9DpvV_omM0t-K8SHzNIuRagBf5Dinq8oygx79qMPlx7KmwAms0WlVJL68sfc5Abqa5DSKjjXqfHi6IvDr-meESz8Jk-C4DHg7ffkDjZgjMyRzs7uZGPNnonlBfBWGNjL7KgNBtmTbVmVUNjiccp65hdzo_lOV7hbGe-6yPeGNXvxDU4u53zQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه راننده تاکسی بشم 8:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ اگه توی یه بازاری باشی و یه مغازه یا کسب و کار داشته باشی یه نفر دقیقا بیاد کپی مغازه و اجناس تورو کنارت ارائه کنه، درآمد تو به احتمال زیاد نصف نمی‌شه؟ درسته منطقی نگاه کنی مشتری ها نصف می‌شه ولی چون پاخور رو دو برابر کرده عملا مشتری های تو نه کم می‌شه نه زیاد معمولا چون اون زیاد شدن پاخوره نصف شدن مشتری رو خنثی می‌کنه، بخاطر همینه یه پاساژی مثل علاءالدین تهران که 1000 تا مغازه توشه، مشتری های همه کم نمی‌شه و بر عکس پاخور شاید 5000 هزار برابر پاخور زیاد شده و از حالت عادی تک مغازه ای هم مشتری هاشون 5 برابر بیشتره، بخدااااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-12T19:29:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1789239132
+  "last_updated": 1789247205
 }
