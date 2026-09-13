@@ -8,103 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "استوری رفیقم! تازه دیروز بهش گفتم نیازی نیست کد رو از چت جی پی تی کپی کنی با ایجنت بزنی خودش واست مینویسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T07:53:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dqd-r7A3NQoSCEwnnwW18OpLMZOKLzQOpfI6Fu7C1GfdW-yWxHbxBSIflQd9KArO2CsXrU61txiTx5PsBgburQ2K8iqKtwwm8dg4AJ8En8ZtYe1zSxoNYG5PEI3cTtVFN89Yzd9HqkNfpOfqjjs_4hOAWG8FiyK2vtLxTElnSeTNBxOoNAkvQwT_kHWqW0Gu9L6a-fwN6cZnL67tkvzptq-Pw39YL7TrFc62ydpXpXDxVYhMVQVFKUCNE9N19XTkOZt5IDDs7ppiqDaSwjkojSlFlliTKIedf_PwtRG3-mBJl82eBLVIZ_49hiR8PHY_Z7rKf9kJlgJLTbJpKphusA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "روزهای پایانی ثبت‌نام بوت‌کمپ توسعه نرم‌افزار رهنماکالج\u003cbr/\u003e\u003cbr/\u003eاین دوره بر اساس نیاز بازار کار یعنی فهم و تسلط به اصول و مبنای مهندسی نرم‌افزار و به کارگیری AI در مسیر ساخت محصول طراحی شده ا‌ست. \u003cbr/\u003e\u003cbr/\u003eاین دوره پروژه محور است و شرکت کننده‌ها به صورت تیمی روی پروژه کار خواهند کرد.\u003cbr/\u003e\u003cbr/\u003eامکان پرداخت هزینه دوره به صورت اقساط نیز وجود دارد.\u003cbr/\u003e\u003ca href=\"https://rahnemacollege.com/software-development/software-development\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدیدن شرایط و جزئیات بوت‌کمپ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/rahnemacollege\" target=\"_blank\"\u003e@rahnemacollege\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://jryn.me/1Zz3KZ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://jryn.me/1Zz3KZ\u003c/a\u003e",
-      "date": "2026-09-12T14:31:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/m00eip21CcqBMXo8e0voH17am82HCqfLOgRyNmojYmASkZE_rB9L4qoVokki7SKDqWNIho9i7oyLR9Q40iHDTAV1gkWdA3fmq2_OvSS1SMOdbpABCc9gq32jBprJb32nLDVJBA3iQZu-qQgZrGZHbl9m6ExCzjxdrAgtY3IytfPq1NvG0VxheNLnRVMYlKsdS1BxSvA4I_YdSMNsJvDIhPx32ZMYtYS206De_SP64fvmfPw8MpKSjAGszXQA4_xEXQ-2fQiotnIU4exBkNraW7Zg_blY8f-Z6W3dIRs6UrNxh-9OebtPQezfRkRirEVhJ2L2Wvd7WXbY3XlazvluXQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این یه اپ دسکتاپه که چینیا ساختنش برای ساختن Knowledge Base شخصی با کمک LLM هستش؛ یعنی به‌جای اینکه فقط فایل‌هات رو بندازی داخل یه RAG و هر بار موقع سؤال جواب گرفتن دوباره از بین متن‌ها Retrieval انجام بشه، سعی می‌کنه از فایل‌هات یه ویکی دائمی و به‌هم‌مرتبط بسازه و بعد همون دانش ساخته‌شده رو نگه داره و آپدیت کنه.\u003cbr/\u003e\u003cbr/\u003eفرض کن یه پوشه داری با:\u003cbr/\u003e\u003cbr/\u003e500 تا PDF\u003cbr/\u003eمقاله\u003cbr/\u003eفایل Word\u003cbr/\u003eکتاب EPUB\u003cbr/\u003eیادداشت\u003cbr/\u003eصفحات وب\u003cbr/\u003eعکس و فایل‌های مختلف\u003cbr/\u003e\u003cbr/\u003eابزار LLM Wiki می‌خونتشون و به‌جای اینکه فقط بگه:هر وقت سؤال پرسیدی، می‌گردم ببینم کدوم تکه از فایل‌ها به سؤال مربوطه. میاد یه چیزی شبیه Wikipedia شخصی خودت درست می‌کنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/nashsu/llm_wiki\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/nashsu/llm_wiki\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T14:45:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b72jxQ1ok6SLMmyHMIZbc_Y8OMEbmVB_5bvcYyunAANGCPEoh4v-Dqh3gx53qb6XdOarRjjQLEAhCC_I217y4AZ8T1fIyDdBwzBXAM-RvaBm3wOcTb6r98o7AUsHOb6VJR-Y2dQ6TsdtPCDwdEF06kDr1I3BHGD7kqp7uxSspVv_vICLUoUhXWnt0U_0j0uJPhYIxwT2RxZx_k9w4MRVmxsh-XKI2VYlRkiTJ2AC6lL8QAB_u4tuhLsMDn1YW5YQXnhsFnePyv59vfDlhkkORhVvUpfn9WPVXTOotoMpeM8KGaVpvOnMyDBoXnKpSLaaM1-Y0Fq05dTS3AyYx_1c5A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "احتمالا اخیرا دیدید ربات های چینی کلی حرکت نمایشی و رزمی میزنن،‌ با پروژه UMR میشه حرکت انسان هارو به ربات منتقل کرد البته فقط نمایشی نیست توی صنعت خیلی از کار های انسان ها که خسته کنند هستن باید با ربات جایگزین بشه.\u003cbr/\u003e\u003cbr/\u003eمثلاً حرکت یه انسان رو می‌گیره و با استفاده از Point Cloud Correspondence، اون رو برای ربات‌هایی مثل Unitree G1 به trajectory مفصل‌های ربات تبدیل می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://hanyang9.github.io/UMR\" target=\"_blank\" rel=\"noopener\"\u003ehanyang9.github.io/UMR\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/unKaOvfoMmqie5WTKDgv6dsPVmslwD-QIgUbwNrV8vg3w65fos11BSc8HbuDibCv5U3tJ-Orcqrd57QhDlD5kzz2h2QW2mhIAQXasMD0okgf7xWaJoDoK23Rp5GylgqgXDbRc7Cc2g1aWD3ICg0Mtybt1Ou_jDCh7N2bBAcELDmAWtg8PVxJZF-KvvEfs4i6ZF0EylNZtwTerp2BrOpscAFAfIjgl2Yrub8YAQPpcyoNPHQrLIRcPTuJyRUIMzVFMx5fE6rumubLJif6L5nrpA4UEVm8jfrDHBqQGokfOFcqvGNRpTMf91iv9znngBlz-cyxXdOtkpYCJyoGoecxDQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه می‌خواید لینوکس یاد بگیرید فقط خوندن دستورات کافی نیست باید تستشون هم کنید این ابزار که برای یادگیریه یه محیط تمرینی شبیه باشگاه که بهت task میده و تو باید با Terminal واقعی حلشون کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/iximiuz/shellgym\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/iximiuz/shellgym\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T15:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/u6QX0oSzqGHxwMzzALN44Qs1lR-lF5UfzJjJ2iLDl3mW37oXN3C_vT6Og4sP2FeEausTdlI-VyNGnO_z3aTiC-andYu7UN4pxfAFRqinvAcZAYZvyteywJ5dH_W0WLTTt4vqKAj34IVyGwyJdT4qznHa61sPlFWEO6JC24WhVBhIBecUCVTZQ1oMLqNaAXoyB6E4y77rANd3f8rHgvArHCKKL-p0uHuOHQhrhfjtPXx0UWvKggOcaEA8ueADNk79oMHijnP1aTlPoOXvfd_MYW4NUYeJRA4p9M6na_VnEAKZjgSTxcdEIbEsObLbRXPooVnjYpbmuSKxsb3-sTXQOg",
-          "width": 2562
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5276424673834317384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنا\u003c/b\u003eمحدود | حجمی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352792306208480366\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e هلند، آلمان، ترکیه، آمریکا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465169030291673198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پایداری بالا\u003c/b\u003e      \u003ctg-emoji emoji-id=\"5217757821457684103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eضمانت بازگشت وجه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن حجمی از ۳۲\u003cb\u003e هزار\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن نامحدود از\u003cb\u003e ۱۷۴ هزار\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859297284029681680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید و تست\u003c/b\u003e:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5276040424585185834\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Mastvpnbot\" target=\"_blank\"\u003e@Mastvpnbot\u003c/a\u003e",
       "date": "2026-09-12T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QzJAFu2FZaINHX6_ogUE3tAtKxCS53IlzMAucAt2awN9g7aa5G9vHDy5j3qrMP-1M-uKy5qPvUlwn9Kx6Uajrg4pqeuPxnuF1ax-3piOv5d2RuPxAO8G7mQfI6kSOiA3IZzQNu0cRMIfK0S9ieA3Zt-a-2TZninUNFdQbPI2EGhepd2Ix0Xfg5LEVts39DFmSPGU4DTC6YLZoEMM-2fyv98h26u-0vgIb7DG4PEINcLhMPKl5ejkJCcowcEJE1ilUUk61y4kxqQju0PRxAmIhleZo1wT5mi9iehBDbg4PqkPEaZvoc5HRlYKYGtNv0uPWvLhdUWVnCMfqeiKljulVw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Rb36BJSgyRD5CarvrMtoU9Ih0ja6y-vBMcB3A8mF5_RAXGkZyxXACVOWJanemtoHX9N8RXogadxTVQWtXbRZ4xP0PImfdcUh1O25hF7roUFEQqa99gboBVPavfqAb7JeunFhdkghNSUnoqlTN2bZHmk-qrBEVm5M1C3aT7bKjcf5Ob04cl0CElUItqLxzvNlxtStTo0oHGjnyfibiO-9k7pVMypHNr_CCkbrKNy7bMLxO3NjYC7jI84tD4QGJOuBEejEqpiOhuc59Vot-OAmaBhTKM-_Uw3_3DbSkAlRvumc8mS4XB8wQt0IULcnkeLMTPibkLGuTu4bW2F1THIftQ.jpg"
         }
       ]
     },
@@ -122,7 +30,7 @@
       "date": "2026-09-12T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y9dKjvBOabgtO8yUGZiqH5WFS287KGDTc2fiOrNxzJoOeN9uD2lz-3p1p7ALruQg9rYnDGHU2QAQfymk4mcjvDM2FLWgfJ4L0ITwRITm9xubS277hDbHctm7DlhbdmXKi7sjRwxFkftcV2tu8ncNCsUYHC1zqL7nLe-vDg18ZsHMjv8JIDLDuCvKwgRTLOU0P8BLzLP4cpFQmNUt1W2Yy8lmYutLt0aPKJzh34ku4OUz48G3745r6ro6Csx06Y6KBTflm90Tp0yhK_VEESw_uRAxNW9Eur04VEU_8Qhl1N2ToA5c0DHnHz7OwbCctikXbttHhwMbG-ZXbGKxu3qA1g.jpg"
+          "url": "https://cdn4.telesco.pe/file/AUuyU2Fw47W7DEuBl5gQm60cWXzN0a195cKdB-4Es3EEJIaim6WqSTG9Fi0pD8JKZjGlCdQtqYKjzNe_xM8G0G3rC66pI03Giw8wDAKJO39NGC2esD1JdMK3chJRDyCra2lkFuUNdMAW_sLWqB8AvVyaPDqdAhncoXwFcntqg73rgqdfFXPzFRf3YKiByiZyvRa17DA6HYCfwE6nLxy-Zn96Gl7T2xklbYmHTW1I8El5lAGFXH6B3Dzp5aEteNeWc93EwvPgEe1jLCePYRtP3_WKhaHjW7F2Q3ZQBZgUSlLLTF_6H7wmXaar6rmZ4AK8X3OYFhmvWjTliVONWGiffw.jpg"
         }
       ]
     },
@@ -140,7 +48,7 @@
       "date": "2026-09-12T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +67,7 @@
       "date": "2026-09-12T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +85,7 @@
       "date": "2026-09-12T17:25:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +104,7 @@
       "date": "2026-09-12T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
+      "views": 6050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +122,7 @@
       "date": "2026-09-12T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +141,7 @@
       "date": "2026-09-12T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 6720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +159,7 @@
       "date": "2026-09-12T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +177,7 @@
       "date": "2026-09-12T19:29:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +189,7 @@
       "date": "2026-09-13T09:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4740,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +208,7 @@
       "date": "2026-09-13T10:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3350,
+      "views": 5490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +220,7 @@
       "date": "2026-09-13T11:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2820,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +238,7 @@
       "date": "2026-09-13T11:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2320,
+      "views": 5090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,12 +257,91 @@
       "date": "2026-09-13T11:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 4840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5368843260418600395\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهنوز برای الگوریتم آرنا دیر نشده! \u003ctg-emoji emoji-id=\"5368843260418600395\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5442894213203117439\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91B1E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e👱‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eچهارمین دوره\u003c/b\u003e \u003cb\u003eالگوریتم آرنا\u003c/b\u003e برای تقویت حل مسئله و آمادگی برای \u003cb\u003eمسابقات\u003c/b\u003e \u003cb\u003eالگوریتمیک\u003c/b\u003e \u003ctg-emoji emoji-id=\"5444965061749644170\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5402406965252989103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5407080598340642068\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eالگوریتم آرنا، مقدمه‌ای برای مسابقه بزرگ ACPC آینده!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5323608798001131201\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارائه‌های برگزارشده ضبط شدن و ویدیوها در دسترسن\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5345843457145453967\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۶ ارائه تخصصی | \u003ctg-emoji emoji-id=\"5332564925799745638\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8F.png\u0026#39;)\"\u003e\u003cb\u003e✏️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۳ کارگاه حل تمرین\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4940645878684713890\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حضوری + مجازی | \u003ctg-emoji emoji-id=\"5818775306974006843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی آفلاین\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5363789977991793835\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e۵۰٪ تخفیف ثبت‌نام!\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5233331433002517923\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9F.png\u0026#39;)\"\u003e\u003cb\u003e🎟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کد تخفیف: \u003ccode\u003eSPECIAL-50\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5429455831764584284\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرصت رو از دست نده؛\u003cbr/\u003e\u003cb\u003eیاد بگیر، حل کن و برای ACPC آینده آماده شو!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5336990881008340733\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206594230792756692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ثبت‌نام: \u003ca href=\"http://ACPC.CEIT-SSC.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWebsite\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5237697567906617034\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در صورت هرگونه پرسش یا ابهام:\u003cbr/\u003e\u003ca href=\"https://t.me/acpc_admin\" target=\"_blank\"\u003e@acpc_admin\u003c/a\u003e",
+      "date": "2026-09-13T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kBIA-DtWJFFaVHJX1huycRpIwaDoj-XLuA8jTXOWhKwL532OBEWLH1t3Ur4Liw3w2NXf34HTdH8IYe-fC1P-vatmEPeTAde5KNfsejCwvdqN3V7SBJN7WPxbPdG4LltWuXeRqxMgyTa05e5WKEY6IfUAsi_NZcXFQs8TU7srgZoGu3Rovptjt2uJ2A7QtYVByZD13av8A1K0jEfbXmHAQ64vmmqwd-EyjTIxfkLzDnpvjbyJcPz7GBlO_nRLkFaQAPE9EGZRYNBmwrEaakg2RrWIq6viPAieIPXFVYWewwbiBXTlaQtvBeDIfOX6cv9UApERQn6H0Y3dMkDUCbx_4Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه روی پروژه ای با هوش مصنوعی لوکال کار می‌کنید و سرعت و زمان مدل پاسخگویی براتون مهم نیست پیشنهاد می‌کنم  بجای مدل های سبک و ضعیف از مدل های سنگین استفاده کنید، ولش می‌کنید به امون خدا خودش براتون با بهترین کیفیت کارو رایگان و لوکال انجام میده فقط یکم کنده، Colibrì یه موتور اجرای مدل‌های زبانی بزرگ (Inference Engine) هستش که هدفش اینه مدل‌هایی رو که از نظر تعداد پارامتر خیلی بزرگن، روی سخت‌افزار معمولی اجرا کنه؛ حتی وقتی کل وزن‌های مدل توی RAM یا VRAM جا نمی‌شن.\u003cbr/\u003e\u003cbr/\u003eتا الان چندین پروژه در رابطه با این قضیه معرفی شده ولی این یکی جدید تره و روش دیپ سیک 4 رو، روی یه لپ تاپ معمولی اجرا کردن با سرعت 1 توکن در ثانیه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/JustVugg/colibri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/JustVugg/colibri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T14:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EmnIkYriTmQ6XPZELyz9LXz9r2xBN0pSFSSsBuXf1t4tKPxllJTOo33gLLDHpxy5gi96tPik4a7I0jipFC2zm6XWDoGpVicxBTNw09_EVxl-Wihwb3QcbZWhc-39JII6DeT44NKJncS3seQh786He6UgAhkypdwQerS6_KfPGeuDTqJI36eiu7fLZtkc1v2FCRsBJgRGW5j3lJUaEVquI3TB4zpqCFYcE2QHYNp1ZDV7nNmKc0AlZcAQUPkshoMLUZC553vTa9SP4fNqGsbXXRvrARWflk_w0DkG2atfiUD5kopPcnYJE5bR3wph1Ut-BNPrbiky_I8pNoRX11KSCg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من نمیدونم وزارت ارتباطات منظورش چیه هی میاد میگه رفع فیلترینگ فلان چیز کلید خورد، رفع فیلترینگ IPV6 کلید خورد.\u003cbr/\u003e\u003cbr/\u003eدقیقا کلید خوردن یعنی چی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e؟ این چیزا اگه واقعا قصد انجامش باشه کمتر از یک روزه میتونه انجام بشه اصلا فرایند پیچیده ای نداره که بخواد کلید خوردنش اعلام بشه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "جدیدا انقدر با مغز این مگسه دارن ور می‌رن، آخرش جای هممون رو می‌گیره ببینید تایپ هم بهش یاد دادن!\u003cbr/\u003e\u003cbr/\u003eسرعت تایپش انصافا خوبه فقط حس میکنم توی واقعیت زورش نرسه دکمه کیبرد رو فشار بده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/v1uxa8mvD5jwa6pzSvIw_Rn7-7biljNnvagpKGuin0AojloPQ2bSX6wOnoftdHzEM04TPyDM6b0uPilPfVsUlYs5llLZWPa7ZcAWkikDGSgJ7yzewGc5I6zm07wE60gKfL1oplWARxBMuWuF3eh_oc2JhXYFUZ4vh7I8eT8mmhtgVJlSmaBsTecmNP5Odz3esSJIhROLKs3KbY6A2Pkl1PsaZrHNBxjVZ-SuM5g_G2Lg2QN-Wo-uxCaAVbJUqkYsDJdJ_Muj12wEEJAMktzrAexmmk6Dny0ijU11gpryBfez_HjvME8n0I63wRC1GK5nl7OPF55l8KCqwEIhadA8jQ",
+          "width": 2704
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اکانت‌های Gemini Pro، ChatGPT Plus و Claude Pro با قیمت مناسب و تحویل فوری در ACCMARS موجوده. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eخیلی‌ها اکانتشون رو از این سایت تهیه کردن (دارای ای نماد)؛ یه سر به سایت بزن و خودت قیمت‌ها رو ببین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e ACCMARS\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars\" target=\"_blank\"\u003e@Accmars\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars_Support\" target=\"_blank\"\u003e@Accmars_Support\u003c/a\u003e\u003cbr/\u003eپیام بده، سریع تحویلت می‌دیم",
+      "date": "2026-09-13T16:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 377,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1789301399
+  "last_updated": 1789317080
 }
