@@ -8,121 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5276424673834317384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنا\u003c/b\u003eمحدود | حجمی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352792306208480366\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8E.png\u0026#39;)\"\u003e\u003cb\u003e🌎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e هلند، آلمان، ترکیه، آمریکا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465169030291673198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e پایداری بالا\u003c/b\u003e      \u003ctg-emoji emoji-id=\"5217757821457684103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eضمانت بازگشت وجه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن حجمی از ۳۲\u003cb\u003e هزار\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467928559664242360\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپلن نامحدود از\u003cb\u003e ۱۷۴ هزار\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859297284029681680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید و تست\u003c/b\u003e:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5276040424585185834\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Mastvpnbot\" target=\"_blank\"\u003e@Mastvpnbot\u003c/a\u003e",
-      "date": "2026-09-12T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Rb36BJSgyRD5CarvrMtoU9Ih0ja6y-vBMcB3A8mF5_RAXGkZyxXACVOWJanemtoHX9N8RXogadxTVQWtXbRZ4xP0PImfdcUh1O25hF7roUFEQqa99gboBVPavfqAb7JeunFhdkghNSUnoqlTN2bZHmk-qrBEVm5M1C3aT7bKjcf5Ob04cl0CElUItqLxzvNlxtStTo0oHGjnyfibiO-9k7pVMypHNr_CCkbrKNy7bMLxO3NjYC7jI84tD4QGJOuBEejEqpiOhuc59Vot-OAmaBhTKM-_Uw3_3DbSkAlRvumc8mS4XB8wQt0IULcnkeLMTPibkLGuTu4bW2F1THIftQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه ابزار جالب برای ساختن برنامه‌هایی که با وصل کردن بلوک‌ها به هم کار می‌کنن  اسمش Rete.js هستش. اگه ابزارهایی مثل n8n، Node-RED، ComfyUI یا Blueprintهای Unreal رو دیده باشی، احتمالا با این مدل محیط آشنا هستی:\u003cbr/\u003e\u003cbr/\u003eیک Node می‌ذاری\u003cbr/\u003eبه Node بعدی وصلش می‌کنی\u003cbr/\u003eهر Node یه کار مشخص انجام می‌ده\u003cbr/\u003eدر نهایت کل این زنجیره اجرا می‌شه\u003cbr/\u003e\u003cbr/\u003eاین یه Framework برای ساخت همین مدل محیط‌ها روی وب هستش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/retejs/rete\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/retejs/rete\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمثلا عکس بالا یه چت بات کوچولو با چند تا بلوک ساده ساخته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AUuyU2Fw47W7DEuBl5gQm60cWXzN0a195cKdB-4Es3EEJIaim6WqSTG9Fi0pD8JKZjGlCdQtqYKjzNe_xM8G0G3rC66pI03Giw8wDAKJO39NGC2esD1JdMK3chJRDyCra2lkFuUNdMAW_sLWqB8AvVyaPDqdAhncoXwFcntqg73rgqdfFXPzFRf3YKiByiZyvRa17DA6HYCfwE6nLxy-Zn96Gl7T2xklbYmHTW1I8El5lAGFXH6B3Dzp5aEteNeWc93EwvPgEe1jLCePYRtP3_WKhaHjW7F2Q3ZQBZgUSlLLTF_6H7wmXaar6rmZ4AK8X3OYFhmvWjTliVONWGiffw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی الکی گفتی سینیوری و یه پروژه ای که روی پروداکشنه رو قبول کردی ولی هیچی ازش بلد نیستی و قراره تازه یادبگیری\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/D1Awq6hmI2gP2EfIgMps_BL3T5bOTEuDhrhJGO9noEkhOKLi5v80w7NigkBGNhQNv1NKpskc6Brt4gaLJL5fLhIQzHTCrdnxs38veXnqlmJkeTXO-wLe5ltHZ6LpZfmIn-q96qMuMbKlegu2P4YXiWox6zhEfIZ_JztJ9v8mJ8-ehTTQRYK7Qnmd0WiTAW1CzUJbWA3Kwn59gntShHmSMq1Bk4GQ2-mE7bJppg_pezjpoo9acsMQkMq_dxr9815EZphRsNBIrRPOSeD6L-vVp7Fd_M1gAcz1mLOml_Ng8556BhSSToFmUAZqE94BIO536Z3EEFLLg3K9vkHFtH8B3Q",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این سایته هم بهش آدرس سایتتون رو می‌دیدو می‌گه آیا سایتتون آماده انتشار هست یا نه و مشکلاتش مثل تگ ها، متا دیتا و ... رو بررسی می‌کنه و حتی در نهایت بهتون یه پرامپت می‌ده که بدید به هوش مصنوعی مشکلات سایتتون رو درست کنید\u003cbr/\u003e\u003cbr/\u003eالبته اگه امتیازتون پایین شد نگران نباشید گوگل رو بهش دادم امتیازش شد 64 از 100 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e البته گوگل کد هاش بد نیست ولی بخاطر هر مشکلش دلیل داره مثلا 6 تا از عکس هاش اتریبیوت alt ندارن که دلیلش احتمالا گردن کلفتی توسعه دهنده های گوگل باشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://isreadyforlaunch.com/\" target=\"_blank\" rel=\"noopener\"\u003eisreadyforlaunch.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iDwWeIL-gwO42AAcazfsXzYu7_RCnTdLU-nUBIh00k2MmgzpzL3lqHsZF8s5KXSfgvT_ba_tjHnqOQ6KDqV7Vj9iv668644oysw_mwmhIRnxWhARjC319RdzhJK5tnkfv0wLBMba_u9TCqx350SER25xXnu9Kz4S30pmJU4DmefBFjdMHtD03ZK6N8WYj-z3ICx_MdZEAHejttSbXrHrO0X8irBnFLtOJYhrQtBRGt1ikBtUHf1-dKwRUFQ0JEsfCcWQchdpZpnocE-FnaMO5kNMTyOVtleMJBAt5eMZFQiTmu40q9xNVdk1xwQm_v8a96ZPOxb5ucaOY2bWni0eig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر یه مگس رو ترین کرده که با آیفون تاشو بره توی اکسپلور اینستاگرام. (هدفشم هیچی اعلام شده)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T17:25:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QZE0c0OK7jgUd6hh7Jf57H9feKrH4HOSD4ceSkaD8CBC6ihaddM3NlTYJOvHhfp0oFPKeyD2QLCQnFvHC1aFI53dFbVIB9cLPd_07TWN10wmnc8jDEtk7mj5A5aVVzbxxtbFuldMo3NiWJFQwe9A_uRdoZUsHwpO08g8AI-u6s-Xrgr6N-8DwLpt0TB_W8F5JB3XOta5Y0A_ceHRWA5XQ6KPFjF5EqhQDx--jJCuJjDyrhD8Fcya4xaILsJq7_K8Y_-wurRO0_iM6WzOsGNtSvvBd7zLoy3XcRqhb75pq85AP8d-Jekf_u_sBdo8mYAWfkmF34c9uxnL1qpQD-NLTg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5172522439917175584\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eچرا هکر نمی‌شی؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e فقط ۴۸ ساعت فرصت داری که دوره هک و امنیت کوئرا رو با ٪۵۰ تخفیف ثبت‌نام کنی!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4967518033061872209\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکان پرداخت قسطی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://quera.org/r/s5cqh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://quera.org/r/s5cqh\u003c/a\u003e",
-      "date": "2026-09-12T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oY3uW6ueijKdgHOkmOOhRwO1OgGrQu8ydHDtaWwO9ESUsQLO-RUdBBAsp0Q_DsA6A3ziXg0zv6jv0EsXoct61KF2iTqXJakJ8Ja7KWDtjgRBfjZLL0sxUBVSdm-rYJ0EQaGgfSia3ZJZt3lHC67PTP7avQkuxnRIFPjghRZ2kPc3yRTavchZZM-TNT-VklhS82Z3QcNwJZkeE7cRy4BwdnKhBT4z64GEb_FNnu_vkP-HJOfFrtLHyjAQfg2lC0NVyAyWMI5b7f0mB9HusfHE3BXGCJngX-WWd_Aq70NpS8DUQ3_58Ug6JM4sLUsmT7jyHmBCKETBAaTk0qoyVhiUsg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه پروژه خیلی کار راه بنداز پیدا کردم به اسم Camera to Blender هست که باهاش می‌تونی از یه آبجکت واقعی با دوربین گوشی عکس بگیری و خیلی سریع اون رو با هوش مصنوعی به یه مدل 3D تبدیل کنی و مستقیم وارد Blender کنی. \u003cbr/\u003e\u003cbr/\u003eپشت صحنه، تصویر می‌تونه با Gemini پردازش بشه و ساخت مدل 3D با Tripo3D انجام میشه؛ بعد مدل به‌صورت خودکار وارد Blender میشه.\u003cbr/\u003e\u003cbr/\u003eبرای ساخت سریع Asset، کانسپت آرت، VFX، بازی‌سازی و نمونه‌سازی خیلی کاربردیه. البته چون مدل از عکس ساخته میشه، نباید انتظار دقت اسکن 3D حرفه‌ای داشته باشی؛ ولی برای تبدیل سریع دنیای واقعی به آبجکت قابل استفاده توی Blender واقعاً ایده جذابیه. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ahujasid/camera-to-blender\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ahujasid/camera-to-blender\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-12T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XaXpN6VyEMIlXOAq3uxW99AjqQcfy6qXv6eejwhfw4RSP6DKnTDDK9NWkl-19pOSnllO5IJdQpZ2cZnIB9CZVAhE2A79AXzBfF4eN4Tbz0gsrMS6FaxrfNJXCdSqtK8uimyxJtV3qWe2qmVJlONeZ38m-rVqSizbVLF-R2Vnc-1puUsLFMtkkTrIpPPJl7E3ob6HaE0l6XM4XKd6bkg14s1N2N3D0ylh77vkMmKJz6RKuTc9J-BXC3_7T5ygky1Q_dn4rICSPw5RbcMbPYIQJEkfttRRiKF-DZX5clzKidRTMvE52ps7aq5yGGuvCz8RLEROBkJlTcetmIqNVFyFLQ",
+          "url": "https://cdn4.telesco.pe/file/ukR6eN_3lIGUwpSANqvJQCzWtpFlpFajIm9TG8SrSheZMar2opE-W24gixf6W0InmQhk-OxgNAAv_oiudIHWFUcIZLvtzkGveKtRpHzZkQjxLNHM9DmQ9x_2PNUpqnMNYf0t3sJB92AlyzkYChZ0PxLZHpNOtIs8F0cWDudFvzxcGyHmL0L__G5Z7jdZP0h0kFA67DWmqKCF9U9EJv0J5UCTtVaZ6qxIGwiBsIn5PvGtqROm7_N0okrn5MU-hLs76WLjvs-f8PqNLHCQYUulHA1v6SODze7vqvoVhlQbpW-MYEr9VQxdvlAnz1XITf0XAOP4KoAHNUlFAN-YkZb11Q",
           "width": 608
         }
       ]
@@ -141,7 +31,7 @@
       "date": "2026-09-12T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 7030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cqKEQe_S4m9GteQ3O8Ww6mu003cBVfb2nlbHtoDLJHZYUki8x9KyQysklDvwYbWKpJWJ_uDNzCH0aoFmNKz-hXmRjieKG-NFmJvooZRi4JjhkbSvLv5tMu2Z-Tt5pdzExanZs651YpGR-hfWot8DR_9xatdaaVe-IcsrBSnkULnFboF5oQEpkOCaMqOp4-M5Jw3-B_3sshHyS8jg6uXrFQ8JwdG0R2uSJT1pRgCnW-rZDanTOJAB5dmFU7XNuW6HJWKAR84Z5FfLJ6fUmqifNvEsrmyORTuy0OXDaPydLTCqEpT6HfKoo-MRGfKQWrf0C-Mm9KW5AHAp4XKSDaTshQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/hmHfwoUZLLSdxmxTox09b1tji5mEV8bUuxJblkJT2viX8nLClIlZhUl2c_nEdZTMmE44zPv-eJxgOMNkoo0vkmJjY6PkAErMZHRxWuHmjMyuEmAEVkevqS_hguVecq2PfcQ8bOG9f84PDHupF7cXc4kuPPpyKofB_O6ccHh1Mi11zj_wIWn2D-qPUsaKNozL_JQKEXb3xHIVGAWxDe8eD6iidw9T1yDwm0Li6TuA-pZXCFM-2kk1-op5vXMuPOfwyZ-qp9RUohrLjfFRPD-7SapD3PY2idimQKdRoCHWGW6cxaz4i3Rt88w_-NljaZBncxJNFx02t2dylZZfQwvfFw.jpg"
         }
       ]
     },
@@ -159,7 +49,7 @@
       "date": "2026-09-12T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V8AIgaqN8onYhF2Lk8lFPZi7j1UFwaVd1DCLibjT8lIdY3ecV5mTGy9-0g768BN1IWSaowcBoOmJmEStneG3AAFOyKXZoHehOX1IwNeuqTH021FsX9uc2Nb9_orDk_VlI2qP5d2ye33Ph7PdJAWk6va2JaHXZ4-2zI9DpvV_omM0t-K8SHzNIuRagBf5Dinq8oygx79qMPlx7KmwAms0WlVJL68sfc5Abqa5DSKjjXqfHi6IvDr-meESz8Jk-C4DHg7ffkDjZgjMyRzs7uZGPNnonlBfBWGNjL7KgNBtmTbVmVUNjiccp65hdzo_lOV7hbGe-6yPeGNXvxDU4u53zQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/lQQhUQAlj2tfFtzcYp4A-QKplJnUyWHaDDSpIGSyA5ACaTC-cgRl_Zt3u8gqxcy77blPNOdGzDj1OErMPM_MH1lkykO15YTETzm_ZfoyAVphrgTW9g6u_3974-vX9ix-Cs8FRW6WlaWp_C_MECrQVo0avP8qQPvc1rLpusai0aFMRkpnLYx2o6pm5cbKu74yY2iQb3dII8I2nQ_bk-OEyFhTqb1G1UEvay262GSuVBOBf220TN-_5MB55Ic3mhLoqiOhzhmMHr4DNRPmnnoT3x6VH0ssxckrOsTA0B4aOvZfSxGnnZhmWlegGfbnUh3ERVuf4okPzTKRMIXoJ1Bk6Q.jpg"
         }
       ]
     },
@@ -177,7 +67,7 @@
       "date": "2026-09-12T19:29:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7110,
+      "views": 7380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +79,7 @@
       "date": "2026-09-13T09:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +98,7 @@
       "date": "2026-09-13T10:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5490,
+      "views": 6080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +110,7 @@
       "date": "2026-09-13T11:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +128,7 @@
       "date": "2026-09-13T11:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +147,7 @@
       "date": "2026-09-13T11:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4840,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +159,7 @@
       "date": "2026-09-13T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3510,
+      "views": 4780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +177,7 @@
       "date": "2026-09-13T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3640,
+      "views": 5060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +195,7 @@
       "date": "2026-09-13T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 4960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +207,7 @@
       "date": "2026-09-13T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2910,
+      "views": 5000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,12 +226,121 @@
       "date": "2026-09-13T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 377,
+      "views": 3880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه به باگ بانتی، رد تیمینگ یا سکوریتی علاقه داری، پروژه‌ی اوپن سورس Claude-Red رو ببین. این پروژه یه مجموعه Skill تخصصی برای Claude هست که مدل رو برای کارهای Offensive Security آماده می‌کنه؛ از Web Security گرفته تا Active Directory، Cloud، Exploit Development و Post-Exploitation.\u003cbr/\u003e\u003cbr/\u003eایده‌ش جالبه: به‌جای اینکه یه Prompt خیلی بزرگ به Claude بدی و بگی مثل یه هکر حرفه‌ای فکر کن، دانش و متدولوژی هر حوزه رو به Skillهای جداگانه تقسیم کرده. هر Skill هم شامل تکنیک‌ها، روش بررسی، ابزارها، Edge Caseها و مسیرهای احتمالی برای ادامه‌ی تحلیل هستش.\u003cbr/\u003e\u003cbr/\u003eبرای مثال Skillهای جدا برای SQLi، XSS، SSRF، SSTI، XXE، IDOR، JWT، OAuth، Kerberoasting، ADCS، Privilege Escalation، Fuzzing، Kubernetes و کلی موضوع دیگه داره. یعنی وقتی روی یه سناریوی خاص کار می‌کنی، می‌تونی دانش مربوط به همون حوزه رو وارد جریان کاری Agent کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/SnailSploit/Claude-Red\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/SnailSploit/Claude-Red\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Sogand",
+      "date": "2026-09-13T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZwTl-tScvRI-ykFvRFIf6NqsQxA908jy-UmJf8KYtcH0kXn9sq-_H51r9vloGxVzmIePyy47V30_JjO4L5g5cauESqGLkr_sqvuidAlyxhjeDOV07wqfXWFolwUta82vcesG0j1e5GntUyKza-6LvHYdaM5vEovg0km-wQ0qPSFJpBwIDh3Ur4qjswcoNY3ySHzUUouzKTRtlwMKirgM3XpxLNyySB-iPS_FLoGXg5DMuKNEetW0QsFLZ3eDfpUO8ge9xM2yffCmnAzqPc_z8uWwmrJs7y798d6PqV7qSLdF8iXVbEt6SqHbgMMvezdGi9ux_4Poj7lDDM9YOKTAQQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پروداکشن محیط تست نیست محیط یادگیری است\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Rla8PzmTmBQuou1OrifZGB7G5akdQIgIUmSLoKWaPoBt78DfcbhhFgk7ATx-p47erXvQ8xTcv9wOfWRFr4NnunL5qysPl73EsDugmKyMwxMJPpi5N1tMR9RuL-rKEjgSyrZXTic74pZ6UiePSEuIirl0lkyV8kjmxwnsLY9399GBq0_EaJVBK-fkfeTmoBQjms5t8yUdGHP5hxJwc8qiSXSHR9wt52IuqBqelVGyTRT4246qjEKu93B55jB4XK53K-7gB9ZRqZoLgNYVbbWl6cu9TeF5pjYwkkZizGgxa9EXPwXSkybWWzJAKmlpWbZPz-K5vtzxDERqG2Y7jjUD5A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این Ambient CSS هم جالبه. این سیستم از یه مدل نورپردازی مبتنی بر فیزیک استفاده می‌کنه تا به کامپوننت‌های CSS و React، هایلایت‌ها، سایه‌ها و متریال‌های مختلف سطحی اضافه کنه.\u003cbr/\u003e\u003cbr/\u003eسازنده‌ی این سیستم، همون مجموعه‌ی هندسه و نورپردازی رو داخل Blender رندر می‌کنه و بعد همون ظاهر رو داخل مرورگر با استفاده از box-shadow و متغیرهای CSS بازسازی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاین سیستم افکت‌های مختلفی برای منابع نوری و متریال‌های متفاوت داره و علاوه بر این، کامپوننت‌هایی مثل دکمه‌ها، ناب‌ها (Knob)، اسلایدرها، فیدرها، سوییچ‌ها و موارد دیگه رو هم شامل می‌شه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ambientcss.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003eambientcss.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ vikingmute",
+      "date": "2026-09-13T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ThgOCMN607KOdToC1N6kfporkPpyaOVlQ96y8741qawWBz5uuo9NrMLRbKxbPF0V4RDzzil2ZWQ82Km9jCbDPq_PRSpnTOO0kB5qD3_Oh1Gxf-ECZo4esRcqWF8g5eOvUXrJ7MbF2fWIRJSlfFJhnRaw_LhCz7azC1mC_caLl3Yh8nnqlSrkzpXM1ih9ijlrEhlPHAGgpAhNalqS6JXEbxUC_MMuTJhLj_il8-wD8JEzF-_lTnkHgq6ujmjtobl-WlFrW6NwLMyeF4Db6SUHUEYv37VJePv-EcBueaU2YLxnsNG_RXTfnUFeyx_SCw_a85DFbEOj5c32YjEVRw8FXQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eاشتراک‌های محبوب دنیا، با قیمت‌های رقابتی\u003c/b\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eChatgpt (go/plus/pro)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGemini 18m pro \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6178962311072456422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGemini ultra\u003cbr/\u003e(25هزار کردیت flow به صورت اختصاصی و بقیه امکانات....)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eCursor (همه پلن ها)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174854857753631984\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e perplexity pro\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGrok(lite/super/plus/heavy)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233376087777501917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eX (premium/premium plus)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233578612665375810\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eSpotify (همه پلن ها)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6201889194390855235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eHiggsfield ai(همه پلن ها)\u003cbr/\u003e\u003cbr/\u003eتضمین بهترین کیفیت و قیمت\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003eهر محصولی که لازم داری کافیه به ما پیام بدی\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003eخرید و مشاوره:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5310278924616356636\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/shogunvip\" target=\"_blank\"\u003e@shogunvip\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6030437742066798869\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/shogun_market\" target=\"_blank\"\u003e@shogun_market\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5220100133412183348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/shogunvpn_bot\" target=\"_blank\"\u003e@shogunvpn_bot\u003c/a\u003e",
+      "date": "2026-09-13T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fBYTtoJblabjOjtbn0qY4P8JseWLAgXrvpKPTCuqffvHINuqw8SP-75Pl7o87m_qUFYTJECAPBuVkA5N1rmqhcd1W447GM4fXSlMG6tqK5TLQK_ZgU1bxpDiDGQF29rcEUVRvxDoAxVhmV8CGXwYPSrfaVQOMCly9Tb33F4BNlC9bY-z_jubkc3EzXgjkd5c-qPDn1aXG4YfztnzO2tYnHIus-2ZA_CLKJPqGTvBUw00OrxYcrXkPWAO8eDpiepcIEoA7WkIxZmcvNtILwlUqeog1qZ0jC8uKpLSYOYk9lswzgOYfA7SuAIojadvpYHw0SacEhKeQa_derH2PvxD8A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این ویدیو رو سه سال پیش دیدم یکی از قشنگ ترین ویدیو هایی بود که دیدم نمیدونستم الان انقدر معروف شده توی ویدیو داره معماری Transformer رو توضیح میده؛ همون معماری‌ای که پایه‌ی اصلی مدل‌هایی مثل GPT و در نتیجه ChatGPT محسوب میشه.\u003cbr/\u003e\u003cbr/\u003eاگه حتی می‌دونید Transformer چیه بازم ببینیدش اگرم نمیدونید چیه ویدیو رو ببینید بهتون می‌گه چه چیز هایی رو باید قبلش ببینید تا ویدیو رو بفهمید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eزبانش انگلیسیه می‌تونید با خود یوتیوب به فارسی ترجمش هم کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtu.be/zxQyTK8quyY?si=3YQT-1m9n7PtGLmS\" target=\"_blank\" rel=\"noopener\"\u003eyoutu.be/zxQyTK8quyY?si=3YQT-1m9n7PtGLmS\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/e47vQFdEI84fsZ7K9wJGlh2dG2NIS5jpmfeI4vmbW1NJGzVzXeo0pDycRGdIQCiw_gU_XjYpaNZMYY2i9YshxDWQf4OQMKivFaTY8HOokDEl0mHAz_GpcacTnnuNx7tfjL0IntIz3s0prxAW9K4XOEn-RJtvz5cv2dP3fji-C27VFCne6V0GGkFx1u33WzwD1JaJ02kNxJVzO_bZOnrdT4XKBM1ReOGua5n_R6lH0w48E8uDKd4zlAZQsH3l2-PqlYuoIsy6Pi_tpd69BllRlxw7tsfZZdTdClymB43lg7d9nr7Ad-b2f1v_-EnTOoM0Bfk9tbwpPnVUjYTlTcRohw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه مدل مترجم دانلود کردم (Hy-MT2) کاربردش ترجمه متن ها بین زبان های مختلفه، بهش گفتم پایتخت ایران کجاست؟ انتظار داشتم به انگلیسی ترجمش کنه برداشته جواب سوالم رو داده می‌گه تهرانه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eالبته علت این اتفاق اینه که این مدلا تقریبا همون مدلای عادین طی فرایند هایی به مترجم تبدیل می‌شن اگه بهشون سیستم پرامپت (معرفی خودشون به خودشون) ندید نمی‌دونن اصلا کین و باید چیکار کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 727,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/veIR1LWgiJ3MUR96Z7xo6HO8IVpIK1KUnPfX0oYQoa15kq3MIKf4F0VlDl0tJyVYoi1axjq4SozAOMdggVC0jA2tMTzQLRYknFJEqMbh4LlnTislX3_VuCdLz9ml92rhqqC73c298T0mt769vmMj--4IE8ki-HimWbYD6msys9RU8Im73k_ztMWc55oLCPkaki2Rztfh5Yi9wDwCl4Wozeqx-iHveMq_UmKq9cIvyp1pxtbO8f00aFZmHwH7rqf4sF1MO4zoAYH-dZPu8OewseZDEaxjpUFPmfwwrqM66fL1-KLjWNRDiESAEoFgrV8t1C23l8AERNM84dzEnCk1Rg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789317080
+  "last_updated": 1789326355
 }
