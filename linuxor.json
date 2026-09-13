@@ -8,66 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه پروژه خیلی کار راه بنداز پیدا کردم به اسم Camera to Blender هست که باهاش می‌تونی از یه آبجکت واقعی با دوربین گوشی عکس بگیری و خیلی سریع اون رو با هوش مصنوعی به یه مدل 3D تبدیل کنی و مستقیم وارد Blender کنی. \u003cbr/\u003e\u003cbr/\u003eپشت صحنه، تصویر می‌تونه با Gemini پردازش بشه و ساخت مدل 3D با Tripo3D انجام میشه؛ بعد مدل به‌صورت خودکار وارد Blender میشه.\u003cbr/\u003e\u003cbr/\u003eبرای ساخت سریع Asset، کانسپت آرت، VFX، بازی‌سازی و نمونه‌سازی خیلی کاربردیه. البته چون مدل از عکس ساخته میشه، نباید انتظار دقت اسکن 3D حرفه‌ای داشته باشی؛ ولی برای تبدیل سریع دنیای واقعی به آبجکت قابل استفاده توی Blender واقعاً ایده جذابیه. \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ahujasid/camera-to-blender\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ahujasid/camera-to-blender\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ukR6eN_3lIGUwpSANqvJQCzWtpFlpFajIm9TG8SrSheZMar2opE-W24gixf6W0InmQhk-OxgNAAv_oiudIHWFUcIZLvtzkGveKtRpHzZkQjxLNHM9DmQ9x_2PNUpqnMNYf0t3sJB92AlyzkYChZ0PxLZHpNOtIs8F0cWDudFvzxcGyHmL0L__G5Z7jdZP0h0kFA67DWmqKCF9U9EJv0J5UCTtVaZ6qxIGwiBsIn5PvGtqROm7_N0okrn5MU-hLs76WLjvs-f8PqNLHCQYUulHA1v6SODze7vqvoVhlQbpW-MYEr9VQxdvlAnz1XITf0XAOP4KoAHNUlFAN-YkZb11Q",
-          "width": 608
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یادگیری رباتیک یه مشکل بزرگ داده ای داره؛ چون برای یاد دادن هر مهارت جدید معمولاً باید داده‌های بیشتری جمع‌آوری بشه که هزینه‌بره. RoboTok برای حل این مشکل از ویدیوهای موجود روی اینترنت استفاده میکنه و اون‌ها رو مثل یه کتابخونه‌ی قابل جست‌وجو از حرکات و رفتارهای دست انسان در نظر می‌گیره.\u003cbr/\u003e\u003cbr/\u003eبه‌جای مقایسه‌ی ویدیوها بر اساس ظاهر یا کپشن، مسیر سه‌بعدی حرکت دست رو استخراج میکنه و ویدیوهایی رو پیدا میکنه که حرکت مشابهی دارن. این روش باعث میشه تفاوت‌هایی مثل دوربین، محیط، افراد مختلف و پوشیده‌شدن دست‌ها کمتر روی نتیجه تأثیر بذارن.\u003cbr/\u003e\u003cbr/\u003eایده‌ی اصلی اینه که ویدیوهای اینترنتی میتونن از یه منبع صرفاً آموزشی، به یه دیتابیس قابل جست‌وجو برای آموزش مهارت‌های رباتیک تبدیل بشن؛ یعنی لازم نیست برای هر مهارت، همه‌ی داده‌ها رو از صفر با ربات ضبط کنیم.\u003cbr/\u003e\u003cbr/\u003eکد ها و مقاله :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/papers/2609.03199\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/papers/2609.03199\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hmHfwoUZLLSdxmxTox09b1tji5mEV8bUuxJblkJT2viX8nLClIlZhUl2c_nEdZTMmE44zPv-eJxgOMNkoo0vkmJjY6PkAErMZHRxWuHmjMyuEmAEVkevqS_hguVecq2PfcQ8bOG9f84PDHupF7cXc4kuPPpyKofB_O6ccHh1Mi11zj_wIWn2D-qPUsaKNozL_JQKEXb3xHIVGAWxDe8eD6iidw9T1yDwm0Li6TuA-pZXCFM-2kk1-op5vXMuPOfwyZ-qp9RUohrLjfFRPD-7SapD3PY2idimQKdRoCHWGW6cxaz4i3Rt88w_-NljaZBncxJNFx02t2dylZZfQwvfFw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینو نمی‌دونم دیدید یا نه، کلی چیز رایگان برای برنامه نویس ها و توسعه دهنده ها جمع کرده توشون بگردید چیزای خوبی پیدا می‌کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://free-for.dev/\" target=\"_blank\" rel=\"noopener\"\u003efree-for.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-12T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lQQhUQAlj2tfFtzcYp4A-QKplJnUyWHaDDSpIGSyA5ACaTC-cgRl_Zt3u8gqxcy77blPNOdGzDj1OErMPM_MH1lkykO15YTETzm_ZfoyAVphrgTW9g6u_3974-vX9ix-Cs8FRW6WlaWp_C_MECrQVo0avP8qQPvc1rLpusai0aFMRkpnLYx2o6pm5cbKu74yY2iQb3dII8I2nQ_bk-OEyFhTqb1G1UEvay262GSuVBOBf220TN-_5MB55Ic3mhLoqiOhzhmMHr4DNRPmnnoT3x6VH0ssxckrOsTA0B4aOvZfSxGnnZhmWlegGfbnUh3ERVuf4okPzTKRMIXoJ1Bk6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من اگه راننده تاکسی بشم 8:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ اگه توی یه بازاری باشی و یه مغازه یا کسب و کار داشته باشی یه نفر دقیقا بیاد کپی مغازه و اجناس تورو کنارت ارائه کنه، درآمد تو به احتمال زیاد نصف نمی‌شه؟ درسته منطقی نگاه کنی مشتری ها نصف می‌شه ولی چون پاخور رو دو برابر کرده عملا مشتری های تو نه کم می‌شه نه زیاد معمولا چون اون زیاد شدن پاخوره نصف شدن مشتری رو خنثی می‌کنه، بخاطر همینه یه پاساژی مثل علاءالدین تهران که 1000 تا مغازه توشه، مشتری های همه کم نمی‌شه و بر عکس پاخور شاید 5000 هزار برابر پاخور زیاد شده و از حالت عادی تک مغازه ای هم مشتری هاشون 5 برابر بیشتره، بخدااااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-12T19:29:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7380,
+      "views": 7590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +24,7 @@
       "date": "2026-09-13T09:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6950,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +43,7 @@
       "date": "2026-09-13T10:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
+      "views": 6500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +55,7 @@
       "date": "2026-09-13T11:15:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +73,7 @@
       "date": "2026-09-13T11:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +92,7 @@
       "date": "2026-09-13T11:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 5950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +104,7 @@
       "date": "2026-09-13T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4780,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +122,7 @@
       "date": "2026-09-13T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5060,
+      "views": 5640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +140,7 @@
       "date": "2026-09-13T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4960,
+      "views": 5540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +152,7 @@
       "date": "2026-09-13T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +171,7 @@
       "date": "2026-09-13T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3880,
+      "views": 4830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +183,7 @@
       "date": "2026-09-13T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +201,7 @@
       "date": "2026-09-13T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3450,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +219,7 @@
       "date": "2026-09-13T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
+      "views": 4500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +238,7 @@
       "date": "2026-09-13T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
+      "views": 4180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +256,7 @@
       "date": "2026-09-13T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +274,7 @@
       "date": "2026-09-13T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 727,
+      "views": 4160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +285,56 @@
           "url": "https://cdn4.telesco.pe/file/veIR1LWgiJ3MUR96Z7xo6HO8IVpIK1KUnPfX0oYQoa15kq3MIKf4F0VlDl0tJyVYoi1axjq4SozAOMdggVC0jA2tMTzQLRYknFJEqMbh4LlnTislX3_VuCdLz9ml92rhqqC73c298T0mt769vmMj--4IE8ki-HimWbYD6msys9RU8Im73k_ztMWc55oLCPkaki2Rztfh5Yi9wDwCl4Wozeqx-iHveMq_UmKq9cIvyp1pxtbO8f00aFZmHwH7rqf4sF1MO4zoAYH-dZPu8OewseZDEaxjpUFPmfwwrqM66fL1-KLjWNRDiESAEoFgrV8t1C23l8AERNM84dzEnCk1Rg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر با بودجه 2000 دلار ‌و GPT-6 Astra فتوشاپ رو از اول نوشته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://tenzen.studio/\" target=\"_blank\" rel=\"noopener\"\u003etenzen.studio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/IWT0VlJkriWVyS2lVC4FYKjqylbogCnLUVl2f9CeKn8swtpRHfqhgryd29yeXNJvTTV7gci4sB5toPW5aZcyE5lntqQDygpvOVBKbM3Cl9VE14__8dtV4Cy3M83JwuIojagNZhscrYZbq-0OsHqCCFJUfKuOyXcpGuSrStnKAuW4XwZRIuEEjR4ajpH2FWhadB1nIhRojeRwi7_kfVkNvfP00Trvo14L3HkH7_Mi938rO0CcsA6n-3fKoiDLh8C00RhlbzkVyhfDygBjYZRscXEw2G-yCXHOFeTIlE05E9KN9ifB4TtqiiEZFsEX2UP7y0DFjWvDz6fPWhAUX07opQ",
+          "width": 1062
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه راننده تاکسی بشم 9:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ توی برنامه نویسی یه حالتی از باگ هستش وقتی میری دیباگش کنی باگه خود به خود غیب میشه! معمولا برای دیباگ اون وسطا print می‌ذاری که بفهمی چه خبره ولی باگه خود به خود فیکس میشه این حالت توی برنامه های همزمان و مولتی ترد پیش میاد علتش هم اینه خود تابع print چندین میلی ثانیه کد رو بلاک میکنه و ممکنه مشکل Race-Condition خود به خود حل بشه چون یه بخشی از کد چندین میلی ثانیه دیر تر اجرا میشه، بخدااااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T19:40:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یادتون می‌آد زمان جنگ اینترنت قطع بود یه عده شرکت داخلی هوش مصنوعی شروع کرده بودن سرویس مدل های ارزون رو جای مدل های گرون به مردم می‌‌فروختن؟\u003cbr/\u003e\u003cbr/\u003eحتی به خود مدل هم گفته بودن بگو فلانی هستی، وقتی از مدل می‌پرسیدی اسمت چیه بهت نوع دقیق مدل رو نمی‌گفت و وانمود می‌کرد یه مدل دیگس. این کار که اصلا کار درستی و انسانی نبود اونم توی اون شرایطی که مردم دسترسی به اینترنت نداشتن، ولی یه سری روش جالب هست می‌‌شه تا حدودی حدس زد مدل دقیقا چیه؟ کافیه این سوالات اینجا رو ازش بپرسید با جواب های خاص می‌شه از زیر زبون مدل کشید بیرون که دقیقا چه مدلیه اسکریپتش هم جالبه بد نیست یه نگاهی بندازید‌:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/dabaibian/api-model-spy\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/dabaibian/api-model-spy\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-13T21:29:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 179,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cMlgF71pbQ3iJifky4EivlNgYoaCDy150BvIuKy5lzVVNxi-Hgd1x1nddKR8dOgZGFi0jHxcgnNKaPag-OMKkxe07L9wAdc8wLktYPdYTK56-1GgBAF8RbhcjJ3wwVtd-UtJDIDVlY7MR0jMvKGbb45Kxs902ChW3F9mKDJ5mik3Zk8vkqgqxDUalf6bXGlgmdGQr-6T0_skY8QzUlgd7n1b0gZajTh3tdkvDAqpZMud_PXn1M9vNPRXhtfIQ_DL5f4nsu2-_TlKt8FDyHziD0W1nRq_ggZP6GzNuldmVU3k69WN353v8AzuAfbP4yOFcHwImcqpI1xZniB-Y3vXnQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789326355
+  "last_updated": 1789335056
 }
