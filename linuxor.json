@@ -8,200 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه روی پروژه ای با هوش مصنوعی لوکال کار می‌کنید و سرعت و زمان مدل پاسخگویی براتون مهم نیست پیشنهاد می‌کنم  بجای مدل های سبک و ضعیف از مدل های سنگین استفاده کنید، ولش می‌کنید به امون خدا خودش براتون با بهترین کیفیت کارو رایگان و لوکال انجام میده فقط یکم کنده، Colibrì یه موتور اجرای مدل‌های زبانی بزرگ (Inference Engine) هستش که هدفش اینه مدل‌هایی رو که از نظر تعداد پارامتر خیلی بزرگن، روی سخت‌افزار معمولی اجرا کنه؛ حتی وقتی کل وزن‌های مدل توی RAM یا VRAM جا نمی‌شن.\u003cbr/\u003e\u003cbr/\u003eتا الان چندین پروژه در رابطه با این قضیه معرفی شده ولی این یکی جدید تره و روش دیپ سیک 4 رو، روی یه لپ تاپ معمولی اجرا کردن با سرعت 1 توکن در ثانیه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/JustVugg/colibri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/JustVugg/colibri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sGujT_AQNpMSpQ-mceTIvnuO3okCpadhcb8naQaJoB2I0aCMnmFmZKBSY1Gr2cIFvOd2ssxWbtXiyczssaqw1_WUSo4bYm7MMT0MmBcF1ft0hqC7CzMI3q_ft5eIpHoGXPgCQ7qxufUft7e3U3TQWfPOa371vztN5c2gKn9dsGcp_RIVrDe8Hi5gwztcCkm-QTdCcXPvt7wgLD3Ot4DAlnkZCZTj5SlIIl1yIZAe6g5SN3jKomun3stiiVU2Q21ncOfaQ5lzb7NeheKYq4NEFu-LaWvqFG8PrQZKMspyErGHrFABcVXMe-rbPRgFwaMStf5J7J_gLM9ngdpkqd8oTg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من نمیدونم وزارت ارتباطات منظورش چیه هی میاد میگه رفع فیلترینگ فلان چیز کلید خورد، رفع فیلترینگ IPV6 کلید خورد.\u003cbr/\u003e\u003cbr/\u003eدقیقا کلید خوردن یعنی چی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e؟ این چیزا اگه واقعا قصد انجامش باشه کمتر از یک روزه میتونه انجام بشه اصلا فرایند پیچیده ای نداره که بخواد کلید خوردنش اعلام بشه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "جدیدا انقدر با مغز این مگسه دارن ور می‌رن، آخرش جای هممون رو می‌گیره ببینید تایپ هم بهش یاد دادن!\u003cbr/\u003e\u003cbr/\u003eسرعت تایپش انصافا خوبه فقط حس میکنم توی واقعیت زورش نرسه دکمه کیبرد رو فشار بده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T15:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/v1uxa8mvD5jwa6pzSvIw_Rn7-7biljNnvagpKGuin0AojloPQ2bSX6wOnoftdHzEM04TPyDM6b0uPilPfVsUlYs5llLZWPa7ZcAWkikDGSgJ7yzewGc5I6zm07wE60gKfL1oplWARxBMuWuF3eh_oc2JhXYFUZ4vh7I8eT8mmhtgVJlSmaBsTecmNP5Odz3esSJIhROLKs3KbY6A2Pkl1PsaZrHNBxjVZ-SuM5g_G2Lg2QN-Wo-uxCaAVbJUqkYsDJdJ_Muj12wEEJAMktzrAexmmk6Dny0ijU11gpryBfez_HjvME8n0I63wRC1GK5nl7OPF55l8KCqwEIhadA8jQ",
-          "width": 2704
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اکانت‌های Gemini Pro، ChatGPT Plus و Claude Pro با قیمت مناسب و تحویل فوری در ACCMARS موجوده. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eخیلی‌ها اکانتشون رو از این سایت تهیه کردن (دارای ای نماد)؛ یه سر به سایت بزن و خودت قیمت‌ها رو ببین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://accmars.com/product-category/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eACCMARS\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars\" target=\"_blank\"\u003e@Accmars\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Accmars_Support\" target=\"_blank\"\u003e@Accmars_Support\u003c/a\u003e\u003cbr/\u003eپیام بده، سریع تحویلت می‌دیم",
-      "date": "2026-09-13T16:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "اگه به باگ بانتی، رد تیمینگ یا سکوریتی علاقه داری، پروژه‌ی اوپن سورس Claude-Red رو ببین. این پروژه یه مجموعه Skill تخصصی برای Claude هست که مدل رو برای کارهای Offensive Security آماده می‌کنه؛ از Web Security گرفته تا Active Directory، Cloud، Exploit Development و Post-Exploitation.\u003cbr/\u003e\u003cbr/\u003eایده‌ش جالبه: به‌جای اینکه یه Prompt خیلی بزرگ به Claude بدی و بگی مثل یه هکر حرفه‌ای فکر کن، دانش و متدولوژی هر حوزه رو به Skillهای جداگانه تقسیم کرده. هر Skill هم شامل تکنیک‌ها، روش بررسی، ابزارها، Edge Caseها و مسیرهای احتمالی برای ادامه‌ی تحلیل هستش.\u003cbr/\u003e\u003cbr/\u003eبرای مثال Skillهای جدا برای SQLi، XSS، SSRF، SSTI، XXE، IDOR، JWT، OAuth، Kerberoasting، ADCS، Privilege Escalation، Fuzzing، Kubernetes و کلی موضوع دیگه داره. یعنی وقتی روی یه سناریوی خاص کار می‌کنی، می‌تونی دانش مربوط به همون حوزه رو وارد جریان کاری Agent کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/SnailSploit/Claude-Red\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/SnailSploit/Claude-Red\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Sogand",
-      "date": "2026-09-13T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZwTl-tScvRI-ykFvRFIf6NqsQxA908jy-UmJf8KYtcH0kXn9sq-_H51r9vloGxVzmIePyy47V30_JjO4L5g5cauESqGLkr_sqvuidAlyxhjeDOV07wqfXWFolwUta82vcesG0j1e5GntUyKza-6LvHYdaM5vEovg0km-wQ0qPSFJpBwIDh3Ur4qjswcoNY3ySHzUUouzKTRtlwMKirgM3XpxLNyySB-iPS_FLoGXg5DMuKNEetW0QsFLZ3eDfpUO8ge9xM2yffCmnAzqPc_z8uWwmrJs7y798d6PqV7qSLdF8iXVbEt6SqHbgMMvezdGi9ux_4Poj7lDDM9YOKTAQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "پروداکشن محیط تست نیست محیط یادگیری است\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Rla8PzmTmBQuou1OrifZGB7G5akdQIgIUmSLoKWaPoBt78DfcbhhFgk7ATx-p47erXvQ8xTcv9wOfWRFr4NnunL5qysPl73EsDugmKyMwxMJPpi5N1tMR9RuL-rKEjgSyrZXTic74pZ6UiePSEuIirl0lkyV8kjmxwnsLY9399GBq0_EaJVBK-fkfeTmoBQjms5t8yUdGHP5hxJwc8qiSXSHR9wt52IuqBqelVGyTRT4246qjEKu93B55jB4XK53K-7gB9ZRqZoLgNYVbbWl6cu9TeF5pjYwkkZizGgxa9EXPwXSkybWWzJAKmlpWbZPz-K5vtzxDERqG2Y7jjUD5A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این Ambient CSS هم جالبه. این سیستم از یه مدل نورپردازی مبتنی بر فیزیک استفاده می‌کنه تا به کامپوننت‌های CSS و React، هایلایت‌ها، سایه‌ها و متریال‌های مختلف سطحی اضافه کنه.\u003cbr/\u003e\u003cbr/\u003eسازنده‌ی این سیستم، همون مجموعه‌ی هندسه و نورپردازی رو داخل Blender رندر می‌کنه و بعد همون ظاهر رو داخل مرورگر با استفاده از box-shadow و متغیرهای CSS بازسازی می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاین سیستم افکت‌های مختلفی برای منابع نوری و متریال‌های متفاوت داره و علاوه بر این، کامپوننت‌هایی مثل دکمه‌ها، ناب‌ها (Knob)، اسلایدرها، فیدرها، سوییچ‌ها و موارد دیگه رو هم شامل می‌شه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ambientcss.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003eambientcss.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ vikingmute",
-      "date": "2026-09-13T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ThgOCMN607KOdToC1N6kfporkPpyaOVlQ96y8741qawWBz5uuo9NrMLRbKxbPF0V4RDzzil2ZWQ82Km9jCbDPq_PRSpnTOO0kB5qD3_Oh1Gxf-ECZo4esRcqWF8g5eOvUXrJ7MbF2fWIRJSlfFJhnRaw_LhCz7azC1mC_caLl3Yh8nnqlSrkzpXM1ih9ijlrEhlPHAGgpAhNalqS6JXEbxUC_MMuTJhLj_il8-wD8JEzF-_lTnkHgq6ujmjtobl-WlFrW6NwLMyeF4Db6SUHUEYv37VJePv-EcBueaU2YLxnsNG_RXTfnUFeyx_SCw_a85DFbEOj5c32YjEVRw8FXQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eاشتراک‌های محبوب دنیا، با قیمت‌های رقابتی\u003c/b\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eChatgpt (go/plus/pro)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5312057964494874871\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGemini 18m pro \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6178962311072456422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGemini ultra\u003cbr/\u003e(25هزار کردیت flow به صورت اختصاصی و بقیه امکانات....)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eCursor (همه پلن ها)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174854857753631984\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e perplexity pro\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eGrok(lite/super/plus/heavy)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233376087777501917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eX (premium/premium plus)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233578612665375810\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eSpotify (همه پلن ها)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6201889194390855235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eHiggsfield ai(همه پلن ها)\u003cbr/\u003e\u003cbr/\u003eتضمین بهترین کیفیت و قیمت\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003eهر محصولی که لازم داری کافیه به ما پیام بدی\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003eخرید و مشاوره:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5310278924616356636\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/shogunvip\" target=\"_blank\"\u003e@shogunvip\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6030437742066798869\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/shogun_market\" target=\"_blank\"\u003e@shogun_market\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5220100133412183348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/shogunvpn_bot\" target=\"_blank\"\u003e@shogunvpn_bot\u003c/a\u003e",
-      "date": "2026-09-13T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fBYTtoJblabjOjtbn0qY4P8JseWLAgXrvpKPTCuqffvHINuqw8SP-75Pl7o87m_qUFYTJECAPBuVkA5N1rmqhcd1W447GM4fXSlMG6tqK5TLQK_ZgU1bxpDiDGQF29rcEUVRvxDoAxVhmV8CGXwYPSrfaVQOMCly9Tb33F4BNlC9bY-z_jubkc3EzXgjkd5c-qPDn1aXG4YfztnzO2tYnHIus-2ZA_CLKJPqGTvBUw00OrxYcrXkPWAO8eDpiepcIEoA7WkIxZmcvNtILwlUqeog1qZ0jC8uKpLSYOYk9lswzgOYfA7SuAIojadvpYHw0SacEhKeQa_derH2PvxD8A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این ویدیو رو سه سال پیش دیدم یکی از قشنگ ترین ویدیو هایی بود که دیدم نمیدونستم الان انقدر معروف شده توی ویدیو داره معماری Transformer رو توضیح میده؛ همون معماری‌ای که پایه‌ی اصلی مدل‌هایی مثل GPT و در نتیجه ChatGPT محسوب میشه.\u003cbr/\u003e\u003cbr/\u003eاگه حتی می‌دونید Transformer چیه بازم ببینیدش اگرم نمیدونید چیه ویدیو رو ببینید بهتون می‌گه چه چیز هایی رو باید قبلش ببینید تا ویدیو رو بفهمید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eزبانش انگلیسیه می‌تونید با خود یوتیوب به فارسی ترجمش هم کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://youtu.be/zxQyTK8quyY?si=3YQT-1m9n7PtGLmS\" target=\"_blank\" rel=\"noopener\"\u003eyoutu.be/zxQyTK8quyY?si=3YQT-1m9n7PtGLmS\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/e47vQFdEI84fsZ7K9wJGlh2dG2NIS5jpmfeI4vmbW1NJGzVzXeo0pDycRGdIQCiw_gU_XjYpaNZMYY2i9YshxDWQf4OQMKivFaTY8HOokDEl0mHAz_GpcacTnnuNx7tfjL0IntIz3s0prxAW9K4XOEn-RJtvz5cv2dP3fji-C27VFCne6V0GGkFx1u33WzwD1JaJ02kNxJVzO_bZOnrdT4XKBM1ReOGua5n_R6lH0w48E8uDKd4zlAZQsH3l2-PqlYuoIsy6Pi_tpd69BllRlxw7tsfZZdTdClymB43lg7d9nr7Ad-b2f1v_-EnTOoM0Bfk9tbwpPnVUjYTlTcRohw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه مدل مترجم دانلود کردم (Hy-MT2) کاربردش ترجمه متن ها بین زبان های مختلفه، بهش گفتم پایتخت ایران کجاست؟ انتظار داشتم به انگلیسی ترجمش کنه برداشته جواب سوالم رو داده می‌گه تهرانه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eالبته علت این اتفاق اینه که این مدلا تقریبا همون مدلای عادین طی فرایند هایی به مترجم تبدیل می‌شن اگه بهشون سیستم پرامپت (معرفی خودشون به خودشون) ندید نمی‌دونن اصلا کین و باید چیکار کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/veIR1LWgiJ3MUR96Z7xo6HO8IVpIK1KUnPfX0oYQoa15kq3MIKf4F0VlDl0tJyVYoi1axjq4SozAOMdggVC0jA2tMTzQLRYknFJEqMbh4LlnTislX3_VuCdLz9ml92rhqqC73c298T0mt769vmMj--4IE8ki-HimWbYD6msys9RU8Im73k_ztMWc55oLCPkaki2Rztfh5Yi9wDwCl4Wozeqx-iHveMq_UmKq9cIvyp1pxtbO8f00aFZmHwH7rqf4sF1MO4zoAYH-dZPu8OewseZDEaxjpUFPmfwwrqM66fL1-KLjWNRDiESAEoFgrV8t1C23l8AERNM84dzEnCk1Rg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر با بودجه 2000 دلار ‌و GPT-6 Astra فتوشاپ رو از اول نوشته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://tenzen.studio/\" target=\"_blank\" rel=\"noopener\"\u003etenzen.studio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IWT0VlJkriWVyS2lVC4FYKjqylbogCnLUVl2f9CeKn8swtpRHfqhgryd29yeXNJvTTV7gci4sB5toPW5aZcyE5lntqQDygpvOVBKbM3Cl9VE14__8dtV4Cy3M83JwuIojagNZhscrYZbq-0OsHqCCFJUfKuOyXcpGuSrStnKAuW4XwZRIuEEjR4ajpH2FWhadB1nIhRojeRwi7_kfVkNvfP00Trvo14L3HkH7_Mi938rO0CcsA6n-3fKoiDLh8C00RhlbzkVyhfDygBjYZRscXEw2G-yCXHOFeTIlE05E9KN9ifB4TtqiiEZFsEX2UP7y0DFjWvDz6fPWhAUX07opQ",
-          "width": 1062
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من اگه راننده تاکسی بشم 9:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ توی برنامه نویسی یه حالتی از باگ هستش وقتی میری دیباگش کنی باگه خود به خود غیب میشه! معمولا برای دیباگ اون وسطا print می‌ذاری که بفهمی چه خبره ولی باگه خود به خود فیکس میشه این حالت توی برنامه های همزمان و مولتی ترد پیش میاد علتش هم اینه خود تابع print چندین میلی ثانیه کد رو بلاک میکنه و ممکنه مشکل Race-Condition خود به خود حل بشه چون یه بخشی از کد چندین میلی ثانیه دیر تر اجرا میشه، بخدااااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-13T19:40:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +24,7 @@
       "date": "2026-09-13T21:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7900,
+      "views": 8560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +42,7 @@
       "date": "2026-09-14T00:05:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +54,7 @@
       "date": "2026-09-14T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4070,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +72,7 @@
       "date": "2026-09-14T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3960,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +91,7 @@
       "date": "2026-09-14T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +103,7 @@
       "date": "2026-09-14T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
+      "views": 5490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +122,7 @@
       "date": "2026-09-14T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 4770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +140,7 @@
       "date": "2026-09-14T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 538,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,7 +152,189 @@
           "width": 2676
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "انصافا آپشن درخواست اکانت دمو رو از سایتاتون حذف کنید الان من باید توی فرم شماره تماس بزارم تو زنگ بزنی دو ساعت ازم اطلاعات شرکت و... رو بگیری بعد پشت گوشی یوزرنیم پسورد بدی؟\u003cbr/\u003e\u003cbr/\u003eآزادش کن همه استفاده کنن دیگه اینطوری مشتری میپره هاااا\u003cbr/\u003eاصلا کاری به این قضیه ها ندارم نمیدونم واقعا این روش مشتری آور هست یا نه ولی به نظر من فشار نیاوردن روی مشتری خیلی خیلی کمک میکنه به خریدش. اصلا اینا به کنار واقعا نیروی انسانی هزینش خیلی بالاست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "دوستان دقت کنید دو نوع خطا توی جمنای داریم اون 403 مال زمانیه که با ایپی ایران رفتی اون بالایی مال زمانیه که VPN کثیف روشن کردی.\u003cbr/\u003e\u003cbr/\u003eمن اولش فکر می‌کردم مشکل از لوکیشنه پس با اون روشی که درخواست تغییر لوکیشن می‌دادیم تستش کردم دیدم هیچ اثری نداره ولی با دو تا VPN مختلف یکی تمیز و یکی کثیف واردش شدم دیدم بله مشکل از سمت VPN هستش. چند تا از دوستان هم گفتن احتمالا بخاطر VPN های عمومی و ارزون که آیپی مجازی دارن وارد بشی گوگل عکس بالا رو نشونتون می‌ده.\u003cbr/\u003e\u003cbr/\u003eولی بازم بعضی از VPN های رایگان هم حتی ممکنه آیپشون تمیز باشه. ربطی به قیمتش و گرونی و ارزونیش نداره. پس به ارور بالا خوردید تغییر لوکیشن رو بیخیال بشید تغییر VPN بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T15:07:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XVJpJm9Gl9h16ohq1cn4hVPBP9VDQygYMajcmoZASN96cTBWKhgpEUzDViuxDREybDtBpd023478mYGG--76C0MXbBxQ8yt_qbeL74BkJhEOjRHyPt4wkyd--6ZOnWVU4QGFNGa66v5U4VszVAbhCRsHQjH9W3R9pka4i5ypaAHPrdoXEIzDLU6gfHtwupPsLMIMQhyr1OYzDCjPyv3kwnLangvjm82moZj46OA1XSCdUGh6h1aL58N4oQfHJ5PzgQ1L4_8buhP4HmimJujtKc7hRpCV86r_y_SA4BKGXMyWpTDAFCxmkF5gGerFTMZc-00Geshs24ZOuxoykU74xg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KKqM4uOEt1qLHg9u87WABxHperWbHehhig2a0_FFDb9gcCRzZ-9N0xPanhQeo3Jo92zsfNLICm5nSLjnwpMAi-02HDnV-VybQZwycJSzGiyLYPnX9_xSztPCA4KEpNFBxP_EiAaCcrJBeDwdVjZsqoRPUwkl_9-Kib6DBUSXhhFONjTTRo9LB7FhTZCecib8QwiWZO4W-__Zolryk4ZLNLqvOStERPQWlHzw7c4avaL0rrkuEqoivs_MeqFLOxIni5vkeF_Y3aK1rKZ9Nw2tOnRqi0ub29fp55etqyiTGmRbXIdkW8fIYjv1uFWdDmP1ygwhNAVcy8TeFOdy-3kwcQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپکیج اختصاصی Claude Max 5x/20x ضد بن راه‌بوم\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e وی‌پی‌اس VPS اختصاصی خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A7.png\u0026#39;)\"\u003e\u003cb\u003e📧\u003c/b\u003e\u003c/i\u003e ایمیل وریفای‌شده خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e کلاد مکس Claude Max روی اکانت اختصاصی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e برای خرید و دریافت قیمت:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e ادمین:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboom1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboom1\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboomshop\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboomshop\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A1.png\u0026#39;)\"\u003e\u003cb\u003e🧡\u003c/b\u003e\u003c/i\u003e سایت راه بوم:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://rahboom.com/\" target=\"_blank\" rel=\"noopener\"\u003erahboom.com\u003c/a\u003e",
+      "date": "2026-09-14T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/F68GvpDp1d056rsSyUSrNKHdvQ8FYYepCprH_hmEPrlshry4FY2FqJ5t2kklwHxYee-A3RWWgEEsfZRiZHGKgP3tEZ13_3GqrLrFuSxBFuGwZQkWryozIjZzmUJJ80Hs1AlOJPTS_B_KDtDwc_ZppLS6dH5Nrxl6thyHhXpfk-TWnH5dvJwXcJ1XwSPY1FJS2mFUQg7usxjPfXPSER_MtJnf-OkTtq_tGAPoJ-3OMoAuUrwQh_Zt-FZ8Jrhk2KKTjod0jTjHZl7euetJDz95Tf9ATRdbaFRR3dIY8khUBIkTQ1t8cRefbVqrZW4dnyCqep04K0kcx4TlkaQd-2nCVA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این اسپیس هم بهتون اجازه میده عکس اپلود کنید و با متن پرامپت ویدیو تولید کنید از مدل Wan2.2 14B Fast Preview استفاده می‌کنه که درسته این نسخه ضعیف شدس برای ویدیو های حرفه ای مناسب نیست ولی برای استفاده های کوچیک مثلا انیمیشنی کردن عکس خوبه\u003cbr/\u003e\u003cbr/\u003eتایم ویدیو رو بیشتر میتونید کنید همچنین کیفیتش هم بیشتر میتونید کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/kulkas2pintu/wan555\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/kulkas2pintu/wan555\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eولی در نهایت این اسپیس ها برای تست هستن اگه استفاده دائمی می‌خواید باید مدل رو دانلود کنید که نیاز به یه سیستم گیمینگ یا رندرینگ با حداقل 32 گیگ رم و گرافیک  4090 داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T16:43:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/u15o50DkIA61sa4Pz9eTKOt_b2AmcorfHI00LH2_Yu8ML9vGFngXEpm2qGPiX1qbjAH33Fm_KNfpKB1buIcd29-PNQXmDbqZa4Z0R3aJP3JBKpAcEH7C8LG08qJLXvi9ybA0eceLr94ULqLF4tSw8Eo8OVxCfDYlBRF7mHoKsDDjgb0FPEJ8-1mfVJzBV6n2sreWsyCJsIchztHHtl7Eu4nGpCmKMWDVV5K06fACCeb__0KpdsEjXx2Tx73cCj23xgS28STH9lPMB1BHmMzYA6S8rCWqjc35aNPOzHd5iaIajsKsOppCWU3ZMy52wDY6StOla7VM_0zfrAd_4Lyrlg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایده برای رنج اسلایدر با تم بازی انگری برد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T16:58:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/RQPF7K21Z-lUyuwmpxWJXB8rZoSFZ6FCb3KE4xTGcg1ptgxjr20NTwyybnoT8HIZ6s1PE9Kk6PMjZOqBMF4Afv2JGdEgi5nAwPT8Zvd28qVnkEPxk72eAIIPumiPYxpXCzO5SMJPm_AHzf42WOKy7K0-kUNv5qtGdbNcBJhyFHpPf5RzZD8-9pifulB6xAvste7eMz6EZtPeGkOoK1_jxFgMNC9NVEnuxkqjY6fh35t5ocrh3KZsHnx7D6nwYR0XyC40SUe0Qe03p4w3EQIK48CD06sdtEp2MrDqBSDDb9wqHkli4M-W1pEGwFtz7QI8cyFIiwPOoV8aB1FiVsIysw",
+          "width": 1466
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایته هم کامپوننت های زیبایی برای وب داره، کد هاشون هست بعضیاشون حتی پرامپت هم دارن برای اونایی که نمی‌تونن از کدش استفاده کنن یا اینکه با فریم ورکشون سازگار نیست بدید به هوش مصنوعی براتون می‌سازتش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://bencho.dev/\" target=\"_blank\" rel=\"noopener\"\u003ebencho.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MFhhOewXGllzGBkM5vFdmccvTaBoZTazRFWKe9BSlqxFc3Msg-IeJjhwjb4ex_9qaZh5zX771_a_PFJdZsNmkRcv67_O-jnO1Jz6HSgUS-G9a3sSOFc26FAbwkpl7diAvwOm7V_gcugHMo3pAO6pBGbBUDXZT5RQHQy6cMtTuGeUMMZqF316ay8HYaUA_hrlomtYd66pvmq_0nQajz7j9h8KxNXe4GXni8Whm-xhefm_9Xm3OM2lEmwZnYu3iiZVBswRLEXscaFikrkxenrT5B63B8ZprvILCONXMKj0gZrAEIbMxtjkZ6gglfx1YDt0rduyu_ykW4hlVPj1_bMt_Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بازی پاسور آوردم دورهم بازی کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F989C.png\u0026#39;)\"\u003e\u003cb\u003e😜\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/PlaylabBot\" target=\"_blank\"\u003e@PlaylabBot\u003c/a\u003e",
+      "date": "2026-09-14T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ifb8HyzyDmuSIcDFxRU2mYo7XEPRlkEoruaQkFFOjmlk-DHddsLDnsZ4Z3Jxr_fYUiaWUGuf9ZcE7s_IkVoey3fNzamaqhxiSt3hGsPGJNywXDQ5XUzvSgPbzqG8yg6QhByS8mUZ57vq_PefTL-_5HPrRG8KwvcB0ugVqDCOxTMmNF9SXFShmevFpJhJ3b1BGD-1bI2oKzVxF_wdwXpAtH-WI8NOrbOCCG28oW6Gwbtca8VV2FNC9loCSogSl6ASSlwPzOZQrCbOH73kveO8c1AEaS3cXo5Cir3vBXYhmlvQj7AcDzh962We-ukZJewetz2QYT_RT7OlIExxz722Kw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایت ادایی هم جالبه بهش لینک یا آیدی مقاله arXiv رو میدید براتون به صورت انیمیشنی و تصویری توضیح میده مقاله رو.\u003cbr/\u003e\u003cbr/\u003eمثلا آیدی مقاله ای که توش GPT-3 معرفی شد این 2005.14165 هستش می‌تونید واردش کنید :\u003cbr/\u003e\u003ca href=\"http://arxivisual.org/\" target=\"_blank\" rel=\"noopener\"\u003earxivisual.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T18:43:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UgvHrGTBjhjgC_uvMvmA2LrHjtd2X782Nck1jQ7re_jijisGgFvEhjTpdESSRVMlS-5ihzP1Kl2YhHtBqdo4sZDJbw-isi-itHwOUYapJB-_lzGHoCoqePI2pqWfL__XUEvGwO4XCp0TMxSQjaQhHm1d2XugH07dm9iCRf5yLVVcimpjYGFZcaAD4lVHVBvT-aEjGA6NPPnEd47kSwBAE3BmRZ_QASz_fO9DvQ4JL-7QnRoKspeyKDCH1ttqW9ro4Y8-KBmWMi8vj-QCJrzYtuVk56EyS5Fz7Pc5EHKE1El5P1hjQLgL9SDdh9X7R-JKPuvnq9MTwIKCNPq9BKCoLQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "آیفون تاشوی جدید اپل، توی نشونگرهای Wi-Fi و باتریش یه انیمیشن حرکتی خیلی جالبی داره. یه نفر از صفر ساختتش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://signal-wi-fi-battery-motion-study.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003esignal-wi-fi-battery-motion-study.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T18:58:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hY9uYjryYc1fPjmKZUgPPEQ9StfesIVYdIKJA33obOvF2kYAQz6_nm5T01O9VNS5zZ5pm6dLlG67Tynp4C5ABWaLwxruVq1nAT_nb2tdHH9AuDEHguCgRjAlfZcWXMa1rOCDEI0gn_w7h4fyPfV6CM4xqyD00mqR019-6heK2A4xXvwC3NM1uyreb66M56INNoxz9CHNdUc6AQ4XjokkkN19u92sV_NIfdc2f4DIkDcTMG5dkMfTjrfnI7ARCFwX_4MZKWmufjCiJRA_brDEwBBAZBFFKbfRI4T2zFR1DPF2uH9JpFqHaTEERFduGHqOv_Nr4T5KdaJzro897k1EZw",
+          "width": 1146
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این یه اکستنشن VS Code هستش که مایکروسافت اوپن‌سورس کرده.\u003cbr/\u003eکارش اینه که لاگ‌های سشن‌های کدنویسی با ابزارهای هوش مصنوعی (مثل Copilot، Cursor، Claude و غیره) رو از روی سیستم خودت می‌خونه و بهت آنالیز و پیشنهاد می‌ده که چطور بهتر ازشون استفاده کنی.\u003cbr/\u003eاکثر برنامه نویس ها هنوز نمیدونن چطوری از هوش مصنوعی استفاده کنن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/microsoft/AI-Engineering-Coach\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/microsoft/AI-Engineering-Coach\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Saeiid",
+      "date": "2026-09-14T19:13:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HfWAbrpGfc1yFdIN92waDirnWScHiyIO6pXovCKpSDlF1_XJfFrQsexH570GEp_XE893w8eZkRZfPs_f3zCDPFKPHsks0jVCTCMsrCZxhwc7ikniCOLz3GepOR8B70CvMNIPORH3H1wMkW5BmSIlRbesldWLYkopyONIIRunl7OrUUHien6UGktS5TF4yD96kWYC8ctPoijM4JATABXVzwajffLflN09ztRmXo9cQuW_n1L7wtBsi8dYPudbm2KN1WIQRpYynFfxbD76ZNZvddSrLmSfwfFnhGbeTRtwCAXcfYvgQkx20LDK21D73zA3H47YcP-7j-485cjNFbW9Pg",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1789397318
+  "last_updated": 1789414864
 }
