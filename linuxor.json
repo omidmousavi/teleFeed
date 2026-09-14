@@ -8,109 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دهن این مگس شبیه سازی شده رو سرویس کردن،‌ یه نفر بهش آموزش داده که پرچم آمریکا رو تشخیص بده، و سرود سوگند وفاداری آمریکا رو با کد مورس وزوز کنه.\u003cbr/\u003e\u003cbr/\u003eاین سیستم از کانکتوم واقعی مغز مگس توی FlyWire استفاده می‌کنه که شامل 139,255 نورون و حدود 15 میلیون اتصال هستش. پیکسل‌های تصویر پرچم وارد این شبکه میشن و فعالیت نورون‌ها توسط یه مدل آموزش‌دیده تحلیل میشه.\u003cbr/\u003e\u003cbr/\u003eبرای تشخیص پرچم، مدل با مجموعه‌ای از 256 طرح مختلف پرچم و تغییرات تصویری آموزش داده شد و تونست هر 550 نمونه‌ی آزمایشی از 550 نمونه رو درست تشخیص بده.\u003cbr/\u003e\u003cbr/\u003eبرای بخش سرود، متن سوگند وفاداری به کد مورس تبدیل شد و یه مدل GRU آموزش دید تا ترتیب نمادها رو یاد بگیره. مدل در epoch شماره‌ی 120 تونست هر 492 توکن رو دقیقاً درست تولید کنه. این سیستم فقط همین دنباله‌ی مشخص رو یاد گرفته و به معنی یادگیری زبان نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T09:43:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gLS7ARQprZP1c_95Dglo3YuWNCmyzdfr-6BN9iKkdwameGQ134RZ7yPHUwlRHsQ4Dxy6lSdyAuSm1EpmXAFYvpyhi6BEFHwB9WVcOiNwIWnaubmrsMkQP28E-6A-9OZriZnDPNrOXERV4bxwe0ugO_I1ODeUeFM8kWFoQgDs8HRwsXSdgZ1qran1Tl7sAz4HGSR3iq3_kSjOR_NB7F_GEooKmjSnxM-exFhYbKyvQAQOHi18TEP3Lu8dIIx7Xr2hnpRMMaDtDfW8O55KZ2XdXt79DajaKQzUjzNWnAeP6hehla3x0x1KxExhiByEwNL6MxZp_gsRid0nQkagxkMGTA",
-          "width": 2398
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سلام بچه ها امروز 256 امین روز ساله و روز برنامه نویسه برای همین ما با بچه های ایران سرور هماهنگ کردیم که بهتون 256 تا جایزه مختلف بدیم.\u003cbr/\u003e\u003cbr/\u003eهدیه ها هم چیزای با ارزشی هستن مثل اشتراک هوش مصنوعی، سرور، گجت و یه سری چیز دیگه که خودتون سوپرایز می‌شید کافیه کانال ایران سرور رو دنبال کنید و به صورت ساعات رندوم از امروز تا چند روز آینده هدایا قرار می‌گیره :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranservercom\" target=\"_blank\"\u003e@iranservercom\u003c/a\u003e",
-      "date": "2026-09-13T10:59:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "این ابزارو امروز نصب کردم برای اجرا کردن مدل های لوکاله واقعا بی دردسر بود و یه مزیت خوبی که داره اینه میتونی تمام مدل های لوکال رو از داخلش مثل فروشگاه دانلود کنی\u003cbr/\u003e\u003cbr/\u003eقبلا مستقیم با Ollama کار میکردم ولی اون چون رابط کاربری نداشت و ترمینالی بود اذیت می‌کرد (اینم پشتش احتمالا همونه فقط رابط کاربریه) همچنین گزینه های دیگه ای هم مثل OpenWebUI هست ولی این انصافا بی دردسر ترینشون بود، دانلود برای ویندوز، لینوکس و مک :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.jan.ai/\" target=\"_blank\" rel=\"noopener\"\u003ewww.jan.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T11:15:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/La31DBh9mO20y00v-ectyVoDEWa-_3MMeK-8SMFW7luWgqzLa8aq-FySb3eLwlS8oQ7Hz5UOaYLIs02RFQbfO-14S2br6x3mQcCtgu2Yf2xMf2GTafjzSK7mfqS5OKSXKx7XCkNTqOgVaokMt26haGcTDdtU95iGHzAjbt8zH_iqoRs2UH4Lsv6BrwEILrxUn8KXvUHEKEyXfUm9pjhVQtYHJFdsHqiDQJ8M0LTk0VHEXiEZLu9_KyfoHG8QpbVLAq0-_GsypMt20js1DJjqa6alc34jn6hZYeKzrE5l63PpzdAwbU4UHC9jMr3FuuG1Ijxt66oJGHxZKZ6CplsqWQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "صحبت های میسون حسینی متخصص سیستم سازی کسب و کار درباره از بین رفتن اکثر غرفه های الکامپ در سال های اخیر\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T11:32:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iSWNyMZWE0KxcRygTxuKomDN8gvVCemlFvVLKLPT1sYPwS3NYb-zuImWcGPNI6zuCfOLXbTHXhNzusqvt6ME9rMAc8Rf1luSb3Xi08wOSsWWDh4PrBRKBGKS4xWMMymKu0qzXLE0yzdA0WGZxF26rkgFsog0ISZJHmgzs9SgZ9Ipy-qbC7h_FuNPD0acGgZmZACsh97WOR8_Y2BEC_aB9509FNNDX_4qyUR6WPMu21x7TrD2oywx85Vjcq8514Hw_UwLxrbBkIoLwmrk0nPtG1414bRXYKS1xSOCEt3qsd1WiB-2B_w9a-TiE5sg4c2Z_i1UIsJqvukwsoGW08f9aA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بعضیارو میبینم یه کسب و کاری دارن و رقیب میاد توی کانال تلگرامشون تبلیغ ADS تلگرام اجرا میکنه و مشتری هاشون رو میقاپه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاکثرشون هم میبینم میان توی کانال میگن \u0026#34;این تبلیغات مال تلگرامه و کلاه برداریه و ما تاییدش نمیکنیم\u0026#34; این جمله رو نگید لطفا هیچی اصلا نگید دربارش چون بدتر توجه جلب میکنید یه راه ساده اینه ولی هزینه دار اینه خودتون روی کانال خودتون ADS برید پنجاه درصد هزینه که بر میگرده به جیبتون ولی حداقل ظرفیت تبلیغ رو اشباع کردید تبلیغات تلگرام نمایشش به صورت ترکیب شانس و هزینس یعنی رقیب هرچقدر هم هزینه کنه یه بخشیش به شانس مربوطه اگه شما نباشید تمام شانس نصیب رقیبتون می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-13T11:47:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5368843260418600395\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهنوز برای الگوریتم آرنا دیر نشده! \u003ctg-emoji emoji-id=\"5368843260418600395\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5442894213203117439\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91B1E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e👱‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eچهارمین دوره\u003c/b\u003e \u003cb\u003eالگوریتم آرنا\u003c/b\u003e برای تقویت حل مسئله و آمادگی برای \u003cb\u003eمسابقات\u003c/b\u003e \u003cb\u003eالگوریتمیک\u003c/b\u003e \u003ctg-emoji emoji-id=\"5444965061749644170\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5402406965252989103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5407080598340642068\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eالگوریتم آرنا، مقدمه‌ای برای مسابقه بزرگ ACPC آینده!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5323608798001131201\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارائه‌های برگزارشده ضبط شدن و ویدیوها در دسترسن\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5345843457145453967\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۶ ارائه تخصصی | \u003ctg-emoji emoji-id=\"5332564925799745638\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8F.png\u0026#39;)\"\u003e\u003cb\u003e✏️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۳ کارگاه حل تمرین\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4940645878684713890\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حضوری + مجازی | \u003ctg-emoji emoji-id=\"5818775306974006843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی آفلاین\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5363789977991793835\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e۵۰٪ تخفیف ثبت‌نام!\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5233331433002517923\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9F.png\u0026#39;)\"\u003e\u003cb\u003e🎟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کد تخفیف: \u003ccode\u003eSPECIAL-50\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5429455831764584284\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرصت رو از دست نده؛\u003cbr/\u003e\u003cb\u003eیاد بگیر، حل کن و برای ACPC آینده آماده شو!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5336990881008340733\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206594230792756692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ثبت‌نام: \u003ca href=\"http://ACPC.CEIT-SSC.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWebsite\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5237697567906617034\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در صورت هرگونه پرسش یا ابهام:\u003cbr/\u003e\u003ca href=\"https://t.me/acpc_admin\" target=\"_blank\"\u003e@acpc_admin\u003c/a\u003e",
-      "date": "2026-09-13T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kBIA-DtWJFFaVHJX1huycRpIwaDoj-XLuA8jTXOWhKwL532OBEWLH1t3Ur4Liw3w2NXf34HTdH8IYe-fC1P-vatmEPeTAde5KNfsejCwvdqN3V7SBJN7WPxbPdG4LltWuXeRqxMgyTa05e5WKEY6IfUAsi_NZcXFQs8TU7srgZoGu3Rovptjt2uJ2A7QtYVByZD13av8A1K0jEfbXmHAQ64vmmqwd-EyjTIxfkLzDnpvjbyJcPz7GBlO_nRLkFaQAPE9EGZRYNBmwrEaakg2RrWIq6viPAieIPXFVYWewwbiBXTlaQtvBeDIfOX6cv9UApERQn6H0Y3dMkDUCbx_4Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه روی پروژه ای با هوش مصنوعی لوکال کار می‌کنید و سرعت و زمان مدل پاسخگویی براتون مهم نیست پیشنهاد می‌کنم  بجای مدل های سبک و ضعیف از مدل های سنگین استفاده کنید، ولش می‌کنید به امون خدا خودش براتون با بهترین کیفیت کارو رایگان و لوکال انجام میده فقط یکم کنده، Colibrì یه موتور اجرای مدل‌های زبانی بزرگ (Inference Engine) هستش که هدفش اینه مدل‌هایی رو که از نظر تعداد پارامتر خیلی بزرگن، روی سخت‌افزار معمولی اجرا کنه؛ حتی وقتی کل وزن‌های مدل توی RAM یا VRAM جا نمی‌شن.\u003cbr/\u003e\u003cbr/\u003eتا الان چندین پروژه در رابطه با این قضیه معرفی شده ولی این یکی جدید تره و روش دیپ سیک 4 رو، روی یه لپ تاپ معمولی اجرا کردن با سرعت 1 توکن در ثانیه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/JustVugg/colibri\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/JustVugg/colibri\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-13T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EmnIkYriTmQ6XPZELyz9LXz9r2xBN0pSFSSsBuXf1t4tKPxllJTOo33gLLDHpxy5gi96tPik4a7I0jipFC2zm6XWDoGpVicxBTNw09_EVxl-Wihwb3QcbZWhc-39JII6DeT44NKJncS3seQh786He6UgAhkypdwQerS6_KfPGeuDTqJI36eiu7fLZtkc1v2FCRsBJgRGW5j3lJUaEVquI3TB4zpqCFYcE2QHYNp1ZDV7nNmKc0AlZcAQUPkshoMLUZC553vTa9SP4fNqGsbXXRvrARWflk_w0DkG2atfiUD5kopPcnYJE5bR3wph1Ut-BNPrbiky_I8pNoRX11KSCg.jpg"
+          "url": "https://cdn4.telesco.pe/file/sGujT_AQNpMSpQ-mceTIvnuO3okCpadhcb8naQaJoB2I0aCMnmFmZKBSY1Gr2cIFvOd2ssxWbtXiyczssaqw1_WUSo4bYm7MMT0MmBcF1ft0hqC7CzMI3q_ft5eIpHoGXPgCQ7qxufUft7e3U3TQWfPOa371vztN5c2gKn9dsGcp_RIVrDe8Hi5gwztcCkm-QTdCcXPvt7wgLD3Ot4DAlnkZCZTj5SlIIl1yIZAe6g5SN3jKomun3stiiVU2Q21ncOfaQ5lzb7NeheKYq4NEFu-LaWvqFG8PrQZKMspyErGHrFABcVXMe-rbPRgFwaMStf5J7J_gLM9ngdpkqd8oTg.jpg"
         }
       ]
     },
@@ -128,7 +30,7 @@
       "date": "2026-09-13T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +42,7 @@
       "date": "2026-09-13T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +61,7 @@
       "date": "2026-09-13T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +73,7 @@
       "date": "2026-09-13T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +91,7 @@
       "date": "2026-09-13T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 6050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +109,7 @@
       "date": "2026-09-13T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +128,7 @@
       "date": "2026-09-13T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +146,7 @@
       "date": "2026-09-13T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +164,7 @@
       "date": "2026-09-13T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +182,7 @@
       "date": "2026-09-13T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7090,
+      "views": 7930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +201,7 @@
       "date": "2026-09-13T19:40:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +213,7 @@
       "date": "2026-09-13T21:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6260,
+      "views": 7900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,12 +231,117 @@
       "date": "2026-09-14T00:05:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4360,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5300815226172612285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e دوره جدید کوئرا کالج منتشر شد: «آموزش عملی کوبرنتیز»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5373221902267457807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e فقط تا \u003cb\u003e۲۴ ساعت آینده\u003c/b\u003e، می‌تونی این دوره رو با \u003cb\u003e۵۰٪ تخفیف\u003c/b\u003e تهیه کنی!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e وقتی یک پروژه بزرگ‌تر می‌شه، دیگه فقط نوشتن کد کافی نیست؛ باید بدونی چطور سرویس‌ها رو Deploy، مدیریت و مقیاس‌پذیر کنی. توی این دوره یاد می‌گیری چطور با Kubernetes کار کنی و اپلیکیشن‌ها رو مثل یک سیستم واقعی در محیط Production اجرا کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4967518033061872209\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکان پرداخت در ۴ قسط\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226766463821425559\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دوره رو با تخفیف ثبت‌نام کن و هر زمان خواستی شروعش کن:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5239956780833857591\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://quera.org/r/4chud\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/4chud\u003c/a\u003e",
+      "date": "2026-09-14T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XhpQTxk5icBqINHQycXN7XXuXiRb0oIXbitR7jvU91kzulxKO1HJDL5ePsZ2s9W5aN4XJ2kJKEjEl0AdKFYFzfcQOAD3SBVmOsz7PgQ7kp3C7z8I32YQp-rF2Hlj_w69JiWNgrVDQg_d4nZOOHeRDeBpro8FeZjCAdMmGFxhOyAnuf8eOIOxBw6TiFp5M4cqnZK-v9oXOsqoU5P-HFtv9Zm3wd_Pk0PRWUO-FCcSKd4W3JTMKmbFuFE2TwNHu1W7-rJperfTzqgnaOSNM5MxODxXxBSfoDIkWxRXSoaaDaU4QXgePfXdyc9oge-Vvyzn_H5qmRb5m52ointV0nY9hw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این بازی که با وایب کدینگ و هوش مصنوعی ساخته شده واقعا ایدش قشنگه، یه محله واقعی از گوگل مپ انتخاب می‌کنی و میشه زمین بازی روی ساختمونا تاور می‌ذاری دشمن از لابه لای ساختمونا حرکت می‌کنه و باید بزنیدش\u003cbr/\u003e\u003cbr/\u003eتست آنلاین و نحوه کارکرد :\u003cbr/\u003e\u003ca href=\"http://3dtd.sgeht.net/\" target=\"_blank\" rel=\"noopener\"\u003e3dtd.sgeht.net\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ingel81/3dtd\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ingel81/3dtd\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T12:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/nb0PMaIDtswUKuzdZy5IX6hpE2Dxk6J-LlL3_i-MejpGdP1NP1FsOa-vJdZk2A0uHCxupOXDXHY9rM3fTw_fTtMvUh3Eh3wtIqEIof1GfAJ5VeuwgGaLG3P9oqyVYpQBTXSN-_IE8XmXL8Ms7G9dTHQuLadfIUiu9-wEGtUzGR63OPXM_rBGOB6iw-hywl5iou_8ajmjCX3hTBquPNJOqDppoNn8YzGLuCPoajfzrHmqIE4j6cjQRPPaAYnQLx8BdD_5Zbx4lic4ulLvuajScZxhkU1SC8o4kwBnqs-uAXkD44NykzHdpWI6LFtIG3qrP7S_o5qF67zkIgb-1ucDmA",
+          "width": 1600
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعضیارو میبینم بجای اینکه روی مهارت هاشون کار کنن بیست چهاری توی لینکدینن و دارن فعالیت میکنن یجورایی تبدیلش کردن به اینستاگرام برای خودشون\u003cbr/\u003e\u003cbr/\u003eولی واقعیتش اینه که هرچقدر هم نتورک و شبکه و پرسونال برندینگ قوی بسازید تضمینی برای پیدا کردن موقعیت شغلی خوب نیست، نتورک فقط احتمال جور شدن موقعیت رو بالا میبره، به قولی شما تیر اندازیتون خوب نباشه هزار تا تیرم داشته باشید نمیتونید به هدف بزنید اما یه سربازی که تیر اندازیش خوبه با چند تا تیر سیبل رو می‌زنه ولی کسی که خوب نباشه هرچقدرم تیر و شانس بهش بدی سیبل رو نمیتونه بزنه. ساخت نتورک خوبیش اینه که بهتون تیر و شانس اضافی میده اما تضمین زدن هدف رو نمیده که...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "زمان جنگ وقتی ویدیویی بیرون می‌اومد یکی از راه های اینکه بفهمیم واقعیه این بود که چند فیلم از زوایای مختلف گرفته شده باشه، ولی امروز هوش مصنوعی می‌تونه با یک فیلم ثابت که از یک زاویه گرفته شده فیلم های جدیدی از زوایای دیگه تولید کنه...\u003cbr/\u003e\u003cbr/\u003eاین ویژگی واقعا توی ساخت محصول و ویدیو های تبلیغاتی خیلی کمک کنندس چون فیلم برداری از زوایای مختلف کار سختیه، ویدیوی بالا ویدیوی هوش مصنوعی ویدیوی پایینش ویدیوی اصلی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-14T13:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/IPVmMMV5xE6sfUvlV7xu65VQUnVuUO4pqTQOkE79x3h6BnEj7HJmGBKg9J-Gj6-IfLba4vkYbqTCuMLeZJGTqix74IClIeMebYV35V-IINKXu5tISKUIHBnHs46V669sbMv8Hs8mJiWz2UwfQD_B_PwPgzbES_g-gKCOPfvMAQcgbERRPao8qfM0DuZWPGm8Gvb1XgxDGXLKIzq8eSzWKhRTNBBT5zAcNeTZikMgg-KV8qHqVDpsh8GylLmsPPEtLaZ7TGaCKUW-OLP74pcFgIM8I4h-mYjH1hrpvXnVne-7G0VuAWKrp2CYwtboNsdQ3lkdLldfz7-WhXQImwp0uQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6267152480878990865\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاز کشف آسیب‌پذیری تا امنیت مدل‌های زبانی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989927820984327321\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شناسایی و تحلیل آسیب‌پذیری‌ها همراه با انتشار PoC\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989800655592627058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2989D.png\u0026#39;)\"\u003e\u003cb\u003e☝️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بررسی و تحلیل گزارش‌های Threat Intelligence\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5990103579636014511\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9493.png\u0026#39;)\"\u003e\u003cb\u003e🔓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش و پژوهش در حوزه LLM Security (اولین دوره تخصصی مبتنی بر OWASP GenAI در ایران)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989971281758394805\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eارائه محتوای فنی و پژوهشی برای محققین امنیتی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6267298050205553492\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانالی مخصوص محققین امنیتی، باگ‌هانترها و علاقه‌مندان حرفه‌ای امنیت سایبری همراه با آموزش برای تمامی رنج‌های سنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6264537399846507987\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/ThreatSignal\" target=\"_blank\"\u003e@ThreatSignal\u003c/a\u003e",
+      "date": "2026-09-14T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OfLcdq52gMZhbEfVyx4XSCqVH4uPWycYOR00H98T5fsy-MJGJ6Nv1XxHH4yuNxU0HpWpQVV4x1THF7KR1tFgtns7FgFOO1n4ROogpPHZ6Xq-AjL8hVVUodQkVSp_dQKZ8PaRoOzcqn3GRh_KgVwvQf7okhQWFIP4dfxLhoGCgeJ1VqkCuSWjUrK-ufH2M72GBi_KMv9F8hwMMXFkNNVcwMzLjq9DR6T3YexgHfQR0YA1Yif5_WeQDHru1KZybT2RkjUJzcdqZJH4MMnEfV57axpPxCiKBZFv3lu1jW0GybDDQAIEEnrm9y_GeqsdUmUVTRBrJy0I07B_G_B3eyqkBw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این افکتی که می‌بینین بهش می‌گن\u003cbr/\u003eshader-driven page transitions\u003cbr/\u003eبا لایبرری glimm که لینکش رو می‌ذارم پیاده سازیش کردم\u003cbr/\u003eالبته وان شات نبود و رفت و برگشت داشت.\u003cbr/\u003eو کلا اگه انتظار دارین وان-شات خروجی خوب بگیرین،‌ باید بگم که ناامید می‌شید.\u003cbr/\u003eباید صبر و حوصله داشته باشید.\u003cbr/\u003eاینم البته بیشتر از ۱۰ دقیقه وقت نگرفت. ولی فکر کنم قبلا باید یک هفته وقت می‌ذاشتیم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://glimm.dev/\" target=\"_blank\" rel=\"noopener\"\u003eglimm.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ craftWithPooria",
+      "date": "2026-09-14T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 538,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Mv1Ia0VPXPfERRCdRzsHxw1M4pGfut3SsXueFIiAK-yj16GEhoa7OQBYXlE_OBGZWkbNkjniCAisPoJ_GNIPs-1i1eNQL1q3wb8UBQttlzYJer7GzlgfLPrWwht0dGcWfMctpNu3DyvuK2oPoBcdbYecYbeP7rLgNIIPsdTrDOPVah5pvfBI8lxm8raGHc2iKKa73dIYYJioYf-md02QpsUuyZRaEXKMlnqB4Tr5ChdHaXv9cOgUraBlXgkMYhtCaDbEW0j5okrXJzybbu9r6IiSegOjr-QdwQuMGaiSm1D96jp0TwSHFvkzkzfCGPRtq3u7L3OxqdPQg8mvDQz9Aw",
+          "width": 2676
+        }
+      ]
     }
   ],
-  "last_updated": 1789372799
+  "last_updated": 1789397318
 }
