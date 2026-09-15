@@ -8,157 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "زمان جنگ وقتی ویدیویی بیرون می‌اومد یکی از راه های اینکه بفهمیم واقعیه این بود که چند فیلم از زوایای مختلف گرفته شده باشه، ولی امروز هوش مصنوعی می‌تونه با یک فیلم ثابت که از یک زاویه گرفته شده فیلم های جدیدی از زوایای دیگه تولید کنه...\u003cbr/\u003e\u003cbr/\u003eاین ویژگی واقعا توی ساخت محصول و ویدیو های تبلیغاتی خیلی کمک کنندس چون فیلم برداری از زوایای مختلف کار سختیه، ویدیوی بالا ویدیوی هوش مصنوعی ویدیوی پایینش ویدیوی اصلی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T13:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/f1xT8AlKUvxippmV-r119yomE3c_KEI-ckFNAlTQxccF9NUKbM3QVufRyQDR9n4dhoq8mK_JXViSYksveBVwhMFwR3xJcIZn5-xn5SCGOAhByCT5QoySJ0Heu-gPk6QyJddPUsgfHgs2ST67KxYcdW5e-AkaJHw0-2qVR--Yi-xU8IwvS2K5RbrYT37GIl8SNPrpz7jSlovEGlk5KCZ4rh-c5t6WKakWKqmuPRKzOpRkwATY6TiMAaWT919maHzJN6RRN-_FtU2bLQEkgqlYdfx_5G_MeRVt7rvO5S2nUQYRtydjqbQaRwur8YC40xqYyGxymbt7BtuiBbZPl471Lg",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6267152480878990865\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاز کشف آسیب‌پذیری تا امنیت مدل‌های زبانی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989927820984327321\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شناسایی و تحلیل آسیب‌پذیری‌ها همراه با انتشار PoC\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989800655592627058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2989D.png\u0026#39;)\"\u003e\u003cb\u003e☝️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بررسی و تحلیل گزارش‌های Threat Intelligence\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5990103579636014511\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9493.png\u0026#39;)\"\u003e\u003cb\u003e🔓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش و پژوهش در حوزه LLM Security (اولین دوره تخصصی مبتنی بر OWASP GenAI در ایران)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989971281758394805\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eارائه محتوای فنی و پژوهشی برای محققین امنیتی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6267298050205553492\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانالی مخصوص محققین امنیتی، باگ‌هانترها و علاقه‌مندان حرفه‌ای امنیت سایبری همراه با آموزش برای تمامی رنج‌های سنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6264537399846507987\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/ThreatSignal\" target=\"_blank\"\u003e@ThreatSignal\u003c/a\u003e",
-      "date": "2026-09-14T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ejlfIcqOPGfY7XO14XcHn6Hx7kfRmime4W6Gw8l2iyMaZtwNINdQL3T6OqdU2vWDQ3OikLfp-6xbRA6NSbT4y1UTzIR3xdp8LUwehL1Hw45qR1UDpyvpWuDjxRXSYB0ohX_-FpiPW5KjFAHTqcCAj4DC1HDynhpNldFwb2YyH0a-cOnMryEtBIj70dDKL1d-udeTyIsdfSwacEPA9tWuOIWiuTR2wAe1tjMW2fuZTC6qy4yHJfkxO3dtO3TJGa9CE2SaRXIoCayr1-6XgDZ3faPclN6HOAzSyi_cVysJa0DoUUMa4-apXw26v6p5s_USRf4A2J0y710ayqkcubdyQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این افکتی که می‌بینین بهش می‌گن\u003cbr/\u003eshader-driven page transitions\u003cbr/\u003eبا لایبرری glimm که لینکش رو می‌ذارم پیاده سازیش کردم\u003cbr/\u003eالبته وان شات نبود و رفت و برگشت داشت.\u003cbr/\u003eو کلا اگه انتظار دارین وان-شات خروجی خوب بگیرین،‌ باید بگم که ناامید می‌شید.\u003cbr/\u003eباید صبر و حوصله داشته باشید.\u003cbr/\u003eاینم البته بیشتر از ۱۰ دقیقه وقت نگرفت. ولی فکر کنم قبلا باید یک هفته وقت می‌ذاشتیم:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://glimm.dev/\" target=\"_blank\" rel=\"noopener\"\u003eglimm.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ craftWithPooria",
-      "date": "2026-09-14T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HBv00Zm_hcfMQS8c41wMbFOF7ZVc6TvS5k58jBCz6PT0ED71OrU2kJ6Dv-L1edCcms93NSp0UQ3A9Qe0UUoaLQBe18UWW4ljrDzU1wehNMv_0whSZIRXTZnm3tUGmp2kqPV4f9bLrHQWwbTrNd6N39yn89In0mp3B8__Ck4wBQ0mQqZzSVMXGvkHjwZ1mK9F12sCy5Ik3a4dPSz1HqdLSL6iAo0CT1A9Z3czAXJ8TXoDBs1z-tGSXburoU7a7368ZlNGx8eU9WSsJw2ZADg-Dac0FqmtIvZj1jmfFw4Qw-d1PbbKkFxKmOTb1aGmKmjqjEtD-uuELYG3R8dlvTuoQw",
-          "width": 2676
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "انصافا آپشن درخواست اکانت دمو رو از سایتاتون حذف کنید الان من باید توی فرم شماره تماس بزارم تو زنگ بزنی دو ساعت ازم اطلاعات شرکت و... رو بگیری بعد پشت گوشی یوزرنیم پسورد بدی؟\u003cbr/\u003e\u003cbr/\u003eآزادش کن همه استفاده کنن دیگه اینطوری مشتری میپره هاااا\u003cbr/\u003eاصلا کاری به این قضیه ها ندارم نمیدونم واقعا این روش مشتری آور هست یا نه ولی به نظر من فشار نیاوردن روی مشتری خیلی خیلی کمک میکنه به خریدش. اصلا اینا به کنار واقعا نیروی انسانی هزینش خیلی بالاست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دوستان دقت کنید دو نوع خطا توی جمنای داریم اون 403 مال زمانیه که با ایپی ایران رفتی اون بالایی مال زمانیه که VPN کثیف روشن کردی.\u003cbr/\u003e\u003cbr/\u003eمن اولش فکر می‌کردم مشکل از لوکیشنه پس با اون روشی که درخواست تغییر لوکیشن می‌دادیم تستش کردم دیدم هیچ اثری نداره ولی با دو تا VPN مختلف یکی تمیز و یکی کثیف واردش شدم دیدم بله مشکل از سمت VPN هستش. چند تا از دوستان هم گفتن احتمالا بخاطر VPN های عمومی و ارزون که آیپی مجازی دارن وارد بشی گوگل عکس بالا رو نشونتون می‌ده.\u003cbr/\u003e\u003cbr/\u003eولی بازم بعضی از VPN های رایگان هم حتی ممکنه آیپشون تمیز باشه. ربطی به قیمتش و گرونی و ارزونیش نداره. پس به ارور بالا خوردید تغییر لوکیشن رو بیخیال بشید تغییر VPN بدید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T15:07:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Jkp3lgHn-Mw2QXjHM_5wIrY7o34WOnPyHa-4_RIRgyrqMWftnaMnAq7Cb9_WtlqIjO2tS6lH52YCXFVnoMWJNJGBgz1eVq7Rl2OJfJzwVHkKBG288-2qecpeRX7XKXWA9-t9Nk4aElY3vK339yokvfuwmYl-nkreI_yg57v1LhhShxKup3TpZUEYNiRB5k70kf8SZbfRmHvyI0BXWFmrsNc_JbSWGP4ocgkHLnNxJyarJj8MHnQbHg6TuhKZep_I3C0Cp9w2QtpVUkr0nivsZtWheYCJbwX4TWAYUys972uWBsTiu8IcIFuolceXsM4CeTXE7xXZujvOu2TKfojjhw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Jpf430MHOOsBvqdbK0VhcUh2YHa9dqaX59GiCZzPJvinPFw7BNVK6ifH9w-NpxlOI0A-7DinwGwYc_ZgTzUa1HggmSGx9oZUQbiM5bIruif7ydA3sJuE-mC-RS4wNqXvawGzO0Jl6tIOCRrkRl0dQyYOe3mFmBFasSCtsM9w0KCDCOkCHFVjBUdmxvMdUQxT2X0sf5thxOZMk3Ylo6yZtfv_Hyc_HF3vErECEPiTaN_mzICjPO1DsXi_BPMJIg4sMJBCmtBtja-4lqOoHDU2dIMURkRt2qqC_dfnfNRiJvl4ufUm0ye_gE3Z2fHlsBT7a0ohnp-XA9pL6ztF2oRmxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپکیج اختصاصی Claude Max 5x/20x ضد بن راه‌بوم\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e وی‌پی‌اس VPS اختصاصی خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A7.png\u0026#39;)\"\u003e\u003cb\u003e📧\u003c/b\u003e\u003c/i\u003e ایمیل وریفای‌شده خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e کلاد مکس Claude Max روی اکانت اختصاصی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e برای خرید و دریافت قیمت:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e ادمین:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboom1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboom1\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboomshop\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboomshop\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A1.png\u0026#39;)\"\u003e\u003cb\u003e🧡\u003c/b\u003e\u003c/i\u003e سایت راه بوم:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://rahboom.com/\" target=\"_blank\" rel=\"noopener\"\u003erahboom.com\u003c/a\u003e",
-      "date": "2026-09-14T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/F68GvpDp1d056rsSyUSrNKHdvQ8FYYepCprH_hmEPrlshry4FY2FqJ5t2kklwHxYee-A3RWWgEEsfZRiZHGKgP3tEZ13_3GqrLrFuSxBFuGwZQkWryozIjZzmUJJ80Hs1AlOJPTS_B_KDtDwc_ZppLS6dH5Nrxl6thyHhXpfk-TWnH5dvJwXcJ1XwSPY1FJS2mFUQg7usxjPfXPSER_MtJnf-OkTtq_tGAPoJ-3OMoAuUrwQh_Zt-FZ8Jrhk2KKTjod0jTjHZl7euetJDz95Tf9ATRdbaFRR3dIY8khUBIkTQ1t8cRefbVqrZW4dnyCqep04K0kcx4TlkaQd-2nCVA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این اسپیس هم بهتون اجازه میده عکس اپلود کنید و با متن پرامپت ویدیو تولید کنید از مدل Wan2.2 14B Fast Preview استفاده می‌کنه که درسته این نسخه ضعیف شدس برای ویدیو های حرفه ای مناسب نیست ولی برای استفاده های کوچیک مثلا انیمیشنی کردن عکس خوبه\u003cbr/\u003e\u003cbr/\u003eتایم ویدیو رو بیشتر میتونید کنید همچنین کیفیتش هم بیشتر میتونید کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/kulkas2pintu/wan555\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/kulkas2pintu/wan555\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eولی در نهایت این اسپیس ها برای تست هستن اگه استفاده دائمی می‌خواید باید مدل رو دانلود کنید که نیاز به یه سیستم گیمینگ یا رندرینگ با حداقل 32 گیگ رم و گرافیک  4090 داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T16:43:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/u15o50DkIA61sa4Pz9eTKOt_b2AmcorfHI00LH2_Yu8ML9vGFngXEpm2qGPiX1qbjAH33Fm_KNfpKB1buIcd29-PNQXmDbqZa4Z0R3aJP3JBKpAcEH7C8LG08qJLXvi9ybA0eceLr94ULqLF4tSw8Eo8OVxCfDYlBRF7mHoKsDDjgb0FPEJ8-1mfVJzBV6n2sreWsyCJsIchztHHtl7Eu4nGpCmKMWDVV5K06fACCeb__0KpdsEjXx2Tx73cCj23xgS28STH9lPMB1BHmMzYA6S8rCWqjc35aNPOzHd5iaIajsKsOppCWU3ZMy52wDY6StOla7VM_0zfrAd_4Lyrlg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ایده برای رنج اسلایدر با تم بازی انگری برد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T16:58:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RQPF7K21Z-lUyuwmpxWJXB8rZoSFZ6FCb3KE4xTGcg1ptgxjr20NTwyybnoT8HIZ6s1PE9Kk6PMjZOqBMF4Afv2JGdEgi5nAwPT8Zvd28qVnkEPxk72eAIIPumiPYxpXCzO5SMJPm_AHzf42WOKy7K0-kUNv5qtGdbNcBJhyFHpPf5RzZD8-9pifulB6xAvste7eMz6EZtPeGkOoK1_jxFgMNC9NVEnuxkqjY6fh35t5ocrh3KZsHnx7D6nwYR0XyC40SUe0Qe03p4w3EQIK48CD06sdtEp2MrDqBSDDb9wqHkli4M-W1pEGwFtz7QI8cyFIiwPOoV8aB1FiVsIysw",
-          "width": 1466
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این سایته هم کامپوننت های زیبایی برای وب داره، کد هاشون هست بعضیاشون حتی پرامپت هم دارن برای اونایی که نمی‌تونن از کدش استفاده کنن یا اینکه با فریم ورکشون سازگار نیست بدید به هوش مصنوعی براتون می‌سازتش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://bencho.dev/\" target=\"_blank\" rel=\"noopener\"\u003ebencho.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-14T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MFhhOewXGllzGBkM5vFdmccvTaBoZTazRFWKe9BSlqxFc3Msg-IeJjhwjb4ex_9qaZh5zX771_a_PFJdZsNmkRcv67_O-jnO1Jz6HSgUS-G9a3sSOFc26FAbwkpl7diAvwOm7V_gcugHMo3pAO6pBGbBUDXZT5RQHQy6cMtTuGeUMMZqF316ay8HYaUA_hrlomtYd66pvmq_0nQajz7j9h8KxNXe4GXni8Whm-xhefm_9Xm3OM2lEmwZnYu3iiZVBswRLEXscaFikrkxenrT5B63B8ZprvILCONXMKj0gZrAEIbMxtjkZ6gglfx1YDt0rduyu_ykW4hlVPj1_bMt_Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/uLRSIU4SzxMdnuKIc4HAO64xwxP3KuMn5sVDIFsKAfl59Fmmv6DD7UM5rBVpFP61E_Om7D4E-_b-pxUQTxneXKrdSYc-Nvxd5tuFbAOCrwrURxqLJv2yGGzwAG1xsS8tkRDRhRD7v6b0vOWdmIIb_k7sTKnVmqiTXMWCLXEKP4QPNnESXeJBgp_nancc4CflgKYRl0Qh61N9CVUgDPx99D_rb792O7s9ISfU3piROJjVxk3Zg0y8m6KF8IJCczKa7kE3lLrhragCoVkLD68BOQHLP2JdS-fMyNJUf47wrMuYjJ2OumApFQLsPpwZNLAYEgaQDT0nmkQEKLNYmIln2A.jpg"
         }
       ]
     },
@@ -176,7 +30,7 @@
       "date": "2026-09-14T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6020,
+      "views": 6370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ifb8HyzyDmuSIcDFxRU2mYo7XEPRlkEoruaQkFFOjmlk-DHddsLDnsZ4Z3Jxr_fYUiaWUGuf9ZcE7s_IkVoey3fNzamaqhxiSt3hGsPGJNywXDQ5XUzvSgPbzqG8yg6QhByS8mUZ57vq_PefTL-_5HPrRG8KwvcB0ugVqDCOxTMmNF9SXFShmevFpJhJ3b1BGD-1bI2oKzVxF_wdwXpAtH-WI8NOrbOCCG28oW6Gwbtca8VV2FNC9loCSogSl6ASSlwPzOZQrCbOH73kveO8c1AEaS3cXo5Cir3vBXYhmlvQj7AcDzh962We-ukZJewetz2QYT_RT7OlIExxz722Kw.jpg"
+          "url": "https://cdn4.telesco.pe/file/oVFuvVNGydKLXez1j9eaZjXX5bK4W-d4GaFKrLwHGGAkA9aLtY16ymeln5aNycScWTwGcFmTnDuUs-450v_US86irahwVxi0WpKeyWvXUn3qaMSCfCnzsVoneZwYuXNBO7k6KwJt1Tge8pOXsam1a1Gw41xa3hdxPCMIgBE0fUxw3e4WJT3g1YlvJqX1_yUdMYE44e6k6JgevhN9dl4yOSzPOqRteeESwzPpLvlf35xs4DENamDOPHF04X5sLmgcrOk7upylCHUo7AXvzZHlse-4mr6IzkkVekxaZPVAt9TSQz2u9f3bvodtOvobzNJrlfbMopyEXGr0xEzFj2AFjQ.jpg"
         }
       ]
     },
@@ -194,7 +48,7 @@
       "date": "2026-09-14T18:43:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UgvHrGTBjhjgC_uvMvmA2LrHjtd2X782Nck1jQ7re_jijisGgFvEhjTpdESSRVMlS-5ihzP1Kl2YhHtBqdo4sZDJbw-isi-itHwOUYapJB-_lzGHoCoqePI2pqWfL__XUEvGwO4XCp0TMxSQjaQhHm1d2XugH07dm9iCRf5yLVVcimpjYGFZcaAD4lVHVBvT-aEjGA6NPPnEd47kSwBAE3BmRZ_QASz_fO9DvQ4JL-7QnRoKspeyKDCH1ttqW9ro4Y8-KBmWMi8vj-QCJrzYtuVk56EyS5Fz7Pc5EHKE1El5P1hjQLgL9SDdh9X7R-JKPuvnq9MTwIKCNPq9BKCoLQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/AFndEQ7grhk5js_NBNSDkD-PW9yJXmuNPy4U0g1n4v0rDypO0hXw3Saw_6Fp4TD_phMs3wFF_ce9F7_qo4CajprMSwntD2S18jGQDcCmFNCsNWnwFERVWvpsvQKt3RdgX5TANbYx3z4F1IDcm_C8KYdFfw2H_S3febYqcP1oY-JEE7xsOfFWr-2CJB1tK9uwnT1DnJ4hhtw8Dse0nDne5ndIo6ePPyge0fXvSToKOLPtzBfV_L-ZuW64TEt4xKNeryWt0gzb5ix0W3RmVOsvUqlvRBrOntTq1WjNW-qkuc1m6ZQMKXNeWeZQx2B21THd015G_Af8BtRNwz3HQ6tnUw.jpg"
         }
       ]
     },
@@ -212,7 +66,7 @@
       "date": "2026-09-14T18:58:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +74,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hY9uYjryYc1fPjmKZUgPPEQ9StfesIVYdIKJA33obOvF2kYAQz6_nm5T01O9VNS5zZ5pm6dLlG67Tynp4C5ABWaLwxruVq1nAT_nb2tdHH9AuDEHguCgRjAlfZcWXMa1rOCDEI0gn_w7h4fyPfV6CM4xqyD00mqR019-6heK2A4xXvwC3NM1uyreb66M56INNoxz9CHNdUc6AQ4XjokkkN19u92sV_NIfdc2f4DIkDcTMG5dkMfTjrfnI7ARCFwX_4MZKWmufjCiJRA_brDEwBBAZBFFKbfRI4T2zFR1DPF2uH9JpFqHaTEERFduGHqOv_Nr4T5KdaJzro897k1EZw",
+          "url": "https://cdn4.telesco.pe/file/C9kGnAZ6KG1thbSKtCx9JCgttSJgomZ7o0IoDAss6gcNdeIaJcRmG24z5diLXu9zZ_tTmZy8H0hzZxBYi0Bi9Lb8MoWlYgzRoKjzb9QeWY-cnROwv9gWwFH3hP50PvENJLo126-oTj7hQhYIvE286sjSukg0CGhWhx683o7m7-sxtpIDnrxMvWsJ8AhGRpHQUQ7BJ0MaFmCHT1CIW8afFtFx0LMeOyoe4DYE8wm_OU5k3EdKHsyn0eGbiZp_s5ZgTd4pZDTWgSiOTZ2-qRgZ-XEKG6ErJQQkrqk0D_sIHs5c8RoMNILF6Uo7r5m3c4CfvqVUZgikPg_Y6wD1hUrOLQ",
           "width": 1146
         }
       ]
@@ -231,7 +85,7 @@
       "date": "2026-09-14T19:13:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +93,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HfWAbrpGfc1yFdIN92waDirnWScHiyIO6pXovCKpSDlF1_XJfFrQsexH570GEp_XE893w8eZkRZfPs_f3zCDPFKPHsks0jVCTCMsrCZxhwc7ikniCOLz3GepOR8B70CvMNIPORH3H1wMkW5BmSIlRbesldWLYkopyONIIRunl7OrUUHien6UGktS5TF4yD96kWYC8ctPoijM4JATABXVzwajffLflN09ztRmXo9cQuW_n1L7wtBsi8dYPudbm2KN1WIQRpYynFfxbD76ZNZvddSrLmSfwfFnhGbeTRtwCAXcfYvgQkx20LDK21D73zA3H47YcP-7j-485cjNFbW9Pg",
+          "url": "https://cdn4.telesco.pe/file/gU9sFBZw7lSj9e9VcA3sqTVLTHEPdSjrvTshxeJdvBBqoXZ1lsO2cveBL6TD1XkLCT7_j1MZi1NnpN8hZ728nPiBUq735YjwESpzUkuYnWy1iVXFvifdTXpqs0gG73dTzD36ZCs16zdxdqkjRQlaimKThOa9x3mQpOE78cgk7zOw5t-u-t4VlalNr0cvXyIirHy8GQpDsxZJ-gTvAvx19_ChSvtHuok_0pddUTmx19gae2qKIiEz6bdS3kiSidapZ8L5mInI2k34_tvkj5O5xI3CZ7s_DOb4EqwQZaYnbTUEkv-l8zZIKEYzctXJGpyWmBHmxRhvusbVIN3xAtm9OA",
           "width": 1280
         }
       ]
@@ -250,7 +104,7 @@
       "date": "2026-09-15T06:55:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5410,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +116,7 @@
       "date": "2026-09-15T07:11:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +128,7 @@
       "date": "2026-09-15T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +146,7 @@
       "date": "2026-09-15T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2820,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +164,7 @@
       "date": "2026-09-15T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2390,
+      "views": 4600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +183,7 @@
       "date": "2026-09-15T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 4460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +194,158 @@
           "url": "https://cdn4.telesco.pe/file/t-dgJloaXSB6qjhWSZN2u3AQ_JF_yxJXT75drfyT_D94Z0NmsAPjYnrRcdOS668aV9fe8kZ1QvBJ7dmcE4m4aLJxSY3VRwsT-ZwIfdlV81MvHT_lsO4FpP3knP6E8j6DQPeQ3C6WsIRUoN8TEh_eRCGKPaPHywwZ4U1MaSYEo-Wyagr4QZlv-9oQrJlGnmhBaKUnyezEpO0G7OHDOuXszz73vxXTX3kE46lbnn-UKpMI8oHS2abC8ZfKcHqxVKgh4skQ2u9fcyhYB3IceMc3qQShlGqTg7jSuIFggLK4hO33g71VyiWDBkjMs9aniarGkOVC5C9KjLcA1XsOLF8v3Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eفیلترشکن جمنای و ابزارهای گوگل میخوای؟\u003c/b\u003e \u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eبا میوشکن از جمنای، نوت بوک، گوگل فلو و ... استفاده کن. بسته 5 گیگ هفتگی با کد زیر \u003cb\u003e\u003cu\u003e۳۰ تومنه\u003c/u\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e کد تخفیف 20 درصدی\u003c/b\u003e\u003ccode\u003eMEOW20\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5962918893373625828\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/meknbot?start=gtest-test1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eهمین الان با تست رایگان امتحان کن\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-15T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ovZAYcLPucPirEV48ilm2kyhZGhNdXIjWt4YyPBm91QOhfjL82i2FpaMrD_5HZgotMlWYBYGsKy3Hdevp3iqassSzyIs_GZdUMv0F6xAGYPrUBXcJtWZXa0dZf33mg19vEa2haUnzhNCrZ0JxDtLR54FgAcEk0NCeE6BOtUMF0KmOwze-pXSZ44UCBnlf_nxhXU2T2ZeD2dJP_3rbbUS5FvNR8rn0kLIo9xlzA82vhCm7sL-36e5HcerGNmxXEu8DgPuUQfK804c0Vv9bUEZuPR1giNe4rndjAdNT2Z5e74hhpuM4flTriaBCfcF8CKKCBj8JGsZUiwmw01SXZUlvw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه دنبال یه ChatGPT شخصی و متن‌باز هستین، LibreChat یکی از پروژه‌هایه که باید بشناسین. یه پلتفرم Self-Hosted هستش که می‌تونین روی سرور یا سیستم خودتون اجراش کنین و از داخل یه رابط واحد با مدل‌های مختلف AI کار کنین.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که به یه مدل خاص محدود نیستین؛ می‌تونین به سرویس‌هایی مثل OpenAI، Anthropic، Google و providerهای مختلف وصلش کنین، یا حتی مدل‌های Local رو با ابزارهایی مثل Ollama اجرا کنین. یعنی یه محیط واحد برای مدیریت و استفاده از مدل‌های مختلف.\u003cbr/\u003e\u003cbr/\u003eولی LibreChat فقط یه Chat UI ساده نیست. Agent، RAG، آپلود و تحلیل فایل، Code Interpreter، ابزارهای مختلف و پشتیبانی از MCP داره؛ در نتیجه می‌تونین AI رو از یه چت‌بات ساده به یه دستیار مجهز به ابزار تبدیل کنین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.librechat.ai/\" target=\"_blank\" rel=\"noopener\"\u003ewww.librechat.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-15T16:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GBbbnf7ponyXMjDCOAE84GiPMa0ksVlOiSu1Vic-aY4aFdTUQabiTcOcOIBWsI8VTWzV5Ut78Hyr7XoSOoynwMGKOrjAhwHZvbMmVgJZUuHfiV-VDiwCs2kT1Nm-Wto_Gc1Hpn8GCB9p1LyFfH39AvU-AV5pkskn8kft-8BdVlL3djpLfmou3gLxajKkRDRfvTfefsO5ABcVgknCg1qj9_8YuUPNzVyrGY3UudCf9FBylb6ayj34o2KpgLysJll06xBTeIAggl0dSwGedaf_IjZvQyqn2NCrjdvfoNFmyBd373kP1hztc_yFOyjEk-pCffuInCiQXT5ylcd68U1hwg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه هنوز کلی PDF، فاکتور، قبض، قرارداد، رسید و سند رو توی فولدرهای مختلف نگه می‌داری، Paperless-ngx می‌تونه خیلی به‌دردت بخوره. یه سیستم Open Source و Self-hosted برای مدیریت و آرشیو اسناده که می‌تونی روی سرور، NAS یا سیستم خودت اجراش کنی و همه اسناد رو یه‌جا داشته باشی.\u003cbr/\u003e\u003cbr/\u003eاز OCR استفاده می‌کنه؛ یعنی PDF یا حتی تصویر اسکن‌شده رو می‌گیره، متن داخلش رو استخراج می‌کنه و بعد می‌تونی داخل محتوای خود اسناد سرچ کنی. علاوه بر اون، برای اسناد می‌تونی Tag، نوع سند و فرستنده تعریف کنی و با جستجوی پیشرفته خیلی سریع چیزی که می‌خوای رو پیدا کنی.\u003cbr/\u003e\u003cbr/\u003eاین فقط یه File Manager ساده نیست؛ برای مدیریت واقعی اسناد ساخته شده. می‌تونی Workflow تعریف کنی تا اسناد بر اساس قوانین مشخص به‌صورت خودکار دسته‌بندی بشن، ایمیل و attachmentها رو وارد آرشیوت کنی، از API استفاده کنی و حتی در نسخه‌های جدیدتر از قابلیت‌های AI/LLM برای کار با اسناد استفاده کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://docs.paperless-ngx.com/\" target=\"_blank\" rel=\"noopener\"\u003edocs.paperless-ngx.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ AghaALi",
+      "date": "2026-09-15T16:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QcVZKGG8DyF-ux9oLfRJ2hrq-MYkHW791P7Y1H1MzcbgLU1FztiKLsPocI3Zm-uvTIgjnUPce-JS9tkyjXMm8U3nmlmVYXZXEE4_qaIUmpgabHCylLSerQZN8oe9eb8bj0U6usEzM2cyeRJT284uC8CvZaom9ARlVRCWduP5A0Ug2owD2drz90vZ0aJibvof6m6pHyL8gXNmAcfjwRpOn_NAlvEolR66c_W6UFdpuE-lhuIy9BRLPNt1Lo3VGYdGlYaJSFEbqsKePJ5-HVohf6cGUlo8ozURt7OViCmdEkIqP4KcaRF-I4FvfxfzuxBiska3PF_1lPuKL9Iy06u7wQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایده خلاقانه تاریخ‌زن برای فاکتورها. تاریخ رو روی مهر تنظیم کن، دکمه رو فشار بده تا تاریخ روی صفحه چاپ بشه (با صدا ببینید):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://feralui.dev/stamp\" target=\"_blank\" rel=\"noopener\"\u003eferalui.dev/stamp\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-15T17:12:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/j3JZpts4_dykULU4Qk3ZIo0vYGZqnpcviHvO8cuwSIdOM2GmW8pVGXWVzWIqPEFOlveGhbnKhbfoGTdwDBTPp2U1zBUV339-DF-zDnV8Ys2k3KUfrIfQMz3k9WhD1ysqKu6fz3BtyHAlIX0y5r_S3g6vAZlK97Izr25wFOhR0E18BZfGKLkXvdF4n_-eszMP2Tf2p8WWEwSH8j_ZDhYg6JzC_qZVLqsqFMUGUuQN3pYSx7eu3QnJe3Vtda292AU4puJn71SJxJNRezqvIXdAiuSr8PyJKTMy3Pxixi1aSReiDCJOiTHu_NxuHAg6YYECcXvfTsIfF_qHhKDg008EeQ",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eسرویس \u003cb\u003eسنتری هم‌روش را \u003c/b\u003e\u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e\u003cb\u003e#رایگان\u003c/b\u003e\u003c/a\u003e\u003cb\u003e امتحان کنید\u003c/b\u003e...\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e کاربران همیشه خطاهای اپلیکیشن را گزارش نمی‌کنند؛ گاهی فقط صفحه را می‌بندند و می‌روند.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94AE.png\u0026#39;)\"\u003e\u003cb\u003e🔮\u003c/b\u003e\u003c/i\u003e اینجاست که داشتن تصویر دقیق‌تری از خطاها، عملکرد اپلیکیشن و تجربه واقعی کاربر می‌تواند به تیم فنی کمک کند سریع‌تر به ریشه مشکل برسد.\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9498.png\u0026#39;)\"\u003e\u003cb\u003e🔘\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبا سنتری هم‌روش می‌توانید:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e• جزئیات و شرایط وقوع خطاها را بررسی کنید.\u003cbr/\u003e• خطاها را بر اساس رخدادها و کاربران تحت‌تأثیر اولویت‌بندی کنید.\u003cbr/\u003e• با Traceها و Spanها، عملیات کند را پیدا کنید.\u003cbr/\u003e• با Session Replay، مسیر کاربر پیش از بروز مشکل را بازبینی کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e در این ویدیو، نگاهی کوتاه به قابلیت‌های اصلی سرویس سنتری هم‌روش انداخته‌ایم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e برای شروع تست رایگان، یکی از پروژه‌های خود را به سنتری هم‌روش متصل کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://hmrv.sh/L9tb5e\" target=\"_blank\" rel=\"noopener\"\u003ehttps://hmrv.sh/L9tb5e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/hamravesh\" target=\"_blank\"\u003e@hamravesh\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D9%86%D8%AA%D8%B1%DB%8C\"\u003e#سنتری\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%B3%D8%B9%D9%87_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1\"\u003e#توسعه_نرم‌افزار\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%D9%86%DA%AF\"\u003e#مانیتورینگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%DB%8C%D8%A8%E2%80%8C%DB%8C%D8%A7%D8%A8%DB%8C\"\u003e#عیب‌یابی\u003c/a\u003e",
+      "date": "2026-09-15T18:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/awg4iCeDVAHtufT3TQwoRmZtdpaj6ZahBlaVGPip10b-enDizXzTrUF7HLlxNyHQw_eM_FuRTLTsdL6Q9iDJNqprRSAnozqCt3tDP__F14z7ZSIBTAVUZ4gcXoFkCdiuIqTOUWPAkpvVS2SSKyR-tmaML_OYYbrnzUhsd2ypmNDF64rk3GgK-fjZZOnZZJRGPymHCcxTe3RDm8o_zKfPPChT87HaaO-p3dHAA-QujGaF1k_ZK9Jaf7IeocIqJutUjXq1_WXU9k9J4NvbDuRiHm6VeB97Wr8C9XhCHwFybYTj7HbxQf1aLUTmh49_M7tsvp7a1Dsz0v2pO1FrQSfF8g",
+          "width": 1756
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه ایجنت کدنویسی به اسم Pi که کاملاً داخل مرورگرت اجرا میشه و برای اجرا از یه مدل 2B روی WebGPU استفاده می‌کنه \u003cbr/\u003e\u003cbr/\u003eاین پروژه از MiniCPM5-2B + Pi ساخته شده و قدرتش رو از ترکیب Transformers.js + WebGPU + وزن‌های ONNX چهار‌بیتی (4-bit) می‌گیره.\u003cbr/\u003e\u003cbr/\u003eتمام تلاش‌های قبلی برای ساخت همچین چیزی شکست خورده بودن، ولی به نظر میاد MiniCPM5 بالاخره باعث شده این ایده واقعاً قابل استفاده بشه.\u003cbr/\u003e\u003cbr/\u003eهمین الان روی Hugging Face در دسترسه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/victor/MiniCPM5-2B-WebGPU-Pi\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/victor/MiniCPM5-2B-WebGPU-Pi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-15T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/o9qWE4buvOcRsOygN8oElLwm5fK8UYyPh5r_0JXpkuoeqWDf4K2tdSnORWM7HQHHytkUItMz64QHXzkAIj57Yln2b1V5MbP_XrklZtr12gWEUy1Z0Nec5mHdTl_XS8kOYJdoUKh2Gwsvb0Wz0-L4Vi9RPIhz0MQw99QhxnkBtTXbqQ3Er_PXVmhq2CsJK_JPfpZyzbA3Lg6LypwZbKoV0UQ1EH35jfnu6Re_CywrcvC2xJnvxHpTAEHgtd06fat3LolteItO1BvUPLZlBfmIsOJPcJD4WPE7kJjtobrpmEHVBjpVoq7H4yD7Xo7PQ-3P9HDtsnJRQLXJDg1yw2s4LA",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه بچه مایه دارید و کارت گرافیک 5070 یا 4080 دارید این پروژه رو حتما ذخیره کن یه نصب‌کننده اختصاصی و راه‌انداز آماده برای اجرای Qwen3.8-27B روی کارت‌های NVIDIA معمولی هستش هم بهتون لوکال چت می‌ده هم API برای استفاده توی بقیه برنامه ها\u003cbr/\u003e\u003cbr/\u003eکاربرا روی 5070ti تونستن تا 100 توکن بر ثانیه بگیرن\u003cbr/\u003eالبته اگه مایه دار نیستی و قشر متوسط به بالایی و 4060 داری تا 15 توکن بر ثانیه خروجی می‌تونی بگیری که بد نیست \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-15T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SCcBjeR4lTqJR3Wr5R-nzNDMICWKGU-I2By6ACasWvlce1A5ovLAGy2oA4qii9C1umYhsytaodb9al--Xt_gYTf2I26lVhrAKofXZYEULU-u98Idn_cFkv7A-eoSGzsQx17ZDRDCrkk0Baf8iG5sdjVXpYax-PN-yIzpR9uYH4MIcYkrwDrPd17ipOxKOz_JvBII7uFke0r0sYqH5ISTJemtJ1cyk-Hdq9mLzqKMPii00SnSIQjTdSD0r3-UeXxpHpDgJ45YkbVmpDwoJA8zuYEUqYekOEkgXnPh7CWUGxRroYY4QQ-l9u8XZhQOO6CQGDn-PXOLYabM5Vvg2TLp-A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گویا دعوای OpenAi با ایلان ماسک بالا کشیده و ایلان ماسک دسترسی چت جی پی تی رو به توییتر قطع کرده (عکس سفید چت جی پی تی که دسترسی به توییتر نداره و عکس سیاه جمنای که دسترسی به توییتر داره)\u003cbr/\u003e\u003cbr/\u003eاین دعوا بخاطر این بود که OpenAi گفت آقا خوشم از ایلان ماسک (مالک cursor) نمیاد و حتی قرارداد های cursor هم خاتمه داد.\u003cbr/\u003e\u003cbr/\u003eقبل تر ایلان ماسک با سم التمن (مدیر عامل OpenAi) مستقیما وارد درگیری لفظی شده بودن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-15T19:19:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 538,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kumifxQ6TYY8L9TBGwECQ3OI89onPlDCAeHcsbUaX6DpQaC0v9OD5At1_xbO_HG2gChE1_i6RBYR5iItuJB9shjOLvbNXfqYcm6BTvBYckJfRFiGnafVjEaikLpQM1AjSQy15lnOepeTMzYaiLa0c-e3cTB9DCbi0Jpl12hr-sxWtj0UecQWiK22pvWpXUEoVG_6g7k1uZG5TtjOve-3XNFNCk0F-FE4ZKPGDZiapSLkKwYyjht9NSrgcu3OoW6fSNUa3kE7Az02vjPnWP7i1FyL3WecSVFEuVGlp4hMgYf0_YLqVbOq2Lm54DwTKuYgooJnYpxwrvQ4rx2tr-Uf-Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pfQT3rjtHIrSTa27Zawwz2UmdEwT5DnA6NyTkeP3ElUORrsnfKataU4GXPqNWDHqSyHKdFc--KgYWyeStcvC7nQceycXlgDG_uK8Ru8iuFDryyPWwwtwxiPjZ3c3QF8-1kWM9dzxEzlxYz_SBNtxxXWeB7XAUFyoOMwxxlpVtjzb4D2k_fg1jezJALQldtbf_wBvA3ZXujSodlYaKqmWgjrfFhfvjOqFnPIfipbAJ8UWlsDS8US3hTYyZjBEcpo0BfRpmi_-3A3DWaudMtKu7HjEX3mTBVY27bO7gQkbi-AewokfJWmd_VZmORR0TUXZ03jOxnF0AgjtoilBEKImGw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789487727
+  "last_updated": 1789500128
 }
