@@ -8,67 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این سایت ادایی هم جالبه بهش لینک یا آیدی مقاله arXiv رو میدید براتون به صورت انیمیشنی و تصویری توضیح میده مقاله رو.\u003cbr/\u003e\u003cbr/\u003eمثلا آیدی مقاله ای که توش GPT-3 معرفی شد این 2005.14165 هستش می‌تونید واردش کنید :\u003cbr/\u003e\u003ca href=\"http://arxivisual.org/\" target=\"_blank\" rel=\"noopener\"\u003earxivisual.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T18:43:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AFndEQ7grhk5js_NBNSDkD-PW9yJXmuNPy4U0g1n4v0rDypO0hXw3Saw_6Fp4TD_phMs3wFF_ce9F7_qo4CajprMSwntD2S18jGQDcCmFNCsNWnwFERVWvpsvQKt3RdgX5TANbYx3z4F1IDcm_C8KYdFfw2H_S3febYqcP1oY-JEE7xsOfFWr-2CJB1tK9uwnT1DnJ4hhtw8Dse0nDne5ndIo6ePPyge0fXvSToKOLPtzBfV_L-ZuW64TEt4xKNeryWt0gzb5ix0W3RmVOsvUqlvRBrOntTq1WjNW-qkuc1m6ZQMKXNeWeZQx2B21THd015G_Af8BtRNwz3HQ6tnUw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آیفون تاشوی جدید اپل، توی نشونگرهای Wi-Fi و باتریش یه انیمیشن حرکتی خیلی جالبی داره. یه نفر از صفر ساختتش :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://signal-wi-fi-battery-motion-study.vercel.app/\" target=\"_blank\" rel=\"noopener\"\u003esignal-wi-fi-battery-motion-study.vercel.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-14T18:58:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/C9kGnAZ6KG1thbSKtCx9JCgttSJgomZ7o0IoDAss6gcNdeIaJcRmG24z5diLXu9zZ_tTmZy8H0hzZxBYi0Bi9Lb8MoWlYgzRoKjzb9QeWY-cnROwv9gWwFH3hP50PvENJLo126-oTj7hQhYIvE286sjSukg0CGhWhx683o7m7-sxtpIDnrxMvWsJ8AhGRpHQUQ7BJ0MaFmCHT1CIW8afFtFx0LMeOyoe4DYE8wm_OU5k3EdKHsyn0eGbiZp_s5ZgTd4pZDTWgSiOTZ2-qRgZ-XEKG6ErJQQkrqk0D_sIHs5c8RoMNILF6Uo7r5m3c4CfvqVUZgikPg_Y6wD1hUrOLQ",
-          "width": 1146
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این یه اکستنشن VS Code هستش که مایکروسافت اوپن‌سورس کرده.\u003cbr/\u003eکارش اینه که لاگ‌های سشن‌های کدنویسی با ابزارهای هوش مصنوعی (مثل Copilot، Cursor، Claude و غیره) رو از روی سیستم خودت می‌خونه و بهت آنالیز و پیشنهاد می‌ده که چطور بهتر ازشون استفاده کنی.\u003cbr/\u003eاکثر برنامه نویس ها هنوز نمیدونن چطوری از هوش مصنوعی استفاده کنن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/microsoft/AI-Engineering-Coach\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/microsoft/AI-Engineering-Coach\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Saeiid",
-      "date": "2026-09-14T19:13:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gU9sFBZw7lSj9e9VcA3sqTVLTHEPdSjrvTshxeJdvBBqoXZ1lsO2cveBL6TD1XkLCT7_j1MZi1NnpN8hZ728nPiBUq735YjwESpzUkuYnWy1iVXFvifdTXpqs0gG73dTzD36ZCs16zdxdqkjRQlaimKThOa9x3mQpOE78cgk7zOw5t-u-t4VlalNr0cvXyIirHy8GQpDsxZJ-gTvAvx19_ChSvtHuok_0pddUTmx19gae2qKIiEz6bdS3kiSidapZ8L5mInI2k34_tvkj5O5xI3CZ7s_DOb4EqwQZaYnbTUEkv-l8zZIKEYzctXJGpyWmBHmxRhvusbVIN3xAtm9OA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "مدل هوش مصنوعی می‌تونه چیزی رو توی ذهنش فعال داشته باشه بدون اینکه توی خروجی نشونش بده!\u003cbr/\u003e\u003cbr/\u003eتوی یه پژوهش Anthropic ماه پیش محقق‌ها چیزی به نام J-space معرفی کردن؛ مجموعه‌ای از الگوهای داخلی که با مفاهیم خاص ارتباط دارن.\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب اینه که یک مفهوم می‌تونه در این فضای داخلی فعال باشه، بدون اینکه مدل اون کلمه رو در خروجی تولید کنه. این کمی داستان رو خطرناک تر میکنه چون ما فرض میکنیم مدل فلان کار خطرناک رو هیچ وقت انجام نمیده ولی ممکنه بخواد جلوی ما فیلم بازی کنه و بعدا انجامش بده!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-15T06:55:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +24,7 @@
       "date": "2026-09-15T07:11:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
+      "views": 7380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +36,7 @@
       "date": "2026-09-15T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +54,7 @@
       "date": "2026-09-15T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +72,7 @@
       "date": "2026-09-15T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +91,7 @@
       "date": "2026-09-15T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +109,7 @@
       "date": "2026-09-15T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +117,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ovZAYcLPucPirEV48ilm2kyhZGhNdXIjWt4YyPBm91QOhfjL82i2FpaMrD_5HZgotMlWYBYGsKy3Hdevp3iqassSzyIs_GZdUMv0F6xAGYPrUBXcJtWZXa0dZf33mg19vEa2haUnzhNCrZ0JxDtLR54FgAcEk0NCeE6BOtUMF0KmOwze-pXSZ44UCBnlf_nxhXU2T2ZeD2dJP_3rbbUS5FvNR8rn0kLIo9xlzA82vhCm7sL-36e5HcerGNmxXEu8DgPuUQfK804c0Vv9bUEZuPR1giNe4rndjAdNT2Z5e74hhpuM4flTriaBCfcF8CKKCBj8JGsZUiwmw01SXZUlvw.jpg"
+          "url": "https://cdn4.telesco.pe/file/UyHJZ7WDhsVebqYP-Z4NmlUFfYtmm03M9h5iu3P-0J_aaog9iBvjtKIA9uAUuR3n_J1yYvxWUhqHXQpBqDWxPEbUqn7IIjh3wc_WHCAontdkSiDqgHd04_2XIP_nJWobesGh1V40BFTS5sxqR39FMSWN67zGaL4UqCT5gGMixm9vln9yNR-4D-VRRbweo54xm6A0Kwi3r9o5v-2or_4ItgH1yCCejylQLz7prhfZYZkeCDDtdHC4LXfpAVaVaQ5lx0v6imcMNuqGQrmC4rxuzlND1dXWeIAo_-Enz8gSIXTvR8RQO5vas8DMMeTpOt4TvicZlzWc_PdcRECIrW64Mg.jpg"
         }
       ]
     },
@@ -183,7 +127,7 @@
       "date": "2026-09-15T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 5850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GBbbnf7ponyXMjDCOAE84GiPMa0ksVlOiSu1Vic-aY4aFdTUQabiTcOcOIBWsI8VTWzV5Ut78Hyr7XoSOoynwMGKOrjAhwHZvbMmVgJZUuHfiV-VDiwCs2kT1Nm-Wto_Gc1Hpn8GCB9p1LyFfH39AvU-AV5pkskn8kft-8BdVlL3djpLfmou3gLxajKkRDRfvTfefsO5ABcVgknCg1qj9_8YuUPNzVyrGY3UudCf9FBylb6ayj34o2KpgLysJll06xBTeIAggl0dSwGedaf_IjZvQyqn2NCrjdvfoNFmyBd373kP1hztc_yFOyjEk-pCffuInCiQXT5ylcd68U1hwg.jpg"
+          "url": "https://cdn4.telesco.pe/file/XwEOKI1YksJJwvzpkRjSfH1cL37b4TOzKNufz6iS5f45vGOXsQmRF2IphMkWbqqkSfHWo_Iu4g69R3-TszFOq90cbFJXbFiLDHhCblu1KqlkavDsYGzkD7y0j7bBxuklyDX20aJBjrBfrHoZ4BZULDKL3e9__P0AcCGxMd9KbMuhIFChloSQfUeDXNJueWkoQiWbZssx3pD7CltLbcDMIk2vPKkFGXeQiFldCnSiafziRxeqKl8aUQKzwtHItZYW_X2gHy6E0iry9q2FfyIHE7YhOPhGrAL2z14IqojqOKI4AorAbvhs5-bIS_s_277-iq4HavipD6dr9-4Z8gscEw.jpg"
         }
       ]
     },
@@ -201,7 +145,7 @@
       "date": "2026-09-15T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QcVZKGG8DyF-ux9oLfRJ2hrq-MYkHW791P7Y1H1MzcbgLU1FztiKLsPocI3Zm-uvTIgjnUPce-JS9tkyjXMm8U3nmlmVYXZXEE4_qaIUmpgabHCylLSerQZN8oe9eb8bj0U6usEzM2cyeRJT284uC8CvZaom9ARlVRCWduP5A0Ug2owD2drz90vZ0aJibvof6m6pHyL8gXNmAcfjwRpOn_NAlvEolR66c_W6UFdpuE-lhuIy9BRLPNt1Lo3VGYdGlYaJSFEbqsKePJ5-HVohf6cGUlo8ozURt7OViCmdEkIqP4KcaRF-I4FvfxfzuxBiska3PF_1lPuKL9Iy06u7wQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/hFycFn18mTKzZLUG3182rWAuk2rO6KUaFj8KErNiw8rZwRShiGRad8XswLCbuTnYNvOtIzQo_NcASY9vW8DEKbyn_6lAsxe-oFYZxN-l0qd8qCAsvBAnglfDBFg4MFTpMo6_e5hNDEc-uRF7UXvbsXD7cFHEtDI56JJDFp0pzqMAV62y0rutQxODs0SNIUC__c_1vIi-0mhgADYKOOdn2d1o9alXvHEzbvm37jTPCrbDdPMlgTIh1SpgiqBrLnFiboogymkKFZuMDgMknLyMI8R6DPAAzLMcuZSO8le2ykMzSoQT2jzo4RwVLLDjg2tO7D1wM3W2Ci_GH1Ka1braTQ.jpg"
         }
       ]
     },
@@ -219,7 +163,7 @@
       "date": "2026-09-15T17:12:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 5910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +171,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/j3JZpts4_dykULU4Qk3ZIo0vYGZqnpcviHvO8cuwSIdOM2GmW8pVGXWVzWIqPEFOlveGhbnKhbfoGTdwDBTPp2U1zBUV339-DF-zDnV8Ys2k3KUfrIfQMz3k9WhD1ysqKu6fz3BtyHAlIX0y5r_S3g6vAZlK97Izr25wFOhR0E18BZfGKLkXvdF4n_-eszMP2Tf2p8WWEwSH8j_ZDhYg6JzC_qZVLqsqFMUGUuQN3pYSx7eu3QnJe3Vtda292AU4puJn71SJxJNRezqvIXdAiuSr8PyJKTMy3Pxixi1aSReiDCJOiTHu_NxuHAg6YYECcXvfTsIfF_qHhKDg008EeQ",
+          "url": "https://cdn4.telesco.pe/file/cwFGe5wqkUJVs5SkepOHI2Ik1nYBMtVdehIMM5TwiIgdwbioaFmYOGgbmL2l_Q-apSOXFYrnOCji-ikcc_EOdNpZMXOUBw6RUQaXpFcD9u0Bb7NaACMZ_kfajGjGxJjhpHo5jVsD1fGwQ8mg3vCFDgO0B_kPXxJz656og_ByVsGmvqlR1HfieLQSsWRjJ7WRJACN0L2e8deKMea782stWqYiTmiSLC30KvCNGO8HWBn_xGWTrPyKYfd95fVpmf1V1fPG3noOWwwyniuXUwRFiMvt_loKiRQdiwXNDFTQ_u3rDm7ruowlg4hMhrxKOTO6nxEN79mujAkQJuCKLAbBkw",
           "width": 1080
         }
       ]
@@ -238,7 +182,7 @@
       "date": "2026-09-15T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5080,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +190,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/awg4iCeDVAHtufT3TQwoRmZtdpaj6ZahBlaVGPip10b-enDizXzTrUF7HLlxNyHQw_eM_FuRTLTsdL6Q9iDJNqprRSAnozqCt3tDP__F14z7ZSIBTAVUZ4gcXoFkCdiuIqTOUWPAkpvVS2SSKyR-tmaML_OYYbrnzUhsd2ypmNDF64rk3GgK-fjZZOnZZJRGPymHCcxTe3RDm8o_zKfPPChT87HaaO-p3dHAA-QujGaF1k_ZK9Jaf7IeocIqJutUjXq1_WXU9k9J4NvbDuRiHm6VeB97Wr8C9XhCHwFybYTj7HbxQf1aLUTmh49_M7tsvp7a1Dsz0v2pO1FrQSfF8g",
+          "url": "https://cdn4.telesco.pe/file/Y-z4wfleBT07AvrGXX_Mc3g3uUkdWtY2yjOjfO6P64bFnC-GaXdpCjhVRfFj3Pqm2CE39ENhBkg4tbdHwE-OcJTqC8J67UECBmzNgFZ5sSNBJReoBEiddeuoSBlxR0HyHaclW7uFGjwlQjAw124xEK3DZQV4q6YJfTdZ89ROHJvAIg1YbNJX29cH1Q6H4xKH8k8sOj00IT8caRbABoJzIL8VWVp0d0953KdxhPI0kPnV0Yi5tTUnqp-cKAnNXMLXG6m-Hch5JpyzmLw6yoo6cgwTZySw8jhzcpVecP-eAePvRYzHI0CQaUZwbt-6glKJaRuahGAlhhX9yI3xjq71rA",
           "width": 1756
         }
       ]
@@ -257,7 +201,7 @@
       "date": "2026-09-15T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 6160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +209,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/o9qWE4buvOcRsOygN8oElLwm5fK8UYyPh5r_0JXpkuoeqWDf4K2tdSnORWM7HQHHytkUItMz64QHXzkAIj57Yln2b1V5MbP_XrklZtr12gWEUy1Z0Nec5mHdTl_XS8kOYJdoUKh2Gwsvb0Wz0-L4Vi9RPIhz0MQw99QhxnkBtTXbqQ3Er_PXVmhq2CsJK_JPfpZyzbA3Lg6LypwZbKoV0UQ1EH35jfnu6Re_CywrcvC2xJnvxHpTAEHgtd06fat3LolteItO1BvUPLZlBfmIsOJPcJD4WPE7kJjtobrpmEHVBjpVoq7H4yD7Xo7PQ-3P9HDtsnJRQLXJDg1yw2s4LA",
+          "url": "https://cdn4.telesco.pe/file/IeJCaDnZLiyoGLYQphfbeSgs9TI4RWAep-yPO-FXmLUsAZGTDhZISasY15Eowydb8Nt9PGtEw2GWUT_iU1AF2lcGCJ8wq7h9AotKQzVS00IW2wplk9zgcqj6C9L-voIE8jazqd5VFe2L0Bbm9UIXvZ6dd3vLEbvLs8l2_HY_2zYM6-geFQNF_rWOBhockpq7rcrdCCv_1JeIBpbmb_qDiD78bpyF50juksuUF_GOP-Kuu_iqSnzv1Lo2A2WyREBL7gIkRRnQSUMVWC6Estxtk8O0G5-xDT7zrMapH_OWKS9f2CnTv1xIo5fDfQn0l1JZouiV1qTrVkMOwWGivTLnjQ",
           "width": 1440
         }
       ]
@@ -276,7 +220,7 @@
       "date": "2026-09-15T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +228,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SCcBjeR4lTqJR3Wr5R-nzNDMICWKGU-I2By6ACasWvlce1A5ovLAGy2oA4qii9C1umYhsytaodb9al--Xt_gYTf2I26lVhrAKofXZYEULU-u98Idn_cFkv7A-eoSGzsQx17ZDRDCrkk0Baf8iG5sdjVXpYax-PN-yIzpR9uYH4MIcYkrwDrPd17ipOxKOz_JvBII7uFke0r0sYqH5ISTJemtJ1cyk-Hdq9mLzqKMPii00SnSIQjTdSD0r3-UeXxpHpDgJ45YkbVmpDwoJA8zuYEUqYekOEkgXnPh7CWUGxRroYY4QQ-l9u8XZhQOO6CQGDn-PXOLYabM5Vvg2TLp-A.jpg"
+          "url": "https://cdn4.telesco.pe/file/IINLTwKSMK5ixFeBlUR524jR7F_MQGWvVi2-sTuqVINBVrcvHI4MpR-Ng0exbrraQxYEgKQqNq0VK4lishtKi9u-SrpaCFZTA84nvOhIcsLYR4LG-B7jTuMHgjTAtOwbbQz2r94g1IvH6WE_azlqp5BqoQpWR0_-r3l6oHDTAgS_yEY212s4zMDPeks-FKNY2HesggNUEcWYdXDPDmgTmuSLPqMzbs8AojgwHX0sNOKA6XHOUxOnucY9F3or8wTtJ1Tso7IJhPhkbISJdSSGZ7IiCQXbp2GukPdLq7edMTKfPq0YficFu71o3A6xHDuL9EFBICoR8DWuIaRIKsjv0Q.jpg"
         }
       ]
     },
@@ -294,7 +238,7 @@
       "date": "2026-09-15T19:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +260,7 @@
       "date": "2026-09-15T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6790,
+      "views": 7550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,12 +279,68 @@
       "date": "2026-09-15T20:53:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "قشنگ ترین چیزی که امروز دیدم اینه، می‌دونیم مدل QWEN 27B نسبتا کوچیکه و قوی حالا یه عده اومدن این مدل کوچیک رو انداختن روی یه کلاستر مجموعه ای از کارت گرافیک ها و نتیجه شده 2000 توکن بر ثانیه که سرعت فوق العاده بالاییه.\u003cbr/\u003e\u003cbr/\u003eحالا این سرعت به چه دردی می‌خوره؟ باهاش می‌شه به صورت زنده هرچیزی که می‌خوای رو بسازی ویدیوی بالا رو ببنید کل اینترنت در لحظه ساخته می‌شه و هرچی بخواید از جمله گوگل براتون ساخته می‌شه دقت کنید اون سایت گوگل و یوتیوب واقعی نیست در لحظه هوش مصنوعی با درخواستتون براتون می‌سازتش!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-16T16:49:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tqoO54h1snjG3Ew7MBQTGvG4Kz5MRieREDNMTIX9vHM6rmO2SIC4-xJECIoHd8qhmktOhy8CPxBrcS3BXsGI8fZ90TYZB8VXhkXTOE9_XORZqTFxOjsUXV2XAp7BqHo1oOWEJRkBEE0hYJKASVYIvw87hBUChzd074yGlKR9xbql73Tz_pmJME53zHo75qrzmoSFdhXcOep_L5yLcW9yQoXXud3ZXq_GDjm18YCpQ-PjYR4eKs9vK_c_e6cPuW3U3Nkhpt_MrQkJRqhg2LgVZbxUo0j3EX4dJVDLmmpJVGlP9ddQtCiEotQE-64vxX8mXorrg1jvowQnX-w--I-7lA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5215557810359639942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برای ثبت نام در مسیر فرانت‌اند المپیک فناوری فقط ۲۴ ساعت وقت داری!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321153068845245772\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  توی مسابقه فرانت‌اند، می‌تونی خودت رو محک بزنی و برای کسب \u003cb\u003e۲۰۰ میلیون تومان جایزه نقدی\u003c/b\u003e رقابت کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5343998927605615404\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد از ثبت‌نام، \u003cb\u003e۱ ساعت آموزش تخصصی رایگان\u003c/b\u003e هم در اختیارت قرار می‌گیره تا با آمادگی بیشتری وارد رقابت بشی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه مقدماتی آنلاین همین آخر هفته برگزار می‌شه؛ پس فرصت رو از دست نده!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eثبت‌نام در این مسابقات کاملا رایگانه\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6043992250831082249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشاهده اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5292122921035133343\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AB9.png\u0026#39;)\"\u003e\u003cb\u003e🚹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://quera.org/r/18su7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://quera.org/r/18su7\u003c/a\u003e",
+      "date": "2026-09-16T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Du1lbi9yI-cVzPcXWvBmgniU1cN27ipc9YE471RoF3evg9ohp_KEBHJPY-E4DcDdrj97JWmrhzUkdHWTYiou2TYZAcXc66amgWW_4ogSRDvKNw2Vhojuv2iaDikNnxYMSlOCIldPfIym4j7tNlIoMQL9ix6U8HnGDBVpRQExDdZUaVwSZeLJ09Gr-ckAaGSPuLuLuEy0xVgLQWN3CK6sBxU6hBHbFzGrjpG_6u6Ts7bHdxBNwjMLsZguO2KqxMbTnNA3OQDY4sxTZ2yi2V8i06O4dWuxsRRQ4OnJzgISKGmZLIbrDRE1MhIjcdF9nE4rquEhqlmofsRRd769XnNWzA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گوگل همین چند روز پیش یه ابزار رو متن‌باز کرده که می‌تونه هر کاری رو روی موبایل به‌صورت خودکار انجام بده. آرتمیس پرامپت‌ها رو تبدیل می‌کنه به فرایندهای خودکار.\u003cbr/\u003e\u003cbr/\u003eایده‌ش ساده‌ست به‌جای اینکه برای هر کاری کلی اسکریپت و selector بنویسی، به AI می‌گی چه کاری انجام بده و Agent خودش محیط اندروید رو می‌بینه، روی عناصر UI کلیک می‌کنه، متن وارد می‌کنه، Swipe می‌کنه و بین مراحل مختلف جلو می‌ر\u003cbr/\u003e\u003cbr/\u003eبا Codex، Claude Code و Antigravity یکپارچه میشه\u003cbr/\u003eورک‌فلوها رو به‌صورت خودکار اجرا می‌کنه و لاگ‌ها رو هم ثبت می‌کنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/google/artemis\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/google/artemis\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-16T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/evt_o-daE6JM-GDRf9q7MHhMqxXHFppyJlP4cFEJQfBvrK-S8-AxkyPDNzqfPTqVLDGg-dHE7kqioVkKpoPAGkajDWOwPWxxpsIEqEvZcPfhGFrbDQIzTHMHHu1IwJmtB46x6PMnB74fQ7g-8U8yMjqDzxVH_1WJULidhPgOBPTukp8uJwWorTNMTWmVPZK771jSKNW6D7mgDy000VgZEqmYC9le81997bxit9i265JyGumJ2pCg5kYuLwfbxZcwQD42K0WEGtXTr8joRWCwkZ6ZkhNROYL8I1n_KcBbklRIcKoTpKy6f9YW4vs0ZPuZtSQJ_fHlViB6z8UK2rzGsw",
+          "width": 800
+        }
+      ]
     }
   ],
-  "last_updated": 1789571099
+  "last_updated": 1789585107
 }
