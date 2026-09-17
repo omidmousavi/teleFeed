@@ -8,84 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه نفر با حدود 5 هزار دلار هزینه خرید DGX Spark 1 تونسته مدل GLM-5.3-Flash رو اجرا کنه و سرعت خروجی حدودا 20 تا 25 توکن بر ثانیه بگیره\u003cbr/\u003e\u003cbr/\u003eنکته مهم اینه که مدل به شکل معمولی توی این سخت‌افزار جا نمی‌شه، برای همین مدل رو با کوانتایز فشرده کرده و runtime لازم برای اجرای اون رو هم دستکاری کرده، قدرت مدل کمی افت پیدا میکنه ولی محسوس نیست، لینک کامل پروژه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/0xSero/GLM-5.3-Flash-DGX-Spark\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/0xSero/GLM-5.3-Flash-DGX-Spark\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاین مدل انصافا قدرتش بد نیست و می‌ارزه به چند هزار دلار لوکال راهش انداخت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-15T14:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WgB6xnYwVSfobtCf6B3HQB7eWpiONfbFl5fTx1wVUC3HDkBaV1N7mBuVDt1LE8FlrFuSsb89p_sOVR0-mgGWI9fkHopnVQolMPCSEs8hhTvsvtjeatZacX87lA2m0sOv7oU6JLl3Kz1vBylyFM-uUa_Q9jWm5Unii_mOsMT2WX4PbaYllHsYPIQ1Ngi_axNuxWTzmLyQjWGgb3qIBqqhfZncMxuWs3z0bl2-l62sR78tv8QGMlAYybLG3wPYFTALU4Vu_Ft5zNXWpKLi3tJeF7LcdwrkmIMDDy9LqOtBwIexYK1SGlDzlhkE0rFH6E95oL9-_9hpiT3A8zDl321xVw",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه با داده‌های بازارهای مالی کار می‌کنی، این پروژه رو حتماً ببین  FinanceDatabase یه دیتابیس متن‌باز و بزرگ از بیش از 300K نماد مالیه؛ از سهام و ETF گرفته تا Fund، Index، Crypto و Currency.\u003cbr/\u003e\u003cbr/\u003eمی‌تونی بر اساس کشور، صنعت، Sector، Exchange و کلی مشخصه دیگه فیلترشون کنی.\u003cbr/\u003e\u003cbr/\u003eبرای ساخت Stock Screener، ابزارهای تحلیل مالی و پروژه‌های Data/AI خیلی عالیه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://jeroenbouma.com/projects/financedatabase\" target=\"_blank\" rel=\"noopener\"\u003ejeroenbouma.com/projects/financedatabase\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-15T15:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eQGs_oflAup4SqCmim2Ln5ibxDo1nMNlYaQC1nDukY2SV2W8DZ4hF2Q3ugCjF-Q2NtnNWxkvSSmKOw4G7TYmKQK4NFBLwPlnVKLgUkogt26xxiU4A1BuV1tMRIxw1YZEFSPYFf3_E8C1y8to5liiC_XqsVflugZJqKV4nMAO43J1s4p6e3EhVyPqG7xWA1rc5vFK9M4ybC1V32qodKXn0-Xe9ijlkmTmUBvctjHXE5FHf7C57SRmJ_pfyrK-QqIo_2vlA30jRcuXbGhTQcH4pyCAxXTTcE-sBt2FfS7SuB11-KnBynYVpe-DjeIM6MLSzJXVJtK2n42HWHCHxmtcEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eفیلترشکن جمنای و ابزارهای گوگل میخوای؟\u003c/b\u003e \u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eبا میوشکن از جمنای، نوت بوک، گوگل فلو و ... استفاده کن. بسته 5 گیگ هفتگی با کد زیر \u003cb\u003e\u003cu\u003e۳۰ تومنه\u003c/u\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e کد تخفیف 20 درصدی\u003c/b\u003e\u003ccode\u003eMEOW20\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5962918893373625828\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/meknbot?start=gtest-test1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eهمین الان با تست رایگان امتحان کن\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-15T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/elqT9j8Eu_IqQm2BcK4wutXYB6wfF6ssheNkhW4vGEbKrtZx42cApQjQ-1rrHMNmBuSQY0Hs2gPg8iW7mqmhB6YBnOIY1mSkBRq69Q6lsIYNnUeaSGTluUe4Njt54ogaxrKOav0edhHNAmveV-hOlYga8Lou2lG9BDRL6uC3jGW8gmwjQ7cps-5JBc1gAo_o8kWOjAhjny7dri21MlPYhzUqT7qBbeMj2hLezz1B7b0TluGwDJAAYc989KMjq7ZmrsZ_Bi74TyHtRYevldjNA9TMsg4tVdwHBMx5NFvgArxoyJnAfR09yK72K7GSOQUBsmfOAXNqSfqM5sx8R8ekNQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه دنبال یه ChatGPT شخصی و متن‌باز هستین، LibreChat یکی از پروژه‌هایه که باید بشناسین. یه پلتفرم Self-Hosted هستش که می‌تونین روی سرور یا سیستم خودتون اجراش کنین و از داخل یه رابط واحد با مدل‌های مختلف AI کار کنین.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش اینه که به یه مدل خاص محدود نیستین؛ می‌تونین به سرویس‌هایی مثل OpenAI، Anthropic، Google و providerهای مختلف وصلش کنین، یا حتی مدل‌های Local رو با ابزارهایی مثل Ollama اجرا کنین. یعنی یه محیط واحد برای مدیریت و استفاده از مدل‌های مختلف.\u003cbr/\u003e\u003cbr/\u003eولی LibreChat فقط یه Chat UI ساده نیست. Agent، RAG، آپلود و تحلیل فایل، Code Interpreter، ابزارهای مختلف و پشتیبانی از MCP داره؛ در نتیجه می‌تونین AI رو از یه چت‌بات ساده به یه دستیار مجهز به ابزار تبدیل کنین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.librechat.ai/\" target=\"_blank\" rel=\"noopener\"\u003ewww.librechat.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-15T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oSEIdumVvgHuFowHRVXNgt2tcFTZ8LeFmV1giDPnfARj2_0ef2S_5AWEjkPyNnXle7qovUjsxEa9cmAmMot54ZQ_HVkgidauAI5rxTHobJqQ6KVGb2lX6ya35Kw6CIrEo3wr7p8zI_A6S6dmbz3C24r3E4elQ8yj_IEO5kYMDb3-00eQWD0jHX6FT1ZbNlA6FiXaqLjv48JLOYCpD9warC9bPcmH5oxTBCXyJZe5iQ9BHs09g-DtXhsqabMnjCnyCdUTeY2ik6VusGoPsEW9kXibfXCa9uZwPXRUMDKgVtpT0tiTuX-iimi4nRW3YCaDC6WL5ksduLt4Ww30mb2pQw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه هنوز کلی PDF، فاکتور، قبض، قرارداد، رسید و سند رو توی فولدرهای مختلف نگه می‌داری، Paperless-ngx می‌تونه خیلی به‌دردت بخوره. یه سیستم Open Source و Self-hosted برای مدیریت و آرشیو اسناده که می‌تونی روی سرور، NAS یا سیستم خودت اجراش کنی و همه اسناد رو یه‌جا داشته باشی.\u003cbr/\u003e\u003cbr/\u003eاز OCR استفاده می‌کنه؛ یعنی PDF یا حتی تصویر اسکن‌شده رو می‌گیره، متن داخلش رو استخراج می‌کنه و بعد می‌تونی داخل محتوای خود اسناد سرچ کنی. علاوه بر اون، برای اسناد می‌تونی Tag، نوع سند و فرستنده تعریف کنی و با جستجوی پیشرفته خیلی سریع چیزی که می‌خوای رو پیدا کنی.\u003cbr/\u003e\u003cbr/\u003eاین فقط یه File Manager ساده نیست؛ برای مدیریت واقعی اسناد ساخته شده. می‌تونی Workflow تعریف کنی تا اسناد بر اساس قوانین مشخص به‌صورت خودکار دسته‌بندی بشن، ایمیل و attachmentها رو وارد آرشیوت کنی، از API استفاده کنی و حتی در نسخه‌های جدیدتر از قابلیت‌های AI/LLM برای کار با اسناد استفاده کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://docs.paperless-ngx.com/\" target=\"_blank\" rel=\"noopener\"\u003edocs.paperless-ngx.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ AghaALi",
       "date": "2026-09-15T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 6740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +30,7 @@
       "date": "2026-09-15T17:12:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +49,7 @@
       "date": "2026-09-15T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +57,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Y-z4wfleBT07AvrGXX_Mc3g3uUkdWtY2yjOjfO6P64bFnC-GaXdpCjhVRfFj3Pqm2CE39ENhBkg4tbdHwE-OcJTqC8J67UECBmzNgFZ5sSNBJReoBEiddeuoSBlxR0HyHaclW7uFGjwlQjAw124xEK3DZQV4q6YJfTdZ89ROHJvAIg1YbNJX29cH1Q6H4xKH8k8sOj00IT8caRbABoJzIL8VWVp0d0953KdxhPI0kPnV0Yi5tTUnqp-cKAnNXMLXG6m-Hch5JpyzmLw6yoo6cgwTZySw8jhzcpVecP-eAePvRYzHI0CQaUZwbt-6glKJaRuahGAlhhX9yI3xjq71rA",
+          "url": "https://cdn4.telesco.pe/file/tfJGznzv0ShEsxGxq4R8WKaSwBLr0XBW3zZuLW3JddwXOig1rP8idV2PY6t6-7hCz8hy-cf0wS4crQvMhKLMBgcSl935og5WsFUiKUfJv0mjduanAq-YUfcOX1hDRhsLJr7qv0CWW0S0GOOliaOAv9tMyeTR2gPkYdTwbm3qzwW_NTy_0RLaBeT-n1Z_mIvcU3pPzA01AZTzQM_B1AeP_MhbXK6zSLqwNkIpozmSuvk3Y5GYmursvrz4YWGp7fXYbOKdwqs6QpaImNEozZOzskXAFDy8_x2jE6e76x5KBapZfkufKxuvsUYmXGSwLCYURAQnImsZc7l6XmKXktEujg",
           "width": 1756
         }
       ]
@@ -141,7 +68,7 @@
       "date": "2026-09-15T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 7100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +76,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IeJCaDnZLiyoGLYQphfbeSgs9TI4RWAep-yPO-FXmLUsAZGTDhZISasY15Eowydb8Nt9PGtEw2GWUT_iU1AF2lcGCJ8wq7h9AotKQzVS00IW2wplk9zgcqj6C9L-voIE8jazqd5VFe2L0Bbm9UIXvZ6dd3vLEbvLs8l2_HY_2zYM6-geFQNF_rWOBhockpq7rcrdCCv_1JeIBpbmb_qDiD78bpyF50juksuUF_GOP-Kuu_iqSnzv1Lo2A2WyREBL7gIkRRnQSUMVWC6Estxtk8O0G5-xDT7zrMapH_OWKS9f2CnTv1xIo5fDfQn0l1JZouiV1qTrVkMOwWGivTLnjQ",
+          "url": "https://cdn4.telesco.pe/file/o25mNqHCzBFSkLvqk1Yx9hZ26y9GN9SdPTC79qw_yEWfh0WwdGE-_uWnzDZmFpeO45KXm7AR-m5z5YLBGP8yWLtB9EX7-mJMSHkU1X7P-ZdIwUOvF0kOGWXNQGx1-JXN-PzNsK3SNSJ0eEiUeFd-0--GgHPzf0aHn5MmucGEAN-wn2HLzVNVSSIzzNX2eWRTI1TqRqu48CHywWcCtaAG5wvOtwkvIAsUKTlx7Otq-PhR-hizOFzELM1YLRxCV_TSsLW6ueNDJ4C4d53ID6awKhuom1PMV2nH6e6FbWXRWHt3_4X3fGSZGKv5NpoKy2SL7momO97P3O1yB8G5n9Oz1g",
           "width": 1440
         }
       ]
@@ -160,7 +87,7 @@
       "date": "2026-09-15T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +95,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IINLTwKSMK5ixFeBlUR524jR7F_MQGWvVi2-sTuqVINBVrcvHI4MpR-Ng0exbrraQxYEgKQqNq0VK4lishtKi9u-SrpaCFZTA84nvOhIcsLYR4LG-B7jTuMHgjTAtOwbbQz2r94g1IvH6WE_azlqp5BqoQpWR0_-r3l6oHDTAgS_yEY212s4zMDPeks-FKNY2HesggNUEcWYdXDPDmgTmuSLPqMzbs8AojgwHX0sNOKA6XHOUxOnucY9F3or8wTtJ1Tso7IJhPhkbISJdSSGZ7IiCQXbp2GukPdLq7edMTKfPq0YficFu71o3A6xHDuL9EFBICoR8DWuIaRIKsjv0Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/p4g6y-EHD2x_mpBbKSySouXxBrCV0TlCJGYmzAn2aTn53Te8kmWPekBcgAhYs4GrKyybelbRIZ1gtmsrWdGZoer1o54rxDIK9JUXIm2Ban3ylRMuiTJ4-3qyo5DRPy0mRMzA55z2V2B_QqBYDVwGMOvjC45o13lF4x1NnDBbAtJWSO_ehkouSSq5z45h088RO-9NP_L5z2t0AQNRkAslApO7f0kheXt_PHC0sxbezy8iWr3R_R5lkxTCGg3pKSlAVFvbUpsEIqAdrEyMCaYvumZ6wDeHSZdFdRWpV9ts4jCrmG5F9UvOhhTPziUq_VmCCCOHg9zx3yt95FaLXXsBMQ.jpg"
         }
       ]
     },
@@ -178,7 +105,7 @@
       "date": "2026-09-15T19:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,11 +113,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IHV-OEVJmwEUt7M4MvtXrJduqO1Nl-bRgKyxvnzGimvG7SbzhP_Axg3xB_eTdQvEOlppvjN4oKKHb5Zouxhiygg5erV_PvJ6CYJ5OuOz6YMTXTh5jBc-Qr19SakZaHWagZSnxgVdKdcdQ-DBbT7P0zqNHbEonYTnyHPrFrJOF2OhbxNdogMFg9GHCg-eodA-w9tZtRwvq4eWe1eaJODo56Rq_7acg3AI3YQTnIyM1n3K_FBO5Bbr0i6aY1GgXfnDjpIH9dvKNku_tUfprMA6sqSbfcmKf5S5vXwWTThz9gsTF3NdoaQ6p6Frf_hbUBsCzK_SLLBOd3Sf6-3JoiD_JQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/FyVV2bYIJ-W7qRF1MBEX-bTZ6-hDubqQ3NiRyPYdm-kbu3ozAmwavhos8EA0HfxXepHf_9k1lVy8HeK5-o1silJSpI1htoL3vlc0sc7SQfSrm1OZc5vZ-Ut0JKtkPpWcz2Ho4AIctkhRCuaXuhEmmVCs4LXcag-bwxdwvT8cHXLcZJfSVmKExE3KRvO_I0odfW6sPFk_Yb5GVmcuAbh0Qywsb7cjDCjQZH4dWkUcDeHNIXD-KuZJ1rO9KrXuKwmgIm4DmBEK33FOzAmb_jG1yhEuKA7wmnZRcggIVjbGxzfAeU8Snb5VzVjy2DZSLE8088tLhNJzkQTA7F_76Ahlvw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VyIFq2g7H31rkW1qA6i72MTpDEDa_S3nkTXfeDlv8lJfo4MKWTwHSljs87yF-jBE-g_SPDY_hjkMlq-QTnoUfe04ClC34hDa76OpnZb8SIcncnzgNZysW6R1FePus26NvJ3yHDjrGbCZkTHozfggZmrSamMv9GJ84qxcA-j1SLPrXfFmfmvsfxXZ7dPJA7RrrIoLjUI6OKCvXzQf2BIdRQVgZoS4MF_qBZWwm-db9xy_StllMvM6HTx0qWlHC6HsEOCPJwnrF2Seq594plh2EenRHQOs6aRG-2IfRHdB5pktJB58Lcsex41sP7I7LVoIv9UoB8rwyBHal3tX3i25dg.jpg"
+          "url": "https://cdn4.telesco.pe/file/tiPAvDhq3plMgyFAYQ_R7RJkFLiW7zXDop9RQCVvTkGFvR1MPmKU4bXMIZjvDgzYdqv7R8U0BOooVZpnCqeOBjQQv3WRfo3zSTcxB0QHx-ucp9RNlHlQrQby6wWLnbln8fbC0zSZZH07mr96h8ZGZerGu3UgkvsKvwIonxp0Lq9hmFkTVJnYMLIeH8HWS9LwrzzXWgbMekPw9MO-xd6eJbuysMu4ScJh6GQnC97lKP-K75HXs6y23hcHOVbvEOktOq-8ocRa3_gng7qTP9DxSjoyon_QqNhxBDculjybcA29I_KzGnj8ytGfYszEHHAH5ijkN-T9hMdSMVH-0vTJOQ.jpg"
         }
       ]
     },
@@ -200,7 +127,7 @@
       "date": "2026-09-15T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8500,
+      "views": 8660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +135,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RulOpJDzWxBs60H0_IP8D7408ml0U3cb4RMWiOots7Rnt3ddYxRoT9tVreu66_7kioVbFALxejZ7QLyF1MdKb9iLADFJf3rtwe_aQQBI4lwmpWmsUlPgzUpbgcg1ZwgbfGpE0xL7D9zxovsng3cB-gjKY_585kAbc-OzKJEwKjJdxLkcKkC-emM6NYTSCdhw7zfu_zTSUCAMOOKeRadOl_seJvOUA_nwMEvbotas3xVv9mH9ysNHbnX6YdNDHJXxCRp2_Bzi1Knf9LB12RIN6J20qNI52tuyi0KNggJNFzNn00zSWmbmnU5kfwQnB4GbTOewP5hV67Db28hXGxOvaw",
+          "url": "https://cdn4.telesco.pe/file/dqRA92s5b-4xVHXR9SGhzt12Vk7StbdCIl8vBuabTvyUQBf0WCdsx6q1ERPGbiwkdESNSNA2TABgTk03WUqrYEEl4x0FQUgSeOwE8RYOqXt244SBa8cPDic0gVhPunKNP6iWlXuOZcN327tkwMCZ8ybTEUU9JTc1RG6ld5H_2LpP7URQcwAWehmWduH4H5y3XJd2d2dLFxF-3WO6hAG7V1hYodsa72DDe1du0X83zG8-_7bRFZ0qSX2lbWdH06HEH6d4ZwQ5lf6Q3H56NFV_xNU_jK1KTMqAGoRHYiHzGlqDIKWlClBed-2ZBDMuFUn6iklMNQgKP2WxttMX32GEIQ",
           "width": 2560
         }
       ]
@@ -219,7 +146,7 @@
       "date": "2026-09-15T20:53:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
+      "views": 8280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +158,7 @@
       "date": "2026-09-16T16:49:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7050,
+      "views": 7340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +177,7 @@
       "date": "2026-09-16T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +185,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Du1lbi9yI-cVzPcXWvBmgniU1cN27ipc9YE471RoF3evg9ohp_KEBHJPY-E4DcDdrj97JWmrhzUkdHWTYiou2TYZAcXc66amgWW_4ogSRDvKNw2Vhojuv2iaDikNnxYMSlOCIldPfIym4j7tNlIoMQL9ix6U8HnGDBVpRQExDdZUaVwSZeLJ09Gr-ckAaGSPuLuLuEy0xVgLQWN3CK6sBxU6hBHbFzGrjpG_6u6Ts7bHdxBNwjMLsZguO2KqxMbTnNA3OQDY4sxTZ2yi2V8i06O4dWuxsRRQ4OnJzgISKGmZLIbrDRE1MhIjcdF9nE4rquEhqlmofsRRd769XnNWzA.jpg"
+          "url": "https://cdn4.telesco.pe/file/SYoMjb8AH67u-wTE-PFco6ra32r0NU6eawNg7TTS4vIIn6PP1bQjms5nNROIjmOZ0qKB7VsyTqeAFvs1OGdkwzTTpJZIl0LpWSI8FoMxPob9GtCbdK_8QcAS2NQVWOhfL1MsSAQsftDbH1UMoQHQLpf8s7-yIgcTAEu1qgdRAGVX1eZj93rK23mE1TsPmXVZAZNUWqK0bfW-1s5CHnG4d0hHyA7DTKsFwNpKb_DwHXZtMjVMYf7uGhy12dEuCbXlsuSHFDoatIaUoZjAFT3M4SuMtMtNNLKp4THYyQBULz-xSNTt4LhNKF_NbPq4wUB5mbzbdqZ336qedZ_LZt-CEw.jpg"
         }
       ]
     },
@@ -268,7 +195,7 @@
       "date": "2026-09-16T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +203,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/evt_o-daE6JM-GDRf9q7MHhMqxXHFppyJlP4cFEJQfBvrK-S8-AxkyPDNzqfPTqVLDGg-dHE7kqioVkKpoPAGkajDWOwPWxxpsIEqEvZcPfhGFrbDQIzTHMHHu1IwJmtB46x6PMnB74fQ7g-8U8yMjqDzxVH_1WJULidhPgOBPTukp8uJwWorTNMTWmVPZK771jSKNW6D7mgDy000VgZEqmYC9le81997bxit9i265JyGumJ2pCg5kYuLwfbxZcwQD42K0WEGtXTr8joRWCwkZ6ZkhNROYL8I1n_KcBbklRIcKoTpKy6f9YW4vs0ZPuZtSQJ_fHlViB6z8UK2rzGsw",
+          "url": "https://cdn4.telesco.pe/file/sawAHkVmimkEqEXfsY_ofkuC9NLBBg9Ym4qJjY5cJx9d6phdcJkQPDJaQQ6oM9zkTCydd1-HASstpS745lH52QEub5P2uUv_Rflmq9FdSkoyBoWuYi3aHOyATwJDvwpHZXpVZQ2xrtlzDqHEEmD1FquAEX3xurTikgWe508_tRx_4sQtUj4K2k_5yWehkbgPDtdISdug8iflE4aTK6m5QOTM0ofGH_2aw29ZuQPFrcYYiRfk0ILiZXM1cj1SSb_Yy2eZcuEtIr4o7gT9LvzsM2nyArMeMYaT2Jm54ngErBwcM6BYAWT2h8gxEdE_2H19pYYFXqTdbLkZajtJKWFPmw",
           "width": 800
         }
       ]
@@ -287,7 +214,7 @@
       "date": "2026-09-16T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6750,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +222,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RoreIo2D28nj-xvVM91B9GaH94SsLYfgMTLxp5TSux6VETi7nEGkEhmuoWMJ9_qVXnFnOWF1s-s7ZCiaCSGSQruYC3J2eOCxVurdU7RfDdNVGdqvurBTMH-6HWTqXbwjJgzzMeNJFQ-WQtfPErUIwGrQZ3ujV9sXCuJXDDG1oSuLUx6RN2gtCA-uidhPpE95XP5ciV52TJrTFQLr4Hi3_VTguqOsYszkWNL_eC59tDp5WZrmzwWgNndnMnzlyqcoy_v-LQXXk5S0s-_txIL5B6qPeBuwfXM5AfxeDk8a9vTB4TjHAM1jbbjLgAog3-xuPBh1byjQTIs-jd803Agong",
+          "url": "https://cdn4.telesco.pe/file/uWTeIuUD-F3nfpZwsDEevW09DRv2fi5Jafe0H2836obUxq_re8JB2g6Lw8_bDUoq6n5JQTCNN37RxvhjC75Ia6713Xx8db5mNSe8nhrHem6iAQPTxdOM89RdMphVM4NCd5sRur5z-hfUfXk9FhUiP35w1yonkeIEdLIFcFF685YUxOKbZ-OqTETRN93aY3SWENkufErUzc_hjk_eE-o4wsYPKCLtpP3AR1FDa_kiLt6novx2KwUmAfN1Ml_xRGIb6Mpcdz8SdMKr3llSzaTfx-Tc7ocSOsHhY1IVXHqfp_IGNyEQYT2TnQSC-omVVwUbL5MXTq23QZ_yZ9-hYkHvrw",
           "width": 800
         }
       ]
@@ -306,7 +233,7 @@
       "date": "2026-09-16T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7000,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +241,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UAc_uRX-jpGzlusre542hSHsNpYiRmNfmq2UsZfq1rQBzr-1GEFnIfEUeMtLH2vSSRFUlSqiQ2JAZts0SKzDvSbHFyI8ptzkCXra7o-zFr0jsaH0VVSxkA8pvsSUYHKj1VfQpyIXcAe9x8d8gYswfi5PYg6Qr-w_YwY8-NErxft9YHoHBT5RlkfttEH9G-peJKfb0ZvzQgJ1vNbw-JBxGixewlcKWA52ens7sEZT4VMS8WLoC2bXPIedxkwJP7yhr4npcX7gKRyNoy86jR2uepd7Qe5QLSzmtuhETzRzzZeQ9XMFLZbeRXU7DEz7G-SzFW-dE0qKA2awPFvDvgnadQ",
+          "url": "https://cdn4.telesco.pe/file/VdAom7LLR5ltOARI5rCKKtq4rkh8PccrWS_euE3lZb7lXb6O-mV71BSy6xIN45oB9YGLaV5ooq4B81O9mcVlCJ_UY7b4YgnCE_axvNcRWHBsr7VZqYayW7Lf_jBCvtZgpnzA9GS8QBWz5zjpAI7zvFBWqlhU9oziGUQ33ab-zf0gX_u8G6oaf65_f0kZlvOJR5vWbr6m9-fwNdymZRIvBrplKaL1c2rQJwue41rurFDbZx8kdTcK584c_6gqeK33Rh1bN27gWI7mt4j8hFb8viM0PRFCmVIw8a72fk1wGZtyBdX8irj_0g-2LItQMX-AgvtupycZgWzjJb6qG0ingQ",
           "width": 1920
         }
       ]
@@ -325,7 +252,7 @@
       "date": "2026-09-16T20:54:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +264,7 @@
       "date": "2026-09-17T16:41:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2510,
+      "views": 4770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +276,76 @@
           "width": 2560
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "ما یک تیم کوچیک هستیم که روی یک محصول AI جدید برای توسعه‌دهنده‌ها کار می‌کنیم. برای طراحی محصول‌مون به کمک شما نیاز داشتیم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29895.png\u0026#39;)\"\u003e\u003cb\u003e☕️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر \u003ca href=\"https://survey.porsline.ir/s/2c0bD6ry\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین\u003c/a\u003e\u003ca href=\"https://survey.porsline.ir/s/2c0bD6ry\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e \u003c/a\u003e\u003ca href=\"https://survey.porsline.ir/s/2c0bD6ry\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنظرسنجی\u003c/a\u003e کوتاه که پر کردن‌اش کمتر از ۲ دقیقه طول می‌کشه کمی از تجربه‌های فعلی شما در استفاده از ابزارهای AI پرسیدیم. ممنون که بهمون کمک میدین. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک نظرسنجی: \u003ca href=\"https://survey.porsline.ir/s/2c0bD6ry\" target=\"_blank\" rel=\"noopener\"\u003ehttps://survey.porsline.ir/s/2c0bD6ry\u003c/a\u003e",
+      "date": "2026-09-17T18:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "چطور یه مدل 35B رو روی RTX 3060 با 12GB VRAM اجرا کنیم؟ \u003cbr/\u003e\u003cbr/\u003eبا ترکیب Q4_K_M + MoE CPU offloading میشه مدل Qwen3.8-35B-A3B رو روی یه RTX 3060 اجرا کرد.\u003cbr/\u003e\u003cbr/\u003eکل 262K کانتکست رو هم استفاده می‌کنه. سرعت decode حدود 50 توکن بر ثانیه هستش و سرعت prefill حدود 550 توکن بر ثانیه.\u003cbr/\u003e\u003cbr/\u003eکانفیگ:\u003cbr/\u003ellama-server\u003cbr/\u003e-m Qwen3.8-35B-A3B-Q4_K_M.gguf\u003cbr/\u003e-ngl 99 --n-cpu-moe 26 -c 262144 -fa on --jinja\u003cbr/\u003e-np 1\u003cbr/\u003e--cache-type-k q8_0 --cache-type-v q8_0\u003cbr/\u003e--temp 0.6 --top-p 0.95 --top-k 20\u003cbr/\u003e--reasoning on\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-17T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/KZg2KZFQadQIoODb15iFb-9ar8aM7_TJOVYndTXSvtyKy3ugbXyHXDqwKLvzNpfV581yDzGbblW6oZYhaniJ8qJyEwIlq0dxcZnldQ2lrUkey8Q7DXWLxcOejAMzg95J0kM193GtZ2XoHP9766xWIPaEEh6JvX9TAbrvRDiEkyrOoKTeBOt8EuUpicw8VBF-76zjA6cDeH6qkHe6qmSAQlVnZFtSqkTXzKmtrOOOzVPDvS8hkzxTl9IeX6jUN_o-F2bZ-lll2yNYjJs3WCHXNUVImw_zrATHNkjDMlUwqar36C_AdnlabIbwgQodLy1_xYg-zeup-TBAbXtfufmnzg",
+          "width": 3336
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه چیزی که توجه همه رو جلب کرده قدرت بالای GPT-6-Astra توی درک سه بعدی هستش اون هم بدون آموزش اختصاصی برای هر کار (Zero-shot) از چرخوندن حرفه ای خودکار توی دست تا حل کردن روبیک و معما های سه بعدی.\u003cbr/\u003e\u003cbr/\u003e سورس کد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/jianglongye/dexterous-astra\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jianglongye/dexterous-astra\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-17T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Fxts5sr9LGvQwUA6cv1hcfHc0kDKsJMuMGG-q1utzfhMOtjwT-4z7zAYfqKz3fJYm_41bOBI-A8SxVcbnAgOGnafddujqm5Ki32BZUnSBPFlS6mt8JWmG2Hr-3UJP3qMiGOsM02J-biQdE0X0aWctIzeIe3eKHGdb5e0FkfahgfrSZjDKRKcpT4qPPrlcbxIkVTQrwIbcK1OZMQ0Hf0u3m4mqVfOl6dNr-MnbtkpBirTgjSaVbrz51zJqVtnvU_5qfzixB3RZpKXBjMbi2rBVfiiTL7_M0seZPSX_LaRkRiN2MDBX2uKzNc3QIbHBrJOKGBZfCdteI5vN2I8YAe1Ew",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نمایی از اجرای Qwen 3.8 Flash Next روی Macbook M5 24 GB. حالت Thinking خاموشه مقدار 2K پنجره کانتکست و حدود 4 توکن بر ثانیه خروجی.\u003cbr/\u003e\u003cbr/\u003eالبته کاربران که استفاده کردن گفتن با این پرفومنس این مدل عملاً روی این لپ تاپ قابل استفاده نیست، مخصوصاً توی مرحله‌ی prefilling. اگه کانتکست رو بزرگ‌تر کنی، پردازشش ساعت‌ها طول می‌کشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-17T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oS7_rgZMoBX8nTZoa8tty3aHz99zBx_I8VuLXj8naA3W9Y94OjUpNO5NbAIokgV3Z_U70RqiD3OHyCsUVV5ULKJoMPEKnPhDPuWVwVHpY2kdtjhw5qNL6Q9y3NaGpNP_vWwTFTHgsrlcysPfqNdCAncHXU6WNhFHbGXjupF2pZK17y3geb34bus839w8zXNaqpd5Y4XhBHhrSKy3DvD0iMUrkE85F6dOk5WN2pZUVKmMUQjZuD5Vl2U_--eaz3YrsulUcTpI93LR49i-0EQC96OmiX7_qNbEZhnvveiBGuY6ePTAgK5D5R-WBwcQrVkFu6d8ITO_IrUlZhWeYkPieA",
+          "width": 1432
+        }
+      ]
     }
   ],
-  "last_updated": 1789667518
+  "last_updated": 1789677881
 }
