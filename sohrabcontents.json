@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب بدون هیچ بحث خاصی، من برام این سوال پیش اومده که اون کاری که بدرد همه می‌خوره چیه؟\u003cbr/\u003e\u003cbr/\u003eتوی کامنت‌ها بگید؛ و خیالتون راحت‌باشه اگر کسی خواست ترول کنه یا تخریب خودم باهاش برخورد می‌کنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-11T16:23:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 823,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eنیکولو\u003c/b\u003e ونراندی (نیکو)، از توسعه‌دهندگان شناخته‌شده‌ی جامعه‌ی کی‌دی‌ای، به‌تازگی از پروژه‌ای جاه‌طلبانه به نام Plasma Studio رونمایی کرده است. این ابزار تلاشی برای پایان دادن به پراکندگی ورک‌فلوهای چندرسانه‌ای در لینوکس است؛ جایی که کاربر دیگر مجبور نباشد برای تدوین ویدیو به Kdenlive، برای طراحی برداری به Inkscape، برای ویرایش تصاویر خام به Darktable و برای اصلاح صدا به Audacity سوییچ کند، بلکه تمام این فرآیندها را درون یک محیط منسجم، با رابط کاربری و میانبرهای کاملاً هماهنگ مدیریت کند.\u003cbr/\u003e\u003cbr/\u003eمعماری این برنامه بر پایه کتابخانه‌ای ماژولار به نام libstudio شکل گرفته که کاملاً با QML و استانداردهای کی‌دی‌ای پیاده‌سازی شده است. در پلاسما استودیو همه‌چیز در قالب گره‌ها یا «نودها» تعریف می‌شود و کاربر می‌تواند به سه شیوه به ویرایش بپردازد: نمای گرافی نودها مشابه نرم‌افزارهای پیشرفته کامپوزیتینگ، نمای بصری تعاملی همراه با تایم‌لاین، و یک زبانه کد که در آن می‌توان مستقیماً کدهای QML را دستکاری کرد و نتیجه را به‌صورت آنی روی پیش‌نمایش دید. جالب اینجاست که فایل پروژه دقیقاً یک فایل استاندارد QML است؛ بنابراین خروجی طراحی‌ها یا انیمیشن‌ها را می‌توان به‌راحتی در سایر اپلیکیشن‌های کی‌دی‌ای و پلاسما نیز فراخوانی کرد.\u003cbr/\u003e\u003cbr/\u003eاز بعد کارایی، پردازش‌ها در پس‌زمینه با تکیه بر FFmpeg و شتاب‌دهنده کامل سخت‌افزاری انجام می‌شوند، به‌طوری که امکان ویرایش روان ویدیوهای پرحجم حتی روی گرافیک‌های مجتمع اینتل فراهم شده است. این ابزار مجموعه‌ای متنوع از ابزارهای اصلاح رنگ با اسکوپ‌های زنده، ویرایشگر مسیرهای برداری، خط‌کش‌ها و سیستم انیمیشن پیشرفته با تایم‌لاین کی‌فریم، ادیتور صوت مجهز به طیف‌نگار، تولید خودکار زیرنویس با هوش مصنوعی و پیاده‌سازی صحنه‌های سه‌بعدی سبک بر بستر Qt Quick 3D را پوشش می‌دهد.\u003cbr/\u003e\u003cbr/\u003eپروژه در حال حاضر در فاز آلفای اولیه قرار دارد و برخی قابلیت‌ها مانند ساختار دقیق لاین‌های تایم‌لاین یا ایزوله‌سازی امنیتی کدهای QML همچنان در دست تکمیل و بازنگری هستند. با این حال، استفاده خلاقانه از پتانسیل‌های Qt و چارچوب‌های پلاسما در این پروژه، افق بسیار جذابی را برای آینده نرم‌افزارهای چندرسانه‌ای در دنیای متن‌باز ترسیم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتماشای ویدیوی معرفی کامل:\u003cbr/\u003e\u003ca href=\"https://www.google.com/search?q=https://youtu.be/fFAO3b0AeZ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://youtu.be/fFAO3b0AeZ0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
       "date": "2026-09-11T16:32:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 924,
+      "views": 928,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-09-12T12:39:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 950,
+      "views": 954,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +42,7 @@
       "date": "2026-09-12T13:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
+      "views": 1490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-09-13T04:47:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
+      "views": 1420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-09-13T06:51:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +85,7 @@
       "date": "2026-09-13T16:52:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +97,7 @@
       "date": "2026-09-14T05:27:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 998,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +115,7 @@
       "date": "2026-09-14T08:04:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 992,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-09-15T11:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 886,
+      "views": 895,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-09-16T05:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 755,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +161,7 @@
       "date": "2026-09-17T20:03:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 761,
+      "views": 780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +169,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VA4GVjeQNbGYzt79gaNCp3iiEeaoMd4n5P__4D7dWp0B98LUjUb62ohx1J0_lCtDpOmo1xtSzrcdMA8mVNNLopPM9Sa0pZIvJ48gYx1d-6zf2z3ht8VUOlejTMh2QkGd1Jm9AlqXxYzTCuSWziF1ZjvcD4334LIbvfPzdBwxHPuT47Lo2bZutvk_I0n1reZgA3_EootqDaX68h2T8VoB0CfvhYiWANHXOjybxQL6ldb-DFQkou0fMxhOTt9GeQpyiquxj5sISrnReSzpbr4yKjGk2JmsJ9pmXaP2gl-bc-0pTiHKNC-44mcwzbbES5sbyrMf9cDtxWBLWz9870TviQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/YD9mxRfxVoFGoDJDMwnIJ1qX-E5O_Mio5XBEWIgLel80NErABjYcU_Fjt_w1slLAGkTmbpjlnFrYlcoZXcRzEerUaX4pc_NST50_twrFxvtuSdi9_0afdnTX8icgmjz4SA2yjZHNRN6DnVvJnpH03IKr7i49b5vX6ZhXEcKb9PjIi54FRstJ0y3PS-CmItfuWeUWCGyaEBZWdbm3x2mEz8qNuLJJB3T3S-MGSmWERooUets1ggR5aMg_Q7B4SMlRTAPr0_HZ7BjXvs1RVS-W2etKFDcpXo5N3Hz-jHnnmk2VWk1ySEOpZ0FtSg4KnABVUJOP0CbtlHhZUMeF3r5FEw.jpg"
         }
       ]
     },
@@ -191,7 +179,7 @@
       "date": "2026-09-17T20:09:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777,
+      "views": 790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +191,7 @@
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 735,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +209,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 672,
+      "views": 703,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +227,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 616,
+      "views": 659,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +239,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1950,
+      "views": 2560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +251,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 226,
+      "views": 311,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +262,25 @@
           "url": "https://cdn4.telesco.pe/file/h6oeOmzN0VReBZEaY94yV0SvsB-82K2qIkUC7xPToMf16HSFI97DyFuYFa26XD6IGnfyoWFWpquldzi5KiFiAotWG3ObuHPN-7YTS-D0srfHqngo6m4Ueg6PN1iY4Kvhq4b330NRurXYrDsL0HCDKjB1cuXmxqDCNLfCGRnXU33kEmeL2hVETuASYVL0wwPYIh1z9vFA1pvs1-Q_dD2ygqAIHPY5KYVDcgtt0pEmbGWm6XoxCHQtlMRXxPZUwVjhHLS9xpHCVAvdAGvZGrUxsQlmPjznSDl_qRc3OFdBDmiRUtIzxw3DqdjDg3zy5Lokxn7M7ECjPqC6cMXaCaIoKQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "کار با هدر ویندوز به تنهایی عذاب هستش، حالا من گفتم یکمی سرگرمی هم بشه برام با ویژوال استودیو سی پلاس پلاس ۲۰۰۵ و اندکی دیپ‌سیک، یک مارک داون ویور برای ویندوز اکس‌پی نوشتم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمنطقش ساده است، برنامه مستقیم تگ مارک داون رو به html تبدیل می‌کنه و توی اینترنت اسکپلورر امبد شده نشون میده، برای همین تایپ که می‌کنید صدای رفتن به صفحه بعد و قبل از بلندگو پخش میشه :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eشاید بذارمش روی گیت‌هاب، چیز کوچیک و بامزه ای شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-19T18:14:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 271,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Nk86vQ0NFrElZsqfTCggYzLc24q3H_Pci3_804bYkmdyyBWDFZy2oGhcKGv31xOolqluc4snJCQVMfBqYMvw8DZ_QrR4UIEMwFqczT7sa3Q2BRLWw4yclf9-MiYHSD9dOYGmZxbNCc1vt6vfcA7ixs722g8HfLilvqEewfA9o3THRKNhFAo4Q0WIrnK6kFU6vf2Axe5wNoBSZInQUgZHoKca05ZYgFQO65jIrjPE3ux5zkvYc2DciHsSMy1FVm7dfLAJ0-yums_qR1YF_yCjvHSRrKs26PATzEmnNXzaVdMuglir6VnZ6ZhPq14popr-WJ45hLfz5S9lYztQoZhgcw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789839380
+  "last_updated": 1789847205
 }

@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نمایی از اجرای Qwen 3.8 Flash Next روی Macbook M5 24 GB. حالت Thinking خاموشه مقدار 2K پنجره کانتکست و حدود 4 توکن بر ثانیه خروجی.\u003cbr/\u003e\u003cbr/\u003eالبته کاربران که استفاده کردن گفتن با این پرفومنس این مدل عملاً روی این لپ تاپ قابل استفاده نیست، مخصوصاً توی مرحله‌ی prefilling. اگه کانتکست رو بزرگ‌تر کنی، پردازشش ساعت‌ها طول می‌کشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-17T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oSgd09eBUKFtEXs5FIvhlBXXgCR8rucS0DxXqfgA3-lRzwoMWkqiQ72OCc_GoBsMvnCYhv0Jwof_jo1VRaHDSe0p4PaIO_qU4WYx4OIIGFzv4aoNqDVGdWewqzlm1stNWsmVkjbXlKoGQWKMwO8R4WbINzBlXVLmr5c2rSJfvIaVA3MurZT3GgSK1pHvllIz8-2Ko0kt-vneh5m4g0FwjjFCu7fK81fWMewCBwElapk1TRWEzcqllhG5h8e1eorbCDYwBbO0NmifS_tixSKWZIKQwzjwrnSZJpk_cIJDvava-WVHUmg99Gtlk2wSOJ-ARvyOFLlnTu9VUCOO8VVeDg",
-          "width": 1432
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه آزمون خیلی ساده برای اینکه بفهمید توی شرکت بهتون بیش از حد فشار میاد یا نه \u003cbr/\u003e\u003cbr/\u003eکافیه به یک ماه گذشته خودتون نگاه کنید میانگین ببینید چقدر بعد از تایم کاری که اومدید خونه تونستید چیزی خلق کنید البته منظور از خلق یه چیز بزرگ نیستا هر چیز کوچیکی و اختیاری ای هم حسابه؛ اگه چیزی خلق نکردید بازم نشونه منفی ای نیست ولی اگه به سمت چیز های اعتیاد آور مثل بعضی گیم ها یا شبکه های اجتماعی مثل اینستاگرام رفتید و تا آخر شب توش بودید یعنی عملا مغزتون زیاد کار کرده و بدهی داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-17T21:36:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دوستان اگر ارور های تحریم آنتی گراویتی اذیتتون میکنه (که علت عمدش هم بخاطر VPN هستش) از این آنتی گراویتی ترمینالی استفاده کنید \u003cbr/\u003e\u003cbr/\u003eمثل اینکه آنتی گراویتی گرافیکی کش داره و اگه یه بار با اینترنت خراب برید دفعه های بعدی اگر حتی VPN خوب هم بزنید ممکنه بخاطر کش قبلی گیر بده بهتون؛ البته یه دلیل دیگه هم که حدس میزنم اینه سیستمش به صورت استاندارد از اینترنت استفاده نمیکنه (مثل گوگل کروم) و این باعث میشه VPN نتونه پوشش کامل بدتش و بعضی از اطلاعات حتی وقتی وی پی ان روشن باشه هم از پشت VPN رد نشه و مستقیم رد بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eخیلی برای من پیش اومده آنتی گراویتی ترمینالی کار میکرده اما آنتی گراویتی گرافیکی کار نمیکرده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://antigravity.google/product/antigravity-cli\" target=\"_blank\" rel=\"noopener\"\u003eantigravity.google/product/antigravity-cli\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-18T10:51:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YikZSlbLU65yCvV-veS8rqqlaKo8Z6I0A78mX39RRrZ8Qh0axWofJGm2zEHMVHjuc9C_fqHMttSq7y0ZlzN2Md8xCIbaGVxEko7zuY-QuV6gMXalbI4XIQo8oM6I2O6-1xIrTk3iVehAYE04TXtd9A5C1codQU_1-63SzSOYYU2EqB1Y8VD1VkYzm0Aibky6Zk3S-bLq2G9YBKLsPxiXHHuVuRLwQPWaqfM9spXsBo2Ei1yPwxk3JKoKm4MdikSrKjiTxGQbvTS9xKjy3MkxNzYs0pfZgd0tbQHlNrjRav9c9CEa_xzvDQlIs1QXw2OOIlaMGU55sSWW8AtJQ8ryXg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به نظر من سی پیو های AMD خیلی از اینتل بهترن، می‌تونی درش بیاری سرتو باهاش بخارونی خیلی حال میده، تازه اگه سیستم تازه خاموش شده باشه میتونی به عنوان اتو مو هم ازش استفاده کنی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-18T15:41:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t70TKJzR4IoEviaV6CL7GCRvh8gZDsbeE5PReCUNKr8Zg2ty6b9cOaXw-c-muuKW7As9jIPaAXJteuuUU2GzRdjjexX6QZk4qzHtpKNKD3VdnnkJKtwEW5s5sir0YUIxMXis3pT1Kn8ySVT6LXrZC3So1jGr7oks48CULUf7Oea6uF7hQcPAdAXIpAqMgF8yqv4mF5Gh9OAqbJ3PogJXRjZzu8AYMjwKyY11vqlAneu4696viOMaNP2kTzuHtp5ZpzAMqi23NpnPVcb4wikZM4t4_NhgmTFek1P74ezbyYkbQt2dn_DRC1hH1zordL4Mjlr9HEXZATBEsJYMmGCttg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپکیج اختصاصی Claude Max 5x/20x ضد بن راه‌بوم\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e وی‌پی‌اس VPS اختصاصی خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A7.png\u0026#39;)\"\u003e\u003cb\u003e📧\u003c/b\u003e\u003c/i\u003e ایمیل وریفای‌شده خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e کلاد مکس Claude Max روی اکانت اختصاصی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e برای خرید و دریافت قیمت:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e ادمین:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboom1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboom1\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e \u003ca href=\"https://t.me/rahboomshop\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@rahboomshop\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A1.png\u0026#39;)\"\u003e\u003cb\u003e🧡\u003c/b\u003e\u003c/i\u003e سایت راه بوم:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://rahboom.com/\" target=\"_blank\" rel=\"noopener\"\u003erahboom.com\u003c/a\u003e",
       "date": "2026-09-18T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +30,7 @@
       "date": "2026-09-18T16:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +49,7 @@
       "date": "2026-09-18T17:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +68,7 @@
       "date": "2026-09-18T17:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +87,7 @@
       "date": "2026-09-18T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6080,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +95,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ov-GhfN0DTuJ-i6S7lL6swaLLnFBhH6_oKYVWDCSc9CYug1TYNAkOCar7ULJsqF-lRPYpnR8NJ7baHLi_TMjcYkLNX5HgiVIBFuYVO_d0lGybpqw2gy_NWq5A8nujxlz06R_wVQWe3IXi8pAk9ecJO38zvCwkqmpTJ99prIcd1k2aTmaveT3dj4BYocA5tGZ1umZBF-JW8_V2ofHJXgOqMlIQWTvgaPdoV8o3lqgjDMgZ7hR1a5OhqzAya8q721vHs1F1z5kmLuvj_NyEhrAaeA4nNzPbZotAvtgr03N1UP6LXuIjzKUKe1gyywXbnDdgvG58hU5uH3n8oSgNBt9Zw.jpg"
+          "url": "https://cdn4.telesco.pe/file/XDjYeedhVa8AIJ_NFBXKhY9gqUBw0eZ5taEOWPhLvzdL7wpeMLZgeRtpwN8AQuuk5gWHy73AYSu3RQfcqV4Tynr2NpjaXKs__G1PHJT4Pj57xOcyD5M76_mR-wiJjuv_NhxG-OgqjJVpN0XqoIm-Qo9bx1z0cIfG7skUwMfNGywigRLM1Hit1ag866TACKHYTqA7RHUHP2CGWm7ezXetCo69snlQC9nMPtJbgBT_B8rG3P4OAw_oZdJl7AkVQYOEhLwncFdihFGMidQw80mc2J9WKXDVLiTaSgmt0G66ceBEYFakvQDcdUkQnAjHw2lhGVMw_k6QE5k6xvsBviCWBg.jpg"
         }
       ]
     },
@@ -172,7 +105,7 @@
       "date": "2026-09-18T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +113,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NwOJWD0nob64hTboUgUbUVluwvz-yHVSaXRDTkOfLVEUtG0V1REXtDMKA1K-UrxPimZAYrOxEcyzrT2S57v1MnV4IZ2ZphhqaFabwXCDiabW42kZ9kvtRD5hYo4T3WMi7Kyuwr9PmuUAGOzFQw390Q8wu1sU83iSjsvN_XFxkMkCNMjqhE9LyT0m4mMzgWhf906yHIJSjwFIRh4lXWDY9s1EucT7459aEwLuCGsgbAVs4Vpp5ZOwkOskAZHfuZ_r4Og0ph-U7TExhzBLz0JIlY47_iRAyarVxzfMU_x1nlDtyOfeEWgc2PkJ1zkMhgKCfbwHF8Ah6tmlrkwcwOkEgw.jpg"
+          "url": "https://cdn4.telesco.pe/file/X3bWp6q3pY3TOK0751Plts75M0aheQ7SKS64c5JbopIZlbA9CmTlk4LoxrtEGRFK2FE6Yafhl74qylAJjodfNHUv7Ge6nX6JQHzl_DrhLU3ETaxjX8y-Fe_nY6FELEAl1icwCXk13iBO2UZ5njF0tNaBGeY3-1gUN2JRlbVts1isimdvcMwlsgArGam51sClWIglUHbRV_VF2KQa7SqivGEvYRyOpGDQBSVlvuDUHPoZvAyYDDV6obnZkkXPls7UYsv7_-CrkM2pKdVAJZ9RvQj9KQ0YqsDgCIfd4ml_0OU-QrI_dr72LyE_lOSMuLJNobUA44yjEzVKQnhsS-NJpg.jpg"
         }
       ]
     },
@@ -190,7 +123,7 @@
       "date": "2026-09-18T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +131,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/s3sa0d24xF9EzcQUTGQd-JpN7tjUY8jmKh7vAIHQGyaDQdFWRAY0nUo-H0_6VoZSxew4VPKGBxLR1DP52nQXYIIuvSuz6D6aznEkuaA2jf9CAZ1X2G3QvlBk2-pqYY12izO8572E2f6CmdxGtlJ596L-ycTb8ng0cIze4NxOmegK1uI7-xTbYL47Fftov0i2fABBLwLPQDqVnyVMInOVOCROyBZfvbRcHmG6ou_kgPSaTvngjgNgm9pGS6LHNY5C4QjkSvtNIh9Nm6nX4bAw2gPXnKqRKYr0rJSD1WIUF9EihiJPe9CchIAOJzX8QBqVzNDjfI1ZFAVai_APL9VaCw",
+          "url": "https://cdn4.telesco.pe/file/GCUcWa1Ce1qWuJYbPVoD1hFf0VUQ-3qfE02SWVURb0SDOCC28xleNoSaiWR5Mb3rljKYa1yFpmtJFcSyirVqVdRGwJ_eYU4sLYzU2KJ-y4ncwlQLCsM0VMNJGDgQtIlK2S63D-dEdq48bDRhaHu9x-MPjCbO3AQeQMybz11u7lS6cCihGm4MEyu-fMwvXHg9z3JeAQDspMA5u3GkZsmWxzotnONusxNT9XzWu8k0KcnBSgiHDFD0BxKxp34GO_F9nu5m_FHQgr-hD_LiypXWrgs6WKUxla0HBRiM3PlOsMQiqNm9Cy3J0VdaUvvduaxTH_FBMLu1q1jXXuI9qSBg8w",
           "width": 1920
         }
       ]
@@ -209,7 +142,7 @@
       "date": "2026-09-18T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7520,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +150,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tCPKaDHTo3QJFP5e9H8u4tk6MqS7soAZ4ztF14Sqxx4yA6cGvgcJGssKj9I0tNOtSHc-xQlb3flTqhA6E-Ftxhxad3nUupFXG8B7P-aizIQ7qmcRSm3Q54nuaTPXM717qnZNrqKpHIuvTtHLWGu2q6AF9PKBnGgQivlMe2sXaWdBQF04x0Az5qijJu1z_ZX3IqYWncPfrV6E2OqhhNMFvFbuLCjUnxBUH55JshkKeyTu4qla_kV6gNck9XPAqK5X8z1vpnwXP4dWR8m6tJuHP3fexWyobWNqSrBiS1yd4LnNm5Ql71t55FKsDcQ9BNCkYHWHMrvwdin6yCNPGb3OVA.jpg"
+          "url": "https://cdn4.telesco.pe/file/pY-fT4_mM4fePRnL3ipVtesa7ZgLM27ZKQChS1WO0E8aR5rQx4tu4KJnuYm5mso5pCbUBXc_oX95CU-_Dailtg8HDtOnyoTNlIZ34mRf9HrpWcV1gAmtGCpzlpSWYFxwLjIqyVE7e-eOEH70vFgVOahSYaeLK1dTjyWXBxTD1ecwwxcIYVnHyNoM9OCPcozOIubwbUf1h7G4NCs_QV3KpYZcadDT1yyxTV7-bYN39eRXtYW-UzJ_SrATZ8ACYS6prAozRoVBxMegYkKrBKC1CRkPs_H9YSBdXAQ6pq9DxGsXqW-gvDJNqZCqa-fIDtqhjaAcOZxlj0WKYO1AS3uTVw.jpg"
         }
       ]
     },
@@ -227,7 +160,7 @@
       "date": "2026-09-18T22:25:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +172,7 @@
       "date": "2026-09-19T10:11:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +191,7 @@
       "date": "2026-09-19T10:26:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +203,7 @@
       "date": "2026-09-19T12:42:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5420,
+      "views": 6110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +215,7 @@
       "date": "2026-09-19T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2980,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +233,7 @@
       "date": "2026-09-19T16:43:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2650,
+      "views": 4190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +252,7 @@
       "date": "2026-09-19T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +271,7 @@
       "date": "2026-09-19T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 3990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +283,81 @@
           "width": 1458
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eفروش Gemini Pro فقط \u003c/b\u003e600\u003cb\u003e هزار تومن\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e- مدت اشتراک ۱۸ ماه\u003cbr/\u003e- فعال سازی روی اکانت شخصی شما\u003cbr/\u003e- امکان به اشتراک گذاری طرح با دیگران(family)\u003cbr/\u003e\u003cbr/\u003eتجربه کار با Gemini Pro، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در «اکانت‌آباد» تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای  به‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-09-19T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/b3ECE8D26phSemsuEESJrd03G6MOpeolG183t4qslnJSdo6ngGqxRtqaP1Q32nnJKXZG-iaGXSYQDNtZTkVKQQv8nmoEC3M_pSSGU4ZIUratvc5JzlrgJQe7sregOSlMa66rwJDFutaVtP8FsuKRPsD4tvf17gZSCLEg30ycLQFGkWXwZaBL27NPah_7EsiltqmmgKmIGm6GrJl_1GMjGjTPBB4_AsOF2F10G0RwMUi_flL_nzMUHygNV9V8qBdNalAwu9pQMgqN04bsqwhY27eRZY_C3MfJzIstfKTPuoO-nafW_fkOc3I5P_MF64dkiQq6MWQrByIWUamKlemVFw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چند روزه خبر مدل Jev از typesafeai حسابی سر و صدا کرده. گرچه بر حسب تجربه من بعد ثبت ایمیل در لیست انتظار، یکی دو روزه براتون دعوت رو می‌فرستند ولی اگر همین حالا بدون انتظار می‌خواهید مستقیم باهاش کار کنید از Vercel AI Gateway می‌شه حتی در پلن رایگان.\u003cbr/\u003eراهنما:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://vercel.com/kb/guide/typesafe-jev-and-ai-sdk\" target=\"_blank\" rel=\"noopener\"\u003evercel.com/kb/guide/typesafe-jev-and-ai-sdk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Hamed",
+      "date": "2026-09-19T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kqNzg0uD3b9LBPp15JBGEG-wUS377JOhyDF4g4uk24TDwb3_H5XmRhLZKIVRYM2fjlSewCsIxYO_Oyat2RjqAHzpvjfTsSp_-p4vv0jwXbT_z-Ddla6UBAM6Q1HLHbNd21xEcsG9h2j7xfPUD69Yq4dyosc0Ze49lFzXo1paIsafQnNDIdpbHjsHMsth8hvOUxugQ1AzTytdWY1b2RIAwG-WSaT3GB0-i9va3f4iqDE5C8sdqmejtE5pMVf09kzAKZv0nkKnMaS3vB6N66ddJKQIWQIiluF4RshCRWEZoU95CJnQyZ_5TFmFfDbROzfUdoiJ-5MebLZsUviYHAcPiA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مدل Jev که جدیدا سروصدای زیادی کرده به راحتی می‌تونه بازی هم کنه چون سرعتش بالاست! توی ویدیو در حال کنترل مار برای خوردن سیب.\u003cbr/\u003e\u003cbr/\u003eشاید بگید زحمت کشیده این کارو با یه الگوریتم ساده هم می‌شد انجام داد! که درست هم می‌گید برای کنترل مار یه الگوریتم ساده بدون هوش مصنوعی پیچیده هم می‌شه نوشت ولی مزیت Jev اینه که می‌تونه هر بازی که بهش میدید رو با سرعت بالا بازی ‌کنه مهم نیست چه بازی باشه و نیازی نیست برای هر بازی ای الگوریتم جدا بنویسید یه جور تفکر عمومی به حساب می‌آد توی ویدیو هم ببینید بهینه ترین مسیر ممکن رو انتخاب نمی‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-19T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/G1lomBP3pX1nVTOVIsmqyP99QL2KafKlF8qnOGneFu0SPpwgu2CPFfLv8Ea4cR_DUP7AQ8B3R2heIl30b0TnoLej4TaRumGIo-XQfeJ6baiWUU_V_NZ7WgDej2HWvJ-MARrHktesdReduKsxPSfI4FwUeg4kqkC4UkfGHoQVffMxzqp5TQSDPmsH8GsL-zFhy-EbfInEmKzl0osae15sbx2EB_pwtvn-Vyf-j_q14_kKrAyR-vGY2A5uGcvs7vzASrjRQtkgEgfKD_4YSuRGE3wQp0d7UuDcgmC7RMj070EsFVsuBfvizN4kJosEccQ_O51jckninlPGNjQeHgLz4g",
+          "width": 1426
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "با مدل Jev که جدیدا معرفی شده کلی کار جالب می‌شه کرد ویدیو رو ببینید یه نفر یه چیزی شبیه پیش‌بینی‌کننده‌ی چیزی که می‌خوای باز کنی بر اساس کلیدهایی که میزنی.\u003cbr/\u003e\u003cbr/\u003eسرعتش واقعا بالاست توی 100 میلی ثانیه جواب میده\u003cbr/\u003e\u003cbr/\u003eانتظار داریم توی چند ماه آینده ابزار های کد نویسی و پیش بینی کد خیلی سریع هم باهاش بسازن مدل Jev برای طیف بزرگی از کارای روزمره کاربرد داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-19T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/E5fGDT1UVU-ldOvoNY4DwxG5MFKNrXvH_q8HJbexzIc0RW2tRgTy0O_YOySbh4_cTFbD1-CG8vv-MJRXP1fa4e13mr2IKnLkarDXwuNfmUKPZ48T4miQPOS50JSRovaw6hdYkaXTPndb7d7IY_a5PDIDq4CHRgMIcGh9S2JLvFhxUvhFQMDpf7SkhH0U86OLDEaThuk1HIFdBdinBkNTuPKdNR_hohmxptCLPpX3Rg2j-UtM2ATqdJMj4n6O0w9pii8-9ON14ewqNFa_1KVoVTcluzkT5PLLB7gOIe8KC3PIoGieqiw6fYKcBroJXI8byB3fd7ioTQnS3POOo1Xa5w",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1789839337
+  "last_updated": 1789847162
 }
