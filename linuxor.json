@@ -8,102 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "تا حالا شده یه مقاله، مستندات یا صفحه‌ای رو چند ماه پیش خونده باشی و بعد هرچی می‌گردی پیداش نکنی؟ Hister یه موتور جستجوی شخصی و متن‌بازه که چیزهایی که خودت توی وب دیدی یا روی سیستمت داری رو ایندکس می‌کنه تا بعداً بتونی داخل محتوای واقعی‌شون سرچ کنی.\u003cbr/\u003e\u003cbr/\u003eمی‌تونی تاریخچه مرورگرت، صفحات وب، فایل‌های محلی، PDFها و Markdownها و... رو واردش کنی و بعد با جستجوی Full-text یا حتی Semantic Search دنبال چیزی که یادت مونده بگردی. یعنی به‌جای اینکه فقط اسم فایل یا URL رو یادت باشه، خود محتوای چیزی که قبلاً دیدی قابل جستجو هستش.حتی MCP Server هم داره و می‌تونی AI رو بهش وصل کنی تا بتونه داخل دانش و آرشیو شخصی‌ت جستجو کنه.\u003cbr/\u003e\u003cbr/\u003eاگر حجم زیادی اطلاعات و لینک و فایل داری و همیشه با مشکل یه جا خونده بودم، ولی یادم نیست کجا! مواجهی، Hister دقیقاً برای همین سناریو ساخته شده. یه جور مینی Google شخصی برای چیزهایی که خودت قبلاً دیدی و ذخیره کردی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hister.org/\" target=\"_blank\" rel=\"noopener\"\u003ehister.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-18T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pY-fT4_mM4fePRnL3ipVtesa7ZgLM27ZKQChS1WO0E8aR5rQx4tu4KJnuYm5mso5pCbUBXc_oX95CU-_Dailtg8HDtOnyoTNlIZ34mRf9HrpWcV1gAmtGCpzlpSWYFxwLjIqyVE7e-eOEH70vFgVOahSYaeLK1dTjyWXBxTD1ecwwxcIYVnHyNoM9OCPcozOIubwbUf1h7G4NCs_QV3KpYZcadDT1yyxTV7-bYN39eRXtYW-UzJ_SrATZ8ACYS6prAozRoVBxMegYkKrBKC1CRkPs_H9YSBdXAQ6pq9DxGsXqW-gvDJNqZCqa-fIDtqhjaAcOZxlj0WKYO1AS3uTVw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "روز پیش یه مدل جدید معرفی شد به اسم Jev\u003cbr/\u003e\u003cbr/\u003eبرخلاف LLM های معمولی که برای گفتگو و تولید متن ساخته شدن، Jev یه مدل تصمیم‌گیرنده‌ی فوق‌سریعه. Jev به‌جای تولید متن، مستقیماً از بین گزینه‌های مشخص تصمیم می‌گیره. طبق بنچمارک TypeSafe، زمان پاسخ Jev حدود 100 میلی ثانیه؛ در حالی که برای مدل‌های Frontier حدود 3 تا 329 ثانیه گزارش شده.\u003cbr/\u003e\u003cbr/\u003eیعنی برای بعضی کارهای مشخص، تا حدود 200 برابر سریع‌تر. برای کنترل Agentها، انتخاب Tool، بازی‌هایی مثل Doom و تصمیم‌های لحظه‌ای طراحی شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-18T22:25:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "مدل Jev که جدیدا اومده واقعاً دیوانه‌کننده‌ست! \u003cbr/\u003e\u003cbr/\u003eتوی فقط 24.9 ثانیه، 384 تا خبر منتشرشده از صبح امروز رو خوند و به 15 تا برند گفت که امروز روی کدوم خبرها بهتره سوار بشن و ازشون استفاده کنن؛ اونم با هزینه فقط 0.19 دلار.\u003cbr/\u003e\u003cbr/\u003eدر همون زمان، Claude Opus 5 که همزمان روی همون فید خبری اجرا می‌شد، فقط تونست 4 تا از 384 خبر رو بررسی کنه و 0.77 دلار هزینه داشت.\u003cbr/\u003e\u003cbr/\u003eیعنی برای هر تیتر، هزینه‌ی Jev تقریباً 390 برابر کمتره؛ تازه جوابش هم قبل از اینکه خودت فرصت کنی تیتر رو کامل بخونی برمی‌گرده.\u003cbr/\u003e\u003cbr/\u003eقراره راه‌های خیلی زیادی وجود داشته باشه که Jev بتونه بهت کمک کنه تا:\u003cbr/\u003e\u003cbr/\u003eخبرهای ترند و داغ رو پیدا کنی،\u003cbr/\u003e\u003cbr/\u003eخبرنگارهایی که دارن روی اون موضوع کار می‌کنن رو پیدا کنی،\u003cbr/\u003e\u003cbr/\u003eو برای برندت پوشش رسانه‌ای بگیری.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکل چیزی که توی این ویدیو می‌بینی هم Open Source شده و اینجاست:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://newsjack.sh/\" target=\"_blank\" rel=\"noopener\"\u003enewsjack.sh\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eداخل پوشه‌ی demo/ قرار داره و همراهش بیش از 30 تا skill هم هست که می‌تونن ایجنتت رو تبدیل کنن به یه جور تیم روابط عمومی (PR).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T10:11:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KdSKjtAdZr_vOloSfGqsGOsY5-IxP8-Bvz2t4hjgTEejybLj7hpU0gdqEo1ERkTmvEjiRxcxv0-3GVYkCjTV7uxvC7a7fusFJ1672FlLyt9ZDbFz9vMLG71n3XSse-lQjL5Mkb0nsfQI5Pvx3cogqi0JJt7NHWVB1Q7Ihx9y5q97QrLy-BY_9MzpxwYy5hmh-oCHYMMTjH0YtgUOQl8E9HHlUhJYxNAbsdOocGIHXfEKZmE_9cBatYpxbL6PFHnh56rDWvm-ulv0RgAOV_U9uWESqHnDAeUTSoiPOiXWFsPbK9XeWY76ioo4ioJia-nU4-Yk3lyCL0FllI0Wb9uv9g",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل Jev واقعا سرو صدای زیادی کرده ولی مشکلی که داره اینه به احتمال خیلی زیاد فقط سرویس API پولی بده و مدل اوپن ویت برای ران کردن لوکال نده\u003cbr/\u003e\u003cbr/\u003eدیروز چند نفر شروع کردن و با فاین تیون کردن Qwen نزدیک ترین چیز ممکن به Jev رو ساختن، لوکال میتونید روی سیستم خودتون رانش کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Mapika/decider\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Mapika/decider\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T10:26:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "جدیدا حوصله اینو ندارم کسی بهم زنگ منگ بزنه میخوام توی بیو بنویسم:\u003cbr/\u003e\u003cbr/\u003eI’m not a function. don’t call me.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T12:42:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "از پرامپت تا پروداکشن؛ آماده‌ی ساختن باش. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eهجده ماه دسترسی به اکوسیستم گوگل برای کدنویسی، تحقیق و تولید محتوا:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003eدسترسی به Gemini • Antigravity • Flow • NotebookLM\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003eفعال‌سازی مستقیم روی حساب شخصی شما \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003eپنج ترابایت فضای Google Drive\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299A8.png\u0026#39;)\"\u003e\u003cb\u003e♨️\u003c/b\u003e\u003c/i\u003eپیشنهاد ویژه پکیج: اشتراک VPN یک ماهه نامحدود برای حل مشکل Flow\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003eنه فمیلی؛ نه اکانت اشتراکی؛ فقط حساب خودت.\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e قیمت پکیج در جشنواره: ۹۹۹ هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمشاوره و ثبت سفارش:\u003cbr/\u003e \u003ca href=\"https://t.me/AIPASS_Support\" target=\"_blank\"\u003e@AIPASS_Support\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/AI_PASS_IR\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eAI PASS | Your Pass to AI\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-19T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GjdRW6MP6tCKk6v-pFfeUTGHw-b2Tw98PMULY-CKH1QHI1yRBExvS4JrA6RECVXtkAnrDY01LUDRlissLrIByiPp4f9z_0MM9kkzjR_75iaQzb3rYNPm7WeO32CNUnycgoT3ctFJjz_OsM0XbIy3PB5eBakPCcMLKfncFVjbhFILMvOYfS-Om9NdEYQt8HSBAhklCOmFQOrJGrQnbTZZHY-4OShYsJrIsUy1udDNV69tEnZac6RCapXxu1wZYx3eY_hoB0ylotKWZ8MHoVDDOvduV5U8B3gH6VQnBaTa8gJzbUrErVEfSjZqtaYJXaDbRecvmiODPhWf4iIVOXKIQg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه با ترمینال داری برنامه می‌نویسی اینجارو از دست نده توش کلی انیمشین برای لودینک ترمینال هستش.\u003cbr/\u003e\u003cbr/\u003eنکته جالبش اینه که spinnerها stateless طراحی شدن و برنامتون رو کند نمی‌کنن. خود کتابخونه thread یا event loop جدا راه نمی‌ندازه؛ تو با tick مشخص می‌کنی انیمیشن کِی جلو بره. این باعث می‌شه خیلی راحت با event loop و معماری برنامه‌ت هماهنگش کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ratatui/ratatui-spinner\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ratatui/ratatui-spinner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-19T16:43:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +31,7 @@
       "date": "2026-09-19T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dfL7C3hFywjUGwv84ZXXrj9qdnFfzOjBCRIRjrt-eVP1iu_IZLR0nhEH-P4OadiU3wU3TXjQFn9rJS7_0BORACn5KJ9oJhrCpB2FWMQXRB4tEjO0u4v_EsmPzuzJO-cBtbE2G8mz0O57HFZAwvB6y60hCbtsMVKB-yX25SBSFin0JdIA8Z7LZz5vQk4GShJI7xm7-wYmDXjqC3X9qDNQA63MUTbZ7k3rxgQ_9vWlQ4DURcMUimoXtRKjDsyUBhxEkppw8KcmgYDg3tCVZeAmcSD-O43OSGh5Q_6CtpGKF5D-KJbIAlNQ_GP6EU9-U7dvrld7pSZXG99nCKKBwuhi0g",
+          "url": "https://cdn4.telesco.pe/file/r0OhfLxHAnKv_YOFnxwBdzhaeO4bB3RCgbekiJeYtv_YnRuNm89QhOj668jXkECD83pDHoYPHzT2BHnltl-x3hzeLOY5NGd0ke8RDwsOJZUJ4bx7rNWzmQkzA-5bYSH8vUI0hWGkin-fns_ufWhEF9l6UdHkgg20PIhHIU5e_WaZTO2orGezOK9Nr-S8J4xcfkVcohqJsetXyGbWO3Ktju6MKhX-tSShjR4gUSpKNe_gOogEgigZsVD2670dvCM5aizJCTyVRq_DTmloLsPQH0LaNQCMw21osbi55mGXtMahCq0VLPUbsQ5nC9HzoNf1C86C65VJloVbo3JmZqcgJA",
           "width": 720
         }
       ]
@@ -141,7 +50,7 @@
       "date": "2026-09-19T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 6850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +58,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WgFzZ3RNp6DEUXhpyzO7zFBJv42YsjdK4X3XbBjkbteNZdPZg0dNHobhdxkp4kRxin_avOhNKh_jke4_PljN-am70vXN9eVr3M9yqW9jlv_BKI1TX581i5ksK4VPLWu3MEA-3kz1JJGoi7tPZzJ25hkaJz04yt4GVL2Zox5BRKz84u1NBeLnfA08z9iOxwhRw3RGmmuVEj-sggMz2kTB6C1U8vCBGpfcXsdquPct4PYEcLo3LGsVesrLIY7F3-6rB0ualAiKaYEVCueaFeoJzNwVV0LlTnyeFMuWZxwy6pQM3Ok96uvjIv7si8lagrEVKjod5L9OX_gFe_oxtN2zgA",
+          "url": "https://cdn4.telesco.pe/file/u2b5w3HQ_25GIpb1GgOYrXMEBROtZ5pzev8mj7mNKaBFdDa8b4UioeduEYh8eukFltx0ue8_TT9y1e626VjN0H_ssnC6uGIELSK-S_sFaFu_UDU7a9eEZeQd_hnTZtPIh-8_qkEdZ0f3-l9tmM01Mz0Qwr_I_GSDw0VnSUUCCGOJJcfnOAiWGvWyyK3Dg1IxWFb2QI8sUxxcDBnkfsox4UmSDbLq1FEA85JtkJWYJFzgXjdu0lb95wyEGiyuBSl2cnj8ilU5NjkiP02qVNV-Q_GyimezEQONDuR3S7_cma7vkKBUsq8m3wPQsgh8ICtu_t7B8rxstOCnVPBoLZDhJw",
           "width": 1458
         }
       ]
@@ -160,7 +69,7 @@
       "date": "2026-09-19T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 5660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +77,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/b3ECE8D26phSemsuEESJrd03G6MOpeolG183t4qslnJSdo6ngGqxRtqaP1Q32nnJKXZG-iaGXSYQDNtZTkVKQQv8nmoEC3M_pSSGU4ZIUratvc5JzlrgJQe7sregOSlMa66rwJDFutaVtP8FsuKRPsD4tvf17gZSCLEg30ycLQFGkWXwZaBL27NPah_7EsiltqmmgKmIGm6GrJl_1GMjGjTPBB4_AsOF2F10G0RwMUi_flL_nzMUHygNV9V8qBdNalAwu9pQMgqN04bsqwhY27eRZY_C3MfJzIstfKTPuoO-nafW_fkOc3I5P_MF64dkiQq6MWQrByIWUamKlemVFw.jpg"
+          "url": "https://cdn1.telesco.pe/file/jmF3gtt35SkSk5FSHfogxWoKRqYKo1ULQf1sOm7URTas92239TseOhC2-s_tJz5WUw9078sTiu1qHY96UQqfAuc9JaiCC4T9VVvhPVWM6uxdsxQhBn5S_U_CC1HMgzezffjYtKACpJN1hfj2ged4HO34O8JcYIB0vOVbfTJs3hNRZLGW_YoAUk9cvVFxtP_hVWfQcTvnx7eASJnaOD8oUqMf8rrRwkz3XsZBRvGJCEk2xAeZDrTsN1R_MBPcN8jgLARn-eeYrcjtbzjxtMvWySkLjt7GbqBCG8nTcBFeV4bWiB9oHY9jy9yCZ2I3pwXr6WsLDWywWZHzWWH8PIdjjA.jpg"
         }
       ]
     },
@@ -178,7 +87,7 @@
       "date": "2026-09-19T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +95,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kqNzg0uD3b9LBPp15JBGEG-wUS377JOhyDF4g4uk24TDwb3_H5XmRhLZKIVRYM2fjlSewCsIxYO_Oyat2RjqAHzpvjfTsSp_-p4vv0jwXbT_z-Ddla6UBAM6Q1HLHbNd21xEcsG9h2j7xfPUD69Yq4dyosc0Ze49lFzXo1paIsafQnNDIdpbHjsHMsth8hvOUxugQ1AzTytdWY1b2RIAwG-WSaT3GB0-i9va3f4iqDE5C8sdqmejtE5pMVf09kzAKZv0nkKnMaS3vB6N66ddJKQIWQIiluF4RshCRWEZoU95CJnQyZ_5TFmFfDbROzfUdoiJ-5MebLZsUviYHAcPiA.jpg"
+          "url": "https://cdn4.telesco.pe/file/oVOCPZg2bCNnJXh-peFI6wwlJ_0GVGauC8G6KNcnBZKkLon0Qsj_mkcI0bXJjx_7GAp1D-zZ-GPHYwyTP0LCG_8bavlX-PizQTYrHKR1fKIsdWhjMcQZB7P-U0-URomuBj1E-I8df_Bk2GokHTt7jU2c_QcqA03V4pQ3gf1TSEOJW9ATux77IuUK2rnzcRGFsSlb1V7Yb0VyIFwtpQkJ4ILYFI565Uw3jI7F2YSR5Xt9mGtjz8-i0pxdjNtOwuY8ePKDLxi7YKb7wbUV-7UFD5KWK7SNYO2r8lWCOB_pLbGa6a9Lvs4r5POtRCUnQvrm_moMjxu6j3jOfneNdhei1g.jpg"
         }
       ]
     },
@@ -196,7 +105,7 @@
       "date": "2026-09-19T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7100,
+      "views": 7390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +113,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G1lomBP3pX1nVTOVIsmqyP99QL2KafKlF8qnOGneFu0SPpwgu2CPFfLv8Ea4cR_DUP7AQ8B3R2heIl30b0TnoLej4TaRumGIo-XQfeJ6baiWUU_V_NZ7WgDej2HWvJ-MARrHktesdReduKsxPSfI4FwUeg4kqkC4UkfGHoQVffMxzqp5TQSDPmsH8GsL-zFhy-EbfInEmKzl0osae15sbx2EB_pwtvn-Vyf-j_q14_kKrAyR-vGY2A5uGcvs7vzASrjRQtkgEgfKD_4YSuRGE3wQp0d7UuDcgmC7RMj070EsFVsuBfvizN4kJosEccQ_O51jckninlPGNjQeHgLz4g",
+          "url": "https://cdn4.telesco.pe/file/a9VaMPUNWV2eOayllbPHE81n4UyNI4vPi1YHBk9X5m0Qg-qB43zShfPQ9Pqy15zAI0NXJzoJCxzv6hlM0leETNXOpT1x_KhqIpwP35xBatwOK2VysXPsT-9wQA3X7ZJNWjLE-PGfVZokzP35__8X6uzzxdCD2l6rwtBNN_Sc4fsAUhMA6_3y9AsrRySH3ZP1Yvd58N_qZSE0WOVI16YHJTm6GhAuGoMBLzfd_3OTGBA1hl5YglXn_k4R6f8A6ZuGKGcYdW6iw3TdQ4tkTrG0cWj15I1dJwHaVXbXGqug35ZtDeAonSLlDLJQ6FSTCLqFH_ktoPpgWEQX34lVcBehKw",
           "width": 1426
         }
       ]
@@ -215,7 +124,7 @@
       "date": "2026-09-19T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7540,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +132,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E5fGDT1UVU-ldOvoNY4DwxG5MFKNrXvH_q8HJbexzIc0RW2tRgTy0O_YOySbh4_cTFbD1-CG8vv-MJRXP1fa4e13mr2IKnLkarDXwuNfmUKPZ48T4miQPOS50JSRovaw6hdYkaXTPndb7d7IY_a5PDIDq4CHRgMIcGh9S2JLvFhxUvhFQMDpf7SkhH0U86OLDEaThuk1HIFdBdinBkNTuPKdNR_hohmxptCLPpX3Rg2j-UtM2ATqdJMj4n6O0w9pii8-9ON14ewqNFa_1KVoVTcluzkT5PLLB7gOIe8KC3PIoGieqiw6fYKcBroJXI8byB3fd7ioTQnS3POOo1Xa5w",
+          "url": "https://cdn4.telesco.pe/file/HqFD9k0LI29st-u6dB9EXWTz_r1PdxgZE9q59IDBipsHFVSmBjw54n_9ycT2sn0-S9ubMEIEzluocOaPCic_jGOQ8Fz6Nbs-lKoQTqrCB_F8STUZlU2PUHHZXzDeNAQtoQVlAMk5IRUaAZluQCIXXYAsRkgtgSFivzhMrWyEXDVGc_KHbAX-Xb2sFksK7AOhQusSN57IQpqWBeVeBuH1E_NV5ZoFXTyIrM2hCslcDJMesb8Ov9tXSP1JUjzoDwXs2sjEgzaGKsCY3AXiHN7xS3BXb6lsFnCQbQIfTF8g63u3YUVO3795e7aIYyDhvRvo_rwz3_1EgWXXT3w7cLiMKw",
           "width": 1920
         }
       ]
@@ -234,7 +143,7 @@
       "date": "2026-09-19T21:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7310,
+      "views": 7700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +155,7 @@
       "date": "2026-09-20T10:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5810,
+      "views": 6650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +174,7 @@
       "date": "2026-09-20T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 5190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +193,7 @@
       "date": "2026-09-20T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3760,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +212,7 @@
       "date": "2026-09-20T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +230,7 @@
       "date": "2026-09-20T15:13:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3100,
+      "views": 5000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +248,7 @@
       "date": "2026-09-20T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 932,
+      "views": 4390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +259,113 @@
           "url": "https://cdn4.telesco.pe/file/MfcLHjIAJTZitGMlx4i3YQ-cJRvGwKdwoWHYnSkLWWhg-yCGI_P21PLCTBczkLbSFHrbzsNxHOQKl21YfwmzfM9QdzRx24dTewElc_6zJprteJWMVrEUavU53peyqUAXDEWh0J8SoAmXo31d14l3SesJA-rB2MOklrVHubhqw1vMY8ioVftbYE1uyNr5pdAKTTST0_w41U9pqyS2IM8rL2mhofHkiRZG91NolvuVWwqEumG0a7V4Nr2zQU3dkTo0eJYSW-YbK1jZEXt08KrKS0zeB2bUhQm7zA9AqLK4wslaqLYXDfy5aW1XkfZ6xigrFKv6Y46rOFuybaCmfhN1bg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "مشکل خیلی از هوش های مصنوعی این نیست که کدنویسی بلد نیستن؛ مشکل اینه که نمی‌دونن چطور باید یه فرایند توسعه نرم‌افزاری رو درست پیش ببرن.\u003cbr/\u003e\u003cbr/\u003eاین یه مجموعه‌ای از Skill و workflowهای آماده برای ایجینت های کدنویسیه. از Spec و Planning گرفته تا TDD، Code Review، API Design و Frontend Engineering.\u003cbr/\u003e\u003cbr/\u003eیعنی به‌جای اینکه هر بار به Agent بگی چطوری کار کن، یه workflow مشخص بهش میدی.\u003cbr/\u003e\u003cbr/\u003eبرای Claude Code، Codex، Cursor و کلی Coding Agent دیگه هم قابل استفاده‌ست.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://github.com/addyosmani/agent-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/addyosmani/agent-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-20T16:49:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/J_Uq0S-hQr7L0K0YbNhwWvk8Q4rLZkxDfe5CFyzW1VPUncivFHhghLE5syxoNCwaCtcASJVw9k3Nd0vCwRDJTjsr9uRm4-uGopwhgQq4KEOKIkwdbwkuEablfOlhfTSRH2-jedKs-bQgCj_uQZdkFHqlU9kMizoKOTfjnoQIH5yMLr3hTi3Gtdauw4aFjbHoGs7knxwNeABul4XKwYxzsovOB0qSGVvwaQTDcWDBUhBHTS-h16Y3QQhZZTVK31R7q7JcOnt1Uw5NBdWsOmCZo-hZXMnNX0PYOChtGx0ZvqtyVT_QCuzduL0gMImB-CHFxmRU7A5YSLtHYUpnZ526_g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مدل Jev که جدیدا معرفی شده و سرو صدای زیادی کرده سرعتش به قدری بالاست که کلی کار جالب می‌شه باهاش کرد، مردم شروع کردن و به صورت وایب کدینگ باهاش اپلیکیشن های جالبی می‌سازن:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-20T17:05:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/XGIZexylnDuwexniR1ilUDvgj9fFOlTcQ9JV3WfYJT1kuOB6Be_DSg6KbAbeyr3dKecH-_pk_9S82t71iDgddzpC-wEKjNyxNDk-KpDRUj7580S3ptEYFZ6sVNEj28mAqCxtP2F323Wf94kYPuhdjSuWWKB0ms2UutqxKkgbZ3O0px-TMytsBoG4bWFNsbBT6d4NOOnAfwnnhK8h-IZObpo6EzbvVtWqusihBqlznZ8aYpHutVVVVC9IoJzTXaqoc3tZVEHr_qSZMo45csA5QV38g4YlgJhKYVQcg9_Uk0pdnyTrZeJYL7xinU18-zIF6nJa75S6FlH_QIDkBfCO0Q",
+          "width": 3620
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "می‌تونی یک نسخه‌ی کاملاً مجازی از iPhone 17 Pro، iPad Pro، iPhone Air و Apple Watch رو به‌صورت لوکال اجرا کنی؛ اونم مستقیماً داخل مرورگر و با قابلیت اتصال به AI Agent.\u003cbr/\u003e\u003cbr/\u003e شبیه‌سازی با 60 فریم بر ثانیه + ژست‌های لمسی واقعی، بدون نیاز به App یا باز کردن پنجره‌ی Xcode\u003cbr/\u003eپشتیبانی از لمس چندانگشتی\u003cbr/\u003eداشتن Tap، Swipe، Pinch، Home و Lock واقعی\u003cbr/\u003eاجرای Headless و ساخت فارم چنددستگاهی از iOS 26\u003cbr/\u003eدسترسی به Accessibility Tree و مشاهده‌ی زنده‌ی os_log\u003cbr/\u003eامکان کنترل و لمس اپلیکیشن در حال اجرا توسط AI Agent\u003cbr/\u003eانتقال تصویر وب‌کم به دوربین شبیه‌ساز:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tddworks/baguette\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tddworks/baguette\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-20T17:30:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/jjventFW8s314eFrvCBrQm8dlVWzG2Mos1lr6ZJSyloTBWoZypN-PdMgxvaFh68HreCALAoW7EkrD5SwduGnap5WSilOOUUl_JbFnOD8JKj70RUC8lgDco70phn3TdzHyMbU0aT3UfjMLEYGS3LU1fiXxC70veLDDFYkAeT2W5ggkkUTm9CkQDrqnPF8OOEzxwYME9zc4eLJmL-cj2VVS3Q4f_rgbZfMGYZt71jYsSNDeg6peveYbK6DiYJXGNJL1I9h3YaaInSSYaMpAhK7-u2wKsdXFpDvN4GPnHerFDTzYibqGtAMynDEOKRgPbIKELNDoFDDOHoYqajZ2qECQA",
+          "width": 1922
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5215557810359639942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آخرین فرصت ثبت‌نام در مسیر پایتون جنگو مسابقه المپیک فناوری.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321153068845245772\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  توی مسابقه فرانت‌اند، می‌تونی خودت رو محک بزنی و برای کسب \u003cb\u003e۲۰۰ میلیون تومان جایزه نقدی\u003c/b\u003e رقابت کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5343998927605615404\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد از ثبت‌نام، \u003cb\u003e۱ ساعت آموزش تخصصی رایگان\u003c/b\u003e هم در اختیارت قرار می‌گیره تا با آمادگی بیشتری وارد رقابت بشی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه مقدماتی آنلاین همین آخر هفته برگزار می‌شه؛ پس فرصت رو از دست نده!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eثبت‌نام در این مسابقات کاملا رایگانه\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6043992250831082249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشاهده اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5292122921035133343\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AB9.png\u0026#39;)\"\u003e\u003cb\u003e🚹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://quera.org/r/2jk0o\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/2jk0o\u003c/a\u003e",
+      "date": "2026-09-20T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه چیزی که مدت‌ها دلم می‌خواست وجود داشته باشه رو بالاخره ساختم: وایب فارسی UI، یه UI library برای ساختن وب‌سایت و وب‌اپ فارسی، مخصوصاً برای vibe coding و راستچین تمیز، کامپوننت‌های فارسی، تاریخ شمسی، OTP، شبا، فرم‌ها، انیمیشن، WebGL و کلی چیز دیگه.\u003cbr/\u003e\u003cbr/\u003eولی هدف اصلی اینه که وقتی به Cursor یا هر ایجنتی می‌گی:\u003cbr/\u003e\u003cbr/\u003eیه فروشگاه برای فروش قاب موبایل با وایب فارسی  برام بساز لازم نباشه بعدش نیم ساعت با RTL و فونت و تقویم و فرم و هزار تا چیز دیگه بجنگی. رایگان و متن‌بازه. امشب منتشرش کردم.\u003cbr/\u003e59 کامپوننت 8 بلاک 32 پس‌زمینه 24 قالب 6 سیستم طراحی\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://vibefarsi.ir/\" target=\"_blank\" rel=\"noopener\"\u003evibefarsi.ir\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003ca href=\"http://github.com/TronIsHere/vibafarsiui\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/TronIsHere/vibafarsiui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Erwinamm",
+      "date": "2026-09-20T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oKkUsOt4A_HXgYUA2F46_8XuMNA4T5otVML57HB7GdQFr9w9EaPbNUT88CrdTlIB8fu9mF8hNPNzYRiDFKSweyJJSdt2ybI3yi-S9tdzLZlVCLIq87ivRz2dzM9GousEr4GpoWZmqmOvg_rBhmhl5yWkPzGw_nbWnCLUKjGvy--GWlcrrSDDd87mzZUBbMWGmzBtWAtWhJAGR8687KIl3wwTBUMlcb6Y7Yi_N_zAzc3ROUOnUBiWunlKAtlydpI3rAi1F3YSmIFcRnu86MrZRtMpy9u-nzLX7bROBxfQsYhju1ao5xcV0wy8hQgM1xPw-OO6mrZDop5VNgZMKZZ3uw",
+          "width": 1196
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکی دیگه از موانع رسیدن ب AGI برداشته شد، \u003cbr/\u003e\u003cbr/\u003eحالا با جِو Jev میشه تصمیمات بسیار سریع و دقیقی گرفت درحالی ک بشدت مقرون بصرفه و ارزون هست ورودیش و خروجیش تقریبا صفره. تقریبا ک نه! عملا صفره. \u003cbr/\u003e\u003cbr/\u003eببینید چطور همزمان 50 تا Subway Surfer رو بازی میکنه. شاهکاره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ 0xKaveh",
+      "date": "2026-09-20T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/eDVlT9JoaFbtP0n4ExpdYLg1lEPNb90O78Ts8KBF90LMeO7YI07rHA6-XEMZM_xXkdCc6IjIjzJbGJEfGxEK-gF3g-zV0GJjBDSN5qQZI6aY5wIQo0wbunrj6dh0pW_6wDUvGakNrer22bgkObnjfKydUeYJNfNDPkxj2Z7UKMlI7KrTZ1TG3rHoKUDdM7vVrvK81PkGePoTglh3L-oB0bmrxNC7CK6zx_G5X18DG4b4aw6rK3gy1xT6ecsL-5axRwI6nVGpsdeNuXRE3zSwfHpbQlhLzefg8j-ygU1pLoeoa05JxUy4gjqmRhtzPr4oVC6m59U3WFKLt2WpZ5_n2Q",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1789922281
+  "last_updated": 1789931480
 }
