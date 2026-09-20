@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه با ترمینال داری برنامه می‌نویسی اینجارو از دست نده توش کلی انیمشین برای لودینک ترمینال هستش.\u003cbr/\u003e\u003cbr/\u003eنکته جالبش اینه که spinnerها stateless طراحی شدن و برنامتون رو کند نمی‌کنن. خود کتابخونه thread یا event loop جدا راه نمی‌ندازه؛ تو با tick مشخص می‌کنی انیمیشن کِی جلو بره. این باعث می‌شه خیلی راحت با event loop و معماری برنامه‌ت هماهنگش کنی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/ratatui/ratatui-spinner\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/ratatui/ratatui-spinner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T16:43:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jnhYFMoOw4uOaj_ALjXLuVj5x6RtnKHkjecPlqTsvqh4WwZc-WMyUdBYgXkgG-UElhPkpy1QZaBAKLK5V4yzRhcL41vmncfNfeSEb9wsJ8MIyQvgSvZSi3jANef72R_RoPbIo7A468fyymX78b41PQsQuGBzo52GHIlV_GtdcvrDkhnM2JHKNnYjOBueGzznq-jxw6RIO4YfkRbw6OOpB9p2vX4pyh_wqoaSKH6mCrSnRDHY1FFMkjsdiMuWRtY4kDsdRYRtwr-Q-4ieZdS2Ps8Q3oI1i0Bn6orsikZ2k5IWRZfU9-JsBIwtkD-Z1P_Ik5pymWiOJoM4_wSdMIWhtg",
-          "width": 890
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدیر فنی: نمیدونم چرا شبکه شرکت همیشه قطعه؟\u003cbr/\u003e\u003cbr/\u003e+ ادمین های شبکه همون لحظه :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T16:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/r0OhfLxHAnKv_YOFnxwBdzhaeO4bB3RCgbekiJeYtv_YnRuNm89QhOj668jXkECD83pDHoYPHzT2BHnltl-x3hzeLOY5NGd0ke8RDwsOJZUJ4bx7rNWzmQkzA-5bYSH8vUI0hWGkin-fns_ufWhEF9l6UdHkgg20PIhHIU5e_WaZTO2orGezOK9Nr-S8J4xcfkVcohqJsetXyGbWO3Ktju6MKhX-tSShjR4gUSpKNe_gOogEgigZsVD2670dvCM5aizJCTyVRq_DTmloLsPQH0LaNQCMw21osbi55mGXtMahCq0VLPUbsQ5nC9HzoNf1C86C65VJloVbo3JmZqcgJA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "می‌دونید تفاوت Jev با LLM‌های عادی چیه؟ تفاوت اصلی اینه که Jev اصلاً برای تولید متن ساخته نشده. یه LLM معمولی وقتی ورودی می‌گیره، جواب رو به‌صورت توکن‌به‌توکن تولید می‌کنه؛ اما Jev به‌جای تولید پاسخ، روی اطلاعات ورودی مجموعه‌ای از تصمیم‌های مشخص و از قبل تعریف‌شده رو ارزیابی می‌کنه و نتیجه رو به شکل ساختاریافته تحویل می‌ده.\u003cbr/\u003e\u003cbr/\u003eمثلاً فرض کنید یه سیستم باید تشخیص بده یک تیکت باید به کدوم تیم بره، میزان ریسک یک درخواست چقدره و آیا یک شرط مشخص برقرار هست یا نه. توی Jev می‌تونید این سؤال‌ها رو از قبل تعریف کنین و مدل همزمان اون‌ها رو روی یه Context مشترک بررسی کنه. برای همین، وقتی تصمیم‌ها مستقل از هم باشن، می‌تونن به‌صورت موازی ارزیابی بشن و خروجی هم مستقیماً قابل استفاده توسط کد هستش.\u003cbr/\u003e\u003cbr/\u003eبرای این کار 3 نوع تصمیم اصلی داره: Choice برای انتخاب یک گزینه از بین چند گزینه مشخص، Score برای قرار دادن ورودی روی یک مقیاس مرتب‌شده مثل Low تا High، و Noul برای بررسی یک سؤال بله/خیر و برگردوندن احتمال درست بودن جواب. نکته جالب اینجاست که Jev فقط جواب نهایی نمی‌ده و احتمال گزینه‌ها رو هم برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-19T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +31,7 @@
       "date": "2026-09-19T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 5770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +49,7 @@
       "date": "2026-09-19T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +67,7 @@
       "date": "2026-09-19T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 7530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +86,7 @@
       "date": "2026-09-19T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 7990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +105,7 @@
       "date": "2026-09-19T21:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 7880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +117,7 @@
       "date": "2026-09-20T10:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +136,7 @@
       "date": "2026-09-20T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +155,7 @@
       "date": "2026-09-20T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +174,7 @@
       "date": "2026-09-20T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 5610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +192,7 @@
       "date": "2026-09-20T15:13:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +210,7 @@
       "date": "2026-09-20T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4390,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +228,7 @@
       "date": "2026-09-20T16:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +246,7 @@
       "date": "2026-09-20T17:05:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3890,
+      "views": 4860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +265,7 @@
       "date": "2026-09-20T17:30:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3430,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +284,7 @@
       "date": "2026-09-20T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 3990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +296,7 @@
       "date": "2026-09-20T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1830,
+      "views": 4019,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -353,7 +315,7 @@
       "date": "2026-09-20T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 4010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -365,7 +327,37 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان این مقاله کوتاه رو بخونید برای آموزش کار کردن با مدل Jev هستش که جدیدا خیلی معروف شده و اساساً برای تولید متن ساخته نشده؛ برای تصمیم‌گیری سریع، ساختاریافته و احتمالی داخل نرم‌افزار ساخته شده.\u003cbr/\u003e\u003cbr/\u003eایده‌ی اصلی Jev اینه:\u003cbr/\u003e\u003cbr/\u003eبه‌جای اینکه از یه LLM بزرگ بخوای متن تولید کنه و بعد خودت از توی اون متن بفهمی جواب چی بوده، سؤال مشخصی بهش میدی و اون مستقیماً یه مقدار typed مثل yes/no، یک گزینه، یا یک امتیاز برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003eمثلاً بهش میگی:\u003cbr/\u003e\u003cbr/\u003eاین تیکت مربوط به کدوم تیمه؟ ← billing\u003cbr/\u003eکاربر عصبانیه؟ ← 0.82\u003cbr/\u003eاین درخواست فوریه؟ ← 0.91\u003cbr/\u003eشدت مشکل چقدره؟ ← 2.4\u003cbr/\u003e\u003cbr/\u003eتوی مقاله با مثال نحوه استفاده Jev رو گفته و توضیح می‌ده چطور میشه چند تصمیم رو به‌صورت همزمان گرفت، confidence داشت و کارهای ساده رو قبل از فرستادن درخواست به مدل‌های بزرگ‌تر انجام داد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e\" target=\"_blank\" rel=\"noopener\"\u003edev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-20T19:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/M_wo9sjP2ScegeUWocnXoDh5cFj0iNoQNlanlhi7Nkjd7gC_2kSNCkJG4-eUQrgp4Y2-EWmFFP8_BA9bja23G9s9FDxJBQPBc0kvE28afAqXCGnO72PkHDFcQgfElAnpTMc4xtHXGgL7HvaEXXfadcO-3aYIur53HP8MAcQChM0Keru0gUXBpN-Ku7zBTb436sXU-AwwquQUfu1LjCHEjraQdWc3wsmicuBlMEWOjzCeNJ4NINU9NBCFRJd7FwurNe5_V5hEhGsUGd55i-kztpeWD0TtVa7VrsyrzmbtNY0CVhjGRSTpvJaZf-Dgm8ePbwnW9nKSF03Yv5PgnB8OYA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من اگه این مگسه بیفته دستم روش یه برنامه مینویسم بره بقیه مگسای مزاحم رو بکشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-20T19:43:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1789931480
+  "last_updated": 1789940517
 }
