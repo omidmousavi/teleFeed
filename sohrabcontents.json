@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003eنیکولو\u003c/b\u003e ونراندی (نیکو)، از توسعه‌دهندگان شناخته‌شده‌ی جامعه‌ی کی‌دی‌ای، به‌تازگی از پروژه‌ای جاه‌طلبانه به نام Plasma Studio رونمایی کرده است. این ابزار تلاشی برای پایان دادن به پراکندگی ورک‌فلوهای چندرسانه‌ای در لینوکس است؛ جایی که کاربر دیگر مجبور نباشد برای تدوین ویدیو به Kdenlive، برای طراحی برداری به Inkscape، برای ویرایش تصاویر خام به Darktable و برای اصلاح صدا به Audacity سوییچ کند، بلکه تمام این فرآیندها را درون یک محیط منسجم، با رابط کاربری و میانبرهای کاملاً هماهنگ مدیریت کند.\u003cbr/\u003e\u003cbr/\u003eمعماری این برنامه بر پایه کتابخانه‌ای ماژولار به نام libstudio شکل گرفته که کاملاً با QML و استانداردهای کی‌دی‌ای پیاده‌سازی شده است. در پلاسما استودیو همه‌چیز در قالب گره‌ها یا «نودها» تعریف می‌شود و کاربر می‌تواند به سه شیوه به ویرایش بپردازد: نمای گرافی نودها مشابه نرم‌افزارهای پیشرفته کامپوزیتینگ، نمای بصری تعاملی همراه با تایم‌لاین، و یک زبانه کد که در آن می‌توان مستقیماً کدهای QML را دستکاری کرد و نتیجه را به‌صورت آنی روی پیش‌نمایش دید. جالب اینجاست که فایل پروژه دقیقاً یک فایل استاندارد QML است؛ بنابراین خروجی طراحی‌ها یا انیمیشن‌ها را می‌توان به‌راحتی در سایر اپلیکیشن‌های کی‌دی‌ای و پلاسما نیز فراخوانی کرد.\u003cbr/\u003e\u003cbr/\u003eاز بعد کارایی، پردازش‌ها در پس‌زمینه با تکیه بر FFmpeg و شتاب‌دهنده کامل سخت‌افزاری انجام می‌شوند، به‌طوری که امکان ویرایش روان ویدیوهای پرحجم حتی روی گرافیک‌های مجتمع اینتل فراهم شده است. این ابزار مجموعه‌ای متنوع از ابزارهای اصلاح رنگ با اسکوپ‌های زنده، ویرایشگر مسیرهای برداری، خط‌کش‌ها و سیستم انیمیشن پیشرفته با تایم‌لاین کی‌فریم، ادیتور صوت مجهز به طیف‌نگار، تولید خودکار زیرنویس با هوش مصنوعی و پیاده‌سازی صحنه‌های سه‌بعدی سبک بر بستر Qt Quick 3D را پوشش می‌دهد.\u003cbr/\u003e\u003cbr/\u003eپروژه در حال حاضر در فاز آلفای اولیه قرار دارد و برخی قابلیت‌ها مانند ساختار دقیق لاین‌های تایم‌لاین یا ایزوله‌سازی امنیتی کدهای QML همچنان در دست تکمیل و بازنگری هستند. با این حال، استفاده خلاقانه از پتانسیل‌های Qt و چارچوب‌های پلاسما در این پروژه، افق بسیار جذابی را برای آینده نرم‌افزارهای چندرسانه‌ای در دنیای متن‌باز ترسیم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتماشای ویدیوی معرفی کامل:\u003cbr/\u003e\u003ca href=\"https://www.google.com/search?q=https://youtu.be/fFAO3b0AeZ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://youtu.be/fFAO3b0AeZ0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/KDE_fa\" target=\"_blank\"\u003e@KDE_fa\u003c/a\u003e | \u003ca href=\"https://t.me/KDEFarsi\" target=\"_blank\"\u003e@KDEFarsi\u003c/a\u003e",
-      "date": "2026-09-11T16:32:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 934,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "این رو من یادمه از گنوم ۲ به ۳ حذف کردن که بعد از چندین سال توی ۴۸ بیارن ولی تا ۵۱ طول کشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-12T12:39:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 959,
+      "views": 963,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +30,7 @@
       "date": "2026-09-12T13:18:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1500,
+      "views": 1510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +42,7 @@
       "date": "2026-09-13T04:47:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 1460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +54,7 @@
       "date": "2026-09-13T06:51:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +62,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JLwMfKwFTs5trzPhdQ8at-7VgmkFRS_77dp2Hn9sguBnDP97Orp0ZqalfY0WSfOIlt1yLiILUZ3wcN1aDHaGVC8RnZF9bBt4jseLEJY4B-d-wD2bs611JJMVGeVTwTtRGw_qkAC271q1A9fBbJGK2_v1i3FUCNNGC_8-XNRUC5MLJV6T56LGfJCrYreWghMmF2BR25YHaFkxuvWO9pachNP4B70ffXgeCrZ8GIM_h9Mq8OGcOvcCHnVW9lUecMeIPtCBq5XvpASZbiofPrHNAUXhhf1-FkGV7B4QrAKBLGnESXFH0iF7P57cKixhbhdAo1iuhvnX8uLjCqCjXLSwoQ",
+          "url": "https://cdn4.telesco.pe/file/Z_kgVUdbFEZj8Q5vJY4Baj_5UDdtzzZJfLRf5NcB_nOwTbn9VyYa4QyM1BHwy1nEeQVzo72FPM319yYWFuJ3BNSPyd24BZhaSd52eXUY6QQoIFV6J5zvb3mvyMyuBycJFUjYCKvE8pApFAGW4tNfuyqF6R7B_pxsCUOt7zMKnRaEpimN3XB0jzLaetlIUryYUoVj8_UUVCQehII-Nzt_L8QyY-N5dqvcYfkgPZLiycU5Sj3SOFUuRB_eqPaAUZthDnMAQR9Xhs-m8zAqWkRkTsih3bNUNCWblJwK4wXPTY-49L-uQ7B7VClKFT5MLKYajA8ojjq02bNBF_skduLhfQ",
           "width": 1920
         }
       ]
@@ -97,7 +85,7 @@
       "date": "2026-09-14T05:27:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jMGnft0mmGXX3mj_FwpLuRdnQ3Urk5RhrZ8GduO_18_c3y5ZpfPkKeeJ8QlajAYitoBV_yQe25CejQqL6PPXUjkbV1tsxHaS0Tq2IQ4Z6ARbcTF2WJlHcXwAHuou7J77Z9PbFE1LZ6xf7G6Qs3oYGAo8TBiiboUpYtEVxRQ_AlJlPeeWtW_bcK6zaMPCSAJCnzE13dRRkBWQKc263Wz0MB4kVbqAV_EiGlMhLlk6-GdDdXQxsHNVV2ILIVGwLiS7A78pYDaYTjVkRSvAiHvdc2ecYNP35O8T0FLIZaoHp37-CugnWK4TIxp-yOyfWcj75m58ZQ-jHhG-UZozppBePg.jpg"
+          "url": "https://cdn4.telesco.pe/file/ApKE70lvRBX5EyJTrXiCtNq_raqPSvPap8ZCfYVb4GhYbXCSKzzBYucBEn8beQvFXHwssTDTPVSire70Pweit54lICXUHN_yjC2Ww5YqGb6kprllf01TTkJwq541BvV-mB0DU3M7GCAAOAp-mi_SfaeaE37MJLIs8Sid2Zt3YPeGj9pik2w1zSR9MJU5aehDD6POOg_UbLIvyBbT35vUvw_PX-Zn-SBu0cRF1jJek4PRhYIAb1HUbG-mXjCIA_SxV9D2ofF-o_g74K1kUAIzmgPzVwRoDWeXXfpHjSdM6DdMglGBJYt6EV5K3QIK8D5vfTDZeDA4JmZo7C0Ta8KwWQ.jpg"
         }
       ]
     },
@@ -115,7 +103,7 @@
       "date": "2026-09-14T08:04:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +115,7 @@
       "date": "2026-09-15T11:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 906,
+      "views": 918,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-09-16T05:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 770,
+      "views": 784,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,11 +135,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OaOIGlYHlIno1zTLwgDoORLFsRl6dx-MbZDUbcaW3RJbqI_V9PNXjqlmE9FruRPJGBDyZbukJES-3caxr2p9A61O6INyMq1l3Ic7QtVeym0xRRUf0Ux9Btx32px9qsOUBU_Qx7eaDBR6eSG5PP1Rn0rgpUwFobhNfV_jviBQopN2XpHYK5w5oakSpFKESmIo24wR77ouARKRezAm4B9Yc2SmXsASSNLBkaq0xJy9iL9VChOm0AAQffi3LSduWV4aZXkHYV4v1gIgW0AEpLmZju7ALUHZIXnAf8gPpT1LF4tRYziNpgLmjaB12xszZ_T_8kGPouecPOQLTgYI2KTrow.jpg"
+          "url": "https://cdn4.telesco.pe/file/qznRAGeHkucNSClm1kB-K_rXB7MESJMiBIAOoS9PKNWIj3lBXtE4rc391dvcNyVn23RI7JDwJaMVVf12aMKb-qZr-CK0OT7ZnTnjcgezrLgOddSuao9l3Nm8J42teN6OBHSweKz13t5sCX6pTq1GttReBnp_fbxr48jsLmYz1hZUk_79wqEXNIZspMuIBD7208JyNYOVFIx6GSjvVFiqD5UZyafXsce_BxBLygP_flDCtS9gEkhjmowwH0DGFdI5temsoUYi0FFg0Ue6YmGf2Eeq3K0YboBvSIv9GMLyYJWmHB42EvcNrGB0WFn4ZeqcaRsHOS5aLm3p9lJvB5hZHQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TdrlATgjKPeglI0Cyn8uJtw7oHxQF1Y-jglONjfOdUiLaDn_ia18fkQscpuyQ_9O1QgEYEUWoixhC3WtF2rsxhK9YZwv5WIsbfdOl8dCwWIMDHVdrTURW2Afwes3j5PPe5rjqGxEtcrMJb73fRZVY6pN539h_saI1pnYqegGv5ToCLKDljQzr2jeLsxVyZbHUN5KWsw_caGZCfxxJYfqGheYOctJyr1PrLWlczRgA0Kvo6aAZ-c4jGkjWsdTGi1Mk5qDlfng7LxAhceaC58ohkV0U_IFKny5gmzo2DLNo0AfUMLJglfrq-z-5QJHcBZd1ExhDgXEqq1_2YB-o5KtZA.jpg"
+          "url": "https://cdn4.telesco.pe/file/e3Y9yFxiV_nvN47iZBJdbzde6QLfWFdaTZvgawCEYlUtdXrn4_1W700zivvrIyKnsSrSDxOpPH09wdBi1ybpghS0DPK8ZLcRG3SbQs6h-5etXLxX_i1TJ4iyHcZEbqs-ufKze8G7P_vZXEIInLm0j1tKbinBYBBLQcBPx4kjyetEw1JTNggyC_F5MJmvYmVJDUZDp0ezxw0ansUeBqe2KaBgXMZyVS9NtYF5BhEGiKNNJFjNbGO2aAlHebeMVA5SFoQo7yV1h8D4OZXF-K7L5eZKqsEAWa2s0mw56Nn5oUe9eqFAxL3S3Y55SbA6J_QcUGMQgCgFzIOGi2wcrqCNPQ.jpg"
         }
       ]
     },
@@ -161,7 +149,7 @@
       "date": "2026-09-17T20:03:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
+      "views": 809,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +167,7 @@
       "date": "2026-09-17T20:09:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 806,
+      "views": 822,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +179,7 @@
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 760,
+      "views": 778,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +197,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 730,
+      "views": 749,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +215,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 690,
+      "views": 718,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +227,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2900,
+      "views": 3120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +239,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 356,
+      "views": 399,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +257,7 @@
       "date": "2026-09-19T18:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 398,
+      "views": 512,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +268,25 @@
           "url": "https://cdn4.telesco.pe/file/Nk86vQ0NFrElZsqfTCggYzLc24q3H_Pci3_804bYkmdyyBWDFZy2oGhcKGv31xOolqluc4snJCQVMfBqYMvw8DZ_QrR4UIEMwFqczT7sa3Q2BRLWw4yclf9-MiYHSD9dOYGmZxbNCc1vt6vfcA7ixs722g8HfLilvqEewfA9o3THRKNhFAo4Q0WIrnK6kFU6vf2Axe5wNoBSZInQUgZHoKca05ZYgFQO65jIrjPE3ux5zkvYc2DciHsSMy1FVm7dfLAJ0-yums_qR1YF_yCjvHSRrKs26PATzEmnNXzaVdMuglir6VnZ6ZhPq14popr-WJ45hLfz5S9lYztQoZhgcw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چطور رم بیشتری دانلود کنیم؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر این پست آموزش استفاده از Parch Zram و فناوری فشرده‌سازی حافظه در رم، بدون نیاز به سخت‌افزار اضافه، عملکرد سیستم خود را در برابر کمبود حافظه توضیح داده شده.\u003cbr/\u003e\u003cbr/\u003eجزئیات نصب و پیکربندی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parchlinux.com/fa/blog/download-more-ram\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parchlinux.com/fa/blog/download-more-ram\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-20T06:53:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 185,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aKuWNB-Wg77-1w3P7Z8ysZTDwBM5PiNogaEdP7zGBhsdSi_UhNZ3SXoMlqvJeFdUIQp-TRdsN_tWPjK0I97xEuybcBR-LUU9sZochLXqtJCpG1ZDLEAmdV6e39B-p1T3WC47hno3vXFWegfkw2gupjEXxAGjKZXbZfST1yrl0nJX3zswD06dFSdTKpzIrn6yfjgl1-N4vhPfwAwoXiPcgiYZLWviKDt_9tawQ0PCDj6C4LhQX5lm8mLUAUwh7t7ZvZnJC8GEJ-b8CHfLHATcVO1qSaTpZh_6K2mtq8FORitbwENuU2IuvmLzsX2rU_eK9_n30GjyGGERLRM8Cz7YWA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789870890
+  "last_updated": 1789890676
 }
