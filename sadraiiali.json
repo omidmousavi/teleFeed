@@ -3,40 +3,16 @@
     "id": 0,
     "title": "AliReza SadraiiRad",
     "username": "sadraiiali",
-    "photo_url": "https://cdn4.telesco.pe/file/rWxDX2b4ICukQLr7iXUeB8b8_Ck_xPTJHdXGg4kIwkOsJ32XJCygzurBiQKWasL2ueSSw4WIpVzxJJNs_KIGRmLIXlbHrVufYMzM-h1Mmdz43FlmZBW-hsrIBqosoDeZ-IYHbGsPosxH8JkahpJRMiAjT7QNzYrOOz1OcBaKSohOibFEmdBGmr8pCKwLjuKuNwYWUR3kmHJgcaSGNaQebsG2SwoJDsCHr6gHOjmYKtw4GJkSPG8ykPmlz-n7Kp6j5oSBZNxyRKDs3LRVwFV3O9_0tv7Gv6QH763X2tT-wje_8qz4yTq1mjIX4Px_VHdbfk-n3NXn96WaSAppsIJZKw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Ke4qhVMlYMcqXNRKKyx20vgy6cHjljLO0CuZt9McuyqPZs2J41x4c8CFkd8sq3T1R7cDkQR2gmWDNVjAJoQCqeMZGiLf5siUIqcIMo-AhoKcZSUTjhvWMxrgqmxNgMfGcJgCrYwyke2XRWz_xWTBfXGyFw6OYQCPpXhc40SkIrooA8d6BWPSYRZ1HlnK8n76RzATIv2MG7jZP33zDkKAnO1aYLT2Gk2wl6RJ8IR0ehq_QkTqrcahfHiu-uYEi3CuBd1pHOxH00NcJKCSqJU4JE29d528Ktrdwc9950QhZmbqrzXiEa8LfgXCnwLjDLz1izGbuU1gkPy1kO0D-ksWrw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003eActively exploited sandbox RCE in all Chromium versions\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eArticle\u003c/a\u003e, \u003ca href=\"https://news.ycombinator.com/item?id=49570669\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eComments\u003c/a\u003e",
-      "date": "2026-09-04T22:28:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 263,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
-    {
-      "id": 0,
-      "message": "۲ روز پیش اپدیت کروم اومده که حل میکنه \u003cbr/\u003eلطفا اپدیت کنین کرومتون رو\u003cbr/\u003eاین باگ واقعا استفاده شده به گفته‌ی گوگل",
-      "date": "2026-09-04T22:36:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 251,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad"
-    },
     {
       "id": 0,
       "message": "بد ترین اتفاق ممکن داره میوفته\u003cbr/\u003e\u003cbr/\u003eامریکا اومد دولت و بانک های ایرانو تحریم کرد دیگ بهشون سرتیفیکیت  https نداد، این همون چیزی بود که باعث میشد مرورگرتون وقتی وارد درگاه شاپرک میشدین بهتون سایت شاپرک رو تایید شده نشون بده\u003cbr/\u003e\u003cbr/\u003eحالا این شد یه بهونه برای دولت که بخواد سرتیفیکیت خودشو بهتون بده!!\u003cbr/\u003e\u003cbr/\u003eامیدوارم هیچوقت این اتفاق نیوفته ولی اگه بیوفته یکی از بد ترین اتفاق ها هست!!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمیپرسین چرا؟! \u003cbr/\u003eببینین برای این که یه سایت تایید شده نشون داده بشه توی مرورگرتون باید یه زنجیره‌ی تایید شکل بگیره \u003cbr/\u003e\u003cbr/\u003eیعنی شما سرتیفیکتتون رو از یه جا میگیرین بعد اونجا رو یه جا دیگ تایید کرده تا … برسه به این چندتا :\u003cbr/\u003eماکروسافت، اپل، گوگل، اندروید، جاوا، موزیلا\u003cbr/\u003e\u003cbr/\u003eاین شرکتای امریکایی تایید میکنن که کدوم شرکتای اصلی تایید کننده سرتیفیکیت میتونن تایید شده باشن! \u003cbr/\u003e\u003cbr/\u003eکه میشه :\u003cbr/\u003e\u003cbr/\u003e• \u003ca href=\"https://www.digicert.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDigiCert\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://letsencrypt.org/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eLet’s Encrypt\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.sectigo.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSectigo\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.globalsign.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGlobalSign\u003c/a\u003e — بلژیک / ژاپن\u003cbr/\u003e• \u003ca href=\"https://www.godaddy.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGoDaddy\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.amazontrust.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAmazon Trust Services\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://pki.goog/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGoogle Trust Services\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.entrust.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eEntrust\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.ssl.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSSL.com\u003c/a\u003e — آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.actalis.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eActalis\u003c/a\u003e — ایتالیا\u003cbr/\u003e• \u003ca href=\"https://www.certum.eu/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eCertum\u003c/a\u003e — لهستان\u003cbr/\u003e• \u003ca href=\"https://www.swisssign.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSwissSign\u003c/a\u003e — سوئیس\u003cbr/\u003e• \u003ca href=\"https://www.quovadisglobal.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eQuoVadis\u003c/a\u003e — برمودا / آمریکا\u003cbr/\u003e• \u003ca href=\"https://www.trustasia.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTrustAsia\u003c/a\u003e — چین\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینا بعد سایت های میانی یا سایت شمارو مستقیما تایید میکنن\u003cbr/\u003e\u003cbr/\u003eبرای این بهتر متوجه شین اپل خودش مال خودشو امضا میکنه ولی مال شرکت اپل رو در نهایت دیجی سرت تایید میکنه! \u003cbr/\u003e\u003cbr/\u003eیا گوگل در نهایت به شرکت گلوبال ساین میرسه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا اکثر اینا یا امریکایین یا ربطی به امریکا دارن \u003cbr/\u003eدر نهایت تحریم های امریکا روشون اثر میزاره! \u003cbr/\u003e\u003cbr/\u003eو خوب الان دیگ امریکا اجازه نمیده برای این سایت ها سرتیفیکیت صادر بشه!\u003cbr/\u003e\u003cbr/\u003eحالا چرا این فاجعست؟ چون ممکنه دولت به بهونه‌ی این بیاد و سرتیفیکیت خودشو بهمون بده که تو سیستمامون نصب کنیم!!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاگه ما خر بشیم و نصب کنیم فاجعه اصلی پیش میاد! یعنی دولت میتونه همه پیامارو بخونه همه بسته ها رو عوض کنه همه کامپیوتر ها رو هک کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اره همینقدر اخر الزمانی ! به نظرتون ج.ا از این فرصت استفاده نمیکنه؟\u003cbr/\u003e\u003cbr/\u003eخواهیم دید چه خواهد شد!\u003cbr/\u003eهر چیزی شد سرتیفیکیت لامصبشونو نصب نکنین!\u003cbr/\u003eنتیجش وحشتناک خواهد بود",
       "date": "2026-09-06T09:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 363,
+      "views": 366,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-09-06T09:18:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 372,
+      "views": 374,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-09-07T07:58:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 304,
+      "views": 305,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +48,7 @@
       "date": "2026-09-09T15:16:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 267,
+      "views": 268,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-09-10T08:00:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 257,
+      "views": 260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R_YqPCNHsVIpy507NOqqQL-iD2msX6YfIhDAuJZeMu3A1bbvhaki1cnlWVrqmXVh8HP5ogou8J_tCBZ2sEEMvPb6pAXpBnoSYdr_rMhmurOQkWb3DKfnYw2pqJP-mnV8iMB-Gmy-LXrj0icR_hN5G8JzsiX1qKbO5Ug0wJ6Wh3O3nkAHc_rR-OAMHuKT5kZ-ab3ewWO1NNHw6DktJRxazg1SgB8cLLglQd5rcPItr-ohEMS-59-aIn2gaSK6jZ3Fl0lnypuAvZRGzViiBAGwhWy9QuvHf9zzz830OWGkLuVbRWx8Rza4rpg3Cj4u8pwN6h0U4mJoEBCy7rjTUpsZgw.jpg"
+          "url": "https://cdn4.telesco.pe/file/jCcC8osfKZhe_X32rY_6QV7UYrMCnCRu1YYRMNF7wbHV280m3ag-3GGO5TwZKB1peciuDJCo3yNOjvdSBRNs6xr-KqZuiPDRGAT1ZdfJ6CKxpFXY3Dzb2dpcE94YqcUCrk2w11CwZWX-aQsl5-DJlZccjuFzsOiiBUYg6Q8M941H5wY8DbCH9GUbXw4wJIyLFuniYDfeu0CWH8ac0FegsFb_vcQvZeg9r0ig2R1RPh8Nv_HrzEapmAX7vIB-OyOpG8-5yFYrsmWkA2o918FrJXgJ1nNgN4n8g-0OYpyklWT7jxOGkUwEihvrfM4T706CFuP-_KEKjVmAEELvRYNl9Q.jpg"
         }
       ]
     },
@@ -102,7 +78,7 @@
       "date": "2026-09-13T19:43:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 172,
+      "views": 174,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-09-16T08:07:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141,
+      "views": 145,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,11 +98,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iHSJ0vdAswl4ngu8l38aJTmej9uOgIetxf_uA6fUeDnUaeKoE7W9mWOS9QtUXd3BcYXGGKPiOXnEUEaE6APv2eyMMuAlUvH19HWk1LX9shFCg_Sep73oRmVxrtZwuUmas8uuJCLCAUhRowqVjLwJlGvc10yJh3O1WbFQqNbSvnRc6PfEy7rSkLw3mtB9lVxvdwI6N98Jbs71WyIhFXVXTcHp1TuROZ3rWpHn_CWOL_5x9Ga7cCfxF3ecArjws5Yc8E65I9AxYMeD1I0PR-fmyvGQcQAVQK_RQJw1iyGaLkhhtve1QnEzggVCssNYYm1azAVW6-wIP-xrcf79vW-PVg.jpg"
+          "url": "https://cdn4.telesco.pe/file/HXbxnSJ7KJu71wJYKo17GQgl2ZM0z8WdEgimAUMKn5JbFEv0LqCUzis2JxiTTrm9iYcudxZui5hwTeWX-v2olJsasopzouTbQfz0W2mU3CjdifhrnFNVZ33DBdqL4iYvp6D3RB5YFDKBd32wW7MLB2ITKvFr5Y2xGnJoqYt7LuTbrI4I9VZr41JgByO31DDTPK6bIihvOAMw6z1edLGHtbZyKv8oZm_HJzreAvgnRdoLrnnMhPD3OO9ssJJSAMZgEjwErP7ZQLGz9JOPR0oe1LusxzYQ22weSwp_nNq3nX7PqbguTKGbjyI-sOmikN50AM1oia3B-2V2YuDe1zPzxQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aTwtM5sJbUL4zKbFSHIbmoFbK9jZx1msEwqOHfUGbsjllUZ2G_-AosZ33O0zh0W_ENwnl0a783AI2b7HkckDquodkunSGB3_zow2DnxurjDMNzD5saic39gUH-zDXC9HZlWDs21YL3734S6Ci5b8DsLozAVJ3Tq3Pbs7IPYPwZNDi_dUZBaihE_TqA6-JnajtLu4JlrS2hMZHYmy3Uhg1CSTygFoPZokwB0rHTdf36DeDBJKKX5z2l7fl3rKuwFLsNJECDBVN4bCQaOYR998oSNdS-A8EgNzw3ks2xUhEtqJCaiJvy2bDWNKk7BWdtNo_48w38WZmkBVVxb9sH7fHQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/s4zZppHVKqdrnMqLyuRNyH1JGPJW5VdxcwDwdP0XnnMu0lPxmGP0vXafaQFae1VgV14xbD5FcozstzdFJ64R1SNN0xmpJVSxCuMilYnDUOEgdpEmbe-Hq3lE67ZwSFtmNiYWs9-mYXHZgUX-Elxpd5wHIJJfZLnZQck8XRyWK87cKlY0P7R2Pc1AV19q6Un2ZyMJ-syC9n49CFMLQlUXiQrakEkNVOqM7elRydyHjZFbKVb49vrEQfsj8sQXBr8NIXVZXk8hYa-xnicRJmR9d9dMWkN_Ry8c9UyMS9wFbKyD7XngeZIufajsdWniXHSOREaoFz1sYlDi1yt7UzwObw.jpg"
         }
       ]
     },
@@ -136,7 +112,7 @@
       "date": "2026-09-16T12:29:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134,
+      "views": 141,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M_PE0J-exl4KhkakDnCwnh2bNHbVc8KLPYGlqO5oXXdRzrDCGJSutmbLNhXMsULyGErHX3CaswVNeFRUOP3WAgtl4D1rn8SKZgfK3aihyTy1MjNmuXRTB4kuCNE5vx6HStnzjc3yXoQL5mopb1-lfYr-Oue6pABFQeVdPc-6hwBj17gTcXJ5Ev6YMUON2krfifAAGr37tT3PgRUm4JfHnp2mUbeFgC4OF3rbtLcOy8HlK0a0BkU18uTD3a-r4eF5vfSBOokyC4rfxJzxI0y6o67cqtlO70W59uJJ3Akc_lwHx1VZ57zkfSeYsXKiFfmE8kAW9qpBw4HILm2ESuNxhQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/kEUy9mAV7aJpxyjh8eJEPq8x2HD2AyBeMY8IkZHbE_QDDdD24ww8vuxcsA_m_0TZ7sSI2PRjUnkvHg7rKyE4gvb_aXQQcGs4OCLQ-Mn1GNlEZpKbFS4aZH7qixgJbuKFnp_QdJrTIPClTvGUWG7SckDL_uMlv6VV3runm33kSIPTQGVloUHI2YOabHc4EUTszFyADo-9bZWNuMPxMIJRYmFgYWJl7QYoSxrltu2tZ5syQfUn6kKHAXkcrGmTPMwrhjup556KHi0KwnIkXFcadQOmbN-7xe5Q2i7Qz17XxYQJf-MDJH5kfTrSGBZx0HXQlP8jMzwr7D1tmzS3omW9Mg.jpg"
         }
       ]
     },
@@ -152,6 +128,24 @@
       "id": 0,
       "message": "هشتگ نفرت پراکنی نسبت به وردپرس\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-09-16T12:57:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 124,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TLRsJib3N0MRRYd7gCCs7yv1mdqW74Buue9UbAx32X7lj51PcWMziBggQdypXU_nl_OBNyNXxBG4mze3xjvDuNGj-i6Tw5tPcoMtGbh7ixw3zzBgB0EzdMQGR7MU0pMAXtKcKactsSkM4gRtmSqQ5GmW3fzICzHeZjN3wLw5rkg014Qnqa_0JcZzRxMViAyetT-_CuHcNOsb0zaSzoiO7L4FxAlNgLq77k12yPvsyBCpgzmuXTXZkfZk8LDJ9BrF0_EN2sfAVXWc2lC27qoBmmQc7lVB_fpVlro66JjIOFYCMv7pAaJhDKKySHbHydMvkzulUsN7wnDKbK3-pNtFZw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایمان نمی آورند",
+      "date": "2026-09-17T10:51:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 121,
@@ -162,25 +156,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/naHETG0_4y2zsjPtp1IC9vxE7MvDs_P3_no1B4Ofu7KszgVbj_MR3KmL6LPwwq9NO4pFPDdKSkJY7Qyieh4T0II9B9ITR4bW7dWOLbzsYzu7QR-SC5pQwVzwFP4c4X7k0B_8Bm0AL6aYvTgVzwkSzUkCCI4QuHLsEHfi5igKQrcs97t35Ia0JUxOZYI4dhJsaCaD8RSy1hUKlkubfEtMw7wLKxpK3nNVUHZt9B6XwrPCLCcwbOGJ5jzS1lvTzNYR2t4YE_cKxzWqvfO-5-1kkI7S1ilDnbLBMcHy49Un1CeGifDmK5KSNZJkei2M85ixiW2Rc4DsHlj1HrSXO1NhtA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ایمان نمی آورند",
-      "date": "2026-09-17T10:51:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AliReza SadraiiRad",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kLsR7Q9JTVVB3aHk7XIpmqhmwWf6sOMzco2ty9fIXaTm4oc86M_GflSCGeSfNcJJPf7HQknHADLxyYwGxXuF3TLfX_fe0au5vWt7TSYlmI6Di4XyZF7QjA3vJxN6vPTiswzZHpxXoY6pJ53b6PlqCHFJhOgvqXmTs3YuKFSUii7678afRW-gm3sk5VHcGyvJy7KvW9Pf8GFPMyF78IKNm4fYkdbhC29xDEn3M8F5I2prSKESelE3s1dpQvdT6rO7uw6H7YNfuf-QMEVv_uLjiHM6K14sMjQddZbPJmjWxOe3cWDVUt5TYHpCVi6szdw54ZrMxL20kSTpiqmPUfs56A.jpg"
+          "url": "https://cdn4.telesco.pe/file/RCyrrAOa1s3nrYE67Iy5fONKXHd4Dwwc4xcBAFOUOKkvcE9W6Yijxb5-rCxn7fm6FxXHAA96kimYt0w3qmwcy3AhYbUpUrxSCVSha74bxs8-juvJ_lNLhI4IgwxCiXDwG2jtpmoLY6pIT84IhSmmNPRZ5P9rJPdSr4B3Y4A6ucU6DVPffu9Ldo2V8e4FxEyBqXqL8hNKoZaxzT_0N22AwIMMVwG8PqHqVU7SmEcFuOUTHpBDPF6Zr-hEkMXHsFEAhKC8jxUqK_OZDNIwv8hl2gj1WN5CmUDs2VYyoFZj8F8hDB4w1Jr2vbxHO_6B2nQtZrUhnrrAiSkhIjpagq4AlQ.jpg"
         }
       ]
     },
@@ -190,7 +166,7 @@
       "date": "2026-09-17T12:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143,
+      "views": 148,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +178,7 @@
       "date": "2026-09-18T18:47:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98,
+      "views": 105,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,12 +190,48 @@
       "date": "2026-09-18T20:42:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99,
+      "views": 108,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "نخونده میگم دمش گرم",
+      "date": "2026-09-20T11:57:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 41,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eIf AI coding is lowering your code quality, you\u0026#39;re not managing quality right\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eArticle\u003c/a\u003e, \u003ca href=\"https://news.ycombinator.com/item?id=49774795\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eComments\u003c/a\u003e",
+      "date": "2026-09-20T11:57:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AliReza SadraiiRad"
+    },
+    {
+      "id": 0,
+      "message": "بخدا تیکه تیکه کردم خودمو اینو به مردم بگم",
+      "date": "2026-09-20T11:57:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AliReza SadraiiRad"
     }
   ],
-  "last_updated": 1789890684
+  "last_updated": 1789908353
 }
