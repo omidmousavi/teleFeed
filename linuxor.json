@@ -8,173 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "می‌دونید تفاوت Jev با LLM‌های عادی چیه؟ تفاوت اصلی اینه که Jev اصلاً برای تولید متن ساخته نشده. یه LLM معمولی وقتی ورودی می‌گیره، جواب رو به‌صورت توکن‌به‌توکن تولید می‌کنه؛ اما Jev به‌جای تولید پاسخ، روی اطلاعات ورودی مجموعه‌ای از تصمیم‌های مشخص و از قبل تعریف‌شده رو ارزیابی می‌کنه و نتیجه رو به شکل ساختاریافته تحویل می‌ده.\u003cbr/\u003e\u003cbr/\u003eمثلاً فرض کنید یه سیستم باید تشخیص بده یک تیکت باید به کدوم تیم بره، میزان ریسک یک درخواست چقدره و آیا یک شرط مشخص برقرار هست یا نه. توی Jev می‌تونید این سؤال‌ها رو از قبل تعریف کنین و مدل همزمان اون‌ها رو روی یه Context مشترک بررسی کنه. برای همین، وقتی تصمیم‌ها مستقل از هم باشن، می‌تونن به‌صورت موازی ارزیابی بشن و خروجی هم مستقیماً قابل استفاده توسط کد هستش.\u003cbr/\u003e\u003cbr/\u003eبرای این کار 3 نوع تصمیم اصلی داره: Choice برای انتخاب یک گزینه از بین چند گزینه مشخص، Score برای قرار دادن ورودی روی یک مقیاس مرتب‌شده مثل Low تا High، و Noul برای بررسی یک سؤال بله/خیر و برگردوندن احتمال درست بودن جواب. نکته جالب اینجاست که Jev فقط جواب نهایی نمی‌ده و احتمال گزینه‌ها رو هم برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/u2b5w3HQ_25GIpb1GgOYrXMEBROtZ5pzev8mj7mNKaBFdDa8b4UioeduEYh8eukFltx0ue8_TT9y1e626VjN0H_ssnC6uGIELSK-S_sFaFu_UDU7a9eEZeQd_hnTZtPIh-8_qkEdZ0f3-l9tmM01Mz0Qwr_I_GSDw0VnSUUCCGOJJcfnOAiWGvWyyK3Dg1IxWFb2QI8sUxxcDBnkfsox4UmSDbLq1FEA85JtkJWYJFzgXjdu0lb95wyEGiyuBSl2cnj8ilU5NjkiP02qVNV-Q_GyimezEQONDuR3S7_cma7vkKBUsq8m3wPQsgh8ICtu_t7B8rxstOCnVPBoLZDhJw",
-          "width": 1458
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eفروش Gemini Pro فقط \u003c/b\u003e600\u003cb\u003e هزار تومن\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e- مدت اشتراک ۱۸ ماه\u003cbr/\u003e- فعال سازی روی اکانت شخصی شما\u003cbr/\u003e- امکان به اشتراک گذاری طرح با دیگران(family)\u003cbr/\u003e\u003cbr/\u003eتجربه کار با Gemini Pro، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی، اکنون با شرایطی استثنایی در دسترس شماست. در «اکانت‌آباد» تلاش کرده‌ایم تا موانع دسترسی به ابزارهای دیجیتال را با هزینه‌ای  به‌صرفه برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
-      "date": "2026-09-19T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jmF3gtt35SkSk5FSHfogxWoKRqYKo1ULQf1sOm7URTas92239TseOhC2-s_tJz5WUw9078sTiu1qHY96UQqfAuc9JaiCC4T9VVvhPVWM6uxdsxQhBn5S_U_CC1HMgzezffjYtKACpJN1hfj2ged4HO34O8JcYIB0vOVbfTJs3hNRZLGW_YoAUk9cvVFxtP_hVWfQcTvnx7eASJnaOD8oUqMf8rrRwkz3XsZBRvGJCEk2xAeZDrTsN1R_MBPcN8jgLARn-eeYrcjtbzjxtMvWySkLjt7GbqBCG8nTcBFeV4bWiB9oHY9jy9yCZ2I3pwXr6WsLDWywWZHzWWH8PIdjjA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چند روزه خبر مدل Jev از typesafeai حسابی سر و صدا کرده. گرچه بر حسب تجربه من بعد ثبت ایمیل در لیست انتظار، یکی دو روزه براتون دعوت رو می‌فرستند ولی اگر همین حالا بدون انتظار می‌خواهید مستقیم باهاش کار کنید از Vercel AI Gateway می‌شه حتی در پلن رایگان.\u003cbr/\u003eراهنما:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://vercel.com/kb/guide/typesafe-jev-and-ai-sdk\" target=\"_blank\" rel=\"noopener\"\u003evercel.com/kb/guide/typesafe-jev-and-ai-sdk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Hamed",
-      "date": "2026-09-19T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oVOCPZg2bCNnJXh-peFI6wwlJ_0GVGauC8G6KNcnBZKkLon0Qsj_mkcI0bXJjx_7GAp1D-zZ-GPHYwyTP0LCG_8bavlX-PizQTYrHKR1fKIsdWhjMcQZB7P-U0-URomuBj1E-I8df_Bk2GokHTt7jU2c_QcqA03V4pQ3gf1TSEOJW9ATux77IuUK2rnzcRGFsSlb1V7Yb0VyIFwtpQkJ4ILYFI565Uw3jI7F2YSR5Xt9mGtjz8-i0pxdjNtOwuY8ePKDLxi7YKb7wbUV-7UFD5KWK7SNYO2r8lWCOB_pLbGa6a9Lvs4r5POtRCUnQvrm_moMjxu6j3jOfneNdhei1g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل Jev که جدیدا سروصدای زیادی کرده به راحتی می‌تونه بازی هم کنه چون سرعتش بالاست! توی ویدیو در حال کنترل مار برای خوردن سیب.\u003cbr/\u003e\u003cbr/\u003eشاید بگید زحمت کشیده این کارو با یه الگوریتم ساده هم می‌شد انجام داد! که درست هم می‌گید برای کنترل مار یه الگوریتم ساده بدون هوش مصنوعی پیچیده هم می‌شه نوشت ولی مزیت Jev اینه که می‌تونه هر بازی که بهش میدید رو با سرعت بالا بازی ‌کنه مهم نیست چه بازی باشه و نیازی نیست برای هر بازی ای الگوریتم جدا بنویسید یه جور تفکر عمومی به حساب می‌آد توی ویدیو هم ببینید بهینه ترین مسیر ممکن رو انتخاب نمی‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/a9VaMPUNWV2eOayllbPHE81n4UyNI4vPi1YHBk9X5m0Qg-qB43zShfPQ9Pqy15zAI0NXJzoJCxzv6hlM0leETNXOpT1x_KhqIpwP35xBatwOK2VysXPsT-9wQA3X7ZJNWjLE-PGfVZokzP35__8X6uzzxdCD2l6rwtBNN_Sc4fsAUhMA6_3y9AsrRySH3ZP1Yvd58N_qZSE0WOVI16YHJTm6GhAuGoMBLzfd_3OTGBA1hl5YglXn_k4R6f8A6ZuGKGcYdW6iw3TdQ4tkTrG0cWj15I1dJwHaVXbXGqug35ZtDeAonSLlDLJQ6FSTCLqFH_ktoPpgWEQX34lVcBehKw",
-          "width": 1426
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "با مدل Jev که جدیدا معرفی شده کلی کار جالب می‌شه کرد ویدیو رو ببینید یه نفر یه چیزی شبیه پیش‌بینی‌کننده‌ی چیزی که می‌خوای باز کنی بر اساس کلیدهایی که میزنی.\u003cbr/\u003e\u003cbr/\u003eسرعتش واقعا بالاست توی 100 میلی ثانیه جواب میده\u003cbr/\u003e\u003cbr/\u003eانتظار داریم توی چند ماه آینده ابزار های کد نویسی و پیش بینی کد خیلی سریع هم باهاش بسازن مدل Jev برای طیف بزرگی از کارای روزمره کاربرد داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HqFD9k0LI29st-u6dB9EXWTz_r1PdxgZE9q59IDBipsHFVSmBjw54n_9ycT2sn0-S9ubMEIEzluocOaPCic_jGOQ8Fz6Nbs-lKoQTqrCB_F8STUZlU2PUHHZXzDeNAQtoQVlAMk5IRUaAZluQCIXXYAsRkgtgSFivzhMrWyEXDVGc_KHbAX-Xb2sFksK7AOhQusSN57IQpqWBeVeBuH1E_NV5ZoFXTyIrM2hCslcDJMesb8Ov9tXSP1JUjzoDwXs2sjEgzaGKsCY3AXiHN7xS3BXb6lsFnCQbQIfTF8g63u3YUVO3795e7aIYyDhvRvo_rwz3_1EgWXXT3w7cLiMKw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من اگه راننده تاکسی بشم 11:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ هوش مصنوعی یه زخمی به هر حوزه ای زده ولی فعلا حوزه خاصی رو نکشته مثلا کسایی که توی صنعت کلیپ سازی هستن فکر میکنن حوزشون نابود شده ولی من چندین بار با هوش مصنوعی خواستم یه کلیپ تمیز بسازم نشده، چون یه ریزه کاری هایی داره که بدون علمش نمیشه چیز تمیزی ساخت مثلا زاویه دوربین، نوع حرکت دوربین، تایمینگ کات‌ها، نورپردازی و....\u003cbr/\u003e\u003cbr/\u003eکسی که توی اون حوزه هستش این چیزارو مثل آب خوردن بلده یعنی عملا اون بخواد از هوش مصنوعی استفاده کنه و من هم استفاده کنم قطعا اون چیز با کیفیت تری میسازه و من هیچ جوره رقیبش نمیشم، زمانی یه حوزه از بین میره که هر تازه کاری بتونه بدون علم رقیب بقیه بشه؛ بخداااا\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-19T21:50:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "پارسی‌گو را معرفی می‌کنم؛ تبدیل متن فارسی به گفتار با کلونینگ صدا، کاملاً آفلاین و فقط روی CPU!\u003cbr/\u003eنه GPU لازم دارد و نه اینترنت. یک نمونه صدای 5 ثانیه‌ای بدهید، متن فارسی بنویسید و خروجی را با همان صدا بگیرید.\u003cbr/\u003e\u003cbr/\u003e جمله‌بندی خودکار، مکث‌های متناسب با نقطه‌گذاری، تولید موازی و تا 3 بار تلاش مجدد برای هر بخش\u003cbr/\u003eدو حالت گفتار (مکث‌دار / یکپارچه) و تنظیم سرعت 0.7 تا 1.35برابر\u003cbr/\u003eرابط فارسی راست‌به‌چپ با نمایش فونم‌ها، پلیر با موج‌نگار و دانلود WAV\u003cbr/\u003e\u003cbr/\u003eدمو: \u003cbr/\u003e\u003ca href=\"http://nimaone-persian-tts-onnx.static.hf.space/index.html\" target=\"_blank\" rel=\"noopener\"\u003enimaone-persian-tts-onnx.static.hf.space/index.html\u003c/a\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003ca href=\"http://github.com/nimaone/persian_tts\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/nimaone/persian_tts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ nimaone111",
-      "date": "2026-09-20T10:09:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jbGOMQ_7jiAUVP32yDZcxdhWoI5E3ybFyLymH74y_M51jBz5HVZmgv6YOpZEmWBh9eoOj4payqWfuXLYkIfk4uqpQdTfyEDAmh70TXyN7lCa9TjXB2Md-RoH2_Lzmj0gmxUEE96XbFcyOBqZ7kqM_s9ji7DC2iiZ251_YYERjb6Tpd88xwuA1y4ZtCox8ZKNqxv9mRpLlEZQOY2-zCFGP9M5QEd_cY7QspVNJB3aetgxMJVLNgGCHtyOhxMxSGhT5NjPpU3IWgY76EHcXROLLLu8tz95PDOwHpz5W-6taBloG9pPDrMKhDoxGR__6D2Ku9y5kRlJNN7V0e7gyndPUw",
-          "width": 1152
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "معرفی قالب مدیریتی ولین (Velin)\u003cbr/\u003e\u003cbr/\u003eقالب مدیریتی Next.js با آخرین نسخه‌های Shadcn، Base UI و Tailwind؛ با الهام از طراحی بهترین دیزاینرهای دنیا مثل Emil Kowalski، Paco Coursey و ...\u003cbr/\u003e\u003cbr/\u003eقیمت اصلی: \u003cs\u003e1,000,000\u003c/s\u003e\u003cbr/\u003eبا تخفیف: 450,000 تومان\u003cbr/\u003e\u003cbr/\u003eدمو: \u003cbr/\u003e\u003ca href=\"http://velin.taymakz.ir/\" target=\"_blank\" rel=\"noopener\"\u003evelin.taymakz.ir\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخرید:\u003cbr/\u003e\u003ca href=\"http://t.me/velintemplate?direct\" target=\"_blank\" rel=\"noopener\"\u003et.me/velintemplate?direct\u003c/a\u003e",
-      "date": "2026-09-20T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dM3_Rg5LNiWG5riJcI-ZkPlsbzmpKoxhTjr7mINo3MX8WzzE24V7lIc3Y-OcLUO3dUrkWW8B-i1-vU3yJgTOhogywZBm1F9YhqgQZz6prO-WbzUJMkQdhcNm6zwMUhp9Gbc1DzvDvKgs4EmXnD9cm3fhVZP2GqiDm1mojExeBRBlbCZB2Rb0RjeqWG9ASz8cDUzJTFigyl8aMA0HKPqI1C87940Rmgg_LzUF58QKvBFX_qidFpSYZWuVQYFe6c9o5GYRHIiXFGtXI4c2venOd-0y-BkblPVS4MFM-PsHAH1kpBzomMq3hW6W9gN-ORbjKhyGMarhUe0AYH2-vkkgDQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل های Jev + Astra توی Minecraft تونستن یکی از سخت ترین باس های بازی یعنی Ender Dragon رو توی 8 دقیقه و 43 ثانیه شکست بدن! \u003cbr/\u003e\u003cbr/\u003eهزینه‌ش هم کمتر از $1 بوده: Astra: $0.96 وJev: $0.01 بوده\u003cbr/\u003e\u003cbr/\u003eکدش به‌صورت Open Source منتشر شده و هم توضیح داه شده که محیط و سیستم اجرای تست‌ها (Harness) رو چطوری راه‌اندازی شده.\u003cbr/\u003e\u003cbr/\u003eاین نوع حرکت و عملکرد فقط به‌خاطر تصمیم‌گیری تقریباً آنی Jev ممکن شده، در کنار یه‌سری مهارت‌هایی که Astra به‌صورت مداوم یاد می‌گیره و بهترشون می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/rmalde/minecraft-agent\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/rmalde/minecraft-agent\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aXnGMHr66uL_7b4K2G2EMtFY1eKC6aPP7EOs58PP7nvZnB00PhNR-3MI4D6r1C1WlkuAgrEpb0Pxjzxzdt0WybUGm4ex07PQRn2DpMyXkEzZSEIhxw-UqA8FCBIlkGfJ5Ctx1EqJQikLWoyUzBc7DW_C4EHhh22nxoVh0AgjzLXqCS1g2onPkyAWH6Ow7E2jlMD8703K_-PGmIKLiEVaghMr_ZeqUDHRMzoZYwd8Len0c_pLUOtbg2hB-YB-BA9tLDGAon2krdUj4zohyE9s21acocGHDlY0NGDWqBfewrGhaRNf82sgtrHXG7uz6ozyFmrjH6_0OGIlPtA-flz6sg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یعنی یک نفر توی شرکت ایتا با این شورتکات :\u003cbr/\u003e\u003cbr/\u003eCtrl+Shift+F\u003cbr/\u003e\u003cbr/\u003eآشنا نبوده؟ اولین چیزی که یه برنامه نویس یاد میگیره Find in Files هستش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-20T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EWb1nd6xyopW9x3If7sUNs_PErfkk7E6wjYD70iL0FGZkVHpCJuchkEC3WINwMrCpdtKgqgfqglqEiTcrXcrJIBoxXASHzHJ_VDMAA_HuiZCH5kvH70XuFWPepESdN_Bl1JProIhLqJOjPLNxWDPv_pKOjuiUPMIM0IPs6M3rGr2L7qZHXekgy-6CBQrgNUZz15LekF8R9qLRE1lB62M0NiaOJ1GuLavmfaK-rObw9lkBmQdzU2xQ2ZqthrPwarOq_mQNsZygAKcZ6e-IzwjFbQm3y3rTZSbJW9MWzeTZEhdjySs4tFwDHVRjPEWOfIPE7rTknusdh-uBtcJ-fQCoA.jpg"
+          "url": "https://cdn4.telesco.pe/file/UmF1WyhkvXHec7I-bQajT7F2rCVBx87GZ4m8s06s89cVwjweZqEH_SdLUH3EE6pECsmyKtAak0YseSYhzWv-09z4U2xobXbdmis6cOEqSL_gJJEiDImOQI41mCTcrOna9ryls7XyRZs7rbOvZzt6ioDco_8TO1x3jpL30J4iIKPZJlLIyFrRLmC64CNlgOmlKtpQ-90_he0_Orax-HVhcJLykSLLQpAWDAsKC5Jko6cZPwcLinZ1LLeqd_0Q0duO5x9jRv3_Rhl1NiRk4LbiGo-bgISHBaSeZjJYZN1ihFXG4_5gZR-og69xRnm5xLg4_kNJHUog1wd26s7F7pnAJw.jpg"
         }
       ]
     },
@@ -192,7 +30,7 @@
       "date": "2026-09-20T15:13:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n4PziuPv5cPncKsHsRlhZRhkhwA7OBb51xUcfTXJ8_UQzWtWa36rl8yJz_MEyFTon7NsSQ1FWYfpjFSnEs1y0AHpN9Kxc-qmEUHnxWXEa8rySq4mRalKZSq0Oi2BoDmq-qzwZeZZywmLwutex_1ZDDpmAO-kTW9jDivR-J7_JNQ71BQ-C01T48kuboezcGFh4WKrysPpHKAElKC3M6FNZw5jVV7rdxyBVRxqdeGApAyKr3tYC8kTvENiuT9SuQej0t_Qd42Kn1mCGJW9SIF_FntCrd1TZoiygQ1M30CiuXldRhyauYITrPHF-CUJDcl1c9FkA6nyRXO_wS2S_NU1qA.jpg"
+          "url": "https://cdn4.telesco.pe/file/PiI2MXRPwB5bGa-A_r9E-y1N7BU0VfjSEuOOqSA7ZN_jRa5ZKLoJP3UNc4RWwHDi9xjtfAvR334MU-el9QZhAoRRM-zbvW1jpm-X7febjpXDKeFmO5_tpJAcfHwk6uyIShtSXcC_rvKOZzS5WwIqnh9b-vn8r1GHKTvA-Jp1GhEJxiLqd1SkscFQKASCfOHiCmMT-RGrAA7lyoh2D2gjsF0gVoGHVFeck8-VrU5E_o_qUARpZfL4c2pEWKZhBGo3GEeg4hKOHmh9ELA52N5Ol8MgH0fqQCbIskcN04mzS6B8fEiGLRVVzsB0zrqi-F3LW6NfJdhIK4PG3sP16AjZow.jpg"
         }
       ]
     },
@@ -210,7 +48,7 @@
       "date": "2026-09-20T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +66,7 @@
       "date": "2026-09-20T16:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +84,7 @@
       "date": "2026-09-20T17:05:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 6350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +103,7 @@
       "date": "2026-09-20T17:30:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 6300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +122,7 @@
       "date": "2026-09-20T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +134,7 @@
       "date": "2026-09-20T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +153,7 @@
       "date": "2026-09-20T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 6860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +172,7 @@
       "date": "2026-09-20T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,12 +190,153 @@
       "date": "2026-09-20T19:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5080,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "دسترسی مدل Jev برای همه آزاد شده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://console.typesafe.ai/\" target=\"_blank\" rel=\"noopener\"\u003econsole.typesafe.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه هر ایمیلی ابتدا 5 دلار کردیت میده که معادل 120 میلیون توکنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T10:26:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "من معرفی مدل Jev رو یه خبر منفی شدید برای کل بازار هوش مصنوعی می‌بینم ظاهرش شاید مثبت باشه اما باطنا مثبت نیست چون بخش بزرگی از درآمد و سرمایه شرکت های هوش مصنوعی مثل OpenAI اینه که به شرکت ها (نه آدمها) به صورت B2B دارن API میدن و درامد زیادی از این قضیه دارن\u003cbr/\u003e\u003cbr/\u003eحالا یه مدل مثل Jev بیاد و با هزینه کمتر و سرعت بالاتر انجام بده قطعا مشتری های این شرکت هارو تحریک میکنه. نکته بعد تر اینه که شرکت هایی مثل OpenAI درامد ایندشون رو پیش‌بینی میکنن و اونو پیشخور میکنن تا سرعت پیشرفتشون رو بالا ببرن وقتی مشتری ها ببپره عملا یه شوک بهشون وارد می‌شه. البته Jev همه مشتری هارو نمیتونه بگیره ولی بخش بزرگیش مشترکه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T10:46:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5440660757194744323\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eهوش مصنوعی حرفه‌ای رو گرون نخر!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5427168083074628963\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اشتراک جمنای پرو و چت جی پی تی با قیمت ویژه در پریم استور\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eجمنای پرو فقط\u003c/b\u003e از\u003cb\u003e \u003c/b\u003e299\u003cb\u003e هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397681122542893003\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eچت جی پی تی از 1,900 تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هم برای کار، هم درس، هم تولید محتوا و کدنویسی؛\u003cbr/\u003eهر چیزی که از یک دستیار هوش مصنوعی حرفه‌ای انتظار داری، در دسترسته\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314504236132747481\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eمناسب برای:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5332440771180116150\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحقیق و تحلیل\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5332440771180116150\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برنامه‌نویسی و رفع خطا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5332440771180116150\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تولید محتوا و ایده‌پردازی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5332440771180116150\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترجمه، خلاصه‌سازی و کارهای روزمره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قیمت مناسب\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5251203410396458957\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ضمانت اشتراک\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پلن‌های متنوع\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشاهده پلن‌ها و ثبت سفارش:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296455228776790085\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/prem_store_bot\" target=\"_blank\"\u003e@prem_store_bot\u003c/a\u003e",
+      "date": "2026-09-21T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "مدل Jev توی طراحی یک Design System چقدر خوبه؟\u003cbr/\u003e\u003cbr/\u003eفقط کافیه یک جمله بهش بدی، بعد خودش از بین بیشتر از 1 کوادریلیون ترکیب مختلف انتخاب می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهیچ‌کدوم از بخش‌های این ویدیو سریع‌تر نشده؛ هر بار که استایل رو تغییر می‌ده، در واقع 4 درخواست موازی اجرا میشه که حدود 2 ثانیه زمان می‌بره و هزینه‌ش حدود $0.0007 هستش.\u003cbr/\u003e\u003cbr/\u003e29 تا فلگ برای کنترل چیزهایی مثل فرم گوشه‌ها، حاشیه‌ها، خانواده آیکون‌ها، مسیرهای نمودار، بافت صفحه، میزان تراکم و انیمیشن‌ها استفاده میشن؛ همه‌شون هم روی shadcn ساخته شدن.\u003cbr/\u003e\u003cbr/\u003eعلاوه بر این‌ها، رنگ، شعاع گوشه‌ها، فاصله‌ها و مقیاس تایپوگرافی هم به‌صورت پیوسته قابل تنظیم هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T12:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/CJsJQLdwMc9BgInUgK9xA8hL2FrXDuM7WErnrlbMLaHYkKSoQ-ZOW0YTYVd2rCK4vsd6IML4d3a8ClA6CB7Q758T0cD5Jvfj6Jh-TqEZ3J98UCflJU54PQKXo0LF63CJSph3J42FpALSEvuOnkyWdN34qb0maeNqdT2lcIPbl-x5pjl7f6cK_gCLDEtNWOPxtgpi7fWdDvSNO2WsexBmPh4fNBz7Ev0SyFmzedUrxeWd4al1uwWdBoXsAg48LvEgkxnbQsem33oVjkTgp44CGtBjSvTJ8C45JHfXKRXJOu3hgWpgl7oI82tLu3dWaavUmNeAdP-KvRGrelYVO94fTQ",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه تیم  دیگه هم شروع کردن به توسعه مدل اوپن برای Jev البته با خود Jev متفاوته کمی چون قسمت تولید متن Qwen رو حذف کردن درسته سرعت بیشتر شده بخاطر عدم تولید متن ولی مشابه معماری Jev نیست هنوز\u003cbr/\u003e\u003cbr/\u003eتوضیحات :\u003cbr/\u003e\u003ca href=\"http://zefan-cai.github.io/open-jev\" target=\"_blank\" rel=\"noopener\"\u003ezefan-cai.github.io/open-jev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهاگینگ فیس مدل:\u003cbr/\u003e\u003ca href=\"http://huggingface.co/ZefanCai/Open-Jev-9B\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/ZefanCai/Open-Jev-9B\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/L1FJLMV6YVQqeKV410vAuJxntD2sz_3O0WZYOE6q5SMANilRyzpKLcqSbl_THG1NoF5SinFmCqvc7-ssrZiw8IBop5T9JmgpFfIqf9WMUfGXQeKcGGs8zVYNGss44sIfOaMcrK2s2YRkMrOJUXJZLRwesX_p64nHohT8ZEer-MU_0Vu4GQni-PTbg0N25o47QjzQG_3f4Lq0hkFdfsq4n5aqjcABH8DIEeB9M9CCc0UzjF7lOgrWiSgyTa-Rj5ZyWxfqLy1p9BigpnuwdGMsTKfuHD6ftsHtUuuiW8yNlEsqrx0q3bKWFHwmlD0CTIfTH3bEcUtEC1Wvj4Ewv_i0Dg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "کاربری تونسته با DiffusionGemma که مدلی برای تولید متن با معماری diffusion هستش، به یه مدل شبیه به Jev برسه.\u003cbr/\u003e\u003cbr/\u003eایده اینه که به‌جای تولید توکن‌به‌توکن، DiffusionGemma گزینه‌های ساختاریافته رو روی یک canvas قرار میده و با diffusion همه گزینه‌ها رو به‌صورت موازی بررسی می‌کنه؛ یعنی با یک پاس می‌تونه برای تصمیم‌هایی مثل Yes/No و چندگزینه‌ای، جواب و میزان اطمینان مدل رو استخراج کنه.\u003cbr/\u003e\u003cbr/\u003eاین معماری از attention دوطرفه کامل استفاده می‌کنه، بنابراین هر گزینه همزمان به کل context دسترسی داره و می‌تونه توزیع تصمیم‌گیری کالیبره‌تری بده. از طرف دیگه، قابلیت‌های multimodal و درک فضایی Gemma 4 رو هم به ارث می‌بره؛ اجرای یک پاس diffusion هم روی DGX Spark حدود 0.2 ثانیه گزارش شده.\u003cbr/\u003e\u003cbr/\u003eجالب‌تر اینکه خود گوگل رسماً این رو با عنوان «DiffusionGemma as Jev» معرفی کرده و گفته این پروژه قدرت معماری‌های non-autoregressive رو نشون میده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T13:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KtMalhRuPd_hL2QOq_8YjSYOiWRjMKRF5A4r1rWtICiobb1XeBane0Hg9DCft-0cxIoosI23bOe7F6-2WzMJvexEwT--Sbnm457zZyvNrn9ZswWSKI9Llhr5RlZWW8dGASZVz5OVJFl3uqvKaaC0JH7ICCDYvjJ_3uNVTQrR7vlqKwHsUcSxlEGLJVZ1m4_wKuZr2TX18lOmIwf36WmFQSOFcVpb_-91h2w4jKsQyq_x8zJmYbC9Ym23ngyB-KxgOJV_7I2WL9RaCHTDmYh3B2YywUfZ5YzYzHc4lMCHtSZaHzhhrrM3aAUkcFuJK3000lgrTJmWzy0L2lf6eMMJCw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eهمه‌ی مدل‌های هوش مصنوعی در یک ابزار\u003c/b\u003e\u003cbr/\u003eدسترسی هم‌زمان به \u003cb\u003eClaude، GPT، Grok و Gemini\u003c/b\u003e بدون نیاز به اشتراک‌های مجزا.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e سوییچ بین مدل‌ها بدون پاک شدن سابقه چت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e پرداخت فقط به اندازه مصرف واقعی (توکنی)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e تحلیل فایل (PDF/Text) و جستجوی زنده وب\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e تفکیک چت‌ها بر اساس پروژه\u003cbr/\u003e\u003cbr/\u003e+ اعتبار هدیه هفتگی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/virastar_clean_bot?start=ad1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eشروع رایگان\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-21T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه دنبال ساخت اپ‌هایی هستین که AI توشون فقط یه چت‌بات کنار اپ نباشه، پروژه Agent-Native از \u003ca href=\"http://Builder.io/\" target=\"_blank\" rel=\"noopener\"\u003eBuilder.io\u003c/a\u003e خیلی جالبه.\u003cbr/\u003e\u003cbr/\u003eایده‌ش اینه که قابلیت‌های اصلی اپ رو به شکل Action تعریف کنین؛ بعد هم UI و هم AI Agent بتونن از همون Actionها استفاده کنن. یعنی Agent برای انجام کارها لازم نیست مثل یه کاربر توی UI کلیک کنه.\u003cbr/\u003e\u003cbr/\u003eاین معماری باعث می‌شه Agent واقعاً بخشی از خود اپلیکیشن باشه؛ با دسترسی به state، دیتابیس، permissionها و قابلیت‌های اصلی محصول. از طرف دیگه همون قابلیت‌ها می‌تونن از طریق UI، API، MCP، A2A و CLI در دسترس باشن.\u003cbr/\u003e\u003cbr/\u003eاگه دارین روی SaaS یا اپلیکیشن‌های AI-native کار می‌کنین، به نظرم ارزش داره معماری این پروژه رو یه نگاه بندازین. مخصوصاً بخش Actionها و نحوه وصل شدن Agent به خود application خیلی دید خوبی برای طراحی نسل جدید اپ‌ها می‌ده.\u003cbr/\u003e\u003cbr/\u003eتوضیحات بیشتر :\u003cbr/\u003e\u003ca href=\"http://www.agent-native.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.agent-native.com\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003ca href=\"http://github.com/BuilderIO/agent-native\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/BuilderIO/agent-native\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Zt4AKp2mq483mkVyR7JjBzR2Vl-vlFKSMX2-iN8uWiej7rQJdSEwSdXj1pqWq4OvjV5T1U4NfNLvRGD3zpr2AzBOkrZ1zRaXqyPKytrLizOdRloy68X6_TdeHX6VlZQULH8p8QxFfNaTt5jQrHNhxpv3351whkSQuZLeyVYk8MfJELvKaZFtGbOHNz1equ3DbXLiWsP_3XJmZblmxkpYQ2i_zURyRdSROf1Xvgc69blWKz5MtOG_Tc14yusm9S8QrcE0U74zriIa25X4C2x1YldJB84ikeyp164XGc8xSmWMGwcad9uEUZiA6S-CiPlHV1LSKPM430As7Qw1vqTN0w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دیده شدن کیبورد RGB در آسمان تهران!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/INOX0hfbmwSdYh9ejbzciiK_99jiQ27Heb5tl6sq0HeeF4lh6GzuwiJqVILe2vnVJo0a2BAQ08mtSR54LHUByUxHEniML1kQew-_4q5r85rn4CjEHGykDJHpCR4Mk1Wk4Yt-wTA3o2t0QqC_R81PDdXDu5LNbGNSCp-0m-y4Hai7kPgYuAdSYoNWQ05UGfpQxvrq-YE5poerC0-S0rXLJVvMTsd0SL9RwZCl0wIQ1R-J1mZkWfNemxQ_Zko9o5GAi76Ajut_79N-HUejYgUWZuQ2p45irxe3s5yNLQJlSom3jqT-Qv_Vu-1dYegXWr3wKVmjzqPt0aLu4dMcbSLKXA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789977912
+  "last_updated": 1790003583
 }

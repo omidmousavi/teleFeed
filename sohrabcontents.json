@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "حرکتی که زدم این بود\u003cbr/\u003eرفتم vt-d رو غیرفعال کردم که اون pci expansion خودش کار نکنه و همینطور هم ماژول hpwdt رو موقع بوت بلک‌لیستش کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003enomodeset intel_iommu=off acpi=off module_blacklist=hpwdt\u003c/pre\u003e\u003cbr/\u003eبعدش روی نصب tui اومد بالا و نصب رو انجام دادم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-14T08:04:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "خب حالا یک چندوقت احتمالاً کم باشم و تمرکز کنم روی کارهام؛ و صرفاً توی همین کانال بنویسم.\u003cbr/\u003e\u003cbr/\u003eیک سری کار عقب افتاده رو انجام دادم یک سری بخش از ویکی رو هم به سایت آوردم مثل این:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parchlinux.com/fa/features\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parchlinux.com/fa/features\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسئو سایت رو درست کردم و سایت‌مپ رو به گوگل دادم که سئو رو بهتر کنه.\u003cbr/\u003e\u003cbr/\u003eاحتمالاً هرمسی چیزی راه بندازم که ایمیل‌هام رو هم خودکار جواب بده؛ چون چرا که نه؟ :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-15T11:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-09-16T05:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 848,
+      "views": 859,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +46,7 @@
       "date": "2026-09-17T20:03:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 872,
+      "views": 905,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +64,7 @@
       "date": "2026-09-17T20:09:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 897,
+      "views": 952,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +76,7 @@
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 843,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +84,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fXEMiK4kkbwqOCcyze7jNwG8mTMJVRjsRB6dfoT7Jx-z7qjDj6LxCY-kR62DKRwDAQOdfpkl0_Wr0bIpE6GQPMWI5cXGcyQ2lWQygV6tt_BNnS5ZrvDpxqoNGnMdsLI00nyiUb82NrtStwI4searNeF27SB0_zmPX_oYebAEEC2GcNuVKo-Q3uVirv6n6Jpq41DE8FsvIqd1kLYG4N3bm46bxTcPP1Y64ARNwIVZvAj6m0SZgTwiWhWI0t9M3JXsvW0mMqFR8B1vb4msLCGn4BYk7m6DSnO5BWhHV73rQP9o65FTx8D77sxS5XfsWI87bM1__pL4g9qKXIhzoiECrg.jpg"
+          "url": "https://cdn4.telesco.pe/file/JcKmryJz9hdCFZ01FywQgwZ93bz_HdSyesZtkVn5-tuPLwJyYRo8Mp8oGBkjAtpKV6BRLlJHVm7onfuBViqQgLXTjpIqy-1NaM8O1f3HVPq70WG5feJW_Kw-SlZKEHtNzkfL6VFbY-M0yVb6AH8yBmakb6uSodrpwSSp7rQkuk_5NIbPuKTlCEV1tPr4f7p6xqGFimBuAr4CpN_HSRG_MIhGPtIRk7MKpXFlbZjx1qLiLdXJuFJHOLDTkl5XWLtuZBiFAMV5ab_JNud0sdwS7MArZ82opxPU0aWvyYw-yxA8w04elUmu1Oo_D1vWMXJ5nR8johgwOlpNJ-BWQFxsAg.jpg"
         }
       ]
     },
@@ -106,7 +94,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 802,
+      "views": 826,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +102,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tEPekz3PKItY8bD4WCXAAapkmB6MpRpRMs4ldWgb9AH0W1l-DbHYqwJ9xBBWxn5PwAnmY0JawfDNAUcg6X0Y6BHyKbuVNClASu98AhTxfWEs9KMAbR84BQYLx7kb4hLCEpy6qSoFDD_qw9FPI9VJz5audNxo4PlF5rBfq0AFRTk13GrCJ991Eu3vytLiZbnuTaAONXwoTuEztfc-ULdPoW3wKY-VTuxAtQnnLro8BwlVQ1Lagb_heyFLX7fx6Xdor-65082Shu13e9n0oGHDCfUGM94NiAtnVwejAl3GGnj2q7-bhnnljSABkyJdzBkg4pKkO3QqgOtL1UJxqi0lqQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/CJMrfNZyDN8e1x90mtDWsHv7ZmmGSltueMqEobXfDHc-WHiXFLmbf_YNljleI78UQ4F50SJA_R7a0-4XGjMkMWqK3t62endjd6j9Ypn7rwY74QiTFmfLE9d_KYuNAfGHwodlbn4QzM1LWlUMJWPBtnhP1lnG0o8GDdJYdhN7tsPsv-cVZpTIxCWfbYRqb3T8wJKtxKg47E89aRb6FahXpwZZasipnNHigAy5jz-zHQKA3m2mqKgKxHk2FEm8wR8PkfpKt66tyRjMDfwRh5lCRb_dcWMhDGwSkUCmx3QKsZjh9_RRBbTbtJSlQvyJi8jPddyp1oZd2kZaeY9tzAISpw.jpg"
         }
       ]
     },
@@ -124,7 +112,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 785,
+      "views": 798,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +124,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4480,
+      "views": 4980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +136,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 489,
+      "views": 498,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +144,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Gj1MMiFsU3F7syhZmefSEOMSu1s1advEW0bKJxFxvrTRsyTGaLTCAgnUO0_nXHoqmFz-cu8FozrY_ToRC3qrxvAD-BtdcRzOXHTV7NjCDaoO8wQBKZ8ltDkLq6zU4zw7xQE9wudMC2i733hvT3fWWS2gld2i3s7m0HzPKiDuvHkv6dukWWEqFG-f_mu3pmg6A4JOkcZB5bITMtBeb5FNSytjE-vChCM3X8sw_tt_vRSt-mQSpEm6ihaYQG391pJSPIL8-VTU9Qacnfh9YMn1s_ul_LKHssBM9icCBMCc3v0TyXP4XTsR78BY7-SlWaEB39zfCHS_gQ6GSuKgA-gnPw.jpg"
+          "url": "https://cdn4.telesco.pe/file/tUwmlFntg9-gz-GvaB03FwJe-JwPIny-_vcgyjoK3zBsd_EcFvdmXYeer9J60ksB_IbA5w1SMxO9gdxpYRHVeE2UEJwNx3PnPYk_XDRmUkpuFJkxiZGWCXf2h2VEgxlzAyMgAqYADY0aRWKKNU3g9FWCqiTHS6ZUB9Q4NavIe99bfTZL0Q-Bd_O2zQImX0JCLebVpUXR8aDt2uHIvc6MMBzrlXsLJLTK6pfi9WFJ9g131NL7frxNZYyC8pujETC2bucrzvrFjs_mDw6eabNbl_S-AlVertj-4CZEg8iAHu_EUC37m_h_8FyGK7G4cCXJVb5ZGk6NNLLYI8nLkH-XOw.jpg"
         }
       ]
     },
@@ -166,7 +154,7 @@
       "date": "2026-09-19T18:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 759,
+      "views": 780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +172,7 @@
       "date": "2026-09-20T06:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 590,
+      "views": 621,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +190,7 @@
       "date": "2026-09-20T17:39:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 580,
+      "views": 643,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +208,7 @@
       "date": "2026-09-20T18:32:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 525,
+      "views": 599,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +226,7 @@
       "date": "2026-09-20T18:48:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 504,
+      "views": 587,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +244,7 @@
       "date": "2026-09-20T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 429,
+      "views": 519,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +262,7 @@
       "date": "2026-09-21T06:21:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 204,
+      "views": 421,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +274,7 @@
       "date": "2026-09-21T06:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 192,
+      "views": 425,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +285,26 @@
           "url": "https://cdn4.telesco.pe/file/cP74NBAgq4MsdEvcr8gsaqTwX2XpXFsU8yglxZ02yT4fmcZdbMxUlZQEDVLI78SpHUPQoLv5kGbBfrWp3mpRNp0KqC3R0BhrCSrMUXNAZohf8G-Ij_V01W3yawdOy3DQSFy8JXt3PzTeJF68VkjZX-dcIiamU5-hC_7xR24gFKktz4Zr22UwLs0eh38JdXNKHq1UL_3QaCwYGqdw8n9F6itygZ7gQhyY6WqNv3xErImX8nuQf-u5YvLgqKRtyXZH3kZwC4-eMKwajHy5VTTlzGaSj4CtTwDbjel7tsMzwsWDufRsyNQQL9ZAk-FhAlSCuJ5RiA1vR9V7HJ1s-kyCAg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "الان پاستور هندلر داره و خب این یک قدم مارو به این نزدیک‌تر می‌کنه که فضایی رو برای توسعه دهندگان فراهم کنیم تا بتونن برنامه‌هاشون رو روی پارچ منتشر کنن.\u003cbr/\u003e\u003cbr/\u003eبه‌زودی هم امکاناتی که قبلاً درموردش صحبت شده بود رو هم اضافه می‌کنم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-21T12:59:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 262,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Sue16yG9xMZ-MWe5Qhk9JSsXNSYjjeOxGEFPIYBUbZE_Q_zj7--ssEpiHKeLbZYMo9StKc2m5BszwmOMPB8s-k2na8KEIXhYEruj52kBkqWri9moGvGK9aQXuxi1QKgPIdSTpXpOhkgWWlZnMMsO662-ExywFAHp82ub81V6D1eL7k2PeMlv7y9Xo5wPsCy5k25MITiwkCC-pMPZRojRS3HaOeWw-KATh_gLNL81kpCjHC0B5uuWrIZyPHW524iI8kBRWCd-oVinKr33avmM-G5p4LBlbiPHfoI9MHpC-gJ_Rry-P4KmS4FdX1ewDWlsEp66KjV5E0bOrZbHWohcJw",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1789977956
+  "last_updated": 1790003625
 }
