@@ -8,171 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یعنی یک نفر توی شرکت ایتا با این شورتکات :\u003cbr/\u003e\u003cbr/\u003eCtrl+Shift+F\u003cbr/\u003e\u003cbr/\u003eآشنا نبوده؟ اولین چیزی که یه برنامه نویس یاد میگیره Find in Files هستش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T14:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UmF1WyhkvXHec7I-bQajT7F2rCVBx87GZ4m8s06s89cVwjweZqEH_SdLUH3EE6pECsmyKtAak0YseSYhzWv-09z4U2xobXbdmis6cOEqSL_gJJEiDImOQI41mCTcrOna9ryls7XyRZs7rbOvZzt6ioDco_8TO1x3jpL30J4iIKPZJlLIyFrRLmC64CNlgOmlKtpQ-90_he0_Orax-HVhcJLykSLLQpAWDAsKC5Jko6cZPwcLinZ1LLeqd_0Q0duO5x9jRv3_Rhl1NiRk4LbiGo-bgISHBaSeZjJYZN1ihFXG4_5gZR-og69xRnm5xLg4_kNJHUog1wd26s7F7pnAJw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کلادفلر توی امنیت واقعا تجربه خوبی داره، یه سری اسکیل رو اوپن سورس کرده که مثل یه متخصص امنیت کد هاتون رو بررسی می‌کنه\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جذابش اینه که فقط دنبال الگو های مشکوک نمی‌گرده. اول معماری و Attack Surface رو می‌فهمه، بعد Findingها رو بررسی می‌کنه و سعی می‌کنه مشخص کنه واقعاً یه Security Boundary شکسته شده یا فقط یه False Positive داریم.\u003cbr/\u003e\u003cbr/\u003eحتی برای Findingهای مهم، فرآیند Verification مستقل داره؛ یعنی Agent دیگه‌ای میاد و سعی می‌کنه Finding رو رد کنه. خروجی هم ساختاریافته‌ست و Findingها رو به confirmed، needs_validation و rejected تقسیم می‌کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/cloudflare/security-audit-skill\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/cloudflare/security-audit-skill\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T15:13:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PiI2MXRPwB5bGa-A_r9E-y1N7BU0VfjSEuOOqSA7ZN_jRa5ZKLoJP3UNc4RWwHDi9xjtfAvR334MU-el9QZhAoRRM-zbvW1jpm-X7febjpXDKeFmO5_tpJAcfHwk6uyIShtSXcC_rvKOZzS5WwIqnh9b-vn8r1GHKTvA-Jp1GhEJxiLqd1SkscFQKASCfOHiCmMT-RGrAA7lyoh2D2gjsF0gVoGHVFeck8-VrU5E_o_qUARpZfL4c2pEWKZhBGo3GEeg4hKOHmh9ELA52N5Ol8MgH0fqQCbIskcN04mzS6B8fEiGLRVVzsB0zrqi-F3LW6NfJdhIK4PG3sP16AjZow.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان اگه خواستید سرور بخرید ارزون ترین جایی که دیدم وب داده هستش\u003cbr/\u003eاگه سرچ کنید الان کمترین قیمت سرور 950 تومنه ولی اینجا همونو با 700 می‌تونید بخرید تازه من باهاشون صحبت کردم برای تمام اعضای کانال کد تخفیف Linuxor هم فعال کردن که 30 درصد هم از اون قیمت کمتر می‌شه و 490 تومن می‌شه\u003cbr/\u003eاین کد تخیفیف رو روی بقیه سرور های دیگشون حتی خارجشون مثل آلمان و هلند هم می‌تونید بزنید\u003cbr/\u003e\u003cbr/\u003eقابلیت تغییر آیپی بدون تیکت هم دارن و بی قید و شرط اگر آیپی خراب بود عوض می‌کنن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://webdade.com/\" target=\"_blank\" rel=\"noopener\"\u003ewebdade.com\u003c/a\u003e",
-      "date": "2026-09-20T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MfcLHjIAJTZitGMlx4i3YQ-cJRvGwKdwoWHYnSkLWWhg-yCGI_P21PLCTBczkLbSFHrbzsNxHOQKl21YfwmzfM9QdzRx24dTewElc_6zJprteJWMVrEUavU53peyqUAXDEWh0J8SoAmXo31d14l3SesJA-rB2MOklrVHubhqw1vMY8ioVftbYE1uyNr5pdAKTTST0_w41U9pqyS2IM8rL2mhofHkiRZG91NolvuVWwqEumG0a7V4Nr2zQU3dkTo0eJYSW-YbK1jZEXt08KrKS0zeB2bUhQm7zA9AqLK4wslaqLYXDfy5aW1XkfZ6xigrFKv6Y46rOFuybaCmfhN1bg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مشکل خیلی از هوش های مصنوعی این نیست که کدنویسی بلد نیستن؛ مشکل اینه که نمی‌دونن چطور باید یه فرایند توسعه نرم‌افزاری رو درست پیش ببرن.\u003cbr/\u003e\u003cbr/\u003eاین یه مجموعه‌ای از Skill و workflowهای آماده برای ایجینت های کدنویسیه. از Spec و Planning گرفته تا TDD، Code Review، API Design و Frontend Engineering.\u003cbr/\u003e\u003cbr/\u003eیعنی به‌جای اینکه هر بار به Agent بگی چطوری کار کن، یه workflow مشخص بهش میدی.\u003cbr/\u003e\u003cbr/\u003eبرای Claude Code، Codex، Cursor و کلی Coding Agent دیگه هم قابل استفاده‌ست.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://github.com/addyosmani/agent-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/addyosmani/agent-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T16:49:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/J_Uq0S-hQr7L0K0YbNhwWvk8Q4rLZkxDfe5CFyzW1VPUncivFHhghLE5syxoNCwaCtcASJVw9k3Nd0vCwRDJTjsr9uRm4-uGopwhgQq4KEOKIkwdbwkuEablfOlhfTSRH2-jedKs-bQgCj_uQZdkFHqlU9kMizoKOTfjnoQIH5yMLr3hTi3Gtdauw4aFjbHoGs7knxwNeABul4XKwYxzsovOB0qSGVvwaQTDcWDBUhBHTS-h16Y3QQhZZTVK31R7q7JcOnt1Uw5NBdWsOmCZo-hZXMnNX0PYOChtGx0ZvqtyVT_QCuzduL0gMImB-CHFxmRU7A5YSLtHYUpnZ526_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل Jev که جدیدا معرفی شده و سرو صدای زیادی کرده سرعتش به قدری بالاست که کلی کار جالب می‌شه باهاش کرد، مردم شروع کردن و به صورت وایب کدینگ باهاش اپلیکیشن های جالبی می‌سازن:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T17:05:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XGIZexylnDuwexniR1ilUDvgj9fFOlTcQ9JV3WfYJT1kuOB6Be_DSg6KbAbeyr3dKecH-_pk_9S82t71iDgddzpC-wEKjNyxNDk-KpDRUj7580S3ptEYFZ6sVNEj28mAqCxtP2F323Wf94kYPuhdjSuWWKB0ms2UutqxKkgbZ3O0px-TMytsBoG4bWFNsbBT6d4NOOnAfwnnhK8h-IZObpo6EzbvVtWqusihBqlznZ8aYpHutVVVVC9IoJzTXaqoc3tZVEHr_qSZMo45csA5QV38g4YlgJhKYVQcg9_Uk0pdnyTrZeJYL7xinU18-zIF6nJa75S6FlH_QIDkBfCO0Q",
-          "width": 3620
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌تونی یک نسخه‌ی کاملاً مجازی از iPhone 17 Pro، iPad Pro، iPhone Air و Apple Watch رو به‌صورت لوکال اجرا کنی؛ اونم مستقیماً داخل مرورگر و با قابلیت اتصال به AI Agent.\u003cbr/\u003e\u003cbr/\u003e شبیه‌سازی با 60 فریم بر ثانیه + ژست‌های لمسی واقعی، بدون نیاز به App یا باز کردن پنجره‌ی Xcode\u003cbr/\u003eپشتیبانی از لمس چندانگشتی\u003cbr/\u003eداشتن Tap، Swipe، Pinch، Home و Lock واقعی\u003cbr/\u003eاجرای Headless و ساخت فارم چنددستگاهی از iOS 26\u003cbr/\u003eدسترسی به Accessibility Tree و مشاهده‌ی زنده‌ی os_log\u003cbr/\u003eامکان کنترل و لمس اپلیکیشن در حال اجرا توسط AI Agent\u003cbr/\u003eانتقال تصویر وب‌کم به دوربین شبیه‌ساز:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tddworks/baguette\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tddworks/baguette\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-20T17:30:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jjventFW8s314eFrvCBrQm8dlVWzG2Mos1lr6ZJSyloTBWoZypN-PdMgxvaFh68HreCALAoW7EkrD5SwduGnap5WSilOOUUl_JbFnOD8JKj70RUC8lgDco70phn3TdzHyMbU0aT3UfjMLEYGS3LU1fiXxC70veLDDFYkAeT2W5ggkkUTm9CkQDrqnPF8OOEzxwYME9zc4eLJmL-cj2VVS3Q4f_rgbZfMGYZt71jYsSNDeg6peveYbK6DiYJXGNJL1I9h3YaaInSSYaMpAhK7-u2wKsdXFpDvN4GPnHerFDTzYibqGtAMynDEOKRgPbIKELNDoFDDOHoYqajZ2qECQA",
-          "width": 1922
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5215557810359639942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آخرین فرصت ثبت‌نام در مسیر پایتون جنگو مسابقه المپیک فناوری.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321153068845245772\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  توی مسابقه فرانت‌اند، می‌تونی خودت رو محک بزنی و برای کسب \u003cb\u003e۲۰۰ میلیون تومان جایزه نقدی\u003c/b\u003e رقابت کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5343998927605615404\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد از ثبت‌نام، \u003cb\u003e۱ ساعت آموزش تخصصی رایگان\u003c/b\u003e هم در اختیارت قرار می‌گیره تا با آمادگی بیشتری وارد رقابت بشی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه مقدماتی آنلاین همین آخر هفته برگزار می‌شه؛ پس فرصت رو از دست نده!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eثبت‌نام در این مسابقات کاملا رایگانه\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5357067430755585653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6043992250831082249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشاهده اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5292122921035133343\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AB9.png\u0026#39;)\"\u003e\u003cb\u003e🚹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://quera.org/r/2jk0o\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/2jk0o\u003c/a\u003e",
-      "date": "2026-09-20T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "یه چیزی که مدت‌ها دلم می‌خواست وجود داشته باشه رو بالاخره ساختم: وایب فارسی UI، یه UI library برای ساختن وب‌سایت و وب‌اپ فارسی، مخصوصاً برای vibe coding و راستچین تمیز، کامپوننت‌های فارسی، تاریخ شمسی، OTP، شبا، فرم‌ها، انیمیشن، WebGL و کلی چیز دیگه.\u003cbr/\u003e\u003cbr/\u003eولی هدف اصلی اینه که وقتی به Cursor یا هر ایجنتی می‌گی:\u003cbr/\u003e\u003cbr/\u003eیه فروشگاه برای فروش قاب موبایل با وایب فارسی  برام بساز لازم نباشه بعدش نیم ساعت با RTL و فونت و تقویم و فرم و هزار تا چیز دیگه بجنگی. رایگان و متن‌بازه. امشب منتشرش کردم.\u003cbr/\u003e59 کامپوننت 8 بلاک 32 پس‌زمینه 24 قالب 6 سیستم طراحی\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://vibefarsi.ir/\" target=\"_blank\" rel=\"noopener\"\u003evibefarsi.ir\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003ca href=\"http://github.com/TronIsHere/vibafarsiui\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/TronIsHere/vibafarsiui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Erwinamm",
-      "date": "2026-09-20T18:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oKkUsOt4A_HXgYUA2F46_8XuMNA4T5otVML57HB7GdQFr9w9EaPbNUT88CrdTlIB8fu9mF8hNPNzYRiDFKSweyJJSdt2ybI3yi-S9tdzLZlVCLIq87ivRz2dzM9GousEr4GpoWZmqmOvg_rBhmhl5yWkPzGw_nbWnCLUKjGvy--GWlcrrSDDd87mzZUBbMWGmzBtWAtWhJAGR8687KIl3wwTBUMlcb6Y7Yi_N_zAzc3ROUOnUBiWunlKAtlydpI3rAi1F3YSmIFcRnu86MrZRtMpy9u-nzLX7bROBxfQsYhju1ao5xcV0wy8hQgM1xPw-OO6mrZDop5VNgZMKZZ3uw",
-          "width": 1196
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی دیگه از موانع رسیدن ب AGI برداشته شد، \u003cbr/\u003e\u003cbr/\u003eحالا با جِو Jev میشه تصمیمات بسیار سریع و دقیقی گرفت درحالی ک بشدت مقرون بصرفه و ارزون هست ورودیش و خروجیش تقریبا صفره. تقریبا ک نه! عملا صفره. \u003cbr/\u003e\u003cbr/\u003eببینید چطور همزمان 50 تا Subway Surfer رو بازی میکنه. شاهکاره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ 0xKaveh",
-      "date": "2026-09-20T18:59:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/eDVlT9JoaFbtP0n4ExpdYLg1lEPNb90O78Ts8KBF90LMeO7YI07rHA6-XEMZM_xXkdCc6IjIjzJbGJEfGxEK-gF3g-zV0GJjBDSN5qQZI6aY5wIQo0wbunrj6dh0pW_6wDUvGakNrer22bgkObnjfKydUeYJNfNDPkxj2Z7UKMlI7KrTZ1TG3rHoKUDdM7vVrvK81PkGePoTglh3L-oB0bmrxNC7CK6zx_G5X18DG4b4aw6rK3gy1xT6ecsL-5axRwI6nVGpsdeNuXRE3zSwfHpbQlhLzefg8j-ygU1pLoeoa05JxUy4gjqmRhtzPr4oVC6m59U3WFKLt2WpZ5_n2Q",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "دوستان این مقاله کوتاه رو بخونید برای آموزش کار کردن با مدل Jev هستش که جدیدا خیلی معروف شده و اساساً برای تولید متن ساخته نشده؛ برای تصمیم‌گیری سریع، ساختاریافته و احتمالی داخل نرم‌افزار ساخته شده.\u003cbr/\u003e\u003cbr/\u003eایده‌ی اصلی Jev اینه:\u003cbr/\u003e\u003cbr/\u003eبه‌جای اینکه از یه LLM بزرگ بخوای متن تولید کنه و بعد خودت از توی اون متن بفهمی جواب چی بوده، سؤال مشخصی بهش میدی و اون مستقیماً یه مقدار typed مثل yes/no، یک گزینه، یا یک امتیاز برمی‌گردونه.\u003cbr/\u003e\u003cbr/\u003eمثلاً بهش میگی:\u003cbr/\u003e\u003cbr/\u003eاین تیکت مربوط به کدوم تیمه؟ ← billing\u003cbr/\u003eکاربر عصبانیه؟ ← 0.82\u003cbr/\u003eاین درخواست فوریه؟ ← 0.91\u003cbr/\u003eشدت مشکل چقدره؟ ← 2.4\u003cbr/\u003e\u003cbr/\u003eتوی مقاله با مثال نحوه استفاده Jev رو گفته و توضیح می‌ده چطور میشه چند تصمیم رو به‌صورت همزمان گرفت، confidence داشت و کارهای ساده رو قبل از فرستادن درخواست به مدل‌های بزرگ‌تر انجام داد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e\" target=\"_blank\" rel=\"noopener\"\u003edev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-20T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7600,
+      "views": 8109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M_wo9sjP2ScegeUWocnXoDh5cFj0iNoQNlanlhi7Nkjd7gC_2kSNCkJG4-eUQrgp4Y2-EWmFFP8_BA9bja23G9s9FDxJBQPBc0kvE28afAqXCGnO72PkHDFcQgfElAnpTMc4xtHXGgL7HvaEXXfadcO-3aYIur53HP8MAcQChM0Keru0gUXBpN-Ku7zBTb436sXU-AwwquQUfu1LjCHEjraQdWc3wsmicuBlMEWOjzCeNJ4NINU9NBCFRJd7FwurNe5_V5hEhGsUGd55i-kztpeWD0TtVa7VrsyrzmbtNY0CVhjGRSTpvJaZf-Dgm8ePbwnW9nKSF03Yv5PgnB8OYA.jpg"
+          "url": "https://cdn4.telesco.pe/file/ReuFKz845DjdOyTkq9kjRyHWT1V2XVgmrl40sR23ZIDGoZvsPlwiUPbFDPENPI0SvupPN1BQDxlaidxwJctjEz3T1gQVyvPdU_AsqdDPn8IffQJ5JjQlqgs3myx-pl2O088hHFKUWZiKnfJhE8ctrywCEFFS4yuXXQYmxr_DiASGholrDtOvpNytuyojo3zT2q3HE_QsbX-65vQjg-oivGJyXG_iPIYtwBeSNiYOvvRdrkQO965vxCUov56yOmPfviX5r3rFNGNHeydZNJ-SwPmskaoxkoxIH8yWB0JK964Voi8NOUYqOcCMpuUGv9nfEEDHn5uAI-TcEelcwgqumA.jpg"
         }
       ]
     },
@@ -190,7 +30,7 @@
       "date": "2026-09-20T19:43:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 7610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +42,7 @@
       "date": "2026-09-21T10:26:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +54,7 @@
       "date": "2026-09-21T10:46:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 6270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +66,7 @@
       "date": "2026-09-21T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 5610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +78,7 @@
       "date": "2026-09-21T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 5620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +97,7 @@
       "date": "2026-09-21T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3600,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +116,7 @@
       "date": "2026-09-21T13:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 5310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +134,7 @@
       "date": "2026-09-21T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2290,
+      "views": 4800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +146,7 @@
       "date": "2026-09-21T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1990,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +165,7 @@
       "date": "2026-09-21T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1420,
+      "views": 4840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +176,168 @@
           "url": "https://cdn4.telesco.pe/file/INOX0hfbmwSdYh9ejbzciiK_99jiQ27Heb5tl6sq0HeeF4lh6GzuwiJqVILe2vnVJo0a2BAQ08mtSR54LHUByUxHEniML1kQew-_4q5r85rn4CjEHGykDJHpCR4Mk1Wk4Yt-wTA3o2t0QqC_R81PDdXDu5LNbGNSCp-0m-y4Hai7kPgYuAdSYoNWQ05UGfpQxvrq-YE5poerC0-S0rXLJVvMTsd0SL9RwZCl0wIQ1R-J1mZkWfNemxQ_Zko9o5GAi76Ajut_79N-HUejYgUWZuQ2p45irxe3s5yNLQJlSom3jqT-Qv_Vu-1dYegXWr3wKVmjzqPt0aLu4dMcbSLKXA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "پروژه OpenStock رو ببینید یه داشبورد کامل برای رصد سهام، Watchlist، اخبار، اطلاعات شرکت‌ها، نمودارها و حتی قابلیت‌های AI که می‌تونین خودتون هم Hostش کنین.\u003cbr/\u003e\u003cbr/\u003eبا Next.js 15، React 19، TypeScript، Tailwind، MongoDB، Better Auth، Inngest و Gemini ساخته شده، Market Data هم از Finnhub و برای بعضی نمودارها از TradingView استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003eچیزی که برای من جالبه اینه که فقط یه UI ساده نیست؛ یه نمونه نسبتاً کامل از یه محصول واقعی با Authentication، Database، Background Jobs، APIهای مالی و قابلیت‌های AI هستش. برای یادگیری معماری یه SaaS مدرن هم می‌تونه خیلی کاربردی باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Open-Dev-Society/OpenStock\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Open-Dev-Society/OpenStock\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/V1XiXEJ2fwnoAk2LGSCgJbevoZGf1l4VfnrGA1usq7xZlG_UqK1PRiiDLZ2XQ8zyAsaM_SOYE1ekp0LpJMlMVmbN2gSdixh0cCC1iUl6q6oXf0siQpJLZeBMzDc7C-xVUkwL3JbmlfUVbHaGv43YKvekVreyu0okOcF9Hd5NK3wuE5ypY1KJMBtxRqp4ZiL8GjwC2iHaH8n9-lg5MeybniyRGmbm4uK7N0Gqe8J2SicYao6RZ30LrP3lfKDiGhqhVzA_MzznXRgTQU-KG0nUo6oHTAe26XQJxRqZfP3wEuBdxrVV1LwY4ION-5-ZSCR3Wu6GR_AvmwMg8oCZ4e20hA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "سلام رفیق! یه هدیه ویژه برات داریم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eاگه هنوز اکانتت پریمیوم نشده یا وقت تمدیدت رسیده، برات ۵٪ تخفیف نقدی روی اولین خریدت فعال کردیم\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eفرقی هم نداره بخوای روی اکانت خودت فعال کنی یا به رفیقت هدیه بدی!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e برای اینکه تخفیف همین الان خودکار روی فاکتورت اعمال بشه، روی لینک زیر بزن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/TgDakehBot?start=promo_FIRST\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخرید تلگرام پریمیوم با تخفیف ویژه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e(اگه دستی هم رفتی تو بات، یادت نره موقع انتخاب روش پرداخت، کد \u003ccode\u003eFIRST\u003c/code\u003e رو وارد کنی!)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eراستی، دکّه مارکت خرید \u003cb\u003eاستارز تلگرام \u003c/b\u003eرو هم با نرخ لحظه‌ای و تحویل آنی داره. کافیه از منوی ربات گزینهٔ «خرید استارز تلگرام» رو بزنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/TgDakehBot\" target=\"_blank\"\u003e@TgDakehBot\u003c/a\u003e",
+      "date": "2026-09-21T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nlKNBNbwsW-0QnryUV_ktvK1GQpaogpDAuoVmgRFTxPdRE0-z4FVYnUH6ZRV90CKAkkdrfLwMcxiioS3GH-Ogh9MNZqnZJvlZGem-Mjiv53FgVu6YWYT_dZEiMBppd0utA7axLuGvcPTNDVfPCBgjYZKpjrt1h9iDPq93Kxt4CIVQPkEgd9L20-NS9SrfS6E0oHqg96CzN-KsWQEeI7wfIO8z-KGGkht-2YNOGMYTH4Mh6A3HEowzdMvBuMcKxMpw1-CJ8PkiEALReygAJHsn7hPZYJOryj-RiMl-S4Yjn1tcDwxcEnYWkNV5JG8ARp11030xBw_Fuo3IkZH70syWw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه با Claude Code، Codex یا OpenCode کار می‌کنی، احتمالاً یه عالمه session قدیمی داری که پیدا کردنشون خودش یه پروژه‌ست Chat Seek یه افزونه برای VS Code هست که چت‌های قبلیت رو به‌صورت آفلاین و local ایندکس می‌کنه و با سرچ معمولی یا معنایی کمک می‌کنه سریع session موردنظرت رو پیدا کنی.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونی session پیدا شده رو دوباره Resume کنی و ادامه همون کاری که قبلاً داشتی انجام می‌دادی رو بگیری. سرچ و رتبه‌بندی هم می‌تونه کاملاً روی سیستم خودت انجام بشه.\u003cbr/\u003e\u003cbr/\u003eگیت‌هاب پروژه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/fstandhartinger/chat-seek-vscode\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/fstandhartinger/chat-seek-vscode\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/YIa_l7YQ7s8dKcDP7d7krLDEsHfLb-SrrFbbD20JDvB05CkOQZi-WxvzWqD-05XuLSN4I1jk8FPuw71x9PsgFq62R-059i_nKzx-zqmEoTWyKLjAx9xkGLcS8CdiPGShhhFCBKudwpzT29oATD969s9w7VMRv9zmv0XXWqKjzanGPLNWKRiZ-TT90C1edlYIB4O3lJgt_-qCvXvXNQOXvyGoPQrJqPZNyecjOPXk8LN63jM7cIgN5-iQtjEeOaGJebAnrCm8-UUpXIaXIIDSBQ1Rhidhl6xT4anyoPXMDaJNwqqSFdbqOPv91zsyOHCtslfSwrzm3gxVJMcofhkZkQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه AI Upscaler خیلی کاربردی پیدا کردم.\u003cbr/\u003e\u003cbr/\u003eتصاویر و ویدیوها رو 2x یا 4x آپ‌اسکیل می‌کنه، بدون نصب، بدون آپلود به سرور و کاملاً محلی و رایگان روی مرورگرتون اجرا می‌شه.\u003cbr/\u003e\u003cbr/\u003eهر وقت رزولوشن تصویر یا ویدیوتون ناامیدکننده بود، مستقیم از مرورگر استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://freeupscaler.app/\" target=\"_blank\" rel=\"noopener\"\u003efreeupscaler.app\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ai_ba_reza",
+      "date": "2026-09-21T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FB6S-GfsEdj_D1PU8KcJHJasztj0nxRTwrwjL0vis84dl-oNAo6Wh6HyERMUQJ_Yth_x-jlkjfQMtF6yun8QchHSUOwdCnB1akorcX4nEt5jazVe1oI8DQg2cyGtlpG6CYtZE8fsKXDfotGjJLhdMvrjKttWNz9sFlkJdSOOlgESGF3dWcT5WZX55TQJdbneQ9Mp1dNOVzRdjo31AYq_Seyb8Hty8j545ql1CEW7bo-YXOFup1Lhyq_cT1fOzJYqQ45PPljhDt1KXjDxgbS5ohzKKVHyWZfQBVPq0S3Wz-Hir9Epq_6dI4-tjFKYwjjxk77NJaEuhJ48HwSI6crtKw",
+          "width": 1436
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینو ببینید چه سرعت خوبی داره! این خودِ Jev نیست، djev-run هستش؛ پروژه‌ای که برای اجرای مدل djev بر پایه‌ی DiffusionGemma ساخته شده. باهاش می‌تونین djev رو خیلی راحت روی Google Cloud Run دیپلوی کنین و در چند مرحله یه endpoint سازگار با Jev API داشته باشین و خودتون باهاش بازی کنین:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eایده‌ی djev هم مثل Jev یه مقدار با LLMهای معمولی فرق داره؛ به‌جای اینکه صرفاً متن تولید کنه، برای تصمیم‌گیری ساختاریافته ساخته شده. مثلاً می‌تونین یه پیام کاربر رو بدین و ازش بخواین مشخص کنه مربوط به کدوم دسته هست، شدت مشکل چقدره، آیا درخواست refund داره یا نه و حتی برای جواب‌ها probability بگیرین. یعنی خروجی مستقیماً می‌تونه وارد منطق اپلیکیشن بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/taeold/djev-run\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/taeold/djev-run\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MQT0n3PUblkf3rguiIyP9JyYKFKhyxFzHPbbbiV2CEGZ3Oy4noyAXQU2OJaXAnJGvX5sKIuXqvEGNcE2sRdFgSgE6MAQWI_g0w_8Fqmmctno0cN7F8nrd1WXvVVjNBTslfJhL-2mCfXUXkMcTHdjR21n6hqp6lV5rfXyKqq7GPDYmU3ZerTuaGIVWVHrHEupjkTVL_T_mVve-IjcSeV12oh644UPUE29SiXtPieOhyuTxkRDZlaKBa5dw0N_xwnENKPxRx3e_9AO7X1QdL36dBax5VbP7v50QT0sUMewTNjBjbn7axMqEjsZf5zOP7KPmJRh_aCsF3Hywmt80J_ldA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e هر مدل استفاده‌ای، یه پلن داره! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929C.png\u0026#39;)\"\u003e\u003cb\u003e💜\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e بدون DNS Leak، تستش کن: \u003ca href=\"http://ipleak.net/\" target=\"_blank\" rel=\"noopener\"\u003eipleak.net\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e مناسب برای تمام سرویس های خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e استانبول، نورنبرگ، استکهلم، لندن و بیشتر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e سرورها چرخشی عوض می‌شن، ساب‌اسکریپشن خودکار آپدیت می‌شه\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003cu\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D83.png\u0026#39;)\"\u003e\u003cb\u003e🍃\u003c/b\u003e\u003c/i\u003e پلن ECO (۲۰ گیگ) ← ۱ کاربره | ۶۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e پلن ECO (۵۰ گیگ) ← ۱ کاربره | ۱۴۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e پلن VIP (۷۵ گیگ) ← ۲ کاربره | ۲۲۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003e پلن ‎UNLIMITED‎ ‏← ‏۳ کاربره | ۴۹۹,۰۰۰ تومان\u003c/u\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e قبل از خرید امتحانش کن: ۱ گیگ تست رایگان، یک‌روزه\u003cbr/\u003eو با اولین ورود به ربات، ۵۰,۰۰۰ تومان اعتبار هدیه هم می‌گیری.\u003cbr/\u003e\u003cbr/\u003e\u0026gt; \u003ca href=\"https://t.me/AxisTechNetBot?start=ref_2021599138\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eورود به بات و دریافت تست رایگان \u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-21T18:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NeIK92fiO1iSICr51nxw3VPxq7d3klMxDSK6BS78EGaolQGxNXwLOD--aMJLGxLVtYiQIjgZsIdJU9TjR-m8nu5gTyiyS1wc0MiIvkC7LcY-tDbrCSY48Dym4v-DsCYNjXHtghX_CeyNzf_VCcvKXmf_mMD4jQcWxGoAls3OlcAWKofmBi4YAxQoa78moK3sAgfcNcEtMX6kLqmTmBJC-91gwqm8D2WQ7HUcP4_HVdh0lQX-jmS5dQWHM6SMjMpVqhTGaUylpyXMjaMOYttap1a49QhIEHnRl0i2DJ5KhPUr-1GWbn2TN8q7nL2LLFyMqKIueeReR9RILpxj2LNt-Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دیروز یه نفر یه افزونه برای Chrome ساخته که یه سایدپنل داره و می‌تونه ابزارهای WebMCP سایت‌ها رو با Jev کنترل کنه. با هر چیزی که تایپ می‌کنی، ابزار مناسب رو انتخاب می‌کنه، ورودی‌ها رو پر می‌کنه و میزان اطمینانش رو هم نشون می‌ده.\u003cbr/\u003e\u003cbr/\u003eمثلاً برای خرید، سوالی مثل «چیزی بدون گلوتن زیر 2 دلار دارید؟» دیگه نیاز به چت و مکالمه نداره؛ افزونه مستقیماً ابزار search_products رو صدا می‌زنه. یعنی همه‌چیز لزوماً به چت‌بات نیاز نداره.\u003cbr/\u003e\u003cbr/\u003eنکته جالب‌تر اینه که همین ابزار می‌تونه برای تست WebMCP هم استفاده بشه. اگه 2 ابزار مدام برای یه جمله با هم رقابت کنن، احتمالاً توضیحاتشون هم‌پوشانی داره؛ اگه یه آرگومان رو با اطمینان پایین تشخیص بده، ممکنه schema مبهم باشه. در نتیجه می‌تونه به بهتر نوشتن توضیحات ابزارها کمک کنه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/sdras/jev-webmcp-extension\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/sdras/jev-webmcp-extension\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linxuor\" target=\"_blank\"\u003e@Linxuor\u003c/a\u003e",
+      "date": "2026-09-21T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/C88kXs8wAvRNicWlWKWzY4cYeFUGMN_7btQMQQTpTBwaUuaf2UjzZle06BRubf_ZHZUO84LCWUSeL5MgKVH_k0mgZZAomu17cWCFGZEjQGpt0_W3RDpocVkplC4KlkgzkUVzmT2mfuYnrrzSfjLGm2tFCu13QsWJgHFn0JHXq-3olms4xBiusLu9-4ltv3wXTfI9rg5Wt67wBVA_Xa2-EKVAy9PPGl3CLahPsZsTaGHrmpheHMoloazmJYfy2C_jxx119oogKsGzQuw4DzRCuPp3sEArEdk0IYS4boVMY6ncuCBcaOp4--pSY21_26lVXStsWZQUzGA11OZIR0ithg",
+          "width": 1076
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "فرق مدل Jev با LLM های معمولی اینه که Jev درونگراست و حرف نمی‌زنه ولی LLM برونگراست هرچی تو دلش باشه رو می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه هارنس ایجنت اوپن سورس برای Jev ! بیینید هوش مصنوعی چطوری داره باهاش قارچ خور بازی می‌کنه :)\u003cbr/\u003e\u003cbr/\u003eاین هارنس که اختصاصی برای Jev طراحی شده محیط رو می‌بینه، کارهایی که در اون لحظه امکان انجامشون وجود داره رو به گزینه‌های مشخص تبدیل می‌کنه و مدل در هر مرحله فقط یک بار تصمیم می‌گیره. مدل قرار نیست خودش متن یا Action جدید تولید کنه؛ فقط از بین گزینه‌هایی که محیط در اختیارش گذاشته با سرعت بالا انتخاب می‌کنه. برای هر تصمیم هم احتمال مشخصی ثبت میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/HarnessRouter/SystemOneHarness\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/HarnessRouter/SystemOneHarness\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-21T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/OPnPSJ4TikAFqa26ZRexCuZBNgSVRgE0y_wJBP7goXy6rK00fz0408IBTLo_i92CXwitFk0ZChDU34vpblR_MkoroRI4uYLQn4NKU_ZRf4z6ZKC5dkmCd5EvPMtTA3X9l4F0vapgUifYHnCY3Ir13W4snWkPg-8wS5vz-MM9YjqDA8b7kDz9zD9Q72xeLBbpdt4xODvKsMypaMNG7BFy1yYSA19o8C6K6AYk02yWrEkVdKAvgTEtvgEFQ3fPVR9M0jLx6bgb_DPVNLWTXyrOLzomGx_cFTojpqFKMqdfrskXSdX1nTS1U3RT6B_D5z3ZedzrvnHOQSVGJ9LQWDW6GQ",
+          "width": 1914
+        }
+      ]
     }
   ],
-  "last_updated": 1790003583
+  "last_updated": 1790021016
 }
