@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "از صبح دارم سعی می‌کنم روی یک HPE DL380 G6 پراکس‌ماکس نصب کنم که به شیوه‌های نوین شکست می‌خوره :))))\u003cbr/\u003e\u003cbr/\u003eخود ایزو پراکس‌ماکس که یا بوت نمیشه یا مستقیم کرنل پنیک میده، یا رزولوشن درست درمونی نمیده.\u003cbr/\u003e\u003cbr/\u003eدبیان هم که با هزار و یک بدبختی بوت میشه Raid0 رو نمیشناسه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eراه‌حل چی دارید؟ البته اگر روی همین مدل نصب کردید تا به‌حال.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-13T16:52:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "و موفقیت\u003cbr/\u003e\u003cbr/\u003eحالا می‌نویسم چیکار کردم شاید شماهم یک G6 باستانی داشته باشید :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-14T05:27:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ApKE70lvRBX5EyJTrXiCtNq_raqPSvPap8ZCfYVb4GhYbXCSKzzBYucBEn8beQvFXHwssTDTPVSire70Pweit54lICXUHN_yjC2Ww5YqGb6kprllf01TTkJwq541BvV-mB0DU3M7GCAAOAp-mi_SfaeaE37MJLIs8Sid2Zt3YPeGj9pik2w1zSR9MJU5aehDD6POOg_UbLIvyBbT35vUvw_PX-Zn-SBu0cRF1jJek4PRhYIAb1HUbG-mXjCIA_SxV9D2ofF-o_g74K1kUAIzmgPzVwRoDWeXXfpHjSdM6DdMglGBJYt6EV5K3QIK8D5vfTDZeDA4JmZo7C0Ta8KwWQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "حرکتی که زدم این بود\u003cbr/\u003eرفتم vt-d رو غیرفعال کردم که اون pci expansion خودش کار نکنه و همینطور هم ماژول hpwdt رو موقع بوت بلک‌لیستش کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003enomodeset intel_iommu=off acpi=off module_blacklist=hpwdt\u003c/pre\u003e\u003cbr/\u003eبعدش روی نصب tui اومد بالا و نصب رو انجام دادم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-14T08:04:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-09-15T11:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +36,7 @@
       "date": "2026-09-16T05:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 843,
+      "views": 848,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,11 +44,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qznRAGeHkucNSClm1kB-K_rXB7MESJMiBIAOoS9PKNWIj3lBXtE4rc391dvcNyVn23RI7JDwJaMVVf12aMKb-qZr-CK0OT7ZnTnjcgezrLgOddSuao9l3Nm8J42teN6OBHSweKz13t5sCX6pTq1GttReBnp_fbxr48jsLmYz1hZUk_79wqEXNIZspMuIBD7208JyNYOVFIx6GSjvVFiqD5UZyafXsce_BxBLygP_flDCtS9gEkhjmowwH0DGFdI5temsoUYi0FFg0Ue6YmGf2Eeq3K0YboBvSIv9GMLyYJWmHB42EvcNrGB0WFn4ZeqcaRsHOS5aLm3p9lJvB5hZHQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/qXOgqRre0oNQYLBDbdaxcfqDFwLTiC1mfkV21IC8thQnswE_whiZyZzpsNfpO1cwEwJtVk9U9j0HW0580zLBVNOtdMr10Q3MXrp2gAzjGIJWa6-ZT0mW-KLIMzU38MIRNcfM6gBQ_7sfoikJS80DfBFtvDoZ2Lizs3dL6JrhPkuHWBrX8QjTjaUTqEXF3tnU124mKEhtJedj3Uw0CMTEO56aP5e-MErRgaWOj7xq4AfUbzgFvn8r1YjsWl7AtP9TmBPdNdo6SP23qUf4voPHsUt6dSD6dgPPPhnu735safjM3LaChZC2ldh6DCWaX5r6GQnO_VOYlhgXbdmNlP1v1A.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/e3Y9yFxiV_nvN47iZBJdbzde6QLfWFdaTZvgawCEYlUtdXrn4_1W700zivvrIyKnsSrSDxOpPH09wdBi1ybpghS0DPK8ZLcRG3SbQs6h-5etXLxX_i1TJ4iyHcZEbqs-ufKze8G7P_vZXEIInLm0j1tKbinBYBBLQcBPx4kjyetEw1JTNggyC_F5MJmvYmVJDUZDp0ezxw0ansUeBqe2KaBgXMZyVS9NtYF5BhEGiKNNJFjNbGO2aAlHebeMVA5SFoQo7yV1h8D4OZXF-K7L5eZKqsEAWa2s0mw56Nn5oUe9eqFAxL3S3Y55SbA6J_QcUGMQgCgFzIOGi2wcrqCNPQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/TE6H-ceAVLoVxZYXXiHj0spsjla3P0JvyPxgQ9wzOTqpM_4RWR8wxsKqE2NteC6-COQI1jg0INpw9v5zKqmyJ_-hhbPSoD6q6YcRnMDqe_wFuEqcoDyRZf6sGGpYuYsRrPwWR3PlAFjZ8gJxzWXXNo-ZkrCOgi-Nb2bUsxI9M5bJvsYLp_EbF2QjGgMx4fIntiDGPgVZQyxiNDng91GaW0OuevcloCzoVl_Llsb-9NEROCwev136zypP8Sjcp6hV9eLBkqpfB_NbSndpX5w6B6_2Q5_vHYjzFLFHwHLWfGoQMwCjetMAWGf-pC-S0CnIJ1XeS6Wuc7ozV1A0HEp1wA.jpg"
         }
       ]
     },
@@ -88,7 +58,7 @@
       "date": "2026-09-17T20:03:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 849,
+      "views": 872,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +76,7 @@
       "date": "2026-09-17T20:09:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 855,
+      "views": 897,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +88,7 @@
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 825,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +106,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 795,
+      "views": 802,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +124,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 773,
+      "views": 785,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +136,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4160,
+      "views": 4480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +148,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 477,
+      "views": 489,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +166,7 @@
       "date": "2026-09-19T18:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 735,
+      "views": 759,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +184,7 @@
       "date": "2026-09-20T06:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 556,
+      "views": 590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +192,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aKuWNB-Wg77-1w3P7Z8ysZTDwBM5PiNogaEdP7zGBhsdSi_UhNZ3SXoMlqvJeFdUIQp-TRdsN_tWPjK0I97xEuybcBR-LUU9sZochLXqtJCpG1ZDLEAmdV6e39B-p1T3WC47hno3vXFWegfkw2gupjEXxAGjKZXbZfST1yrl0nJX3zswD06dFSdTKpzIrn6yfjgl1-N4vhPfwAwoXiPcgiYZLWviKDt_9tawQ0PCDj6C4LhQX5lm8mLUAUwh7t7ZvZnJC8GEJ-b8CHfLHATcVO1qSaTpZh_6K2mtq8FORitbwENuU2IuvmLzsX2rU_eK9_n30GjyGGERLRM8Cz7YWA.jpg"
+          "url": "https://cdn4.telesco.pe/file/GhDqYMD4itBqAx2deTMcEr9dRpBFW-pDlQ1MoRncbVjASjRFSb_3f4oXUDky-A6Wq_b6MQUbljp_keaEroEX4qPIw_bOSbECOwUJtuAsUJjL36LdvP0wnkZSeOV619pZ6jSmyfDecWEbWNoHIP9Em2YKAr_EovVNWJApW30z058UBXDYSpS1jd11VuZJmABkgJ8-qlaXSf-DDvIJN_dM0bkST1yVmJczMiGg1oRQaKdbiNMt_qQj8oqO7_Yppj8gfJ-BSLifKzybgMoHnIt8a1qsESwZ4Ar4qijA9iR7Bno6hhyrFULQBPt9JWl749wGMAWL-k8Flti-1i60kTFlgw.jpg"
         }
       ]
     },
@@ -232,7 +202,7 @@
       "date": "2026-09-20T17:39:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 516,
+      "views": 580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +220,7 @@
       "date": "2026-09-20T18:32:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 445,
+      "views": 525,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +238,7 @@
       "date": "2026-09-20T18:48:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 409,
+      "views": 504,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +256,7 @@
       "date": "2026-09-20T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 319,
+      "views": 429,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +267,37 @@
           "url": "https://cdn4.telesco.pe/file/ktE2vakLYqhzyHnZDpy-6phQ_vKCXxhAjAhzZrs4THL2y8TCEiiV3MiUcxlasNklAXfQTgHn6p5y0DqKe6ftRLcXIUcJWYJK5Uc5HXiZcRjCLOs5et2A8_Z6laosIWIizyjBAl9m-_J_ZbTQF7-0V8KGeSh-7DxtEjo8GWfzJyPaVbmQkOWvyjQLadllggKmRLwbzksiHMUQaXCslvRCpe1--VBADA4glGoWzrfh1aNMWZfSRwGxEUNwuyO-KgDtwLWO4ymqXaFu1_ufqibcgB_OB_YteFI6ChRrn6vVV04sg1aY4uhDYYxFIBmmypPtz9JiPQrZPHIeSQZMzE41ZQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "دارم روی پیاده‌سازی AUR کار می‌کنم البته اول دارم کار تحقیق اولیه رو انجام میدم که چطور پیاده‌سازی بشه.\u003cbr/\u003e\u003cbr/\u003eخب ساده‌ترین راهی که می‌شه انجامش داد اینه که بیایم و با bwrap همه چیز رو بکنیم توی سندباکس\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://wiki.archlinux.org/title/Bubblewrap\" target=\"_blank\" rel=\"noopener\"\u003ehttps://wiki.archlinux.org/title/Bubblewrap\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینطوری حس می‌کنم خطرات جانی کمتری داشته باشه ولی خب در هر صورت باید پیاده‌سازی اولیه درست انجام بشه که مشکلات زیادی پیش نیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-21T06:21:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 204,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "یک همچین مدلی؛ البته خب اسکنر aur چندان بدرد بخور نیست اگر روش جدیدی پیدا بشه برای الوده‌سازی سیستم و همون bwrap به نظرم منطقی‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-21T06:29:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 192,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cP74NBAgq4MsdEvcr8gsaqTwX2XpXFsU8yglxZ02yT4fmcZdbMxUlZQEDVLI78SpHUPQoLv5kGbBfrWp3mpRNp0KqC3R0BhrCSrMUXNAZohf8G-Ij_V01W3yawdOy3DQSFy8JXt3PzTeJF68VkjZX-dcIiamU5-hC_7xR24gFKktz4Zr22UwLs0eh38JdXNKHq1UL_3QaCwYGqdw8n9F6itygZ7gQhyY6WqNv3xErImX8nuQf-u5YvLgqKRtyXZH3kZwC4-eMKwajHy5VTTlzGaSj4CtTwDbjel7tsMzwsWDufRsyNQQL9ZAk-FhAlSCuJ5RiA1vR9V7HJ1s-kyCAg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789957219
+  "last_updated": 1789977956
 }
