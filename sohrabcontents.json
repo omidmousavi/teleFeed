@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خب حالا یک چندوقت احتمالاً کم باشم و تمرکز کنم روی کارهام؛ و صرفاً توی همین کانال بنویسم.\u003cbr/\u003e\u003cbr/\u003eیک سری کار عقب افتاده رو انجام دادم یک سری بخش از ویکی رو هم به سایت آوردم مثل این:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parchlinux.com/fa/features\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parchlinux.com/fa/features\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسئو سایت رو درست کردم و سایت‌مپ رو به گوگل دادم که سئو رو بهتر کنه.\u003cbr/\u003e\u003cbr/\u003eاحتمالاً هرمسی چیزی راه بندازم که ایمیل‌هام رو هم خودکار جواب بده؛ چون چرا که نه؟ :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-15T11:45:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "نسخه ۰.۶ میرورمن منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه بخشی به هسته اضافه شده که امکان استفاده از میرورمن برای مدیریت مخازن مدیربسته‌های زبان‌های برنامه‌نویسی بواسطه پروژه \u003ca href=\"https://github.com/miravaorg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمیراوا\u003c/a\u003e، مثل پایتون را فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین در نسخه‌های آتی داکر و سایر مدیربسته‌ها افزوده می‌شوند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای به‌روزرسانی:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-09-16T05:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 869,
+      "views": 870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -46,7 +34,7 @@
       "date": "2026-09-17T20:03:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 929,
+      "views": 932,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +52,7 @@
       "date": "2026-09-17T20:09:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 992,
+      "views": 996,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +64,7 @@
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 864,
+      "views": 871,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +72,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JcKmryJz9hdCFZ01FywQgwZ93bz_HdSyesZtkVn5-tuPLwJyYRo8Mp8oGBkjAtpKV6BRLlJHVm7onfuBViqQgLXTjpIqy-1NaM8O1f3HVPq70WG5feJW_Kw-SlZKEHtNzkfL6VFbY-M0yVb6AH8yBmakb6uSodrpwSSp7rQkuk_5NIbPuKTlCEV1tPr4f7p6xqGFimBuAr4CpN_HSRG_MIhGPtIRk7MKpXFlbZjx1qLiLdXJuFJHOLDTkl5XWLtuZBiFAMV5ab_JNud0sdwS7MArZ82opxPU0aWvyYw-yxA8w04elUmu1Oo_D1vWMXJ5nR8johgwOlpNJ-BWQFxsAg.jpg"
+          "url": "https://cdn4.telesco.pe/file/tvT_E2HUqb4CnEGAxMrD-2UOTEtRABHg908U9MrtZTCVTgZaxgVw2WuwMa_oLefb1VkOlZ2DfsG-44JRm2dDIMjxOueVimn_C4uBcOlCLymzgmhe4KcI05avXb86QCKSUyeZDUAV5zaP_HgYpwYPAtIbgzuisBowH85yTeb2kOMVr6pEirH8PTbGZn7jqtMP5O7yvskupH8UIANtVpUpmmg50z1W8g6x-sAOhKBTzY5MMMmVHXI7qQvOLZGzU4QWAOXW1Ghp51ZXCH7l4V9w60DKqLnUkStvZ2D31tpzmJvx3MhV2MyRcGwbkB5qG3ofQYIAXEdrvs4XuiyyIvjhBg.jpg"
         }
       ]
     },
@@ -94,7 +82,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 910,
+      "views": 928,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +100,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 852,
+      "views": 865,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +112,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +124,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 505,
+      "views": 507,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +142,7 @@
       "date": "2026-09-19T18:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 799,
+      "views": 800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +160,7 @@
       "date": "2026-09-20T06:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 647,
+      "views": 648,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +178,7 @@
       "date": "2026-09-20T17:39:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 692,
+      "views": 702,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +196,7 @@
       "date": "2026-09-20T18:32:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 656,
+      "views": 670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +214,7 @@
       "date": "2026-09-20T18:48:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 647,
+      "views": 659,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +232,7 @@
       "date": "2026-09-20T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 581,
+      "views": 595,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +250,7 @@
       "date": "2026-09-21T06:21:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 537,
+      "views": 559,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +262,7 @@
       "date": "2026-09-21T06:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 549,
+      "views": 571,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +280,7 @@
       "date": "2026-09-21T12:59:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 467,
+      "views": 511,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +299,7 @@
       "date": "2026-09-21T17:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 292,
+      "views": 354,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +310,25 @@
           "url": "https://cdn4.telesco.pe/file/HtUQza97lBHrpP8jBjiC2s96W53xNrWvpKejZnTEOac03N0yIo0OmezRuo7fjRpLmfk-oGOaTGBXrXJBFhTLu5SYD2JYYyGvPOhQChztZUMAFU2WFE8_ysBFB03xzMpNwATpwjwdq5lr_Gd9GLJ-_6A-r_r91pqCkpQ82Dv_GijxdFl0TkGoXoI76F5XlsGELzwHQAMTw2V_s-TbnjrLfG1FW-knimDxygJWmyN1OOuU1vK2zN7YnXG455uML38xEP4NLKiE75A5LgXO1qVrKZtL_F_t4h70ZelrCtUG4amaSfA3XZvIKXOmHw0OdokSyO4NV6AxJwLwK5kSzyIAxg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eانتشار نسخه ۰.۲.۵ فروشگاه پارچ\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه پشتیبانی کامل از AUR اضافه شد؛ جستجو، نصب و بروزرسانی پکیج‌های AUR حالا مستقیم داخل فروشگاه پارچ انجام می‌شه. AUR طبق تعریف «با مسئولیت خود کاربر»هستش، برای همین یک خط لوله امنیتی دورش کشیدیم: اسکن PKGBUILD با سیزده قانون علیه الگوهای حمله شناخته‌شده، ساخت پکیج‌ها داخل سندباکس Bubblewrap بدون دسترسی به سیستم اصلی، تأیید صریح برای پکیج‌های جدید یا با نگهدارنده تغییریافته، و بازرسی آرتیفکت قبل از نصب.\u003cbr/\u003e\u003cbr/\u003eاز این نسخه فروشگاه از طرح‌های pastor:// و appstream:// هم پشتیبانی می‌کنه، یعنی صفحات وب و برنامه‌ها می‌تونن پکیج‌ها رو مستقیم داخل فروشگاه باز کنن. راه‌اندازی هم سریع‌تره چون فهرست پکیج‌ها پس‌زمینه بارگذاری می‌شه.\u003cbr/\u003e\u003cbr/\u003eبرنامه‌های پارچ رو در \u003ca href=\"http://apps.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003eapps.parchlinux.com\u003c/a\u003e ببینید و مستقیم با فروشگاه پارچ نصب کنید. به‌زودی توسعه‌دهنده‌ها هم می‌تونن برنامه‌هاشون رو خودشون در پارچ لینوکس منتشر کنن.\u003cbr/\u003e\u003cbr/\u003eبروزرسانی با:\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-22T08:46:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 187,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FQPu4njIDw7pNGPh4VkuCJGk3KLCquEMMsJMZnM8A2KsCe9qHynzXV4uYuSysGY4c_BZDAQHI5vI2BmL5TTkq-ZMa3steQTMpzLq2wiPLczHOWd07NUPwtTivNvduo1TCa4lzbuKH9EAyu0KM8A1rpafLER7AwTFqH41v6rmMQEO2G6NsmokZL7t-mYp1lgchbUvDZLIaTh-VcLq8vAXWKqks0kIULONhKFZPNjE1gm70qq-YCdAAgBrhv9Sn7r3SDz0pcmOo8V2iaRytf8K_ste9EF__J0cXcnHl_ZSNE6s21ci5D3JJJbp4cqGN4rT4ZMaNBhqH-p4WtGBiAWHLw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790060598
+  "last_updated": 1790081037
 }
