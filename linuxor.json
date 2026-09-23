@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینو ببینید چه سرعت خوبی داره! این خودِ Jev نیست، djev-run هستش؛ پروژه‌ای که برای اجرای مدل djev بر پایه‌ی DiffusionGemma ساخته شده. باهاش می‌تونین djev رو خیلی راحت روی Google Cloud Run دیپلوی کنین و در چند مرحله یه endpoint سازگار با Jev API داشته باشین و خودتون باهاش بازی کنین:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eایده‌ی djev هم مثل Jev یه مقدار با LLMهای معمولی فرق داره؛ به‌جای اینکه صرفاً متن تولید کنه، برای تصمیم‌گیری ساختاریافته ساخته شده. مثلاً می‌تونین یه پیام کاربر رو بدین و ازش بخواین مشخص کنه مربوط به کدوم دسته هست، شدت مشکل چقدره، آیا درخواست refund داره یا نه و حتی برای جواب‌ها probability بگیرین. یعنی خروجی مستقیماً می‌تونه وارد منطق اپلیکیشن بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/taeold/djev-run\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/taeold/djev-run\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-21T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YILRlhlLYGDv_bParHT25QgqFV6rziSdj7qyeTKI9OGDRpFlz6nGCyXTI7WR9vZhPqVHXiGUG7TnxJtw-mOHEYN161AMf_vucdPZT5zD69eaEBeJYdDaoIjsMmLMSO0HaXTI-n0she-Kgh9XePdYQ61-PRBT3YM_gV74LMo52Bt53CuctSBpbghgTJdwTIPTjNm1kfmZ4fk-xDI0JeBWwnFUitHwBt8-vvJqg9P4ThEdu1WB36zHGuD1hR-BKAEcMOWSxHVqoaDXmO0xZ6auDDOipYbRaIDEiQOVqyQcuzWtssh_BBSK8qWtt5Xu5Mg4G4jMbbAogAReEvBjIdz2xQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e هر مدل استفاده‌ای، یه پلن داره! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929C.png\u0026#39;)\"\u003e\u003cb\u003e💜\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e بدون DNS Leak، تستش کن: \u003ca href=\"http://ipleak.net/\" target=\"_blank\" rel=\"noopener\"\u003eipleak.net\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e مناسب برای تمام سرویس های خارجی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e استانبول، نورنبرگ، استکهلم، لندن و بیشتر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e سرورها چرخشی عوض می‌شن، ساب‌اسکریپشن خودکار آپدیت می‌شه\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003cu\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D83.png\u0026#39;)\"\u003e\u003cb\u003e🍃\u003c/b\u003e\u003c/i\u003e پلن ECO (۲۰ گیگ) ← ۱ کاربره | ۶۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e پلن ECO (۵۰ گیگ) ← ۱ کاربره | ۱۴۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e پلن VIP (۷۵ گیگ) ← ۲ کاربره | ۲۲۹,۰۰۰ تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003e پلن ‎UNLIMITED‎ ‏← ‏۳ کاربره | ۴۹۹,۰۰۰ تومان\u003c/u\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e قبل از خرید امتحانش کن: ۱ گیگ تست رایگان، یک‌روزه\u003cbr/\u003eو با اولین ورود به ربات، ۵۰,۰۰۰ تومان اعتبار هدیه هم می‌گیری.\u003cbr/\u003e\u003cbr/\u003e\u0026gt; \u003ca href=\"https://t.me/AxisTechNetBot?start=ref_2021599138\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eورود به بات و دریافت تست رایگان \u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-21T18:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IcaiScAKKGOPBwzB8lpcMW6WYrU92_6DNVJLjn-VXxyS34KTV6Xl8_o3P949w3WrePieutDM1CUJaG5KdOkzABpdshj7ZbTw0uikjwQAwTEsT04odERBtb_-GrneRzsQMtw5Nzl9Epm7r-lrMRCh_HYaJfORwQNJ95tAfTg32YUz3UOwdCbC5rbVauMa0MPc2Ypjx7tx9MsDl6ce5LnKIKHnJ6XtLA6WrV87Ofrw4wqiTlbvo___EYHc0MJKT_zrSjKsZZE2dpuURu_UtHkW9NbuaDG5oAAZFaJRnVkaztmxFtG-cc3F2SUuysTv00yYBNXXi2vlQwvTm-rh-KTvVw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "دیروز یه نفر یه افزونه برای Chrome ساخته که یه سایدپنل داره و می‌تونه ابزارهای WebMCP سایت‌ها رو با Jev کنترل کنه. با هر چیزی که تایپ می‌کنی، ابزار مناسب رو انتخاب می‌کنه، ورودی‌ها رو پر می‌کنه و میزان اطمینانش رو هم نشون می‌ده.\u003cbr/\u003e\u003cbr/\u003eمثلاً برای خرید، سوالی مثل «چیزی بدون گلوتن زیر 2 دلار دارید؟» دیگه نیاز به چت و مکالمه نداره؛ افزونه مستقیماً ابزار search_products رو صدا می‌زنه. یعنی همه‌چیز لزوماً به چت‌بات نیاز نداره.\u003cbr/\u003e\u003cbr/\u003eنکته جالب‌تر اینه که همین ابزار می‌تونه برای تست WebMCP هم استفاده بشه. اگه 2 ابزار مدام برای یه جمله با هم رقابت کنن، احتمالاً توضیحاتشون هم‌پوشانی داره؛ اگه یه آرگومان رو با اطمینان پایین تشخیص بده، ممکنه schema مبهم باشه. در نتیجه می‌تونه به بهتر نوشتن توضیحات ابزارها کمک کنه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/sdras/jev-webmcp-extension\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/sdras/jev-webmcp-extension\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linxuor\" target=\"_blank\"\u003e@Linxuor\u003c/a\u003e",
       "date": "2026-09-21T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +31,7 @@
       "date": "2026-09-21T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7370,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +43,7 @@
       "date": "2026-09-21T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7810,
+      "views": 7950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +51,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E_pcx3zYQK8Z84XtUxEX03L4F8dhtiXzmt0zRMMcGx97iZauZjFcxZrR6yzQ5PDBDG3oMHsGfuBRI4ceDB29dWU8mMEJGTS0KOYq9eF8L5GgYahRorIHL1_a8kxgcG5Dnb-CbDdDMJvWg8Xjh1v9ERw7FkaeJ8LUN5aEmnL_2-itQfDSttbh5rrmLecds9xQofBA1luC0CdWjqVnbjk_TbXIvTvpjk03Uk_2uPpv0LHTgWf3Q4eepFZ1QGsRjuNjw--oZaFaee3ycTC6Zs_JJBsjqJgq5hcSIKCTXgDpANvljPp-x40E21rFA7UCA-WvrTIDSXFODQ1PpqwsYWEvFQ",
+          "url": "https://cdn4.telesco.pe/file/ZZR16m2Fvlv8WfjP1fF9jjSbppGdXPE7lbRDSvaHaS0mmiiGpVrAMywRSfBkn95zW-hl1dCeLVZ_t6gzEVsjyowS9Oo4PrG9wulehe5FfBZAdzUJvOFeC9z-ZYSej0BWBc7WWur8ogcDMQgCtargEy4u9If2CrmvibWwzZMaZ4KHPjayPiF0-yXPCiOaDHBfROB7yUzCzpyBGXiiG-QsuJGWQU28vP2AZMjqAy9n-q0X1jjhtAoS1nd0OduFME4s4lbghps35hZ8aA8g_ywDIBNcock1pBbfD2OpbwAM5JCKfamRgwFS0WAFU2HoF8aqDL2Lw1DicQoUOSUB--qucQ",
           "width": 1914
         }
       ]
@@ -99,7 +62,7 @@
       "date": "2026-09-21T22:48:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +74,7 @@
       "date": "2026-09-22T13:26:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6880,
+      "views": 7240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +93,7 @@
       "date": "2026-09-22T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +111,7 @@
       "date": "2026-09-22T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
+      "views": 6130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +130,7 @@
       "date": "2026-09-22T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +149,7 @@
       "date": "2026-09-22T15:04:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +161,7 @@
       "date": "2026-09-22T16:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +179,7 @@
       "date": "2026-09-22T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +198,7 @@
       "date": "2026-09-22T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +210,7 @@
       "date": "2026-09-22T17:08:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +228,7 @@
       "date": "2026-09-22T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +246,7 @@
       "date": "2026-09-22T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 6290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +265,7 @@
       "date": "2026-09-22T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 6530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +283,7 @@
       "date": "2026-09-22T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 6460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,12 +302,49 @@
       "date": "2026-09-22T19:54:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4890,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "آپدیت جدید کلاد Opus 5.5 چه شکلیه؟\u003cbr/\u003e\u003cbr/\u003eیه نفر ازش خواسته که مفهوم فوکوس دوربین رو با ساختن یه آزمایشگاه تعاملی لنز توضیح بده.\u003cbr/\u003e\u003cbr/\u003eاین چیزیه که بعد از 1 ساعت و 26 دقیقه، با یه بار اجرا و با هزینه 25.66 دلار برای API ساخته،‌ حلقه‌ی فوکوس رو حرکت بدید تا ببینید عناصر شیشه‌ای داخل لنز چطور جابه‌جا میشن و صفحه‌ی فوکوسِ واضح رو در سرتاسر صحنه تغییر میدن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://lens.lab.sael.net/\" target=\"_blank\" rel=\"noopener\"\u003elens.lab.sael.net\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-23T12:01:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fw2PR1rszqlZzPma_UapMvyZ45R9tDzFBABJmKpxWDvFVyeQkmIzxZ2NP4UoMV2a4Z9dONZVDLu0d1Up5U-gGK8bWZwwqslipYIkCF4dogP7uIaWu_XKkw6Dqu3-33xYQ7PtNZQgJC2xacQC5iBjC04rpac_T5l5eL9rcPyFW8cgsFnLo092KjEPe8EJptA7S8Z_t1URj632-NoIGI7r0R0XwYypeXfqd2kLxwP6y6KS1cvd2c5nHmRdkRa28t7PNsuNrTWWgQG3zQ64wvPVLbFoxhIju0QTbf60Q31fucPTHlgT03Hb8kSwdscmqheNJLL6ATFNDb5P2QEYNa3mpA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5150193836953174954\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eچالش\u003c/b\u003e \u003cb\u003eروز سوم مسابقه ویژه Forex Expo Dubai 2026\u003c/b\u003e\u003cbr/\u003e\u003cu\u003eحدس بزن؛ تحلیل کن؛ برنده شو!\u003c/u\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6012529369119987828\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CAA.png\u0026#39;)\"\u003e\u003cb\u003e🌪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدهمین کندل کجا بسته می‌شود؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eچارت را بررسی کنید و دو پیش‌بینی زیر را در کامنت همین پست ثبت کنید:\u003cbr/\u003e\u003cb\u003e1\u003c/b\u003e- قیمت بسته‌شدن کندل دهم\u003cb\u003e\u003cbr/\u003e2\u003c/b\u003e- جهت حرکت:\u003ctg-emoji emoji-id=\"5832439363174147090\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC86.png\u0026#39;)\"\u003e\u003cb\u003e⬆️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eصعودی | نزولی\u003ctg-emoji emoji-id=\"5829980992613391814\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنمونه پاسخ صحیح و مورد قبول:\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eنزولی - 0.67505\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eمهلت ثبت پیش‌بینی: تا ساعت 22:00 امشب به وقت ایران\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xchief_ir\" target=\"_blank\"\u003e@xchief_ir\u003c/a\u003e",
+      "date": "2026-09-23T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 311,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XnWOHwz0vuB72eQqeGbYrn48TlCCxo-FVthqog9BbeVeZeH_EY_LCoa_Y4np2CwTGdnbVnVBUuOoX6gwBYWG-CN7p64BMfDhFib-KYyCmG2w4W3J5YUKT7ZdJRyZvSwxAg-Ma90qp8do568PmZFCldgix55z560rh00eXXW6C-go6yklvhD6QsL8mWyb548GAhvkXE9noaEjDRm_1sM3xtj1W7iG7DrMLwJ1m_G5XX_aFi0KhVznU0ks7gcWtm750Ks8Dm1atDLoyPI0bG11rDnr-lGG26uvHJ5AhujPvfBIir6gL4OhehzBPEHT2dI_IArlZjiFVCf1He7YBB1j5A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790146680
+  "last_updated": 1790166702
 }
