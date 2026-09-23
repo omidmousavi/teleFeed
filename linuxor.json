@@ -8,103 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مقایسه و بنچمارک بین مدل های تصمیم گیرنده\u003cbr/\u003eالبته توی این مقایسه jev به عنوان رفرنس در نظر گرفته شده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/multimodalart/jev-decision-index\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/multimodalart/jev-decision-index\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-22T17:08:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Uo5S97eE9x8xGGXAIbfP48fYHTrmFYEZ6hoarWGsIg2YboJHhEnilRHuRjgwgsSYr6W8ilBUsCHsDeY5ZHD8XblUHgXVBGcKH5_2YIW_UahI-nKR7g57jZ83uGH9PcatRbjtQwySG-rBP2yCBo8qgQPOJV--Q1qc0GJJLtAtFUVmJY69CdhGqZnqrdv8E4nWerKIWKddfkOND3cI-Ebell76GkpNNlV17VDOQtambv9X8ooYvFOSZU8V8aLIep_myEGSRU9PSzHR3AXegIsdAcPesMudp9ljumba7GGUhUddR7K-yqhdp3zZiaCutbPSl-li490egQa8h_h1ivuJ6g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بین مدل ML و یه محصول واقعی، یه مسیر مهم وجود داره: MLOps.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ساختن یه مدل خوب تازه شروع ماجراست؛ چالش اصلی اینه که چطور اون مدل رو تبدیل کنیم به یه سیستم واقعی که بشه بهش اعتماد کرد و توی Production ازش استفاده کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388816589216823151\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e🧑‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی \u003cb\u003eمینی‌کمپ MLOps کوئرا \u003c/b\u003eیاد می‌گیری چطور این فاصله رو پر کنی؛ از ساخت Pipeline و مدیریت مدل‌ها تا Deploy، مانیتورینگ و اجرای یک سیستم ML واقعی با ابزارهایی مثل Git، Airflow، MLflow، FastAPI، Docker و Kubernetes.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456371000239212004\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با انجام یه پروژه تیمی و همراهی منتورها، تجربه ساخت یک Workflow واقعی و end-to-end در MLOps رو به دست میاری.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5445331903496332384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eآخرین فرصت ثبت نام\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5445331903496332384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5301038027601098171\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جزئیات بیشتر و ثبت‌نام اولیه:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://quera.org/r/w3un5\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/w3un5\u003c/a\u003e",
-      "date": "2026-09-22T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bfZZEiod2eLWN2vPLVRVNst_KIjwww1naECdGxAaWd5T0iw1WYIFFzM00-SCHzTZklXktXiNwGraSo-N1QzrIXYEQ3qrtJvlxnAfcNyl2_CQIzVAyJz_JJVBz1clgWs_6qfsB3xpNkxp9TT_fletBN4ZCoCijnc21gESNM-Zh6we1wH-z2o_kzDj7H8FgZxQ-Whl2rIJp1xqASWg1Baug5iDW59scORvjiS_NKT7ucSyCAnhMP0f28bPpxcKHWcbpLe0fR8JtW8IqHsI49hGsQFxeyGN76Y_GF0vfuWHXq1dGw1ZDNtZj9U6mVWv3R2IoHDvSdbxK1RX4n3cGnwbmQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مدل Jev می‌دونیم که ورودی متن قبول می‌کنه حالا چی می‌شه اگه بتونه تصویر و صدا هم بگیره و بر اساس اونا تصمیم بگیره؟ یه عده دارن Jev-Omni رو توسعه می‌دن که یه مدل چند وجهی تصمیم گیرنده به حساب می‌آد\u003cbr/\u003e\u003cbr/\u003eبرای مثال وصلش می‌کنید به دوربین خونتون با سرعت بالا اگه صحنه خطرناکی رو ببینه بهتون اعلام‌ ‌میکنه!  خودشون ادعا کردن از Jev بنچمارکش بالا تره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/akhilaaa3/Jev-Omni\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/akhilaaa3/Jev-Omni\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-22T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/f10EAoRAAoWnbiTAIQs0yv3150SqcF0_LCM8hEkY3qRN41BYXy_aPN4INOkBdRGR0lhmhva8DWjo8zeB6lVXRvt2UbirsyZtrFSjzMqeohC0nvbqZxGfoEkoRdhq1X7omllmNKfPg_Fknw0caKQ4S4taV_AvycQ4mp2dOkfD1X5GuJ7eQqn-vXX_s-72IuhJFPidNTjjqPap1e2veWrwa9NaR1sJXYzfJCO1MZ5VapLDqKBifIamRZ2-AQvLQOVgwzhxyZZKRowQvfy45kJFtg98w_WczhwnqHCg8F34HbHrrQOB33GacvrRKbr-Dz501tvaEqoKPh9f3oTKC24lNg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کلاد از مدل Opus 5.5 رونمایی کرد، به گفته خودشون 40 درصد هزینه استفاده کمتری داره.\u003cbr/\u003eهمچنین گفتن که : داریم محدودیت‌های استفاده 5 ساعته رو برای پلن‌های Pro، Max و Team افزایش می‌دیم.\u003cbr/\u003eهمچنین برای کاربرهای دارای اشتراک، امکان ریست شدن محدودیت نرخ استفاده (Rate Limit) رو فراهم می‌کنیم؛ یعنی یه ریست در اختیارتون قرار می‌گیره که می‌تونید ذخیره‌ش کنید و هر موقع که خودتون خواستید ازش استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-22T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TJLf6JplxIhG2Ok4H4cleUA5kclsq9AkgGbBwLOtGjKs-DoV2Q6RcB9hIuIfJvhhYD4F6Ge2Py-6HAEROtTlBfJ8DQo3DhJr2JGymOEn3QTrk7zjsB9AS0Hyrv4fvZxl-bsM-Eal51MFGs0VevvbsRlLvVvgRYaAj_L71EaUMikPJzwHHxuvZ27_X__bCLjn-0Dg5WVZRzYHZEeKaatAYscasiGlnnAM9F5qEcky0wzhDXCJOWRdnKJi0hamIk2O9pLI4i93o6YxWZCcjy1e8Fy0D24PJhnVAngmeKJhM1EMElnC6qbBXuPEl5js1Rzjhy15HLUTDKTMaKtv3FDk0Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر یه تم لیکویید گلس برای وب با React ساخته \u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://cruxgarden.github.io/plasma-ui\" target=\"_blank\" rel=\"noopener\"\u003ecruxgarden.github.io/plasma-ui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/CruxGarden/plasma-ui\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CruxGarden/plasma-ui\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-22T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MGeqDz--EmLh59D6mXmyApIQjCeKkfYmjf0UY9XzEwsvpzbFOXsKsfWIbS6vIgNCrF6mUef0b_dp_yGZQycsWGTmFw7LaeMgKaCgipdtw1k7gu0GLIgtnUWmsA19i4Q3ryEkn1MZLfHTqKAo3WUDTX7lOqK7i0SbHD0D1egeUPHfXV_fUnxdbLsVuPC2x847R5aLcpe93fQUjOV6kyruDbzjKpFzZhVEFLMU1-TisHE83axkppYdUVqTbyawsoEb00AL6YVfb6X28z0LG9MBtNu-wdw819dIt9CMo6L0nVIYOKytQ2hA2ckrzFrFBsjGfTQuJdGaXIFonjrODKApIg",
-          "width": 1540
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یعنی متقلبای کنکور دیگه لازم نیست بشینن تا LLM سوالاشونو حل کنه؟ همون لحظه با Jev می‌تونن بیان بیرون؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-22T19:54:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +24,7 @@
       "date": "2026-09-23T12:01:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5490,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +43,7 @@
       "date": "2026-09-23T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4840,
+      "views": 5590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +61,7 @@
       "date": "2026-09-23T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +80,7 @@
       "date": "2026-09-23T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4670,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +99,7 @@
       "date": "2026-09-23T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4450,
+      "views": 5200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +118,7 @@
       "date": "2026-09-23T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3710,
+      "views": 4570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +136,7 @@
       "date": "2026-09-23T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3970,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +154,7 @@
       "date": "2026-09-23T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3730,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +166,7 @@
       "date": "2026-09-23T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +185,7 @@
       "date": "2026-09-23T15:32:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
+      "views": 5020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +203,7 @@
       "date": "2026-09-23T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2800,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,11 +217,11 @@
     },
     {
       "id": 0,
-      "message": "آدرس سایتتون رو اینجا وارد کنید بهتون می‌گه چند درصد ساخته آشغال هوش مصنوعی یا AI Slop هستش\u003cbr/\u003e\u003cbr/\u003eتکنیک کارش هم اینه هم عکس می‌گیره با مدل ویژن برسیش می‌کنه هم سوالاتی با Jev رو میپرسه همچنین با یه مرورگر هدلس سایتتون رو باز می‌کنه و المان هاشو برسی می‌کنه اگه چیز های کلیشه ای و تکراری ببینه می‌گه با AI ساخته شده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://madewithjev.com/free-tools/ai-slop-detector\" target=\"_blank\" rel=\"noopener\"\u003emadewithjev.com/free-tools/ai-slop-detector\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "message": "آدرس سایتتون رو اینجا وارد کنید بهتون می‌گه چند درصد ساخته آشغال هوش مصنوعی یا AI Slop هستش\u003cbr/\u003e\u003cbr/\u003eتکنیک کارش هم اینه هم عکس می‌گیره با مدل ویژن بررسیش می‌کنه هم سوالاتی با Jev رو میپرسه همچنین با یه مرورگر هدلس سایتتون رو باز می‌کنه و المان هاشو برسی می‌کنه اگه چیز های کلیشه ای و تکراری ببینه می‌گه با AI ساخته شده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://madewithjev.com/free-tools/ai-slop-detector\" target=\"_blank\" rel=\"noopener\"\u003emadewithjev.com/free-tools/ai-slop-detector\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-23T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2630,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +239,7 @@
       "date": "2026-09-23T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +258,7 @@
       "date": "2026-09-23T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
+      "views": 4610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -361,7 +269,87 @@
           "url": "https://cdn4.telesco.pe/file/OlbR9tTpW2DIFKGHc8NYgJ5h7KxJUJs7b1mQ-5QqKgO6ttvrdFgRGiuBhBmbN0UALSBlA1MEfDq7W3I37MXa0rWWWABF98bclpNzpy6GS12w_WSHb32w6O9teGoqYQX1thDGutSaEESONRf1bvdUKdUPw_L-VYeDDUa-oblSoeTMMyAPPHPZQ5ox_V-XepXJnaz-sK-oL3viJwqdHnSwO7oZ_j2uhAen0qvxeVYIDl0Ks6BaDRIYfOT8WfhJHWZexq9eLw6ifaNP27_9Vno-yUWD4fP-iHWLMa5thVzIrAfM2nyMwYqc2pRtK1A5qz0YdhxYgMl4n6JJukKoL5EHug.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "بعضیا میگن کانال جدیدا چقدر شده Jev Jev خب معلومه دیگه جِو گیر شدم دیگه...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-23T17:42:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5215557810359639942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآخرین فرصت ثبت‌نام در المپیک فناوری ۲۰۲۶ | مسیر\u003c/b\u003e \u003cb\u003eالگوریتم\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5399898266265475100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه الگوریتم یک رقابت \u003cb\u003eبین‌المللی\u003c/b\u003e و \u003cb\u003eرایگانه\u003c/b\u003e، جایی که می‌تونی مهارت‌هات رو محک بزنی و برای کسب \u003cb\u003e۲۰۰ میلیون تومان جایزه نقدی\u003c/b\u003e رقابت کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5357479219335012900\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e با ثبت‌نام در مسابقه، \u003cb\u003e۱ ساعت آموزش تخصصی رایگان\u003c/b\u003e هم در اختیارت قرار می‌گیره تا با آمادگی بیشتری وارد رقابت بشی.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه مقدماتی آنلاین همین \u003cb\u003eآخر هفته\u003c/b\u003e برگزار می‌شه؛ فرصت ثبت‌نام رو از دست نده!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6084396322444544568\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e زمان برگزاری: جمعه ۳ مهر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6043992250831082249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اطلاعات بیشتر و ثبت‌نام:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://quera.org/r/1aicx\" target=\"_blank\" rel=\"noopener\"\u003ehttps://quera.org/r/1aicx\u003c/a\u003e",
+      "date": "2026-09-23T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SDvzJMoG_8aKDvau-oJS5RDTdWS59pY7jc_9kWs17eG58g--bmcAo0FHqR4GXB8DwYwqrIzGnLTdaAJgru00UrtEFyQJ6o9l1FP1-_OIldJgdCc9rabEXNK-8fbB152_S1ggp8hvzahf6VPfjoqktSKV8qb-VOrbF1wY2tRF1telX7JY7WPv8UR5xd43Rx_gR8pFqlHn4IB_rsJjnFzMYA93C8fPXiBAUsCf87WnFYT6J_it_SiL6-wIFysvJExHzqqg87RbqY39vBDLRYqcX0cREqsmmwSEEXodfmyVmUJUbit_bk6VcBt43dfwg97DkXmsXzVcLLulSBrceYnz3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مدل Opus 5.5 واقعاً یه لول دیگه‌ست.\u003cbr/\u003e\u003cbr/\u003eیه نفر یه صحنه قابل‌بازی از یه قایق ساخته که توی مناظر ژاپنی جریان داره؛ با آب‌وهوای پویا، نورپردازی روز و شب، تکسچرهای واقع‌گرایانه و کاراکترهای 3D.\u003cbr/\u003e\u003cbr/\u003eسایت رو هم می‌تونید به‌صورت زنده ببینید:\u003cbr/\u003e\u003ca href=\"http://valley.mengto.here.now/\" target=\"_blank\" rel=\"noopener\"\u003evalley.mengto.here.now\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eانعکاس‌های آب، فیزیک، مناظر و معماری واقعاً دیوونه‌کننده‌ان. اگه توی مرورگرتون بد نشون داده می‌شه ویدیو رو ببینید احتمالا کارت گرافیکتون فعال نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-23T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/uJUZcGfnCmEtEIbWSBXgwAytqboTdAUtiUkPOYWWtT9h11eL2ZXFaZDMHw8BG8Ge-jcs-bswSlJzwFZ8rkZpDPsMamaMW-t8vhgTAl4lZ4DSib2yAP43fIH-qxizt2fD7F5bn6C3psc3PDnPDpfs2p3-vB_Qkgpec4jIgRpOwKxNVhD6Jmw1_ClH0VTooTjxHPUusMLvqJI11GBpjWB6x0RoBC8bzEgOQBlyv-zETyib9BtH11mxvSJlc3Y2u20auB-rZcM6cjPfzu5Qx80na_wO7WrTfrI2z5zKHRtGPNCSt8v9CyVNKJJCZTJ-6ytsYHP0fEknGuCP5H6hHjK-0w",
+          "width": 2880
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تریدینگ‌ویو پرمیوم سالی 720 دلار هزینه داره، یه توسعه‌دهنده فرانسوی کتابخانه‌ای اوپن‌سورس داره که:\u003cbr/\u003e– قیمت لحظه‌ای و اندیکاتورها رو رایگان میده\u003cbr/\u003e– استراتژیها رو در چند دقیقه بکتست میکنه\u003cbr/\u003e– با اندیکاتورهای Invite-Only و Replay کار میکنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Mathieu2301/TradingView-API\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Mathieu2301/TradingView-API\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Algotrade24",
+      "date": "2026-09-23T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "یه نفر اومده توی بازی کلش رویال دوتا مدل تصمیم گیر لوکال Laya و آنلاین Jev رو به جون هم انداخته، هر دو از Qwen (از طریق Cerebras) برای تشخیص و درک میدان نبرد استفاده می‌کنن و برای خوندن کارت‌ها و مقدار اکسیر هم از OpenCV استفاده می‌کنن. بعد از اون، Jev و Laya تصمیم می‌گیرن چه کارتی رو بازی کنن و کجا قرارش بدن. این تصمیم‌ها در نهایت به لمس کردن صفحه داخل بازی تبدیل میشن.\u003cbr/\u003e\u003cbr/\u003eنتیجه جالب شد در حد هم بازی کردن ولی Laya بازی رو برد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-23T19:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/iUtgKOrUVyLwcCAxOO9meS5_dJtYGMypKqd4u3JivFXuvEExb4ZlfamRFKd_SOEQ2ATJpAjEGcV8gXShRDiAi09YDOOLLAsyH27-LQEX4fX9Ahc67WUFXGpnC2rNYeNZUlXNKpMLFyYgB4thzCKjdwazOBFC9Q6_v2f7uH-jlw9p37_Z_EnUc9I9XHlEcJEyDK_ZfqUQC1T-ElhrcVzEbfW-f-w8jyKCiiyu3nOFrGDLw2yszq01alw_-sALvC23Tsc8NLRnIyXa82IUVRqCbXhyI_EwlFy_IZnjOboJMX0_MCegOKWFqj3mcp63bZL5mFOkbYMke5KLs33mzAvhfw",
+          "width": 3840
+        }
+      ]
     }
   ],
-  "last_updated": 1790184872
+  "last_updated": 1790196637
 }
