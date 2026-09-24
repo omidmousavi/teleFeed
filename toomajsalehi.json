@@ -86,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vDQtpzl18kyEHgsRaWhBXKBLDZric-wDynBat6aXJXO_bHXmA54xVL_JlzhyrcehWJTfp-IRcKnBf0pTI5G3JOtF1KItapIiSMd9DRQ4QomqSUkAyK4iwdlQO_k9Mjj20T3j3Wvh-gjDE29z5m7hE7Tm4LgIA6DnrNt-kKBhNaqvT8wnFANJK3q7XYIp8ZMu50Vnu_C1E8UV2D2MosKiA629pUnT3Tf0_5YvpLqsnlpuys3F5kVmT32hOYSf-X1t-xmyLHJnqHGPwrBIkzF5Yv1Un-y2Gs0UAaCi1kCUPvU89RzfiaCiJ9vZ-ts4Wr3gyuCAFirdH7rgZFMchy0QAA.jpg"
+          "url": "https://cdn4.telesco.pe/file/T7v0CVlg12BDG_4GnN2z0tvvURfdiJ8pSCLMBi9tN1icdEs0VqwbgeXVVDUxkslEj_I1-DNoU9M14KEtULFg0DBnVJ7Gg6XwunAT9qXO2dQ37R5Rna_nRGM5fYnZNBWhXjzPfzARV5Tgqjv2F7N3ed3Depxrnzhb0Yiekh4aF-tNQK_3pLLh4fM8P4VqRzFDtlgAFQ2jRPVsfQyPrN0N86mSlRyMBBlZJgARKuKozohJIB087GgU6z95CoC0emy0YDXpJBfNf-Di5c73AgkcU8-o6mq4qQbu24mKOAA81bKX8UzZOR5h03ecVxOehkLap_XgKq51XgZnGEn7mgf1zg.jpg"
         }
       ]
     },
@@ -96,7 +96,7 @@
       "date": "2026-02-17T16:22:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43400,
+      "views": 43500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hhktzf3nU9fsko_zrURCdxRbtK0D9X4OcoPms1gAxJ3B9Is_Ku8w4G8ZVtyxlubn0YieQ4gpg5kYMBj9RrL5trPITaMqffM0IPae4r7tsJV4IgPCyvH-BicWYxShB-EluV4ye25cJwqs5deMtbONr7RcOoilfxrml58aGCKgF9j2EkbKMTg3ctqXn5HXL1Mc7G23zWMO-8D9_mUYvpamoVr_lSAZyKJy_oegVLE0rhGVVArkKvUV9M0UHMRJ7ZJs4i3ZYTQfwPqPVCZHi3esB7ZVeLiHBMIPv-2SlIHcGVr6FSEaYJt2WEvGO1Qy2PkgTPFbxX2QUcFdjTF8gTbGwg.jpg"
+          "url": "https://cdn4.telesco.pe/file/kvp67nNQV16R0Ju96x00Dda6qInzWRFi23gT6qAHIf7_2zhlYVMcqI4Nq_q2aUplZrags8mzob6vWuFvjcEcVrqwnnDimm6QIP0LuEKOSH-ySjPbT4EMuRatYaQa8JkE6zROimwgbwcKtrTiAfXhgye6AK5MjrCLNYyo_4CefeX1Vk8jRIBwV7ZtBZMKBSPini_uKae_9TAFPABt9fE-RdoXMjiEeV3QUg0ZBs7T-eL8oB93_vAsltUleFiznBnhyED-Awa0GitgRG5Zo-JpUKOl06QSRYuYk4G_xlkZY3tRNoumbWcMi_TlXgitZFHEbYeGFbIVR_ACCAgpN3QFWw.jpg"
         }
       ]
     },
@@ -229,5 +229,5 @@
       ]
     }
   ],
-  "last_updated": 1790270698
+  "last_updated": 1790282206
 }
