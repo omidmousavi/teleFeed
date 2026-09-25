@@ -8,63 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نسخه ۰.۶ میرورمن منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه بخشی به هسته اضافه شده که امکان استفاده از میرورمن برای مدیریت مخازن مدیربسته‌های زبان‌های برنامه‌نویسی بواسطه پروژه \u003ca href=\"https://github.com/miravaorg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمیراوا\u003c/a\u003e، مثل پایتون را فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین در نسخه‌های آتی داکر و سایر مدیربسته‌ها افزوده می‌شوند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبرای به‌روزرسانی:\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-16T05:54:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 883,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EkrqMHOQE-xj3kkqx-PpDOGR-9EgQUDJXQCsbLjX1Rcei1znpnhY_iwm5izYE2I_AKfftFmbR-2VEhl1dAyo431Fye0TQ_9aDrU4WTc7oPG_BzPFQOPvUptyASw0LsaWo1In1q4fBBaGBJUSkHpMequVS3VzfkIykoZMPpRWrHNyrY2EmMOPH234FnJwMj1f5gnxORfWEnrY92jrCbx-rYmh4KnV3TJroAJ2qKfYO6lt_4bfOB6QQi_kmP3jJDkxzc_2Mvs8Y_Giyxnx7hq5X251BJghwMNEgVjNNo_b9gMJkNTpLrxoZ6Ybs2jC4oZe_WC3u7l2xxhPEtMuow5vpA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W40IbOIN9-Q6paprW8_myR3ofGZ3vHwTEhkKfiUgq3A8oS7R2w8iVyJ4IFz0gQG5PnvggIdjAaITR3ySQDghTEakkYFDqqhxqACzlStAOVD2_CGLQ4cMV7xwJa8VO3-InnQKLrIC1D-rSAlhdPj4MAZ6_9YQ3r_u1BFX2mrsfM7GBsIcAe0wVmyBFyTVoXx8IXMdfoAhMHagFxTLa6gWTZui-JjsewZUbpaAtClraTcri3Eqv0u1FfXjMUpfUxzYPNIQLoRgw4QqDDuu2ZLRDpSo9ytktHHWk5Xs2hYps40tc8Q6Tx-W5Tk4ZEU-GQciesDipCNvEhW4P-0EkprQBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دارم روی یک سری سایدپراجکت کار می‌کنم مثل این که یک وب‌ویو برای پارچ هستش که روی webkit gtk و با گولنگ ساخته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتا الان مثلاً حجم باینری این وب‌ویو فروم پارچ شده حدوداً ۴.۹ مگابایت که کمتر هم می‌تونه بشه.\u003cbr/\u003e\u003cbr/\u003eمی‌خوام یک سری حرکت بزنم که یک سری کارها رو ساده‌تر بکنه و خب الان نمیتونم بگم چون هروقت گفتم یک چیزی رو تنبلیم کرده و ادامه ندادمش :]\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-17T20:03:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 957,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UCaxfFS2w-hBTZC-6I0zcy4Sw6sO4zcjKXNEM3lpaQoi1I4C9c6Uydp1-4LLOVtoKMvUhtVMrGXDsxezdUF35opyUZS18ti9o1OvpCaOQINGoqNba30-CF1LzNzx07T-ZesSyDuFKzcUR8uF23eWpYAN1k-r_QHXkmjdFfT3t3__2H_XYvNcvoCB73D9fncsCikl4q6lPDb7dswWn-cASGx9-4lkjRN0DO63SA9WADmilRNrXKOomgVWgUniLAXlKjz_jNo0EiQJ2i9oOfh5bgJ7K3qpEBBjW7oitMZ-dfPTHcfQwtv6eZ-GyE03EntXFWHWk-EaI9QnEjMWXVb2jw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "حالا شاید بگید خب این به چه درد می‌خوره؟\u003cbr/\u003e\u003cbr/\u003eبرای کسی که دانش برنامه نویسی نداره خیلی خوبه، سعی کردم سینتکسش رو خیلی ساده نگهدارم. شما پروژتون رو در قالب html css js درمیارید و بعدش توی این باینری امبد میشه :)\u003cbr/\u003e\u003cbr/\u003eدقیقاً از ساختاری استفاده کردم که توی kairo استفاده شده و همه چیز توی یک باینری هستش و این کار رو خیلی ساده‌تر می‌کنه.\u003cbr/\u003e\u003cbr/\u003eتا الان از نوتیفیکیشن‌ها، مدیریت پرونده‌ها و .... پشتیبانی میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-17T20:09:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
       "message": "رزبری‌پای میزکار پیشفرضش رو به‌روز کرده و الان بجای پنل یک داک دراختیار شما می‌ذاره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.raspberrypi.com/news/an-updated-look-for-the-raspberry-pi-desktop/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.raspberrypi.com/news/an-updated-look-for-the-raspberry-pi-desktop/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-18T11:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 898,
+      "views": 905,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +30,7 @@
       "date": "2026-09-18T14:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 972,
+      "views": 992,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +48,7 @@
       "date": "2026-09-18T16:19:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 904,
+      "views": 918,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +60,7 @@
       "date": "2026-09-18T19:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8620,
+      "views": 8680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +72,7 @@
       "date": "2026-09-19T13:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 528,
+      "views": 572,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +90,7 @@
       "date": "2026-09-19T18:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 848,
+      "views": 910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +108,7 @@
       "date": "2026-09-20T06:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 686,
+      "views": 738,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +126,7 @@
       "date": "2026-09-20T17:39:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 755,
+      "views": 848,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +144,7 @@
       "date": "2026-09-20T18:32:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 721,
+      "views": 795,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +162,7 @@
       "date": "2026-09-20T18:48:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 710,
+      "views": 781,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +180,7 @@
       "date": "2026-09-20T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 658,
+      "views": 727,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +198,7 @@
       "date": "2026-09-21T06:21:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 655,
+      "views": 720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +210,7 @@
       "date": "2026-09-21T06:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 669,
+      "views": 740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +228,7 @@
       "date": "2026-09-21T12:59:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 639,
+      "views": 786,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +247,7 @@
       "date": "2026-09-21T17:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 479,
+      "views": 661,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +265,7 @@
       "date": "2026-09-22T08:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 394,
+      "views": 643,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +276,59 @@
           "url": "https://cdn4.telesco.pe/file/CA5JCVbyCZ2d1EwK83cM_zxEbWIjcDW-GHf4mU0EXg4PsY8y7-wNWw87cqcoArCS8ync7S3sfm51DnJiW2vwfh67qh-6Y1TR9MnLtD881gjv1u6--P4Ew_Xl8GKXbiIsHIQmO4PEgfN7AsjcO8bKSWgBNrG5J4ZqMlKsEAQ0CnCH2b-JCjxDSe3nRig2JJmeSejLx8e8FNHImS6t14i9G4zWg6pbhwRnaBLO6dMkvS_ve39evQ8jWwPJKFCpvGscHt6uNqdnruMVcUNTDq6F3v44TrSQoOfM7N4mEeLJTbsoPBoeT4McoPfwmnnJT7NqroxLOEqgTlrQ2pxFczOOsQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یک سری پیاده‌سازی توی رابط‌کاربری و بک‌اند پارچ استور انجام دادم و الان حجم آپدیت رو نشون میده :)\u003cbr/\u003e\u003cbr/\u003eو همینطور اینکه از چه ورژنی داریم به چه ورژنی اپدیت می‌کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-25T18:25:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 336,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AadehgMuwBfu71XtBPQ-8Y9oldsJha0Ok1R6oo_AD9rS9HLYI-OVNitdiEPz-8P0bnTgkvKXuawDhNqHIDUYsC5mNdrgwg2jAHlUUZK4y2CVc-C7fvdHmKDeff3072jzUFxtyo3rTxNzu26TwQbK6mntOccZQlHchRwO3RUlgQ6lR56gJwYMBR0hEMJpT64eJc1VucwATd6-nBOqS_Wjj4tsoPthqzXbvJxk5SBFxXjAfUnMU1e1_sj4QzYX8tVnXzJ-1xfsIY9z598yuH81dYw_y1ux1rztUGm4W2BdPTuzXr-yosFh61NB9PPhfdyDLqrGaZTWX9uqzg95jbevmQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکی از ویژگی‌هایی که در پارچ استور به زودی پیاده‌سازی میشه برای افرادی که برنامه تولید می‌کنن، امکان فروش اون هستش.\u003cbr/\u003e\u003cbr/\u003eحالا درمورد اینکه چطور در پارچ استور میشه پرداخت داشت و پرداخت انجام میشه و همچنین اینکه این برنامه چطور منتشر میشه، در آینده صحبت می‌کنیم.\u003cbr/\u003e\u003cbr/\u003eبه صورت کلی دو حالت برای برنامه‌های پولی خواهیم داشت:\u003cbr/\u003e\u003cbr/\u003e۱- برنامه‌هایی که دونیشن می‌خوان و کاربر می‌تونه صرفاً مبلغ رو ۰ وارد کنه تا رایگان دریافتش کنه.\u003cbr/\u003e\u003cbr/\u003e۲- برنامه‌های غیررایگان و پولی که کاربر باید یک مبلغی رو واریز کنه تا اون برنامه در اختیارش قرار بگیره.\u003cbr/\u003e\u003cbr/\u003eاین صرفاً هنوز در حد ایده‌های اولیه ما برای پارچ استور هستش که درموردش خواستیم صحبت کنیم و اینکه توضیحات بیشتر هم برای حقوق کاربر و ... در یک پست بلاگ مجزا با توضیحات کامل‌تری منتشر میشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-25T19:29:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 257,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/B1tthancdlJzs9fCY8d4EglE--O4_rFHhd7NaG5u5Fv2IdUQRsKGaJdKIpWvCuz9ll0wGDfsAO8cDEQzxyAQg2oseg-W_wVBml8QcpiisyRWpGZKqJTLnSiHxbDT-uRWqN2Z_-wes_EfrAvI956DhFcoanj-ecmrcLoUKLsfMbAH7lWxfGse4lUToh-nDkIyxwdaOd5IZKTdhzaWPbj5dc7kT7vN_lZwCnAaDnHBCtJz1UIeYMqLTaJkyunOHdX2l3SJLGvYT2Owy6XrelaEudo_WbJAJfL4aHh-O8J0SDxDMuKASK-QI5X_Jdzr_ZB2AZ8XH68QIcmhky_TICNYYQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fRAryYQ8RPPOJaSh5xldnfvxi87lyFzFq3hQz6UdW7qFr8jEo6850mlOQC8_Ur75CCOYfBynqvGi3GFK0RM-g43li1Hy-fjMEdZ4kWeJTLjnTkBH4vyjyV2QDXFyXjZABiAU5V04DqQV53a0zzMg7wVrdBuhvwM1CXTwwkvxIThUI2Fcv-iNV0T7IyNxQBhDGWBXM8lgYI7coTAg7GONaNDML2yCjf5M0zWpqtbWCyYIFxQ9bFo9Ry1d__h7KV3W9YZBdEaXrfSKpYplzk57h5RGO3CuH1v4HHGhcJFV2WLuZqDB_9L17l2JywuB9h-TlSFY0howGqQy1myu0g0fhg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یک سری نکته چون دیدم چندتا یک سری از دوستان دارن با تیکه و کنایه توی فضاهای شخصی خودشون حرف میزنن، من واقعاً حوصله پرداختن به این مسخره‌بازیا رو ندارم پس مستقیم حرفم رو میزنم و دیگه هم تکرار نمی‌کنم:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eپرداختی بودن برخی برنامه‌ها در پارچ استور با اصول نرم‌افزار آزاد تناقضی \u003cu\u003eندارد\u003c/u\u003e.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاصل بنیادین نرم‌افزار آزاد، تفکیک میان «آزاد به معنای آزادی» و «آزاد به معنای رایگان» است. زبان انگلیسی این دو را با یک کلمه یعنی free بیان می‌کند و همین باعث شده کاربران زیادی تصور کنند نرم‌افزار آزاد لزوماً باید بی‌هزینه هم باشد. اما در تعریف چهار آزادی، هیچ‌کدام ربطی به قیمت ندارند. آزادی اجرا برای هر منظوری، مطالعه و تغییر کد، بازتوزیع نسخه‌ها، و توزیع نسخه‌های تغییریافته، همگی درباره دسترسی به کد و اختیار کاربر روی آن هستند، نه درباره اینکه توسعه‌دهنده حق ندارد برای زحمتش پول بگیرد.\u003cbr/\u003eخود بنیاد نرم‌افزار آزاد صراحتاً گفته فروش نسخه‌های نرم‌افزار آزاد نه‌تنها مجاز بلکه توصیه‌شده هم هست، چون مدل پایدار برای تأمین مالی توسعه‌دهندگان همین است. کسی که یک برنامه آزاد را می‌خرد، همان آزادی‌هایی را دارد که اگر رایگان دریافتش کرده بود داشت. می‌تواند کد را ببیند، تغییرش دهد، و نسخه‌اش را حتی رایگان به دیگران بدهد. هیچ مجوز آزاد استانداردی فروش را ممنوع نمی‌کند، آنچه ممنوع است محدودکردن آزادی گیرنده است.\u003cbr/\u003eدر پارچ استور، اگر برنامه‌ای مجوز آزاد داشته باشد، پولی که بابتش گرفته می‌شود بابت بسته‌بندی، نگهداری و دسترسی راحت‌تر است، نه بابت خرید حق استفاده از کد. کسی که پول می‌دهد باز هم می‌تواند کد را بگیرد، خودش بسازد، و اگر خواست رایگان به دیگری بدهد. پارچ استور یک کانال توزیع اضافه است، نه جایگزین اجباری برای مسیرهای دیگر مثل AUR یا مخزن شخصی توسعه‌دهنده.\u003cbr/\u003eو یک نکته را باید همین‌جا روشن کرد، چون منبع اصلی این سوءتفاهم معمولاً همین است. تصور اینکه پارچ باید هر قاعده نانوشته اجتماع آرچ را هم به ارث ببرد، از یک پیش‌فرض اشتباه می‌آید. آرچ یک پروژه اجتماع‌محور با فلسفه KISS است که عمداً از فروشگاه رسمی یا درآمدزایی متمرکز پرهیز می‌کند، و این انتخاب برای هدف خودِ آرچ کاملاً درست و منطقی است. اما پارچ از روز اول با هدفی متفاوت شکل گرفته، ساخته‌شده برای جامعه فارسی‌زبان، با تمرکز روی دسترس‌پذیری برای کاربر عادی و ساختن اکوسیستمی که توسعه‌دهندگان بومی هم بتوانند از کارشان در آن امرار معاش کنند. استفاده از پایه پکیج‌بندی آرچ صرفاً یک انتخاب فنی بوده، نه یک تعهد فلسفی. پارچ مسیر خودش را می‌رود و قرار نیست خودش را با معیار پروژه‌ای دیگر بسنجد که از اساس هدفی متفاوت داشته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-09-25T19:55:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 226,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1790360128
+  "last_updated": 1790372624
 }

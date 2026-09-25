@@ -8,80 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه نفر یه پروژه جالب منتشر کرده که می‌تونه هر وب‌کم رو تبدیل کنه به چندتا تشخیص‌دهنده‌ی زنده‌ی AI؛ از تشخیص احساسات و شمارش گرفته تا تشخیص اشیا، اونم با اجرای کاملاً لوکال روی دستگاه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eسرعتش بالاست، روی Apple M5، اجرای PyTorch/MPS با FP16 حدود 210ms و اجرای MLX با 8-bit حدود 160ms در p50 تأخیر داشته؛ یعنی برای پردازش زنده‌ی تصویر، به سرعت قابل توجهی رسیده.\u003cbr/\u003e\u003cbr/\u003eتوی بنچمارک کنترل‌شده‌ی 9 سؤالی هم latency از 358.5ms به 259.6ms رسیده؛ یعنی \u003cb\u003e27.6٪ کاهش تأخیر\u003c/b\u003e. جالب‌تر اینکه هر 84 تصمیم از 84 تصمیم بین روش‌های مقایسه‌شده با هم match شدن.\u003cbr/\u003e\u003cbr/\u003eعلاوه بر کد کلی از تجربه ارزشمندش هم نوشته:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/yoheinakajima/glance-speedlab\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/yoheinakajima/glance-speedlab\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-24T15:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FxbiptwAJoYkwO2HR6LVErqymEy2M2SeycrgUI7GYNKzQZvZQt-1xv6XDzWMzeE8VB36xHa052gU1hZujzygzC_RwpiNWpuXje9EUuf2LjsUMMwLO0cdlQP954P_2iMUy9_kzBvfGkBQY-fcm98BouMcvrVkAKFyk-FRlTmc4FwiuJKZ_IWZu--b26HqRrnxqP2jo5E5svUr2iXjflf3Cq8woyvYsxn5ntgrQejcg9x-sUHcpeIAMyahflfaHCRhfFTHDedmT7veuekdK9RBbavo7h1KElE3qs6dtpQPO2E88Bz8ol9Vihk7_Xd1TzmPJaFQW1c1AJQ_MNRy4BZe4w",
-          "width": 1922
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه نفر با Opus 5.5 و کتابخونه three.js بازی اسپایدرمن ساخته این بازی رو اگه چند سال پیش یه نفر می‌ساخت و توی یه استور گیمر ها برای فروش می‌ذاشت میلیون ها دلار درآمد داشت.\u003cbr/\u003e\u003cbr/\u003eالبته کسی که اینو ساخته (xikhar) اینطوری نبوده که به هوش مصنوعی بگه برو برام فلان بازی رو بساز و هوش مصنوعی هم بسازتش! طرف برنامه نویس هستش و سال ها تجربه داره و یه ضرب هم ساخته نشده و به مرور با توسعه و دیباگ ساخته شده پس حتی قوی ترین مدل ها هم اینطوری نیستن که ولشون کنید خودشون به امون خدا براتون بسازن نیاز به دانش خود شما هم دارن، برای همینه همیشه می‌گم یادگیری رو بخاطر هوش مصنوعی کنار نزارید چون هوش مصنوعی فرصت های خوبی براتون می‌سازه اما خودتون هیچی بلد نباشید نمی‌تونید به خوبی ازش استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-24T15:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ocC4nIq0whRP0H4s3xw5_YyuUoJmuqkjGwpDbw403KbI7woxE9jtU767ZiOqhFRNcISeLcvVaaAHRW1SJnnhf6xNAwUH04cYCu8L-tMY1uz7kCvZQJgsXfUexUKMBvdBk0YRHbLBtugl8g82ghhtE8Nqwr1DjPYf2es03cPpclaY78MdI_5f_uD30nML6m2-lQcbTgHCHHlreiq79lxK1Rm6YKMOq9Bd9qIJHy5GjwvzjoKnoGB5c3Yy6_od2-Y9rEElz1OyBJ5ULjvy4hiX0B8T7wk1ZfStc8NUnLjggVQJyzhE2SiZ-QhjfKbWvoBBu5-_bKf49ashynK5fETBGg",
-          "width": 3024
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ورژن جدید رتبه بندی مدل های تصمیم گیر مثل Jev منتشر شده!\u003cbr/\u003e\u003cbr/\u003eورژن قبلی که\u003ca href=\"https://t.me/Linuxor/5382\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e اینجا توی کانال\u003c/a\u003e منتشر شد کمی دقیق نبود حالا پارامتر های دقیق تری بهش اضافه شده، همچنین مدل AutoJev-27B که مربوط به Perplexity و CTO اون، Denis Yarats، هستش، بین مدل‌های اوپن ویت فعلا بالاترین جایگاه رو گرفته، ولی هنوز 0.8 امتیاز از مدل Jev عقب‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/multimodalart/jev-decision-index\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/multimodalart/jev-decision-index\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-24T15:42:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hDIZD2v6-Tkl4iSn3Kfrdveh8vcmwznXl_uancvP-F_-GuEI-azCOnT9wJJPrf8Q49whVcopNKGqt8ho2DjDUoVV1J9cGG2Z3UYCEoaExkHVJnJHSVsCtQ2ef1OTKS3omY3dc0kSsyp4r-ZhAlZ6xB8JVMlbiziu-rXnaczqiZBt1Vrk7b5V-lMewGBNfjH75alZoGIFu_fekEA8jfYWlnWO6pmPebyZ_lc_z3OBxGTj0ZGOJRc3eROEcled64P1003bVa7iJvu1h6rkafYyUmVNzc-CUXWZJG0HcBEtPAqysxxAv0nX8l7uK1E8afNUeRZdqzj025vWU8xU_IIcrQ",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اولین پروژه‌ای که ترافیک واقعی گرفت، یه چیزی فهمیدم:\u003cbr/\u003e\u003cbr/\u003eفرق بین کدی که کار می‌کنه و کدی که scale می‌شه، زمین تا آسمونه.\u003cbr/\u003e\u003cbr/\u003e اینجا از این فرق‌ها زیاد حرف می‌زنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+Za23xxzXC_8zNmZk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+Za23xxzXC_8zNmZk\u003c/a\u003e",
-      "date": "2026-09-24T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "این اسکیل هم جدید بود براتون آیکون های سه بعدی می‌سازه البته مستقیم این کارو نمی‌کنه با هر درخواستی که ازش می‌کنید\u003cbr/\u003e\u003cbr/\u003eابتدا تصویر ثابت 3D رو می‌سازه\u003cbr/\u003eبعد تبدیلش می‌کنه به انیمیشن\u003cbr/\u003eبعدش پس‌زمینه از تک‌تک فریم‌هارو حذف می‌کنه\u003cbr/\u003eدر نهایت خروجی animated WebP با transparency واقعی می‌ده بهتون\u003cbr/\u003eهمچنین برای اینکه انیمیشن آخرش seamless loop بشه، همون تصویر اولیه رو به عنوان first frame و last frame به مدل ویدیو می‌ده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/samyost1/3dicon\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/samyost1/3dicon\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-24T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +31,7 @@
       "date": "2026-09-24T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +50,7 @@
       "date": "2026-09-24T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +68,7 @@
       "date": "2026-09-24T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +86,7 @@
       "date": "2026-09-24T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +94,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QGlDXckEHAvxkkByndXv0Exm1kXf0vU_fAwma_Y1iM4DFDrSrP0dCncmX7Bywx3gagIax6XKqFnttoSp5wZW_lJuRbcOx8QfFnOlnnb0j4WjFxNxKoX4yoYO5ChCyESiLH_mmJE_sujm5wwwr7EzDrTYKvY3zXZB1p9jOfJ8thgo-O5-lf9gKl5jzK9iMGgFWG2MDUw2iibgqrYidLrEJwTyDB2JKykj9q9KB6XBqNf8oDi0VDzIHRKxHs3onkxA23BQgxG1Qjc7OR82NjHVkQmxzpvuX4cdXsthaSTQVJtTdyggozSiGnY6dqtMpv5U4nJcFQgji6jVUR3sgQ8fLQ",
+          "url": "https://cdn4.telesco.pe/file/DZe3W8W5V8KjoHJIO4p8N5Qxb82s8B4xGVAmWR4N11IC5lGKhSloWsdGHis-289I-SyO_GVf2hbH1odROrYmhYn926RjNbKt6v-zkwcoY1BirTAkckLxCLSr6X_PxweP8Toh55yxRip0CWyf8aPMwaVbzutyoPpqbOY_m9oZegwYlQZFlw90TzQcPt2e0Lqa5sB2UWVhyVgvyh4WGFYHn8nmDFC8h7D0HhviwM9QR2nVj6Etlw0LTJ80qHxzc2-FCJw968hWx0PiEVghWFg9t67jsg-dMPNUNamVzFJdr03W-5q2E_Wo7-0SOKR7uBx_FQ8OX4IdHIhYasAErusOiQ",
           "width": 1620
         }
       ]
@@ -174,7 +105,7 @@
       "date": "2026-09-24T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +117,7 @@
       "date": "2026-09-24T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +125,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QK0rnbKSSLRsZHTanst5seA-iN26LdWFKNskonJZrrTjoMyAg7YgepT61JYBzA-wcY7uR_xsxwtT591FS6jbFsa5d4JjQhYQE1PT78PthmoLq5bx_hOacd2ABoGcNNGSYGAsjRRCZ-MwXu9SCIUExfn41CM4ric92Iz_m0QAW2NyGPi3X0ySN1pWsuuu2J6r91UE0HePECB-1tgX5Ka71C-gflAm2WmBZmd8cg3t5HdgHiksAZLSQJwWPIJczxUsgTAqFNkMY7qxcVqzOPb-sToMeE-Jf4k1EDc5DbeBd7gSMq6XrAQ4bDnV2nUdTbWCtPfmIYKQZ2j5vVAo4OEh4Q",
+          "url": "https://cdn4.telesco.pe/file/A_XR9ZeOMnZZk9L2M_id4NhoNkKfB7jw47qoLNZxn1J1cVn_KdhoDDkk_Kf9nkK5Wp8acdv0O570gZ3hGiB-lCZICxsKJwsfjlI_sERDkiXKuCqV0a2BwcXpFm3HB0ETzC3Gfd-NITxkW7LDEUgz0weLLm8jTHOePqhf9BQRTvVbjNYCpyf8ZCgasg1lNd866eePxC6cVV6Dx0kG7IuuVDi3gaOz8H_-gtSVRo07lk6FNxomPMrUDaogCPKHqpd6h-iA5lB6x2YHGVxYTRA7ap9eMHOYw0jTjrA-ctFpaPVpr_yMk_F_y5k6PWG4lUur2vBuvdTAanPDyenqskfnhA",
           "width": 1642
         }
       ]
@@ -205,7 +136,7 @@
       "date": "2026-09-25T13:29:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +155,7 @@
       "date": "2026-09-25T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4510,
+      "views": 5220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +173,7 @@
       "date": "2026-09-25T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 5260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +192,7 @@
       "date": "2026-09-25T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 5140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +204,7 @@
       "date": "2026-09-25T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
+      "views": 5080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +222,7 @@
       "date": "2026-09-25T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3310,
+      "views": 4630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +240,7 @@
       "date": "2026-09-25T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3160,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +259,7 @@
       "date": "2026-09-25T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2830,
+      "views": 4420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +271,7 @@
       "date": "2026-09-25T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 4600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,7 +283,75 @@
           "width": 1440
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003ctg-spoiler\u003e\u003cb\u003e فقط تا 4 مهر\u003c/b\u003e\u003c/tg-spoiler\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدوره‌ی آموزش زبان با فرندز، رایگان از طرف لینگانو.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e سطح دوره: از پایه تا پیشرفته\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e 40 جلسه آموزشی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به زبان فارسی و انگلیسی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دسترسی مادام‌العمر به دوره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e قابل استفاده در موبایل و لپ‌تاپ\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eظرفیت محدوده، همین الان روی لینک زیر کلیک کن\u003c/b\u003e.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://lingano.com/extra/learning-english-with-friends-lingano/?utm_source=telegram\u0026amp;amp;utm_medium=ads\u0026amp;amp;utm_campaign=friends\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدریافت رایگان مینی دوره انگلیسی با سریال FRIENDS\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-25T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hg4bTwhTz_0RrgISEi3VM6yMUO6Wh5jdNryqyWVb08tOfpu1l-1i7VpMHkTcgF9V1JSeGaotc2Kf-dyYhIFXZAksjqP7d1Jc1eOMbIqyy4XRqCp55uX9hHBDkG3maKGZ4hG_yMwGRCSpRNvVEtSReppkCY6VDHkwARo8i8VA8PG-jeL3XJTVj03aSht61OCpgNTVqdKLEeHb-zYue2_KBBPej5NMal7lg5x4CUyOVZgWjay2wfs3YoqPkAHkKWmrTM6z7Afuq_W5-4HUeFFX7Uuk_CLfQhr4Tm5DFY0m1LzR1sxxCVY5J1exZRuHmMvJoiBlpSF-2hI0HpkOzfhR6Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه پروژه جالب به اسم Valen اومده که به‌جای اینکه مدل بعد از دیدن تصویر بشینه reasoning طولانی تولید کنه، مستقیماً از روی تصویر/متن، احتمال action های مختلف رو حساب می‌کنه؛ یعنی ورودی میره داخل مدل و خروجی میشه تصمیم آماده برای اجرا.\u003cbr/\u003e\u003cbr/\u003eروی Qwen3.5-2B ساخته شده و یه Decision Head به مدل اضافه می‌کنه. مثلاً برای یه بازی می‌تونه خروجی‌ای شبیه Left: 0.05 / Right: 0.72 / Up: 0.18 / Down: 0.05 بده و Agent هم سریع‌ترین action رو انتخاب کنه. این معماری برای بازی‌ها، UI Agentها، moderation و سیستم‌های real-time خیلی جالبه.\u003cbr/\u003e\u003cbr/\u003eتوی benchmark مربوط به Sokoban، Valen با 9 تصمیم مجموعاً حدود 1.13 ثانیه latency داشته، درحالی‌که Qwen3.8-27B Think برای همون سناریو حدود 198.05 ثانیه زمان گرفته. نکته مهم اینه که این اعداد مربوط به همین task و setup هستن، نه اینکه 2B در همه‌چیز جای 27B رو بگیره.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین :\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/yuhangzang/Valen-Preview-0923\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/yuhangzang/Valen-Preview-0923\u003c/a\u003e\u003cbr/\u003eسورس کد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Liuziyu77/Valen\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Liuziyu77/Valen\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-25T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sr8iArCwt6O0ltRTeypcQHrl5GyARz8RzTs0yfG52_ifDm-SOVPYp-NxCdr8GeScE8NxH3IrkRL5tmrDAj5UXAL0F5PKOfGStT7x1XYWWGelPqizcL_dGh-_OZ2mC4FX8TpgKZD2_-b2bDKNw4qZuTDDwkxpbCLnnBYu0gHRtdUvHxIjojV-MOSI9EsOORLBykuLUHlfAeW81vO1CXEZUdzw60jmeqqbH_AdcZX59BcfrCu3YIVpeWRPGPnkWHe1JQ8bW3JRS6W9B6hytKBcce-3edQgyj_RjKoY7ZyPydbENc4wPk9iNYS1opqHsHKFiBBKTQ96NMTgoIzb9jb4PA",
+          "width": 800
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه فرمولی برای تولید محتوا که تقریبا پابلیکه و اکثر تولید کننده های محتوا ازش استفاده می‌کنن (مثلا مستر بیست) و حتی شما هم میدونینش پول خرج کردنه، جالبه یعنی به هر صورتی پول خرج بشه برای مردم جذابه چه پول رو بسوزونی، چه رایگان بدیش به یکی، بری چیز بخری نشون مردم بدی و هر کار دیگه کنی حتما توجه مردم رو جلب میکنی.\u003cbr/\u003e\u003cbr/\u003eدیدید توی روانشناسی میگن هدف اصلی و اول انسان بقاست و بقیه اهداف زیر مجموعه این هدفن؟ توی تولید محتوا هم هدف پول خرج کردنه بقیه اهداف زیر مجموعه اینن؛ در واقع هرچی یه منبع برای انسان باارزش‌تر باشه، دیدنِ نحوه خرج شدن، از دست رفتن، به دست اومدن یا به خطر افتادن اون منبع می‌تونه جذاب‌تر باشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-25T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "خالق روبی روی ریل،  DHH بزرگوار\u003cbr/\u003eحرفای جالبی راجع به هوش مصنوعی و آینده نامعلوم برنامه‌نویسی میزنه،‌\u003cbr/\u003eجالبترین جاش اینجاس که میگه :\u003cbr/\u003eمن به عنوان کسی که قراره خودش کد بزنه، از Rust متنفرم ولی اگر ایجنت قراره بزنه عاشقشم.  میگه اگر قراره ما به عنوان بلک باکس به زبانهای برنامه نویسی نگاه کنیم و با اینکه ندونیم توش چخبره، نرم افزار توسعه بدیم، خب دیگه چه کاریه بیایم از زبانهای خیلی سطح بالا و developer friendly استفاده کنیم؟ کدنویسی با زبانهای خفن ارزون شده و احتمالا یسری از معماریا هم که برای نگه‌داری و توسعه انسان بود احتمالا به مرور مهم نباشه دیگه ....\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://mrbug.ir/fa/blog/ruby-on-rails-ai-dhh\" target=\"_blank\" rel=\"noopener\"\u003emrbug.ir/fa/blog/ruby-on-rails-ai-dhh\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Ralireza11",
+      "date": "2026-09-25T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FLyvzBHlLLYAxRugEMIpWqVk094it_ve3uXIR1K_t-dfyNkXT0CvGAmwnxtjHWHMjuCgspZnqsJrmPVRvlagY1mEmJz7dnIQdfD664V4um8v_cUkJUBTVu0a0hfdK2fbXWAFGUlwYEhW50KnKWr6HrVqVaRPVmUVBCiLa6cb6kUB9JzYxA7Ta3xk6ewwWwGt1kZudcQTQKD3p6-c9MCQ6ssxngzeQPRgUc2DxwnAh8iAc7Y70YF3-aLgDZc8DMWp3PPSgF-fDLpA3oq03xV0HUy9spPDNo4mdeTcvsNNjDMRUIEqDYtkBybz-_i9S3YK5lT282hU1U9qpaLmEYCPLQ",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1790360092
+  "last_updated": 1790372586
 }
