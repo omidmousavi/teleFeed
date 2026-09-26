@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این اسکیل هم جدید بود براتون آیکون های سه بعدی می‌سازه البته مستقیم این کارو نمی‌کنه با هر درخواستی که ازش می‌کنید\u003cbr/\u003e\u003cbr/\u003eابتدا تصویر ثابت 3D رو می‌سازه\u003cbr/\u003eبعد تبدیلش می‌کنه به انیمیشن\u003cbr/\u003eبعدش پس‌زمینه از تک‌تک فریم‌هارو حذف می‌کنه\u003cbr/\u003eدر نهایت خروجی animated WebP با transparency واقعی می‌ده بهتون\u003cbr/\u003eهمچنین برای اینکه انیمیشن آخرش seamless loop بشه، همون تصویر اولیه رو به عنوان first frame و last frame به مدل ویدیو می‌ده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/samyost1/3dicon\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/samyost1/3dicon\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-24T16:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VHJIMwXQr7ojW-eSYOWmS-C-1kDeCl-kqUUKDCspFKlyYjwOIdrsK41vZ133674HLOP36WX6Hyy8FJQyAbdOCVmrUPVbC21jhScr5dnnIsUpemYEFLX865QtVSCwW4iLbTCohtbsLsVf9EzlCOo4_87fPih_7Uh9fGK7tvauUI1bNa6e_0gR5r4Zi8xSLFbAo8xCPM_EzxnU-YyHS3Ae9tLZw35O35wEh1CQc6479gN3fFKqpzjECSZYfp6kC8IyL9IsDXpRss8AkIN35I4DvLvJFJd56LtlAlPxdbP_qSZlGGosGTHn6v5FT33CTsdUN_LcpZ63kvlnoUI0sP3wRA",
-          "width": 1152
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این ویدیوی کوتاه برای معرفی محصول ساخت دستیش شاید روز ها طول بکشه اما با یه پرامپت ساده چند دقیقه ای با Opus 5.5 ساخته شده پرامپتش رو به بقیه هوش مصنوعی ها هم می‌تونید بدید:\u003cbr/\u003e\u003cbr/\u003e\u0026#34;I want you to create a highly professional SaaS product launch video. Go and find some SaaS, preferably just one that people know, so it\u0026#39;s easier to identify with it. Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, motion-graphics-styled product launch videos that you see people making on Twitter when they launch new SaaS products (which are showing off the features, the benefits, and all of these things).\u0026#34;\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-24T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-09-24T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +49,7 @@
       "date": "2026-09-24T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +67,7 @@
       "date": "2026-09-24T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 7030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +86,7 @@
       "date": "2026-09-24T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6850,
+      "views": 6990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +98,7 @@
       "date": "2026-09-24T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +117,7 @@
       "date": "2026-09-25T13:29:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +125,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oydxE_obXZtEBwnnMl-ApKuXcyD3AgJzBzdV410KEE7nUoIfLQne94kNd3-qyiIH5csCeKyKUNat82PQhriFqELZfyWbxLXCyJFrC2laGuG3hbvhdfu0EAPNjULFcVr34_HreAch8kIeFkCmzsBfgTRVVHlVec-7sBStUx1AnGNHCwqBdle_hDwvt6yGHBQmItW6_IcwjkTPFVMcL96kgwXMdouFxEE5Q2QmbY0Fn4osq9W1u1XkzIpMazR-OQmxqf0FyH6xtCYOKBHt0H4JnlqC0PiSUqtVJHO-Uk20EBcTy2Z7QQ-p8TGX1_9bctWmTuSBC6-_tUdwPnfI6faVCQ",
+          "url": "https://cdn4.telesco.pe/file/WvgJQ9zchdZCGCdSzn4HtGxEelPsijcCFgRfAFOz4TedfaGtpicCdIhWIYozRIx0fNEd2zyK4_zEVRccgZ1SZIetfNenF9mgYcFJANeIZQvpDVnyDnDqvAlNNcTgtVxVquDOgMA9GifgIuDLIo7BToAMwf5UUmRXjkT1iNmsU1vIM9KgSncKrmb8MQmGhoQ0OraNUYyepMeOPgUFQ4vOaWNuD9vHiK4VYNbL8X8s5xmbloMPRMKNylNHKIZA_ArnusOCW2w-j6esyyXzimEwRj1gNwYlGa-haVygjd2rh8aVSOt_pXaZRVRnblKESU6AA606uLK-jWFBLXv4RyyVMA",
           "width": 3840
         }
       ]
@@ -155,7 +136,7 @@
       "date": "2026-09-25T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +154,7 @@
       "date": "2026-09-25T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +173,7 @@
       "date": "2026-09-25T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +185,7 @@
       "date": "2026-09-25T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 5780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +203,7 @@
       "date": "2026-09-25T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
+      "views": 5560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +221,7 @@
       "date": "2026-09-25T16:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5160,
+      "views": 5530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +240,7 @@
       "date": "2026-09-25T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +252,7 @@
       "date": "2026-09-25T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +271,7 @@
       "date": "2026-09-25T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 5250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +289,7 @@
       "date": "2026-09-25T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4790,
+      "views": 5520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +308,7 @@
       "date": "2026-09-25T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 5600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +320,7 @@
       "date": "2026-09-25T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,7 +332,26 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه های چند وجهی Jev (اونایی که به غیر از متن می‌تونن عکس و مدیا هم بفهمن) می‌تونن یه انقلاب خوبی توی صنعت Manufacturing به وجود بیارن مثلا می‌شه فهمید :\u003cbr/\u003e\u003cbr/\u003eقطعه سالمه یا خراب و معیوب؟\u003cbr/\u003eاین جوش درست انجام شده؟\u003cbr/\u003eاین محصول scratch داره؟\u003cbr/\u003eکارگر کلاه ایمنی داره؟\u003cbr/\u003eچیزی وارد محدوده خطر شده؟\u003cbr/\u003eدستگاه رفتار غیرعادی داره؟\u003cbr/\u003eاین قطعه باید reject بشه یا نه؟\u003cbr/\u003e\u003cbr/\u003eاینجا لیستی از Jev های چند وجهی رو جمع کرده و با تعدادی تصاویر اونارو بنچمارک کرده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://benchmarkheaven.com/image-jev-bench\" target=\"_blank\" rel=\"noopener\"\u003ebenchmarkheaven.com/image-jev-bench\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-26T10:51:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/P8X9ZYXRIX1FcxRm9nu1JE4Zq_NSoOrViaZ9eoss-OfukOeM7a2SDKapcYi_hIe_BVn60pV6Fld_xkrJBETDseU94UsNWesGMkhQjPu5_ur4b6JbtOuoHUjf0OrUouw4fuvXpIilzB7FNKS-7So1ucKTBsK1qbZyjIYhzqNLAHis68gNcNIow_grD3QeT_kd7ncjxDPugCFrefdswMnWZRe7-8KCQUX69veZLyIBG0QfEdHIU-26ZJsuj824cZEf0ZQB8irOx_HecWrukCy0cCmeiR1jFZElsx9zEJNSFicKJTXeyB27Jg67ikh__BJMbgG1XUEVqUsLgkMUjy_ArA",
+          "width": 1080
+        }
+      ]
     }
   ],
-  "last_updated": 1790416805
+  "last_updated": 1790431963
 }
