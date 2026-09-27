@@ -8,97 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برای کسایی که با مدل ها زیاد سرو کله می‌زنن، انویدیا یه جعبه ابزار برای بهینه‌سازی مدل‌های AI داره قبل از اینکه مدل رو ببری برای inference، کمک می‌کنه مدل رو کم‌حجم‌تر و کم‌مصرف‌تر و سریع‌تر کنی.\u003cbr/\u003e\u003cbr/\u003eتمرکز اصلیش روی چیزهایی مثل Quantization، Pruning، Sparsity و Distillation هستش. مثلاً می‌تونی یه مدل BF16 رو به FP8 یا NVFP4 تبدیل کنی تا VRAM و هزینه محاسبات کمتر بشه، البته با کنترل افت کیفیت مدل.\u003cbr/\u003e\u003cbr/\u003eنکته جالبش اینه که ModelOpt خودش جای vLLM یا TensorRT-LLM نیست؛ بیشتر نقش مرحله‌ی optimization رو داره. یعنی مدل رو آماده می‌کنی و بعد می‌دی به inference engineهایی مثل vLLM، SGLang یا TensorRT-LLM تا روی GPU اجرا بشه.\u003cbr/\u003e\u003cbr/\u003eاگه با مدل‌های بزرگ و GPU های NVIDIA کار می‌کنی، ModelOpt یه جعبه‌ابزار برای اینه که از همون مدل، نسخه‌ای سبک‌تر و مناسب‌تر برای production بسازی؛ مخصوصاً وقتی بحث FP8/NVFP4، کاهش VRAM و افزایش throughput مطرح باشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://nvidia.github.io/Model-Optimizer\" target=\"_blank\" rel=\"noopener\"\u003envidia.github.io/Model-Optimizer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-26T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ooTeSl3bbpi5MG2Nfdwb709igwPbHK6vZ--ZESFUrdbK-JvzqjJTIWeQ3EiZSEwH0EPapsj40x2_pOKVTbg9FReMn_aZgtT594cJmrTbULVksPQGMDUI0MYmknh4eWYWdlVGPtbhl4CtZlIC84xqDkmaF6GPg1yv7G3XMwaH80GrCidCYX8AE_UHQki6VeVe30FoIeAcA0MPKEc8DrYT87PK1Q30d4kPOb0SPjvJGutKt3FH0p1BV3TRl77znaQNCOgG2SCYg9aygPxeJdlpU_BVmzr7MINzhUWf3JAus6LGFgWJ4h5C_uD-sEoezOsOf1ZZ1fXsiId6flCyEmXpBQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e مینی دوره Claude رایگان شد! | ابزار برنامه‌نویسی، تحقیق و حل مسئله\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e توی این مینی‌دوره یاد می‌گیری چطور از Claude برای انجام سریع‌تر و بهینه‌تر کارهات استفاده کنی.\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eثبت‌نام رایگان:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://quera.org/r/jd7au\" target=\"_blank\" rel=\"noopener\"\u003equera.org/r/jd7au\u003c/a\u003e",
-      "date": "2026-09-26T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j7JN_DFOV5uorn8fDsp9yKaG4vbacCEOcz1kD0dLiqd2fXXuYbcDmRhxT-2gz4YxJHO3xxoYIs1tyYSWH_1KkKQnHMeAaTtSduoyRUoO9TFGBQLgy2GplvoSBR1YI4G5SZ00sr8O2-XnGaYvgpykrU-RJelxX2GHSL5ZWztvBE7uZD_gE-qZ8XO2JsGBR5VnrGQJL0iozDe9GU1zqMOqyYKM3-hjrHTVIIXgNpESk5diLeCPmZEcqhjxgG9Tov0ZBMPLSazT1XDRxfWLElBfoOL057XJDYnnHSIETpCVK0acwIYQGSdZXBFryj2JrdaaeuLi32NlkhUEUZ7daetU4w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه مدل جالب برای اجرای AI روی دستگاه اندرویدی (ویدیو تست شده روی S26 برای هر درخواست 128توکنه 70 میلی ثانیه زمان می‌بره)\u003cbr/\u003e\u003cbr/\u003eمدل GLiNER2.5-Decide دارای 340M پارامتره که برای classification، routing، sentiment، intent detection و تصمیم‌گیری ساختاریافته ساخته شده.\u003cbr/\u003e\u003cbr/\u003eنسخه‌ی LiteRTش رو می‌تونید روی دستگاه‌هایی مثل Android به‌صورت local اجرا کنید؛ بدون API و بدون نیاز به ارسال متن به سرور.\u003cbr/\u003e\u003cbr/\u003eیعنی برای خیلی از کارهایی که لازم نیست حتماً یه LLM بزرگ داشته باشید، می‌تونه گزینه‌ی جذابی باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/litert-community/GLiNER2.5-Decide-LiteRT\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/litert-community/GLiNER2.5-Decide-LiteRT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-26T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/flW4Yk_gWXwrJK98LI116BSTdbz0u54AT3qyV8VLxutSE6YPC7EOjtGmGDHNSJXnde78Z1AEpi_MIWsKnZ-ksg3mCq6t2YqJs12Mhy7IB20zij2GyW-VvSfdRDwjTYzb3e4NHQ7b-8diG94VBmt0r5SY_zeV1hCKwfAwfqUBg3H6T7g-vsdEfHXmSkoWTMK-wcEHz0aDeQk-Mo50s61xmSw1aXCDe05WDp1uWKEx6xwgKXx8Vb1DzmOrpOhamzcrBP2rNZEoQdkLCSVYiCi71dw4-LiveAo43fVxxbExnz4-PdV4wVIZSbOLNWvKnd1G-AivwaAVa_QbLRVskxhhcA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مغز انسان یه باگی داره اینه که آینده رو خوب پیش‌بینی نمیکنه از اون بد تر یه عده بهش اعتماد هم میکنن؛\u003cbr/\u003e\u003cbr/\u003eمثلا همیشه با خودشون میگن وای فلانی آنلاین شاپ داره چه پولی در میاره فلانی شرکت داره چه پولی درمیاره فلانی فریلنسره چقدر راحته کسی روی سرش نیست و همیشه آزاده!\u003cbr/\u003e\u003cbr/\u003eبعد که خودشون بدون پیش بینی آینده و با صرف اینکه اون کاره راحته یکی از اون کارارو شروع میکنن، می‌افتن توی باتلاق اون کاره که به راحتی هم نمیشه ازش بیرون اومد مثلا آنلاین شاپ به ظاهر شاید پول پارو کنه ولی باید بدونید که «باید محصول خوب پیدا کنید ← سرمایه بذارید ← محتوا بسازید ← تبلیغ کنید ← مشتری جذب کنید ← بسته‌بندی کنید ← ارسال کنید ← مرجوعی بگیرید ← پشتیبانی کنید ← حسابداری کنید ← با افت فروش کنار بیاید ← دوباره تبلیغ کنید و ممکنه اصلا به مشتری هدف نرسید...» تازه بعدش میفهمن این کار همچین براشون جذاب هم نیست!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-26T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "یه کتابخونه UI پیدا کردم که کلی کامپوننت خیلی شیک و جذاب رو یکجا جمع کرده؛ برای اینکه توی یه لندینگ پیج یه افکت «واااو عجب چیز پشم ریزونی» بسازی\u003cbr/\u003e\u003cbr/\u003eسایتش اینه:\u003cbr/\u003e\u003ca href=\"http://componentry.dev/\" target=\"_blank\" rel=\"noopener\"\u003ecomponentry.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-26T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dQ4tNeUqSh_fo7LAhj6QAwRYzmjCmTF69CPjjiepIp5OLtYRnbICYujFS4by9N_gnNtmbJPAwWFP3Z_YAD5bHF_Vu68qAN-tMFkH69qZlLptgb6B-j_lmKMkWnKB354lv5-7mdx7PmtV2wgo80f1EIJ_CWOTpyLF9GB2qUqx_vt7vZpOh1O9nKn9IzYWJyjJJ8SA2t46OxtyPfSlgI-1z1BMLhUdFgK2H3MXSKo1xmeEB8mTSbu_UXmt64s5B0kNjtJVHeo-Sycs_WZiSBTv8Ra9VVk-nsO4oJNdnOS2mZ6wfhJH865Gzx--r8vwvxdAp3Pi-KW3nTfYmaY6NHW6Rg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه تکنیکی که جدیدا دارم روش تمرکز میکنم درست Exit کردنه، اکثر ماها نمیتونیم درست از یه کاری که شروع کردیم و به نتیجه دلخواه نرسیده خروج بزنیم و توی لحظه آخر همه چی رو آتیش میزنیم، برای مثال تا الان ده ها تا سرویس و محصول از سایت و API و... ساختم که همشون هم درآمدزا بودن ولی کم بوده یا زحمتش زیاد بوده همشم از بین بردم؛ با خودم میگم بابا کاش حداقل یکم روی آتومیشینش کار میکردی مثلا یه سرویسی که ماهی حتی 10 تومن درآمد داشته باشه و روزی مثلا 3 ساعتت وقتت رو بگیره رو یه جوری اتومیتش کنی بشه روزی نیم ساعت یا یه ربع واقعا می‌ارزه نگهش داری در واقع بجای اینکه محکم Exit کنی و بی سرپناه بزاریش و درآمد بشه صفر تومن یجوری با AI و آتومیشن فشردش میکنی که بشه یه ربع در روز حتی درآمد کمترم شد و مثلا 7 الی 8 تومنم می‌ارزه.\u003cbr/\u003e\u003cbr/\u003eچیزی که داره براتون پول می‌سازه ولی کمه رو هیچ وقت سرش رو نبرید ببینید می‌تونید رامش کنید اگه نشد سرش رو ببرید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-26T20:08:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6600,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +24,7 @@
       "date": "2026-09-27T10:06:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +43,7 @@
       "date": "2026-09-27T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 5710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +61,7 @@
       "date": "2026-09-27T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5080,
+      "views": 5760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +80,7 @@
       "date": "2026-09-27T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +92,7 @@
       "date": "2026-09-27T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +111,7 @@
       "date": "2026-09-27T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
+      "views": 4930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +129,7 @@
       "date": "2026-09-27T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3950,
+      "views": 4810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +148,7 @@
       "date": "2026-09-27T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
+      "views": 5000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +167,7 @@
       "date": "2026-09-27T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3780,
+      "views": 4780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +185,7 @@
       "date": "2026-09-27T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
+      "views": 4260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +203,7 @@
       "date": "2026-09-27T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2740,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +222,7 @@
       "date": "2026-09-27T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 4540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +241,7 @@
       "date": "2026-09-27T17:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +253,92 @@
           "width": 2160
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6134246530380472478\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9884.png\u0026#39;)\"\u003e\u003cb\u003e😄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاکانت ChatGPT Plus اشتراکی(7نفر) روی ایمیل پیش ساخته شده\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5233719698046068739\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمراه حرفه‌ای برای تولید محتوا و ایده‌پردازی با \u003cbr/\u003eپشتیبانی نینجا پرو شاپ.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5427168083074628963\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قیمت: 699 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تعداد محدود است.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاین محصول  بصورت دستی اماده میشه به شما تحویل داده میشه.\u003cbr/\u003e\u003cbr/\u003eبرای اطلاع از شرایط و ثبت سفارش، همین حالا \u003ca href=\"https://t.me/NinjaProShopBot?start=refl_c35afae4d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاینجا کلیک کن! \u003c/a\u003e\u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/NinjaProShopBot?start=refl_c35afae4d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@NinjaProShopBot\u003c/a\u003e \u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/NinjaProShopBot?start=refl_c35afae4d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@NinjaProShopBot\u003c/a\u003e \u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/NinjaProShopBot?start=refl_c35afae4d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@NinjaProShopBot\u003c/a\u003e \u003ctg-emoji emoji-id=\"5825814384710001122\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B7.png\u0026#39;)\"\u003e\u003cb\u003e🥷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-27T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RdQ1a8Gf_11Y0dV7pd2U8kuJpspLTLOxxiSm31EzugyMfODf712WDJpHiZ73HQAP2J8YjmE022982Bnn4cKhArPcj2iKQNKzVjQV4ReQSjr29rK8KiVp59AMk0t1LPmhtpCJko9dY6z0yNeWxKTG9V0oTwzxrhnzZQL_5RE7vx6AlGZ9NTW3Kx_wYBlr3t2pZlqMRIsIGiB6CRWJ_OJPdJ7cBNv0-Rykh2kyyhbJoIQgM-2CaxpIyX4PmalRxo8w9fehul0i1AF67cxdhWAlFXUuUpAnGpUPjWzVAfEto2I6A8_G8Dgj5xoe9OioXQ0m-YvgMIy-r00cbPM1z6JWKw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر تونسته سانسور Qwen رو تقریبا برداره، توی AI یه تکنیکی داریم به اسم Abliteration که یعنی با دستکاری وزن‌های مدل، جهت‌هایی که باعث میشن مدل بعضی درخواست‌ها رو رد کنه یا اصطلاحاً refusal داشته باشه، تا حد زیادی حذف بشن. یعنی به‌جای اینکه فقط با System Prompt به مدل بگی «رد نکن»، خود مدل رو تغییر میدن.\u003cbr/\u003e\u003cbr/\u003eحالا مدل Qwen3.5-9B-abliterated دقیقاً با همین روش ساخته شده؛ یه نسخه دستکاری‌شده از Qwen3.5-9B که هدفش اینه رفتارهای refusal رو تا حد زیادی کم کنه. سازنده با تحلیل activationهای مدل، جهت مرتبط با refusal رو پیدا کرده و بعد با Abliteration اون جهت رو از وزن‌های مدل حذف کرده.\u003cbr/\u003e\u003cbr/\u003eبعد از این مرحله هم روی مدل QLoRA fine-tuning انجام شده تا مواردی که هنوز باعث refusal میشدن کمتر بشن. نتیجه یه مدل 9B هستش که برای استفاده‌های local جالبه، مخصوصاً اگه دنبال مدلی هستید که محدودیت‌های رفتاری کمتری نسبت به نسخه اصلی داشته باشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/lukey03/Qwen3.5-9B-abliterated\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/lukey03/Qwen3.5-9B-abliterated\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-27T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3690,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KlFjQYdv3fPbTJdwTZKVXnYAfVL0xb5XWH4zEvfi5Hzt5FP1UxFtqll22gbh2VY9J_y9l6p-buU09WMt7uVK3hopbm9anDA8lH5QCalJg9L1LZjAH0KuXgzn4EpUzEW8l0XPVV05npMGfEaeq2TP3r5PnnWVjp41H4048DgZSo1dSJDJTquOq1lYzc5xEkSmFue6bNPLkfVpaREbFYar3uLFhkLSckLP__N3rLGZFMah6c8567Kz82MgV9IuUr_EAUQ2LDJ380AudogkX63VPqnkHKcOof6rOQZTeFncCxvR8Ut9onF0GYmG4j_iDsmC-e5zvvs1KgArgmByPdrSoQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یکی تجربه‌ی خودش از مهندسی معکوس کلی فایل APK رو تبدیل کرده به یه Skill و به‌صورت متن‌باز منتشرش کرده!\u003cbr/\u003e\u003cbr/\u003eبعد از نصبش، هوش مصنوعی می‌تونه اپ‌های اندرویدی رو با دنبال کردن روند فکری یه متخصص باتجربه تحلیل کنه. می‌تونه توی این کارها کمکت کنه:\u003cbr/\u003e\u003cbr/\u003e1. تغییر دادن فایل‌های DEX، ری‌پکیج کردن اپ و ساین کردنش\u003cbr/\u003e2. کار با Packing و Loaderها\u003cbr/\u003e3. تحلیل لایه‌ی Native\u003cbr/\u003e4. کار روی Dart AOT در اپ‌های Flutter\u003cbr/\u003e\u003cbr/\u003eمی‌تونی مستقیماً با Claude Code و Codex ازش استفاده کنی.\u003cbr/\u003eلازم نیست ابزارها رو خودت از قبل پکیج یا آماده کنی؛ هوش مصنوعی خودش ابزارهایی مثل Frida، JADX و Blutter رو نصب می‌کنه.\u003cbr/\u003eبهترین نتیجه رو وقتی می‌گیری که همون اول کار، به مدل بگی از این Skill استفاده کنه.\u003cbr/\u003e\u003cbr/\u003eروی GitHub هم 2.5k ستاره گرفته و کاملا رایگان:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/newliver666/apk-reverse\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/newliver666/apk-reverse\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-27T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WVuEvZgXQ6ehj_ja2Cc42awmOOrvLFClBZouEKxrN4mNtmkKb-S7lroZIPTEbMTyOfIbk39-AmiZiNS9jF8UIWiUF44iuAfcHAygxNBbO_4AgVxIIxR5YFsfp59Vwiv0wugIXEIxOuOm98txBbGUT7cG1SnY55ptlJ8Ggv0M_CmoQo8OpMMd5rj2J9OoUVC8MBljLHilGMDH4cIijjhq5Aw-28Rv2IqQFqtHp2hOZ8KT74rfCVjXR8_fd6K9wnq_kGEellQg9aXmBDvSBNUmRk1akCXNpdP1MvdtBVMp_0cU3HtrWUo6Y4snCqnI8e9uooDR_4x-I7lN7fDNp30AYg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این سایتم هم جدید اومده و کامپوننت های وبی زیبایی داره\u003cbr/\u003e\u003cbr/\u003eهر هفته دارم یه سایت این شکلی براتون پیدا میکنم این چند تا از کامپوننت هاش انصافا قشنگ بودن من ازشون استفاده می‌کنم شما دیگه نکنید سایتامون شبیه هم می‌شه خز می‌شه برید از قبلیا استفاده کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://uselayouts.com/\" target=\"_blank\" rel=\"noopener\"\u003euselayouts.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-27T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/NREZdPXK-7_Avo1BtzXvaq_cIvTYVDFRHPaeYiLNReGFQMkk-3YG_2NW8liqYqbT7m6c8mm25qqzwLS9HbZsslKJsuD1vJzo6WCcl2JFVgemPaZa7hPaEODnay3vSTbjlWpNTqoUCaIKznRPX0qax7XI1QXc1qzoqbjOcNk1HHRjjnv6Llwyl0xTMUaI0StdMd9EiE0opRsTF8T7NIgc1Gy78MtsJ04A1jeQ7xYSZHDRGGehKiGt4g97QFf-_211sYqj1YPtQyhL7BYfzeV6fwX6Dc9XsiMeoHWQ2-ayaHn1Obuvyo1aY29lyUUcrtOxL9z_ic7McJVp34HOaxjmKA",
+          "width": 3616
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "از من میشنوید برید هرچی میخواید یاد بگیرید AI حالا حالا ها جای کسی رو نمیگیره، من چند ساله برای اینکه هر روز برای شما منظم پست بزارم هر روز منظم اخبارو میخونم توییت هارو میخونم یه بخش بزرگی از تکنولوژی رو دنبال میکنم.\u003cbr/\u003e\u003cbr/\u003eیه عده حالا شاید با اسم های متفاوت ولی سناریو های یکسان میان میگن وای مدل فلانی اومد ببین چی ساختم باهاش؛ شاید اصلا تیم مارکتینگ شرکت های AI دارن این بساط رو هر روز پهن میکنن کف اخبار وگرنه هر شیش ماه تا یک سال یه چیز واقعا مفید معرفی میشه مثلا Jev؛ بقیش حس میکنم ادا بازیه؛ من ذهنیتم فقیره آیا طبیعیه مردم بیان دو سه هزار دلار خرج کنن که یه بازی که قبلا ساخته شده رو دوباره با AI بسازن؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-27T20:15:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1790531522
+  "last_updated": 1790541340
 }
