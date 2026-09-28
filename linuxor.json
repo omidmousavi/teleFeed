@@ -8,79 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه تا حالا خواستی یه وبسایت شبیه VS Code، Figma یا Photoshop بسازی، احتمالا با یکی از دردناک‌ترین قسمت‌هاش که برخورد کردی مدیریت Layout. Split، Tab، پنل‌های شناور، Resize و Nesting خیلی زود تبدیل به یه عالمه منطق پیچیده میشن. Trellis برای همین ساخته شده؛ یه Layout Engine برای ساخت Workspace های پیچیده و قابل شخصی‌سازی توی Web App. کاربر می‌تونه پنل‌ها رو جابه‌جا کنه، Split کنه، Float کنه، داخل Tab بذاره و حتی Layoutها رو تا عمق‌های مختلف داخل هم Nest کنه.\u003cbr/\u003e\u003cbr/\u003eاگه داری یه IDE، داشبورد، ابزار طراحی، ادیتور، Trading Terminal یا هر اپی می‌سازی که کاربر باید محیط کارش رو خودش بچینه چیز بدرد بخوریه کلا 33 کیلوبایته.\u003cbr/\u003e\u003cbr/\u003eتست آنلاین و دانلود :\u003cbr/\u003e\u003ca href=\"http://trellisui.com/\" target=\"_blank\" rel=\"noopener\"\u003etrellisui.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-27T10:06:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hnlxxgZIRm3wbczIW0RuV2DmZBDYRSwVIBSL1EMvrIWFhDgPnsLm4ObPUVPjP9FzmNdycewTP6yDuFOoqPTKL7A2C47xGWF-_GFerpWCzvZ3LOi5lAGPwCdt9q1vnLQJ2sZ7qP_xc_vbdTYQLTNpdCBIysfgE0pfgyc4-6cW4n7oukxWWxknvtS6-dpnSx2FtDvoefIedXOaaanWktNdH7iQEbaj6Oyvg2rWu8b8ahDHvN6wDTp8GAJhY28UhE-gnaEZ9DJiKl3OsNQDO6HK3tOsn738yGEw8y0jlrvuvefFD4UULQxEFGE5SdrlIrO54SfBArV3iqVouqKAOeFI7Q",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e  \u003cb\u003eاکانت ChatGPT K12 پیش‌ساخته یک ماهه، کاملاً اختصاصی و کاملا مشابه پلن Plus\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ۷ روز گارانتی بی‌قید و شرط\u003cbr/\u003e‌\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمدل Codex Astra\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e قابلیت اجرا در VS Code و Cursor\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به همراه Codex Windows و قابلیت Work\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e آفر محدود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e فقط \u003cb\u003e۱.۵۰۰.۰۰۰ تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ariobox_bot?start=promo_116_1300\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرای خرید کلیک کنید\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-27T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MuTMbjB3wNyqXgfcQN3L1qgM1ahjhU0FNylRQhmFluUyc4e6yxIfNZHNQomO4IKVbuhHZhb0QL-YtrZOaq9dI_KwihVMwqlujI9FfkY6Y593aK5S94FVMWz5x1QL0YF97qWSK_JgMaE9OXbTEFuePphRp84pjvIRm70a2QJ8Q4s9mn2hbNhIkELV0w6iQHYsdZxyi1vFM81PUdJmHNziNJzXZPYvETUAadOatgc4rc0-pKDb_g_LPB63noLAO6u817FFneTwWrfYilU8kNJw8UqkfatdTFAx2V8Po6bZpmVpHdnkcMqOMmn-cb4mV0YtaRYHq8CteXDLUTZbleELEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی یک مدل با 58.5 درصد توکن فکری کمتر، همان دقت یا حتی بهتر را ارائه می‌دهد، ارزش تست‌کردن دارد!  \u003cbr/\u003e\u003cbr/\u003eنسخه جدید Swift 1.5 برای Qwen3.8-27B با RL و OPD قوی‌تر، مخصوصاً در کدنویسی و Agentها، منتشر شده و در برخی تسک‌ها تا 9.18 برابر سریع‌تر است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GGUF\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GGUF\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ callitVer1",
-      "date": "2026-09-27T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ojU2Jx8vfkO2c5u87Zg5J-WF2kxqdYZ8RrHdabHfUmEtF4qgnOFFlbDFUmnQdhXJEhrKCd13HHlR2ZkqWC-jVlQJ6UBerHPGYQVbMMN6UM2YHom3eaPuF88sqpvDJWYgVep4gmb47vn1_D0fS0TlSeST2LWWaJ8d-Mbp9EWe0FdczC1xcy99AyUFnhbLn_qw9KYLr94Jwn6zmKYGLEk-9jidaJykndW5XaEqrRmqyG9N6adtjcvP4RBsajQQ7H98C0VaR-ans37fpr2m7CqO4l_kZ-h7LG0dDAZqLHqGszn8a_HIHCfsoeqMmdEG4r0X6tMAwrgxlGEYI5JCf4vGnQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان دقت کنید برای تلفظ SQL دوتا حالت مختلف درست داریم\u003cbr/\u003e\u003cbr/\u003eیکیش اس کیو ال هستش \u003cbr/\u003e\u003cbr/\u003eدومی سی‌کْوِل یا SEQUEL هستش که جفتش درسته، چیزی به اسم CQL یا سی کیو ال نداریم CQL اصلا یه چیز دیگس : Cassandra Query Language که مال آپاچیه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-27T12:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "اگه براتون سواله \u003ca href=\"https://t.me/Linuxor/5416\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین بازی\u003c/a\u003e اسپایدرمن یه نفر داشت با کلاد Opus 5.5 می‌ساختش چی شد؟ این ویدیو رو ببینید کیفیتش در حد GTA-V بالا رفته\u003cbr/\u003e\u003cbr/\u003eهمچنین توسعه دهندش چند ساعت پیش سورس کدش هم اوپن کرد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/xikhar/spiderbench\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/xikhar/spiderbench\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-27T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6220,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cnGVJ8mfEKaTYh5GlA9UxL6M10sJTWBaKj9thOuRYgYZgSEnE5F2TPCt5NeSzYvAQWFhuLl68d7UQyc4NkoCmIScCdc4Qgy1x29CcCM4KWdPD6enJSuM1N3Q00wVqLSVr7edFdWXvOBIZ43y2BGNd3BFiz41nEU0mLlaT6rWqM2DW0aVIPKtx-Bg_WCd8DnhWXVLvX1af9i-QZc1UNEe2k5vnsrz0y56GLng5YW_ca5lxUT_ZfLssJcbyTbiv-qxDx3q7kqdiiytcE-X7hIJkmQTJkCT8XCAp_jfU02hH93QmJC_A3YxBv0VItlbHdnU3RxzYmGbSvyeCAkKWVd4kw",
+          "url": "https://cdn4.telesco.pe/file/bk01deMYtVSEFLqntGAPHXxe1-5_5mggHSuYnp9SMhjjB5zNcdR7oHnGPrgCtS5MEsy9mE0OloeYmhdWGMQy0PyIoXWnTS8_qgJzfWcTCl7czH-VUn6U6zFLdTjakhWY7rC_tQPWMZVSfwhWq42QIbzy8CG4d-mIyrbr8xw_YsdCY2eAglU_ignO0HI4_XI8Mn9kdKarEqds0_iIiGjZ6k2WByerZyWrWErCTUoSAYLvkci63KwApfW1_fQTQhbCfrw8LynzcN1GPEgXY7Gpw3U9rP4AXu1yP7o3qwW79obibE6ETIs1T__OMwpLf2ukC5hi9pXDHnm7BrR-oVGz6A",
           "width": 3024
         }
       ]
@@ -99,7 +31,7 @@
       "date": "2026-09-27T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5500,
+      "views": 5870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sZHlMgB1QcEKmzwP6LzkADuTCQt-nqacjyfwH5L0zgqqUiUX833xftW4HzBkrhS86UDrZ0N3zZQViYVM3Ejp2qXfrCZdS8dli3eyjIkFdKo4yMT395xIK3fXyigWISc2Ugp7lgA_gWbZy3fjEgICwU5M4snrhv92qMOFkfxE7AcuIGFcoPaitzd4roQMV5oW4L58Vy0tsbJ2XnhR1rtkiaysWb8WtEUY3XqNAlbLIQba9MFKx5xmrGZeNZWItdfxoFPdWyvReXr29bA4eAHljSjHgtkP9J4PebP9aZNDXXlO2QSmNdj7bE0MPdkbw8JNE-4cHfK49laZXxWLmR34yA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Opu8Y18wvU9QoZvd5d2b7slI4MyizfRabiWVYBx0E70zbII9IYIzWZVPptSBfFnh1ucB0MlPvc39ob0wZ2T8V7vz3HJbj1LtkdeSz8nNxr7mxjVidCk0M_SSVqMAqGei62OcY9BLchJnJ2H6rDxoWd4WtXuJcyGWda1TnXIcVhDyqzg38BImu7I8fQFQx1xIxjaQlsFxQJNSiogxjHgcsniunDWammInV2ctE32DPrlQ6-a6xUdPMpmanOBluuUEox9ietnrRs04KetRof4raZnD-y1KtdqBiNzV41YSYM2bIVvXBDbb2dNEjkY4zAExyjytsYlP9LoUoKoX1hCPRg.jpg"
         }
       ]
     },
@@ -117,7 +49,7 @@
       "date": "2026-09-27T14:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 6040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +57,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/A85ETHBveNOEaZdsoCldUHaQXDdmfYNVEowY6vx30T-zI0CxcdIQ4gt49O3Q2FUMKbPwnvrCKpoLUqm4RP4ki8IJs6kJ6LpG6BaWrtn2QjY-GI_zH7ZmzsESRmqgyTuonhSw5GHtjW73DABrpEsIZ7VEThvOTeiH_Yesaji2r3Hk0xKgf_EJ4N4MoDTZ70N8_lWE9-67jvsTRkOKS-ZoWPNzdL5yZT_YngSPuMpAIfAcr_tYgOT73V8lMSDCKn4voNJg0opZK4qjJ_INd6THqV7-xouBtTGH1YgIAXRQ_LQnUI-LERbI0IG3CTR8QfF6tYtSlgblyhO0s5hDo37cKw",
+          "url": "https://cdn4.telesco.pe/file/EiAViQA1zPZ13RbDdeFC5zez31ZDMcjHUlqfoO7BuiAz6C9BVCJWJphbNbZDXoy6f6TVR10uxq4NGwNj5qj_AoNng_Z9wEqxtPXd8T1Lu31kifXWSJ1av_NS-WKRDw-5ZgNRPKDaiWoZduE9hOYSWJc80iqy3RMiuoXNOXO_yj2GJGfUEGFMU85yG5n6k27W9uWuNu9o0R_IguYXxlVZqXFGY2JESW54Tw9RC2yPcVzGpLl_bGdEMwSV0R7v1ULZFYDn-cNx6xGWfmb88J7Bw2ClOXqMaKRtrGtvGfYijRqvG_y0xNWnHkM4rgnliFRSc45ueWF6P4xynSZe6NI8hg",
           "width": 1920
         }
       ]
@@ -136,7 +68,7 @@
       "date": "2026-09-27T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 6140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +76,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/T08L6Wsw_oSbG4ZpTZDUq4QKE8PDKtWseQJKWAE4nioGq9mLymQjd6Z39mJsNB7Of45acIeJO6Qcs1kAA11R3h6lQbYO_V9yxthmyuexKFHXevxgExXJsRgkuP578bT5duFEZze4VSfd-tHlGYBoB4Uez5o_-4gb84xlTIbrI-OOIF7HP5l1iPFIfhHI6-7waPOh_Xa_g6A9cR2NOzID2zPITFjh9gcoQav1dQUJEIAOVVliBLQ_TtWuxTDIT7CebZO6JZeraOdyo-KWdnxG3Xl7hwDFXS7UeLe_O1847XLq0eLXtChIcOaqgjTvTnv1su8w8dKcMEhffCPZM04pMA",
+          "url": "https://cdn4.telesco.pe/file/a4aeQNvsKug6Xkfffqe3VP5dnQuwk5TGe66c3C_4_-E7YA-eQSSJy6Rkx5ppdWfK_fLnkDwJk1lCH4iu3uwKoxvy38yptTrOWbsDlamyQCcfXJA3Ib4UOKPcmyeqN3XXpupR169WbqdFC7ZXlZoPrRwvHp4phH8MjkQ4ybZBP8JT98ULR0kiiMDAtnXtEk-kUvjDyCsL3aJEH8IJ6b-RQvuqQc_tho8Zh__5Ooy2tdze0H1OSTM2dJlOvLUWJNNjTteyVm50UNOrWASk2EtcGgsrxSvYfWJa6x4B5MZYu1Qw48ovsel3xhcZXBsvIx5NoNUKrCzlnAJwPtfOLGjnQQ",
           "width": 3840
         }
       ]
@@ -155,7 +87,7 @@
       "date": "2026-09-27T15:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +95,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qQu7CxOzjpKWpFq6CleA0pfn4jI7gsZ_xxat7uRzSFkA7BiMlT2PSgQYmWfEU1-sOkBtzb3f7tJ7_TBK44GGwnkcDhW8-5GJOqMNP7pQHezxowSF2hfcBe72dHQ3yEFIgksJfGWoLZUUtwzjfej4xDRa9U8bRl8As0RtcAnZYgF60HhuaykYgd_EBJwR0dqxAKx9UuXXCkvghPVg2hr79lrnA3PAvQ3PiRVyg47S3yVm4L_Dg_Et4wrlTQq7QzKViT9mD4BHjCwqiCFALklbmJtGQGMPC2O_TZOJsDz0sgKW3N9otFXA2WtL_n-zUCBYqF_5lz-kBvyG-SwhKHC7Fg.jpg"
+          "url": "https://cdn4.telesco.pe/file/sOrSpG1Vr8Ngh8ArA8XH_OP45QSOCteYbe5j6CTfkRUiEoHW4wB4LMOWxUBhTAGVkwH85JX_1oZ_-IG_JZYqymKaMgcTr8VhwxvZlWu4yMpVo04nZujs92JHrcmwNFK7AjezU9rp6XCOMEJXKaFPzd9wtAmzce7TA8r62K6Ora5eCqTVs711WIA8y37tAYoj31rUyJhPJpgcKJn77-ENoRKYnyJQGcZRQjrOs09ptxAerqQGQLBdOupvHYMfZPDTRU_7D2ioJUoxawMyBKHrcyFm73Y31uULJsgPvakCdgxH1_patWy9fmpa8LO_YgPoaJ1WErZFcfkqTxladRKVwg.jpg"
         }
       ]
     },
@@ -173,7 +105,7 @@
       "date": "2026-09-27T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4920,
+      "views": 5330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +113,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j3OSnCRUNTY1zfRGT2SwOoyYKajBJ1G3NmQrhuCFiA7WFHMjqBFYmf9BgQ23ICFidNkdikc94zoMtfBEFKS-mbhnnwYYWfhQiTuYcwTSSxgosOt_4KYhdclMI1bxFxCfHp-Oc7wRUqQg4lxaA9Y7Jab1o01XfJBBIVklpQXGnPVyvtJXVkji6MOBjLzMe1Ce3-mH5x5MYQC2qWZ72Mv2z5yx8vC-uOE31fSNld2pHnYXhbq8MS7PPmMoDrU6-qSLt1En9aSI6N9yfdp_PTfbEEsOAcTSGtimhT_y7ORXOmdSBRmjIAmXmdF7trMv7YamzkM_bAsX0qAPpuoBJSipJg.jpg"
+          "url": "https://cdn4.telesco.pe/file/et-cX7LeYQe9-VDAaV9UisCoI9ZXFCQDYrv-ocKPUVXuelOoIC0ZuWKGJOdWbq1k2DRLk7Gx0MVhsy3pqfZruMywcX21CbmpNf8_8N2RpnTFSs4vVMu7MddRli8oOSieOTX-FYHtnwYUSp3bEgXq6hC3yKpffhAT7C-mRSIQSnve355xgOlGJ114N4dLloZlbWVwwK0AXfgSwj05JEP3n2VWiGqZKwEUj1wtzzza3z4oPdpC8bhRp7GxoQLUNsU130XJ6xyKHQVWUGroD96roCO9iMjQ-uCi9ZHrlSXU3APeNe-pr8Y1LO7pCCPoo2jnAjc35sBaye6OqUO-RgyCOg.jpg"
         }
       ]
     },
@@ -191,7 +123,7 @@
       "date": "2026-09-27T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5030,
+      "views": 5470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +142,7 @@
       "date": "2026-09-27T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +161,7 @@
       "date": "2026-09-27T17:20:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +180,7 @@
       "date": "2026-09-27T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4850,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +198,7 @@
       "date": "2026-09-27T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 6020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +216,7 @@
       "date": "2026-09-27T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +234,7 @@
       "date": "2026-09-27T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5380,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,12 +253,106 @@
       "date": "2026-09-27T20:15:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 6570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "این خیلی بین طراحا سرو صدا کرده بود\u003cbr/\u003e\u003cbr/\u003eتصور کن یه Skill داشته باشی که بتونی باهاش انتخاب‌های UX ای که توی یه صفحه انجام دادی رو به شکل انیمیشنی توضیح بدی، ویدیو رو ببینید، در واقع یه انیمیشن توضیحی درست می‌کنه که صفحه تبدیل میشه به یه نقشه Blueprint آبی و مرحله‌به‌مرحله نشون میده چرا هر قسمت طراحی تغییر کرده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/moguzbulbul/blueprint-animation\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/moguzbulbul/blueprint-animation\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-28T12:56:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sBqQwGxCnF938HubGrnWuIEG_yif77kY5sLyQtb2B---Dgfzz5CzJEQhkhkryQp47uX50kToldXjC3GpJ3KwrfideXPd_AeFy5A943uHvb1BpvQqPdV3G_PbccCmhj3iRB78xyFPkPG5vegz4a9X46MYnJkQl6WaMmJiqFTZ9ryH84X9ShcJzqIkHoTXhHYhe_L6n3MLE04OWO5eWlGxEVlzV9rI5xcUureHdQxm6rvXeimvD1hOZkgFQ09P1DjmJEjMeyozQ1cHov2GXRgQXz1Vo-6K_jyPHJOBpSK3plvzdNZy2Q4Y4pnhxzGCvSbtpoPpulB6JTM1LkOg_En5Jg",
+          "width": 1600
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F908D.png\u0026#39;)\"\u003e\u003cb\u003e🐍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاون جمله رو یادت هست؟\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e«یه روز برنامه‌نویسی یاد می‌گیرم…»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eشاید وقتشه اون «یه روز» رو تبدیل کنی به \u003cb\u003eامروز.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا کتاب \u003cb\u003e«ماجراجویی با پایتون»\u003c/b\u003e\u003cbr/\u003eاز صفر، ساده و پروژه‌محور برنامه‌نویسی رو شروع کن. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e شروع از صفر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e یادگیری با پروژه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e قدمی به سمت هوش مصنوعی و علم داده\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e معرفی کامل و پیش نمایش : \u003ca href=\"https://adventurewithpython.ir/?c=linuxor\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e خرید از انتشارات کیان: \u003ca href=\"https://kianpub.com/product/adventure-with-python/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e نسخه آنلاین فیدیبو: \u003ca href=\"https://fidibo.com/book/196216-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D8%AC%D9%88%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک\u003c/a\u003e",
+      "date": "2026-09-28T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c5v-EnNd8M0RRqzKXLucVtaMIhBGV2F1ZYfnOkd9G0v0jV9b57EhS6lohTNxPJtxCirSsnMy7UDevkqz9ye5LJebR7KAkSDZUAti0VW-JnrkmGhkv5ZRDasXuI7SniUt4itkUU7jV65m035zR-KA-VRLEyOqGK-eC4HsvXiziInBrw2zi97mFrTwHPn5PpMyBrvEv3_EkOX0nQSv1ESGuteYZHSz5T_WMR87YmrheIo523p7zkXLXswueHwij8UwjyMtJ8s4nC9D8GEGciWk6wxmplROc8QoL72HBe2dFTBzn8EsnufxZd3eEgyOOeHav92n0qNziaUR0CXyIyoK2w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه نفر از Opus 5.5 خواسته از صفر یه کامپیوتر واقعی و قابل‌استفاده بسازه. ترکونده 277 هزار گیت منطقی با JavaScript، یه سیستم‌عامل که روی اون ساخته شده، و حتی بازی‌هایی که روی همون سیستم‌عامل اجرا می‌شن.\u003cbr/\u003e\u003cbr/\u003eاین یه ماکاپ یا شبیه‌سازی ظاهری نیست... واقعاً یه کامپیوتره. می‌تونید حتی روی سخت افزار هم زوم کنید وضعیت گیت هارو ببینید :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://somethingbig.ai/computer\" target=\"_blank\" rel=\"noopener\"\u003esomethingbig.ai/computer\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-28T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/nKtOU2yzGvqTiPXl9iKWiw5SSPh0uZX6Ryi90qab3iwkcfP5wWQYYEVNCeFnqyBxNTlwF03izf2a75rJZDAQYc3KM8RgP4gEWixQcwpSwf9YrUOQkBhZagqvd1cDmjGIG0UjgLCXOY9nKUwwfmEj1lBUaaRBR6_iVVjzAFhTkgzsXE5Xrsn8ztTWldrOP1uPUwGKjpqWg9zr3PfEvF4aEzYoR_RdtBu4MPTv7jYoSvBgka-uwxY3A4HC9wGFoig_QKNi2OYJl8KU_OqEz1c0oHIS_3ItAS8KsipwBAZpU2SH4dLl_B21wCiufbvjavo_gmx14AyGj-XBZ1YeC07mOQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه آزمایش انجام دادن، 5 مدل هوش مصنوعی باید یه پل 3D پرینت‌شده با دهانه‌ی حداقل 0.61 متر طراحی می‌کردن که حداکثر 500 گرم فیلامنت مصرف کنه و زمان پرینتش هم زیر 18 ساعت باشه. هدف این بود که ببینن هر پل چقدر وزن تحمل می‌کنه. Claude Opus 5.5 حدود 59 کیلوگرم، Muse Spark حدود 12 کیلوگرم و GPT-6 Astra حدود 7.9 کیلوگرم رو تحمل کردن؛ Grok 4.7 و Kimi K3 هم نتونستن پل قابل‌استفاده بسازن.\u003cbr/\u003e\u003cbr/\u003eکلاد با اختلاف زیادی بهترین نتیجه رو گرفت: 59 کیلوگرم تحمل بار، فقط 9 ساعت و 11 دقیقه زمان چاپ، 17 قطعه و 441 گرم فیلامنت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-28T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/KdeebchFV52a8ViG5Rd1abexnZGAMT_8xaj6LyxLv9a4EERLVtmCaQs3ZAHIDf9O-SKmPT_89fC5Z99tFDgJwpSwM5_FfpDDl98rtgfdCcR4v7kjsvTbS-vJAWAxU1Ymq77rr9_BOWaKUJ1J3rRGV1PbRgPYGZRczHWfQQRGg3QIJ6gwl3S9HSsZnEQgx-_BrhOpqQ2ixu1_4XQdMyTiX_Ebqy5YCdEIjv4Gp3_olMwqa7lkO1unn1BzHCRHJohy1Z_nwGJeX8zh-zsXhFbXE87VLnxg5xvOjCsDenqTwW2H4xWOpBpJArQGGUqUC6HN4n3tlPGG4w9OcK5tfbjQkw",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه با WebGL، WebGPU، Wasm یا کلاً محاسبات ریاضی توی پروژه‌های گرافیکی و 3D سروکار داری، یه پروژه جالب جدیدا منتشر شده یه کتابخونه سریع و سبک که برای پرفورمنس بالا طراحی شده.\u003cbr/\u003e\u003cbr/\u003eتمرکزش روی چیزهاییه که توی کارهای 3D و گرافیکی زیاد بهشون نیاز داری؛ از vec و mat و quat گرفته تا geometry، noise، shapes، animation و حتی inverse kinematics. ساختارش هم data-oriented و allocation-free هستش تا سربار اضافه تا جای ممکن کم بشه.\u003cbr/\u003e\u003cbr/\u003eاز AI Agent هم پشتیبانی می‌کنه. خود ریپو Skill مخصوصی داره که به Agent یاد میده چطور از این کتابخونه استفاده کنه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/pmndrs/math\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/pmndrs/math\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-28T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Iws9Idou5ytgXlehgfmaZoUHCACHAGlOvxzx8UhfA5upjyQt_iEk9HduWuxHtrE2uKwP1bkfg6rXeCjQ8UZ-KgOSD_RqzC7FjDBm014UEqKcZe75DrcHPeApoXkwDOx1MtHTy4TWM2NUmwWo3NWD3Wp47Xqx2xbGt6PWH5YxgSGNfBJ1Viiz0S9SrIFCQpcIdrRBvJ_vNoH--T8ll-HNnNx04GKuTwa9mWK1AR4EzoMbrr35cJYR9Wv8AqNhilT98deJO8kpjm-SAxwJbD8nO1J-1ZULmf7gKz69mIjsPoBnaeeerfvvJd5LtYQ1ykm7ZOyyf4piXecib2BUYBrvRQ",
+          "width": 718
+        }
+      ]
     }
   ],
-  "last_updated": 1790582220
+  "last_updated": 1790612459
 }
