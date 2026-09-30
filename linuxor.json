@@ -8,153 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این مدل هم دیروز ورژن جدیدش معرفی شده برای ساخت ویدیو های معرفی محصول خیلی خوبه، با InSpatio-World 1.5 می‌تونی یک عکس، چند عکس، تصویر پانوراما یا حتی ویدیو رو به یک دنیای 4 بعدی پویا و قابل کاوش تبدیل کنی و دوربین رو توش بچرخونی!\u003cbr/\u003e\u003cbr/\u003eتست آنلاین:\u003cbr/\u003e\u003ca href=\"http://world.inspatio.com/\" target=\"_blank\" rel=\"noopener\"\u003eworld.inspatio.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکد هاش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://inspatio.github.io/inspatio-world-1.5\" target=\"_blank\" rel=\"noopener\"\u003einspatio.github.io/inspatio-world-1.5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T16:44:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/OYdOi2mjeg1So87dsKsRdgtuqatp9ZJ3i4VkP0VzVqEvemTjkvN-7684qGyYUojo5bejaQcKDsOGG9MrRX5_qoSLJsYSdv4aPpvSlgribF40qKyFgYol6EUJUR_OHJ1R0cVpU56WsJF-wdLmzZcTU6CczaE-Xp3ofx67qIOo5T8mKiYVqiblOg-Vm7R4R77bh-RW4EVTcrhkbF0d_1YYqvG0yfkPkI3uF1mE1-3XZcB-xK-npYxliYnUiRaX2ILgBL1HcIi1N_Bd8P-1tllkwp4Wsk9bspNfLVuFy0N9QY7gVTYLnzC-CUGATizoaYATvvXk3ALrXTd5l-loVsq0iA",
-          "width": 1908
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بعضی از دوستان وقتی چیزای سه بعدی به خصوص این بازیایی که با هوش مصنوعی ساخته شده رو روی کرومشون باز می‌کنن هنگ می‌کنه، احتمالا مشکل از کانفیگ کارت گرافیکتون باشه\u003cbr/\u003e\u003cbr/\u003eاول از اینجا چک کنید ببینید اصلا مرورگرتون به کارت گرافیکتون دسترسی داره (لینک رو کپی کنید توی کرومتون):\u003cbr/\u003echrome://gpu/\u003cbr/\u003e\u003cbr/\u003eتنظیمات زیادی داره ولی من مشکلم خیلی از مواقع با Enable کردن این فلگ حل شده:\u003cbr/\u003e\u003cbr/\u003echrome://flags/\u003ca href=\"?q=%23enable\"\u003e#enable\u003c/a\u003e-unsafe-webgpu \u003cbr/\u003e\u003cbr/\u003eالبته این کار آزمایشی هست و ممکنه ناامن باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T16:59:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jbUQLctiaDuw71DeZUtucyLsFOTTTmb0lCQTn9KRjk4K7QlLNfFHNfsxUK4XtfPH4JLOQ2dUFeJWEnINlms0E7DeT9K6uP9JuR3zgXjGkN8Ei_Zb56GPzlNC4H11oL3T-gmQWQfzlzaRAic5BTNotraH80eo_nIvdty7LuqZ1MbfNHBOxx5W7GfigebKS8amu9PwyShB0LyDf6nUPqAmEahSaSizOeBc6k4XLP7FxsEUBWAgkLkP9zJ2ZjXteNdqUJtI9o8Ug1NvszKr15_DuAOG1cB4gJuE8l7FJUKJluqvincTWrt2qo2a_go5UfQM7716Fvz92GgrFs5BsfST3A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یک مدل هوش مصنوعی مرموز، رایگان روی OpenRouter!\u003cbr/\u003e\u003cbr/\u003eبا اسم عجیب Space Bunny معرفی شده؛ اما هنوز کسی دقیقاً نمی‌دونه چه مدلی پشت این اسم قرار گرفته.\u003cbr/\u003e\u003cbr/\u003eچیزهایی که فعلاً ازش می‌دونیم:\u003cbr/\u003e\u003cbr/\u003eکانتکست ۱ میلیون توکن\u003cbr/\u003eورودی متن، تصویر و ویدئو\u003cbr/\u003eقابلیت تنظیم میزان Reasoning\u003cbr/\u003eپشتیبانی از Tool Calling\u003cbr/\u003eاز طرفی OpenCode هم این هفته یک Preview رایگان ازش ارائه می‌ده؛ با Zero Data Retention.\u003cbr/\u003eمدل اصلی پشت Space Bunny هنوز مشخص نیست، اما برای تست روی پروژه‌های کدنویسی می‌تونه خیلی جالب باشه.\u003cbr/\u003eباید دید این خرگوش مرموز واقعاً چه چیزی توی آستینش داره!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://openrouter.ai/stealth/space-bunny-alpha\" target=\"_blank\" rel=\"noopener\"\u003eopenrouter.ai/stealth/space-bunny-alpha\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ AHSeslami",
-      "date": "2026-09-29T17:14:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UMkC-5VeQQFnB4RylWj9q1z2K4jjb5-WqrkzK704d_36pn32pgqEpGZMkjpyxLOzzz8J6lYelxxLxJ8UEi__ilcke-qEvDMl-8oQgOU0QD2qEZSgSdCPe4N3JCNR-IJsHpcMuU7USJx7krCjOHv_yJCdja0RL-yM5HEZj_Tv-ZQ5jYyjs2H-soPUstkJX8pMJ_hxWaHd-hRQSZbQmjhXmbuciAQcuXTU6xioIYEEg4siMk3tsGXociFqrrRw0rnbQ9CneX7arGCcpsLd5cLhro07eTqQ2vvx4nTRh-aX2fxna5qWXDKln64mTSUOO9HUEr1Fc3R8sSyBSfO5sNxICA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA0.png\u0026#39;)\"\u003e\u003cb\u003e🟠\u003c/b\u003e\u003c/i\u003e فروش کلاد مکس | Claude Max\u003cbr/\u003e\u003cbr/\u003eقیمت لحظه‌ای:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e کلاد مکس ۵ ایکس : ۳۲ میلیون\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e کلاد مکس ۲۰ ایکس: ۶۰ میلیون\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e برای سفارش و استعلام قیمت به ادمین پیام بدهید.\u003cbr/\u003e\u003cbr/\u003eتخفیف ویژه برای معرفی یا مشتریان تمدیدی  . . .\u003cbr/\u003e\u003cbr/\u003eادمین راه‌بوم : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/rahboom1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@rahboom1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://rahboom.com/\" target=\"_blank\" rel=\"noopener\"\u003erahboom.com\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/rahboomshop\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@rahboomshop\u003c/a\u003e",
-      "date": "2026-09-29T18:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vdXN74HkuKM2DgG6ii7v-SBgpNUtKs3cJ9CBVsGR34Rpnjpo79wBfjB68Kmz1Gq7LWQGdMUOA3Kl28AOmQcTVhypNPApkL6nfn32phLpl8YPlN3VyFm_55eDCJHo2CXDaS-FD6We23g57VmOXG-rAZ2z3484SAVlYMt2CE4N7nMUHUf92CenSHSPftGpCGXpAP4acNWHONPxEovd9_DvugSCjnSWAG28FykAskbEeNHlOW-HiDqxWp7iaCk7H2pVpE0Z5BgCOu2F7Z5s7Nd2X4IURKqkPepeXuHvdZGwJrA8-3kGCDtMq2KlE69mvi9JauKiV_H21Ib3rORUmsFmNw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چینیا یه ابزار برای مدیریت دیتابیس ساختن کلا 25 مگابایت حجم داره بیش از 100 تا دیتابیس مختلف رو پشتیبانی می‌کنه، هوش مصنوعی ساپورت می‌کنه، گراف می‌کشه، از اسکیما ساپورت می‌کنه پلاگین های مختلفی می‌شه روش زد\u003cbr/\u003e\u003cbr/\u003eروی مک، لینوکس و ویندوز هم نصب می‌شه:\u003cbr/\u003e\u003ca href=\"http://github.com/t8y2/dbx\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/t8y2/dbx\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T18:49:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r17VbHz0vg5caR9Bj2OLIqyyVun9x5Mrv9CT151s3XkWeAGOe-eqlwk6IP0Ftvp0MUqzLV65X-jCoLdHqqzU_BNFcr4e7TVX2tT22YQL8Q6sywSdMx285uY8QW0J11KuK3hyc2H-lBAMnE_a2p4lsQfpRL4fqBerOLqn3-4lm5gO7JgH_RRCNgYmqUkoP9Sr4Bs2OXawwydMaxSxTg09pDeakyPWqxszhAFSGiyC6NbQm5wBtCOvuM3fYDT0898apHvOuoCwAvQs2v_helO6ALxGCXUkvwqkKpRLifYLxKhM30TzOSG4G9PDKxXf0TeW2yb0lXSShvAn7IgsJ4qDrw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "میدونستید توی اندروید 16 میتونید گوشی رو تبدیل به دسکتاپ شخصی کنید با یه مانیتور؟\u003cbr/\u003e\u003cbr/\u003eالبته اون چیزی که توی ویدیو زد برای بقیه گوشیا ممکنه تیتر گزینش متفاوت باشه برای سامسونگ تیترش و اسم گزینش اینه :\u003cbr/\u003eEnable Freeform Windows on Secondary Display\u003cbr/\u003e\u003cbr/\u003eو همچنین باید گوشیتون از خروجی Display پشتیبانی کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T19:01:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZczznWGKnTAMdq7BR_h-A9RqF5IrlTuEcIrPnmz7anNC4g6HZG_wTDaRxBl_h5xvEuQ_vJDQBbrCnLUko2g0yjd7e5eshdp2TclvCVtn8mrS-0nkcwpoyAa1cBZ8bdMD_St3GFN9x7TzdPHj_3SLhp6ziP4RkyjZ9SaNQN-dIyvc5BII44Rd0m5ue8nIaXXv_AhQ4fU8DQU97ry303fFpdM2I_MOM-U2UTad2Y9MWNoEADa8CJndBbGJDrXAiyUkwZHpiUjuI10P-Bh7XxKWnl1Op4Bt8FhHrOGjnBmPs9FzMlww4OacrV22sLfLfaXF3mK4bka1XlL_KPuiTcTznA",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امروز OpenAI از Dots رونمایی کرد؛ یه نسل جدید از AI Agentهای همیشه‌فعال که قرار نیست فقط به سوالاتت جواب بدن، بلکه می‌تونن خودشون کارها رو انجام بدن و بعضی وظایف رو در پس‌زمینه جلو ببرن.\u003cbr/\u003e\u003cbr/\u003eمی‌تونه به سرویس‌ها و اپلیکیشن‌های مختلف وصل بشه و برای انجام کارهای چندمرحله‌ای ازشون استفاده کنه. یعنی به‌جای اینکه هر مرحله رو جداگانه به AI بگی، می‌تونی یه هدف مشخص بهش بدی و بذاری خودش مراحل انجام کار رو مدیریت کنه.\u003cbr/\u003e\u003cbr/\u003eحتی می‌تونید یه تیم بسازید و چند تا هوش مصنوعی همزمان روی پروژتون کار کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T19:16:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Mw-mhC9qEDPXZgszoks1vJmIdkqPa_kYzMd7FOfimpWk-AyVeksZDhFuswELVk0s6xfKSo8OaD0jFT5K_NwjJ5W6Gsflk9-bK7XcxF2eDZ5b8wUksQui15R6Dg2HyVzBP1yVxe7oc82Mc5CGL_QZlulHj3BD1bex8nvebtUdz4pZAAX0xfSDn7kD7VZnkbS2pDZ-2cMyY50VdmArAsNcQJirjGRaz9-VvK9MEDdgZthD-HVgBMzQvaAIET323yztUVsukeHR8yLrUvcsISilK54DqISafl_3jVqCGqsUx2MATYKbqc7H2zejRu5rHJ1Xr_Dffk5-vU52iz7-C7P4JQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من اگه راننده تاکسی بشم 13:\u003cbr/\u003e\u003cbr/\u003eمیدونیییییی؟ ترامپ گفته می‌خواد اسم هوش مصنوعی رو عوض کنه به ابرهوش چون کلمه مصنوعی حس بدی می‌ده، به نظر من این بیشتر ایده مارکتینگه، اگه یادتون باشه دار و دسته شرکت هوش مصنوعی از جمله گوگل و سم التمن هرکدوم یک میلیون دلار به مراسم تحلیف ترامپ پول کمک کردن از روی دل خوشی که این پولو کمک نکردن قطعا بعدش از ترامپ خواسته هایی از جمله این داشتن که مارکتینگ بهتری برای شرکتشون داشته باشه و بتونن هوش مصنوعی رو بهتر بچپونن به مردم؛ بخداااا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T21:14:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
       "message": "ایجنت Dots با همکاری بابک زنجانی و OpenAI ساخته شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-29T21:20:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +24,7 @@
       "date": "2026-09-29T22:02:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
+      "views": 7470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +36,7 @@
       "date": "2026-09-30T10:55:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +55,7 @@
       "date": "2026-09-30T11:10:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +73,7 @@
       "date": "2026-09-30T12:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4250,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +91,7 @@
       "date": "2026-09-30T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4210,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +110,7 @@
       "date": "2026-09-30T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4230,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +128,7 @@
       "date": "2026-09-30T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +147,7 @@
       "date": "2026-09-30T14:29:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +159,7 @@
       "date": "2026-09-30T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +178,7 @@
       "date": "2026-09-30T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2430,
+      "views": 4760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +196,7 @@
       "date": "2026-09-30T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1810,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +208,155 @@
           "width": 1080
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003eا\u003cb\u003eکانت KIRO یک ساله دانشجویی، کاملاً اختصاصی\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e یک ماه گارانتی بی‌قید و شرط\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eموجودی بسیار محدود\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e آفر محدود\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e فقط \u003cb\u003e۵.۸۰۰.۰۰۰ تومان\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/ariobox_bot?start=promo_1385_1387\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cu\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e\u003c/u\u003e️ \u003cu\u003eبرای خرید کلیک کنید\u003c/u\u003e\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-30T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uIW_Vkc11dit54cH2TQWCyQHBUkQ-FAVVSNugwh8we-zEPrBmztY94wygaTrbOM3kJhlHZQlteplbBMk15wVGKkDdvU-DDfpZIz2cU0Q6xLAwlUE8JfEsL-SQYcTi52_rrGFW9I_fTHBiCgVZIxQTb01ltl7njNznlw_qihXlpzXJSEy_4tQKkThFnxZ4BE98_TepHniXWfuB0aikUUAV2qRf9s8cPMVUHiuu8zGlBB8S_yAz87Aqac56Jt4f1altWeEXTXaBZTh7gv8JcqBaD2oRr5YwKK90pkB-XSwNsnp9O1tAozimwcMK_j7B7IPm0xuAxjd72ZZCZNmYuFUJw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه پروژه متن‌باز از تیم Hybrid Robotics توی UC Berkeley برای ساخت یه ربات انسان‌نما که برخلاف ربات‌های تجاری گرون، بشه با هزینه خیلی پایین‌تر ساختش، می‌تونی قطعاتش رو بسازی، پرینت 3D بگیری، مونتاژ کنی و نرم‌افزارش رو هم دانلود کنی.\u003cbr/\u003e\u003cbr/\u003eخود تیمش گفته هزینه هدف پروژه زیر $5,000 هستش و از قطعات نسبتاً در دسترس و گیربکس‌های 3D-printed استفاده می‌کنه.\u003cbr/\u003e\u003cbr/\u003eیعنی پروژه فقط یه مدل سه‌بعدی یا یه شبیه‌سازی نیست؛ کل اکوسیستم ربات رو پوشش می‌ده\u003cbr/\u003e\u003cbr/\u003eطراحی مکانیکی\u003cbr/\u003eفایل‌های CAD\u003cbr/\u003eقطعات قابل پرینت 3D\u003cbr/\u003eموتور و actuator\u003cbr/\u003eکنترل موتور\u003cbr/\u003eکنترل تعادل و راه رفتن\u003cbr/\u003eشبیه‌سازی\u003cbr/\u003eآموزش ربات با reinforcement learning\u003cbr/\u003eانتقال مدل آموزش‌دیده از شبیه‌ساز به ربات واقعی و ...\u003cbr/\u003e\u003cbr/\u003eویدیو ها و کد هاش :\u003cbr/\u003e\u003ca href=\"http://github.com/hybridrobotics/berkeley-humanoid-lite\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/hybridrobotics/berkeley-humanoid-lite\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T16:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MKrwvoE7tgrb1hmQwXuififR0c6s5H9jTZYSpz1mx8nv4sgYsNqyH2b9idcAZ3VN8iyOrCbHexQJoDv0daXoNsKF9INvvXuy8WLAjl1J-PC6RxAIo-N3-v9WVgVGZbKZW4fKBcIiqODddNpNwoumG0F7p7Q0blztHqq7vrNmBOQgY80kwsQtL4ZPMV4a5786vXav1Wz2AqE7NJSIR8OaTUqxJrIY5fFMFqdow-RzwA9viwx38bDt8wbVJGC1bFfqUF1tSed8gr-tu3yRmKkngxVWu8-qnPoSnP_SVYyKmpn5tDlkrEx1j1AZu-VdaY2PCWx5y7jq8eP63r5qZ9FxdA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "رویدادی تاریخی که به 30 سال تاریخ رایانه‌های شخصی پایان میدهد: NVIDIA رسماً با یک حرکت، معماری سنتی پردازش را متحول کرد!\u003cbr/\u003e\u003cbr/\u003eبرای 30 سال، کامپیوترهای شخصی تقریباً با یک الگوی ثابت کار کرده‌اند: پردازنده اینتل یا AMD، کارت گرافیک مجزا، و نگرانی همیشگی از اینکه دستگاه بیش از حد داغ نشود یا از کار نیفتد!\u003cbr/\u003e\u003cbr/\u003eاما امشب، جنسن هوانگ با معرفی تراشه RTX Spark به این دوران پایان داد! برای نخستین بار از سوی NVIDIA، CPU، GPU و حافظه RAM همگی روی یک تراشه سیلیکونی واحد، با معماری ARM و فناوری ساخت 3 نانومتری.\u003cbr/\u003e\u003cbr/\u003eقدرتی حیرت‌انگیز توان پردازش هوش مصنوعی محلی در سطح 1 پتافلاپس؛ آن هم درون لپ‌تاپی با ضخامت تنها 14 میلی‌متر!\u003cbr/\u003e\u003cbr/\u003eعملکرد فوق‌العاده در بازی اجرای بازی‌های AAA روی صحنه با سرعت بیش از 100 فریم بر ثانیه و وضوح 1440p، بدون اتصال به برق و بدون افت دما یا عملکرد (بدون Throttling)!\u003cbr/\u003e\u003cbr/\u003eاجرای مدل‌های عظیم هوش مصنوعی با 120 میلیارد پارامتر بطور کامل و بصورت local!\u003cbr/\u003e\u003cbr/\u003eبدون اینترنت… بدون سرورهای ابری… بدون اشتراک‌های ماهانه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Mahizadyaar",
+      "date": "2026-09-30T16:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/EwrL0x2j9TYhBgWZgl68QHpzT1T3wFk3h8XhZC0xMXGHahZwjoiO0Nle5r3FhLpgZ6fBy9tkxI9R-E53nFH4TTfy3ECl6EsMNr6O0uun-ykwK4VOHsMpwjooVDw_SdB2KLiZhpXi_r9bWkwDuZaG_VWsn1H2R6lfYqXTXYnVBIjFRq4-R2rzGjTcfBAxx3FWVjj_BBJrNmyWSqB3oS_P2gpdtUmdFQ1D-1-VRWfV32gvutWjnoW0rkeJP59dKBXcjoFQhuaYPW-m9V0e3BkNG0D4BGMsbtGRoXQUcWuszM2_5b7a5S36JB13y7oc6ijdzBJKwDcdnRusqk9xHQJ9_g",
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "انویدیا یه تکنولوژی جالب برای ویدیوهای AI معرفی کرده به اسم SoL-Refiner مدلی که میاد خروجی کم‌رزولوشن مدل‌های ویدیوساز رو می‌گیره و با یه مرحله پردازش، رزولوشن و جزئیاتش رو بالاتر می‌بره.\u003cbr/\u003e\u003cbr/\u003eایده اصلی اینه که به‌جای اینکه مدل از همون اول بخواد ویدیوی 2K یا 4K تولید کنه و کلی زمان و VRAM مصرف کنه، اول یه خروجی کوچیک‌تر و سریع‌تر بسازه و بعد SoL-Refiner اون رو به رزولوشن بالاتر تبدیل و refine کنه.\u003cbr/\u003e\u003cbr/\u003eنکته جذابش one-step refinement هستش؛ یعنی برخلاف بعضی روش‌های قبلی که چندین مرحله پردازش لازم دارن، SoL-Refiner برای این کار فقط یه مرحله denoise انجام می‌ده. NVIDIA توی تست‌هاش روی بعضی مدل‌ها کاهش زمان پردازش خیلی قابل‌توجهی گزارش کرده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://nvlabs.github.io/Sana/Sol-Refiner\" target=\"_blank\" rel=\"noopener\"\u003envlabs.github.io/Sana/Sol-Refiner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T17:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/cUnvit0dnSJ9bBYpYly8OLTAnvQnCxm7XF2oGZzNL4aORqS8JDRunJTbUVnhjFzj050gGPXhUirx4aZSkMkH7gaeQkdptYIvZpHoM0DUZKjAAaR2XtGGZjocaK11DmZp-bn0Qg_B8HXmDpi0CB6bxwG0Llvh8wLapzAcOM2558kHOQRiN0_V8FHUGsQvTZid7DEJZ6eL0kC6V8UeLlU5TJaVfVHTW-EeTGDGGohp6SghThXUAm54rl4SFf5vzeWRBLS603B7iLsRJLtCfoiqohNv_jC5T53ELSWAzjEx-6Iekf2tgI2vNNAhEh9Vrtz2J6zinhvF887IUxyntWX9zw",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eفروش Gemini Pro \u003c/b\u003eو \u003cb\u003eSuper\u003c/b\u003e \u003cb\u003eDuolingo\u003c/b\u003e \u003cb\u003eفقط 480 هزار تومن به مدت ۴۸ ساعت\u003c/b\u003e.  \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800920921766104807\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348262863762890787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
+      "date": "2026-09-30T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 776,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vjoTtPPuDQzQ5UX10t02n5qLmkwtDBm105KI6hvdwxZnsd-DLwkfNiDo9_ayBqLdo0PsTtzXKiKv95gT045Lu8KkF05LSjFcSvSgKvL-7j65OjntUxvK8Orzj1JSPgPlXN_P8KS9035KUsBiQZgdAVyf0vUfS1lW0InJA3MKBndDisyUNWsHg3bhR8C167e2H50uG0Qd9qLd9RVMHHVsmbNrRHCt1Wumx1vEvr3ZSRAfruGJcs-Q90nB5KsyuAOYOmE3kXLcB2FlMQQWES-vhrGs9eKT73nmTrYq7Y9_2Z-Z6QedaJNBSpZCmIJlpJQ3pROk_xkAHurPPozgIh0_lw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه توی پایتون تشخیص اشیاء کار می‌کنید، احتمالاً یه جایی به Tracking نیاز پیدا می‌کنید؛ جایی که فقط اینکه این آبجکت کجاست؟ کافی نیست و باید بدونید این همون آبجکت قبلیه یا نه؟\u003cbr/\u003e\u003cbr/\u003eکتابخونه Roboflow Trackers یه کتابخونه پایتون برای Multi-Object Tracking هستش که می‌تونه خروجی مدل‌هایی مثل YOLO رو بگیره و بین فریم‌های مختلف برای هر آبجکت ID ثابت نگه داره؛ مثلاً ماشین #12 یا Person #7 رو در طول ویدیو دنبال کنه.\u003cbr/\u003e\u003cbr/\u003eداخلش الگوریتم‌های معروفی مثل ByteTrack، BoT-SORT، OC-SORT و SORT وجود داره و برای کارهایی مثل شمارش افراد و خودروها، Line Crossing، تحلیل مسیر حرکت، تخمین سرعت و Video Analytics خیلی کاربردیه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/roboflow/trackers\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/roboflow/trackers\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T18:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/RTB4Us2Nk65upJCtWPmsiUFi8pWl63j6xGlGlP2uNfAz5x5xcsUTHaCqZHPXI7q6bKcjH8LSQoTMaGEK3gNti-0rxkG2ljZayZteXRKHn1rXQchrvDv2VTfKUScq5rprazp3Yz8mv9HDTPIi35AZ74Li67i91vi4305qd7vpIA9RRqAyFEc_IAp-psD42O72D_MZ7uy5ZboI3EE3jbNAo-Vg6UW4aWACBziaAW0ZCTMXX3ICYf2ap57ltnCcDLpM9kiMkyS-dMKXS1aZw5ekVLGzmem4fKH2ojY3bDWaKQkfrRBW-3tnTtJDtOYr83ainXxMxuOBXDSWJ57TvKEh8g",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه مدل جهان ویدیویی (Video World Model) می‌تونه یک کلیپ کاملاً باورپذیر تولید کنه، اما همچنان ممکنه فیزیک صحنه رو به‌درستی درک یا شبیه‌سازی نکنه، محقق‌های انویدیا به‌تازگی Physis-Lang رو منتشر کردن؛ یه چارچوب متن‌باز و خودتکامل‌یابنده که استدلال فیزیکی رو به کپشن‌های ویدیو اضافه می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاین کپشن‌ها توضیح میدن که چرا و چطور اتفاقات داخل یه صحنه رخ میدن. محقق ها گفتن ما از این کپشن‌ها برای فاین‌تیون کردن مدل‌های جهان استفاده می‌کنیم و همین استدلال‌های فیزیکی رو هم موقع تولید ویدیو، به پرامپت‌ها اضافه می‌کنیم.\u003cbr/\u003e\u003cbr/\u003eفقط اضافه کردن استدلال فیزیکی به پرامپت باعث شد امتیاز مدل NVIDIA Cosmos 3 در بنچمارک PhyGenBench، بدون اینکه خود مدل دوباره آموزش داده بشه، 5.62 امتیاز بهتر بشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://physis-intelligence.github.io/physis-lang-web\" target=\"_blank\" rel=\"noopener\"\u003ephysis-intelligence.github.io/physis-lang-web\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T18:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sMAe8ARUcsxpjZr6wJgNst2TJnWaE-JiNOYF4DG1gpVCbxPpSJst7TigmGFXs7rKxD56AOBSGXFZNl8fwWjJVBeVdzg6YbNvonWdOrHOZw5DLgaKQ9tY7RdXSGjdtW5l9-X8jdtPmS9rqoq6SsMCADNrsXEIoiF8w_SWJgPGuaHALgIcUUrRui3BhCA_yxRdvSrb1HKV1uDEpx8ZYCVTF_0a9wL_aup5zNtO-N7pvdJKk1SONiI6qP9q5zjubopAZmYOqmwDEirqoAoCt_J9sPFSh9j4UpEbKN73BzfZ5DiKFRUvFfn44i8Dgv82pDKjO7wrwzA44LRzpe1rEyrFMA",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بچه‌ها اگه درگیر مقاله یا پایان‌نامه‌ هستین، OpenAlex رو امتحان کنین، واسه وقتیه که می‌خواین چند سال پژوهش یه موضوع رو یک‌جا بررسی کنین، رایگان هم هست، تو کار آخرم واقعا عالی بود...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://openalex.org/\" target=\"_blank\" rel=\"noopener\"\u003eopenalex.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ JustSherko",
+      "date": "2026-09-30T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HgBhgVTU9M0ND8aZ2mFPPz9f5ZhL0pa2ZZEMomadlalJaBiAU1GoD2-sGcYEEP3deMpcyb_YW8yhBw7OmenmgNzSTjkhjsOj5SJYGY3nXp5_-HvMix3_Agzw_uqgAmZ7P5DKsBlSWegEjpLzHo5MWaGJPKdASpxphz_ca3XA0pmv2gtGgp75f9DUNXeBM9pqEIkhj-lveiVLFnJ2JmmZdsmk6IBcwt_fZge_sQ4d4jnpcK8mwx3S50u1DEDFUv32iVMsL5uPlLnCCzck4sP1QvzPVwtbvLyk_t_dsTMKQSMF5B6EXJJpadW_PHkMkhxWN8g1C42AoeSVGfw7h8AdIQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790784054
+  "last_updated": 1790801641
 }

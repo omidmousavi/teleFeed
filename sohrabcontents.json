@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "و پوش شد :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-20T18:48:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jc7IkSTMt8lHQH_8NrPuB0vA3DURbcOr01ISrqzoFRV2gBhvAD-b-11w1C7_ZOC4XEuLlyQhBiwYMqIM3xVIEpbaiISFg9ni9DmfjWB7VSh-5bbg94mYoAsXJHH7vcAdVB6doiXjnsH68QaPstzB37_U9dr78bcvkQnhEfqvnciYTYzTNcs45QyMh3blnKGMKaRE60zuXbtWQXR0SJJ7Oy_oSStnw-Jy1t37PmkJK1Mq9BSg90zvU_xngCsbgLPzV2XhYf2smPUVG2olWoLo62FkQDUKUNcmJF0qQC1fuUXC3VUInG47IlwvIDyLg2BXGTHubX9QsRKPWQiLy2t-4w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "مفتخریم که عرضه عمومی نسخه اولیه پارچ استور را با پشتیبانی از مدیربسته آرچ اعلام کنیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپارچ استور نگارش ۰.۲ عرضه شد.\u003cbr/\u003e\u003cbr/\u003eدر این نگارش، بهبودهایی را روی کش کردن پاستور انجام دادیم تا سرعت اجرای آن بعد از اجرای اولیه و ساختن کش به زیر \u003cb\u003e\u003cu\u003eیک ثانیه\u003c/u\u003e\u003c/b\u003e برسد!\u003cbr/\u003e\u003cbr/\u003eهمچنین پشتیبانی اولیه از مدیربسته آرچ لینوکس (ALPM) به استور پارچ افزوده شد که امکان نصب، حذف و یا به‌روزرسانی برنامه‌های نصب شده بر روی پارچ را از طریق استور به شما می‌دهد.\u003cbr/\u003e\u003cbr/\u003eبهبود‌هایی را هم در تجربه فلت‌پک اعمال کردیم، از این به بعد اگر کش فلت‌پک در هنگام اجرای پارچ‌استور وجود نداشته باشد آن را ساخته و سپس اجرا می‌شود.\u003cbr/\u003e\u003cbr/\u003eهمچنین شما می‌توانید از تنظیمات ماژول‌ها را فعال و یا غیرفعال کنید.\u003cbr/\u003e\u003cbr/\u003eپارچ استور تحت مجوز عمومی گنو (GPL-3) در \u003ca href=\"https://github.com/parchlinux/pastor\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیت‌هاب\u003c/a\u003e پارچ در دسترس است.\u003cbr/\u003e\u003cbr/\u003eبرای نصب:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S pastor\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
       "date": "2026-09-20T19:03:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 925,
+      "views": 927,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/abPT9SFw6A6G5S3rwozYekqJ3Qf0oBU69P3Zsyyaweo2vgQc8YipPbdCIe186VRWaevW9OahlKP4u5qEy18dN8MGmRG6mZwcJhs7sSCsWDqPn7W0ivedD4DCr_GKWVX_L0GtUrWaJFkw_mLsRlGfBm-DdYg6GI9XBc11kkPdODfiZAQYAeeCLibkozqEXGElRQr2goDAK2u7BRDidy9oJO51OLF88qiOcHQDZHpyy9oORjejIVHIlQ004_-qRB6UjWXfonQvap6YcgkH8i4IKllW7ZO-msZfEuEEifViqBTyDy6IcIHp_xoIQ6FESNhYa1t1Jcp-Heh7hw28lcQGig.jpg"
+          "url": "https://cdn4.telesco.pe/file/ufuzcgmXJGVhiIr6CaBkUj9c6Yd0_9dneXXVhO070w5g0zfknECH8gYVWmL_wRstVvcY424YX2g6ih8Svt519FvrgugN5XIJid2Qq0iwc2BeUT5YSIWYhx3nwltSWV_0j9vDPA8kuEkC1PLLnTxCw-rziPJ_rmG5TBzD17ErHxkhucRaqsY79RQa94eYEwY9LJCV8jTS6XHYCjPZNFKtPmAjx4pcFIzMFNm_IT2tSIsexl1sTa-LySVHV4VXgGr2V6mLeNp_fUW0X1ivcd3rI35S_KEkwNw87bjOkQVPWnXgNEt2qG0ZRmQu5HxY_oS6WvWbqzLmUq87Je5NVl6Tgg.jpg"
         }
       ]
     },
@@ -97,7 +79,7 @@
       "date": "2026-09-21T17:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 954,
+      "views": 959,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-09-22T08:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-09-25T18:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 804,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +123,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hApTSW5HfPSOTbCJdEIkf00sXwc53u0adZ1GEJsAvLH6ai9IlfP4WPoaJ9pe8S2jzrLpB3kzDT3jeL9ExLz6jB9b0kcvT8Hq6T1nEjE1owH29zjbQnnaRHIMXoCcx1hmGs_NAui6dMGrq8Q4LnxeFsXJyS5M2MwNn1gYsAOn0q-joUPPdkFIPoLgp4VsEw2gb1bh29melA8LtlVrl0vGqvFcYkCKM-ztOfIF2e0wqDQpvTaZBEHI4Y9EQuBNUh50JmYRJuAznRMzTc3h8pL2NqegyN82g6LjZarWvkmJgzyInjU6hMyWTFqEtbkQm6Gdm1v97M8Y5x7eFwqSEYiq2g.jpg"
+          "url": "https://cdn4.telesco.pe/file/TDxCObLrcuSWd1rZRquhEyXQ2fiCL3bg7Zhnh-1lTjXb8UQb5rNIPl-dzzSQzSEMgT0cjXf5tXwNQvFMSi12rrNJ9apmHh7JuYd84nkb5KtwQY4URmofizSonkKqFBZNbDCyGnZcWUdqMZY12azBNwd8B9YbeLdoiD1MEOZ66XWSmOmmGRHJhzFZV1shtZGWNX-AYyFyOFzLcINuq6l9MCMMpW_KCyIP14I483bWgB3OoJmFnAfFy8lCyEuXgAnTOk2Za1t12_kskt_lunMeZAQKxIarsWC_83hn_-IqvwGKf2-hG1Lgez9Ruf-lMEMSCRAQo-ICiiK_0h8SlV5Naw.jpg"
         }
       ]
     },
@@ -151,7 +133,7 @@
       "date": "2026-09-25T19:29:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 757,
+      "views": 761,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,11 +141,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/N9pVi_bSudChPNqb16_L_Evpt7HYTtsB1a-64T0AbX50mWrRqX9mSSDoqe82yvWnT_O7eIdkjMa_xMtR8K42Y_eWyzH_7kFWv2BZCyQfZuU2sTyg2oglYYD1z8ScO5ES0zuDsDUFu91CcHOk_2zgwsN_FNSkpNNjjUp7ZQFK7lA4ahJmw3RgIL6G8N8gXoVbpGAdCHSCHtiBtFj6Gp6G-V_4ElSPUjyZBhypoaMhmw2Dij_GJ_ts0UPLQt1oJVJJoL2S8mTp_z5y_C2ajY58vR8aufAwCmG3xv-VgFY4qXSWBgFi-ix-SFA99UKBcQnUP9k9Wja8uwJMh7-7DCjykQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/KzSR3GU03HRU7faZYDH2b6nVeo5nI4VjSUB3LCdDs2zXt6HQ5jXXonGkh-tx-up0nhl_gLXHxkFb0cFU7DfQ49UIxe91lUjmHKrIP27mBeJ3cp0LlPaQmtS8k2MWtr07DP-FBitt-xJn_-JJS-vZYeKBy0iwCFN1NZJuHbtvxH8w7woG2-mzb_YSvzq-xWvoYiVnVHuoSs17aau-C_7M011nCwhxrVDPhrNYfrE9Ek9fmExb4hJqlBdWgF4gOHBdIOuI1T8AIWkCpQAkA3ZL24fNVhvb07b4O-Gpi_mPZ5U3Ng3LteMEUumQvsbKdqsC6T_-7jtbWf1TPkqjSZ301w.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vw4UgIWHW8pQPwxftnedvoDmxa9G9BQhk7TTY4JB6zlfIrr9UZHFBqZRoOeTLqnSwqa-r_LEJ-wFp_GQBiDOTgL0jGNbv8FREdN9_kMJnr7bjnGRaqXtgr-HCi_js5b2Pz9SUXwm0orI6QRUWkNbjLhILiOuqrmht9rwNhLkI4_S_bRP2OaPGhbXv1aZp1a_EqP24MRM733ySAN0KdHVT3M0m4-gSwwKW-5BKSErXJgtzCqaYO4gXBDbiO2ZUHd9qPpFBx_X-92j-5Y5079CmuJf9H8QwyzWbWBpdr6UAjDkRY8D9Ir7FZLojQOf0XW2zUt_hXmnlNRZrLz-6jMZ7w.jpg"
+          "url": "https://cdn4.telesco.pe/file/BUGyktB4gLTzS-mo0JCM4bYghX2RVy__KAlUSUnmh3FAgDfmi_S8Ma47JiHFpdRIJ5sDBePT6ye_z-7s5ucCn-hz3z7bwx3eWaFGxOfy3IcRCYgO9mZot9-jt3hjnvYEfMrdKCT8kYmzwJgUZY8CUcwN2XPRY8Ktkp4Sv6hYLOOtTrGik7QxJ_6qMc-OWIMF2ExUU-GeBiGipBPAItJSI6ySsXu0NGjc0sasFfXTgVfF9bJzg4DwzeZZM8Xm9R6RZzFMXtAA5aL53JvXNk8mwlpkXJRdkwpFSX9qcjVDRSvFyLzqbVRuQ6mP2lEcGxyOhfvTo1wuU_5eMUhFCo62zQ.jpg"
         }
       ]
     },
@@ -173,7 +155,7 @@
       "date": "2026-09-25T19:55:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +167,7 @@
       "date": "2026-09-27T15:15:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 860,
+      "views": 873,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +179,7 @@
       "date": "2026-09-27T17:39:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 859,
+      "views": 869,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +191,7 @@
       "date": "2026-09-27T17:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 916,
+      "views": 946,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +203,7 @@
       "date": "2026-09-27T18:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 926,
+      "views": 938,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +215,7 @@
       "date": "2026-09-28T06:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 969,
+      "views": 981,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +233,7 @@
       "date": "2026-09-28T14:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2060,
+      "views": 2120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +251,7 @@
       "date": "2026-09-28T14:57:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +263,7 @@
       "date": "2026-09-29T13:42:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 652,
+      "views": 691,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,12 +281,30 @@
       "date": "2026-09-29T15:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "پیش‌نمایش نسخه‌ی لایت پارچ\u003cbr/\u003e\u003cbr/\u003eتیم پارچ مفتخر است که پیش‌نمایش نسخه‌ای سبک‌تر را برای سامانه‌های با منابع محدودتر معرفی کند.\u003cbr/\u003e\u003cbr/\u003eاین نسخه بر پایه‌ی Labwc توسعه یافته است؛ کامپوزیتوری برای Wayland که مصرف حافظه‌ی بسیار پایینی دارد و تجربه‌ای مینیمال ارائه می‌دهد. پیکربندی و تم‌های آن شباهت نزدیکی به Openbox دارد و کاربران سابق این محیط به‌سرعت با آن آشنا خواهند شد.\u003cbr/\u003e\u003cbr/\u003eشل مورد استفاده در این نسخه Noctalia است که پشتیبانی کامل از Labwc را دارا هستش و ظاهری بهتر را به شما ارائه می‌دهد.\u003cbr/\u003eنسخه‌ی لایت به‌زودی، به‌صورت آزمایشی و در کنار نسخه‌ی XFCE عرضه می‌شود. ادامه‌ی توسعه یا توقف آن، منوط به بازخورد کاربران خواهد بود. در صورت آزمایش این نسخه که به‌زودی عرضه می‌شود، نظرات خود را با ما در میان بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-09-30T19:07:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 189,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IVWyE9Zno4dr1-ClhFhMaFsAZwGuj09JCiA7_e7qJ-Tr-px0pQnGg6wW8E61_1xvl6uK7M-GBxldTCcAa1qejKy_-cih7gG5OV20lSgpxy948jrPUnR4k1uY3L6p8v5nZl3znfgLRNUMwUvY_362UqbEe1G-FR7-uo6Bk3qkl3BYA-OSa7I_VT7JoRYN4QxPZQsw3GnFRnqmRiDFUc3vcKrA-HSOOu-Nzz8roUdhiSNTPtSusHUEU2vZCZB0guwpjAV9UduiHzWvwZKQpq-1YJCyGQRIzepheeo_sU1Zjjtzz3oSgA9Vj2ABv_wL2solKw6b9ov0_BFL0wGgZLhJ8Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790784096
+  "last_updated": 1790801680
 }
