@@ -8,183 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "این ویدیو هم جالب بود روی گوشی S26 مدل تصمیم گیر شبیه Jev به اسم Laya-LiteRT رو ران میکنه سرعتش عالیه برای هر تصمیم 50 میلی ثانیه طول می‌کشه \u003cbr/\u003e\u003cbr/\u003eکارای جالبی باهاش می‌شه کرد مثلا می‌تونه پیام‌های خونده‌نشده رو تحلیل کنه و تشخیص بده هر پیام ازت چی می‌خواد جواب دادن، انجام یه کار، فقط خوندن یا نادیده گرفتن. یعنی می‌تونی یه لایه‌ی هوشمند برای notification ها، ایمیل‌ها، پیام‌ها و خیلی چیزهای دیگه بسازی، بدون اینکه لازم باشه متن‌ها رو برای پردازش به cloud بفرستی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/litert-community/laya-LiteRT\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/litert-community/laya-LiteRT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-28T18:44:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iqOsMDq3agLQa7PSY9SSWEqqRdf3UtuVK47qQENkrHXAcOKDIaf8wwQ_r5c5HtWeB40yt00RBvPWb2bYXHSZRjPKL34Ky9OPcu9xyqcrSUMqAJLAgHC5WGWmFDtACjtFao6mqzclVCrTNccH6sMNiPNaXsYmoh3j6heDLgvZ3H9-2TVRftOcMCAo8cTMLE9H0rlLkoKcuHt9AAxJiJ38sydkjPBHYkY30I72qYXyqBJLu3pj0JZxWBkqRl3GltZl8KVFyRW32xchSwYhZSJNxcj-zLzPBntFgqobpoGwDx157Li5EavvFLaeA7m3UTJxKq062hscYFkQGVmZT8LHAg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تقریبا همه بازی های ساخته شده هوش مصنوعی که روی وب کار میکنن از Three.js استفاده میکنن\u003cbr/\u003e\u003cbr/\u003eاما این کتابخونه کار کردن باهاش واقعا ساده نیست و حداقل با هوش مصنوعی دارید ازش استفاده میکنید باید خودتون دربارش بدونید یا حداقل اسکیل داشته باشید این لینک یه مجموعه کامل three.js برای ساخت چیز های سه بعدی وبی هستش\u003cbr/\u003e\u003cbr/\u003eفرض کن توی حالت عادی به یه AI بگی:\u003cbr/\u003eیه سایت 3D بساز که یه مدل GLTF داشته باشه، نورپردازی حرفه‌ای داشته باشه، با موس بشه دورش چرخید و موقع hover یه افکت glow بگیره.\u003cbr/\u003e\u003cbr/\u003eبدون Skill، مدل باید از دانش عمومی خودش Three.js رو بنویسه و ممکنه APIهای قدیمی، import اشتباه یا الگوهای نادرست استفاده کنه اما با این اسکیل ها میتونه خوب کد بزنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/CloudAI-X/threejs-skills\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CloudAI-X/threejs-skills\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-28T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Of_yRNOe8L7Wlr5v1zo2W6DqXtHUjparAz8hMtuslzQeA3wziBempMCbYOF4Ang4lt5ZoIjIJUQkHPc2ir5LjGaivzxbjJuiIdia8M6scEXLn18lLsCSTr3i3MgZCo_d7cYMbcQgY5BrhyRzo6Emt6zvWdgk6qmUnoJLSS8_yPr7kBYB_m5nuAcL7PMkJwhBMfSi8WzXUPAWJv7Lk3vK40wZTrMCX5_j7oVT0GQ2gHAKZW2fY4eikhUKFYUm4ceiFQKAesa_qbE2ehjyyObG8rLdWqh7d6tipkyK98jS4srYTbWGdRx-fMG6VesCzj3gG6Gs_veDW8AUgoAd6iZzHA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آموزش گام به گام اجرای مدل‌های Laya Decision رو به‌صورت لوکال و فقط با 4GB رم\u003cbr/\u003e\u003cbr/\u003eروی CPU، مک، ویندوز، لینوکس و سیستم‌های مجهز به GPU هم کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003eهمچنین می‌تونی Laya رو از طریق Unsloth Desktop و با استفاده از یک API سازگار با Jev ارائه بدی:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://unsloth.ai/docs/models/decision-laya\" target=\"_blank\" rel=\"noopener\"\u003eunsloth.ai/docs/models/decision-laya\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-28T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mlQnJ_Fks1TMQ0xqOJGKGknLXamsXn3gUGGlre_EYCTCHLk8_idrBvfzkXf20n20imP9pwX1SHGaEqkWGSU9alfygOnJgA4kcICaAgHgJikTwqaDN6qzjy3PjJe-NrEmzZmVXhaOdu38P8xWAub0EJI8cik9AdRdmYmhkVl8YuzKRLYQkGZy-JuEUirJi_0IZdUZDlVDrcG9fSA_pI97EaHFBsLGFJk7QNqKCflBHFqIR6VMUj5cjx0SjheGAAY9dF0BsLaB9-NUDcfAe0K39BBRbsSiYap7o0YrXMUQRkV1YCMlhbfs1hUlBWEKrBMshYUdOtVt_hwStQBJfn_sGQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دکمه‌ی Turbo روی کیس‌های قدیمی یکی از چیزهای جالب کامپیوترهای دهه‌های 1980 و 1990 بود. توی خیلی از سیستم‌ها وقتی Turbo خاموش می‌شد، سرعت CPU پایین می‌اومد. دلیلش این بود که بعضی برنامه‌ها و مخصوصاً بازی‌های قدیمی DOS برای CPU های کندتر طراحی شده بودن و روی پردازنده‌های جدیدتر بیش از حد سریع اجرا می‌شدن. مثلا بازی می‌کردی با سرعت برق حرکت می‌کرد و نمی‌تونستی کاراکتر رو کنترل کنی و با زدن این دکمه می‌شد سیستم رو بین حالت سرعت عادی و سرعت پایین‌تر جابه‌جا کرد. (عین اینه باتری قوی تر بندازید توی ساعت خونتون عقربه ها سریع تر حرکت کنه که البته ساعت های امروزی اینطوری نیستن)\u003cbr/\u003e\u003cbr/\u003eاون عدد 100 هم اگه اشتباه نکنم فرکانس پردازنده باشه چون جلوش یه مگاهرتز ریزی نوشته و کاربر می‌فهید الان سیستمش با چه سرعتی داره کار می‌کنه حدودی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-28T21:11:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nQplXj_otu8QS6o4R1J_kNZ_ZEJc6zTxPk6TERUDdS6-qjIcn1zZSovW8Y_ijmFJLw8-8z16ofA0fKDZ4RnZ3Mn-QG2EaHBmpCGzlfKqlfuVeqrHKtkwi36RDxdreuYA0aefmzp3_uC9xrhVN7LiCuTdM2O7een27tlc-BBNHdPhK_r0A_L_bXZmB1SEmd4ijUrKfk-gOSRZSW8kyijl8hC2l_V4ph9FL-yv5Pk6BRZGUjfqoGZytHHl5liMtLFMsqp2SjgphSvBoVXOtKyxVYlCsNMFAZC3B0rPuYmZkyFlbGxM1cOX-JafLJ-dcMQ6Ge9PAjGdrCD_7uL1djhmaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این مدل، Qwen Image 2.1 به‌صورت Native و بدون استفاده از LoRA می‌تونه اشیا رو داخل یه تصویر به‌صورت کاملاً یکپارچه جابه‌جا و تغییر اندازه بده، کلی کار جالب باهاش می‌شه کرد به خصوص اون عکس های قدیمی که فتوشاپ کردن روشون خیلی سخته\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین:\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/linoyts/Qwen-Image-2.1-Move\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/linoyts/Qwen-Image-2.1-Move\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T12:32:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VH7IluZfE1XHP23nYqGNbXvL7Vaauo-LPnIUWdbJoETOV5PfmxsChNU5_hd8K2svaYXCQkrh7zKYvlwwT4FXVqE1k3MjGlcmBYH2uHbuWBoSeJtDjZqQ6Fb5v9nq0ZTe8XAN0tqWDZbxp4wbb_elIgvPjjtD2-hYTt44421iZgmCG3X2ZQAOwhs7fh09Mub7Tz522Q99EBiDObcyNXQT7N4rxtXWx7r3fyYEu2FpO6oucwyUlCLTL1aoWRokgu3YzACpQWyLr8nSTrKAQt053JqcyYIrHWqnO04yNxj0JAli7YCFE6nKk2Xzx8SMdQDpwgzGjXNbyoyr4B4RczAFMQ",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سلام دوستان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB9.png\u0026#39;)\"\u003e\u003cb\u003e🌹\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eیه درخواست کوچیک ازتون دارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاین پرسشنامه برای کمک به یک پژوهش علمیه.\u003cbr/\u003eمشارکت هرکدوم از شما واقعاً می‌تونه در انجام این پژوهش مؤثر باشه. اگر چند دقیقه وقت بذارید و پرش کنید، خیلی ممنون می‌شم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://B2n.ir/sarai\" target=\"_blank\" rel=\"noopener\"\u003ehttps://B2n.ir/sarai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیشاپیش ممنون از همراهی‌تون \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB9.png\u0026#39;)\"\u003e\u003cb\u003e🌹\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-29T14:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "کسایی که با هوش مصنوعی چیزای سه بعدی می‌سازن با Three.js Particle Fluids آشنا بشید؛ یه کتابخونه مبتنی بر WebGPU برای شبیه‌سازی سیالات، اجسام صلب و نرم، پارچه و گازها، خیلی طبیعی تر می‌شه چیزایی که می‌سازید\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eتست آنلاین:\u003cbr/\u003e\u003ca href=\"http://dgreenheck.github.io/threejs-particle-fluids/?preset=wave-chamber\" target=\"_blank\" rel=\"noopener\"\u003edgreenheck.github.io/threejs-particle-fluids/?preset=wave-chamber\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسورس کد:\u003cbr/\u003e\u003ca href=\"http://github.com/dgreenheck/threejs-particle-fluids\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/dgreenheck/threejs-particle-fluids\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T14:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qrWSwSHGMRe04u9RxsPfXeRdmQKv3cyFFexiKyQtBYDarwCcQ-hvDSVEyKjvgnwDf1aoSrpNf2Nyx4l3YPdVQdjqfJTb6CwH3ROKdntAehRGt2jJD4grvegMe07ME4-VLcYb76FeHs1LUelxWdU1MX_8Lh0MhvjRquXuM9nuf7PxNkMRk7SokfXCX-fhZoug_fEPpoMBtEyvjppQGE5-4Sz0qktcvHszVNnUXdZL8ALJKuygqv3GPAPCm0ck_oBVCCNKc427GvOG4dWu6CQk4bYOja09LJsqFN9n0Ifn_uEaOSYEwDYJ8bKsF85nG8u9cHAxbSThcn6H0aHAWj4cRQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سه ماه می‌رید آموزشی واسه شرکت بدون حقوق کار میکنید؟ نکنید بابا، برید سربازی هم کلا آموزشیش دوماهه\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "مدل Eleven v4 معرفی شده یه مدل Text-to-Speech هستش که متن میدی و اون متن رو به صدای طبیعی تبدیل می‌کنه. تست تفاوت ورژن سه با چهارش:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ itsArmanj",
-      "date": "2026-09-29T15:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MjLYStglWwdZZ3yK9Ar8l80i9DylAxcn0wpu8N6v2VeYNZxWUwym7qLdeSm77PcaGXEtZGeYOrjNXv7iNGBfdBKgIaRY34FiiLFEiTR3tzf7pM1W9Mg7Jj3EIj9cjtHmdRxlzKGNaAjc5eDHSUlCgGQXLtVjxESxs-vo7punPVsS3rUlD7TVHAPei8OjJyXF-yWkZehQ4IbiWmYEYoK4weygRDmuPNbVyTU3nUiJVRFslLpdDIAbkITMXgZlNTAzJcenR31qfW4yOWT7NOXNqt6BcSMDfxcRTneQfqot-lg02wMeFL78NDwSXewC3UrrknYIG8gBExQG59f7ztq9RQ",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6192907764939889234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید اقساطی و مطمئن اشتراک و اکانت‌های محبوب با بهترین قیمت در ساب‌مارت!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5397681122542893003\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eChatGPT\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5208665212483310136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eClaude\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eGemini\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"6087032886903448655\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eCursor\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5208963802904693870\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eGrok\u003c/b\u003e | \u003ctg-emoji emoji-id=\"5472383437182627326\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eKlingAI\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206660927339924387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eجمنای پرو 1 ماهه \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eفقط \u003cu\u003e299\u003c/u\u003e هزار تومان\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتلگرام پریمیوم، کپ‌کات، دولینگو و کلی سرویس دیگه...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6325485730260852916\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eامکان پرداخت 4 قسطه با اسنپ‌پی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6192907764939889234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برای دیدن لیست کامل سرویس‌ها و اطلاعات بیشتر به ما بپیوندید \u003ctg-emoji emoji-id=\"5172653165836763657\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR\" target=\"_blank\"\u003e\u003cb\u003e@SubMartIR\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMart_support\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپشتیبانی و خرید\u003c/b\u003e\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5337080053119336309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR/107?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eرضایت مشتریان\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956418939920843885\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SubMartIR/126\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eشرکت در قرعه‌کشی ساب‌مارت\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-29T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/srJFeHMi40eGs34qKj6-4yf1Sm-pQ50VzI2WZHIQUm-PnTqK6N_D77czRaP1IhvpNd8JmOgv6mfmstyDZBGh97brBq6tFsE791A5GuE6INCJ7g72xrtdVtFbxegLEuSEtZgb_r-03ALQncuwAcLgYl9qOo31_zZmyqz9FyGAIWC4omNoyo5Y4RkMLn3cRgQbl4F9nQLU9KVpFITyFFG0_a9AoOTAzEVEcY_u_71BbceHY6MCdQP5ok_pfepNmjvzplW6GVpEV0imGSh_D2uNOXP7X-EvwnK2A0rlPcD-IcosmHYULNAcl9WdMtBgNLypPqq8dIjXWy7bw27FBTfEUQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این مدل هم دیروز ورژن جدیدش معرفی شده برای ساخت ویدیو های معرفی محصول خیلی خوبه، با InSpatio-World 1.5 می‌تونی یک عکس، چند عکس، تصویر پانوراما یا حتی ویدیو رو به یک دنیای 4 بعدی پویا و قابل کاوش تبدیل کنی و دوربین رو توش بچرخونی!\u003cbr/\u003e\u003cbr/\u003eتست آنلاین:\u003cbr/\u003e\u003ca href=\"http://world.inspatio.com/\" target=\"_blank\" rel=\"noopener\"\u003eworld.inspatio.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکد هاش:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://inspatio.github.io/inspatio-world-1.5\" target=\"_blank\" rel=\"noopener\"\u003einspatio.github.io/inspatio-world-1.5\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-29T16:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +31,7 @@
       "date": "2026-09-29T16:59:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +49,7 @@
       "date": "2026-09-29T17:14:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +68,7 @@
       "date": "2026-09-29T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +86,7 @@
       "date": "2026-09-29T18:49:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +104,7 @@
       "date": "2026-09-29T19:01:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +123,7 @@
       "date": "2026-09-29T19:16:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6310,
+      "views": 7420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +142,7 @@
       "date": "2026-09-29T21:14:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +154,7 @@
       "date": "2026-09-29T21:20:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,12 +166,191 @@
       "date": "2026-09-29T22:02:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5140,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "نرم افزار محبوب Ollama حالا از مدل‌های تصمیم‌گیری شبیه Jev به‌صورت کاملاً لوکال پشتیبانی می‌کنه.\u003cbr/\u003eاز مدل‌های تصمیم‌گیری مثل Nimble می‌تونی برای کارهایی مثل دسته‌بندی و اولویت‌بندی تیکت‌ها (ticket triaging)، انتخاب و مسیریابی مدل مناسب (model routing) و مدیریت و نظارت روی محتوا (content moderation) استفاده کنی.\u003cbr/\u003e\u003cbr/\u003eدستورش :\u003cbr/\u003eollama pull nimble\u003cbr/\u003e\u003cbr/\u003eاینجا هم Nimble رو می‌بینیم که داره بازی Ollama Racer رو از طریق API جدید و لوکال /v1/systemone بازی می‌کنه و در لحظه تصمیم می‌گیره. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T10:55:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Z1Yh6TO0fD1R6fpVSCgbII0Wr1EnGNj03IYNqWwA97hnR1qb22V6f3Pash7CtygB1NJEVIvk3ohoJYbgrcPrY_Z3eZ41Nf4jnwpriNsY28yzu-1Jbd9KCsMPORTE_KoZJu1DqUe5QzMqlQjPVHn5GIqB3KEBnmdbuLSWUHMcWXVXz2trulMpnr1dsmssEMQpEYdipJVvwIcOf4yJnetWjM-fbb7ItTh2vw6_B8PGZpNO2J-VWrm2WALHqU5fnHhYgfyZlGAp_-8kkqsxHqXgk6T4oLT2MKB_9fZh9aGKNGPjklx5T_s0XZm50lyRB-ioUDJpPXAg--_ZlsgvNX08fQ",
+          "width": 3360
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به گفته Ollama مدل Nimble در حد Jev عمل می‌کنه و اکنون روی Ollama در دسترسه! \u003cbr/\u003e\u003cbr/\u003eحجم مدل حدودا 10 گیگه:\u003cbr/\u003e\u003ca href=\"http://ollama.com/library/nimble\" target=\"_blank\" rel=\"noopener\"\u003eollama.com/library/nimble\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T11:10:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iPAkNyRyX-t_WdqR04NZjZM6eeiodzQdDcLQY01a8NPMZdDFkTrpcI9z7qCxWHVXRJMttu_txNI7j8u2VBsENT5BsRujBd8MPnMO1FNCdDU45gjBuz5o-sryryRQYKZfvUjr6ylh5UeLgnJ409n3kzwr5xep4N0Iq5TPcBBMEwBI1cAKViv1gLVVvqZ4l30xy1gFSMkCZCAwsKWmjfHVJkCqv69bcCWpxTR46Ag7e5Le7xYFH86xImo_ncUNTTNLj5Dx2nsRep-1dr6tvj3Oq67HzGpQfmBoqEthUJrWl-mmY7p4Z-tJ-NU9h-flJSpXjrinue-Mcsc2YUc3qCFMaw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شاید قیمت ها باور نکنی،فقط کافیه اولین سفارش خودت ثبت کنی !\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e Gemini Pro | 18 ماه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7B7.png\u0026#39;)\"\u003e\u003cb\u003e🧷\u003c/b\u003e\u003c/i\u003e \u003cb\u003e399 هزارتومان\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e Duolingo Super \u003cb\u003e\u003cbr/\u003e2 ماه - 149 هزارتومان\u003cbr/\u003e12 ماه - 389 هزارتومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ChatGPT | Claude | Grok | Spotify\u003cbr/\u003eگاما | پریلکستی | نوشن | لاویبل | گرامرلی | تریدنیگ ویو | لینکدین | کورسرا | کپ کات | فیگما | کنوا | استارز و پرمیوم تلگرام | و... \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e تضمین کمترین قیمت با ضمانت کامل\u003cbr/\u003eفقط کافیه اسم سرویسی که نیاز داری اطلاع بدی \u003cbr/\u003e━━━━━━━━━━━━\u003cbr/\u003eلینک کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/Baraye_Harzamani\" target=\"_blank\"\u003e@Baraye_Harzamani\u003c/a\u003e\u003cbr/\u003eاعتماد و رضایت مشتری:\u003cbr/\u003e\u003ca href=\"https://t.me/etemad_baraye\" target=\"_blank\"\u003e@etemad_baraye\u003c/a\u003e\u003cbr/\u003eجهت ثبت سفارش و مشاوره خرید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Amir_oll\" target=\"_blank\"\u003e@Amir_oll\u003c/a\u003e",
+      "date": "2026-09-30T12:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pS6Ywu1AhJwapfJ8svYWKqM3_wRz_bHK-rFpDrX7av2VIcf3zesgt6pVfuRmGvwb_jPGl58NPABXp0pFG7mUpzAXh8BRgrkNQHXgEmxM62YkjP-A_kC1el3RGE5Z0i2gTZV1i0vM8g0KWNNmosqP3_8cviCOHXiJb2rIURAFZd_w4L09p28CHrbtnUBeYMQ3TXnWacy48c4u7GYlLYAd6Hx3KIAV8_nRnvsLDk7fLfskPD0yEwlB8OzlkZpvwqRDEU_p8zZg3Lw1AjN7RatQ96NRwkBnNsmZVcYm8td1FyfbrwpyH7i2DKWR7W9rB5MFYuxSu3qdYo3mGd9Ws3rfiA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "هنوز ساعاتی نگذشته از معرفی  OpenAI-Dots یه عده اومدن نسخه اوپن سورسش به اسم Open-Dots رو ساختن\u003cbr/\u003e\u003cbr/\u003eاستفاده از کامپیوتر: مرورگر، ترمینال و فایل‌ها\u003cbr/\u003eاتصال به اپ‌های شخصی خودت\u003cbr/\u003eرایگان، متن‌باز و سازگار با هر مدل زبانی (LLM)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Anil-matcha/Open-Dots\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Anil-matcha/Open-Dots\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T12:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/N98LBZeOawDzp801fS3vgcN2ZaQJS-8b2yD2yd-k9BpUtUKQ1Ra4aYxV6AjM305pzyM0LequsOR6mKVSs0PgS52HwjQ-uPecLJxvzs780irAHgo2LiAtyFQAMPigBu3HZNg41eXdLJK7pwqsdfFs50OwR_jTSpspubqBSCoLdOVB67DQv7TuIcfmVoA0w5LMvEBM-mxPd5xtzCadvkBrsScJUTW9VxLRhZkV6xnhtBlIc61WQcKj5t2u88NSU4m83g3IuPcy84r-rZhYkmAZckbbQ4CTy-eiTqbjoZ_8WBmPZCIMiC7F7TNhrrzVLi0qk9Td7Pcau85gs7X1nz_hIA",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یویتوب دیدم چند تا از کانال های انگلیسی زبانم دارن فارسی حرف میزنن خیلی برام عجیب بود، رفتم دیدم به همه زبان های زنده و مرده دنیا دوبلش کردن؛ دوستانی که تولید محتوا میکنن امسال مدل های خیلی خوبی برای دوبله و متن به صدا اومده بخش زیادیش هم توی کانال گذاشتم حتی بعضیاشون لوکال هم هستن\u003cbr/\u003e\u003cbr/\u003eبه نظرم با این قیمت دلار تولید محتوا توی یوتیوب بیارزه مخصوصا اگه بشه به همه زبان ها دوبلش کرد اینطوری چندین برابر مخاطب هدف و درآمد بیشتر میشه‌.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T12:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/B9KAENwW6o-004mxAXuGehwUcNfBdJkfdgFkEIguployeMZiGaRyFp1YzOJoahacPCpAfOl47hm3MYu3gdO2XELehX9-O5Xbk7sz6-8D-GEH_wXh2nDJeNFVgSqPuykupgZrc0XWbWnrcIlL83jPL3vZGL4N_AOBJCrrTSdEmI4m1p1mzYuMpzxrg1kFhHV_YxkTiMOOVcQqXYDVG7NK82HkvlmbZirg6QtnDJ-fj9Vwd-LLDzMA6YYQnd1w8Zov8L0ejhHfxuigob-utKaun4tW3BYH8JV2I1aiT798PEeg2RQhYIa03BkyUO_zZfBNwPuXMAnuGhY2oDjprgcpZA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اجرای بازی Doom روی تسک منیجر روی CPU usage!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبازی Doom تبدیل شده به یه شوخی برای برنامه نویسا، روی هرچیزی بگید رانش کردن از دستگاه قلیون شارژی بگیر تا کیت تست بارداری و حتی داخل بازی ماینکرفت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T13:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/s-yHSk8TbHA9Ti0M71e8SGpqNz1KfObUfcbU5ZxaxvjmTpIfZrXHfZUzcG58W5KrSQmTvbMzlxfyCqQrkfYL0mv2PRamE6Zy05AwTKn-UTsn5OSQZfu8cYfuZp0o6yFzsC2584gzBlfXFWFAl9tjIKMZLdheZoUohJ9cpLlMfJZVyHZwHPC8qV80aE0QgEj90FdUQI4IdvDugNO46c360-7eEV_t8hxev0pjHDt9yWVlFbhpFAeb4Fhn3eG08VcH1k2ganOHIfeNLm3je2tdJA_lKsdZeFbhmg5RPDhQx_gI96lS4n75Wx1gWj2JALPXCDcwIT1msu2zwM0mUQCwgw",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اولین پروژه‌ای که ترافیک واقعی گرفت، یه چیزی فهمیدم:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eفرق بین کدی که کار می‌کنه و کدی که scale می‌شه، زمین تا آسمونه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e اینجا از این فرق‌ها زیاد حرف می‌زنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+Za23xxzXC_8zNmZk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+Za23xxzXC_8zNmZk\u003c/a\u003e",
+      "date": "2026-09-30T14:29:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اگه خواستین سایت ارائه هوش مصنوعی بسازید اینجارو ببینید بیش از 100 تا کامپوننت وبی مرتبط جمع آوری کردن، مثلا بخش چت، بخش لود شدن مدل، بخش مربوط به Thinking و ... کامپوننت ها به فرم shadcn هستن یعنی خیلی راحت با یه دستور به پروژتون اضافه می‌شن و دیگه کدش رو دارید و راحت می‌تونید برای نیاز خودتون شخصی سازیش کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://localmode.ai/\" target=\"_blank\" rel=\"noopener\"\u003elocalmode.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/YLqDW5yeSDPvNldeKaR-qF_CH81VVCgNMwntNhPvYMko15Z_qG_U3WsgOoyjPbvpC-x9D8ReP0w51kRYxK0aWld8Hq4-PYo-XbTrWCKG5pDbrI9okkLfkHakHC0A8pY0898bWKVR6EtrSsUrnK8fPynnQ4Fco9wDSHUsGQivlj7RhDlJkrcfeqRs8_b0L2NLIWx5MJn0YVXMz0x0bHOGtmjhuDsFiiLiq7wbpQEb9xdMMYavvOgu_AK-AL6BxOFwacPROY4hs6vtpgTT-2LyvzAvffWkcs-98jfl3o7GET8do1s_U5OxdohqHg1ICc8UzcrnGRUfVD--97YBsK8Ulg",
+          "width": 688
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شاید براتون سوال باشه این پوستر های تولید شده توسط هوش مصنوعی چرا یه جورین و شبیه به همن؟ \u003cbr/\u003e\u003cbr/\u003eاگه یه سری به سایت های هندی بزنید حتی معتبر ترینشون مثل Times of india می‌بینید که همه بنرهاشون با سبک هوش مصنوعی ساخته شده شاید فکر کنید با هوش مصنوعی دارن می‌سازن ولی جالبه بدونید حتی قبل از هوش مصنوعی هم اون شکلی می‌ساختن در واقع هوش مصنوعی از روی اونا تقلید کرده و از روی حجم بسیار زیادی سلیقه هندی train شده و الان هرچی باهاش می‌سازید به سبک هندی می‌سازه!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T14:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HWwQDDya8Z5CQFMqlTLZ6m9zQEemV6MldN8aO8VQIXnl0QkS4KTQeFg98eWkZwL5JdLqfuf9eU19N50xIc4lylSXfyVKRouCV-1DsovY1eGLo3ni6FvQsxYhKmqsob2m1i_7oHcjhzeB9VYK3HYPFJJ2Sli-K62f8jjE3Slnski76IDvLt21ptbdth58LaGsdOvbDc-3lSDCuu6d-TJC48pHRo8ri96kC8LAWkJG3ORmr-ziHAP7UvRraaTK7xW8_eKMTJEokGymr8BECL_8dJpOQ1C8u4laQwB2Z8xpsbqKL1r2FChO4NJutm3imeK0c-DXWh33MWG7Y3OcFD0PuA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اولین باری که این ویدیو هارو دیدم گفتم وای چه کار خفنی این همه گوشی رو کلاستر کردن، بعدش به این نتیجه رسیدم چه کار احمقانه ای اصلا هرکاری بخواد طرف انجام بده به راحتی با ماشین مجازی نرم افزاری روی یه سرور می‌تونه انجامش بده تازه هم برق کمتری مصرف می‌شه هم قدرت پردازشی بیشتری داره!\u003cbr/\u003e\u003cbr/\u003eتازه خیلی از مواقع اصلا نیازی به ماشین مجازی و سخت افزار گرون هم نیست مثلا اگه هدف مدیریت شبکه های اجتماعی باشه با یه اسکریپت ساده سشن چنجر و یه پروکسی لیست به راحتی می‌شه اونو شبیه سازی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-09-30T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/m_-CifaLPF2NHdv1ON_GdtZKpcWHYkDjyKYEsTQ5ZE08HYuGWBRN1dSultIirRTOc4h9efL4lFnNHVSm_6uP8Xudnt5v3nkQeFm__vJjSGWSAW4EUoFp-T-RZfKOp2uM-ggKgh4eZD2_DQSoQlG8DKySGASWXGMShaNSacjD7QFrP6yB6es8vRANjsl6Q4JIzr-yUcPrXe7zvsrwZezPB0wxAI9KqaD6vhksRREualCDaBnDx2V1a2tYO2gjkFtp7bYNfo1JzRo_vyMaUhDWN4cilw5sEavZgHmSuNMpCwkhUmiTHm9BD9VqRC39sF10F4Iv8pzYCqnWMgzFlu5Usg",
+          "width": 1080
+        }
+      ]
     }
   ],
-  "last_updated": 1790759854
+  "last_updated": 1790784054
 }
