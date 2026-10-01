@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "مفتخریم که عرضه عمومی نسخه اولیه پارچ استور را با پشتیبانی از مدیربسته آرچ اعلام کنیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپارچ استور نگارش ۰.۲ عرضه شد.\u003cbr/\u003e\u003cbr/\u003eدر این نگارش، بهبودهایی را روی کش کردن پاستور انجام دادیم تا سرعت اجرای آن بعد از اجرای اولیه و ساختن کش به زیر \u003cb\u003e\u003cu\u003eیک ثانیه\u003c/u\u003e\u003c/b\u003e برسد!\u003cbr/\u003e\u003cbr/\u003eهمچنین پشتیبانی اولیه از مدیربسته آرچ لینوکس (ALPM) به استور پارچ افزوده شد که امکان نصب، حذف و یا به‌روزرسانی برنامه‌های نصب شده بر روی پارچ را از طریق استور به شما می‌دهد.\u003cbr/\u003e\u003cbr/\u003eبهبود‌هایی را هم در تجربه فلت‌پک اعمال کردیم، از این به بعد اگر کش فلت‌پک در هنگام اجرای پارچ‌استور وجود نداشته باشد آن را ساخته و سپس اجرا می‌شود.\u003cbr/\u003e\u003cbr/\u003eهمچنین شما می‌توانید از تنظیمات ماژول‌ها را فعال و یا غیرفعال کنید.\u003cbr/\u003e\u003cbr/\u003eپارچ استور تحت مجوز عمومی گنو (GPL-3) در \u003ca href=\"https://github.com/parchlinux/pastor\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیت‌هاب\u003c/a\u003e پارچ در دسترس است.\u003cbr/\u003e\u003cbr/\u003eبرای نصب:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy\u003cbr/\u003esudo pacman -S pastor\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-20T19:03:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 928,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ufuzcgmXJGVhiIr6CaBkUj9c6Yd0_9dneXXVhO070w5g0zfknECH8gYVWmL_wRstVvcY424YX2g6ih8Svt519FvrgugN5XIJid2Qq0iwc2BeUT5YSIWYhx3nwltSWV_0j9vDPA8kuEkC1PLLnTxCw-rziPJ_rmG5TBzD17ErHxkhucRaqsY79RQa94eYEwY9LJCV8jTS6XHYCjPZNFKtPmAjx4pcFIzMFNm_IT2tSIsexl1sTa-LySVHV4VXgGr2V6mLeNp_fUW0X1ivcd3rI35S_KEkwNw87bjOkQVPWnXgNEt2qG0ZRmQu5HxY_oS6WvWbqzLmUq87Je5NVl6Tgg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "دارم روی پیاده‌سازی AUR کار می‌کنم البته اول دارم کار تحقیق اولیه رو انجام میدم که چطور پیاده‌سازی بشه.\u003cbr/\u003e\u003cbr/\u003eخب ساده‌ترین راهی که می‌شه انجامش داد اینه که بیایم و با bwrap همه چیز رو بکنیم توی سندباکس\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://wiki.archlinux.org/title/Bubblewrap\" target=\"_blank\" rel=\"noopener\"\u003ehttps://wiki.archlinux.org/title/Bubblewrap\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینطوری حس می‌کنم خطرات جانی کمتری داشته باشه ولی خب در هر صورت باید پیاده‌سازی اولیه درست انجام بشه که مشکلات زیادی پیش نیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-21T06:21:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-09-21T06:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/T8R2GgSaS49i0mei4G9PZp4mJsFGU02YwC1Lqs_ECbVQ_7vpTWPUank8VG7FLye1U2LkNsgPN4m4uOVdlxjcGbImMg5LlsE_KLMWr07fGWzndldBnWE9h0WypV0IlupQfucDrVvQ82LVFdXjXvUcXfdQWTVuadHwLI30REb89E-GqC-kuq7Q2qC3PYYClBTK2BRNVgfluaUCbfymYxpHKi84HUw-_DzAVX-_0aN1IZ17v_L1mLS2641PMEo0-vCmbxS7mgsxbktT2TwVDJOvwTyvOyNr-9xVfOZ9wQP0zL9rWqTAy42u4pvNUTWuA7gRAY4LvFYattNV3ZX5D7rC9Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/nxKDf1to9nr2Dp9-5YbPqBxo54b3RZzW1apaMHA6liA9jGbPCPscrq5rs5jZ9_eTID9v7vJKrvuvrwxTvLB4pgqgqUegZrW7lSlOAfFd3kuB2esClAU3Mr2R8iKksh5o6YvT_JTreblkOCSPew55-HB9AczEpo9f8-l9h6So2vC4Q8Ztn62LKM76m8BYJ9SxReYfZ7t7VAPo6WngLwa9pt4wyHoxLUGeT3IMOZrIYyjGtZJc7v2kxHmLPZlXKIdYku7EdEcl99tMtXcHAL4SnY4MglfggAr8x3ZaqUBV41NLbdHjngq90Ux86A-_9foho_57WkTDSjPmFnbj0S-M5w.jpg"
         }
       ]
     },
@@ -60,7 +42,7 @@
       "date": "2026-09-21T12:59:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +61,7 @@
       "date": "2026-09-21T17:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 965,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-09-22T08:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-09-25T18:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 805,
+      "views": 815,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-09-25T19:29:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 765,
+      "views": 796,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +137,7 @@
       "date": "2026-09-25T19:55:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +149,7 @@
       "date": "2026-09-27T15:15:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 878,
+      "views": 891,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +161,7 @@
       "date": "2026-09-27T17:39:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 873,
+      "views": 882,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +173,7 @@
       "date": "2026-09-27T17:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 955,
+      "views": 980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +185,7 @@
       "date": "2026-09-27T18:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 943,
+      "views": 966,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +197,7 @@
       "date": "2026-09-28T06:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 985,
+      "views": 994,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +205,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VHplrGwWpc8jgPN0_-Zz_c9lm5QKCKTJgV5p_X0rgo4VyBg5ZxwSfhweHLmKLj4RrM3DH0RVXzt-TLnFd2H9RyyTZ1PNywKfFSsUDG35dKkvrp4MLj6QwJ3FvpOll1qHpwxtcJeaQGNPkG_cfElw3u_6jRlPIZ_fS6ur0sHSaatPXtXk2bYqmxucIrd4_9sS1BvOEUzL9SXX84txqzCN7Zygzq9BCT3rMfAlBk0yrstgM6DShoLor6D4qFERQUFHaloTxWzrRm-Eigi3uljFopscwqCacr6lSaxq5YAYq9YCfK21DtTBsV3kf19u1pHc-TkeId6jL6RizskmJj_xpg.jpg"
+          "url": "https://cdn4.telesco.pe/file/RG8rCTbBguhVy5qKYuHoUGL29ISa-EnwKBK0x20NqrJMrezcd_cfhs0t07dOwUmRhqb-U2yRR_6qsXkqSDLmG8mjLitW3pcoDXw0HDurJHk9a6L16Ff5R1m2ZJMgoCkqMC0Xrxr8cplA3wyo-ggqgSO2CCgpppiXvYFfgYkB8-TocuKCNwfrNp9ge4kAWzU-BeXEQuoCQH1jWMo_zf-UeEE82ud84v5xK_ccXq7Z-RezGiJ7dG3vkBvhdA_KARM3iPVEpMDjKUPYax49Tau8GEWS5JnLwJQUDr1V0qbs0g-1yk7xHLXq65xtTfYmrLY1Jpu2pbeLvxbyJ0ELpKzwZA.jpg"
         }
       ]
     },
@@ -233,7 +215,7 @@
       "date": "2026-09-28T14:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2140,
+      "views": 2170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +233,7 @@
       "date": "2026-09-28T14:57:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +245,7 @@
       "date": "2026-09-29T13:42:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 699,
+      "views": 722,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +263,7 @@
       "date": "2026-09-29T15:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +275,7 @@
       "date": "2026-09-30T19:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 227,
+      "views": 320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +286,26 @@
           "url": "https://cdn4.telesco.pe/file/IVWyE9Zno4dr1-ClhFhMaFsAZwGuj09JCiA7_e7qJ-Tr-px0pQnGg6wW8E61_1xvl6uK7M-GBxldTCcAa1qejKy_-cih7gG5OV20lSgpxy948jrPUnR4k1uY3L6p8v5nZl3znfgLRNUMwUvY_362UqbEe1G-FR7-uo6Bk3qkl3BYA-OSa7I_VT7JoRYN4QxPZQsw3GnFRnqmRiDFUc3vcKrA-HSOOu-Nzz8roUdhiSNTPtSusHUEU2vZCZB0guwpjAV9UduiHzWvwZKQpq-1YJCyGQRIzepheeo_sU1Zjjtzz3oSgA9Vj2ABv_wL2solKw6b9ov0_BFL0wGgZLhJ8Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "به زودی در گیم‌هاب، ابزار جامع پارچ لینوکس برای مدیریت لانچرهای بازی و پروتون، قادر خواهید بود تا با جستجوی عنوان بازی از اجرای صحیح آن بر روی سیستم خودتون مطلع بشید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ویژگی به زودی در نسخه ۰.۲ گیم‌هاب منتشر می‌شود؛ منتظر باشید :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-10-01T05:23:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 116,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hu9xvpjeSzgem8tzpBCikfW2yEVPGVAFlFLyy88LH18qcnfbgXybmHG4CuuYWvYpsePWh52rxWOwWdJnFg7KSwhlC2tKvib3bEQeP_sAI3NaA-pNG7twjkVtcBH1AV-L0kpigJZUivbM8rEDEW_iv_PrTiC-LjKhm2bsQsHbvKtTWne66Oglu1Ax8oBJO8gpADIH3Dat-OGZylHN7LTQkUtwtHqehzrsKsNqx91Q1eejAMb236zM1Lxl94Ec22Qqw7rjNGqjHndg1svv-wJwmUsaOd3lCtQl-ccHrJvTcgeHGs9hQYry3HjsqfcIyDBM86RX-ZclpE6EMbBtbK3iaw",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1790813780
+  "last_updated": 1790835282
 }
