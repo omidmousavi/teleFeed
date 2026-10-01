@@ -3,72 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/sJvcpBuf1NkGLwmsrGotX1QOAA-cyUpkhhGFaYFj4KSDNtMmgvKKyGzSA5uGflMgnMf0j24mZop810FJazGFpI2vt0Vk3lliCnSlJnkYGllmuJjFR5QQLXwRkqRPn3WnRuQIn0Bvmqad7dcAVUT6ILdqEldHlxNCxGmt_uwnEyVwGpgtX58-1kzLWyU_EsAV1XySQXMB6EXN2URmLJsbKMjBQPoK2fpHeA142yE6GYu_ZixbfWBk3Ih1jK4S4OH8KPCi-KyQ_zJQwhCdBHqcnqdhsxifYFNkZlilhqEgLukRZ_ogYAKfv9q7OSZNz2gyyxPg_T-PV8yO0Z2eqsLbZQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/YOMUl66yHT9bge-ScaZot59bkX8gzin-GkFaZxnxES_V_OCqSALFMYjgykg8eU5afSrLjuqckvAxpY4tC85ySGwestCj2ug5k_tIzxoEsI5SMgC0OFi0mpqw1DGm0LyozctyIAlMI5mkeYVHDx4cxHlRNpQl5hiHl0iF5trebAZDI4j4bC_4dL6TuFHlesfDt_l3jrzgDxkzJhlW02wY19HXCMkoaEWl9g8j6GIpFhk4-9o36y5kbOvMfdgUisZK_ky0DHyM6lSOhUxKTWF1MEuNX09XFC_YGdvbEPcx7iIDW-kCk8m_Q7DS-vVeWDSJ_RguYSZAICrFLN9GvMFmUQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "اگه توی پایتون تشخیص اشیاء کار می‌کنید، احتمالاً یه جایی به Tracking نیاز پیدا می‌کنید؛ جایی که فقط اینکه این آبجکت کجاست؟ کافی نیست و باید بدونید این همون آبجکت قبلیه یا نه؟\u003cbr/\u003e\u003cbr/\u003eکتابخونه Roboflow Trackers یه کتابخونه پایتون برای Multi-Object Tracking هستش که می‌تونه خروجی مدل‌هایی مثل YOLO رو بگیره و بین فریم‌های مختلف برای هر آبجکت ID ثابت نگه داره؛ مثلاً ماشین #12 یا Person #7 رو در طول ویدیو دنبال کنه.\u003cbr/\u003e\u003cbr/\u003eداخلش الگوریتم‌های معروفی مثل ByteTrack، BoT-SORT، OC-SORT و SORT وجود داره و برای کارهایی مثل شمارش افراد و خودروها، Line Crossing، تحلیل مسیر حرکت، تخمین سرعت و Video Analytics خیلی کاربردیه:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/roboflow/trackers\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/roboflow/trackers\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-30T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/k_5lgLlLJPRMeqFQcAsN4XJT4ikMYmXIjcwozIXSpZRh-nF3vglXXZ1zJIegLsvxwjw3QWA6GeRXrrBqafKAbyKkR6xkpS_Ticu_rm9OA8VapHLE3iqxetaJcA_jq2lVtqhKQkIqtwwqNcuPbtPzTwMIZBMkKf1mEMT1rDTMfA7AMGpAGlaHgMlvYYnevTjw7nY60OpDJCVApSjnM_q5EImN8cGd857imjpOCOpsI77ULsg4P2ra8GadLkY8dmdzWY-nc44X7Lh_fRK6M641N1SWsPItBL2mFcr2Okkh9oUSer4BNJW1BrsOfD2y7Xl0FKDNlc4FEFgle6nCr10CEw",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه مدل جهان ویدیویی (Video World Model) می‌تونه یک کلیپ کاملاً باورپذیر تولید کنه، اما همچنان ممکنه فیزیک صحنه رو به‌درستی درک یا شبیه‌سازی نکنه، محقق‌های انویدیا به‌تازگی Physis-Lang رو منتشر کردن؛ یه چارچوب متن‌باز و خودتکامل‌یابنده که استدلال فیزیکی رو به کپشن‌های ویدیو اضافه می‌کنه.\u003cbr/\u003e\u003cbr/\u003eاین کپشن‌ها توضیح میدن که چرا و چطور اتفاقات داخل یه صحنه رخ میدن. محقق ها گفتن ما از این کپشن‌ها برای فاین‌تیون کردن مدل‌های جهان استفاده می‌کنیم و همین استدلال‌های فیزیکی رو هم موقع تولید ویدیو، به پرامپت‌ها اضافه می‌کنیم.\u003cbr/\u003e\u003cbr/\u003eفقط اضافه کردن استدلال فیزیکی به پرامپت باعث شد امتیاز مدل NVIDIA Cosmos 3 در بنچمارک PhyGenBench، بدون اینکه خود مدل دوباره آموزش داده بشه، 5.62 امتیاز بهتر بشه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://physis-intelligence.github.io/physis-lang-web\" target=\"_blank\" rel=\"noopener\"\u003ephysis-intelligence.github.io/physis-lang-web\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-30T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/im4yTBUDwuaQxdDILa0I32W7CzhbqynnGulqV9kESgcTjw-3QEgwHWsaWgKpzs7B48bT4YRO5HtvitP5_Dkgz2b_m5z-Ub6Qk9jBgCWEvz4h6Q88otSRU7pQXdjBE4uz697lpI9K7gqMXjyRR_le9FjFI77O-9MoxY3WZM5I0626ggdAiAwYECRh435NtlPmJ6nhtG_8hgpX02EuyE8I_twT7078trcqnS_jxHix83HZYxSAyFTHnTtoxz41_FF5-ZTiIwLTurKYwY4ssk29KaBR5cTTu2nWxu_z-WkJsvtgBDUAbJsJp-4_Sc_ynSSEZnmEtGUJlDOGnvyOogCsCQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بچه‌ها اگه درگیر مقاله یا پایان‌نامه‌ هستین، OpenAlex رو امتحان کنین، واسه وقتیه که می‌خواین چند سال پژوهش یه موضوع رو یک‌جا بررسی کنین، رایگان هم هست، تو کار آخرم واقعا عالی بود...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://openalex.org/\" target=\"_blank\" rel=\"noopener\"\u003eopenalex.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ JustSherko",
-      "date": "2026-09-30T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lCLRYX_Gx2Kvp-krzXXNKrhdWI9Sq8Gy6cyaFr5MhelYImpmN2wUTl03oAVXWSU3dZAhAACICRJXUJTS9wtUK0FO4-aeF0hDxoOzU6kynyV9vYetsRxTbfDuiQOU7UJc_PuCQ-PEFhRqU9cDsVynsV7B4aUe1oLX45C7DZ6951iNMyylPCLfjEaFzL_Fh7fPv5qn-6QBRtmPsVvjd4_kNUqrXAdU9q0oCfQPNGOA9_PJ0CytCvqIXBscXk5WVJANVWryB4OIPttQp73f9ex2tJU3lSvwjxeVehxTkDesLhYPO1NIE54EYZ2XZP61VWpYfI5za8X5ML0E4QtH2Xspug.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "اینکه میگن ورژن 4 جدید جمنای خروجیش یک میلیون توکنیه من چنگی به دلم زیاد نزد چون مقدار توکن ورودی بیشتر مهم تره تا خروجی؛ یاد دوران دانشگاه افتادم وسط امتحان الکی برگه خالی میگرفتم هیچی توش نمیتونستم بنویسم بقیه هم استرس میگرفتن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eجمنای جدید هم تعداد زیادی برگه خالی گرفته اینکه بتونه پرش کنه یا نه دیگه خدا میدونه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-01T00:49:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 7400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +24,7 @@
       "date": "2026-10-01T09:17:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +42,7 @@
       "date": "2026-10-01T09:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +60,7 @@
       "date": "2026-10-01T09:46:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6560,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +79,7 @@
       "date": "2026-10-01T10:34:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 6370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +97,7 @@
       "date": "2026-10-01T12:02:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +116,7 @@
       "date": "2026-10-01T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +134,7 @@
       "date": "2026-10-01T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 5360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +152,7 @@
       "date": "2026-10-01T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 5310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +170,7 @@
       "date": "2026-10-01T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4650,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +189,7 @@
       "date": "2026-10-01T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +207,7 @@
       "date": "2026-10-01T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3920,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +226,7 @@
       "date": "2026-10-01T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3740,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +238,7 @@
       "date": "2026-10-01T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +256,7 @@
       "date": "2026-10-01T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 4290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +275,7 @@
       "date": "2026-10-01T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 4820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,12 +294,68 @@
       "date": "2026-10-01T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 970,
+      "views": 4550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اینم سرو صدای زیادی کرده بود گفتم شما عزیزای دل ازش بی بهره نمونید برای ساخت pdf هستش با رابط کاربری زیبای ری‌اکتی و shadcn خیلی غنیه 10 تا تم داره 40 تا کامپوننت مختلف داره\u003cbr/\u003e\u003cbr/\u003eتست آنلاین راهنما و دانلود:\u003cbr/\u003e\u003ca href=\"http://pdfcn.dev/docs\" target=\"_blank\" rel=\"noopener\"\u003epdfcn.dev/docs\u003c/a\u003e\u003cbr/\u003eسورس کد‌:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/shadcn-labs/pdfcn\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/shadcn-labs/pdfcn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T19:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SPWC39VwoP9fInFrIguDdfoU4PbNBLZdHNxda43vm5W_8tVnjEoOPfaCbdDChhvOz_WDyrbM1ZHLEUGPOxp4FRfg84mnCnynI5VcFYbiJ8twfFCQBigsszlMHsNXJtkiHc4kt-DzT1YkwBJckKa7cDzcrH5yCQL7FTA2F9JEQZf62Kg9Vli2CT8Kxt2xen5rSpwjr4y8VlKem82m2EGWhR0LQGz8cx0QL6NKXl_u4LF1g_MoYG1epKQx-2ohzjLRzNX7eOVssFq5ZD5bHkLmBYXHthAiZ3cvsFBX9FNepZwBgAcjPBOwn-jtwb2Dmx5PR9QwHmuf5ZlhELhsbQkI6w",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اقا من شکست عشقی خوردم چت جی پی تی جوابمو نمیده!\u003cbr/\u003eچت جی پی تی سین میکنه جوابمو نمیده! مشکل نت و ... نیستشا میره فکر و سرچم حتی میکنه ولی هیچی نمیگه!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T21:37:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/c78VdFTo3ot6SFohknzwNlsDSz9ObberWbo7-MgmSC0JtkFYMP30LVDQxBBVaFhlc29aGUh9c9kOsuM2Iafp5VrZvyDe4Vdk2wBYdWYykpPrMypUlrDy5xy7A05X7V9IeIy2B0xXsMVMKnfrTUEjnqpA8oczQkdFgnosg_K5sha0Xls7Vu62uJp8DKrTFgq_V8nkm2bgLUfZwDgS1WIaJUFFPqZhyMjbR8SIMcb4vsTPcdJTQ7FksXSxHPAaVtv3bYfY-BtWHZB9xKyyKWt6GFj-R4YfBWk9aR1VXDqL-k4xJL0BdTAEiP6TQGmZUrxe8UaE6zm-wWEjMEJiA7yoFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این ویدیو هم قشنگ بود از کراولر های وب\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T22:59:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vezRhZfR72tExw24rkcuSKJHzu9jRyKKXa5E37nbfYQRM36HDAzxob1ORmxlq7SOV3vVDUvHEXu3FqrnZDvtX8qYKHGCmjUCMZcZPVHlcYyzM-zqHgrL0LLW-qjP1Z6ksMnvpRP0rhuqoPpRhkHab7vytroLqCUouNORjKtyMFplCGsawooXTndrCRw-LhKfQQwRDaoCiTBN6rdwyCbPLMZPTqNgpLPIIDjyVDu_SBJzvEZaKqsGZdmyZfAykUo2_GfRF_m4caxqtQ8AiSBVRcTuTlznmg5_vlsIeBXNlcd2rR8ulw9GjNcNgrFBHvkB4D7wPXHkAnspPe7D9nQW7g",
+          "width": 1440
+        }
+      ]
     }
   ],
-  "last_updated": 1790881725
+  "last_updated": 1790896639
 }
