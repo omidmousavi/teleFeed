@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دارم روی پیاده‌سازی AUR کار می‌کنم البته اول دارم کار تحقیق اولیه رو انجام میدم که چطور پیاده‌سازی بشه.\u003cbr/\u003e\u003cbr/\u003eخب ساده‌ترین راهی که می‌شه انجامش داد اینه که بیایم و با bwrap همه چیز رو بکنیم توی سندباکس\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://wiki.archlinux.org/title/Bubblewrap\" target=\"_blank\" rel=\"noopener\"\u003ehttps://wiki.archlinux.org/title/Bubblewrap\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاینطوری حس می‌کنم خطرات جانی کمتری داشته باشه ولی خب در هر صورت باید پیاده‌سازی اولیه درست انجام بشه که مشکلات زیادی پیش نیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-21T06:21:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "یک همچین مدلی؛ البته خب اسکنر aur چندان بدرد بخور نیست اگر روش جدیدی پیدا بشه برای الوده‌سازی سیستم و همون bwrap به نظرم منطقی‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-21T06:29:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nxKDf1to9nr2Dp9-5YbPqBxo54b3RZzW1apaMHA6liA9jGbPCPscrq5rs5jZ9_eTID9v7vJKrvuvrwxTvLB4pgqgqUegZrW7lSlOAfFd3kuB2esClAU3Mr2R8iKksh5o6YvT_JTreblkOCSPew55-HB9AczEpo9f8-l9h6So2vC4Q8Ztn62LKM76m8BYJ9SxReYfZ7t7VAPo6WngLwa9pt4wyHoxLUGeT3IMOZrIYyjGtZJc7v2kxHmLPZlXKIdYku7EdEcl99tMtXcHAL4SnY4MglfggAr8x3ZaqUBV41NLbdHjngq90Ux86A-_9foho_57WkTDSjPmFnbj0S-M5w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "الان پاستور هندلر داره و خب این یک قدم مارو به این نزدیک‌تر می‌کنه که فضایی رو برای توسعه دهندگان فراهم کنیم تا بتونن برنامه‌هاشون رو روی پارچ منتشر کنن.\u003cbr/\u003e\u003cbr/\u003eبه‌زودی هم امکاناتی که قبلاً درموردش صحبت شده بود رو هم اضافه می‌کنم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-21T12:59:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/TpBYd5LN0b7O-Djy1PbfHsj7yCl8x5j4sufUjqEDTpwJqCuzNEAO5JMXrFtvOvN2x2Mu66OhdkShSXX1iwhYWi65CPi7NHvZZUSm9De0gI5bvsczwRviiNPgn07sW7SJ0UiixsoPjkwg2-8VWEbWdq_xPh9hJ3_ADqlGrRdBHbwtAsS7LM99g3dLE31ZAx3YYAUNwvc80A6cEDkDcNPiEM5FrsuQZh1ul0E9IsL9VO5-HLa1JAOI3Pwl8ntbLYFbdeZuW_qCIx4W-64_Z2_ImEiaVDfJH9TS5IWNrWW06QSmktrCkaGCSSCKoRMftqdDaUCcQoLwhLtlBMnjhhu2Pg",
+          "url": "https://cdn4.telesco.pe/file/g5WR58QvCUyoLDWVXyEgWCoz5JzTdKHqZ26jfPDb-6x7DozkMeFeSEGb73M1GAX5yOmLT-CgcZdThvD4bmH2nB5oCqjyWmLPKse6zJKyvigd8fD4veg0DP8gKFAgzrq7NpTkIPu1Wyk1a0bWGcucmUDUC3EIOmqSX-NidSaZlxvRduB5EuVh6TUME-sZYIwg5aytqEhTl2vCnyjfRHhSYb06iZa-iEmMn9Me2IwQFYaF4ONgTdBNxx077PgoS_2A7cq6SrhBog0zL7Os3iAruPljBIuLX_ZJVmyqKYw5pQg9L4ka7Z97HRbRkispcddTNFbianOikdhFOjk_Ael8qA",
           "width": 1920
         }
       ]
@@ -61,7 +31,7 @@
       "date": "2026-09-21T17:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 965,
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +49,7 @@
       "date": "2026-09-22T08:46:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y5dEARfN8XygxTC941FvK3babsLsmQssoBa3aEvL959TvreBLfHjDhjpI7LRjX_fvw64Da7mKPDgg5khBAknZ_0BLDvB_QWybXp0A72iaHapv0oz_irK1lfgOZEpLvjXG0p30DODheBi2jQcmETB6gRxgDhHC5f4UySoee-ZQkiQZdVWXGPsZRpRncZTxuAw5c_vjP6gkQnMe-3iBKuUJpQEQMQ5nLC-O1iM6ujgaBY_nLXSamBDOIKa5smll6EEfR2c3r4F5B8CDG37zVlBcJUVqhdvIGq5gUsKpa2hqWvb58mUPXBpSgeulIZgk3YACSq3ZtNybO4ZLI31K7SyLA.jpg"
+          "url": "https://cdn4.telesco.pe/file/owTpCGQ54yq6C5t3GnvVsErpum-00Lqc5EEerLvew0XHEkiUGTSdN4HF_J9zCIWUjmPSfhgIqLP2q2Ywr26-QP7NTYoM1R_ZYF7-sgjF5-DhVDlSJsMof3vu1jBWjBWYy6PEcVsWK5l3Nqoz7Hja7J6cJOJOkKrFDEvB40fKL8lkmNIiWZu7dOj1COFEm4ugm17aPR146VaLTuxPTmGr09532EGOipZdmGAT-8gkEtRMKu8Q68jnlwan3Fbg6yxwq1AQOHcVOtL-O-PqncvxPxG-5AU-lcqlVXt47gelda5f25M-0DQQg0NYjzWUoi5TrKZXzGakUTgrB8DIpj8Yxw.jpg"
         }
       ]
     },
@@ -97,7 +67,7 @@
       "date": "2026-09-25T18:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 815,
+      "views": 839,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +85,7 @@
       "date": "2026-09-25T19:29:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 847,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +107,7 @@
       "date": "2026-09-25T19:55:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +119,7 @@
       "date": "2026-09-27T15:15:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 891,
+      "views": 946,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +131,7 @@
       "date": "2026-09-27T17:39:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 882,
+      "views": 911,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +143,7 @@
       "date": "2026-09-27T17:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 980,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +155,7 @@
       "date": "2026-09-27T18:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 966,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +167,7 @@
       "date": "2026-09-28T06:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 994,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +185,7 @@
       "date": "2026-09-28T14:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2170,
+      "views": 2230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +203,7 @@
       "date": "2026-09-28T14:57:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
+      "views": 1460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +215,7 @@
       "date": "2026-09-29T13:42:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 722,
+      "views": 767,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +223,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p1vUjhUyMTmr40r7QLFv9ItFXmsX5pYVZS3MFLRaClbA_WLHbMLDpzdbHlxcH-yK3lBTV-94-I7zvzcfsGdQtjEcEBAmeVN3pofGyQPPiYp3fBnTxrF4DI0ft9NIJDcDKA3vBTz8pNmyqZ0H5GtcHt7BQsYQPhi7S9N9Ue8JC48YQQzOr_IfqgpFX5-rhWiaUv7HCM2b3NsgZPpR2jhACtPo6IZKDS8a6MUn00cl9f5FXcSOoI0DNv9J8D5DaN3hAN5NEs6GFqh6VuwfwGWnDdVktV59sbaurIb0OndD_W86otNjXonGXMSUOswA9n1zPGS1rdKN43njp07zyRC4wQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/UnEMS5N9sbnQsObgg2ghmxk1Moo9TCcetavzwmbDCQI6GZlj3xcYo8dpnmMLeCu2Y2d01J2ZoZ0kMsIaMJWZzTkMD1_5aoTThkg9NgPfIWQYlRBwZ4BxegHlNEW1la13ro0VE7FTl1c9dXBSTxgR4a9TkjzGY_zMky_Zc4jrliT-V2POWKC5QJ8ssyROHcZZOWWRZ4S16QXIclpHxHEL43q8281ElRgc9KBbMWUrAODv1K7VbVp2_YZ5tnUzDE__4_AGqxPHUpjEH82ljHhy94xUGsP-vBlZM_ZzKJET_XIyHuuF9R1J6JEVZXzgT-hq8Zau4uSPYac7grmIlerzEw.jpg"
         }
       ]
     },
@@ -263,7 +233,7 @@
       "date": "2026-09-29T15:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 1470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +245,7 @@
       "date": "2026-09-30T19:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 320,
+      "views": 494,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +263,7 @@
       "date": "2026-10-01T05:23:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116,
+      "views": 414,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -305,7 +275,43 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نگارش آزمایشی پارچ هایپرلند عرضه شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه آزمایشی نیازمند تست و آزمایش افراد بوده و بعد از اطمینان از کارکرد صحیح در رلیزهای آتی از RC در آمده و در سایت قرار می‌گیرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه توسط تیم پارچ نگهداری می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://mirror.parchlinux.ir/hyprland/Parchlinux-hyprland-latest.iso\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدریافت این نسخه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-10-01T10:47:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 298,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qf_gNvAjkBilPdTyRtI5gBHRMRaLFoyRsmT33SAHQ1zuixa59qmU-jYVs754NYPxj6N3w9GwOhViCZ2fIP2y-rGFP-EISjDx7I90vRUkc3AAV4aTUXmXdhRbZOexURaES7e-IiGNkkCnxGew_EEWSCY3AssdlWoj4WVHUAXqPKDXKP-uhfWGjIpAUU0qVJHXW7AKVWb0hU-oWqw-xH8tyYjqN7za9YyGhWIaYACW5_fOnztQHWWXp8r3gpSZdLM0PZxN4TaNGiTYDsZlg5NHR4y8lm5JmMMjxyw2yb3tEVKfn9iXTFvqK5dgLhTzIoZg3OoQf7XK743C7SgavaaljA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "خودم به شخصه با اینکه فن هایپرلند نیستم ولی این نسخه رو دارم تست می‌کنم که بازخورد بدم.\u003cbr/\u003e\u003cbr/\u003eتنها رلیزی از پارچ هستش که خودم هیچ کاری روش انجام ندادم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-10-01T11:56:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 281,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HNr7Zn4IGxrgGIBnCzCSxEl5hB8c6FFoIPoFMpo5uLX5ey67NjsfawAirx2SgSD1KEhouqn3HhUXhRPxRrGKh9Igbk3T6s8bR8Mo1LTBNfAMAPwsWaqepRZ7q3DVvgebM-q-j7595OV31PXMt0cG6mVMTQw57xUBy1sE1jQLm4x8skp5w6drjtUVlNW-_xduOON7jBfAaVTvW2Z3AhzHBhQPyfD7DWJSxyvK50pu8xIwvkJ5OjzmgSPOx0o5Yaqqo8kxKKUbeE05T4nnuqxAu1X-vIG8N3a9vT-4F103HxPUw6rKoWqbddm5YKKJMGUqK9_WR89XCWg0q36dBtqoRg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790835282
+  "last_updated": 1790861873
 }

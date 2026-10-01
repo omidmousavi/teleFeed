@@ -8,97 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "با یکی از رفیقام که مثل خودم مهندس نرم افزاره داشتم صحبت میکردم بهش گفتم بیا یه خرده فروشی آنلاین راه بندازیم بعدش گفت نه این همه سابقه و درسو دانشگاه گذروندم عمرا همچین کاری کنم خیلی جالب بود تفکرش دقیقا مخالف من بود من حاضرم اون مدرک مهندسیم و هرچی سابقه توی نرم افزار دارم رو سر ببرم بریزم آشغالی فقط مارکت خرده فروشی منو راه بده؛ خرده فروشی تا دلت بخواد میتونه بزرگ بشه مثل دیجی کالا؛ البته کنار هم جمع کردن اجزای سیستم که هم بشه مقایس پذیرش کرد هم درآمدش مثبت باشه کار ساده ای نیست کار یک مهندس نیست باید چندین مهندس از رشته متفاوت باهم جلو ببرنش‌.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-29T22:02:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "نرم افزار محبوب Ollama حالا از مدل‌های تصمیم‌گیری شبیه Jev به‌صورت کاملاً لوکال پشتیبانی می‌کنه.\u003cbr/\u003eاز مدل‌های تصمیم‌گیری مثل Nimble می‌تونی برای کارهایی مثل دسته‌بندی و اولویت‌بندی تیکت‌ها (ticket triaging)، انتخاب و مسیریابی مدل مناسب (model routing) و مدیریت و نظارت روی محتوا (content moderation) استفاده کنی.\u003cbr/\u003e\u003cbr/\u003eدستورش :\u003cbr/\u003eollama pull nimble\u003cbr/\u003e\u003cbr/\u003eاینجا هم Nimble رو می‌بینیم که داره بازی Ollama Racer رو از طریق API جدید و لوکال /v1/systemone بازی می‌کنه و در لحظه تصمیم می‌گیره. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-30T10:55:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Z1Yh6TO0fD1R6fpVSCgbII0Wr1EnGNj03IYNqWwA97hnR1qb22V6f3Pash7CtygB1NJEVIvk3ohoJYbgrcPrY_Z3eZ41Nf4jnwpriNsY28yzu-1Jbd9KCsMPORTE_KoZJu1DqUe5QzMqlQjPVHn5GIqB3KEBnmdbuLSWUHMcWXVXz2trulMpnr1dsmssEMQpEYdipJVvwIcOf4yJnetWjM-fbb7ItTh2vw6_B8PGZpNO2J-VWrm2WALHqU5fnHhYgfyZlGAp_-8kkqsxHqXgk6T4oLT2MKB_9fZh9aGKNGPjklx5T_s0XZm50lyRB-ioUDJpPXAg--_ZlsgvNX08fQ",
-          "width": 3360
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به گفته Ollama مدل Nimble در حد Jev عمل می‌کنه و اکنون روی Ollama در دسترسه! \u003cbr/\u003e\u003cbr/\u003eحجم مدل حدودا 10 گیگه:\u003cbr/\u003e\u003ca href=\"http://ollama.com/library/nimble\" target=\"_blank\" rel=\"noopener\"\u003eollama.com/library/nimble\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-30T11:10:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iPAkNyRyX-t_WdqR04NZjZM6eeiodzQdDcLQY01a8NPMZdDFkTrpcI9z7qCxWHVXRJMttu_txNI7j8u2VBsENT5BsRujBd8MPnMO1FNCdDU45gjBuz5o-sryryRQYKZfvUjr6ylh5UeLgnJ409n3kzwr5xep4N0Iq5TPcBBMEwBI1cAKViv1gLVVvqZ4l30xy1gFSMkCZCAwsKWmjfHVJkCqv69bcCWpxTR46Ag7e5Le7xYFH86xImo_ncUNTTNLj5Dx2nsRep-1dr6tvj3Oq67HzGpQfmBoqEthUJrWl-mmY7p4Z-tJ-NU9h-flJSpXjrinue-Mcsc2YUc3qCFMaw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شاید قیمت ها باور نکنی،فقط کافیه اولین سفارش خودت ثبت کنی !\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e Gemini Pro | 18 ماه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7B7.png\u0026#39;)\"\u003e\u003cb\u003e🧷\u003c/b\u003e\u003c/i\u003e \u003cb\u003e399 هزارتومان\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e Duolingo Super \u003cb\u003e\u003cbr/\u003e2 ماه - 149 هزارتومان\u003cbr/\u003e12 ماه - 389 هزارتومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ChatGPT | Claude | Grok | Spotify\u003cbr/\u003eگاما | پریلکستی | نوشن | لاویبل | گرامرلی | تریدنیگ ویو | لینکدین | کورسرا | کپ کات | فیگما | کنوا | استارز و پرمیوم تلگرام | و... \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e تضمین کمترین قیمت با ضمانت کامل\u003cbr/\u003eفقط کافیه اسم سرویسی که نیاز داری اطلاع بدی \u003cbr/\u003e━━━━━━━━━━━━\u003cbr/\u003eلینک کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/Baraye_Harzamani\" target=\"_blank\"\u003e@Baraye_Harzamani\u003c/a\u003e\u003cbr/\u003eاعتماد و رضایت مشتری:\u003cbr/\u003e\u003ca href=\"https://t.me/etemad_baraye\" target=\"_blank\"\u003e@etemad_baraye\u003c/a\u003e\u003cbr/\u003eجهت ثبت سفارش و مشاوره خرید:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Amir_oll\" target=\"_blank\"\u003e@Amir_oll\u003c/a\u003e",
-      "date": "2026-09-30T12:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pS6Ywu1AhJwapfJ8svYWKqM3_wRz_bHK-rFpDrX7av2VIcf3zesgt6pVfuRmGvwb_jPGl58NPABXp0pFG7mUpzAXh8BRgrkNQHXgEmxM62YkjP-A_kC1el3RGE5Z0i2gTZV1i0vM8g0KWNNmosqP3_8cviCOHXiJb2rIURAFZd_w4L09p28CHrbtnUBeYMQ3TXnWacy48c4u7GYlLYAd6Hx3KIAV8_nRnvsLDk7fLfskPD0yEwlB8OzlkZpvwqRDEU_p8zZg3Lw1AjN7RatQ96NRwkBnNsmZVcYm8td1FyfbrwpyH7i2DKWR7W9rB5MFYuxSu3qdYo3mGd9Ws3rfiA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هنوز ساعاتی نگذشته از معرفی  OpenAI-Dots یه عده اومدن نسخه اوپن سورسش به اسم Open-Dots رو ساختن\u003cbr/\u003e\u003cbr/\u003eاستفاده از کامپیوتر: مرورگر، ترمینال و فایل‌ها\u003cbr/\u003eاتصال به اپ‌های شخصی خودت\u003cbr/\u003eرایگان، متن‌باز و سازگار با هر مدل زبانی (LLM)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Anil-matcha/Open-Dots\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Anil-matcha/Open-Dots\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-09-30T12:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/N98LBZeOawDzp801fS3vgcN2ZaQJS-8b2yD2yd-k9BpUtUKQ1Ra4aYxV6AjM305pzyM0LequsOR6mKVSs0PgS52HwjQ-uPecLJxvzs780irAHgo2LiAtyFQAMPigBu3HZNg41eXdLJK7pwqsdfFs50OwR_jTSpspubqBSCoLdOVB67DQv7TuIcfmVoA0w5LMvEBM-mxPd5xtzCadvkBrsScJUTW9VxLRhZkV6xnhtBlIc61WQcKj5t2u88NSU4m83g3IuPcy84r-rZhYkmAZckbbQ4CTy-eiTqbjoZ_8WBmPZCIMiC7F7TNhrrzVLi0qk9Td7Pcau85gs7X1nz_hIA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یویتوب دیدم چند تا از کانال های انگلیسی زبانم دارن فارسی حرف میزنن خیلی برام عجیب بود، رفتم دیدم به همه زبان های زنده و مرده دنیا دوبلش کردن؛ دوستانی که تولید محتوا میکنن امسال مدل های خیلی خوبی برای دوبله و متن به صدا اومده بخش زیادیش هم توی کانال گذاشتم حتی بعضیاشون لوکال هم هستن\u003cbr/\u003e\u003cbr/\u003eبه نظرم با این قیمت دلار تولید محتوا توی یوتیوب بیارزه مخصوصا اگه بشه به همه زبان ها دوبلش کرد اینطوری چندین برابر مخاطب هدف و درآمد بیشتر میشه‌.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-09-30T12:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B9KAENwW6o-004mxAXuGehwUcNfBdJkfdgFkEIguployeMZiGaRyFp1YzOJoahacPCpAfOl47hm3MYu3gdO2XELehX9-O5Xbk7sz6-8D-GEH_wXh2nDJeNFVgSqPuykupgZrc0XWbWnrcIlL83jPL3vZGL4N_AOBJCrrTSdEmI4m1p1mzYuMpzxrg1kFhHV_YxkTiMOOVcQqXYDVG7NK82HkvlmbZirg6QtnDJ-fj9Vwd-LLDzMA6YYQnd1w8Zov8L0ejhHfxuigob-utKaun4tW3BYH8JV2I1aiT798PEeg2RQhYIa03BkyUO_zZfBNwPuXMAnuGhY2oDjprgcpZA.jpg"
+          "url": "https://cdn4.telesco.pe/file/SuNCDsBfsbUO6y9lhbMO-Qr0mUqC1zsyRDnq3KFalWWkjYlf9_-5xJA0685w4m_SAHU8MRfpktdgtLq2D8JTALum0TmBs1WD7o-mz4FDGLVwb1nuJ0W7je6IccjfWIKNxPEX0d8pueMGMOWO9SRsTxto2yr7HOq71qfGsF_wt4URq46Ux1-4Wv-1LgwX5euck2hgw1asA3ACjMqRSzNyoGJDz_DTefz25LlX1ZSNWGBSLIRVgZB550fUaaQQbKNj652hHOZXmq9SCJ5WOctGdyOld8iHp-4QGH6sLI4Zqhw04Ls96TjhPBWolcbxIneFvVPeLCuUBDvG570_iFUZhg.jpg"
         }
       ]
     },
@@ -116,7 +30,7 @@
       "date": "2026-09-30T13:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +38,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/s-yHSk8TbHA9Ti0M71e8SGpqNz1KfObUfcbU5ZxaxvjmTpIfZrXHfZUzcG58W5KrSQmTvbMzlxfyCqQrkfYL0mv2PRamE6Zy05AwTKn-UTsn5OSQZfu8cYfuZp0o6yFzsC2584gzBlfXFWFAl9tjIKMZLdheZoUohJ9cpLlMfJZVyHZwHPC8qV80aE0QgEj90FdUQI4IdvDugNO46c360-7eEV_t8hxev0pjHDt9yWVlFbhpFAeb4Fhn3eG08VcH1k2ganOHIfeNLm3je2tdJA_lKsdZeFbhmg5RPDhQx_gI96lS4n75Wx1gWj2JALPXCDcwIT1msu2zwM0mUQCwgw",
+          "url": "https://cdn4.telesco.pe/file/T-4uwHSHXPXmW1REr6wC742HJHfFv6oyKJJlZ-T1cAEDfOHeFc65JmO1dCvtKipNuv52dM1aO2wYgPEswp_hIbJlIotxWo_jV4prNzX7EVDc4igK-fN7_o8c_y2tUj8ln8m0utsAVT0Z-wcgQqhvw39J6ZTq1-WI46lG8ObWdzci6WFRuTs5RlOYpBowuHNtPoZ9PmqOkd3XsJqaPlfpwJ7RqYK6yL47fbHR7q8Sott4vWJj-Np8gDgYUakvNydu9wyEM4t1aElpQsa8K7PG50VVxJa8IiBj__kglqWSjer0Pu6pB07h_C0WYHkxaiA4nyaJkub4qizXvIqOq_PwrA",
           "width": 852
         }
       ]
@@ -135,7 +49,7 @@
       "date": "2026-09-30T14:29:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5280,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +61,7 @@
       "date": "2026-09-30T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5160,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +80,7 @@
       "date": "2026-09-30T14:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5300,
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +98,7 @@
       "date": "2026-09-30T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +117,7 @@
       "date": "2026-09-30T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +135,7 @@
       "date": "2026-09-30T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 5620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +153,7 @@
       "date": "2026-09-30T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +172,7 @@
       "date": "2026-09-30T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4820,
+      "views": 5670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +191,7 @@
       "date": "2026-09-30T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1260,
+      "views": 1670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +209,7 @@
       "date": "2026-09-30T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +228,7 @@
       "date": "2026-09-30T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +247,7 @@
       "date": "2026-09-30T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,12 +265,104 @@
       "date": "2026-10-01T00:49:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3040,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5834775782433492415\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eچالشو حل کن، اکانت Claude و Gemini ببر!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082801934608368265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  رمز جدول رو از طریق بات تلگرام کوئرا ارسال کن:\u003cbr/\u003e\u003ca href=\"https://t.me/programmingwithquera_bot\" target=\"_blank\"\u003e@programmingwithquera_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5212985021870123409\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمهلت ارسال پاسخ:\u003c/b\u003e \u003cbr/\u003eتا ساعت ۱۹ امروز",
+      "date": "2026-10-01T09:17:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/izPEyJ0thsZHmcojKNiGxtmCe5htSSByvSo1U6gjIiAm3U_V_-XsXc9HypZsmZLdKHa0r9SShrGe-v_iphPBqz-DyqO9LNssnei7qv3o8PhdTovGjxSAkgH_v9GjppUSr1R86Sry401QEib0mZigREJU-DKdoUHoz3hVnkS7msfKOusMkWJXa7k49SLK84xLl7ggyzmk-bHRSjvbUV9H6sjIvMAeFalJe2cRdD19nP9C-TBGRe0fCmsGBrgBpdi8MGv28b4haSnRezxRC9Sy9DNChK2LnLk7YU3uugP_u8EN8R58cVta_HgxSJNsoxuVNguOPePbEIh51MgN_a15Ow.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به گزارش استک اورفلو از هر چهار توسعه دهنده یک نفر از شغلش راضیه و دو نفر بی تفاوت و یک نفر ناراضی.\u003cbr/\u003e\u003cbr/\u003eنکته جالب اینجاست میزان رضایت کم نشده امسال 4 درصد بیشتر هم شده نسبت به سال پیش احتمالا بخاطر هوش مصنوعیه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T09:33:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/upvDftI-b-6q39u-6FY8t1X7XFvKq8S51MMkMiaB1oKVQ2gfo3S4l1wl1_AZE_CJsDt-4uNxA7JxmAW_VTumII2F8Q0D_fj5BRDnZlEArNaWsKHgQ6yjGEHsu21wkRV7raFHoqUDA7wnJovk3a8JdHDewBfUXQpQEVGbgHLo0G0eL60agtmnA1D5s6F32rBEhv73EF7FT6j5Xk7Bxtaz0EQRAv94mMqhdcWOuSMz-FHWcS4DSQOiW6HIYynpKx1Si_74S-F9rcmvGWdM1GHgKBaqXWzpjSLz0Gg_bmXvVKx48FRH9O0vHyAe3zWEVH0BuLjWJuFb4M0YhJsAAOA0vg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم گوگل شوخی می‌کنه یا جدیه این کیبورد که انگشت هات ثابتن و دکمه هاش حرکت میکنن رو معرفی کرده!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026\" target=\"_blank\" rel=\"noopener\"\u003eblog.google/intl/ja-jp/products/android-chrome-play/gboard-2026\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T09:46:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/pSGN_ai_Wnn1zfF83yD-tNZSp0f9gddZU9PvCwWgmnp0klV3WPJDuvsdRwfAcFFQAklXUJ3AUCPxdQLiAtJvCyDyjxliCv3Vi7bejWmYjaAhP6km9c4K0emKplhoJw9t4u0_LQ2IC8ya1g1s_7zCdjr2VkSjyTofZIrsGryPKWH4SBhhoGdZM93kXAMsThpc0CqSh9vU9WsMV69CisHwX_bE-URT-VS-e6jTlssU5VxsJ_KsXY7XBA_LJnwx633CgBrKXw8qijcvGcnSVLAVYFXuCdCV3L-l741HIWiEMi8Be_bahHpQfz6z_PVxoYHcfCVxkXAbmJ-9GLDBhawDIg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چت جی پی تی شروع کرده به نمایش تبلیغات؛\u003cbr/\u003eاین یه خبر خوبی میتونه باشه چون بخش بزرگی از درآمدش رو بجای فروش اشتراک میتونه بندازه گردن تبلیغات و درعوض محدودیت های کابرای رایگان رو کمتر کنه و همچنین مدل های قوی تر رو رایگان کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T10:34:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MiZ_ROcjdHJGXVyed5q_iYeX3wHl4Pdlxf2dyl4fSnbQjyvgmsEV7git2eeScj_mc0amwjukPKXciYN5VcNhCE4Yw5VMZGw2PdEW63Rj0YxA6cvvz0FnzWc0VXFYTt_YTQ5gs37AtCrHdAUy2lflcjcYozMRebaQ3QgWFsy9OakSXGesnAHvGtuHfrxXt69rzdsciQ75OrW4KQN0LUoRaovicLBewTc_snWM4UEaJn0HAagvr1xla8xHC74tAAvw_Cp0lER5E6nVC5lEK-KVjPRJONJxErOj0QQsgZQZ_eLpneVAa9kW8NsD8VQF7WSRzCiR18BDA264R6_zqfjcnQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ساخت قایق کنترلی با گوشی با برد ESP-32 با هزینه زیر یک میلیون تومن! فقط آخرش نمیدونم چرا غرق شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-01T12:02:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lBbhah-K-YnmtM9DgjfdhCGyCQU_WDl_puILIdGpciEiN9bm9UpLiq-b8ZpG_nTns2UP9djNW1zn1KFsMMx7jxLlSiu2_BPYobNFpgtYjwuC7wngNE4ohyvommcXEO3OBpGOhMUqlVBz209nHAaM5u4S4Cg9PbOabpkP6fTzSEgoFHYFEMsJ80D4F1W2ue7cOYeUErEFCbKFE_tFWJ1bBahDkwvo_ZFBBXCdRkKEgAOoJ0LzXGJsv7SRj7yN1eAXFnDHbtu26SLIEIEfz6ydhsl8u_KIy_ps3Pgu4x30yHLWOP1nNhsvD94J1hjcNgD6B2nRImwbqNhVrbwoul0jZQ",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1790835243
+  "last_updated": 1790861832
 }
