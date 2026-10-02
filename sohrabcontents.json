@@ -3,34 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/q57EOZyHwis3-m-SjdDkNXTBJ3TanQxebMKysrwSeeI9-oPY_v8oHUYyv58CWWGuv8bbM9fCJF6jFWWVPSfzx1HilNTwvVFKXSMQHBR8jl_JhINWapJj9tdotxqM7dhnyBcHfuounvJ-xrNU2vv0ttzsb7hVXNFo4upWyRWxyGP0pDuZ80YR17bB2gV1vn4vzvkkB1W3Voo-ADZ3i2f5MCj7yjb5b-h9Z4r4zqezDIlXiJY85NFVdKTEde5Wo1FyixNmaUjDBzWLZhPOeVNZkogqC2M3e1rKAcbCf6d_b8LBousHsf6EXe4hLYnPMz3cn-uwgklfObeFB_pPZCB3xw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/GIK6WUqO10kQ1byE0NzqtuVa8fx9lMplsrKyRXSMaW3d7fGrEgPQm49y3ajUW_ZsGyk5ghkQ7Lok_me_deDVDv7QUeG6mqXMt9HZZnE2sj84iY-AzrGqWSGqQHt4c1Qw12Oufff9Bc7ipxgbT3398qXMhluKJuPip1emkgDFSlOnwg5U0fhqkgAc9U9bpNbsNIp9U-16F6uWzRZ0WNUApqesAdm2wjTPQHYLh0MyiNUFmC2Q6mQ_fzyfj74UE_3PGXSJCWtj7sStyRjCyAKgfKqbGhMKTuSexZmhuwep5c7sHXTcQ95v29BeZRBdEX1VPWgPWM3-g2LGZk_mwAiL_g.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003eانتشار نسخه ۰.۲.۵ فروشگاه پارچ\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه پشتیبانی کامل از AUR اضافه شد؛ جستجو، نصب و بروزرسانی پکیج‌های AUR حالا مستقیم داخل فروشگاه پارچ انجام می‌شه. AUR طبق تعریف «با مسئولیت خود کاربر»هستش، برای همین یک خط لوله امنیتی دورش کشیدیم: اسکن PKGBUILD با سیزده قانون علیه الگوهای حمله شناخته‌شده، ساخت پکیج‌ها داخل سندباکس Bubblewrap بدون دسترسی به سیستم اصلی، تأیید صریح برای پکیج‌های جدید یا با نگهدارنده تغییریافته، و بازرسی آرتیفکت قبل از نصب.\u003cbr/\u003e\u003cbr/\u003eاز این نسخه فروشگاه از طرح‌های pastor:// و appstream:// هم پشتیبانی می‌کنه، یعنی صفحات وب و برنامه‌ها می‌تونن پکیج‌ها رو مستقیم داخل فروشگاه باز کنن. راه‌اندازی هم سریع‌تره چون فهرست پکیج‌ها پس‌زمینه بارگذاری می‌شه.\u003cbr/\u003e\u003cbr/\u003eبرنامه‌های پارچ رو در \u003ca href=\"http://apps.parchlinux.com/\" target=\"_blank\" rel=\"noopener\"\u003eapps.parchlinux.com\u003c/a\u003e ببینید و مستقیم با فروشگاه پارچ نصب کنید. به‌زودی توسعه‌دهنده‌ها هم می‌تونن برنامه‌هاشون رو خودشون در پارچ لینوکس منتشر کنن.\u003cbr/\u003e\u003cbr/\u003eبروزرسانی با:\u003cbr/\u003e\u003cpre\u003esudo pacman -Syu\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-09-22T08:46:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qWCO4NKa1psIUsmj-NkF7UKWaoWPoXveJ06Us1xkgeophUFIVf6K33dF_XK680tBqmEaPF-dzuJzqlMPAfn_n4TcdLAU4BHRpq4RqVkC2eK56N9Vf8-Zw5M8HdPBa2imT0zjfH2afPyfpW1jSnxN_O-ht4av8QVc7Q05bEXyOLPk5G5zgeOib4aolSb6EI5pN-6Oy_rIvT08W2qyWS656XcO7Ol7gZ6t3-k9R-S-hsAKaiif9YgkRTPVSwLjo-CzILxvdf-Dlh7CK7X2PklZKUhtSaRTnsCSTMS1FFs1XnZOOZTZGDBrHpl1q1gfiSumRW8Gk_ontaz7tkiGn4YFSw.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "یک سری پیاده‌سازی توی رابط‌کاربری و بک‌اند پارچ استور انجام دادم و الان حجم آپدیت رو نشون میده :)\u003cbr/\u003e\u003cbr/\u003eو همینطور اینکه از چه ورژنی داریم به چه ورژنی اپدیت می‌کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-25T18:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 875,
+      "views": 879,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-09-25T19:29:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 886,
+      "views": 893,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +52,7 @@
       "date": "2026-09-25T19:55:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +64,7 @@
       "date": "2026-09-27T15:15:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1070,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +76,7 @@
       "date": "2026-09-27T17:39:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +88,7 @@
       "date": "2026-09-27T17:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +100,7 @@
       "date": "2026-09-27T18:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +112,7 @@
       "date": "2026-09-28T06:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +130,7 @@
       "date": "2026-09-28T14:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2370,
+      "views": 2430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/B5c26Sc8M_RxFKRolVfJyLXx-9YyQ2t0nVb-H6g-BGb2vyRpHHt2o6zOCXWhwWXArLt8xqR3arbkY-m5mPjiGdD-I4ipHOJd4igHoe-8koQaadwJXvy9IJLX0A4WiQF7yLRk-NikKUP6VuQeINzRx9XqBVFFeexV0EyE-vbB2H71j7D6tUAMWyJh3eg3AVte6jCGixFbY9l2gCK97jZnSk346fSSLXkSQnRQvGGtD4NPruloqMD00UT3vjHsE6o_yYQ1shEVy9AGYdUAcHLBY44aeACShZK0KU8Rapv03DPxVyCZkgvSSFHXUinU81cpKng8ABVoV3MdmTXdQUJgkg.jpg"
+          "url": "https://cdn4.telesco.pe/file/KyGkU19kZb5S1KuGJytG0hUEmLagKzmfM896qnb2uHzBosbY7_8t8SaOXFKEYx7t3aUN1ddVeGsOGZNqrOLBe73Au0C2eAkflWk0y-fsMcAZdH7FhSIOV0xtoBtZD6YolD0MOFzsgvcmUO4duwpZALF5sVYMBsCn0ZZg9FBMJIaLLxj3OVBdOX4vMOr99T4D3FeDpHd-Vi_tIC7ykz5h_MATlC2Y4Oc97oMV5jBcXIQ3LLPEJRtRgawF5EL6tceHsPu1on9eECNxznj4U7W6EvBgX816KEAR9tnGneilFEp2VEx0oR7ndojT2fu1xI5oCli4HPuzxrdSFl7zDX1K1g.jpg"
         }
       ]
     },
@@ -166,7 +148,7 @@
       "date": "2026-09-28T14:57:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 1610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +160,7 @@
       "date": "2026-09-29T13:42:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 831,
+      "views": 849,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UnEMS5N9sbnQsObgg2ghmxk1Moo9TCcetavzwmbDCQI6GZlj3xcYo8dpnmMLeCu2Y2d01J2ZoZ0kMsIaMJWZzTkMD1_5aoTThkg9NgPfIWQYlRBwZ4BxegHlNEW1la13ro0VE7FTl1c9dXBSTxgR4a9TkjzGY_zMky_Zc4jrliT-V2POWKC5QJ8ssyROHcZZOWWRZ4S16QXIclpHxHEL43q8281ElRgc9KBbMWUrAODv1K7VbVp2_YZ5tnUzDE__4_AGqxPHUpjEH82ljHhy94xUGsP-vBlZM_ZzKJET_XIyHuuF9R1J6JEVZXzgT-hq8Zau4uSPYac7grmIlerzEw.jpg"
+          "url": "https://cdn4.telesco.pe/file/X05TgKucrt-IKKwCHhG4ZH-pxLtGdbGnhoNIgA4QuX7lAnhqKod0VA9cU1j7svLgF536S90v2vhJGCcmvIZT13Ts5I4mwb6qLpu4dnkr5LjTwPlNy7mXHwQQgvVFvv9MNMN95vBdHiEKhk4VqhwNXjVKf7WiLMGYGrYNBEzJfcu2U2wpBVqd4hW7I1S9q4W1V4RzlvHHhd9IC6t8-Q8NeExb5aiXloqFlDj2afOooBuR6N2qjKwFQ2CvfbKAg6tTPk6ITeFjrYvo2LDckQKgzs22SDWEmoMFeNCIy0o558P8fJ7_bQSQUWKiX1COPD1rDpSeEZewJ5Wutns4NiZdZg.jpg"
         }
       ]
     },
@@ -196,7 +178,7 @@
       "date": "2026-09-29T15:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 1600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +190,7 @@
       "date": "2026-09-30T19:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 632,
+      "views": 665,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +208,7 @@
       "date": "2026-10-01T05:23:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 603,
+      "views": 639,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +227,7 @@
       "date": "2026-10-01T10:47:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 553,
+      "views": 596,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +235,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qf_gNvAjkBilPdTyRtI5gBHRMRaLFoyRsmT33SAHQ1zuixa59qmU-jYVs754NYPxj6N3w9GwOhViCZ2fIP2y-rGFP-EISjDx7I90vRUkc3AAV4aTUXmXdhRbZOexURaES7e-IiGNkkCnxGew_EEWSCY3AssdlWoj4WVHUAXqPKDXKP-uhfWGjIpAUU0qVJHXW7AKVWb0hU-oWqw-xH8tyYjqN7za9YyGhWIaYACW5_fOnztQHWWXp8r3gpSZdLM0PZxN4TaNGiTYDsZlg5NHR4y8lm5JmMMjxyw2yb3tEVKfn9iXTFvqK5dgLhTzIoZg3OoQf7XK743C7SgavaaljA.jpg"
+          "url": "https://cdn4.telesco.pe/file/OdhUDylSN8U2UCx2PadCXzu3yLSGuw0HORgTcx6RcbeDsagx8ztPXHr1dJMwTn7VbSEDqktqVRyPF2cSKZigKSwMFjQn1M42R1o4YG7JjJG2RCH1E5MrIwIxbOZJoN3Ib81v5AvbWzyJhBvoJgcFJoBql0fGsGrXbJQmBNK90HSbPzmRUBRnlCGMuy-FU69qwPhkySKuu9x-U0OXbK0oHSRuJ_0V-tElCXT0EWijfRKLsutl2AnF8fYrBcBk1fm9gcneL1HdYK5YsY2CAba9u9ADgG1RAkE6ySCvTwhCRYHpt9LeaevxEMDzVVxdBpDLRmid-YOAHt3LrKjHPK5tGQ.jpg"
         }
       ]
     },
@@ -263,7 +245,7 @@
       "date": "2026-10-01T11:56:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 638,
+      "views": 697,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HNr7Zn4IGxrgGIBnCzCSxEl5hB8c6FFoIPoFMpo5uLX5ey67NjsfawAirx2SgSD1KEhouqn3HhUXhRPxRrGKh9Igbk3T6s8bR8Mo1LTBNfAMAPwsWaqepRZ7q3DVvgebM-q-j7595OV31PXMt0cG6mVMTQw57xUBy1sE1jQLm4x8skp5w6drjtUVlNW-_xduOON7jBfAaVTvW2Z3AhzHBhQPyfD7DWJSxyvK50pu8xIwvkJ5OjzmgSPOx0o5Yaqqo8kxKKUbeE05T4nnuqxAu1X-vIG8N3a9vT-4F103HxPUw6rKoWqbddm5YKKJMGUqK9_WR89XCWg0q36dBtqoRg.jpg"
+          "url": "https://cdn4.telesco.pe/file/j3vu_K9lfKArU6PFf0A23zDYGn25vWfzp-stI0tL8SJIiK1dRpxT504h69jf3dX646N2_0i26ghYx1KUTWC0wrb5v31lYezajJY8B5GB_hQklQjInuSQFrLoZ9I-3m3dkRtPhUDdUEInhUtdfcV6cZRGlPp1e8-HcF8ftn_LOGwM7LM71BnIJx5r-8g8UhKe7veC1jv3ABgscqRil7MkGKzUlumQ_9NBBZ_bw5X3hUR17qymmJvMxxW3OlYf5Hs5CXEMaoSxU31smFufq6ND52aiFzMVVIW3szLjOyIwyKJo0C-k77XgO4_Dsnj6Owft0HQQ54rWlk7OyASzFLff-w.jpg"
         }
       ]
     },
@@ -281,7 +263,7 @@
       "date": "2026-10-01T16:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 535,
+      "views": 635,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,12 +281,24 @@
       "date": "2026-10-02T07:50:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 153,
+      "views": 377,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "به نظرتون یک fider بالا بیارم؟\u003cbr/\u003e\u003cbr/\u003eبه هرحال جامعه اگر جز ایراد الکی گرفتن واقعاً پیشنهادی داشته باشه می‌تونه اونجا بگه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/getfider/fider\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/getfider/fider\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
+      "date": "2026-10-02T09:30:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 335,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
     }
   ],
-  "last_updated": 1790930647
+  "last_updated": 1790953901
 }
