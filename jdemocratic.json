@@ -83,7 +83,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FXvxojib3O1TcYXMNnsdOtxLppeZ-jKqDBjyeheqXiYVlmjQjQQs7fNzkyRQw5uz_mn11w0_YzAs5BFpsqfWN-Rgde4T6DmP8dmmu1vuzfICyPeR6KeEb4EqW1IwJp0D6a7cMcd1g_fRKgYmqfIMcQke5sZqrjceDLx1ou0XCsWyIrL6OFwzsN3g1whwa2-0hFtlCNg-nvXGi7MFJlcR89jgFAxfyNZ5ypiUBbDP1I7tnV4JQpUYRZegJw8fMkgaqA9EFBbsYttcV9leS8Y8FuTfIuVz6DD-kZdb2xswFqzi83lR23YBch2HVAOtp5sOcOW8mG0mn88gZgJc9WAasA",
+          "url": "https://cdn4.telesco.pe/file/jP9jHhIYCY2vUbXtAivL9G4ee6Ilxx0S-Nx0yZnphas1uMCr_J94riep04xOpSGJ5oHouAWR-qrxD0WmkZ44m7fuq2xhs7VL25Y-EIx781YCo8fmTKjNWKDXRo7vDzNXSN6aE9BJyw6BKxwe3q0uuDHfy7vzdxlXQkkOe4Rw-dQKxsfvgr4B_deWWgv1CtnDxHs9hAUEbCdRCsndReIgFSqnyyJMH1t16Dw4IWw4wB1YYPWNj-KhjFOJx9pBGJWch24QyGEZm6GH5izaXEReiVbGoifjrCN-y6vBh6GE5nM-42T8TnbAaeP_bYe1aG-GqPrGDJA_YdN2zEjz0OnkOA",
           "width": 480
         }
       ]
@@ -94,7 +94,7 @@
       "date": "2026-09-30T13:14:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 11,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "date": "2026-09-30T15:12:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 11,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-10-01T11:22:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-10-01T16:07:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14,
+      "views": 15,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +256,7 @@
       "date": "2026-10-04T13:42:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +275,7 @@
       "date": "2026-10-04T14:30:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +293,7 @@
       "date": "2026-10-04T16:24:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,12 +311,12 @@
       "date": "2026-10-06T10:08:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "j.democraticc"
     }
   ],
-  "last_updated": 1791314036
+  "last_updated": 1791328195
 }
