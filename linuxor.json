@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه مدل System One مثل Jev ممکنه اصلاً به تمام عمق یه LLM نیاز نداشته باشه. پژوهشگرهای AutoScientists متوجه شدن که میشه بخش قابل‌توجهی از لایه‌های انتهایی شبکه رو بدون اینکه عملکرد مدل در تصمیم‌گیری افت کنه، حذف کرد.\u003cbr/\u003e\u003cbr/\u003eمثلاً توی مدل Qwen3.5-4B وقتی پردازش رو توی لایه 20 از مجموع 32 لایه متوقف کردن، عملکرد تقریباً با حالتی که کل مدل استفاده می‌شد یکسان بود. پس 12 لایه آخر رو حذف کردن و مدل RSI-Jev v5.0-VL 3B رو ساختن.\u003cbr/\u003e\u003cbr/\u003eاین مدل توی معیار Decision Index امتیاز 38.38 گرفته، در حالی که بهترین مدل بعدی با اندازه 3B یا کمتر امتیاز 28.97 داشته. این مدل حتی از 11 مدل 4B هم عملکرد بهتری داشته.\u003cbr/\u003e\u003cbr/\u003eوقتی از این زاویه نگاه کنیم، قضیه تا حدی منطقی به نظر میاد: تصمیم‌گیری و صحبت کردن 2 کار متفاوتن یه مدل System One لازم نیست کلمه بعدی رو تولید کنه؛ فقط باید اطلاعات رو بخونه و یه تصمیم بگیره.\u003cbr/\u003e\u003cbr/\u003eسوال بعدی، چرا باید همه سوال‌ها رو با عمق یکسانی پردازش کنیم؟ اگه سوال‌های ساده بتونن زودتر متوقف بشن و سوال‌های سخت‌تر برن سراغ لایه‌های عمیق‌تر، این روش می‌تونه سرعت مدل رو خیلی بیشتر کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Shanghua-Gao/RSI-Jev\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Shanghua-Gao/RSI-Jev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-03T16:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Vi-oH3TEbWRglXE2RT1roQZhDNiB040N3qi94fWWGfx0N_F9U2JgZtiLRuczoBUBHiqrYyHDDgDs7OvGXIYjzopBcuVvx0Mn8vA_wzEtzgSjCikLUgqCBpm1Rvpw58G_lTYAf-E1_M_nRfaVKqD3RrRtgzAZM7LzZbbDIB2z-MYVWZfxuvJY3RuKqgmopjsLH4PfjQwnhMo2loivJKNNo6OZMoLQaI0cNsYN3Tgl13suUKaOVTyLDVF9d4UFoPIsJYXlhl3z05gUg7IrvrUzwiVhWt0xYbTz927irr6dD9JUw-MvEcpbe0uVdTNbu891V3EqjUGgIdaC5SGBAvHabA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سم آلتمن می‌گه من واقعاً از این موضوع معذبم که بعضی‌ها می‌خوان برای مدل‌های هوش مصنوعی نوعی قدرت یا جایگاه دینی قائل بشن، یا طوری باهاشون برخورد کنن که انگار باید قضاوت و تشخیص انسانی خودشون رو کنار بذارن و تسلیم نظر AI بشن. به نظرم این موضوع واقعاً یک مسئله‌ی ایمنی هستش.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-03T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qu0YVYtGRBTzZITX-BEwu_fhwoi-Iy-wXvPibY5VsNCY4eOFC8l5sLQFLRyzGBj4VQGaUrSXGVLDNtCrp59jMr7Me5zGY5VEm7mIlAAYG8X574RknKOej3YJO7kOgkX-smCbETp4-Fqv_cVqGCLiH4AwrKe0jMNGh4o4v4x7UudpI39qm3N4tFE83CA7aXAIh0P4csszD-sgdpq9tgOZ9Bkq-3eGGmN3bKgt-80LASZBCz-hDdRvrHZ9jia5PmrCN6sVAUz2LQv9FZxJ1uMe1ww4hm6zZXWQcIO1E2RMp87JgW2qrQT33yeyNkHMiALmDdcV6SoOZhP2p1N55_sQ5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "وقتی یه مدل رایگان لوکال پیدا کردی و پروژه رو باهاش می‌بری جلو...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-03T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +31,7 @@
       "date": "2026-10-03T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8170,
+      "views": 8300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +43,7 @@
       "date": "2026-10-03T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8400,
+      "views": 8510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +62,7 @@
       "date": "2026-10-03T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8990,
+      "views": 9110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +80,7 @@
       "date": "2026-10-03T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9560,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +99,7 @@
       "date": "2026-10-04T09:43:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8410,
+      "views": 8570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +111,7 @@
       "date": "2026-10-04T15:09:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7770,
+      "views": 7990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +130,7 @@
       "date": "2026-10-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +148,7 @@
       "date": "2026-10-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 8050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +167,7 @@
       "date": "2026-10-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
+      "views": 7910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +185,7 @@
       "date": "2026-10-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +203,7 @@
       "date": "2026-10-05T13:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +215,7 @@
       "date": "2026-10-05T13:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 7560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +227,7 @@
       "date": "2026-10-05T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5690,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +245,7 @@
       "date": "2026-10-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +264,7 @@
       "date": "2026-10-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +282,7 @@
       "date": "2026-10-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +301,7 @@
       "date": "2026-10-05T22:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4070,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +313,38 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "امروز یه عده بازی GTA-V رو با هوش مصنوعی نسخه سازگار با وبش رو ساخته بودن (با وب اسمبلی) راکستار فهمید و دهنشون رو سرویس کرد، دقت کنید بازی رو با هوش مصنوعی نساخته بودن همون GTA-V رو فقط با وب سازگار کرده بودن، وب اسمبلی یه تکنولوژی وب هستش که می‌شه فایل های اجرایی رو توی مرورگر اجرا کرد.\u003cbr/\u003e\u003cbr/\u003eاین آدرس سایتشه فعلا که قطعه و فکر نمیکنم دوباره وصل شه چون راکستار به راحتی می‌تونه ازشون شکایت کنه نکته جالب این قضیه وب اسمبلی بود فکر نمی‌کردم بشه باهاش همچین حرکتی زد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://playgta5.com/\" target=\"_blank\" rel=\"noopener\"\u003eplaygta5.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-06T13:15:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/WOPhsN6yfPdmYQ8i2xLnZFThPFLPKp9vXr9hcUqiT8F11qT8tZUmhw4PxdpRv5mEWlKP66lWvaO9AGQo2aLDAMOW21Ia5DnokMSMbbLAhwPLqMLdBQ_7Wk3zAcuslN-LoyXfGmcCgyEYPdXyrfA9v6mw524lbf9CA0pogwq-F6J_M81aqczphkcz5ZMEehx-2as3BUE53vIRHj9JCb3TtzPebshbgjerCYJ-sJoMpTFEBFYzKTnYC7vRy6lqf5YGcsLPXpHm8oNhsBfuqDUHznBtQNtakhnDwregh-ke2r_HgwE9lbaEL_x9TDlHkcIXFZU8hB788hb_HV6Ev10w4Q",
+          "width": 1662
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "کسایی که تونسته بودن توی اون تایم تستش کنن گفتن فقط 700 مگابایت دانلود شده بود در صورتی که بازی بیش از 100 گیگ حجمشه، این یعنی بازی به قدری بهینه بوده که هر بخشی یا هر داستان همون موقعی که بهش رسیدید دانلود می‌شده!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-06T13:20:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1791268913
+  "last_updated": 1791294390
 }
