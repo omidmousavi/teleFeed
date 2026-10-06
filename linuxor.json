@@ -3,34 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/V0_dmD1Itnk6HzBR3ibjMosBR2gwrgK8R0o7kTADwB0mxiUrRUVqNGBhY5lCPskbFIo7ek2_gnfSsDAw-j9Z36Xe5dnOdznR0HsI7l7ZUzlUnVO6B-i7xMjU-GIL9B1T-m8HjNeLboPWHSFSQum_b9OGtzM-KbZv80kEktRddgHeJahVZlafCXK9KYr4FPOUG1HSPmJhALr09n1iEa3x7ZtO_kKJo9EttvNbhANWCLncEKBY-5k65rXNyaPNt-5Am-6g02Hr9G4dmr5UbRM7F2p3iVXSv4CIUIuaTzDeUUstG6qLUdGw_cqxeKntRW7YXijKWUNH9dYam8T0T9fS3g.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/ZfmPjGEazTa-sN6-twSBkN2T5sl1Ll16cUN0-FHSHLQYA9eUfLJSzic-YtyudRgtrmqyh7j3nqKd-qpJ44J5zXVggA1IS-bsIQVAzQJvScStP5PNurbNK3_UFQLqzR4OpC5_xMAkeGXPUDu4XcY0Cfz3Pqwz81WqxMgikMW23xaDZmQxMitiuOzmxD3Q-eu2fk0dzcDM-jFz0sjB3fCM8yx-__Wsp_UdWW0kqGwG4TNzTcR-dt4O16cPxT8aL2ptoDuB6FfcUfdSIJOvcEOtY6f0F4wXmw9DFmywcvcpq1qj_2BX9qWPMRG6Nly0m3F5oM3I062mCbLP2p62xypG9A.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003eغول فناوری و هوش مصنوعی\u003c/b\u003e\u003cbr/\u003eیک سرور قدرتمند برای نسل جدید پردازش‌های هوش مصنوعی و زیرساخت‌های حرفه‌ای دیتاسنتر.\u003cbr/\u003e\u003cbr/\u003eمناسب برای:\u003cbr/\u003eهوش مصنوعی و Machine Learning، پردازش داده‌های حجیم، مجازی‌سازی، محاسبات سنگین، دیتابیس، رندرینگ و پردازش‌های GPU محور.\u003cbr/\u003e\u003cbr/\u003eبا سخت‌افزار قدرتمند و قابلیت اجرای ورک‌لودهای سنگین، انتخابی مناسب برای پروژه‌های حرفه‌ای، سازمانی و زیرساخت‌های AI.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eولکان سرور\u003c/b\u003e\u003cbr/\u003eولکان سرور با تمرکز بر فروش، تأمین و مشاوره تخصصی تجهیزات سرور و زیرساخت دیتاسنتر، راهکارهای سخت‌افزاری مورد نیاز کسب‌وکارها و سازمان‌ها را ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://Volkanserver.com/\" target=\"_blank\" rel=\"noopener\"\u003eVolkanserver.com\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/volkanserver_ir\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/volkanserver_ir\u003c/a\u003e",
-      "date": "2026-10-03T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DG_k6jVQ7XNZVNRu8txNlgXugSVMxWi3k9OADJyKygqlIBqD9M6nqRpdbdX_vdLylOuyiTmSl2Bsdg7ppPXI2lvbRbpvaRVARS1gHFVbAwsXa6jpP-9I9j30hNoqZm9jUXxUE6f6m3jOfrSxSQd4lHooqyXJVkRIW61mVD9L9XXDS-mFSKPXsosLKCFbvRITM8z2FZ4l_Q7-FbjTgxX9l8DBtyyoy_m20jAmJp1CYIpZ2vh5LAfjBYv2LBRRPhC6mgnohGKMS1nDJp4JFzDD5E5zWpjQw4SFW7jcDaWpRbXcgybP_D6akBy33I-DeluMI2WBx-ZLyyeimNXqSnmyAQ.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "یه مدل System One مثل Jev ممکنه اصلاً به تمام عمق یه LLM نیاز نداشته باشه. پژوهشگرهای AutoScientists متوجه شدن که میشه بخش قابل‌توجهی از لایه‌های انتهایی شبکه رو بدون اینکه عملکرد مدل در تصمیم‌گیری افت کنه، حذف کرد.\u003cbr/\u003e\u003cbr/\u003eمثلاً توی مدل Qwen3.5-4B وقتی پردازش رو توی لایه 20 از مجموع 32 لایه متوقف کردن، عملکرد تقریباً با حالتی که کل مدل استفاده می‌شد یکسان بود. پس 12 لایه آخر رو حذف کردن و مدل RSI-Jev v5.0-VL 3B رو ساختن.\u003cbr/\u003e\u003cbr/\u003eاین مدل توی معیار Decision Index امتیاز 38.38 گرفته، در حالی که بهترین مدل بعدی با اندازه 3B یا کمتر امتیاز 28.97 داشته. این مدل حتی از 11 مدل 4B هم عملکرد بهتری داشته.\u003cbr/\u003e\u003cbr/\u003eوقتی از این زاویه نگاه کنیم، قضیه تا حدی منطقی به نظر میاد: تصمیم‌گیری و صحبت کردن 2 کار متفاوتن یه مدل System One لازم نیست کلمه بعدی رو تولید کنه؛ فقط باید اطلاعات رو بخونه و یه تصمیم بگیره.\u003cbr/\u003e\u003cbr/\u003eسوال بعدی، چرا باید همه سوال‌ها رو با عمق یکسانی پردازش کنیم؟ اگه سوال‌های ساده بتونن زودتر متوقف بشن و سوال‌های سخت‌تر برن سراغ لایه‌های عمیق‌تر، این روش می‌تونه سرعت مدل رو خیلی بیشتر کنه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/Shanghua-Gao/RSI-Jev\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Shanghua-Gao/RSI-Jev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-03T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-10-03T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 8029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-10-03T17:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-10-03T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7910,
+      "views": 8039,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "date": "2026-10-03T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 8290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +99,7 @@
       "date": "2026-10-03T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8770,
+      "views": 8870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +117,7 @@
       "date": "2026-10-03T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9340,
+      "views": 9450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +125,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/R8LhTMP0N_ShbiEWyODgym3cL71iIXYRWNjSmzblqoLNFdBO2T8mfSViVVsm5vLVvAkrwJk3WYkNUvukxoH1cM_KWbbi7BBFT2D7DwgGUAjnh7EP3qNc6ILLSCvdq__iwKdLIJA7QvgDHbEtbznzEQNRw90cWmywYcnX-pvIWzIlMShOqOs2fGxNvjlinQL_ENTnUzR8--dXYMIbNbJENDm_URjfdxm1IKdym_7n7r5P5Xqz2oIVKKDlFxOZ8uaaI2xn2ACEQyNE4AePqBlQzVRW-Ur3TqEHRs_qjyhZdlTVqawQMPtgpvvgHaWBkEjUPY7gqVZkeqt9yYCOqtt0gg",
+          "url": "https://cdn4.telesco.pe/file/gGZK5V8I4mS9lPZ-EXVVoXTPj7-Att7KRI84icpFpdI1CYEfwK88zJ7sjSrIXjnnIMDZ7CbSdoJRmTpQAck-sr5vKd79WNH3xVNf80wpLSTIB0cM7p4TjLVGXwS3wMVLy1K3ykNcdvsJlm9oaNQ2ewVKhmrW2J9LBScE8Omtuwo6e9wA1mwGZ1iVZd-cEWNYVJc1GKJMcoLd74dlq_QrZrwZDxHAygfs6ITVvQC8qyN8bVoZWnd9zJAphV8NO46sveRBSsfcP8WtWyZRMOvDmWond3UB38mDbtdd5r1CFKs2Rs2ALs8Qsn7eRjyQFVs8Gm6piYFwtlHmiuFs1crZmw",
           "width": 1280
         }
       ]
@@ -154,7 +136,7 @@
       "date": "2026-10-04T09:43:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
+      "views": 8220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +148,7 @@
       "date": "2026-10-04T15:09:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
+      "views": 7590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +167,7 @@
       "date": "2026-10-04T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 7060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +185,7 @@
       "date": "2026-10-04T18:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7440,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "date": "2026-10-04T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7330,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +212,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qo2X_axhmDVS-oMCTO_9L8PevOdaLRcHfAvT7o4X0KXgj_fTaPZCm9MFFn_3fwEzQsBqxkxYM9RtbcFIHG_xY2IAY1iUpbRtk9Lw2AvUx8XXikRfpBS2jfsj1dnWh8PS5A5h5-RW4lKLJ4e2-NERoJqW57m4D0H_a1CrRao6LTcnp3Od35bnG_xK4yJ7G8nPvrJVcCWQ2TBWLODQxpO-oesMjDEtoPeH03HRysRESwkqcrB_OcvLn6mDXf61HZA5DsCRKDu2ngAuK60YgpjEO3yuWsKgw_vVaKTcK_SC72Qx7DNghWJlqz7yIFpOzomIcdKuA7rjW3AyQ9TTOCFjXQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/GJ1xa6mTxcz0biED4bwkSCjcWCVU1YEojUvHslmiH8SyM--TEc4ZHU5F-LMYrXCBWvN4O_l0UnP4ILReYKx5CoYY6uReJL80IugFMDtiqUZ9JSjUl8AUnCAUrke7KCFUCOkiaQacs_B174LvesNWL2E1o4H70M2uzE-3bqmnWXKqv2BDCToZSBMuCBd92ulXADxdtxsaI-HUKfPTs2JCjctSY1ckzRHjkGq578zTT1w_KCQENCBLhYs59fFEC5cemRFy_IevoRatY3k5Bb2m-j9CuhdQYZwSDmDfZ-fiRHjDWA7hQChRYMBK8M2_t7-i9sHQP91GIVIDPivl0s3Iug.jpg"
         }
       ]
     },
@@ -240,7 +222,7 @@
       "date": "2026-10-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7650,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +230,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t0u8ibMgU4tUZeHnRvOPmsxI4TYFuDAegupoty0taW0JDrA-svKzUc1GTvPex_r5y8iWyEVkHveMnoj88V9ASJwm_KWsR7nLkTFdIOOF6AuTywMRGHFOO0zLtj9ium94U8_SBkIXTY8YtbiCWG5h8JmSCr4mBnyAwkm_IxH-PQPzrsYIBL2RpRjGeM9GTC0UCXLohXX_uAnx5KifsHvz9fkDLXNjMOOILSVaDbi6JeY8-q8gxQ1AtNcJVJebUAKOupabZktdi9cwKZcd1nn9SoONGZ86w9yWNNaTKDaaAbknocBxzEeRFcgBIxiV1QWAvG74OkiabvI7wJweM7sVLw.jpg"
+          "url": "https://cdn4.telesco.pe/file/hZ1c7uANO13L7zCLPY6qi1Mx-cNAELh0xRIK2FkGW3Oe2Rm4QmOj5JzYxXDjhow9QmcmcfXoJWGcIg6dzpKhLWkEjixIs6NODSr1x0Bmz9vW6AklxgZ_sDBPB3LnnhekPZ2i2UQhPGeJ0wOTXk4Qfx9pp3MqagWAj80Svqb8OywNFuTlgxubGOuvtrfV6_Ei8r5rRaji_Ia2AjXSNc1WYExGniM-Wzk3ZWa6t5BnIQzho8ewFwExgNjvyoj9XuopF27aXgCYi5OcGajuirFJAxhYEQJTL0zDDzKUp1kyvolL7R4QpsIIuy35oFQI7sX6F1kW6Hp9Qeyb32HA3J23CQ.jpg"
         }
       ]
     },
@@ -258,7 +240,7 @@
       "date": "2026-10-05T13:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5910,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-10-05T13:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 6580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-10-05T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 4770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +282,7 @@
       "date": "2026-10-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3390,
+      "views": 4730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-10-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3300,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,7 @@
       "date": "2026-10-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2830,
+      "views": 4610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +331,26 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی 50 تا ایجنت هوش مصنوعی رایگان از شرکتای مختلف رو آوردی توی یه Workspace که کارو سریع تر انجام بدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-05T22:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 975,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/M8RQ6Xkdp6UB41Zqyz4LDqKPb80Z0kQvEXZR1z6efluhju_u3btoXyAwIipzkgTJo9STauzOk59h5G5c76NOxiFhtTUDoa6aDz9v4rJ5xM2_N_8Q2A1SBDI4SbBB_dagYAHR1xJ35uPmtK-h_wKib2QOcm3RNywkzu90uRNWKgQHrknLU1CxrLCB_G48nGtmrSPt29Mmub_B1cL049nDl8jO1T5quFVBu7ZGzt5pp2o6xcmZAJwikHe4HoTTxUe3JxztkstrmTWA-IR0J6nsNMQp3f4iIYLO29ifdfauDsJWFWKsW0j7z45xwpp8WUamJ23e0bve50r9TzbMHsHFmg",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1791225510
+  "last_updated": 1791246538
 }
