@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "من برای خیلی کارهام یکسری اسکریپت دارم که برام نمودار می‌کشن. این نمودارها بهم یه ایده ای از میزان کار انجام شده و باقی مونده می‌دن. همینطور یه جور تشویق یا یادآوری است که کار رو پیش ببرم. این نمودار مال کتاب برای پیروزی است که توی قسمت آخر در موردش حرف زدم. تقریبا کار داره تموم می‌شه\u003cbr/\u003e\u003cbr/\u003eشیوه کار هم بسیار ساده است چون لازم نیست خیلی دقیق باشه. می دونم در هر فصل چند کلمه هست و می دونم الان فصل ۵۱ تموم شده. در نتیجه می شه به راحتی یه نمودار کشید از اینکه چند درصد (بر اساس کلمه) پیش رفتیم و هر فصل چقدر بوده. دید خوبی می ده .",
-      "date": "2026-08-31T18:17:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جادی | Jadi",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eC7DaN4OPDg7TlHU8_Xm0mcvhuAA7Aoollbv_Ma_eIl-y2bQVv587W6zO9RBlvKsAXIwr1frqhDdZxS_6NTR6dy3B44f_mF6jpQ47QoS9R0ciDufu7YAiXnmhdLxn3VC6nezyKnZB1h11D7UHkJUzwI1m1K3tEquTZLFvlBl2fl4658HAFsd6zn-OQN6ss_RZpbUladlwFr7G3GOFWWpfhQpzxDXMgx2f6BUKWcB10KJPaTZ5ty9c8O2hUCWAfHcV2Pt_pB0vPcpYycu1iKx1Tmm08fWUr1KFnKL8xNsNWQFSvJM4cH0a8NUeV1Jo3H_DjEOcQBPMkcbbVFQoticfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بیرجند لاگی ها توی روز برنامه نویس یه چلنج باحال دیگه داشتن: چلنج فشرده سازی! (:\u003cbr/\u003e\u003cbr/\u003eتوی این رپو یه فایل به شما داده شده که باید فشرده اش کنین و بر اساس اینکه برنامه شما چقدره و چقدر فشرده می کنه، یه امتیاز میگیرین.  دقت کنین که هدف نهایی درک کردن فشرده سازی، ور رفتن باهاش و .. است. اگر یه چیزی بنویسین که یه الگوریتم فشرده سازی رو به کار ببره نسبتا بیمزه است و شاید حتی خارج از رده بندی. \u003cbr/\u003e\u003cbr/\u003eاگر من بخوام بازی کنم اول آنتروپی و چند تا فاکتور دیگه رو تست می کنم. بخصوص با برنامه\u003cbr/\u003eent\u003cbr/\u003eتا ببینم این فایل اصولا چقدر دیتا داره. یه فایل رندوم چندان قابل فشرده سازی نیست.\u003cbr/\u003e\u003cbr/\u003eبعدش سعی می کنم ایده های خیلی بیسیک فشرده سازی رو پیاده کنم. مثل\u003cbr/\u003eRLE, huffman\u003cbr/\u003e\u003cbr/\u003eبرای یادگیری بگم که توی آر.ال.ای، اگر ۵ تا A پشت هم هست ممکنه بتونین بنویسین 5A. معلومه که چند تا مشکل ریز داریم که باید حلش کنین.\u003cbr/\u003e\u003cbr/\u003eتوی هافمن یه بار متن رو می بینیم و ترکیب های تکراری رو توش پیدا می کنیم، بعد اینها رو کد گذاری می کنیم و سعی می کنیم هر موردش رو با کدش جایگذاری کنیم و این چیزها. \u003cbr/\u003e\u003cbr/\u003eاین ها مسائل جالبی هستن و چیزهای باحالی بهتون یاد می دن؛ پس اگر می خواین بازی کنین معما اینجاست:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/birlug/256\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/birlug/256\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eالبته معلومه که سطح چنین چیزی در رده متوسط است ولی اتفاقا مسائل رده متوسط خوبیشون اینه که اگر شما تازه کار هستین، بهتون ایده می ده چطوری شروع کنین و از اونطرف بررسی کنین بقیه چیکار کردن.\u003cbr/\u003e\u003cbr/\u003eو مرسی از بچه های بیرجندلاگ که مدت ها است گاه گداری مسائلی واقعا جالب برامون مطرح کردن. منم چند ساعت دیگه \u003cbr/\u003eاگر فرصت کنم تست می کنم و جواب های شما رو هم می بینم که لذت ببرم.\u003cbr/\u003e\u003cbr/\u003eاینم کانال بچه های بیرجند لاگ \u003ca href=\"https://t.me/birlug\" target=\"_blank\"\u003e@birlug\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://jadi.net/2026/09/birhug-compression-challenge/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://jadi.net/2026/09/birhug-compression-challenge/\u003c/a\u003e",
-      "date": "2026-09-14T17:14:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جادی | Jadi"
-    },
-    {
-      "id": 0,
       "message": "اینو یادم رفته بود اینجا بذارم. یه گپ است در مورد هوش مصنوعی و اینکه چه فرصت هایی رو برای ما فراهم می کنه. خلاصه کلی اش اینه که هوش مصنوعی باعث شده هزینه تست ما خیلی پایین بیاد. ایده هامون رو می تونیم بسیار سریع عملی کنیم . از اونطرف کمی هم گپ می زنیم در این مورد که شکل فکر کردن ما به مساله باید چطور تغییر کنه و اینها. یه صحبت یه ساعته خسته کننده است ولی شاید برای بعضی ها ایده هایی داشته باشه که در این دوران چه فرصت هایی جدیدی دارن که خوبه ازش استفاده کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/p3qmeYbKj4s\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/p3qmeYbKj4s\u003c/a\u003e",
       "date": "2026-09-19T18:27:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
+      "views": 41800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-09-19T18:30:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42500,
+      "views": 43300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +36,7 @@
       "date": "2026-09-22T19:05:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38100,
+      "views": 40000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-09-22T19:05:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39800,
+      "views": 41500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-10-05T22:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-10-06T02:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,12 +90,42 @@
       "date": "2026-10-06T03:03:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جادی | Jadi"
+    },
+    {
+      "id": 0,
+      "message": "اگر بازی سازی دوست دارین شاید باحال باشه.\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D8%B9%D8%B1%D9%81%DB%8C\"\u003e#معرفی\u003c/a\u003e",
+      "date": "2026-10-07T15:11:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جادی | Jadi"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5960898678196539936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6032637302193265256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e انجمن علمی دانشکده مهندسی کامپیوتر دانشگاه امیرکبیر با همکاری اینسایتل برگزار می‌کند:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5886543706151984447\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آغاز ثبت‌نام \u003cb\u003eمسابقه\u003c/b\u003e(\u003cb\u003eGAME JAM\u003c/b\u003e) ششمین دوره رویداد بازی‌سازی \u003cb\u003eGameCraft\u003c/b\u003e\u003ctg-emoji emoji-id=\"5447472244613725038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAAB2.png\u0026#39;)\"\u003e\u003cb\u003e🪲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5872764123921522551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5BA.png\u0026#39;)\"\u003e\u003cb\u003e🥺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ثبت‌نام ششمین دوره مسابقه بازی‌سازی گیم‌کرفت از همین لحظه شروع شد و می‌توانید در وبسایت از قسمت \u003cb\u003eمسابقه\u003c/b\u003e اقدام به ثبت‌نام کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447348626865010014\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA59A.png\u0026#39;)\"\u003e\u003cb\u003e🥚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هزینه: به ازای هر نفر \u003cb\u003e۹۹ هزار تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447335260926786020\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAAB2.png\u0026#39;)\"\u003e\u003cb\u003e🪲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تعداد اعضای هر تیم: بین\u003cb\u003e ۲ تا ۵ نفر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5413879192267805083\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9793.png\u0026#39;)\"\u003e\u003cb\u003e🗓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرصت ثبت‌نام: تا \u003cb\u003eیکشنبه ۱۹ مهر ساعت ۲۳:۵۹\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسابقه از \u003cb\u003eدوشنبه ۲۰ مهر\u003c/b\u003e شروع خواهد شد و به مدت \u003cb\u003eیک هفته\u003c/b\u003e ادامه خواهد داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5449613015227841902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAAB2.png\u0026#39;)\"\u003e\u003cb\u003e🪲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eجمعه ۲۴ مهر\u003c/b\u003e جلسه‌ی منتورینگ برگزار خواهد شد تا بتوانید در ساخت بازی‌ خود از راهنمایی‌ و کمک منتورها بهره ببرید و با یکدیگر همفکری کنید.(جزییات تکمیلی در رابطه با این جلسه متعاقبا اعلام خواهد شد.)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5089144476023128742\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eجوایز:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440539497383087970\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیم اول: \u003cb\u003e۲۱ میلیون تومان\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447203607294265305\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA588.png\u0026#39;)\"\u003e\u003cb\u003e🥈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیم دوم: \u003cb\u003e۱۸ میلیون تومان\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5453902265922376865\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA589.png\u0026#39;)\"\u003e\u003cb\u003e🥉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیم سوم: \u003cb\u003e۱۵ میلیون تومان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://gamecraft.ir/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهمین حالا ثبت نام کن\u003c/a\u003e!           ‌  \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5316553695742147732\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.instagram.com/autgamecraft?stkn=MXNwZml6NmlrNzNwMA==\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eInstagram\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5316823376738663082\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/AUTGamecraft\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTelegram\u003c/a\u003e",
+      "date": "2026-10-07T15:11:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جادی | Jadi",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/r8xvZBIaiaBSJ2n2RWw7vxwSy82twbHHsGT4rkE258Df3MDFzh6vM7-teH2MoikFkhD7p3vhv5uC4TqgQJRX4-6BmEkqwJshIdmDwG2orwcWm-b3jwkzLIwrFHXVpucn1PtNUzwOvgqLLedz_iKgQyp14cwKjl5RpEjhHTTS4SMWKbeE5IT_wKCYN3D0M96kJMmHlnIRmtqpKTvDhkhdynnFQ9lfuHPPpPMu5GcBax-t8oWp9XBeGayI6uZOmg2GvbPLqpeSszUbX4UpTvBAvaIxcX1R7Rbb1xpaoFuF8ERNGHTc7uTp9517ZZlYqNmIpgEaiJOwKRRO1-rrcG1sLA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1791365472
+  "last_updated": 1791392722
 }

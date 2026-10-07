@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اگه با Claude Code، Codex یا Cursor کار می‌کنی، احتمالاً یه جایی به این مشکل رسیدی: پروژه بزرگ شده و فهمیدن معماریش از خود کدنویسی سخت‌تر شده \u003cbr/\u003e\u003cbr/\u003eاین Archify یه Skill جالبه که به Agent میدی تا معماری، data flow، sequence و lifecycle پروژه رو از دل کد یا توضیحاتت دربیاره و به یه دیاگرام interactive تبدیلش کنه.\u003cbr/\u003e\u003cbr/\u003eخروجی یه HTML تعاملیه که می‌تونی توش node ها و مسیرها رو بررسی کنی و حتی بعضی بخش‌ها رو به source code و lineهای مشخص وصل کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/tt-a1i/archify\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/tt-a1i/archify\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-04T18:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KtXqS31JyZT6TlcnK8bXABJSln-ltuGaE01s_Y7rJ7SEiM2pE28aqxiyAzpbhnKE8eO8OF2TubvEhdd2Y5N1CFHR7_7CRezn3rd_Sh0n2gmh03hIjZ4v2Ngm8s9CpiNZ73KnD7ppwz5rQ6WJuxns6DJiSUpNoAsJLsc4BX2kqtQtqLDjzko73jhp04gIKaRFuUFJjKFqQ2mJzrUWDgeJ3w49K6ot8hHNj5t4f4tMc3NlRtK2oE1goFh2eVl0Db9YpeUuToeJvsmGT-R-y4VxwNYPzMRwvKWkfmmXVQlqcRPVuOo6_xyXGfjhF-_0LLI7wqoTQCI0UNM7ynnspOwVNQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینجا می‌تونید مدل های تصمیم گیر کوچیک رو پلی بدید اون بازی دایناسورو کنن، توی مرورگر خودتون هم ‌میتونید رانش کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://huggingface.co/spaces/shreyask/jevosaurus\" target=\"_blank\" rel=\"noopener\"\u003ehuggingface.co/spaces/shreyask/jevosaurus\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-04T18:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A84DgGq6d2qBiuNCpIC0EvrHYzT6lsgAVKLrHGzSYejjNZvUKH7kcDgCAlRtG6YJerr_48erKl0Gwtb3jee_JAW_cSWnoZLwNT5ZJf2kvPHTUzPTb0B-j80UO6qoPE_zmVyLDAeAqeBqTxY_H_fzF3n38627Ct7BC0N-g1I_iSumOtPqZjkyUmvn8mIDLyNGhFucwJGXY-P6NlT3BDNopK4rGL3U0BigDtXL8eBTkZYVPQinACWmxfIrhvUONxNmkGFy7oaTfQZT5IqnmK1cJpZk-Zx7JIMQqs_4mslHN5Dzv2odiKe3cXeNYtiA4zcDovjavgPyUUSEejeDZrjPbA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه پروژه جالب پیدا کردم که هدفش ساخت اپلیکیشن‌های دسکتاپ سریع و مدرن با Rust هستش. در واقع یه عالمه ابزار و قطعه آماده در اختیارتون میذاره تا بتونین ظاهر و بخش‌های مختلف یه اپ رو راحت‌تر بسازین؛ از دکمه و منو و پنجره گرفته تا جدول، ویرایشگر متن، جستجو و کلی قابلیت دیگه.\u003cbr/\u003e\u003cbr/\u003eخروجیش هم روی ویندوز، لینوکس و مک اجرا می‌شه روی وب هم با وب اسمبلی می‌شه رانش کرد ولی هدفش نیست، توی سایتش می‌تونید کامپوننت هاشو تعاملی آنلاین تست کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gpui-kit.com/component\" target=\"_blank\" rel=\"noopener\"\u003egpui-kit.com/component\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-04T19:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8810,
+      "views": 8950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +30,7 @@
       "date": "2026-10-05T13:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
+      "views": 8320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +42,7 @@
       "date": "2026-10-05T13:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8260,
+      "views": 8430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +54,7 @@
       "date": "2026-10-05T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7280,
+      "views": 7510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KHEocOHvVNOvClITgREQEQeBeYsZdnzt6IXac6okLTsgtt9sJh6uC57cogWot7u6Jw3fHVb-x2hnY2BOEY73PEGUtybmOeEN0ecIJi8b1cutxWLs0U1wB-grCl7Jm2zU4WvG_EL73gZLCxWKv-xL3LaimIlkPpWn8PeU18vibQiFzJ3N2c79JBBFCSgU98fZm3nzNuk_vjmQDlvlmCGEfAeYMXP_-CSXjmGH4A3V7OPd7qp-fOgWVqRXUvJRd-SU95kIN3RBLIjt8RSzOG31aJi5uHGXQpPMHE_N8LWhs-daU6nsM4kQClQPHJjSpGF8Rz-ghJQMG4Sx-sZWEGU7Ug.jpg"
+          "url": "https://cdn1.telesco.pe/file/D-ZigNqtw_IS12_bEioCpZpKsQxbxE5FADW9y1uR8XHuRVmzaq1DseuQhifDsO5U1uZorkI20HrlJIbsTz2kb0oL_Jj0krsAAUMDRp6P8STQxfQ2EUu5rs-SxV1P1TRnkdAQ_wB-jR2u3IkG1yVUsufFYUWAdjF_4wJKMwUydKaIBb5DkqCSMN3fxx5R-VxAgHQd3u_CnqEhz2Ci0dKA8aoNjbl8i24BA-5xEtATzp0FNaRymm8YPECAfsJLPLIYdDNdHvN5naJXkBE1KCljH8pxE6wQwmAQV1EcQIthM2EknxBl3wLWAbfKwaiTylxzb7j0RvC7VGTIkli1uQamSA.jpg"
         }
       ]
     },
@@ -109,7 +72,7 @@
       "date": "2026-10-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7460,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +80,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/C3RPI5pKztKe0jIc06qc0Ss9V629--db5EzRAFVP8Gbo-LgM26h-uSzWIK91Gddc5TWrFiljLyxY7n_BgtbGCXst6oG2tI7gPo35G3RITal2dXONVnl8EvSh2635xEUex0171C92ZOacyWlZfwVqC8qgxIq0henZOgFAZqiAUnarXCUMtIEZzGz35L35cVpCoGNIG8t7hRYzV9ZOsKfNMn2CyAAQa0CWjMguCpR8pTPcbl1OIr-jALgoDu7CwwG5CT_3IazOmi4w2MDf0GW1ZyMUrnutzVgHmXA4q1ob628SlljZrZLXuh8vVXehNUuWdM7lgdZ_wH10dqTkCgMiHQ",
+          "url": "https://cdn4.telesco.pe/file/Lg7x22zQEYm57U8NU4EHnDJyGwEHiP12hLHFCI-2DrwOZXePuzgjyBgTLXpWV2enuPVDd0XCQVsjocn2-aSPrjzmt8AXZtVLmD_P5fWTwmlLmEiSD7GrsOWZHetNTrxlcofm8KRlC5LoKkQShFltYI76nACjnjsXP-BkkRluok73_LypOuvvUcpjLGHwvR9aEpdUchqLL1V5D7OKt6mc28-D5uilHZzAOWR8UI48jArGM8dm1R-YxyxXOJdYdJsKBuNjYiI3W7N1n9O2C1kIHgALg-_xYAa70u44GrQVMbWyJ5LjYD2tF_RGQNfCK2BeoW5KwZxw8lBAm00h8p_SIA",
           "width": 1920
         }
       ]
@@ -128,7 +91,7 @@
       "date": "2026-10-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bMi7vMqvDmbrGIgeoCkEbW_wk8CZ2sL45r0dUUzBnOpelZ9F48IlLmRVRn9riBpqaXqhJ9oWFcHJ8iQ9WKQp8SyHwgJlBQbvoxp1C5l76IcBstO3D2u131CBho1k6Bp9mPTJpagFCkDtRD-zQiqX7k13EBeJIevZfltGx57idKGzqXy8y6VTpQ4hHrJa_d-nm1Xdo3yhATi-YDbd_3fwUx1noY7oFUosTEm0GyYmjToQPmB4xKHGGc4f9CZLGgAKbxWUxHTQ1Jbnet1SGNk80CnrqdgSDvZ_hKmdJ6IZ_a7B1Bj2gHC7fuLH7OUOx8ADhPGuPHk0evznPe7a4OSQFQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/u6fu_MYws-YH9h6-THdosC0rBlf8BzdZIM6vPOnbU9gCVJptDWt62siMcSh2hidxbyYN9IBAYQvTWwNwsYdfnSggSOZmT0FthTkUz3V7oZ1Qfgk_Oe-bGzBQF0Z455-wi0lLQvleecLKNe5DI18fVj1bCJWUHM4ZEN_su6yCvIaB9R4xTP41X5ji4IKwSngCgT2y5tOH8vMowIiHb-Vy2CW634OdYBiUuk9KQOGXl-VrdH99tabIztjsqRet4xSQ6i5fdACASnhmVLQ-ZhErmVX1H1UYYati5F6sY6UeVJaBoVUM3QoG_pUCPPWbnDV-l2PDiHPw_xHyxECpOCjvyQ.jpg"
         }
       ]
     },
@@ -146,7 +109,7 @@
       "date": "2026-10-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
+      "views": 8420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +117,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CGFIvoN_BnMa2a3GR_gP-78GLxwNJYGYEcwCNYj60wD9JoHy_4ih6NRp_S5zt4uVsBRlqx9u-FiKfQJ1NdHzLynVIAXS0D_WTrvllrPHbZA0mLd76RIpv1z7JncwnvIXx5m1ISINe4ADG4v3j3RE5rKK_qQdjmQ0vLUwmOVjwviVk7pAMhbgiIjhsOt8Sf1WVRsgqs0Vj57x9iRdEo0NjWSnaDeoKUMSS8VjN1wG5Dc0DFGoZk9ia6zGqJkjtv2HdL2h5cZuxT3mHyAqoczmobvK7E2B8cF2FqjOu-GI4RWB-ZU1sd0R-FAqtpNMkebSLGVVyzY_eFnZCcHjKLqozA",
+          "url": "https://cdn4.telesco.pe/file/js1NuxoUEovIfqBHQ-VibaJnSZ3a4tjLk5Rfgp2m0HUdhMJZT7GI-yQArHmxINkAR-VNKzSoXzClZ8c68bzyDOmp3ymClrKEsw34mAWVEetIUNPoGAq2ZVZ6UfzEtPXFCLd0rUWKHXR09QkXnEgyaerdGEtokLFhgi4mmfQ-GCWJ7MxjUNYHDVeikINOoUIo18Oto7sv2fZG_bKjGXhbzjUwtKMPnbxDDYAsl6ayIJeIIucVzP9ZnYbq1_hql-5UZrSyzq665Ujn9sLQFFMYEXeknIkLVBdO_8COhD0l6CqGm9lK6tqjN4QAkpMfEZeJRFCnmzvG3yuTQ0Jw7AZbMQ",
           "width": 1920
         }
       ]
@@ -165,7 +128,7 @@
       "date": "2026-10-05T22:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8470,
+      "views": 8800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +147,7 @@
       "date": "2026-10-06T13:15:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 7580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +155,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WOPhsN6yfPdmYQ8i2xLnZFThPFLPKp9vXr9hcUqiT8F11qT8tZUmhw4PxdpRv5mEWlKP66lWvaO9AGQo2aLDAMOW21Ia5DnokMSMbbLAhwPLqMLdBQ_7Wk3zAcuslN-LoyXfGmcCgyEYPdXyrfA9v6mw524lbf9CA0pogwq-F6J_M81aqczphkcz5ZMEehx-2as3BUE53vIRHj9JCb3TtzPebshbgjerCYJ-sJoMpTFEBFYzKTnYC7vRy6lqf5YGcsLPXpHm8oNhsBfuqDUHznBtQNtakhnDwregh-ke2r_HgwE9lbaEL_x9TDlHkcIXFZU8hB788hb_HV6Ev10w4Q",
+          "url": "https://cdn4.telesco.pe/file/O3MyPdEGZZ0qViokoC85lBpAmIlYkcXoQ5VNFTrJAUEYTHBUW4xDFp7nzXpnF8JKQE2GYhDdtPnwxCwj9uTdDWaDKevXri76bgmntt_y2j_MKUMFfaPPVNw2KIwni2yN0J0tiQooVlgpxAE13u4qHYLwdPFTthHmIOhB5QwK_Xl1X_HDox8HhX3e4e14Oz-qDjVHChviD97a_u0N3szcktW9eUit5FnFNoKO5MBZbpYf3Y33gO3ddDgvhDz0VsMGU5c1uFO_MucM29961NUo5OKJZ_3toe5cXheEW-cQ6YDxsiIp5inJ6hwjQSCXliluInJkwC0eVRxOkjpwNgPJaw",
           "width": 1662
         }
       ]
@@ -203,7 +166,7 @@
       "date": "2026-10-06T13:20:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
+      "views": 7160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +178,7 @@
       "date": "2026-10-06T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +190,7 @@
       "date": "2026-10-06T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +198,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/nUpKr1-B0Tk7v6PoL03_g1atHLlMY3zCaXWY0kdCeZHZmTOjFOAB9gpDPwAdU3Qdf-mCrQfuK4wsjQJpeAGrJpTwvDM0fBcYRBVKfhtJxSqF3MK6okguRRTSegIqxjXIdK3GeYsRjtoVyKcQl3s3Su58IUYyM_gIbmaX5odp3-Jvhry7iE8QJttYwLZKxisgvZlcHo6ZoZbngJyJvYT0Jd8znIzd8Of7zIdBAb9gOWD-9TEGdGL4FUu64bghW65uZNVXOgQgTckouVzn4f2TKWe0WdO6bSKV5NbnKWLVpO1u2e8Rz50lQTX_psxeStgMlLXYfRL9hcwEBeBLYqi4Kw",
+          "url": "https://cdn4.telesco.pe/file/tlHK-sCuU24dExM4op4_9XQ7aMxIiNDyfbwiE5mFltusXl30fJYDjAV5cqGs17c5pVO47KI9U0VNRZGpLkHoWtYOqW2ffjzQeiZ4jtH2_DDIo8fyvSk36eD_DzsBV4JfpI2gIdTrT3sxAZ1qFQ2ml67w9RxICv3Ob78TUtzrBRCxBjB2-NhT9prlQl3GZGGyVU2Fmw0PnhmS7Hl-u_XZ8pdcvbRezvYyjromFjfov-3YZB-l6Zny43SqAf22fNLcL_WZzCfKWdilVuoKqGPADVfieESR-RblX4W7JqpsU1FOOf9XmeRBXZl6CY4v-Y2LZVSK3npEov21SW7e3VfKFA",
           "width": 2560
         }
       ]
@@ -246,7 +209,7 @@
       "date": "2026-10-06T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5770,
+      "views": 6390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +217,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BD8hXXp75Yna90AjyiQg_0_Nz-fBqzyKD9i751jmFgSH7d1MdLX69VwZcaZ8Gk4ID_Tfpm9FYUFemueNpuXHZaJlvJzr9LNiBe0aF-bRHf12w1XgI2r5Vx_ZQEtA0iDU24M-6f9rx-p1MrVOJgifJ09Jr31YQLx9b1nWnJZV6JMUN57DyVSAfelf0WbynpS2QpaPT3zpcTywKDbMYcfpqdooZrN3jN25q6ig-eJhJXU9vGN_3ui7sH5ivRrLc6iLvPHadc8m3B39QocsMCxJgwB953btdZiGGf92A2rh_ovvKv4dUNHD6JQ9Qu54swzvm-opwJFt10fjsBB_EQuX6A.jpg"
+          "url": "https://cdn4.telesco.pe/file/gqnA0-rei7Mm1vYQISd2r_DYv1WAk6vktDYMD6dOimscE49T-E3qs6SY8qK15uWRRpwY8_rSC5DT4_GLkbu5fctOi3xOe6Dba8O7k_YQZXkJCI22M5hI9-F2ybmZ37FcoFsP_vnEoDoC9-i7iCeaF_nV6Pd1WSd8Em1O2qf1Sz2mP0m3FeSe3rJ-S9q3FyA5WMQxcMje6MOA2nyRK8X0E8E_DuksQA39GW4n8RkLfMphG2kf5ciClng11kXScYabtY1msZvB-L8uBd0PvDLp8AaeIiZmRrZk3AC38MomMpe4JzI7lBvU14EXJa6tVAFMoztCWjnJr5zZw7p3LLdNWA.jpg"
         }
       ]
     },
@@ -264,7 +227,7 @@
       "date": "2026-10-06T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5520,
+      "views": 6200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +235,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/t06g-tQ62nmQv_8EDep2XNjdS87SSrSh44169EIN3ySb1-b_DgNYxrMkbwI-Pm-kix7A1hciKh_zW0aAb1Iq68VF6nbEZrfUnnfQ4Z7zwfsYzw2KNpC6J4JYR5bVV82Nt-oQWIRv5p1gIqA9-yqq6MKQGacOnUxc-NbQSzenKhBN4_uEe1SmcY-24sth4RUXS1PHw18R1c2fdNKjZS1zTc-5P-PDgsBw8RpeENPP0MDBZ9IVSdX4WK0kCo1JWXeM-_b-x3rLq6Cs43lX2XPFq9qw1n96SGNP8tjHuMQKhRpbxJaYRQpfJJx7cjr2JzGUcSCcl7CF-vccSizpXEWT2g",
+          "url": "https://cdn4.telesco.pe/file/G2y2nsb6mjq9vc9OMAHQORMU9akwcEi43pJByuyRjAddlNr18VjwBcQ0clZxKVZmAANlzMWVvUv8Gq5E2dqJ97znW5fF9Oi9j1Osx9bmtTCoYV3keThyaya8ncgL-6ZAOWjOUeJXHjTUGduR5ne8Y7_5uk02CX9KNeb24QA2UqwpoKoLLOEZh_igGbywIUTYBULr3E7KEXUxUZTooayrkFJFYJrrGCDLZnZXuSAo82C1jV95s6ym4V82HeCXsMqzyxcPClMlNawvF7XdPn_EU2K4JOXnY2ERkRnMsVL1kvL5rB_BYEGHg83FKUyNcUXWdLpp_SY2Ez51vI2t0_FPyA",
           "width": 1080
         }
       ]
@@ -283,7 +246,7 @@
       "date": "2026-10-06T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +254,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V-y-X8SMAZpVJ0nsjEMuPrGsnrTWtf91dgMCYqU-5xFcVzyrw-OK6ESF7aBTTQEyGyBp_cyq3hDSWsho6hbdUOn3OPml8HjEqQFKqejUHN-w7yVtSeOPQoQWjQVCFbRRubUL71AecVCRhtf9LYgH5F3_A_A7x8HvTcqUVt48aLaup3t0XaBJmwn10PVm2fEnik7SAIWEmMYVsJpNPSnqeJ9VHeycV0RIapgJ7l5hAinu08jK6B1fzgsgGssGLPwUq2TtQkJwFQZruF1wl9CaDE5jD3wvfbOUVmGysfhi6jhwniuO108oFliOJvD2f1Ug7HWALEZ44rCMjjAqbqBLxA.jpg"
+          "url": "https://cdn4.telesco.pe/file/IRPkG-tSja_mvsEe5ckNtRD_MP3XPSo-cKPL2o9prPNI8OVCpXZYjQu_gfaJ-N43BF1xxpHB6H6V_8UK1uFXBhS7YaMufPbY2q6EiqvQKHOcRVv1ZAbAgdMwn1jOrxMJ32aflSnYEeaX6n3d-TPjxs2UA4c30Eig1L42ho-jmNL5xrHQ0uewArDkCye4ZEjJnIsEkMyaFhj2wG4b77nzK3SOMzW-3sBjTlJ4kKHkCCefUQrzEui6RUV7evJPx6MqF4oBS64BA1ZuKPTr56YFc2EYx6nuVTJkpWZYxTocNwaj0ZS9UgIXZVtH_DNNHzxsyqenzZDubQYw-_TzMy0fJA.jpg"
         }
       ]
     },
@@ -301,7 +264,7 @@
       "date": "2026-10-06T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qnnAMM0qRJDKVC209jlJktfF2juGmxZ3d3bgEMes4aNjooYeGdZy32OxdTuThXYRVrok3XcmLeVybwStsM8Tz4IUZr6a0SQvRM-0jF1uLmnhxSYy8Qvkpsrg-oKqJEo5U-RR_HsyfOWqMBYvCBlbVqYUwIG_yjZRsB6dkpjMMprSCyOrKSmzm0Hvz34T0TAltB8naWzL_qIOhGBdl_QCs7Wj_pGRnkKUK41ZjLZobCCf_9--CGfYdr8JRw5C4WeTTR2f_Y0zQ5P6rKtYCl5XihLvFr_9oq7TWJs0WD-01WieG9ambpgKlx4DZ4Ov_fWLW1Iq4UD0xrOT3BzNMu7lPA.jpg"
+          "url": "https://cdn4.telesco.pe/file/hl6vYXiqzRsuduGm3K32nehoRKzpcrEalJJi2Klqhih0qBOjTLKPYacMwQqmBT85gzxy4QNbeoKQVGPxfCoo6xldc7PRVxF8PblKrxcEXBZKjbdpigRCNNu4QchZq0fwO-wAG3_F0dgec3-YvlcCe7erPMICuK_F5msrYKDofOHkmS948G_Z49xfbzthtbOhnGzx3BMvWvjmr5jfcboA2p9LXfdEaENHIMmLi2NLpl9Xz7gFP-ObohbD5oIlx4ldatUAgNZEBBGKgZN4-h6iTSApBkcf0vR4uGZ4l3myu4XDUfyQg8dOYKKmaWjPOFrtcGvEwx8okMGrx5bwx96h9g.jpg"
         }
       ]
     },
@@ -319,7 +282,7 @@
       "date": "2026-10-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +290,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HR98utz0cmJX7WC3A1l7PEP7WAwHz5l5vnLF0GzJJanYqbzDYCfsvloHf5uBrISEzUIwlewOE5ubIiobQncKTYTRZ36Aj8TyB5gYGG_-ZAA26Q70bBv84ri0aaYja8l65xeA2j-nxV59PqhhUxTcgfT7q9NldByIRQB7AiMloZKsc-1QcfSU3XDLxzmERYgKWcogcsjiMAkSpXnqETLhMwGZAD8MLEK-GeXzIi-C9ShKDP5ClY9WjAXcKWOfH8WMhUt3EdbvssXIeBAJduFAjCJpHrmgtG0T9FTQa7WGPPb9Y_An0cyrt9U7h_W5v-a8fDe_2B5yYV3u3oJPismidQ",
+          "url": "https://cdn4.telesco.pe/file/E-TNRfKFxKou8YKssrtF3MA_ltV7J6iq9LMh1o3JDCI7lfWuzEqd2j8oCDGTHEoum4bWGAGHdp4j1oFz2soa-jXD8xWDRZ3fXDBaqmjgJZoyIi7ePC5Ll0JWYvOaXTmkDBKT9rnTTcKG8QxnRQJvLvyoVHFocDEvGPu5VzcCSogcAh5h8KeP6hA95PtGyBMN0ev9qwdkB7IYqOvtMHt-Aihi2Xv6f4erU-pv3PTz9YkP5PHCe_kV7L_Rd__5su3w5KcxxZtWxuuNzwP8KZ1BTO-MIkh_aNg9BZPNvDTPo02KsL8t_7YRzfv4Q8K0iHOxPbqHbDe13wXGS84WziFbrg",
           "width": 1080
         }
       ]
@@ -338,7 +301,7 @@
       "date": "2026-10-06T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -346,11 +309,42 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Vp_U08fUexPDY_mW_aBRH99sQ8Ns6X-GigQ8-tbiR7CwdlUV3cp_F11ckXeBbU1GZwK0N9XSj1FYs02rkizxUPcenrb674ww5qAW8ZoWxtV9uuT7u8stOdjM301LFrXlTKmFpOy3LlC8PyKs3tIXOlUY2r40PTE43al0Te4kEKbsrQuObj5m6UPYOSUr4jQVHh1gbRCOIItqL_X-FXOfMqmnm2W9OlmVZDbzR7YTBfZ4JA6FVQufltQ3lE8Du7G_RBJWrPfUs30D68mLhm8RtZ0SEzk05NI22kQtuJiNSxM63jfm6N94UQWoxDpmboLXFrDQeWfNtDTNLTSAXas1gQ",
+          "url": "https://cdn4.telesco.pe/file/G0pt8lt55D_y9RtBxm-IrcNr2HYt3cU61xQsL6EQ-2Zz7X59g1_82hnZz0mkBcO0CX69UsEf0Gr7hIhQDQ6krDvIvtPDqSrHIyYu20y1Gci9_foyOOR9oLfHYQP2VHn60fJC63qdO4AV6VwUs-Fo82PhZkJAA8adTloVgNjJw_B9U8jwJEzFFIfRrYEir8NrHpcHe5xWtLti8M24HexjxlBX6uCvy2ZH6DlbDVLYyIjGi_sudnwBaM0h__NnxVpzCfRflBp5sjHLUa3BL0WIICMCmFio6xEKDiw-B4Nny938WDAfXaqZK9RFk1vSDba6q9CnNrSUqyxlzFHNufEZ3Q",
           "width": 2040
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من با هوش مصنوعی تابحال نتونستم یه پروژه رو کامل بالا بیارم همیشه خودم هم دست به کار شدم توش و حداقل 50 درصدش رو خودم زدم؛ یه تکنیکی که جدیدا یاد گرفتم برای پروژه هایی که کامل دست خودمه اینه که به صورت نوسانی یه روز خودم کد بزنم یه روز هوش مصنوعی؛ این خوبیش اینه که خودتون از کدبیس عقب نمیمونید و اون مزیت استفاده از هوش مصنوعی هم دارین، البته خیلی جاها کد ها و فیچرای هوش مصنوعی رو مجبورید پاک کنید و پروژه هی یه کوچولو عقب می افته ولی روندش صعودیه؛ مثل قیمت دلارو دیدید یهویی میره بالا یه قیمتی شدو (سایه) میزنه و یه کوچولو میاد عقب تر در کل داره میره بالا. هوش مصنوعی هم اینطوریه یه کد اضافه میکنه 70 درصدش رو حذف میکنی همون 30 درصد که میمونه خیلی به رشد پروژه کمک میکنه خودتم دیگه از قافله عقب نمیمونی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-07T13:53:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "گوگل از EmbeddingGemma 2 رونمایی کرده؛ مدلی که برخلاف LLM هایی مثل ChatGPT قرار نیست باهات چت کنه یا جواب متنی تولید کنه. کار اصلیش اینه که متن، تصویر، صدا و ویدیو رو به یک نمایش عددی به اسم Embedding تبدیل کنه؛ به زبان ساده، محتوای پیچیده رو به شکلی تبدیل می‌کنه که کامپیوتر بتونه معنی و شباهت بین محتواها رو بهتر درک کنه.\u003cbr/\u003e\u003cbr/\u003eمثلاً فرض کن هزاران PDF، مقاله یا سند داری و کاربر می‌پرسه چطور فاکتور قبلیم رو دانلود کنم؟. EmbeddingGemma 2 سوال رو به یک بردار عددی تبدیل می‌کنه و بین اسناد موجود می‌گرده تا محتواهایی که از نظر معنایی بیشترین ارتباط رو دارن پیدا کنه؛ حتی اگر کلمات دقیقاً یکسان نباشن.\u003cbr/\u003e\u003cbr/\u003eنکته جذاب‌تر اینه که قابلیت‌های مدل فقط به متن محدود نمی‌شن. EmbeddingGemma 2 می‌تونه متن، تصویر، صدا و ویدیو رو در یک فضای مشترک قرار بده. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2\" target=\"_blank\" rel=\"noopener\"\u003eblog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-07T16:34:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VJBhWZzXCrgtj_huLxPryS1zCMZQ6MOgVos3Xy96T531-tzb2yb7VAp6icO4Oc4sol7EFP-tWUfZVrkPoduJSnZIdawFAAlI7KS5wYZ7T3os0GrAf6EASIKlmzEtfKgJwiPmrVsviJrhFZSfHUbGe_9IFUkKo-eOCdaxF1xsC-BFw4hjpEV-8MwsutoB51R5zAyjmb0E1Z8iWCEs2ulL2GRxLiTglmOhcUffjH9vjL4v1uuwZAhqP6JLsrnpUx_FkSHsBtNdneeBuYBWcrxXQ8-k_Bs7hp1l6Qm0J1IQOP1nwh1Av-AGeRYoK8pb68m8f2wgIlomh5ccaptZGvLrng",
+          "width": 960
         }
       ]
     }
   ],
-  "last_updated": 1791365481
+  "last_updated": 1791392731
 }
