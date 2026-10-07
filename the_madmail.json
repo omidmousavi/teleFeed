@@ -62,7 +62,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/DbcVf8qAoWc5kJ_3mQUg4esUtJ4lsl823iR67byURQ--oulA4BIPJwbWPWY5eHLnqFeYp_FhYsTuIaOeWV2BymTgIHNPZuchHmuDP9pjOPrsBW7qozjlSGiaGB6bG0gJHBnrRocG3JUEh7LAjgpGbC2Q6mH3BRkRkEN0Bb_GjaIufNdztlb0w-ZsH7BZDVMVOCZhbLss2pTY0hiaOphBq3McImxYkP8HeXqxZ-_sgq5_iW67HR_CI4fZ8obXwQ3oUV__vIiTflIm5blZ607JcaqX61SPKFnHzZBTqjty30b9v0EAxqtvgsM0E4k5rt-3bSsSfuLk0aoXyN_xBR4bbQ",
+          "url": "https://cdn4.telesco.pe/file/UVoHGdxETcMCuYd1uddvU8iOfgSv7Lq0pZPHiY_36VdyqYNwWcs43qzbsEIczsgRJKfer-kj1D76eKgQnkDSn2eon8In5hrNoUFdu6Opy3DAieUk-aXz7HnRitW2XNcMW--b0Ecsp2XFhVEePXS4NHViWr19_777pmfRcb9arSfb1O4RItuSJM_XkGXzOOVHiKp3puL9BpOv4VsWhjytdF5ijMPfWRBzEgzP-98mmRcntbKzMkgJgqzGeIBJ_ysT_2bImk_dvZ_ItRVqgkCeNh5yhvz1rQT3Qkv4XwPm3OfH5IHHyckDi3QXzIO2sRdfsJIKu2B3oTjOkPIaKOT7zA",
           "width": 960
         }
       ]
@@ -133,7 +133,7 @@
       "date": "2026-08-15T17:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 994,
+      "views": 995,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +175,7 @@
       "date": "2026-08-25T20:16:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 967,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +187,7 @@
       "date": "2026-08-25T20:35:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 933,
+      "views": 945,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-10-06T19:08:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 449,
+      "views": 469,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +211,7 @@
       "date": "2026-10-06T19:15:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 357,
+      "views": 372,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,12 +223,12 @@
       "date": "2026-10-06T19:36:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 330,
+      "views": 347,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "madmail"
     }
   ],
-  "last_updated": 1791392803
+  "last_updated": 1791410912
 }

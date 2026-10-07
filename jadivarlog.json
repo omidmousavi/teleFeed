@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اینو یادم رفته بود اینجا بذارم. یه گپ است در مورد هوش مصنوعی و اینکه چه فرصت هایی رو برای ما فراهم می کنه. خلاصه کلی اش اینه که هوش مصنوعی باعث شده هزینه تست ما خیلی پایین بیاد. ایده هامون رو می تونیم بسیار سریع عملی کنیم . از اونطرف کمی هم گپ می زنیم در این مورد که شکل فکر کردن ما به مساله باید چطور تغییر کنه و اینها. یه صحبت یه ساعته خسته کننده است ولی شاید برای بعضی ها ایده هایی داشته باشه که در این دوران چه فرصت هایی جدیدی دارن که خوبه ازش استفاده کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/p3qmeYbKj4s\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/p3qmeYbKj4s\u003c/a\u003e",
-      "date": "2026-09-19T18:27:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جادی | Jadi"
-    },
-    {
-      "id": 0,
       "message": "در ادامه بحث هوش مصنوعی می ریم سراغ یکی از کلاسیک ترین شیوه های رسوندن اطلاعات جانبی به مدل های زبانی: \u003cbr/\u003eRAG\u003cbr/\u003eدر این روش شما میاین یکسری داکیومنت / اطلاعات جانبی رو توی یه دیتابیس وکتور ذخیره می کنین. بعد وقتی سوال مطرح می شه، دیتابیس رو نگاه می کنین و به مدلی که از قبل دارین، اطلاعات مرتبط جانبی هم می دین تا با استفاده از اونها جواب رو تولید کنه. این روش بسیار موثره موقعی که می خواین مدلی داشته باشین که بر اساس اطلاعات شما با مشتری صحبت کنه. \u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو یه رگ رو به یه مدل محلی وصل می کنیم و برنامه نویسی اش رو می بینیم و از اون مهمتر مفهوم دیتابیس های وکتور رو. که بسیار متفاوت هستن از دیتابیس های کلاسیکی که می شناختیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/1imP4X8fUdA\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/1imP4X8fUdA\u003c/a\u003e",
       "date": "2026-09-19T18:30:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
+      "views": 44100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-09-22T19:05:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40000,
+      "views": 41800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-09-22T19:05:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41500,
+      "views": 43000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-10-05T22:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sOxKb3GjGPneXBX5MW9Ry7Zj09pHxpUST6WFRIDWgx6Wzn5-rZbrjYGz9h4veLdEF-DH5AZyJ5hylj7APpUNzlrb4ukYTHmZMmHYs_rp3ZScrnI5BXU0m9jAN9WaMTgvSfEUqjt2obcUodMqhLxNLMk2DtZIbxBbw_hHPg20d8XFnja8eN5f4v5CObsOLZhFGrKIGVzj6ThG3ZsplOZhbWS2Qd5PlJLw46firNGBOY093rBjV4GLUPcMN3_ibtVakHQn1WG8uUoS-hHzx6vNMjJaWEL-MkiUnfnkaeDW5_4spBu-_qBXbmUv4TfkGoGy1N3bcKv-yFFFHC32MTPr9A.jpg"
+          "url": "https://cdn1.telesco.pe/file/Oyqnmy063HRVZPY0QG8mQVj4DOdlASb6RKBYIESFP5-VpovTQZpur-1PT5uzYLWv7gnuMPJJ8zxwUXCf6aF8ZAJ0Ux3fPfVB6coVAUKUWeZ6tpWTa0fDIDLw18iDdD0KLcsOOPZB6aF3mqE4WTH144OLLwq28F45QMcH4wayG70JrY21R61iy5mINI-iKKRHY0r5Nu0_aZ2nWaaWNDcLIROlJiLjs_icAlriY1yQXdxgsU0RsIZg0jYsPB2gFeVh-Vwyvmx0RQMOweoLM89GPQ6oe2N2dC6Yk-Fi6X3XNULcaX-ySMrjhtSdWObQ6RPQHKLR4PlMnuSkOi3UbwIuuQ.jpg"
         }
       ]
     },
@@ -78,7 +66,7 @@
       "date": "2026-10-06T02:56:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +78,7 @@
       "date": "2026-10-06T03:03:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-10-07T15:11:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8570,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +102,7 @@
       "date": "2026-10-07T15:11:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8410,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +113,19 @@
           "url": "https://cdn4.telesco.pe/file/r8xvZBIaiaBSJ2n2RWw7vxwSy82twbHHsGT4rkE258Df3MDFzh6vM7-teH2MoikFkhD7p3vhv5uC4TqgQJRX4-6BmEkqwJshIdmDwG2orwcWm-b3jwkzLIwrFHXVpucn1PtNUzwOvgqLLedz_iKgQyp14cwKjl5RpEjhHTTS4SMWKbeE5IT_wKCYN3D0M96kJMmHlnIRmtqpKTvDhkhdynnFQ9lfuHPPpPMu5GcBax-t8oWp9XBeGayI6uZOmg2GvbPLqpeSszUbX4UpTvBAvaIxcX1R7Rbb1xpaoFuF8ERNGHTc7uTp9517ZZlYqNmIpgEaiJOwKRRO1-rrcG1sLA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چون از بازی ها گفتم این لینک رو هم شر کنم که امروز کلی هیجان درست کرده. یه بخش جدید از گوگل لبز که ایده های جدید گول توش معرفی می شه درست شده به اسم Google Playground که به نظر می رسه توش قراره با AI بتونیم بازی خودمون رو درست کنیم و بقیه می تونن اونو رو هر دیوایسی بازی کنن و ...\u003cbr/\u003e\u003cbr/\u003eبرای من که فعلا هر کلیدی می زنم همون صفحه توی یه تب جدید دوباره باز می شه ولی دیدن صفحه اش باحاله:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://labs.google/playground\" target=\"_blank\" rel=\"noopener\"\u003ehttps://labs.google/playground\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D8%B9%D8%B1%D9%81%DB%8C\"\u003e#معرفی\u003c/a\u003e",
+      "date": "2026-10-07T19:39:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جادی | Jadi"
     }
   ],
-  "last_updated": 1791392722
+  "last_updated": 1791410830
 }

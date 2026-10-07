@@ -3,76 +3,16 @@
     "id": 0,
     "title": "Linuxor ?",
     "username": "linuxor",
-    "photo_url": "https://cdn4.telesco.pe/file/IrTr2nCwxn_n917vezKQ0SvqGooI1zuEtuNXAF-U3xByvc1luvCUgA-FV7KosT698Ztrfor12qBUO3rA6g9JmYdN6Xko4qUTQJFdIXOKiOCWmKJjUSrNkr11uil1gJK3TeXyes_fhxVdTsHeM9o9Uq2phxJfcccOFsFyyQLR1VCPjX_YAeMN4qsL2zV41VG6OMyq58L8SkQIQOdH0ikhvIJw15ES9532Ge7xJjy87B9cAnd6lXGMVzCq_8RtawCEzFerOWqkkFFyAn0g3_FNwZ6DrjX7Lg7uM5SzBNJfnFvTWL4DFzk3QXVSjmctg4f_AC_owcMy7FEIqesct_ZPHg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Qkk8beKiukXjhfNxvwYzc_5j1kiCtnBcgE9cEMxRPX9rOjDaTCP_XPgDYBsDnOc1RMBXAroXJZzMNiaCy5NcTmuVljCXSgDCQM_Kiiqif7QZKfU78D9IUyrNf7P8tRtLCZCNyWGrkI8aDTYZHS7Q1gNaA22xx2ubCgYPIhyPSHc8CLDe9ZYKeU-7IeH7-6EszqTeOMz5rTqAsFls6AmgHpABbTDEn5ANDdYwLZK6tjudnW7E0vQPmiM6xpCP6fL0ORZWJxoj7RZz9uM_0kueWkmgmfzNsUjK5m7oc3aCuWTqJDdb0zzQcdq1CztIrXhSxrXO7N0y14UT-9f8PtsetQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "یه پروژه جالب پیدا کردم که هدفش ساخت اپلیکیشن‌های دسکتاپ سریع و مدرن با Rust هستش. در واقع یه عالمه ابزار و قطعه آماده در اختیارتون میذاره تا بتونین ظاهر و بخش‌های مختلف یه اپ رو راحت‌تر بسازین؛ از دکمه و منو و پنجره گرفته تا جدول، ویرایشگر متن، جستجو و کلی قابلیت دیگه.\u003cbr/\u003e\u003cbr/\u003eخروجیش هم روی ویندوز، لینوکس و مک اجرا می‌شه روی وب هم با وب اسمبلی می‌شه رانش کرد ولی هدفش نیست، توی سایتش می‌تونید کامپوننت هاشو تعاملی آنلاین تست کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gpui-kit.com/component\" target=\"_blank\" rel=\"noopener\"\u003egpui-kit.com/component\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-04T19:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8950,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nyFT0K7Fd55MlnemjrhHcifM3mUwoTfbVcBgA-pLtFkH9fdHMc5kAroDskz3dA32Q0GLzR8wl0EZjJ1h-XyK-Gby1NkRdcyOq5T7vucReCI9dfNtKCv7WQyN3mdOdIrqZSNtOdoRGvtDZfS27kCKwoD2RcRwAZY17NeFXDnHHBHvAktReUNNP6yuEEYk8bTTAV8-fuQgs_EH8fN7eJdfQzVqjx_2dTOXIt6c9Uil1BzIUe9rNnN5GZV0WRIHHk9oVwzHpMM17Ixj3wLfsgorDaftRF_ItnyoJXtz8d9DdJ1tQSN3mG7FGnrntjCyHtnVbOVdJ0pS8KwNV6HYhsWahA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بشر زمستان رو نمی‌بینه یه چیز جدیدی برای هوش مصنوعی‌های صوتی دارن روش کار می‌کنن که اسمش Flux TTS هستش، ایده‌ش اینه حتی اگه وسط حرفش بپری، می‌تونه بفهمه دقیقاً تا کجای حرفش رو شنیدی و بعد مکالمه رو از همون‌جا ادامه بده هوش مصنوعی های صوتی فعلی هر جمله رو یه درخواست جداگانه می‌بینن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-05T13:11:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "دیپ سیک یه حرکتی زده فردا بعد از ظهر سهام انویدیا میریزه، موتور دقیقِ پشت مدل‌هاش رو منتشر کرده، اسمش DeepGEMM هست، DeepGEMM باعث میشه بخش محاسبات سنگین مدل‌های DeepSeek روی GPU سریع‌تر و کم‌هزینه‌تر اجرا بشه؛ مخصوصاً در کارهایی مثل ضرب ماتریسی و مدل‌های MoE که بخش خیلی مهمی از هزینه و زمان اجرای مدل رو تشکیل میدن. این خیلی برای شرکت های داخلی که دارن LLM‌ شخصی ران میکنن مفیده چون میتونن هزینه های GPU شون رو تا 2.7 برابر کمتر کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-05T13:20:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5244480562512555954\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA79EE2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🧞‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاکانت‌های پریمیوم اکانت‌آباد آماده سفارش هستش!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5262838511161076891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2998A.png\u0026#39;)\"\u003e\u003cb\u003e♊️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gemini Pro - 18 Months\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445243568903961265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ChatGPT - Plus, Go\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6008121985349979345\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Capcut - Premium \u003cbr/\u003e\u003ctg-emoji emoji-id=\"4963072209334567688\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Duolingo - 12 Months\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5195033767969839232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل سریع و فعال‌سازی مطمئن روی اکانت شخصی شما\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5440841102871517055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت ثبت سفارش:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbadShop_bot\" target=\"_blank\"\u003e@AccAbadShop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388632425314140043\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9488.png\u0026#39;)\"\u003e\u003cb\u003e🔈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad\" target=\"_blank\"\u003e@AccAbad\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296767301100513078\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آدرس کانال اعتماد:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Trust\" target=\"_blank\"\u003e@AccAbad_Trust\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269458311381258421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e👩‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دریافت مشاوره:\u003cbr/\u003e\u003ca href=\"https://t.me/AccAbad_Admin\" target=\"_blank\"\u003e@AccAbad_Admin\u003c/a\u003e",
-      "date": "2026-10-05T16:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/D-ZigNqtw_IS12_bEioCpZpKsQxbxE5FADW9y1uR8XHuRVmzaq1DseuQhifDsO5U1uZorkI20HrlJIbsTz2kb0oL_Jj0krsAAUMDRp6P8STQxfQ2EUu5rs-SxV1P1TRnkdAQ_wB-jR2u3IkG1yVUsufFYUWAdjF_4wJKMwUydKaIBb5DkqCSMN3fxx5R-VxAgHQd3u_CnqEhz2Ci0dKA8aoNjbl8i24BA-5xEtATzp0FNaRymm8YPECAfsJLPLIYdDNdHvN5naJXkBE1KCljH8pxE6wQwmAQV1EcQIthM2EknxBl3wLWAbfKwaiTylxzb7j0RvC7VGTIkli1uQamSA.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "مخزن HeyGen همون ابزاری که خودشون باهاش با ایجنت‌های هوش مصنوعی ویدیو می‌سازن رو متن‌باز کرده.\u003cbr/\u003eاسمش HyperFrames هستش. ایجنتت HTML می‌نویسه و خروجی‌ش یه MP4 واقعیه.\u003cbr/\u003eبا GSAP و Three.js و Lottie کار می‌کنه، 21 skill برای Claude Code داره، و بابت هر render هم هیچی نمی‌دی.\u003cbr/\u003e56 هزار استار ریپو.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/heygen-com/hyperframes\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/heygen-com/hyperframes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ Yarad_ai",
       "date": "2026-10-05T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7650,
+      "views": 7770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +31,7 @@
       "date": "2026-10-05T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8250,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +49,7 @@
       "date": "2026-10-05T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8420,
+      "views": 8620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +68,7 @@
       "date": "2026-10-05T22:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8800,
+      "views": 9050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +87,7 @@
       "date": "2026-10-06T13:15:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7580,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +106,7 @@
       "date": "2026-10-06T13:20:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
+      "views": 7510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +118,7 @@
       "date": "2026-10-06T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +130,7 @@
       "date": "2026-10-06T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6780,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +149,7 @@
       "date": "2026-10-06T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +167,7 @@
       "date": "2026-10-06T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6200,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +186,7 @@
       "date": "2026-10-06T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 6490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +204,7 @@
       "date": "2026-10-06T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +222,7 @@
       "date": "2026-10-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 7250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +241,7 @@
       "date": "2026-10-06T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6750,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +260,7 @@
       "date": "2026-10-07T13:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
+      "views": 5970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +272,7 @@
       "date": "2026-10-07T16:34:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 4930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +284,81 @@
           "width": 960
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5104986024807760966\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB0.png\u0026#39;)\"\u003e\u003cb\u003e🎰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  گردونه رو بچرخون، \u003cb\u003eجایزه ببر!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5251714794972539031\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فقط یه چرخش تا جایزه‌ت فاصله داری.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5239956780833857591\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://quera.org/r/o4au1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://quera.org/r/o4au1\u003c/a\u003e",
+      "date": "2026-10-07T18:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bR2IEcHBARH97IMa37AKVFzHLsam3phOUmu_BpVnOcm6dKYpjUEwa8IHpdQ9J2hHaGKG3oksrnz_ls88YxIvZpjRFDPL8lOIy0GGRBOCMNy115bhK_51572hGKlDS6ysAZTXA2foe4Ih4D6pVd7sqB5Jl6ke3ft0bXN_ReuiVQYSlWBkpQ8U7EHnyTvQIYYFkiHqDqpA81mFdRLRumGs5apcdaET8gNlzhCKdxjnQ7UL2M_U54VzAiOJ74Lb88GVOfBNW5gMQKRgFiRaqcXPTYSNF5Jy0BfgxYvmGj7Kq5Sgc24K1CFHXproqF43yEtwn9XuGaAGk4dPMxIy7VVt0Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این ربات کوچیک و متن‌بازِ خرچنگی که اسمش Jumper هست، واقعاً خیلی خفنه!\u003cbr/\u003e\u003cbr/\u003eاین یه ربات 22 درجه آزادی (22-DoF) هستش که با هدف بامزه، پرتحرک و بیانگر بودن طراحی شده و در عین حال می‌تونه کاربردی هم باشه. این ربات می‌تونه خیلی انعطاف‌پذیر حرکت کنه، اشیا رو جابه‌جا و دستکاری کنه و حتی روی مبل یا تخت بپره.\u003cbr/\u003e\u003cbr/\u003eسازنده این پروژه رو همین هفته به‌صورت Open Source منتشر کرده، بنابراین خودت هم می‌تونی بسازیش و باهاش آزمایش و تجربه کنی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/KingKongRobotics/jumper\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/KingKongRobotics/jumper\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-07T18:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/TJ8DU8XvFwuKdWY9KtSLPbebgpZaUfCHH8xGuQaiOIlUn6kS9CgiWgOTGThAJMDPUk3tcHrsHZGd6E5RM76M_b8901o-Zqq1nMNk5l5BETYXVcM9Q096_h5pbXdUMEoLqvyrvEVN9TUi4dyhosqLRD0COF1D0FNPqiRKQ6NND4kTQWjAudSnjSrLzkPrvHq34FwZ7jIrnqeyJUxSsNQA3OG3VjndxR69BwOsBj1z6nEBrMKzsm3Y8hjMr8fltaJP3HmKIjajgIVHs94FLDgrjS0xQZhXF9dMbIn77uJqp_rAUSfKfzh_G9hoyg-_U2VYgFK3ZIbleJJpJLjE4C7cQA",
+          "width": 1272
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه طراحی شیشه‌ای و مینیمال اپل رو دوست دارید، این سایت رو ببینید!\u003cbr/\u003e\u003cbr/\u003eسایت  Devigner از سبک Glassmorphism و طراحی‌های جدید اپل الهام گرفته؛ کامپوننت‌هایی خوش‌ساخت برای ساخت UIهای مدرن.\u003cbr/\u003e\u003cbr/\u003eاضافه کردن کامپوننت‌ها هم خیلی ساده‌ست و با یه Command انجام میشه.\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"http://ui.devigner.cc/components\" target=\"_blank\" rel=\"noopener\"\u003eui.devigner.cc/components\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ negahUi_tech",
+      "date": "2026-10-07T18:59:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vKNI_5WKPXDhdQzlLlH8ozQhomdWiSN6s5wfdQrxISiqVTgtLpxJANeegBEuimquUmkoNxFPHvfpO4eYbADU8dJxg9tgj7pMIS5GCPmm_tYYa_rv3SE36FTrqt6gGd-gNHxKI40OC1xR8qnxNiDG3hIn2zjNbGM87oC85cwySit5TtZHCdPG1LGVyGgoiBCInPHWtfy3LDP58WaE77omyFzWmiIFlloCzh9LhzV1TViqgLUwycBZ93M0iEnGbxNA37-QiSbybITlTqBIcSe53ngNu5QmH_fS-Dk4ZSTsPSrvJyTtJSPy9cOaw9YWCVahDylvT7x_Dodw_hX9ZNyKqQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "متا روی فناوری‌ای به اسم CRAM کار می‌کنه که هدفش اینه لینوکس بتونه بدون اضافه کردن RAM فیزیکی، داده بیشتری رو داخل حافظه نگه داره. CRAM مخفف Compressed RAM هستش و در Linux Plumbers Conference 2026 معرفی شده.\u003cbr/\u003e\u003cbr/\u003eلینوکس همین الان هم با فناوری‌هایی مثل ZRAM و Zswap حافظه رو فشرده می‌کنه، اما تفاوت مهم CRAM اینه که از فشرده‌سازی با کمک سخت‌افزار استفاده می‌کنه؛ در نتیجه داده‌های فشرده‌شده می‌تونن بدون فرآیند معمول decompression نرم‌افزاری قابل دسترسی باشن.\u003cbr/\u003e\u003cbr/\u003eتوی تست‌های read-only، عملکرد CRAM تقریبا به DRAM معمولی نزدیک شده و در تست‌های نوشتن هم نسبت به ZRAM، Zswap و swap معمولی عملکرد بهتری نشون داده. البته این نتایج مربوط به آزمایش‌های اولیه‌ست و به معنی 2 برابر شدن قطعی RAM یا سرعت مشابه DRAM در همه شرایط نیست ولی می‌تونه راه جالبی برای افزایش ظرفیت مؤثر حافظه، بدون خرید RAM بیشتر، ایجاد کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ twtayaan",
+      "date": "2026-10-07T19:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vb71VyiW-J0M2v6msc2Mx2ODm5MJEZQUzkDlox9cl36o6PkWppNwfJ9ecaCZ-gg9hILJQuNLoEkcWEvMq6tAemJW_eLFTkfZXKFHhL59p5y631uiA2HK1rsbwd5moQQYFuop5-g94M4Lcu9Wtd4pogMPu2X5wDxcWYjGnT-T-w_ojUchw_U8VkarzYZQprLFpYzBPklC3uSjJIFk8OaS1K3lbRYYo44-TS50Gdc2atMDEMbsef1I6eGDMYLcFLmtDq0emisAc9Q2cAIfC58a1Xd0B8ZPP7VkseQzGY8w-b-RKAGQmfa3JymaGkoL1Ac-u5xn_BtPT9HmUIvA7-eD1g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1791392731
+  "last_updated": 1791410838
 }
