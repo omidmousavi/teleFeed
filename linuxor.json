@@ -8,147 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آپدیت DeepSeek-v4.1-Flash روی CPU + یک کارت RTX 3090!\u003cbr/\u003e\u003cbr/\u003eکش KV با ظرفیت 262K\u003cbr/\u003eسرعت Prefill حدود 600 تا 800 توکن بر ثانیه\u003cbr/\u003eحالت C1 الان به سرعت 26 توکن بر ثانیه در Decode رسیده\u003cbr/\u003eحالت C4 الان به سرعت 41 توکن بر ثانیه در Decode رسیده\u003cbr/\u003e\u003cbr/\u003eبرای اجرای این تنظیمات به اینا نیاز داری:\u003cbr/\u003e\u003cbr/\u003e1 عدد GPU با 24GB حافظه VRAM\u003cbr/\u003eرم 256GB DDR4 یا DDR5\u003cbr/\u003eفضای 200G  NVMe\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/0xSero/dsv41-flash-offload\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/0xSero/dsv41-flash-offload\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-05T16:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u6fu_MYws-YH9h6-THdosC0rBlf8BzdZIM6vPOnbU9gCVJptDWt62siMcSh2hidxbyYN9IBAYQvTWwNwsYdfnSggSOZmT0FthTkUz3V7oZ1Qfgk_Oe-bGzBQF0Z455-wi0lLQvleecLKNe5DI18fVj1bCJWUHM4ZEN_su6yCvIaB9R4xTP41X5ji4IKwSngCgT2y5tOH8vMowIiHb-Vy2CW634OdYBiUuk9KQOGXl-VrdH99tabIztjsqRet4xSQ6i5fdACASnhmVLQ-ZhErmVX1H1UYYati5F6sY6UeVJaBoVUM3QoG_pUCPPWbnDV-l2PDiHPw_xHyxECpOCjvyQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه دوست دارید ظاهر سایتتون شبیه به سایتای گوگل بشه (متریال دیزاین) اینو چک کنید بدون نیاز به خود متریال می‌تونید سایت shadcn رو با تعویض چند تا Import ظاهرش رو از آسمون به زمین تغییر بدید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://shadcn-m3e.crystaworld.dev/\" target=\"_blank\" rel=\"noopener\"\u003eshadcn-m3e.crystaworld.dev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-05T17:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/js1NuxoUEovIfqBHQ-VibaJnSZ3a4tjLk5Rfgp2m0HUdhMJZT7GI-yQArHmxINkAR-VNKzSoXzClZ8c68bzyDOmp3ymClrKEsw34mAWVEetIUNPoGAq2ZVZ6UfzEtPXFCLd0rUWKHXR09QkXnEgyaerdGEtokLFhgi4mmfQ-GCWJ7MxjUNYHDVeikINOoUIo18Oto7sv2fZG_bKjGXhbzjUwtKMPnbxDDYAsl6ayIJeIIucVzP9ZnYbq1_hql-5UZrSyzq665Ujn9sLQFFMYEXeknIkLVBdO_8COhD0l6CqGm9lK6tqjN4QAkpMfEZeJRFCnmzvG3yuTQ0Jw7AZbMQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی 50 تا ایجنت هوش مصنوعی رایگان از شرکتای مختلف رو آوردی توی یه Workspace که کارو سریع تر انجام بدن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-05T22:48:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oenf4ZJGnO7YnMsF1sjPYFM6yQ3vhjValCrBvDTTdXjFOmA6bJVlTRA1CPvC32SBumx2lsQus8g8uw2V8ncdhI3p9xLSPKfO2G-pWR7EV_O13qDHqsAFX0vOmoqdcEQKDD-ee3RlXHNdc7EXnd7BdQmYuHYmJeH-tYXIJBx3sYueRMwq5OqqCRx--DQdHGKOC0NqXC3Z05Q3vM3OGzL7knXW_lXgXOldD19moUc9ZRwvr65HR0hfxk7VYXrBU9-3qImfwswUKbIAj_4LgzuxS73Wr-Q8mPcxDjNH657AJpzZykQty8-f4_JVp_DpoQApFmgAGx6NmG_J_yd4SLHv8g",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امروز یه عده بازی GTA-V رو با هوش مصنوعی نسخه سازگار با وبش رو ساخته بودن (با وب اسمبلی) راکستار فهمید و دهنشون رو سرویس کرد، دقت کنید بازی رو با هوش مصنوعی نساخته بودن همون GTA-V رو فقط با وب سازگار کرده بودن، وب اسمبلی یه تکنولوژی وب هستش که می‌شه فایل های اجرایی رو توی مرورگر اجرا کرد.\u003cbr/\u003e\u003cbr/\u003eاین آدرس سایتشه فعلا که قطعه و فکر نمیکنم دوباره وصل شه چون راکستار به راحتی می‌تونه ازشون شکایت کنه نکته جالب این قضیه وب اسمبلی بود فکر نمی‌کردم بشه باهاش همچین حرکتی زد:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://playgta5.com/\" target=\"_blank\" rel=\"noopener\"\u003eplaygta5.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-06T13:15:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/O3MyPdEGZZ0qViokoC85lBpAmIlYkcXoQ5VNFTrJAUEYTHBUW4xDFp7nzXpnF8JKQE2GYhDdtPnwxCwj9uTdDWaDKevXri76bgmntt_y2j_MKUMFfaPPVNw2KIwni2yN0J0tiQooVlgpxAE13u4qHYLwdPFTthHmIOhB5QwK_Xl1X_HDox8HhX3e4e14Oz-qDjVHChviD97a_u0N3szcktW9eUit5FnFNoKO5MBZbpYf3Y33gO3ddDgvhDz0VsMGU5c1uFO_MucM29961NUo5OKJZ_3toe5cXheEW-cQ6YDxsiIp5inJ6hwjQSCXliluInJkwC0eVRxOkjpwNgPJaw",
-          "width": 1662
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کسایی که تونسته بودن توی اون تایم تستش کنن گفتن فقط 700 مگابایت دانلود شده بود در صورتی که بازی بیش از 100 گیگ حجمشه، این یعنی بازی به قدری بهینه بوده که هر بخشی یا هر داستان همون موقعی که بهش رسیدید دانلود می‌شده!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-06T13:20:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "بچه ها IPV6 روی سرور های وب داده وصل شده اگه سرور که ندارید برید بگیرید ازشون (باهاشون صحبت کردم کد تخیفیف \u003ccode\u003eLinuxor\u003c/code\u003e هم فعال کردن براتون وقتی بزنید 200 هزار تومن کم می‌شه) اگه هم سرور دارید که کاملا رایگان می‌تونید از بخش شبکه روی دریافت IPV6 رایگان کلیک کنید و بگیرید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://webdade.com/Iran-VPS-IPv6-back\" target=\"_blank\" rel=\"noopener\"\u003ewebdade.com/Iran-VPS-IPv6-back\u003c/a\u003e",
-      "date": "2026-10-06T14:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?"
-    },
-    {
-      "id": 0,
-      "message": "می‌دونستین وقتی از Qwen 3.8 27B می‌پرسید پایتخت فرانسه کجاست و برای تولید فقط یک کلمه جواب \u0026#34;پاریس\u0026#34;  مقدار 25.8 میلیارد معادله ریاضی انجام می‌ده که NVIDIA RTX PRO 6000 هر معادله رو توی 13 میلی ثانیه انجام می‌ده.\u003cbr/\u003e\u003cbr/\u003eبرای درک بزرگی این مقدار توی هر فریم این ویدیو 3.6 میلیون معادله انجام می‌شه که البته ویدیو 32 میلیون برابر تندتر شده تا قابل نمایش بشه وگرنه توی حالت عادی با سرعت 1 معادله در هر فریم و با 60 فریم در ثانیه طول این ویدیو 13 سال می‌شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-06T14:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tlHK-sCuU24dExM4op4_9XQ7aMxIiNDyfbwiE5mFltusXl30fJYDjAV5cqGs17c5pVO47KI9U0VNRZGpLkHoWtYOqW2ffjzQeiZ4jtH2_DDIo8fyvSk36eD_DzsBV4JfpI2gIdTrT3sxAZ1qFQ2ml67w9RxICv3Ob78TUtzrBRCxBjB2-NhT9prlQl3GZGGyVU2Fmw0PnhmS7Hl-u_XZ8pdcvbRezvYyjromFjfov-3YZB-l6Zny43SqAf22fNLcL_WZzCfKWdilVuoKqGPADVfieESR-RblX4W7JqpsU1FOOf9XmeRBXZl6CY4v-Y2LZVSK3npEov21SW7e3VfKFA",
-          "width": 2560
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-06T14:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gqnA0-rei7Mm1vYQISd2r_DYv1WAk6vktDYMD6dOimscE49T-E3qs6SY8qK15uWRRpwY8_rSC5DT4_GLkbu5fctOi3xOe6Dba8O7k_YQZXkJCI22M5hI9-F2ybmZ37FcoFsP_vnEoDoC9-i7iCeaF_nV6Pd1WSd8Em1O2qf1Sz2mP0m3FeSe3rJ-S9q3FyA5WMQxcMje6MOA2nyRK8X0E8E_DuksQA39GW4n8RkLfMphG2kf5ciClng11kXScYabtY1msZvB-L8uBd0PvDLp8AaeIiZmRrZk3AC38MomMpe4JzI7lBvU14EXJa6tVAFMoztCWjnJr5zZw7p3LLdNWA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "معیار توکن بر ثانیه معیار خوبی برای مقایسه مدل ها نیست چون Opus 5.5 مقدار توکن برثانیه کمتری از جمنای 3.8 فلش داره ولی بعضی تسک هارو سریع تر انجام میده.\u003cbr/\u003e\u003cbr/\u003eبه قولی توی مسابقه دو هر چقدر هم سرعتت زیاد باشه ولی از روی مسیر درست حرکت نکنی زود تر به خط پایان نمی‌رسی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-06T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G2y2nsb6mjq9vc9OMAHQORMU9akwcEi43pJByuyRjAddlNr18VjwBcQ0clZxKVZmAANlzMWVvUv8Gq5E2dqJ97znW5fF9Oi9j1Osx9bmtTCoYV3keThyaya8ncgL-6ZAOWjOUeJXHjTUGduR5ne8Y7_5uk02CX9KNeb24QA2UqwpoKoLLOEZh_igGbywIUTYBULr3E7KEXUxUZTooayrkFJFYJrrGCDLZnZXuSAo82C1jV95s6ym4V82HeCXsMqzyxcPClMlNawvF7XdPn_EU2K4JOXnY2ERkRnMsVL1kvL5rB_BYEGHg83FKUyNcUXWdLpp_SY2Ez51vI2t0_FPyA",
+          "url": "https://cdn4.telesco.pe/file/CuRzElSKQ1rNnensUo6DFVdR1ZwUCpLDk2Iot3AOtMFKWh-edyUW2bC_qBt5c4OG9Dz2DjDr1qe6FFfr_giKV_q9oOaaUWjLW0lQCCWU3TgG_T0_edxkL_HLuArzypBoP_22hT_Jy9-yYkEaiPmAFUI94ShnGYEULts9isqfV4pJqKnkMUeKZmOp2iPsdU3cf983-vhWKZppe7PoXULEwb346xA2Oau0vOm31u2SWMfZsrY7R1n7mJRworjFleYhkdkNVSbqMGgA_PU7UI9DqR5uunN7JIWbM5NHcDwHPhfiZIg_t5wf21E3Vd4kTUi6lAorqCrjwF5BlUFN_CgmTA",
           "width": 1080
         }
       ]
@@ -167,7 +31,7 @@
       "date": "2026-10-06T16:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +39,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IRPkG-tSja_mvsEe5ckNtRD_MP3XPSo-cKPL2o9prPNI8OVCpXZYjQu_gfaJ-N43BF1xxpHB6H6V_8UK1uFXBhS7YaMufPbY2q6EiqvQKHOcRVv1ZAbAgdMwn1jOrxMJ32aflSnYEeaX6n3d-TPjxs2UA4c30Eig1L42ho-jmNL5xrHQ0uewArDkCye4ZEjJnIsEkMyaFhj2wG4b77nzK3SOMzW-3sBjTlJ4kKHkCCefUQrzEui6RUV7evJPx6MqF4oBS64BA1ZuKPTr56YFc2EYx6nuVTJkpWZYxTocNwaj0ZS9UgIXZVtH_DNNHzxsyqenzZDubQYw-_TzMy0fJA.jpg"
+          "url": "https://cdn4.telesco.pe/file/mHUyHQv_32ZxP9RFjQ0MDkCxBJ_p5Acs9X0yxGVioxrQxYykQjnPUMzInf_DrIdWaHEAOK8eyrzezYt3WkT4wPDdfhISvcEz_0Ozm8EuXOZAtoQQked9x8AGU8eQAeIRdE-rPLPw9QN-84bagsjTe7Q5bMZjzWpuiN-NhnMifpmSp3NjB9GmfwJSwi-vEfwho_usNK7vijP7F_gwkEoC3MKWJQDlkknFnPvmtR-ycl9OFA5BB84pqZfedduVxXTgtVk24iePGMNoATTpFp36lb8xAeQSBD1Ez0ANhCvQplIyLopeUWdMNrVGUXlwAjxU3_QEzIShWd9nv1IBIHw-9g.jpg"
         }
       ]
     },
@@ -185,7 +49,7 @@
       "date": "2026-10-06T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hl6vYXiqzRsuduGm3K32nehoRKzpcrEalJJi2Klqhih0qBOjTLKPYacMwQqmBT85gzxy4QNbeoKQVGPxfCoo6xldc7PRVxF8PblKrxcEXBZKjbdpigRCNNu4QchZq0fwO-wAG3_F0dgec3-YvlcCe7erPMICuK_F5msrYKDofOHkmS948G_Z49xfbzthtbOhnGzx3BMvWvjmr5jfcboA2p9LXfdEaENHIMmLi2NLpl9Xz7gFP-ObohbD5oIlx4ldatUAgNZEBBGKgZN4-h6iTSApBkcf0vR4uGZ4l3myu4XDUfyQg8dOYKKmaWjPOFrtcGvEwx8okMGrx5bwx96h9g.jpg"
+          "url": "https://cdn4.telesco.pe/file/Q49YtmQCaX8YciIZ5NZh5QaAS1uIg6ps8hljTq-Gh6PH2kprcVhB1V8W0hV9rpAFK-MtIBChB3RX7xO-SNzX3TUbueSBCUBeI6DyOA1pxhPirhqPj4hbstM3Qtakovz8XEBrREFFB7SOoVzFfYNkbDI35t6Z1JPK3YiZJJx3sQtqiLIlkt2ZmGsumorVWgB1OAlaGCvSWmLv9pMDCMb_mUQ7EoozXBegYpAi_ZmHIE1jy0wwQRN2H4y00e-Noq2dwOPnVPFk0xpjHg8UjhhDpANcI4P92eK6JGEWDzdvfNyOVtROWaKN8gFojN6mohWkk3JYW5b9Zknmc3RQOw0-Pw.jpg"
         }
       ]
     },
@@ -203,7 +67,7 @@
       "date": "2026-10-06T16:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +75,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E-TNRfKFxKou8YKssrtF3MA_ltV7J6iq9LMh1o3JDCI7lfWuzEqd2j8oCDGTHEoum4bWGAGHdp4j1oFz2soa-jXD8xWDRZ3fXDBaqmjgJZoyIi7ePC5Ll0JWYvOaXTmkDBKT9rnTTcKG8QxnRQJvLvyoVHFocDEvGPu5VzcCSogcAh5h8KeP6hA95PtGyBMN0ev9qwdkB7IYqOvtMHt-Aihi2Xv6f4erU-pv3PTz9YkP5PHCe_kV7L_Rd__5su3w5KcxxZtWxuuNzwP8KZ1BTO-MIkh_aNg9BZPNvDTPo02KsL8t_7YRzfv4Q8K0iHOxPbqHbDe13wXGS84WziFbrg",
+          "url": "https://cdn4.telesco.pe/file/RPTyLYuQn86j4KnKnfnIETqiLJxBuu7oaDwKklTpnAB8fA3dThwfxzpGtuISt53HMp3gYupcUXj43_a_gnQWlRKcE8RalfA0NNVGScX1G46e6bGoV3VvKARcsA-wQztlLec9Z2oBs3EICwXVDbCdlJhsm-YctnBvo-JFtu6zN0kJ9Cqe7KpVFWDdqx4QHz9st9FFR_iHkPmPleYvRmxdETWlIaSoUkb73hjklUEJs2WbXd9ctukPx_w90nYDnhY6wqnPxL99WbZ_xLAdpoNcHsKE9Pj2CYDjyCT95eGBspWTvoJhIQYiyGOMoRokaXqfq8e6yaWUsU0F8KstZxDBRA",
           "width": 1080
         }
       ]
@@ -222,7 +86,7 @@
       "date": "2026-10-06T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7880,
+      "views": 8360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +105,7 @@
       "date": "2026-10-07T13:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
+      "views": 7570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +117,7 @@
       "date": "2026-10-07T16:34:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +125,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VJBhWZzXCrgtj_huLxPryS1zCMZQ6MOgVos3Xy96T531-tzb2yb7VAp6icO4Oc4sol7EFP-tWUfZVrkPoduJSnZIdawFAAlI7KS5wYZ7T3os0GrAf6EASIKlmzEtfKgJwiPmrVsviJrhFZSfHUbGe_9IFUkKo-eOCdaxF1xsC-BFw4hjpEV-8MwsutoB51R5zAyjmb0E1Z8iWCEs2ulL2GRxLiTglmOhcUffjH9vjL4v1uuwZAhqP6JLsrnpUx_FkSHsBtNdneeBuYBWcrxXQ8-k_Bs7hp1l6Qm0J1IQOP1nwh1Av-AGeRYoK8pb68m8f2wgIlomh5ccaptZGvLrng",
+          "url": "https://cdn4.telesco.pe/file/L6wC09zvdzC_6bj-IgKyhaFBl8St4BI58vC1gEp3Qso9brtN3TAiFq5fMLUKb3rP4qtWPaaODy9Tj7cWJY-BfghvLJFOopqhp1c_jjk0NXxWJt-IvbiBtABYBHMQdkdeYvGHvKHrTYBD0fYLMyyC3tjupR49h9UUyVnLCTMX51aS2EjT1fPnssoVHRNOsYPLsrc6KdFV8puO7jMQSZXmznIQ445YqAX1VQo4nBqx_dAOECFlUXkgtepPXQEYNQoI7Atu_jOHTAtAL8LNUP9FMUR-9cjvNZKKXY8GZX7VPCUhskWeKN0K3seRYD7awTC6H4zRSJawQOYfrUOwLoJfgw",
           "width": 960
         }
       ]
@@ -272,7 +136,7 @@
       "date": "2026-10-07T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +154,7 @@
       "date": "2026-10-07T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5800,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +173,7 @@
       "date": "2026-10-07T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 7080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +192,7 @@
       "date": "2026-10-07T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -346,12 +210,139 @@
       "date": "2026-10-07T22:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "اقا نمیدونم الان انتخاب رشته کردید یا نه ولی سمت کامپیوتر نیاین خیلی رشته بدیه نه بازار کار داره نه چیزی هوش مصنوعی هم شغل همه حوزه هاشو گرفته!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e(این تنها کمکیه که میتونم به اونایی که رتبشون بده و علاقه دارن برن کامیپوتر ولی نمیتونن برن بکنم چون رتبه خوبا الکی یه چیزی شنیدن میان جای بقیه رو پر میکنن)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-08T09:38:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "کلاد (Claude) از حالا داخل Google Docs، Google Sheets و Google Slides می‌تونه کار کنه و این فایل‌ها هم می‌تونن داخل خود Claude باز بشن.\u003cbr/\u003e\u003cbr/\u003eتوی Google Workspace، کلاد به شکل یه نوار کناری کنار فایل قرار می‌گیره، چیزی که باز کردین رو می‌خونه و می‌تونه همون‌جا روی فایل تغییرات رو اعمال کنه. قبل از اینکه هر تغییری نهایی بشه، می‌تونین تک‌تک ویرایش‌ها رو بررسی و تأیید کنین.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-08T10:53:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QS2pIf8civhoCa-Wt-i7LTjcd7B1so5Qe4dmrbDjcf4z82OfGJkswz2HN5IEi12nVTWX0UfjWXRSYboU070wJRCQrfRMGXCqagmd0j8Z0LUsTH50coCwG3etRjUTNtYIfPrYq3lpTfiRy8vwBA0Zn0efohjcb036bLOMI8LmvBgFtUXoWox1FvcfHyvOhUNSA--Kmv9XTroEHUn2KPNbfaN6zO4Brapqvj6Wy3461snV8pz-1Hf_PaCcFM4jXET93xtbxitbA0dGJjRqE7rUHOAHH2QDTYF7rJqHXqrHIqRUKzGZZN0zLdY0cFsx5VfsW_Wu8wkCxztTf1Exw2tYdQ.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/if2BGjgFbkV5UnXvGzhfHMb2YkaOlZdFfG3bNEm4oAJgfBb39ZYiBYI3UNCSiTZLmpt5Beqg0ZjWn9-tCNfJNWzFfq_d9WV5adgdgeTW2rrio7XGOrSGNlY6E16Fp2s7zcoPjKSv0TXevMAdM1s4fDciJvcDlen3nh7u20HkQ-9J6c3fMYf2o0zX6FZY4n8W0wtP-gRVzwtcP6MxKf-i_t-8_TShLO_SlewSg-If9-6Ygf9a3osyuiiSHQ8PME_dDBwZ4jxtu1JDBCBNil4TdJERX-9nMl-0k4Ol0AAsAgCDmowFVpdhT_uZhVFw3fZ6Fe3_Howm9b7DvPv3aG3GwA"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5438496463044752972\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبهترین راه شناخت گارد، تجربه کردنشه! \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگارد، تجربه‌ای متفاوت از مدیریت و فروش سرویس را ارائه می‌دهد؛ با امکاناتی که مدیریت سرویس‌ها را سریع‌تر، ساده‌تر و حرفه‌ای‌تر می‌کند و کنترل کامل‌تری در اختیار شما قرار می‌دهد. تست رایگان پنل را از بات زیر دریافت کنید و گارد را خودتان تجربه کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5197630131534836123\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/viaGuardBot\" target=\"_blank\"\u003e@viaGuardBot\u003c/a\u003e",
+      "date": "2026-10-08T14:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/X2rElbZmy9yMPmfEn8Og8LjXODONceBhmqTxSGHG5-9rSnceEnp3uYbUOTd72udU_GcfRWVG41M1XM0Fo7SNBRraioTJru_fSuHyqyVWLGRRzh_YxnlG5gp5AnvOoEVg0bDMNNlSqNjYARF2LSaiX47grd4Ip_pxZed6koXn2k0PtwRhVFQVh5n_Y4a7FKmiqis_X3A_eTFvNLvvFGA-FrNYUWymnl_k2fZNDpQHdqf5-mv0Q5g-TopNVxNTTr4j5EqF7Epu2do5FbvDyRn6LW6KziwxusLb70Ao1oQYsA4QT2DGToaGekRb4mrEbwZqfjYJfonoiz6yxHH6E4FxQQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گوگل SynthID Detector رو برای همه باز کرد \u003cbr/\u003e\u003cbr/\u003eحالا می‌تونی تشخیص بدی محتوا واقعی هست یا ساخته‌شده با هوش مصنوعی.\u003cbr/\u003e\u003cbr/\u003eلینک: \u003cbr/\u003e\u003ca href=\"http://synthid.com/\" target=\"_blank\" rel=\"noopener\"\u003esynthid.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ ai_ba_reza",
+      "date": "2026-10-08T14:44:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bhvgW3TnLn0ICdWaTUOhA1JM4MT5i7z9GxTYVMLeMHgZNBsqNrDylqPFn20UCiXpgs5REs0za6t9aNra7AgU1DQaqF-Yr-meKqcuzGGtZBlbpPv29vwf4x1daAdjLVcksZzloxa1GEsvXNQ724pUudbz4Ff5WK6w8s8MmyV0E2WXS9x26i-MrBhcM2sKEaXF1UwcwXFPXMX1TlUGlxeYwpSK8albb787zK6UZTYp3G2BjMo_eqKtvbBO8fbuYJS11sVNQEJ7w54kspB12_TxUHYQ0ZnXhpJUOXtOzHqSEtXagWsH1B7m1HmZvoXSX1xJ8LqAEeIR3Hqwz1rlMhQ1ag",
+          "width": 500
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ویدیوی منتشر شده از سایبرلیک از گیم‌پلی بازی GTA-6\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-08T14:59:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/cLz2xtjegO0-2VCd5ltmFFKj2vcCR12o-R7SkD7-k3SPdyPkT2vebJgV03ScvmbBjMBRQstD0PzbVXYA_oHI0mtIluDtWvWw3UmtUHYmt-kltYN91ikT3S_TY0F1EtRik1AWuRPGHMl84lDOWcI0ABNXbO7TxmIEiRgKqIJ_RMHIQDVUj4NB9rAo3E9oKvUe5x0dSaog0JYStvJqpoBGhYgsvl9s1SKp-eus_9Jx0m8Do6ExYarYyXPbV5DwnXu8q-MyLJKJg0sQnuEeqsnymgvqovcYFEmtbNQT0bqoRH1qBsiWRBXY5r13NmGS3Ad4jRZxRXTyrjXK1yv_UwRRww",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "این حیواناتی که می‌بینید برنامه های جایگزین برنامه های ادوبی هستن که با هوش مصنوعی و زبان راست نوشته شدن و کاملا اوپن سورس هستن :\u003cbr/\u003e\u003cbr/\u003eلیستشون :\u003cbr/\u003e\u003ca href=\"http://getartcraft.com/apps/photocraft\" target=\"_blank\" rel=\"noopener\"\u003egetartcraft.com/apps/photocraft\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-08T15:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/abdWLaLEhbH_qcr9lPt3dZJvguRuVfojrofJSeXLTMTzhpNlyFrNyfluLZcKr86HO7LgrbW9FJmqfFvOCiOJUECdnuPotkFIT9k-L_0BwjQFvx9eZfMslbhbT12UlHTH2FN71VANBv4yPW3btQDpe4YXpV9AheBn0-ufvz264W_Gh3LnKZg1O0MbJxfr1aOZw_eirwGbi0sR_ig9fOUYgryANB5dDV6BKb4lVL2lcd4sAmkxwGQKSliC8FC0D0HpudSl8GbiwZMsAX8xPVHQ6vH8Gfjpc2kowSDy2qrm5InFEKMj9V7LcA2tiMWFHDrVPgnuD2vJxU30G5gPKb28tw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eپنجشنبه شب دیپلوی نکنید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eساعت ۲۳:۴۷ پنجشنبه، یه \u003ccode\u003egit push origin main\u003c/code\u003e ساده، و کل جمعه‌تون می‌ره پای درست کردنش.\u003cbr/\u003eاگه مجبورید، اول روی یه سرور ابری تستش کنید: چند دقیقه‌ای از پنل بسازیدش، کپی پروداکشن رو روش بیارید بالا و با خیال راحت تست کنید. کارتون که تموم شد، حذفش کنید؛ سرور ابری از لحظه‌ی ساخت تا لحظه‌ی حذف ساعتی حساب می‌شه و هزینه‌ش همون لحظه تموم می‌شه.\u003cbr/\u003eایران، هلند، آلمان، آمریکا؛ همه از یه پنل\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5203996991054432397\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۱۰۰ هزار تومن اعتبار هدیه برای شروع\u003cbr/\u003e\u003cbr/\u003eجمعه‌تون رو نجات بدید \u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://my.webdade.com/link.php?id=7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://my.webdade.com/link.php?id=7\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://my.webdade.com/link.php?id=7\" target=\"_blank\" rel=\"noopener\"\u003ehttps://my.webdade.com/link.php?id=7\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5467539229468793355\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 031-3740\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6010121369935681985\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://webdade.com/\" target=\"_blank\" rel=\"noopener\"\u003ewebdade.com\u003c/a\u003e",
+      "date": "2026-10-08T16:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 874,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ip3N9NLWgrVaQjz1VDg5xeWPVXhMo9IllYTBiPPauC7shdiNjj4qSKFnJk_p_o5B-uadXd_nRbn_BHKp97EyUQ_ca9YyxA_QQeYZTgzyg-dmOhI5TJOgTMJif_5Z2s65TE4pg183gLIaYj_Y1w0YFjuIwUX1uN4ITdSbgIAeIMyx-OqBHpc_BZIw3bxD-izVi54g_XJHbhzeAJSTBycs4_Q-XfV56qxIQzZID0i-tUsIVnidexaAGZUcs8_4Tx9viBQMk_XkQy4Ji0JaxoClUdKpLp6t1F4QYNstgVLN0aOjRvb7k5g-9QloHNOSC-1eLGvAPa3MpugU_DvVxV960w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1791450773
+  "last_updated": 1791477618
 }

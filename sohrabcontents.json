@@ -3,40 +3,16 @@
     "id": 0,
     "title": "sohrab::stdout",
     "username": "sohrabcontents",
-    "photo_url": "https://cdn4.telesco.pe/file/FJgjjxafMnmJoujyohGaP8PfPT6e4mQa7CyAI-DzE9FyEh4eTpKNl8BbaAn2MzAx42cDqHZd6BX67ztLZ1u19XfMSdcvNJh5_ufcfopXupEAq3GfRfe6GolrRY6L5IiZQvnQw4X6piKJ_WAc-XKfaRRBq0il3bBAkdWVDHiYFCbpVX3WbDz496TWGV-bx0chBUA0FsdP_LjQOiuyWKs1XWPw9tnY30Qw8Anl4TFb8C8FUqAKFPauHWHBD9RZnvhtyQvMfkSivhETA9jtNZwGIzZd1XyxhIX2byyQDPIMvYf9vGseESlCh8h7r7We1erLnvsCLncKHQ6a291NxuNRTw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/N309Sj7AsbzVr0D-0OgStGn5fNvWSrPuy7RLlUVtg67iL9AvmZmzkXGbiHtS--1t2MJ_y4j4WniMEkvBnZ_UKJ45zQnWC1Rt2tc1-HjzahgJ6BMLngMWIzaYmmxkMlvJxnqyerYMUWilX_ACpb_9y9DDAbyzrMD9g74evqgt_VxrrrA2MAMH6zSxsrerF3jl86aPh7IA3Trr7LUS76SVkBp6nKI4LTbea5x5qCUmE73dbGkkMot94thTCpIKLz-NoJSdpoBWVoo8QTI9fWnRXPb6wS_gelIweq0VwzB3Cx-SLfhxKHmwLFzImPd0RUmubg7HWHoAF4c9Wr4XdZB7LA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "پشتیبانی کامل از DoH رو با استفاده از RFC 8484 توی \u003ca href=\"https://t.me/parchlinux/621\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنام‌بان\u003c/a\u003e پیاده‌سازی کردم و الان رفت برای مرج شدن توی پروژه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.rfc-editor.org/info/rfc8484/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.rfc-editor.org/info/rfc8484/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنام‌بان ۲ سال پیش به عنوان یکی از پروژه‌های جامعه به توزیع پارچ اضافه شد و الان بخشی از Core پروژه محسوب میشه که کار با سیستم‌دی ریزالور رو ساده‌تر می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-27T17:44:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1410,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
-    {
-      "id": 0,
-      "message": "این هم از این.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-09-27T18:03:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout"
-    },
     {
       "id": 0,
       "message": "فکر کنم خبریه \u003cbr/\u003e\u003cbr/\u003eاینترنت داره به فنا می‌ره :))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-09-28T06:10:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +30,7 @@
       "date": "2026-09-28T14:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
+      "views": 3040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A0f11XpXvjJQ5NqA5UTnpGRMZLGBeX13UTOWTD5X1OJR6RRiMxS2BAYya8kanmZW9MgiizaEqvhH1SHbUiaWDPutrSj6pCpy-8zkMh1wG9lrEX5LNktWEzCdNr0-pVz2Run6FAkko47TX2I0GbFdaAKnhhb4jte6xsD0Ya1gEGEu74CJMswL1EvMkpnyAxKegmJD-fXSYOg3ehs3OUtndwWo1kDcujeWTjG0cz25M4w5qyPXSe9saMj363bCbafHVbTPuMcv4EGdwXEvKE0EM_tUARI_8r-ozxAs_IA-MS33b55ZpRcX3dKHjllKVemsiUqsmoGUR-_dXxv1JecgGw.jpg"
+          "url": "https://cdn4.telesco.pe/file/nQS42e6J4J2VyKWijHWQKtozg23Ffn7ksE3xb0FCbZlKts2ahYib3qiLIqNjXNV1D9f5HpMmx2WREenTyzn9K9FRzi9LScgbmtZ-itIW4afw66Ngb2hCbMt8qvSU3kuh2IqBWaK9dbhqIz2yOcipNGe5Nta9j0Rp_BjTmbQQ9Zo29COEceWqMTbTbQgcBpWuHUdc8dtPLQdOIbEKKdG7JLhxCc0by72HL1nxaUg5XIT_mNFikRhvrUqfK9k5W99RxcnQWpIFDBiC7HafY7g_KyD-1BpXhbUAV1MYul4Ey3vx-iKZln4FZ7BGjwiM0lRnOQmdjKdq-oXdkNQWHyDvTA.jpg"
         }
       ]
     },
@@ -72,7 +48,7 @@
       "date": "2026-09-28T14:57:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1990,
+      "views": 2020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-09-29T13:42:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qV591TsLA-S-yIOdSGtKfaF-RzNJc3j3vh3A_2CokTD53a1BdGs99S4GHoxd9MXGvB30iSapQIEO06DPGehNpU3U6Uq3k9bwFlzArxG5qYJ-9zFbu7ZzwWf-58pCMl5D2V_LeKlJEAixteIxyyNudFEG-twTXIL7IdQ6kWNJMbtcfoO6JaihbDjy6AMH9Yv3rEtKWFDq6PlUvja8aa1F2110FABNIbiCEuktnAhetniE-TdnyyIPBLJRBa5_nxD7VQY5bna9kipSJuA2qsldjR_4gtQyzvFQPoBcjASqY5ASaKOhBnI16qAIrfxpzSg4RDFrfUeUZUFKTUsxHRx7Tg.jpg"
+          "url": "https://cdn4.telesco.pe/file/TN1dfLijsQ9LQuPLml90tt7k_6L6b_DrotmIRo1NUY8O4DX7IbaV0AJqvUfY0lBYlcvw2W8-JJiKTkgoJtWv3WCvl6sRQPs8_ZJW-bZ7S2Mx8D0Wxc0nOQ_QkszdBy5UhjIrZLC4mqTnB0DwtTAj_dKlcVOGWtfiOUDh9ZyS7F2Zp9k23sKFQ9iAdvnBlhWo9K3RWyvwLuGlWMCiLeAKYK6UBWtl2TsWQZLuxHoJbfb9SGbAloHETW76xMEc-i1PUOV7dWf7CQQZ5t_CMocwHFAhL9bDnl4np5P38LPKkbZLMRZkUfBGVmQS3qEU4Hu-a_SKWk2L3BFLyNUtg9BRvg.jpg"
         }
       ]
     },
@@ -102,7 +78,7 @@
       "date": "2026-09-29T15:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2050,
+      "views": 2080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-09-30T19:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 999,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-10-01T05:23:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 998,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +127,7 @@
       "date": "2026-10-01T10:47:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WGOt8IXiDA85NJfvmTvTOW-bPPzC9N7_zr2aROuKKPu7DDfLB4cIdEdDlXn8vc-3-_n97LRoaefqk1HTPYu5FjbuFKYh6DWYRFAS8zmRIekm-lLM1nXr9tfqjID4NoHSW1pDSPbAf2gSA7jrpHh2qsTmDVwoeYwbHoR9HSKo8aXqv4gSYtr5n62ZxX5CVEH1vJrQml5Q_nZu9AFswo6GCR786xSyBbvu0X_BzZVvIcodlDrW19DhEoEA4y9kBSpAWOW4nCv9MN46vMPlWmTqUKalOh0cP31Qtn_ik2J4RXuW-EssV9wg2k-dqARlPjIAdIvvVnpYU6_O5XK6ADVtxA.jpg"
+          "url": "https://cdn4.telesco.pe/file/R83Op_mDvHZCziHWhtYNOAyH4oPqWE851TiWkbPiFIJ85ljDTS5kWWPB_aOejRy_I5Ja9h-hPj3f19eTNoMBipmTY9oDbSMuGBmoehCgE80E82gA1lL0feHh7VrcRmx_ZJtLzQ2PXi_aC2VLoVnUC79Th30Q1NX1d_Vu_nqg-D1b0RKfq0NChetp6LXlSxfdFmEjOmiS3IIUjkf6Tz4HNQ3EPD9ggZXU8oBHC92opXDLOC5cXwscatF-sb50oTD5VaNbugrjAqtnYaTbIbnoesvgNAy884ubcwHKio3Hoo1r6wImTDgcpjLp0R1RZ9M-WMgQSuKbf5NV_PiErUX9Wg.jpg"
         }
       ]
     },
@@ -169,7 +145,7 @@
       "date": "2026-10-01T11:56:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 969,
+      "views": 993,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/leT7bhSj3AWREMuObZp9JVfnMrYapDX1t03b1u0mFzAiaYOz2E6iU3hJqpglWcBD3BMq5l5a4oXxUSMR7FCBLxIWIS-yh5PJTRSZjuRQFLs1922RpyIjVPNIhLJkSkTX_9St0wVaqWMk1uWj6fM1S-SucXi55vylHYJfxXP1knS7PmoaSmyy8jnBwfbejc9xkmUkRcaxjg2BEsQI3-tT3sQVcJKzNeybvPKyAsRVjVX6z4uqr7wWLAS2kiHvvcvvyy-QAJppGj7hOdo7EV9S_-Mu59QGv0V4vp_-VL8gWaU7K34mPFyW0tlOLLaTxnnydaHv4mZmz6uGj6lFl0YOUA.jpg"
+          "url": "https://cdn4.telesco.pe/file/hUfpWZSu5vZZRYDLMu6GK_d-d0EmGxrwmC8_n_z1JQwg_tOrl_W3PGjno5cXqwXcIKeAe4v5HmDCZg9jbr1FheoABP8HdwDjqsOCB5d2rdtwC_j4Rn7ur8C-ljWkJTb02uW-z2amF8DgcqYaHnDldTfNdJbpKIWs8xL8vwCOgW1HENvea3l7LsZrSTPkmtCptmN2sj3oAlyE638Pj1F95sfKyHyOF1-107jHzpFVtkUL4kxI_P_GwvyhrLS6ihu-9mf20YiSSRT8iWJ-0i-dA22F2P7N_wjSEh64YXAluN61DHreK1BvmxQ5kxoK4pxiXWkpT63USHjXNKNPCB4qIg.jpg"
         }
       ]
     },
@@ -187,7 +163,7 @@
       "date": "2026-10-01T16:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +171,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GPqSCXsy5j3vRuUFmVRqh27lGqtJS5By3Nqpzxv_4_GnXxQHsi4LzJ9ZQbANqGGVi7wNgtB4IRa4ZsMD1dZYPs9Rkz79clAu_WplYn714ngzW9l3YAgcT61klseVKE9EzfmheL73y0h0I98Pd-sIlSROPTUrMLJHxaMobtUQkyruxLT6dhyD5SzNsnFtSoFUN3GPYHXGrLrqWkBPwqzBiDB9h3GE4OIXsLGMASWf--b9zhpe30aepPIUQjdz0AY-2WoC8jkH388sb3qGZ7IW65GErOIz8kp9mcSXCLRDpbJo0MzoXaH46BqZek6U5RHuRFSoNMGdQtJpj41Xc4u71Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/VnvlV5qiCQcnR-RLvCItNRt4zquoKSM8z5nM_n0SoBhuxp5SdI-VJun0Ue7UJ3sQbQPZO-apo_yNmkXQHBss0eQP6M_nkLrKJJkgD0a1ttYSeIVJaa9f9FO5HdgHPggnOFN8B3RVDLk847iH1ej0WT5xI4rIjZZ-4MeYEWDFaDf_cw6WxIDoEYei-VvgkuJ9KEVP7Eka3N__JbsmGkbnVRl9S4SpKq0tpGVV5AzmqvFBiwbRY9s68ql1sItMHzRbgU0yy1PdSxWCCo9kG-66zwZCRB_rOJC-GC3sxMC2Pi00u825LQQeW0Si3jp6IgRul5KXc_Qz2kULQ-jA9-Lbjw.jpg"
         }
       ]
     },
@@ -205,7 +181,7 @@
       "date": "2026-10-02T07:50:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 941,
+      "views": 995,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +193,7 @@
       "date": "2026-10-02T09:30:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 956,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +205,7 @@
       "date": "2026-10-02T15:18:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946,
+      "views": 1040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +217,7 @@
       "date": "2026-10-02T16:27:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 987,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +225,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K3TYpbdl41VEhGceLVsY6TRRnPQcpB6Al9IHYS-fkS_k0TPvY7xgo0pTEGbopItkJTko651kq3NW0n4hvpMlHmSI-TDPSelvgUR_tj8AKFJBIL-aHSgIU0qYs2BGpJesQQ42zbLrcewocfaDcEgO7rqiGAX69HHWrANQUZRjk-GgTPxxmtgpRdPboG8pzL3XtZXKE_XIIcas2KKgQgF-DqqARjn6xEA0_H2UsP8CkxEMTc0ibwopFNJUta7mDKDcluT3VAWpQeEMYt5azGLlgte8SbpEgLnUl4YQUEx8B0CUoip3YeEelkAfw-IU0YuEbC5CTN0e9XiPenVLKamLoQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/B0RRpvsTmcXanQXCsNzdSXG7J6-P2s_6gxtYhZ8Ny5Jdt94tmNakCifrgiJADwdeKU5SF0orCKfm2Z8ISYkIald3xA28RhsxpeFjiLaIBUHYGyf5S5U81TCLzz2M0rQjDzNHM_ejG2rMGULT547mfsVKruoNFbnZPgRvX4quqLwnUPA7qnYW9uYa5LK2kQkmRkZN8aARnSVDmd3BZkznANxul_Mhl9qu2OUuEohvZylUZ19wHsc8CnKyKIufuQF1q8WporgABTlKiKg3qOFYx1WmOnpxeWJpX2WUAdl2ag057F7MK6KcRHedYxUOuqOcAONVd1zRzXQ3LmbdcmuMSQ.jpg"
         }
       ]
     },
@@ -259,7 +235,7 @@
       "date": "2026-10-02T18:13:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +253,7 @@
       "date": "2026-10-03T17:47:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 921,
+      "views": 1150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +265,7 @@
       "date": "2026-10-04T16:02:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 919,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,12 +277,48 @@
       "date": "2026-10-06T17:20:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 711,
+      "views": 869,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "sohrab::stdout"
+    },
+    {
+      "id": 0,
+      "message": "‍ اولین نسخه‌ی «قیچی» منتشر شد! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C82.png\u0026#39;)\"\u003e\u003cb\u003e✂️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eراست‌ش چند وقتی هست که پیامک‌های تبلیغاتی و اسپم، شدیدا اعصابم رو خرد می‌کرد و دیگه با دلار ۲۷۰ تومنی، تحملِ حواس‌پرتی برای اس‌ام‌اسِ کد تخفیف ۵ هزار تومنی اسنپ و یا به خصوص وصایای امام \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8C.png\u0026#39;)\"\u003e\u003cb\u003e🍌\u003c/b\u003e\u003c/i\u003e ممکن نبود.\u003cbr/\u003e\u003cbr/\u003eبرای همین تصمیم گرفتم پروژه‌ای رو که اولین کامیتش مربوط به ۲ سال پیش بود و بعد از اون هم دیگه ادامه پیدا نکرد، بالاخره به سرانجام برسونم.\u003cbr/\u003e\u003cbr/\u003e«قیچی» یک اپلیکیشن مدیریت پیامک اندرویدی هست که با MAUI + \u003ca href=\"http://ML.NET/\" target=\"_blank\" rel=\"noopener\"\u003eML.NET\u003c/a\u003e توسعه داده شده و تنها یک هدف داره: خفه کردن پیامک‌های اسپم و تبلیغاتی. قیچی به عنوان اپلیکیشن پیش‌فرض گوشی‌تون تنظیم می‌شه و دقیقاً همون کاری رو می‌کنه که هر SMS Manager دیگه‌ای انجام می‌ده؛ با این تفاوت که یک مدل ML خیلی سبک هم داخلش تعبیه شده که هدفش تشخیص پیامک‌های تبلیغاتی در کسری از میلی‌ثانیه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABAA.png\u0026#39;)\"\u003e\u003cb\u003e🫪\u003c/b\u003e\u003c/i\u003e و به‌صورت کاملا آفلاین روی دیوایس شخص هست.\u003cbr/\u003e\u003cbr/\u003eبنابراین هیچ‌ داده‌ای به سمت سرور ارسال نمی‌شه و همه‌چیز کاملا آفلاین و امنه. ضمن این‌که تمام بخش‌های پروژه اعم از دیتاست، سورس اپلیکیشن و مدل ML اپن‌سورس هستن و بیلد برنامه هم مستقیما توسط GitHub Actions گرفته می‌شه. یعنی این‌طوری بگم که خیالتون از هر بابت راحت باشه.\u003cbr/\u003e\u003cbr/\u003eدیتاست فعلی در حال حاضر خیلی جامع نیست و حدود ۶ هزار پیامِ لیبل‌خورده رو شامل می‌شه؛ اما طبق برآورد و تست‌هایی که داشتم، همین دیتاست کوچیک هم (که از منابع مختلفی جمع‌آوری شده) تا حد خوبی جواب‌گوی نیاز برنامه است.\u003cbr/\u003e\u003cbr/\u003eهمچنین داخل برنامه این امکان تعبیه شده که شما به‌صورت گزینشی (و با حذف خودکار یا دستیِ اطلاعات حساس)، پیامک‌های تبلیغاتی یا پیامک‌های غیرتبلیغاتی‌ای که به اشتباه تبلیغ تشخیص داده شدن رو گزارش کنید تا این دیتاست به مرور زمان کامل‌تر بشه و عملکرد مدل ارتقا پیدا کنه. (اگر هم نکردین چالشی نیست،‌ خودم می‌کنم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003eنسخه‌ی فعلی در واقع حداقل نسخه‌ی قابل ارائه هست و احتمالا باگ‌های زیادی خواهد داشت. ولی خب از اون‌جایی که مورد استفاده‌ی روزمره‌ی خودم هست، به مرور زمان بهبود پیدا می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e سورس پروژه و توضیحات تکمیلی:\u003cbr/\u003e\u003ca href=\"https://github.com/MahdiyarGHD/GheychiApp\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MahdiyarGHD/GheychiApp\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e دانلود نسخه‌ی اولیه از گیت‌هاب:\u003cbr/\u003e\u003ca href=\"https://github.com/MahdiyarGHD/GheychiApp/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MahdiyarGHD/GheychiApp/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاگر دوست داشتید، با گزارش باگ، مشارکت در توسعه یا حتی یک \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e روی گیت‌هاب می‌تونید کمک کنید قیچی بهتر بشه.",
+      "date": "2026-10-08T10:27:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 425,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QIaInc80ku0SRP1v0wOSo4TxZMCZ_lhywt_I6tCi1KCf-twxVNql0rTMvB1g6F-BiNrJ24PKvQqIw7m5SyUPHUa4BOeD21NGFuk0jzR6knPbWnl8fHLyeGq8jB5gohEahU2adYDOI0AeObr_6UQ1YWqU7Nzhurji1uddLhU4UR_icwSZZlgIurZY2h5dIU8rUgbnTAnFaaR8tdLINQYV-1WP9C2ks1UktLEwUPmTVLwE2NTrpZOddkifXu9wj00ouawnFCJtcwHPdizheWzZBH5h3dgrHgh3XjlRRIgenQT6vEAd_AFq4gHtJLLI4bcmMWJTj1zKgaab2tLXZQsOrA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یک توسعه دهنده اسپانیایی با استفاده از هوش مصنوعی، تمامی ابزارهای ادوب را مهندسی معکوس کرده و در راست بازنویسی کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://getartcraft.com/apps\" target=\"_blank\" rel=\"noopener\"\u003ehttps://getartcraft.com/apps\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eشما کاربران پارچ می‌توانید این ابزارها را تست کرده و نتایج آن را با ما به اشتراک بگذارید.\u003cbr/\u003e\u003cbr/\u003eدرنهایت نیز ما نقش خود را برای رفع مشکلات این ابزارها با زبان فارسی بواسطه مشارکت در پروژه بالادستی آن ایفا خواهیم کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-10-08T14:14:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 293,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UkeDYnhxZg9nsXGYZwFkSZuqkatwKvxFjZEfRb_w4alavP9WaDeGuOnPQv70qF1vwxN8jiUnbjS3fFLog8PFpW8LhgFD850IDo3BurBYa31pOrIjTpgwN-40_ZuQM6JWWHrGqZ6aY8AsH5umFrLDRoD-JcpRrVdx06vFaPf1WesEyhVaiwtJXACQdm6HdHGseg7KkPJyKL7qKtBh_C09rrEK5lRWQuzjp-QqcoB0yiTXJ9rLIk4xg2wfXY84atdYlcrOQTFCqUOBAZPCrfJjS7CFW-FPfeArm6zQEhpvPi8UNMKTiedmQ2izcz365cvzL6oF2cUGMkiDKDOAKqCFoA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1791450817
+  "last_updated": 1791477658
 }
