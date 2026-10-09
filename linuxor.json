@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "متا روی فناوری‌ای به اسم CRAM کار می‌کنه که هدفش اینه لینوکس بتونه بدون اضافه کردن RAM فیزیکی، داده بیشتری رو داخل حافظه نگه داره. CRAM مخفف Compressed RAM هستش و در Linux Plumbers Conference 2026 معرفی شده.\u003cbr/\u003e\u003cbr/\u003eلینوکس همین الان هم با فناوری‌هایی مثل ZRAM و Zswap حافظه رو فشرده می‌کنه، اما تفاوت مهم CRAM اینه که از فشرده‌سازی با کمک سخت‌افزار استفاده می‌کنه؛ در نتیجه داده‌های فشرده‌شده می‌تونن بدون فرآیند معمول decompression نرم‌افزاری قابل دسترسی باشن.\u003cbr/\u003e\u003cbr/\u003eتوی تست‌های read-only، عملکرد CRAM تقریبا به DRAM معمولی نزدیک شده و در تست‌های نوشتن هم نسبت به ZRAM، Zswap و swap معمولی عملکرد بهتری نشون داده. البته این نتایج مربوط به آزمایش‌های اولیه‌ست و به معنی 2 برابر شدن قطعی RAM یا سرعت مشابه DRAM در همه شرایط نیست ولی می‌تونه راه جالبی برای افزایش ظرفیت مؤثر حافظه، بدون خرید RAM بیشتر، ایجاد کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e ~ twtayaan",
-      "date": "2026-10-07T19:14:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z5JjIs_SHPevgc87s62AMnaIKN2Ng7vMFrZw32qUZUxRqL8YcTq0zbazR5fpJQXWHV1GVtd-Jp-5WW3utVVvJTwMFcMS5PHzqg9SY9j0pmTp41P3c_xrz2mnmQEgyBGTYFGFWYSQCEZCgEPNEIKx15IMTCmpp0mRStsRNpM8bR0PrTy114Xsf3_7WnIr9rNwXnYClJwbnlbjFaOtdY4dP4Ssonyc6kuWMY1NCeTMc7KpBkqV0jwJ0XKNhEQSjnfG7Dk-vO1MQ3-KCdYPMOXp2T5HdRp0V_dVlqOgIZEs_Crx8Ahx64pkmjKX4nMRAdmt8RPMCQJiolPOnekfdkoo_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "بیش از 90 درصد افراد می‌دونن هوش مصنوعی آینده خوبی داره و فرصت های خوبی توش هست ولی علی‌رغم اینکه علمش هم دارن و حتی علاقش هم دارن ولی نمی‌رن سمتش.\u003cbr/\u003e\u003cbr/\u003eعلتش هم اینه که حاشیه امن توی زندگیشون ندارن تمام وقتشون یا درگیر کارن یا درگیر درسن یا از اون بدتر درگیر تشکیل زندگی هستن (تشکیل زندگی یعنی یه چک سفید ده ساله از تمام سرمایه و انرژیتون کشیدید انقدر چالش های پنهان جلوتون می‌ذاره که حاشیه ای برای کار دیگه براتون نمیمونه) البته من خودم هیچ راه حلی برای این مسائل ندارم و فقط صرفا میدونم حاشیه امن ساختن خیلی به پیشرفت کمک میکنه چون قبلا خودم حاشیه امن زیادی داشتم و بخاطر کار و کسب درآمد همش از بین رفت تازه فهمیدم چقدر به یادگیریم صدمه زده و اصلا نمیتونم چیز های جدید رو تست کنم. البته اگرم نتونستید حاشیه امن بسازید نگرانی خاصی نداره چون اکثرا نمیتونن ولی اگر تونستید واقعا شاهکاره. یادتون باشه شرکت هایی که هزینه R\u0026amp;D بالایی دارن خیلی سریع تر شانس رشد کردن دارن.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-07T22:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
+      "views": 8500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-10-08T09:38:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7910,
+      "views": 8180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +36,7 @@
       "date": "2026-10-08T10:53:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
+      "views": 7780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,11 +44,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QS2pIf8civhoCa-Wt-i7LTjcd7B1so5Qe4dmrbDjcf4z82OfGJkswz2HN5IEi12nVTWX0UfjWXRSYboU070wJRCQrfRMGXCqagmd0j8Z0LUsTH50coCwG3etRjUTNtYIfPrYq3lpTfiRy8vwBA0Zn0efohjcb036bLOMI8LmvBgFtUXoWox1FvcfHyvOhUNSA--Kmv9XTroEHUn2KPNbfaN6zO4Brapqvj6Wy3461snV8pz-1Hf_PaCcFM4jXET93xtbxitbA0dGJjRqE7rUHOAHH2QDTYF7rJqHXqrHIqRUKzGZZN0zLdY0cFsx5VfsW_Wu8wkCxztTf1Exw2tYdQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/KrJqgzX09VWiuiNyTtw-tsCVO8Fpaj30OmkjzrUdbtKjp7Sj1VwYmIpZIkS0oqAOnljoT_iq5gwIBcfJatP0jSWYjHUpdTg6nT7A46cdzL-Kr8WGbVQK2W9Ar8niiIcqRa_OdwJD0eM2zUFYakmdXuZK0-P6bsdOS-oiVXxbMJ153vSRz3IczM8Mg8GPNTvTOmM9wBthB0_tzV8NGhqvq2tgsZ_Fsjb4WL9e7_2E2b3bpwt4uCOHQkTzr9u0TW2Bnm9vZYJFfClo31Y8PhmHwKQTEOx-oba9zQOJpsLfK3-93blvvMbdnXwFT1o2dYtakYFmp-85qa_v-uzED9h3_A.jpg"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/if2BGjgFbkV5UnXvGzhfHMb2YkaOlZdFfG3bNEm4oAJgfBb39ZYiBYI3UNCSiTZLmpt5Beqg0ZjWn9-tCNfJNWzFfq_d9WV5adgdgeTW2rrio7XGOrSGNlY6E16Fp2s7zcoPjKSv0TXevMAdM1s4fDciJvcDlen3nh7u20HkQ-9J6c3fMYf2o0zX6FZY4n8W0wtP-gRVzwtcP6MxKf-i_t-8_TShLO_SlewSg-If9-6Ygf9a3osyuiiSHQ8PME_dDBwZ4jxtu1JDBCBNil4TdJERX-9nMl-0k4Ol0AAsAgCDmowFVpdhT_uZhVFw3fZ6Fe3_Howm9b7DvPv3aG3GwA"
+          "url": "https://cdn4.telesco.pe/file/tctyZ2i3ITEArPnX7CS6Q7phx9zoLvmlrd1o4T0bRd0nibyPjYV-Qb8qSv3tk8IlBjMSXUGdwTZ-Mb5TguFPWJYc4ry3G4CWv4boIkSMfcVa2BO2vA6v8IpwH6I2i9061cdDRPBU6BmcNYBow3iffy7C_7BitSPAWDFKZ0O7vTzuxoYoTUl1bU0PCdOX-g42jMA3ocz5o8uhNxJnPpG16DREMg8DlBwFHSMO3uAQxsV-HzXXkjtdBDnr1yCPlCkw1vNWG7hXTv9Uor87oSgcf_A1XK2_fmamXwAKor2TDBzoHZbszbbUCI7EFQ5CWKAe6a2mORjSmenY4syqRnBBMg"
         }
       ]
     },
@@ -76,7 +58,7 @@
       "date": "2026-10-08T14:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/X2rElbZmy9yMPmfEn8Og8LjXODONceBhmqTxSGHG5-9rSnceEnp3uYbUOTd72udU_GcfRWVG41M1XM0Fo7SNBRraioTJru_fSuHyqyVWLGRRzh_YxnlG5gp5AnvOoEVg0bDMNNlSqNjYARF2LSaiX47grd4Ip_pxZed6koXn2k0PtwRhVFQVh5n_Y4a7FKmiqis_X3A_eTFvNLvvFGA-FrNYUWymnl_k2fZNDpQHdqf5-mv0Q5g-TopNVxNTTr4j5EqF7Epu2do5FbvDyRn6LW6KziwxusLb70Ao1oQYsA4QT2DGToaGekRb4mrEbwZqfjYJfonoiz6yxHH6E4FxQQ",
+          "url": "https://cdn4.telesco.pe/file/PiIMr9ZluTrfyItLzCF64EFbIpXnJq75TQxuifnRYraBYIk0Z8RA_6WjCnofRPMC8SC6ZQsZKleppZoUPZGvECEz3WZ_LXJEyPoBzKynaBDkUw3vgQtGoVxAPyxJ_hAYLgB11kLR2Ztw8rh9zbkQ5jVkqCfrJABiBa0AZQsi4mlRYNIjyAvzO2lFm6otuekyFneky4dzBvwwAUdDGYnao1FMhYeGWsQCntom9b1FW7-CdC8awmSLZMwVCDT9FtDSk81ffXqxu2CHGgHQOtlOgVec1uLI-YySro1HbpUCF0BnD3-daKDP2qIXUMIn65BEpOV_6O8x0GJUQbwf7M4o4w",
           "width": 1920
         }
       ]
@@ -95,7 +77,7 @@
       "date": "2026-10-08T14:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/bhvgW3TnLn0ICdWaTUOhA1JM4MT5i7z9GxTYVMLeMHgZNBsqNrDylqPFn20UCiXpgs5REs0za6t9aNra7AgU1DQaqF-Yr-meKqcuzGGtZBlbpPv29vwf4x1daAdjLVcksZzloxa1GEsvXNQ724pUudbz4Ff5WK6w8s8MmyV0E2WXS9x26i-MrBhcM2sKEaXF1UwcwXFPXMX1TlUGlxeYwpSK8albb787zK6UZTYp3G2BjMo_eqKtvbBO8fbuYJS11sVNQEJ7w54kspB12_TxUHYQ0ZnXhpJUOXtOzHqSEtXagWsH1B7m1HmZvoXSX1xJ8LqAEeIR3Hqwz1rlMhQ1ag",
+          "url": "https://cdn4.telesco.pe/file/E9xPRPnXMml0Mw5CM8ffBhLMN5zHVSJrswU79jUSkxmeV4oYLSgKHx7oEOW3YPcG9RYGir7M7NgP4F35Etu6Ey1jKR4dtV8LpirMSeHPdUHLpFqPcEQB0Y7dbA1bx5v_mU6PkFDF1IZhB4qslc0de0rkZAkvw0yihYQnau81TX_LKuGLPMK1EYNmpTqauTp2WEt7PRFgBONf058fd7Bczo7we1h7-P1mkCNlFiUBVsB4Vo84taKKTD6tSamSSX_ZZYa8yq-4B7e9HMJEnu7FoXzPyCNCOXw1vzBDXESWub41gS9FbUalrK2iDo-6IUgMDTeeNSHhpTTE-j4BtcJDEA",
           "width": 500
         }
       ]
@@ -114,7 +96,7 @@
       "date": "2026-10-08T14:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6420,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +104,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cLz2xtjegO0-2VCd5ltmFFKj2vcCR12o-R7SkD7-k3SPdyPkT2vebJgV03ScvmbBjMBRQstD0PzbVXYA_oHI0mtIluDtWvWw3UmtUHYmt-kltYN91ikT3S_TY0F1EtRik1AWuRPGHMl84lDOWcI0ABNXbO7TxmIEiRgKqIJ_RMHIQDVUj4NB9rAo3E9oKvUe5x0dSaog0JYStvJqpoBGhYgsvl9s1SKp-eus_9Jx0m8Do6ExYarYyXPbV5DwnXu8q-MyLJKJg0sQnuEeqsnymgvqovcYFEmtbNQT0bqoRH1qBsiWRBXY5r13NmGS3Ad4jRZxRXTyrjXK1yv_UwRRww",
+          "url": "https://cdn4.telesco.pe/file/S_pizBVFUCc8fPwfRNf5FfrzD8w79zZyRVPcckOPRGTGNYun8ZIlJ6r5-qv-uh5a2MfoLuOrEZciH36--kMCw0Iz6ozW6Qm6PLXkOQON5RSRPvXF_YcQC3TLllnkEGjZIfRcQzjY1jNszkl250hBsOwFwY1olghX7YuednYlbqMRlkmQs0qp2UIeQynEUO9-9K9TC_dL26Lftwxjx_3yckJf1RBsE0foprO1DsT229n3nd8XdEXquTlMizB2eOYZy6yU_lqD7UaJxpSQBhBsq4OAnUOd6_cBozZibug-6f_R7aq_5sCyeFYbCiOu4Cb7t4IB0BJd9oXhkN1VTbGw2w",
           "width": 1280
         }
       ]
@@ -133,7 +115,7 @@
       "date": "2026-10-08T15:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 7030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +123,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/abdWLaLEhbH_qcr9lPt3dZJvguRuVfojrofJSeXLTMTzhpNlyFrNyfluLZcKr86HO7LgrbW9FJmqfFvOCiOJUECdnuPotkFIT9k-L_0BwjQFvx9eZfMslbhbT12UlHTH2FN71VANBv4yPW3btQDpe4YXpV9AheBn0-ufvz264W_Gh3LnKZg1O0MbJxfr1aOZw_eirwGbi0sR_ig9fOUYgryANB5dDV6BKb4lVL2lcd4sAmkxwGQKSliC8FC0D0HpudSl8GbiwZMsAX8xPVHQ6vH8Gfjpc2kowSDy2qrm5InFEKMj9V7LcA2tiMWFHDrVPgnuD2vJxU30G5gPKb28tw.jpg"
+          "url": "https://cdn4.telesco.pe/file/prob6vDWYbpCU3QouyYKZzowI3-bQ3vacEo5rtftoylzO0oScvUoVPnMl_CVB0fSeY5ZDvXUGEaKnblmJALPt2ULYMBlB29nGUakfwXxpMPaR5jCIGo8Kgb8FCXkjbF7LbC2RAt0Swt82IsHNpN2SVapmOdH_xMPDq7PYGLI9ArpteyGANTI1hx1Y3_SAd5hnWeYwPkwQiC4oy_6G4x9ocAVWPe6C4nSg_cABKFwCm1RZB86d54-w02t_2uJE1K9HQym37ew0rvTnmyxG7ipn6tSy5fWTtlg4jWxpGw7-9mhBy3T7Ra8z_glqA6E3p3XVQp-lJFEh1Heq9uchvU4wQ.jpg"
         }
       ]
     },
@@ -151,7 +133,7 @@
       "date": "2026-10-08T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +151,7 @@
       "date": "2026-10-08T17:05:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5750,
+      "views": 6280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +163,7 @@
       "date": "2026-10-08T17:24:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5780,
+      "views": 6310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-10-08T17:33:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5760,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "date": "2026-10-08T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6110,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "date": "2026-10-08T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +237,7 @@
       "date": "2026-10-08T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6430,
+      "views": 7360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +249,7 @@
       "date": "2026-10-08T19:11:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +268,7 @@
       "date": "2026-10-08T22:47:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
+      "views": 7070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +286,7 @@
       "date": "2026-10-09T00:12:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4460,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,12 +305,24 @@
       "date": "2026-10-09T07:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1610,
+      "views": 5570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
+    },
+    {
+      "id": 0,
+      "message": "چت جی پی تی از میخوای برات pdf و جدول درست کنم رسیده به مرحله کاغذ بازی بروکراتیک هر سوالی ازش میپرسی فرم میده باید پرش کنی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
+      "date": "2026-10-09T13:04:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1791533384
+  "last_updated": 1791559449
 }
