@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ریپوی raylib از 35 هزار ستاره گذشت\u003cbr/\u003eاگه دنبال یه راه ساده برای ساخت بازی با کد هستی این بدردتون می‌خوره یه کتابخونه‌ی سبک و متن‌بازه که با C نوشته شده و ابزارهای لازم برای ساخت بازی‌ها و برنامه‌های گرافیکی 2D و 3D رو در اختیارت میذاره.\u003cbr/\u003e\u003cbr/\u003eبا raylib می‌تونی Window بسازی، ورودی کیبورد و موس بگیری، Texture و Sprite لود کنی، صدا پخش کنی، متن و Shape بکشی، Camera و مدل 3D داشته باشی و حتی با Shaderها کار کنی؛ بدون اینکه مجبور باشی وارد پیچیدگی یه Game Engine بزرگ بشی.\u003cbr/\u003e\u003cbr/\u003eیکی از جذاب‌ترین بخش‌هاش سادگی API و مثال‌های زیادشه. به‌جای اینکه با صدها پنجره و تنظیمات یه Editor درگیر بشی، کد می‌نویسی و دقیقاً می‌بینی چه اتفاقی داره میفته. برای یادگیری Game Programming و فهمیدن اینکه پشت صحنه‌ی بازی‌ها چه خبره، واقعاً گزینه‌ی خوبیه.\u003cbr/\u003e\u003cbr/\u003eاگه Unity و Unreal برات زیادی سنگینن یا می‌خوای قبل از استفاده از Engine ها، خودت منطق ساخت یه بازی رو بفهمی، raylib یه نقطه‌ی شروع خیلی خوبه. کوچیکه، سریع یاد گرفته میشه و دستت رو برای ساختن چیزهای مختلف باز میذاره:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/raysan5/raylib\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/raysan5/raylib\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-08T17:24:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Linuxor ?",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/r_j_LjKGRaNzUvEX2WwTrgHZ3kq9s94kSp1ezAO85lOAn0JPWjMBPrDKxxB4zsLezpU91aHUwlLWIc89PO4t5rGk78054u7Kc85euJeeENrIjMBbptw1gPTAv8vpWbsS4OzHCA7OOgBQsdQBXZspZOsil4Q0GBf7HrHcafkmMFZVr0rXTJgoHTC_Cx6-hIRSUNvttc07fK7U0fwCwQKBQv-7ekJmM1q5J9kAGCG6t-m_Pp_K34dSisPHlOc3hOwDPuIh5MoaNQuq0tLbcDLlUzRJD89_Q7U1ziGUh6BHmoIB9kEybxGyj5WW_18MTRQrvlniPd917fNiOTvYxgrnxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "یه نفر یه گالری از موشن‌گرافیک‌هایی که با Claude Opus 5.5 ساخته شدن درست کرده؛ هر کدومشون هم در کنار پرامپت یا اسکیلی که باعث ساخته‌شدنش شده نمایش داده میشه.\u003cbr/\u003e\u003cbr/\u003eتا الان 226 تا اثر جمع شده؛ همه‌شون از پست‌های همین‌جا جمع‌آوری شدن و اسم سازنده‌هاشون هم ذکر شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://prompt-motion.com/\" target=\"_blank\" rel=\"noopener\"\u003eprompt-motion.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-08T17:33:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WHGBq0xZbOBw2Oo3jwyx4k5m6Xfnek8DxP-1U6MlYocMh4hxZ_K55qi4PQwNYSE05IV6AMg_NAm0aCx62C-4ka_2nayompURCV3WR1-4ek6Y8zJ4ABCQi-7Jd2uih4qyB3PVmaiVvTblRiWJKkIRrIYGHj5THnJsdkIDfJVcF4Mya3G8kN2jEiX-vqscU5cqkAmzQUpJWh4PRa-3jboNXasUvDe4HiJiFY8No1LDMUVJRYu-9wVm2C7AFSYoO2HXR2mveuLgL6U9_r_tI59w-Myj2oJ0K_e-OBOyIrtjZHwbSSoxC6u55ja3hE0hbi5NCtAkL5r9WmmxUDjyNoYBng",
+          "url": "https://cdn4.telesco.pe/file/qvjbueh6wq7wfazo1x-Gr3CTI_BoO2jIE5MJ77owCIv6P7-Sr9XJ_M-xoy4Ksd8N8wMWAffTrCtCKdS8pzFjXXh6IAyxFW7HyGO_8NEl97bJ4Pqd5oPcZWWtOWf9CJSIK4PySJzHCO1VhVGzNOZRHOJVLyThP82MxXVZnOAzZOiPvC75Xr8TubfCcM8eMGAxiFn4NxKJhDHVRMI3gaXqVHVcbIEFVZPgh6MJDo7KguEgI89Vx6UPt_1Q-mVQKsVeYiNJz4P8EXkkj7qROKAo1vciFkcspcZkVT3K2GG-33pFN9hk3mNWegQrzBC4xza5AoYmDKVj-00-oV2nO6G7-w",
           "width": 2560
         }
       ]
@@ -49,7 +31,7 @@
       "date": "2026-10-08T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7680,
+      "views": 7790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-10-08T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8420,
+      "views": 8530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-10-08T18:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8230,
+      "views": 8330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "date": "2026-10-08T19:11:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8680,
+      "views": 8820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +99,7 @@
       "date": "2026-10-08T22:47:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8600,
+      "views": 8870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +117,7 @@
       "date": "2026-10-09T00:12:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8980,
+      "views": 9270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +136,7 @@
       "date": "2026-10-09T07:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 8080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +148,7 @@
       "date": "2026-10-09T13:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +160,7 @@
       "date": "2026-10-09T16:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +168,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ix4LBLcH3iVzz1suac0PjmK8C3n9G7IM3Ygt_pXz_L-zUfTLUiUcI8IWEOYED_B37nhJZzG9kQg488N1YYMts2J2M327OhIH8xAyeQTnADiOvVsjDUWnVmh3MBDyv7ny9ih4kVkZ17I2RRkxo3nl3p1_113XtbTNGjzoI-W5psYI89Ig6D05Fz_LzyZaQ00ddcg-oue0RvSSHwH_-S0oQ-6l2ZjxYVDFI78lY7x4DbCiNBUHHlzOUICr4aybNkPOclIbLAKCychOvFdi75nwTNf2ra3tTeFiiy2bEuBpXINhdFNC-9f3bmMOGQTeYVD_o9PkdwQbkW-mLwfjeCfs0Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/Nbv-g2fSibaiJi2EvB6KUamAaSlG2Wff9a8RuW19B8Oki9eONe6ZMbuNuxpyeLKj35-5DDRjfMZqbkbWTHNXzVoqZ024fLtxaCzVi457kv5b4f2ZPQOtzFOa-VNyzDTKRe1nLouWYQNvweFsKO3jzE8pQupA_kuE6aYD3Fo8enbOJR4hSbxzRd1zQX_oYDphbg94zjdicIIjIRktuEbiqf9bMz71ebY8LgL5cN1MlU1eTSkKe_Xuh1YrL0qpHDohgLvPeNh480C_cRAiONv8S3nToaYKnlDXMQCU78EjOv84Eavb_ZUR4me05tE5zfsCF2SZkxKq2EKBJu110wtO7w.jpg"
         }
       ]
     },
@@ -196,7 +178,7 @@
       "date": "2026-10-09T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 6480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/igRXTAOBbJG3gmPyyVX-TByXP5r-vbcujN0p0FEMC5CDsNQA0vf_729U6whTIlGsLJmUwR7Ed2KBkWdLQHaEAYd4nEIZMUiEDxCUyGui1bSL_-7jul-OKk_VsLd_a4qgmf9h_h8id-Sj41IZ9kulrqV7xy94XZCX-4mDyKT4Ztfza4kKx8PH238ghUG3ici-3UTUXNGissjTTvJW8mgSVo-yjKFL-hxF4OUjzq2aD1aNMkMel9muMfQdLu-0rUra7WSMPLV-zCQZyY1SkulL8aDUmOMZqJ38KJM093VSv3jDJS5Eoj9LITJzwqc0nSwacShfI7RVCzN-qYxNRefafA.jpg"
+          "url": "https://cdn4.telesco.pe/file/rL5DmM4sFU183batS-pus6ftw6KOM2g2IVQlOBxn93MJfNx4cBsoi7NmwVDpqgLXzZkPbSj2xIg5ne6sWLgCImkr-u-kXFaTWmAWrQ7S8-vlQHIh0qahF3UN0nhpcYlv6xjZkZg204BJHxNre_9Kk_cTWq0WVmhppRp95bFNlGoVvSwHi-iHx36fu6W98vUGErVM3gGZh_C-wImjUwmd4eTaTUqr7WTrglOqaY_SxynSBDS0HAxkowrDfUAGUuFZIxxFMxQxf2Rgo2mBXow9Av_swY9G3CVZrU7IRvIBLkGyWRVAaqFpNrV8HBCeuPydyzytH8_IupDzbM6472dIwQ.jpg"
         }
       ]
     },
@@ -214,7 +196,7 @@
       "date": "2026-10-09T16:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +204,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ILv1Y7dvpznWuhOevRGMDpUJFKFBtyta5Mc0oPPU7E2tzyGtl-O9gM0GDSpSTzeDR-QzEcm8IlCpypp6C1J0XYQ5OievsQE9lebSctMJAyRog49vL__ixLV7z1SgnzSemNNo2TK2IMapQCupvGaglywO0RR9eDtKU5u4aWIWKQrLU9WBO4CnbaCYkqIORWY62cYrwZUaCFT7AxV4zLZlGBJ5Tg48l5l3-ksdz3PiF4fyHEbXlU67zlw53-y40N2HwB2ya_Ersnk7hetYZK06PRppWZYmmTroKwt8SWDLeTqwGpwQAKLvOIEtMyY9AYSW9NOlLas6UB_qMrQkufYndg",
+          "url": "https://cdn4.telesco.pe/file/K8X-G8g3zhvhsUfHeYwsIHNlecXTY2dgRBhxYOAhZOe1hmeA6ZmpG4WysEFeHVgVKyuSpRuCNsZ_rSOQ44AlKO8_n6XTYxjvJheACTQ8zilIvVV62UE2r9oqZ_erR8cE7-bLUO3c2Trkr5W1zNTRT07e07Ydh0SbxCYu1plro6ZCmrzmjzuIdiYnnZwW56lh34s1s2vISbDdIk9tTlQuBs2S9_7m5ZDJ8AG0gqAN6HDoCpfh4lZ-6ns9WBWDi40IESOotRkFtTJbtPdyMxtOcJl41H09MwDy5UaZuUUCS69dsbjn0WedM4cV727he7xX-77lAuyQP60OWAxx630QsQ",
           "width": 1920
         }
       ]
@@ -233,7 +215,7 @@
       "date": "2026-10-09T17:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +223,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sTI8UKFRxpYO8vlsOs0CldBNmASNp4EiP-slMuMF3FIgh1RwwzvQ9FRFh6rBwfd5e9_ZLkHHT6CRCpqzuxnAV6rrHiWwtCmiGZ4dafT4qH2rnYC8mWv_SThZ1niiZJGT6X5GaCzYf861yNYEuGmjkVc1RAfmW8GPH_4Q1rE8tXciqzxElMY8_YGi4wnt4M7HR8Jn_wi9gnnGDOtsoueYxOYGwLLsvoJDdvtJ0YlMKKWHQEJC-05A9yVvmwvO2xSvONeWO7m5huJOD9pyppEYnZnpNFV3aRfQxfmkoPdr4cdHSrOMmsNzFevlZnp3pyGyxq1znHh29QlNf35LmGQB8w",
+          "url": "https://cdn4.telesco.pe/file/vQvMy_l4aRcmUcdW2NiPd_48oMD17Mi-Azsu1Zic04kJ5QHViBBFMNqh1_8qiok6SbyfOsB_ryy3AR1IyOGbIkLPMFatBS4Vzdr3kVOG1ZVSnH0aTcCR0iJ551xAr-swN4eID4pjhF7NDND7g0AWV6qNYuRWYlPtqZQx5EPkJb9zgVGgsFmyXFY9yu7iWnrFFEFYqoXeqNd0m5kK4cNNuSLoNfNoL2oUSmrm7eARjm8ROVEAx0sWb_JeIcVYF1DCCSPO0oXS3dNdt57QV6g8Qest-DF8fgVa9-JyRAb4Oo6ATKoQBav4ytAJh257aVrSFsBFepwHR1toTA8gWFRyUw",
           "width": 2160
         }
       ]
@@ -252,7 +234,7 @@
       "date": "2026-10-09T18:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-10-09T18:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +271,7 @@
       "date": "2026-10-09T18:59:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +289,7 @@
       "date": "2026-10-09T19:14:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 7840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +308,7 @@
       "date": "2026-10-09T20:43:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6890,
+      "views": 7970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +326,7 @@
       "date": "2026-10-10T12:39:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 813,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +337,19 @@
           "url": "https://cdn4.telesco.pe/file/X1dad7gLq17D-p13Qs31Jl8caObcxbBuL50XLXjg269LJsK5jD_nyyzMSmsKf-KwyeEDbP7bwh0SgikY_683Er5CVI5jQT4CBi3qakHnHBdE71z_q1LaZcMlhxzkPxdmq9eATsyBFIL7kDnKfkrGdsckBnj8jkvi_QscaE3X1GxjFhrv6vgdPw_HAtM6okvqB5-vsvnrCcvj7tz3UIsJHKPxjqu2-n7vY4D2dS4UG0eqo73ZCRFd9spOzu0UTVv6GT3uGy-JwNxfMTEqdoHy3Zpl3EFiWDQFymVUfiOPHehYCcv7dEOR1Y1OHcgYOPdDel9bTXAQm8W5p7KKDULZdg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یکی از بچه های کانال که نابینا هستش و با ابزار های جانبی داره از تلگرام استفاده می‌کنه یه فروشگاه آنلاین داره که هم اکانت هوش مصنوعی می‌فروشه هم وی پی ان و خدمات مجازی و ... اگر نیاز داشتید برید ازش خرید کنید و همچنین ازش حمایت کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/best_shop2222\" target=\"_blank\"\u003e@best_shop2222\u003c/a\u003e",
+      "date": "2026-10-10T13:26:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Linuxor ?"
     }
   ],
-  "last_updated": 1791636425
+  "last_updated": 1791653525
 }
