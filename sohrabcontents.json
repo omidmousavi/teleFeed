@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نگارش آزمایشی پارچ هایپرلند عرضه شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه آزمایشی نیازمند تست و آزمایش افراد بوده و بعد از اطمینان از کارکرد صحیح در رلیزهای آتی از RC در آمده و در سایت قرار می‌گیرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین نسخه توسط تیم پارچ نگهداری می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://mirror.parchlinux.ir/hyprland/Parchlinux-hyprland-latest.iso\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدریافت این نسخه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
-      "date": "2026-10-01T10:47:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VHj691oP6UGleIdQ-RT0-NEe2FAQY_S-DwndfCKCrZXNjb1rcgv3iLriTcLMGcMp8o-ZbutEL1czVELcnHmNs3Tz92m6hykaLfO_IGeBqZUyO9p2Uq_rDvIiMZUL8XfB4ekrmrRINy5kMwK1F2D7ow4zVvDVdAKJY-XYW3rbA4zZ2OUKXXadrbdObmgfZVp1uDr6XHTRu6oxmsRaz1tWTzAOeNeEcx1e8PbPs2uhPhN0iAYBzUEnTPpSl_eIG2CT9Wiq5rUIfRdFwLfrArGBeF9dMOE1I8igKtcGVK4QnKrF7spUZpNXbFT2QWe2Gw_-yhd4viZX7YHWRTR9TaMvEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خودم به شخصه با اینکه فن هایپرلند نیستم ولی این نسخه رو دارم تست می‌کنم که بازخورد بدم.\u003cbr/\u003e\u003cbr/\u003eتنها رلیزی از پارچ هستش که خودم هیچ کاری روش انجام ندادم :)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
-      "date": "2026-10-01T11:56:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "sohrab::stdout",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XR5P73VNkI-xGoqiBTXqHTOjKnMcvEsk3UdeMzDxN6DNkoCrUUWba0JKQx6JtrZY4zjOsd6U__llBeKkLyqxQc0yMNjDotK4PD5oMqCOwP67rau6jZA73knivy10XBdnahbF6MSCz3Em2fUmAbbUcEFtqLxpffaQ2qBjPsMYGTjwc3sFlHU_ZMnYQRxJo9YuJCbDCyWiyD4Fdo7B5ClU_4r6BmUnNhooWir8eh0_HdR3x8i7e6_FfXCo-TqjoL8k_026SPwqEdMEh0GM5-zcc_gdNvGcgV6THCWLfq0OALrCKAi6Fw3w1Cp4oqkCgkn0Z-a-oYlUPO05QTlc_jdW8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "امروز اینترنت یه‌جوری بود که سر ۶۲۰ بایت من رو علاف کرده بود، بله ۶۲۰ بایت من در شبکه گم می‌شد :))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eچه کسی پکت من را جابه‌جا کرد؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SohrabContents\" target=\"_blank\"\u003e@SohrabContents\u003c/a\u003e",
       "date": "2026-10-01T16:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-10-02T07:50:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1120,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +42,7 @@
       "date": "2026-10-02T09:30:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +54,7 @@
       "date": "2026-10-02T15:18:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +66,7 @@
       "date": "2026-10-02T16:27:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-10-03T17:47:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-10-04T16:02:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1470,
+      "views": 1480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +126,7 @@
       "date": "2026-10-06T17:20:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +138,7 @@
       "date": "2026-10-08T10:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777,
+      "views": 790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +156,7 @@
       "date": "2026-10-08T14:14:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 742,
+      "views": 759,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +174,7 @@
       "date": "2026-10-08T18:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 939,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +186,7 @@
       "date": "2026-10-09T08:30:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 706,
+      "views": 725,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +204,7 @@
       "date": "2026-10-09T09:01:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 676,
+      "views": 695,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +216,7 @@
       "date": "2026-10-09T09:18:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 704,
+      "views": 723,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +234,7 @@
       "date": "2026-10-09T09:50:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 586,
+      "views": 612,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +252,7 @@
       "date": "2026-10-09T10:56:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 687,
+      "views": 720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +270,7 @@
       "date": "2026-10-10T19:07:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 603,
+      "views": 664,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,10 +278,32 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Me-YYWEaqtndho8I48rvig7KUGM_wMxApq2WAc8qBV_R0k_J7ohcuolbPnzK6wrNRBFQKPSy2OtFtoiJwZ_FiCvhUB5if4phBAZMMIL6__J-IcedFxhZYmRinNyKMYEeiw0NBgcFBHWunLXWQTyGj243UcYLe-drh1KwYs_hEUkhL0ATRT69spyfUQGIV_LpxSt7Sp63va51srG1jaxYj9ioToWYEyUL7IlZC9wNmUUkO95Ra8zcUVbpyi8wsW8GtX_sYgIxIFJMovbGtvuM805ePugf8xOaTe_ym2WzynUuz2ft72Lgu7396fgfpURUk6MNYkB7v15nhYKMUPJ_Pg.jpg"
+          "url": "https://cdn4.telesco.pe/file/dtrJETWfwUMfaHnmtI9pcRHRY5nugS6BAFFFsnIDU6HvAB8pSwW5lqDj2tGxT9yIoQyFVKnYGT-52sOMlo3obvM2MyqhlkLu16Ls_O6NMcmCCl8H-XnqXwmGzbT5Sn2O1Os4hrLTx4g7hY79n12VNyloCui5zbqrwmeZ5l2jU1eBk0QNkq4VIcdK5jP9LhcB3nGLuWsCt_nvO9w_FprXdV-6e0nHWLg-4Mks-w_LJpV4VzlvwO1uCPy3rN6ZZHwDn1DxtG0Pmy3Gkf9eAOmobjRuDq_BzaJj1vMM16w5VFMmHBliog4k9l--WNLqfawoPVwdEvhgR2yTSqazu-4bUw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نگارش ۰.۲ ابزار گیم‌هاب پارچ لینوکس منتشر شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B3.png\u0026#39;)\"\u003e\u003cb\u003e🥳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه بهبودهایی برای دانلود پروتون انجام شده و همچنین پشتیبانی از نصب لانچرهای بیشتر مثل itch و retroarch به آن اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین تغییر این نسخه؛ اضافه شدن امکان سنجش سازگاری یک بازی بواسطه protondb برروی دستگاهتان بدون باز کردن وبگاه protondb هستش :)\u003cbr/\u003e\u003cbr/\u003eما تیم پارچ می‌کوشیم تا پارچ لینوکس را به یک توزیع کارآمد در زمینه‌های مختلف تبدیل کنیم.\u003cbr/\u003e\u003cbr/\u003eبه‌روزرسانی یا نصب با:\u003cbr/\u003e\u003cpre\u003esudo pacman -Sy gamehub\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبا اشتراک‌گذاری پست‌های کانال پارچ با علاقمندان این حوزه، به رشد جامعه و پروژه پارچ کمک کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ParchLinux\" target=\"_blank\"\u003e@ParchLinux\u003c/a\u003e | پارچ لینوکس",
+      "date": "2026-10-11T18:34:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 186,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "sohrab::stdout",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iQGHIK_4n-9JcGfUgDPap1QUQx1f-i1fHP2jqPZPA2D2IKmcJRZh3fvwrnijA71pRHI9MwO1fwHRmypeCua4GhGUTh2A_-VRalO7f708aU6AiTiCIWQyEOJkjyaZZDlB5UFwNiXlcXjsnaNDfkghoKidhUfLEzDRmY6IIMVr0koa0CgflL3P7s6FwFL5tqHDivIC0k__TMqtjq8OIaR8IEf51_qDgx8c-v9R3FfjfcTvTEVWDYH8YLk98izHuvP0cQ9f1zWZBeHcjytHNX-v2wOaWwCfSe87nF1J_PsYB2qz_1BmjHmpgUpYjYkx6RldMT4iFIsjtxtV7vmaji9RFw.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Y0CHHt1Y_SjfYlsroxC1fWg1EnEq1OfmbEkwwpdZV0IHtUIWi_R6s2Idao-S8koapXXzfGr2xwpbeBgsBsWJy3baH8lYrVMz5sok3TpyBF55FWyZPeEgwUemGEnUcfiGuDu67E-9yOKfb5pVibjdR4uNeLxIDFuW6AFnvEypZ7upyKDKK96-TIfGro-kprPkJwky8i6QZOB-CIdessLOs8HtDiV5tpejYBvA6vz-X5TbkmDw0BIfMeuaZs2tXbT0Scs67Nql1l-YabC7MHMJqJ0uH4zlS44Y4qKEeTo5Hr4iLVa12iUvNzjReyJkNEdjz1qwFZvZZLa3neNrUN_Ixw"
         }
       ]
     }
   ],
-  "last_updated": 1791735822
+  "last_updated": 1791750431
 }
